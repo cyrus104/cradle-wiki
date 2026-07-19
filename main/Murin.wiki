@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Murin
-| appears_in = The Traveler's Gate Trilogy
-| abilities = sense thoughts, manipulate thoughts
-| affiliations = Avernus
-| introduced = City of Light
+| abilities = {{spoiler|book=tg-03-city-of-light|sense and possibly manipulate thoughts}}
+| affiliations = {{spoiler|book=tg-03-city-of-light|[[Avernus]], [[The Territory|the Territory]]}}
+| appears_in = Traveler's Gate
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
 == Overview ==

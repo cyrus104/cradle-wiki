@@ -1,9 +1,12 @@
 {{Infobox character
 | name = Elderspawn
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| abilities = command others, imitate human voices
-| affiliations = Children of Nakothi
-| introduced = Of Sea and Shadow
+| species = Elderspawn
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|command others}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, imitate human voices}}
+| titles = {{spoiler|book=ee-sea-03-of-kings-and-killers|servants of Elders}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Children of Nakothi]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, Sleepless cabal, servants of Elders}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|guides}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, messengers}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, servants}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Elderspawn Timeline]]''

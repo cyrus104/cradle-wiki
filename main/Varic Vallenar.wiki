@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Varic Vallenar
-| introduced = The Captain
-| name = Varic Vallenar
-| aliases = Captain Varic, Professor Varic Vallenar, Captain Varic Vallenar, Varic, Archmage Varic Vallenar, Captain Vallenar
+| aliases = Captain Varic, Professor Varic Vallenar, Captain Varic Vallenar, Varic, Archmage Varic Vallenar, Captain Vallenar, Professor Vallenar
+| parents = {{spoiler|book=lh-01-the-captain|[[Benri Vallenar]]}}
+| abilities = {{spoiler|book=lh-01-the-captain|[[telekinesis]], levitation, water magic, [[Absolute Burial]], [[elementalist]], binding magic expert, summoned rabbits}}{{spoiler|book=lh-02-the-engineer|, sealing magic signatures, Archmage of the Cosmic Path, [[Aether manipulation]]}}
+| titles = {{spoiler|book=lh-01-the-captain|[[Archmage]], Captain, [[Professor]], [[Sixfold Archmage]]}}{{spoiler|book=lh-02-the-engineer|, [[Spellbinder]]}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[Vallenar Corporation]], [[The Last Horizon]], [[Magic Tower]]}}
+| professions = {{spoiler|book=lh-01-the-captain|[[Professor]], prize fighter, instructor, captain, [[wizard]]}}
 | appears_in = The Last Horizon
-| titles = Archmage, Professor, Captain of The Last Horizon, Sixfold Archmage, Archmage of the Cosmic Path, Spellbinder
-| abilities = telekinesis, levitation, water magic, Absolute Burial, elementalist, binding magic expert, summoned rabbits, sealing magic signatures, Aether manipulation, incantations to toss golden magic circles
-| affiliations = Vallenar Corporation, Magic Tower, The Last Horizon
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Varic Vallenar Timeline]]''

@@ -1,9 +1,11 @@
 {{Infobox character
 | name = Elysian Traveler
 | aliases = Elysian Travelers
-| appears_in = The Traveler's Gate Trilogy
-| titles = Elysian Traveler
-| introduced = House of Blades
+| abilities = {{spoiler|book=tg-01-house-of-blades|open a Gate}}
+| titles = {{spoiler|book=tg-01-house-of-blades|[[Elysian Traveler]]}}
+| professions = {{spoiler|book=tg-03-city-of-light|supervise all other Territories}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Elysian Traveler Timeline]]''

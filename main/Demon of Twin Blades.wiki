@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Demon of Twin Blades
+| species = Remnant
+| abilities = {{spoiler|book=cradle-08-wintersteel|[[Ruler technique]]}}
+| titles = {{spoiler|book=cradle-08-wintersteel|[[Demon of Twin Blades]], [[Remnant]], [[Truegold]], [[Underlord]]}}
 | appears_in = Cradle
-| titles = Demon of Twin Blades, Truegold, Underlord
-| abilities = Path combining sword, blood, and destruction madra, Ruler technique to drain nearby aura
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Overview ==

@@ -1,12 +1,11 @@
 {{Infobox character
 | name = Trainer Mura
-| introduced = Threshold: Stories from Cradle
-| name = Trainer Mura
 | aliases = Mura
+| abilities = {{spoiler|book=cradle-13-threshold|[[Presence]], copies}}
+| titles = {{spoiler|book=cradle-13-threshold|Trainer}}
+| professions = {{spoiler|book=cradle-13-threshold|trainer}}
 | appears_in = Cradle
-| titles = Trainer
-| abilities = Presence
-| introduced = Threshold: Stories from Cradle
+| introduced = [[Threshold: Stories from Cradle (novel)|Threshold: Stories from Cradle]]
 }}
 
 == Overview ==

@@ -1,10 +1,13 @@
 {{Infobox character
 | name = Meia
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Consultant, Gardener-in-training, Gardener, Kameira, Champion
-| abilities = alchemical glue, shears, alchemically strengthened hands, rend steel with her teeth, blue scales that aid in healing wounds, short claws, alchemically reinforced body, harden her fingernails into claws, Deepstrider's healing ability, restructuring her nails and bones via a Shadeshifter formula
-| affiliations = Consultants, Guild of Alchemists
-| introduced = Of Sea and Shadow
+| parents = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Shera]], [[Yala the High Mason|Yala]]}}
+| abilities = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[alchemical glue]], [[shears]], alchemically strengthened hands, rend steel with her teeth, blue scales that aid in healing wounds, short claws, harden her fingernails into claws, Deepstrider's healing ability, restructuring her nails and bones via a Shadeshifter formula}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Consultant]]}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, [[Gardener]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[Blackwatch Guild Head|Guild Head]]}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Alchemist's Guild|Guild of Alchemists]]}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, Shera's team}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Consultant]]}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, [[Gardener]], alchemist}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, interrogator}}
+| birthplace = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Gray Island]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Meia Timeline]]''

@@ -1,12 +1,11 @@
 {{Infobox character
 | name = Wei Shi Jaran
-| introduced = Unsouled
-| name = Wei Shi Jaran
 | aliases = Shi Jaran, Jaran
+| children = {{spoiler|book=cradle-01-unsouled|[[Lindon]]}}{{spoiler|book=cradle-12-waybound|, [[Kelsa]]}}
+| affiliations = {{spoiler|book=cradle-01-unsouled|[[Shi family]]}}
+| residence = {{spoiler|book=cradle-11-dreadgod|[[Serpent's Grave|Serpent’s Grave]]}}
 | appears_in = Cradle
-| abilities = sacred artist
-| affiliations = Shi family, Lindon's family
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Wei Shi Jaran Timeline]]''

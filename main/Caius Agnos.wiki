@@ -1,11 +1,12 @@
 {{Infobox character
 | name = Caius Agnos
-| introduced = City of Light
-| name = Caius Agnos
 | aliases = Caius
-| appears_in = The Traveler's Gate Trilogy
-| titles = Damascan trader, blacksmith
-| introduced = City of Light
+| spouse = {{spoiler|book=tg-03-city-of-light|[[Olissa Agnos]]}}
+| parents = {{spoiler|book=tg-01-house-of-blades|[[Lycus]]}}{{spoiler|book=tg-02-crimson-vault|, [[Andra Agnos|Andra]]}}
+| children = {{spoiler|book=tg-01-house-of-blades|[[Lycus]]}}{{spoiler|book=tg-02-crimson-vault|, [[Andra Agnos|Andra]]}}
+| professions = {{spoiler|book=tg-02-crimson-vault|trader}}{{spoiler|book=tg-03-city-of-light|, blacksmith}}
+| appears_in = Traveler's Gate
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
 ''See also: [[Caius Agnos Timeline]]''

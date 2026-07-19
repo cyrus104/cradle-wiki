@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Tiberian Arelius
-| introduced = Uncrowned
-| name = Tiberian Arelius
 | aliases = Ozmanthus Tiberian Mereithan Arelius, Tiberian, Monarch Tiberian Arelius
+| abilities = {{spoiler|book=cradle-08-wintersteel|spiritual attacks, [[Pure Storm Baptism]]}}{{spoiler|book=cradle-12-waybound|, large thunderbolt attack}}{{spoiler|book=cradle-13-threshold|, bloodline ability, [[Enforcer technique]]}}
+| titles = {{spoiler|book=cradle-07-uncrowned|Monarch of House Arelius}}{{spoiler|book=cradle-08-wintersteel|, [[Storm King]], Patriarch of House Arelius}}{{spoiler|book=cradle-10-reaper|, leader of the Arelius clan}}{{spoiler|book=cradle-13-threshold|, [[Underlord]], prince of House Arelius}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Arelius family|House Arelius]]}}{{spoiler|book=cradle-10-reaper|, [[Arelius family|Arelius clan]]}}
+| professions = {{spoiler|book=cradle-09-bloodline|creator}}{{spoiler|book=cradle-13-threshold|, spearman}}
+| residence = {{spoiler|book=cradle-08-wintersteel|palace}}
 | appears_in = Cradle
-| titles = Monarch of House Arelius, Storm King, Patriarch of House Arelius, leader of the Arelius clan, Underlord, prince of House Arelius
-| abilities = spiritual attacks, Pure Storm Baptism, large thunderbolt attack, spearman, bloodline ability
-| affiliations = House Arelius, Arelius clan
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[Tiberian Arelius Timeline]]''

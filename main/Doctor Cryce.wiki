@@ -1,9 +1,11 @@
 {{Infobox character
 | name = Doctor Cryce
+| abilities = {{spoiler|book=lh-03-the-knight|Technician gifts}}
+| titles = {{spoiler|book=lh-03-the-knight|[[Aether Technician|master Aether Technician]]}}
+| professions = {{spoiler|book=lh-03-the-knight|doctor, medical professional, [[Aether Technician]]}}
+| residence = {{spoiler|book=lh-03-the-knight|[[Titan Force headquarters]]}}
 | appears_in = The Last Horizon
-| titles = Doctor, master Aether Technician, medical professional
-| abilities = Technician gifts
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 ''See also: [[Doctor Cryce Timeline]]''

@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Akura Douji
 | aliases = Douji
+| abilities = {{spoiler|book=cradle-08-wintersteel|lightning artist, purple lightning spirit}}
+| affiliations = {{spoiler|book=cradle-09-bloodline|[[Akura clan]]}}
 | appears_in = Cradle
-| abilities = lightning artist
-| affiliations = Akura clan
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Overview ==

@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Grandmaster Lirial
-| appears_in = The Traveler's Gate Trilogy
-| titles = Grandmaster
-| affiliations = Lirial Travelers
-| introduced = The Crimson Vault
+| titles = {{spoiler|book=tg-02-crimson-vault|Grandmaster}}
+| affiliations = {{spoiler|book=tg-02-crimson-vault|[[Lirial Travelers]]}}
+| professions = {{spoiler|book=tg-02-crimson-vault|leader}}
+| appears_in = Traveler's Gate
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 == Overview ==

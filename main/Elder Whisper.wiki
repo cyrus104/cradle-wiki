@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Elder Whisper
+| abilities = {{spoiler|book=cradle-01-unsouled|[[Path of the White Fox]], harvests light and dreams into his core, sense for fate}}{{spoiler|book=cradle-09-bloodline|, cloak of invisibility}}
+| titles = {{spoiler|book=cradle-01-unsouled|Elder, original master}}
+| affiliations = {{spoiler|book=cradle-01-unsouled|[[Wei clan]]}}
+| residence = {{spoiler|book=cradle-01-unsouled|[[Sacred Valley]], tower}}
 | appears_in = Cradle
-| titles = Elder, original master
-| abilities = Path of the White Fox, cloak of invisibility
-| affiliations = Wei clan
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Elder Whisper Timeline]]''

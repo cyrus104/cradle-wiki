@@ -1,12 +1,11 @@
 {{Infobox character
 | name = Lutoch Terelle
-| introduced = The Engineer
-| name = Lutoch Terelle
 | aliases = Lutoch
+| titles = {{spoiler|book=lh-02-the-engineer|Chief Predictive Data Analyst, [[Oracle of Solstice]]}}{{spoiler|book=lh-04-the-pilot|, [[Oracle of Solstice|Oracle of the Solstice]]}}
+| affiliations = {{spoiler|book=lh-02-the-engineer|[[Galactic Union]]}}{{spoiler|book=lh-04-the-pilot|, [[Union Intelligence]]}}
+| professions = {{spoiler|book=lh-02-the-engineer|Chief Predictive Data Analyst}}
 | appears_in = The Last Horizon
-| titles = Chief Predictive Data Analyst, Oracle of Solstice, Oracle of the Solstice
-| affiliations = Galactic Union, Union Intelligence
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 == Overview ==

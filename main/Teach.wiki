@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Teach
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Guild Head of the Imperial Guard, General
-| abilities = enhancements, shoulder-tackle
-| affiliations = Imperial Guard
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|enhancements}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, shoulder-tackle}}
+| titles = {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Guild Head of the Imperial Guard, General}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Imperial Guard]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|guard}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, General}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Teach Timeline]]''

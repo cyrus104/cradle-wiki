@@ -1,10 +1,12 @@
 {{Infobox character
 | name = Visiri
+| species = Alien
+| abilities = {{spoiler|book=lh-01-the-captain|energy pools, empowerment, concussive bolts, hovering, flying}}{{spoiler|book=lh-04-the-pilot|, red auras, levitation}}
+| affiliations = {{spoiler|book=lh-03-the-knight|[[Karoshan Alliance]]}}
+| professions = {{spoiler|book=lh-01-the-captain|explorer, pistol duelist, warriors}}{{spoiler|book=lh-03-the-knight|, [[Combat Artist|Combat Artists]]}}
+| residence = {{spoiler|book=lh-03-the-knight|[[Visirian capital]]}}
 | appears_in = The Last Horizon
-| titles = explorer, pistol duelist, warrior, Combat Artists
-| abilities = energy pools, empowerment, concussive bolts, hovering, flying, red auras, levitation
-| affiliations = Karoshan Alliance
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Visiri Timeline]]''

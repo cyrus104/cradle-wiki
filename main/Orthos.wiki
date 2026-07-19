@@ -1,10 +1,14 @@
 {{Infobox character
 | name = Orthos
+| species = Sacred beast
+| abilities = {{spoiler|book=cradle-03-blackflame|[[Blackflame madra]], [[Burning Cloak]], Enforced paw, [[Ruler technique|ruler technique]]}}{{spoiler|book=cradle-05-ghostwater|, [[Dragon's breath|dragon's breath]], [[Path of Black Flame]]}}{{spoiler|book=cradle-09-bloodline|, [[Soulfire|soulfire]]}}{{spoiler|book=cradle-12-waybound|, [[Blackflame claws]]}}
+| titles = {{spoiler|book=cradle-03-blackflame|[[Underlord]], [[Lord]]}}{{spoiler|book=cradle-04-skysworn|, guardian of the Arelius family}}{{spoiler|book=cradle-11-dreadgod|, [[Archlord]], Overlord, [[Herald]]}}
+| affiliations = {{spoiler|book=cradle-03-blackflame|[[Arelius family]], [[Blackflame family]]}}{{spoiler|book=cradle-07-uncrowned|, [[Blackflame Empire]]}}{{spoiler|book=cradle-09-bloodline|, [[Fallen Leaf School]]}}
+| professions = {{spoiler|book=cradle-03-blackflame|liaison}}
+| birthplace = {{spoiler|book=cradle-11-dreadgod|[[Serpent's Grave|Serpent’s Grave]]}}
+| residence = {{spoiler|book=cradle-09-bloodline|[[Sacred Valley]], [[Fallen Leaf School]]}}{{spoiler|book=cradle-10-reaper|, [[Dawn Sky Palace]]}}
 | appears_in = Cradle
-| titles = sacred beast, Blackflame, guardian of the Arelius family, dragon-turtle, contracted partner
-| abilities = Blackflame madra, Burning Cloak, Enforced paw, ruler technique, breathe fire
-| affiliations = Arelius family, Blackflame family
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[Orthos Timeline]]''

@@ -1,11 +1,13 @@
 {{Infobox character
 | name = Naru Saeya
 | aliases = Saeya
+| siblings = {{spoiler|book=cradle-04-skysworn|[[Eithan]]}}
+| abilities = {{spoiler|book=cradle-05-ghostwater|[[Path of Grasping Sky]], [[Wind aura|wind aura]]}}{{spoiler|book=cradle-06-underlord|, [[Grasping Sky madra]]}}{{spoiler|book=cradle-08-wintersteel|, [[Ruler techniques]]}}
+| titles = {{spoiler|book=cradle-04-skysworn|Emperor's little sister, [[Underlord]]}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|Blackflame Empire team}}{{spoiler|book=cradle-08-wintersteel|, group with Lindon}}{{spoiler|book=cradle-10-reaper|, [[Naru clan]]}}
+| professions = {{spoiler|book=cradle-04-skysworn|[[Underlord]]}}
 | appears_in = Cradle
-| titles = Emperor's little sister, youngest Underlord in the Empire
-| abilities = Path of Grasping Sky, wind aura, Grasping Sky madra, Iron body, Ruler techniques
-| affiliations = Blackflame Empire team, Naru clan, group with Lindon
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Naru Saeya Timeline]]''

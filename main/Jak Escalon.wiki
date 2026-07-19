@@ -1,12 +1,12 @@
 {{Infobox character
 | name = Jak Escalon
-| introduced = The Engineer
-| name = Jak Escalon
 | aliases = Jak
+| parents = {{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]]}}
+| titles = {{spoiler|book=lh-01-the-captain|President of the Escalon Company, president of the Escalon Company}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[Escalon Company]]}}
+| professions = {{spoiler|book=lh-01-the-captain|arms dealer}}{{spoiler|book=lh-04-the-pilot|, president of a galactic corporation}}
 | appears_in = The Last Horizon
-| titles = acting president of the Escalon Company, President of the Escalon Company, president of a galactic corporation
-| affiliations = Escalon Company
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 ''See also: [[Jak Escalon Timeline]]''

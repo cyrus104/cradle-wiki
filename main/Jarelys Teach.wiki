@@ -1,11 +1,12 @@
 {{Infobox character
 | name = Jarelys Teach
 | aliases = Jarelys
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = General, Guild Head of the Imperial Guard, Head of the Imperial Guard
-| abilities = fly on a bird, wields the blade Tyrfang, Kameira graft
-| affiliations = Imperial Guard, Magister's Guild
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|fly on a bird}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, Kameira graft}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|General, Guild Head of the Imperial Guard, Head of the Imperial Guard}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Imperial Guard]]}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, [[Guild of Magisters|Magister's Guild]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|General}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Jarelys Teach Timeline]]''

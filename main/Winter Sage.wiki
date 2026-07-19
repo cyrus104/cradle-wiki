@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Winter Sage
+| abilities = {{spoiler|book=cradle-08-wintersteel|sword skill}}{{spoiler|book=cradle-12-waybound|, precisely timed attacks}}
+| titles = {{spoiler|book=cradle-05-ghostwater|[[Sage]]}}{{spoiler|book=cradle-07-uncrowned|, [[Frozen Blade|Sage of the Frozen Blade]]}}
+| professions = {{spoiler|book=cradle-11-dreadgod|teacher, combatant}}
 | appears_in = Cradle
-| titles = Sage of the Frozen Blade, Sage, teacher
-| abilities = raw strength, sword skill, precisely timed attacks
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 ''See also: [[Winter Sage Timeline]]''

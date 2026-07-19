@@ -1,11 +1,12 @@
 {{Infobox character
 | name = King Dakata
 | aliases = King Seishen Dakata
+| children = {{spoiler|book=cradle-06-underlord|[[Seishen Daji]]}}
+| abilities = {{spoiler|book=cradle-13-threshold|cycles strength into his spirit from the vital aura}}
+| titles = {{spoiler|book=cradle-06-underlord|King}}{{spoiler|book=cradle-13-threshold|, Overlord}}
+| affiliations = {{spoiler|book=cradle-06-underlord|[[Seishen Kingdom]]}}
 | appears_in = Cradle
-| titles = King, King of the Seishen Kingdom, Overlord
-| abilities = cycles strength into his spirit from the vital aura
-| affiliations = Seishen Kingdom
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 ''See also: [[King Dakata Timeline]]''

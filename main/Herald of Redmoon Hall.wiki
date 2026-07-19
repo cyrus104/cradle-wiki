@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Herald of Redmoon Hall
+| species = Remnant
+| abilities = {{spoiler|book=cradle-08-wintersteel|waves of bloody needles}}
+| titles = {{spoiler|book=cradle-08-wintersteel|[[Herald of Redmoon Hall]], [[Redmoon]]}}{{spoiler|book=cradle-10-reaper|, Remnant Redmoon}}
 | appears_in = Cradle
-| titles = Herald of Redmoon Hall, Redmoon, Remnant Redmoon
-| abilities = waves of bloody needles
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Overview ==

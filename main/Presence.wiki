@@ -1,8 +1,8 @@
 {{Infobox character
 | name = Presence
+| abilities = {{spoiler|book=cradle-01-unsouled|provide explanatory text}}{{spoiler|book=cradle-03-blackflame|, indicate coordinates, report data, report population counts, simple predictions}}{{spoiler|book=cradle-06-underlord|, detect barriers}}{{spoiler|book=cradle-10-reaper|, summon images, project reports}}{{spoiler|book=cradle-12-waybound|, scour the future}}
 | appears_in = Cradle
-| abilities = scour the future, detect barriers, provide explanatory text in her vision, indicate coordinates, report data, warn of suspicious things, report population counts, simple predictions, detect the number of transports or individuals, summon images and project reports
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Presence Timeline]]''

@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Emperor (Cradle)
+| abilities = {{spoiler|book=cradle-06-underlord|Blackflame sword}}{{spoiler|book=cradle-10-reaper|, blasts of wind}}
+| titles = {{spoiler|book=cradle-03-blackflame|Emperor}}{{spoiler|book=cradle-06-underlord|, Emperor of the Blackflame Empire}}
+| affiliations = {{spoiler|book=cradle-04-skysworn|[[Skysworn]]}}{{spoiler|book=cradle-06-underlord|, [[Blackflame Empire]]}}
+| birthplace = {{spoiler|book=cradle-06-underlord|[[Blackflame Empire]]}}
 | appears_in = Cradle
-| titles = Emperor, Emperor of the Blackflame Empire
-| abilities = blasts of wind
-| affiliations = Blackflame Empire, Skysworn
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[Emperor (Cradle) Timeline]]''

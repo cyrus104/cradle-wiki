@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Doctor Nova
+| abilities = {{spoiler|book=lh-02-the-engineer|sealing and binding, deceive}}
+| titles = {{spoiler|book=lh-02-the-engineer|[[Archmage]], [[Doctor Nova]], [[Mell D-One-Twenty-Five]]}}
+| affiliations = {{spoiler|book=lh-02-the-engineer|[[Advocates]]}}
+| professions = {{spoiler|book=lh-02-the-engineer|[[Aether Technician]]}}
 | appears_in = The Last Horizon
-| titles = wanted fugitive, Aether Technician, Mell D-One-Twenty-Five, Archmage of sealing and binding, legendary criminal
-| abilities = sealing and binding, deceive
-| affiliations = Advocates
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 ''See also: [[Doctor Nova Timeline]]''

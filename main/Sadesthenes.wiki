@@ -1,8 +1,8 @@
 {{Infobox character
 | name = Sadesthenes
-| appears_in = The Elder Empire: Sea
-| titles = philosopher, historian, classic author
-| introduced = Of Sea and Shadow
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|philosopher}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, historian, classic author}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Sadesthenes Timeline]]''

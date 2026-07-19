@@ -1,11 +1,10 @@
 {{Infobox character
 | name = Alazar the Perfected Mage
-| introduced = The Engineer
-| name = Alazar the Perfected Mage
 | aliases = Alazar
+| abilities = {{spoiler|book=lh-03-the-knight|matching enemy spells}}
+| titles = {{spoiler|book=lh-02-the-engineer|the Perfected Mage}}
 | appears_in = The Last Horizon
-| titles = the Perfected Mage
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 == Overview ==

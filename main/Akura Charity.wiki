@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Akura Charity
+| abilities = {{spoiler|book=cradle-05-ghostwater|manipulate a chisel with her finger, condensed sword aura}}{{spoiler|book=cradle-06-underlord|, seven techniques of shadow and dreams}}{{spoiler|book=cradle-07-uncrowned|, Archlord's power}}
+| titles = {{spoiler|book=cradle-05-ghostwater|[[Sage of the Silver Heart]], mistress of the castle, [[Sage]]}}{{spoiler|book=cradle-07-uncrowned|, [[Heart Sage]]}}
+| affiliations = {{spoiler|book=cradle-05-ghostwater|[[Akura clan|Akura family]]}}{{spoiler|book=cradle-08-wintersteel|, Mercy's family}}
+| residence = {{spoiler|book=cradle-06-underlord|[[Night Wheel Valley]]}}
 | appears_in = Cradle
-| titles = Sage of the Silver Heart, mistress of the castle, Sage, Heart Sage
-| abilities = manipulate a chisel with her finger, condensed sword aura, seven techniques of shadow and dreams, Archlord's power
-| affiliations = Akura family, Mercy's family
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 ''See also: [[Akura Charity Timeline]]''

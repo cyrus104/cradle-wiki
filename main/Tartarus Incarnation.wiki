@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Tartarus Incarnation
 | aliases = Incarnation of Tartarus
-| appears_in = The Traveler's Gate Trilogy
-| titles = Tartarus Incarnation
-| introduced = City of Light
+| titles = {{spoiler|book=tg-03-city-of-light|[[Tartarus Incarnation]]}}
+| residence = {{spoiler|book=tg-03-city-of-light|[[House of Blades]]}}
+| appears_in = Traveler's Gate
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
 == Overview ==

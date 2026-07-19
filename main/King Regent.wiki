@@ -1,10 +1,11 @@
 {{Infobox character
 | name = King Regent
 | aliases = King Regent Felrex, King-Regent Felrex, King Felrex
+| titles = {{spoiler|book=lh-01-the-captain|[[King Regent]], King}}{{spoiler|book=lh-03-the-knight|, [[King Regent|King Felrex]], King of Karosha, [[Monarch|monarch]]}}{{spoiler|book=lh-04-the-pilot|, top Perfected leader}}
+| affiliations = {{spoiler|book=lh-04-the-pilot|[[Karoshan fleet]]}}
+| professions = {{spoiler|book=lh-03-the-knight|[[Monarch|monarch]]}}{{spoiler|book=lh-04-the-pilot|, [[Ruler|ruler]]}}
 | appears_in = The Last Horizon
-| titles = King Regent, King of Karosha, monarch, top Perfected leader, ruler
-| affiliations = Horizon, Karoshan fleet
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[King Regent Timeline]]''

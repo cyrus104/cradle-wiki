@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Netherworld Empress
+| abilities = {{spoiler|book=cradle-13-threshold|bow that transforms into a spear}}
+| titles = {{spoiler|book=cradle-12-waybound|[[Netherworld Empress]]}}
 | appears_in = Cradle
-| titles = Netherworld Empress
-| abilities = bow that transforms into a spear
-| introduced = Waybound
+| introduced = [[Waybound (novel)|Waybound]]
 }}
 
 ''See also: [[Netherworld Empress Timeline]]''

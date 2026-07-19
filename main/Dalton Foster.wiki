@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Dalton Foster
-| introduced = Of Sea and Shadow
-| name = Dalton Foster
 | aliases = Foster, Dalton
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = gunner, gunsmith, Soulbound, Reader
-| abilities = Reader's senses, floating tools to manipulate gems and silver, Awakened gun Oath to Eternity
-| affiliations = The Testament, Calder's crew, Navigator crew
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Reader’s senses|Reader's senses]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[Awakening]], floating tools to manipulate gems and silver}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|gunner}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, one of the greatest gunsmiths in the Empire's history}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Testament]]}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, Calder's crew}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, Navigator crew}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|gunner, gunsmith, crew member, crewmember}}
+| residence = {{spoiler|book=ee-sea-01-of-sea-and-shadow|gunsmith up the hill}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, cabin on The Testament}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Dalton Foster Timeline]]''

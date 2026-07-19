@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Akura Justice
-| introduced = Skysworn
-| name = Akura Justice
 | aliases = Justice
+| abilities = {{spoiler|book=cradle-04-skysworn|[[Path of the Chainkeeper]]}}{{spoiler|book=cradle-07-uncrowned|, [[Soulfire|soulfire]]}}{{spoiler|book=cradle-08-wintersteel|, [[shadow madra]]}}{{spoiler|book=cradle-11-dreadgod|, Strings of Shadow technique}}
+| titles = {{spoiler|book=cradle-07-uncrowned|First Gatekeeper, [[Archlord]], First Gatekeeper of the Akura clan}}{{spoiler|book=cradle-11-dreadgod|, [[Sage of Twin Stars]]}}
+| affiliations = {{spoiler|book=cradle-04-skysworn|[[Akura clan]]}}
+| residence = {{spoiler|book=cradle-08-wintersteel|home}}
 | appears_in = Cradle
-| titles = First Gatekeeper, Archlord, Sage of Twin Stars
-| abilities = Path of the Chainkeeper, soulfire, shadow madra, Strings of Shadow
-| affiliations = Akura clan
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Akura Justice Timeline]]''

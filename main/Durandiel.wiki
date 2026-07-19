@@ -1,8 +1,10 @@
 {{Infobox character
 | name = Durandiel
+| titles = {{spoiler|book=cradle-10-reaper|[[Ghost|the Ghost]]}}{{spoiler|book=cradle-13-threshold|, Eiras Luriana of Obelisk}}
+| professions = {{spoiler|book=cradle-13-threshold|[[judge|Judge]]}}
+| birthplace = {{spoiler|book=cradle-13-threshold|Obelisk}}
 | appears_in = Cradle
-| titles = the Ghost, Judge, Eiras Luriana of Obelisk
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
 == Overview ==

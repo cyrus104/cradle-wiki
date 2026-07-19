@@ -1,12 +1,11 @@
 {{Infobox character
 | name = Ulrok Crag-Strider
-| introduced = Wintersteel
-| name = Ulrok Crag-Strider
 | aliases = Ulrok
+| abilities = {{spoiler|book=cradle-08-wintersteel|[[Forger technique]]}}
+| titles = {{spoiler|book=cradle-08-wintersteel|[[Uncrowned King]], Uncrowned King fighter}}
+| professions = {{spoiler|book=cradle-08-wintersteel|poet, philosopher, Ghost-Blade competitor}}
 | appears_in = Cradle
-| titles = Uncrowned King fighter, famous poet, philosopher
-| abilities = Forger technique
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Overview ==

@@ -1,11 +1,12 @@
 {{Infobox character
 | name = Handmaiden
 | aliases = Nakothi’s Handmaiden
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Handmaiden of Nakothi, Elder, servant of Nakothi
-| abilities = manipulate earth
-| affiliations = Children of the Dead Mother
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|manipulate earth}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Handmaidens of Nakothi|Handmaiden of Nakothi]]}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, Elder}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Children of the Dead Mother]]}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, servant of Nakothi}}
+| residence = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|a chest}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Handmaiden Timeline]]''

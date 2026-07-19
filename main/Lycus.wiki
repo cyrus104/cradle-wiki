@@ -1,8 +1,10 @@
 {{Infobox character
 | name = Lycus
 | aliases = Lycus Agnos
-| appears_in = The Traveler's Gate Trilogy
-| introduced = House of Blades
+| parents = {{spoiler|book=tg-01-house-of-blades|[[Caius Agnos|Caius]]}}
+| siblings = {{spoiler|book=tg-01-house-of-blades|[[Andra Agnos|Andra]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Lycus Timeline]]''

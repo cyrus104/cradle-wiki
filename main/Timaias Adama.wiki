@@ -1,12 +1,13 @@
 {{Infobox character
 | name = Timaias Adama
-| introduced = Wintersteel
-| name = Timaias Adama
 | aliases = Adama
+| species = Remnant
+| abilities = {{spoiler|book=cradle-08-wintersteel|soulfire-infused flesh}}
+| titles = {{spoiler|book=cradle-08-wintersteel|[[Sage]], [[Sword Sage]], [[Sage of the Endless Sword]]}}
+| affiliations = {{spoiler|book=cradle-08-wintersteel|[[Heaven’s Glory School]]}}
+| residence = {{spoiler|book=cradle-08-wintersteel|[[Heaven’s Glory School]]}}
 | appears_in = Cradle
-| titles = Sage, Sword Sage, Sage of the Endless Sword
-| affiliations = Heaven’s Glory School
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 ''See also: [[Timaias Adama Timeline]]''

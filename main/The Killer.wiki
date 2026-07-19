@@ -1,10 +1,11 @@
 {{Infobox character
 | name = The Killer
 | aliases = Killer
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Guild Head
-| affiliations = Consultants
-| introduced = Of Dawn and Darkness
+| titles = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Killer]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[Blackwatch Guild Head|Guild Head]]}}
+| affiliations = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Consultants]]}}
+| professions = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Blackwatch Guild Head|Guild Head]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]]
 }}
 
 == Overview ==

@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Titan
+| abilities = {{spoiler|book=cradle-09-bloodline|golden power}}{{spoiler|book=cradle-10-reaper|, molten shield}}{{spoiler|book=cradle-11-dreadgod|, travel through space, created a void portal}}
+| titles = {{spoiler|book=cradle-09-bloodline|[[Dreadgod]]}}{{spoiler|book=cradle-12-waybound|, one-star Titan}}
 | appears_in = Cradle
-| titles = Dreadgod, one-star Titan
-| abilities = golden power, yellow earth madra, molten shield, travel through space, create void portal
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Titan Timeline]]''

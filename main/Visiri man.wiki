@@ -2,7 +2,9 @@
 
 {{Infobox character
 | name = Visiri man
-| introduced = The Captain
+| species = Alien
+| appears_in = The Last Horizon
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == The Captain ==

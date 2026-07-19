@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Knight (The Last Horizon)
+| titles = {{spoiler|book=lh-01-the-captain|The Red Knight}}
+| affiliations = {{spoiler|book=lh-01-the-captain|Blue Knight's order}}{{spoiler|book=lh-03-the-knight|, crew}}
+| professions = {{spoiler|book=lh-01-the-captain|Knight, leader}}
 | appears_in = The Last Horizon
-| titles = The Red Knight, leader of the Blue Knight's order
-| affiliations = Blue Knight's order, crew
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == Overview ==

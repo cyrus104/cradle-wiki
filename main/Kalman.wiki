@@ -1,7 +1,8 @@
 {{Infobox character
 | name = Kalman
-| appears_in = The Traveler's Gate Trilogy
-| introduced = House of Blades
+| children = {{spoiler|book=tg-01-house-of-blades|[[Simon]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 == Overview ==

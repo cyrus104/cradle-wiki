@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Jai Patriarch
 | aliases = Patriarch
+| titles = {{spoiler|book=cradle-02-soulsmith|[[Jai Patriarch|Patriarch]]}}
+| affiliations = {{spoiler|book=cradle-03-blackflame|[[Jai clan]]}}
 | appears_in = Cradle
-| titles = Patriarch
-| affiliations = Jai clan
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
 == Overview ==

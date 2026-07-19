@@ -1,11 +1,15 @@
 {{Infobox character
 | name = Eithan
 | aliases = Eithan Arelius
+| siblings = {{spoiler|book=cradle-02-soulsmith|[[Lindon]]}}{{spoiler|book=cradle-03-blackflame|, [[Naru Cassias Arelius|Cassias]], [[Yerin]]}}
+| abilities = {{spoiler|book=cradle-02-soulsmith|[[Enforcer technique]], [[Enforcer binding]]}}{{spoiler|book=cradle-03-blackflame|, Hollow Armor technique}}{{spoiler|book=cradle-04-skysworn|, [[Striker technique]]}}{{spoiler|book=cradle-08-wintersteel|, Hollow King's Crown technique, Empty Palm technique, [[Hollow Spear|Hollow King’s Spear]], [[Hollow King’s Mantle]]}}{{spoiler|book=cradle-09-bloodline|, [[Ruler technique]], Aura control}}
+| titles = {{spoiler|book=cradle-02-soulsmith|[[Underlord]], heir to the Arelius family}}{{spoiler|book=cradle-07-uncrowned|, [[Archlord]]}}{{spoiler|book=cradle-08-wintersteel|, Overlord, [[Sage]]}}
+| affiliations = {{spoiler|book=cradle-02-soulsmith|[[Blackflame Empire]], [[Arelius family]]}}{{spoiler|book=cradle-04-skysworn|, [[Skysworn]]}}{{spoiler|book=cradle-06-underlord|, [[Akura clan]]}}{{spoiler|book=cradle-09-bloodline|, [[Twin Star Sect|Twin Star sect]]}}{{spoiler|book=cradle-10-reaper|, [[Abidan]]}}
+| professions = {{spoiler|book=cradle-03-blackflame|teacher, [[Soulsmith]], Teacher}}{{spoiler|book=cradle-11-dreadgod|, Heavenly messenger}}{{spoiler|book=cradle-12-waybound|, [[judge|Judge]], Celestial executioner}}
+| birthplace = {{spoiler|book=cradle-02-soulsmith|[[Blackflame Empire]]}}
+| residence = {{spoiler|book=cradle-02-soulsmith|[[Blackflame City]]}}{{spoiler|book=cradle-09-bloodline|, [[Windfall]]}}
 | appears_in = Cradle
-| titles = Underlord, heir to the Arelius family
-| abilities = Enforcer technique, Enforcer binding, breathing technique, Soulsmithing
-| affiliations = Blackflame Empire, Arelius family
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
 {{spoiler|book=cradle-10-reaper|'''Identity:''' later revealed to be [[Ozmanthus Arelius]], the ancient Soulsmith he once was.}}

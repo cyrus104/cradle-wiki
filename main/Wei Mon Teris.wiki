@@ -1,11 +1,12 @@
 {{Infobox character
 | name = Wei Mon Teris
 | aliases = Teris, Mon Teris
+| siblings = {{spoiler|book=cradle-01-unsouled|[[Lindon]]}}
+| abilities = {{spoiler|book=cradle-01-unsouled|Copper madra}}
+| titles = {{spoiler|book=cradle-01-unsouled|[[Enforcer]]}}
+| affiliations = {{spoiler|book=cradle-01-unsouled|[[Mon family]]}}
 | appears_in = Cradle
-| titles = Enforcer
-| abilities = Copper madra
-| affiliations = Mon family
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Wei Mon Teris Timeline]]''

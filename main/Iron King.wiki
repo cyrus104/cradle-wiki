@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Iron King
+| abilities = {{spoiler|book=lh-01-the-captain|Mirror of Silence spell, Aether-disrupting magic, psionic pulses}}
+| titles = {{spoiler|book=lh-01-the-captain|[[Iron King]], leader}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[Iron Legion]]}}
 | appears_in = The Last Horizon
-| titles = Iron King, leader
-| abilities = channel, augment, and control the powers of others, Mirror of Silence spell, Aether-disrupting magic, psionic pulses
-| affiliations = Iron Legion
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Iron King Timeline]]''

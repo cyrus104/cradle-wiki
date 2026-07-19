@@ -1,11 +1,11 @@
 {{Infobox character
 | name = Frozen Blade
 | aliases = Sage of the Frozen Blade
+| abilities = {{spoiler|book=cradle-08-wintersteel|Frozen Blade madra technique}}
+| titles = {{spoiler|book=cradle-07-uncrowned|[[Frozen Blade|Sage of the Frozen Blade]], [[Winter Sage]]}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Akura clan]], [[Frozen Blade school]]}}
 | appears_in = Cradle
-| titles = Sage of the Frozen Blade, Winter Sage
-| abilities = Frozen Blade
-| affiliations = Akura clan, Frozen Blade school
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Frozen Blade Timeline]]''

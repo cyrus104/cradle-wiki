@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Li Markuth
-| introduced = Unsouled
-| name = Li Markuth
 | aliases = Markuth
+| abilities = {{spoiler|book=cradle-12-waybound|call wind aura, living storms bound in his wings, song stored in his heart that can shatter minds, sword that can cut through space, weapon that is compatible with storm madra and acts like a sentient parasite, song from his heart that forms invisible razors, [[Ruler technique]], [[Striker technique]], [[Forger technique]]}}
+| titles = {{spoiler|book=cradle-01-unsouled|[[Grand Patriarch]]}}{{spoiler|book=cradle-09-bloodline|, winged terror}}{{spoiler|book=cradle-12-waybound|, [[Archlord]]}}
+| affiliations = {{spoiler|book=cradle-01-unsouled|[[Li clan|Li Clan]]}}
+| birthplace = {{spoiler|book=cradle-12-waybound|[[Cradle]]}}
 | appears_in = Cradle
-| titles = Grand Patriarch, Gold, winged terror, Archlord
-| abilities = call wind aura, song from his heart that forms invisible razors, Ruler technique, Striker technique, Forger technique
-| affiliations = Li Clan
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Li Markuth Timeline]]''

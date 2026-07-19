@@ -1,10 +1,14 @@
 {{Infobox character
 | name = Charity
+| parents = {{spoiler|book=cradle-08-wintersteel|[[Fury]]}}
+| children = {{spoiler|book=cradle-06-underlord|[[Mercy]]}}
+| abilities = {{spoiler|book=cradle-07-uncrowned|living Forger technique}}{{spoiler|book=cradle-08-wintersteel|, [[Dream of Darkness]], [[Striker technique]], spiritual scan}}{{spoiler|book=cradle-11-dreadgod|, Will-Heart Resonance technique}}
+| titles = {{spoiler|book=cradle-06-underlord|[[Sage]]}}{{spoiler|book=cradle-07-uncrowned|, [[Archlady]]}}{{spoiler|book=cradle-08-wintersteel|, [[Overlady]]}}{{spoiler|book=cradle-09-bloodline|, [[Sage of the Silver Heart]]}}
+| affiliations = {{spoiler|book=cradle-08-wintersteel|[[Akura head family]], [[Akura clan|Akura family]]}}
+| professions = {{spoiler|book=cradle-12-waybound|jailer}}
+| residence = {{spoiler|book=cradle-07-uncrowned|mansion on the Akura floating mountain}}{{spoiler|book=cradle-08-wintersteel|, [[Moongrave]], [[Night Wheel Valley]]}}
 | appears_in = Cradle
-| titles = Akura aunt, Sage, Archlady, Overlady, Sage of the Silver Heart
-| abilities = living Forger technique, Dream of Darkness, Striker technique
-| affiliations = Akura head family
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 ''See also: [[Charity Timeline]]''

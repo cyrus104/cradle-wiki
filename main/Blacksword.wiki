@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Blacksword
+| abilities = {{spoiler|book=cradle-08-wintersteel|[[Blood Shadow]], [[Striker technique]]}}
+| titles = {{spoiler|book=cradle-07-uncrowned|chosen of Reigan Shen}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Redmoon Hall]]}}
 | appears_in = Cradle
-| titles = chosen of Reigan Shen
-| abilities = Blood Shadow, Striker technique
-| affiliations = Redmoon Hall
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 == Overview ==

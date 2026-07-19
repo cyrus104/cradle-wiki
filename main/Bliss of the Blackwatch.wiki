@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Bliss of the Blackwatch
-| introduced = Of Darkness and Dawn
-| name = Bliss of the Blackwatch
 | aliases = Bliss
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Guild Head, leader, superior, Head of the Blackwatch Guild, Steward
-| abilities = change her location, cleanse her blood to remove foreign agents
-| affiliations = Blackwatch
-| introduced = Of Darkness and Dawn
+| parents = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Nathanael Bareius]]}}
+| abilities = {{spoiler|book=ee-sea-03-of-kings-and-killers|change her location, cleanse her blood to remove foreign agents}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Blackwatch Guild Head|Guild Head]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, Steward}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Blackwatch]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Blackwatch Guild Head|Guild Head]]}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, on guard duty}}
+| appears_in = Elder Empire
+| introduced = [[Of Darkness and Dawn (novel)|Of Darkness and Dawn]]
 }}
 
 ''See also: [[Bliss of the Blackwatch Timeline]]''

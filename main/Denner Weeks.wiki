@@ -1,12 +1,12 @@
 {{Infobox character
 | name = Denner Weeks
-| introduced = House of Blades
-| name = Denner Weeks
 | aliases = Denner
-| appears_in = The Traveler's Gate Trilogy
-| titles = one of Valin's true children, master of Valin, Traveler behind the King, Valinhall Traveler, Traveler
-| abilities = Dragon's Fang, summon a spear from the armory
-| introduced = House of Blades
+| abilities = {{spoiler|book=tg-02-crimson-vault|[[Dragon's Fang]]}}{{spoiler|book=tg-03-city-of-light|, summon a spear from the armory}}
+| titles = {{spoiler|book=tg-02-crimson-vault|master of Valin}}
+| professions = {{spoiler|book=tg-01-house-of-blades|scout, scouting}}
+| residence = {{spoiler|book=tg-01-house-of-blades|[[Bel Calem]]}}{{spoiler|book=tg-03-city-of-light|, [[the House]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Denner Weeks Timeline]]''

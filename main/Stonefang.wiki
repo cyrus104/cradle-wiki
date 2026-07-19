@@ -1,8 +1,11 @@
 {{Infobox character
 | name = Stonefang
 | aliases = Stonefang Kameira
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| introduced = Of Kings and Killers
+| species = Kameira
+| professions = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Security|security]]}}
+| residence = {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Rose Tower]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
 }}
 
 == Overview ==

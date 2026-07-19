@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Dellei Twinfire
+| abilities = {{spoiler|book=cradle-13-threshold|spirit-bonding Path, [[Path of darkness]], [[Path of light]]}}
+| titles = {{spoiler|book=cradle-13-threshold|apprentice of a Monarch}}
 | appears_in = Cradle
-| titles = apprentice of a Monarch
-| abilities = spirit-bonding Path, Path of darkness, Path of light
-| introduced = Threshold: Stories from Cradle
+| introduced = [[Threshold: Stories from Cradle (novel)|Threshold: Stories from Cradle]]
 }}
 
 == Overview ==

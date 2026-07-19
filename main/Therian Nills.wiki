@@ -1,12 +1,12 @@
 {{Infobox character
 | name = Therian Nills
-| introduced = Uncrowned
-| name = Therian Nills
 | aliases = Therian
+| abilities = {{spoiler|book=cradle-08-wintersteel|[[Underlord transformation]]}}
+| titles = {{spoiler|book=cradle-07-uncrowned|chosen of the Stormcallers}}{{spoiler|book=cradle-08-wintersteel|, [[Underlord]], chosen of Reigan Shen}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Stormcallers]]}}
+| professions = {{spoiler|book=cradle-08-wintersteel|farmer}}
 | appears_in = Cradle
-| titles = chosen of the Stormcallers, chosen of Reigan Shen
-| abilities = Underlord transformation
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 == Overview ==

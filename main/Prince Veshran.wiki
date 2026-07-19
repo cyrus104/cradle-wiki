@@ -1,12 +1,12 @@
 {{Infobox character
 | name = Prince Veshran
-| introduced = The Pilot
-| name = Prince Veshran
 | aliases = Veshran
+| siblings = {{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]]}}
+| titles = {{spoiler|book=lh-04-the-pilot|Prince of Karosha, Karoshan prince}}
+| affiliations = {{spoiler|book=lh-04-the-pilot|[[Alliance space]], [[Karosha]]}}
+| professions = {{spoiler|book=lh-04-the-pilot|political representative}}
 | appears_in = The Last Horizon
-| titles = Prince of Karosha, Karoshan prince
-| affiliations = Karosha
-| introduced = The Pilot
+| introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
 ''See also: [[Prince Veshran Timeline]]''

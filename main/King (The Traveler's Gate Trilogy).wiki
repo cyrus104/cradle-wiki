@@ -1,9 +1,9 @@
 {{Infobox character
 | name = King (The Traveler's Gate Trilogy)
-| appears_in = The Traveler's Gate Trilogy
-| titles = King
-| abilities = seal Dragon's Fangs in the Vault
-| introduced = House of Blades
+| abilities = {{spoiler|book=tg-03-city-of-light|seal Dragon's Fangs in the Vault}}
+| titles = {{spoiler|book=tg-01-house-of-blades|King}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 == Overview ==

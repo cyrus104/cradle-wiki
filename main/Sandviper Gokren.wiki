@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Sandviper Gokren
-| introduced = Blackflame
-| name = Sandviper Gokren
 | aliases = Gokren
+| children = {{spoiler|book=cradle-02-soulsmith|[[Highgold]]}}
+| abilities = {{spoiler|book=cradle-03-blackflame|[[Path of the Sandviper]]}}
+| titles = {{spoiler|book=cradle-02-soulsmith|[[Truegold]], chief of the Sandvipers}}{{spoiler|book=cradle-03-blackflame|, [[Sandviper chief]]}}
+| affiliations = {{spoiler|book=cradle-02-soulsmith|[[Sandvipers]], [[Sandviper sect]]}}{{spoiler|book=cradle-03-blackflame|, [[Jai clan]]}}
 | appears_in = Cradle
-| titles = Truegold, chief of the Sandvipers, Sandviper chief
-| abilities = Path of the Sandviper
-| affiliations = Sandvipers, Sandviper sect, Jai clan
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[Sandviper Gokren Timeline]]''

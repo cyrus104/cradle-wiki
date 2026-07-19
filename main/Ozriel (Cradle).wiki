@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Ozriel (Cradle)
+| abilities = {{spoiler|book=cradle-10-reaper|authority over Ozriel’s Scythe}}{{spoiler|book=cradle-12-waybound|, conjure a black sword}}
+| titles = {{spoiler|book=cradle-02-soulsmith|[[Reaper|the Reaper]]}}{{spoiler|book=cradle-03-blackflame|, [[Abidan]]}}{{spoiler|book=cradle-10-reaper|, [[Jai Patriarch|Patriarch]], [[judge|Judge]]}}{{spoiler|book=cradle-11-dreadgod|, [[Spider of the Abidan|the Spider]]}}{{spoiler|book=cradle-12-waybound|, eighth Judge, the eighth Judge}}{{spoiler|book=cradle-13-threshold|, [[Reaper of Worlds]]}}
+| affiliations = {{spoiler|book=cradle-03-blackflame|[[Abidan]]}}{{spoiler|book=cradle-04-skysworn|, Hound's side}}{{spoiler|book=cradle-10-reaper|, [[Arelius family]], Court of Seven}}
+| professions = {{spoiler|book=cradle-02-soulsmith|[[Reaper]]}}{{spoiler|book=cradle-10-reaper|, craftsman, [[judge|Judge]], [[Void Sage]]}}
 | appears_in = Cradle
-| titles = the Reaper, Abidan, Patriarch of the Arelius family, Judge, Void Sage, the Spider
-| abilities = reaps a world, authority over Ozriel’s Scythe
-| affiliations = Abidan, Hound's side, Arelius family, Court of Seven
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Ozriel (Cradle) Timeline]]''

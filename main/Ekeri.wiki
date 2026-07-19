@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Ekeri
+| siblings = {{spoiler|book=cradle-05-ghostwater|[[Sopharanatoth|Sophara]]}}
+| abilities = {{spoiler|book=cradle-05-ghostwater|[[Path of the Flowing Flame]], discover Blackflame anywhere within the habitat, [[Enforcer technique]]}}{{spoiler|book=cradle-11-dreadgod|, breathes liquid gold}}
+| titles = {{spoiler|book=cradle-05-ghostwater|Akura elite, [[Truegold]], heir to the richest family on the continent}}
+| affiliations = {{spoiler|book=cradle-05-ghostwater|[[Akura clan|Akura]]}}
 | appears_in = Cradle
-| titles = Akura elite, Truegold, heir to the richest family on the continent, dragon, Remnant, dragon spirit
-| abilities = Path of the Flowing Flame, Enforcer technique, breathes liquid gold
-| affiliations = Akura
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 ''See also: [[Ekeri Timeline]]''

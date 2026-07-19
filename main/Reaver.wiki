@@ -1,8 +1,8 @@
 {{Infobox character
 | name = Reaver
+| affiliations = {{spoiler|book=lh-01-the-captain|[[Iron Legion]]}}
 | appears_in = The Last Horizon
-| affiliations = Iron Legion
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == Overview ==

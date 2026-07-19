@@ -1,8 +1,8 @@
 {{Infobox character
 | name = Iron Bishop
+| titles = {{spoiler|book=lh-01-the-captain|[[Iron Bishop]]}}
 | appears_in = The Last Horizon
-| titles = Iron Bishop
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == Overview ==

@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Ekerinatoth
+| abilities = {{spoiler|book=cradle-05-ghostwater|[[Enforcer technique]], [[Ruler technique]]}}
+| affiliations = {{spoiler|book=cradle-05-ghostwater|[[Gold dragons|gold dragons]]}}
 | appears_in = Cradle
-| abilities = Enforcer technique, Ruler technique
-| affiliations = gold dragons
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 == Overview ==

@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Naru Gwei
+| abilities = {{spoiler|book=cradle-04-skysworn|control the wind aura}}{{spoiler|book=cradle-06-underlord|, fly}}
+| titles = {{spoiler|book=cradle-04-skysworn|Captain of the Skysworn, [[Underlord]], [[Skysworn Captain]]}}
+| affiliations = {{spoiler|book=cradle-04-skysworn|Skysworn sect, [[Blackflame Empire]]}}
+| residence = {{spoiler|book=cradle-07-uncrowned|[[Stormrock]]}}
 | appears_in = Cradle
-| titles = Captain of the Skysworn, Underlord, Skysworn Captain
-| abilities = control the wind aura, fly
-| affiliations = Skysworn sect, Blackflame Empire
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Naru Gwei Timeline]]''

@@ -1,9 +1,8 @@
 {{Infobox character
 | name = Fingerling
+| abilities = {{spoiler|book=cradle-10-reaper|spray destructive pink light}}{{spoiler|book=cradle-11-dreadgod|, Fingerling technique}}
 | appears_in = Cradle
-| abilities = Fingerling technique, breathes a strange pink madra, spray destructive pink light
-| affiliations = Jai Chen
-| introduced = Bloodline
+| introduced = [[Bloodline (novel)|Bloodline]]
 }}
 
 ''See also: [[Fingerling Timeline]]''

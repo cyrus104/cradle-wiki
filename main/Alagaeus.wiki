@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Alagaeus
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Regent of the East, fourth Regent, shaper of deserts and builder of cities
-| affiliations = Soulbound to the Heart of the Earth
-| introduced = Of Dawn and Darkness
+| titles = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Regent of the East]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, fourth Regent}}
+| professions = {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|shaper of deserts, builder of cities}}
+| appears_in = Elder Empire
+| introduced = [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]]
 }}
 
 ''See also: [[Alagaeus Timeline]]''

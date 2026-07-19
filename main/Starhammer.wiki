@@ -1,10 +1,14 @@
 {{Infobox character
 | name = Starhammer
+| spouse = {{spoiler|book=lh-02-the-engineer|[[Leilari]]}}
+| parents = {{spoiler|book=lh-02-the-engineer|[[Mell D-One-Twenty-Five|Mell]], [[Doctor Nova]]}}
+| abilities = {{spoiler|book=lh-02-the-engineer|[[Temporal Field]], [[optical beams]], [[Subspace Drive]], [[Evolution Engine]], skintight shield, [[Zenith Device]]}}
+| titles = {{spoiler|book=lh-01-the-captain|leader of the Advocates}}{{spoiler|book=lh-02-the-engineer|, hero, guardian of the Free Worlds, [[Commander|commander]], [[Champion|champion]]}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[Advocates]]}}{{spoiler|book=lh-02-the-engineer|, [[High Council of the Advocates]]}}{{spoiler|book=lh-03-the-knight|, [[Galactic Union]], [[Karoshan Alliance]]}}
+| professions = {{spoiler|book=lh-01-the-captain|leader}}{{spoiler|book=lh-02-the-engineer|, protector, [[Commander|commander]]}}
+| residence = {{spoiler|book=lh-02-the-engineer|[[The Last Horizon]]}}
 | appears_in = The Last Horizon
-| titles = leader of the Advocates, hero, member of the High Council of the Advocates, protector, guardian of the Free Worlds, commander
-| abilities = Temporal Field, Archmage-level protection against detection spells, see through objects, fire optical beams from his eyes, hover, fly, scan individuals through their masks, Subspace Drive, magic countermeasures, Evolution Engine
-| affiliations = Advocates
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Starhammer Timeline]]''

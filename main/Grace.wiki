@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Grace
+| abilities = {{spoiler|book=cradle-08-wintersteel|[[Void key|void key]]}}
+| affiliations = {{spoiler|book=cradle-08-wintersteel|Lindon's team}}
+| professions = {{spoiler|book=cradle-08-wintersteel|acolyte}}
 | appears_in = Cradle
-| titles = Truegold
-| affiliations = Lindon's team
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[Grace Timeline]]''

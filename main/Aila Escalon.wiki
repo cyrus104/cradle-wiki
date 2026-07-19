@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Aila Escalon
-| introduced = The Pilot
-| name = Aila Escalon
 | aliases = Aila
+| parents = {{spoiler|book=lh-04-the-pilot|[[Omega]]}}
+| abilities = {{spoiler|book=lh-04-the-pilot|pull a force-blade from Subspace, [[Watchtower Stance]], [[Zenith Blade]], grow four hands from her back that melt into dark goo, [[Combat Art]], reflect missiles into energy, strike through the Absolute Burial spell with multiple Zenith Blades, split into clones, [[Hallow Divide]], manifest an orange shield}}
+| affiliations = {{spoiler|book=lh-04-the-pilot|[[Solstice]], [[Lichborn crews]]}}
+| professions = {{spoiler|book=lh-04-the-pilot|[[Combat Artist]]}}
 | appears_in = The Last Horizon
-| titles = Combat Artist
-| abilities = Watchtower Stance, Zenith Blade, Combat Art, Hallow Divide
-| affiliations = Solstice
-| introduced = The Pilot
+| introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
 ''See also: [[Aila Escalon Timeline]]''

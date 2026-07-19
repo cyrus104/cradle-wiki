@@ -1,11 +1,12 @@
 {{Infobox character
 | name = Del'rek
 | aliases = Del’rek of the Shann, Del’rek
+| species = Sacred beast
+| abilities = {{spoiler|book=cradle-12-waybound|restoration authority}}
+| titles = {{spoiler|book=cradle-12-waybound|sacred elephant in human form}}
+| affiliations = {{spoiler|book=cradle-06-underlord|[[Shann]]}}
 | appears_in = Cradle
-| titles = sacred elephant in human form
-| abilities = restoration authority
-| affiliations = Shann
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 == Overview ==

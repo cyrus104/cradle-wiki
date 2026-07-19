@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Bastion
-| appears_in = The Elder Empire: Shadow
-| titles = founding member of the order, Soulbound, Soulbound Vessel, Vessel
-| abilities = create mist, Bastion's Veil
-| introduced = Of Shadow and Sea
+| abilities = {{spoiler|book=ee-shadow-03-of-killers-and-kings|create mist, [[Bastion's Veil]]}}
+| titles = {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Soulbound Vessel]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 ''See also: [[Bastion Timeline]]''

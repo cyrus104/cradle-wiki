@@ -1,10 +1,12 @@
 {{Infobox character
 | name = Undermaker
+| abilities = {{spoiler|book=lh-02-the-engineer|generate false matter}}
+| titles = {{spoiler|book=lh-02-the-engineer|Defender of Tunnel City}}
+| affiliations = {{spoiler|book=lh-02-the-engineer|[[Advocate]]}}
+| professions = {{spoiler|book=lh-02-the-engineer|[[Pilot|pilot]], [[Combat Artist]], disaster relief}}
+| residence = {{spoiler|book=lh-02-the-engineer|[[Tunnel City]]}}
 | appears_in = The Last Horizon
-| titles = Defender of Tunnel City
-| abilities = generate false matter
-| affiliations = Advocate
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 == Overview ==

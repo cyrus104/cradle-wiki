@@ -1,13 +1,15 @@
 {{Infobox character
 | name = Naru Cassias Arelius
-| introduced = Blackflame
-| name = Naru Cassias Arelius
 | aliases = Cassias, Cassias Arelius
+| parents = {{spoiler|book=cradle-10-reaper|[[Gaien Arelius]]}}
+| siblings = {{spoiler|book=cradle-03-blackflame|[[Eithan]]}}
+| abilities = {{spoiler|book=cradle-03-blackflame|bloodline powers, [[sword madra]]}}{{spoiler|book=cradle-04-skysworn|, Silver Step technique}}{{spoiler|book=cradle-06-underlord|, expanded spiritual sense}}
+| titles = {{spoiler|book=cradle-03-blackflame|Patriarch of the Arelius family, heir to the Arelius family, [[Highgold]]}}{{spoiler|book=cradle-04-skysworn|, [[Truegold]], second-ranked Highgold in the Empire}}
+| affiliations = {{spoiler|book=cradle-03-blackflame|[[Arelius family]], [[Naru clan]]}}
+| professions = {{spoiler|book=cradle-03-blackflame|sword artist}}
+| residence = {{spoiler|book=cradle-03-blackflame|[[Sky's Mercy]]}}{{spoiler|book=cradle-06-underlord|, [[Starsweep Tower]]}}
 | appears_in = Cradle
-| titles = Patriarch of the Arelius family, heir to the Arelius family, Highgold, second-ranked Highgold in the Empire, Truegold
-| abilities = bloodline powers, sword madra, Silver Step technique, expanded spiritual sense
-| affiliations = Arelius family, Naru clan
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[Naru Cassias Arelius Timeline]]''

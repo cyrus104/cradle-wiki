@@ -1,10 +1,12 @@
 {{Infobox character
 | name = Jai Chen
+| siblings = {{spoiler|book=cradle-03-blackflame|[[Jai Long]]}}
+| abilities = {{spoiler|book=cradle-11-dreadgod|[[Striker technique]], pink dragon's breath, net of pink madra}}
+| titles = {{spoiler|book=cradle-12-waybound|[[Truegold]]}}
+| affiliations = {{spoiler|book=cradle-04-skysworn|[[Jai clan]]}}
+| residence = {{spoiler|book=cradle-09-bloodline|[[Desolate Wilds]]}}
 | appears_in = Cradle
-| titles = Truegold
-| abilities = Striker technique, pink dragon's breath, Stellar Spear, Grasping Sky, Hollow King madra
-| affiliations = Jai clan
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[Jai Chen Timeline]]''

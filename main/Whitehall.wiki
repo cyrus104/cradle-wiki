@@ -1,13 +1,11 @@
 {{Infobox character
 | name = Whitehall
-| introduced = Unsouled
-| name = Whitehall
 | aliases = Elder Whitehall
+| abilities = {{spoiler|book=cradle-01-unsouled|Heaven’s Lance technique}}
+| titles = {{spoiler|book=cradle-01-unsouled|Elder, Jade leader}}
+| affiliations = {{spoiler|book=cradle-01-unsouled|[[Heaven’s Glory School|Heaven's Glory School]]}}
 | appears_in = Cradle
-| titles = Elder, Jade leader
-| abilities = Heaven’s Lance technique
-| affiliations = Heaven's Glory School
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Whitehall Timeline]]''

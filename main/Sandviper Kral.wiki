@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Sandviper Kral
-| introduced = Blackflame
-| name = Sandviper Kral
 | aliases = Kral
+| parents = {{spoiler|book=cradle-02-soulsmith|Sandviper sect chief}}
+| abilities = {{spoiler|book=cradle-02-soulsmith|awls with heavy green-light gleaming spikes, corrosive green madra}}
+| titles = {{spoiler|book=cradle-02-soulsmith|young chief, future Sandviper chief, prince, [[Highgold]]}}
+| affiliations = {{spoiler|book=cradle-02-soulsmith|[[Sandvipers]], [[Sandviper sect]]}}
 | appears_in = Cradle
-| titles = young chief, future Sandviper chief, prince, Highgold
-| abilities = corrosive green madra
-| affiliations = Sandvipers, Sandviper sect
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[Sandviper Kral Timeline]]''

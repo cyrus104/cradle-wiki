@@ -1,9 +1,13 @@
 {{Infobox character
 | name = Calder
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = captain, Captain of The Testament
-| abilities = Intent, Read a living human being's Intent
-| introduced = Of Sea and Shadow
+| spouse = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jerri]]}}
+| parents = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Rojric]], [[Alsa Grayweather|Alsa]]}}
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Intent]], [[Read]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, use his mark to Read, predict, and destroy Elderspawn, [[Emperor’s Intent|Emperor's Intent]]}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Captain, Captain of The Testament, Emperor, [[Navigator]]}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, [[Imperial Steward]]}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Blackwatch]]}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, Navigators, [[Consultants]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[Aurelian Empire]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|captain, duelist, [[Navigator]]}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, [[Imperial Steward]], Steward}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Calder Timeline]]''

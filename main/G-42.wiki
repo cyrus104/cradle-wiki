@@ -1,9 +1,9 @@
 {{Infobox character
 | name = G-42
+| abilities = {{spoiler|book=cradle-13-threshold|turn off gravity}}
+| titles = {{spoiler|book=cradle-13-threshold|[[Monarch]]}}
 | appears_in = Cradle
-| titles = Monarch
-| abilities = turn off gravity
-| introduced = Threshold: Stories from Cradle
+| introduced = [[Threshold: Stories from Cradle (novel)|Threshold: Stories from Cradle]]
 }}
 
 == Overview ==

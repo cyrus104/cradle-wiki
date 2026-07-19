@@ -1,10 +1,13 @@
 {{Infobox character
 | name = Seisha
 | aliases = Wei Shi Seisha
+| spouse = {{spoiler|book=cradle-11-dreadgod|[[Wei Shi Jaran]]}}
+| children = {{spoiler|book=cradle-01-unsouled|[[Lindon]]}}
+| abilities = {{spoiler|book=cradle-10-reaper|[[Path of the White Fox]]}}{{spoiler|book=cradle-11-dreadgod|, [[launcher construct|launcher constructs]]}}
+| titles = {{spoiler|book=cradle-01-unsouled|[[Seisha|Wei Shi Seisha]]}}
+| professions = {{spoiler|book=cradle-08-wintersteel|[[Soulsmith|soulsmith]], [[Soulsmith]]}}
 | appears_in = Cradle
-| titles = Wei Shi Seisha
-| abilities = Path of the White Fox, launcher constructs
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Seisha Timeline]]''

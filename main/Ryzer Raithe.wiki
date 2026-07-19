@@ -1,10 +1,14 @@
 {{Infobox character
 | name = Ryzer Raithe
 | aliases = Ryzer
+| species = Alien
+| siblings = {{spoiler|book=lh-03-the-knight|[[Raion Raithe|Raion]]}}
+| titles = {{spoiler|book=lh-03-the-knight|diplomat of the Raithe family}}
+| affiliations = {{spoiler|book=lh-03-the-knight|[[Raithe family]]}}
+| professions = {{spoiler|book=lh-03-the-knight|diplomat}}
+| residence = {{spoiler|book=lh-03-the-knight|luxurious villa on the edge of a sea on the planet Visiria}}
 | appears_in = The Last Horizon
-| titles = diplomat of the Raithe family
-| affiliations = Raithe family
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 ''See also: [[Ryzer Raithe Timeline]]''

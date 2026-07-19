@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Bloody Thorn
+| abilities = {{spoiler|book=cradle-13-threshold|Empty Palm technique, Ruler technique involving needles, [[Path of Twin Stars]]}}
+| titles = {{spoiler|book=cradle-13-threshold|returning champion, Truegold rank, [[Daughter of Dread]]}}
+| affiliations = {{spoiler|book=cradle-13-threshold|[[Twin Star Sect|Twin Star sect]]}}
+| professions = {{spoiler|book=cradle-13-threshold|arena fighter}}
 | appears_in = Cradle
-| titles = returning champion, arena fighter of Truegold rank, Daughter of Dread
-| abilities = Empty Palm technique, Ruler technique involving needles, Path of Twin Stars
-| affiliations = Twin Star sect
-| introduced = Threshold: Stories from Cradle
+| introduced = [[Threshold: Stories from Cradle (novel)|Threshold: Stories from Cradle]]
 }}
 
 == Overview ==

@@ -1,7 +1,12 @@
 {{Infobox character
 | name = Kerian
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Gardener’s shear}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, collapsed the Bastion's Veil}}
+| titles = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[High Councilor]], Guild Representative}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, head of the Gardeners}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[High Gardener]], leader of the Consultant assassins}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Consultant's Guild|Consultant’s Guild]]}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, [[Council of Architects]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Chronicler}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, [[Consultant]], [[assassin]], [[Gardener]], [[Imperial Guard]]}}
+| birthplace = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Heartlander]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Kerian Timeline]]''

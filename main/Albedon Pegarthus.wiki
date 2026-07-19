@@ -1,12 +1,11 @@
 {{Infobox character
 | name = Albedon Pegarthus
-| introduced = The Knight
-| name = Albedon Pegarthus
 | aliases = Albedon
+| abilities = {{spoiler|book=lh-03-the-knight|Eraser Blade Combat Art}}
+| titles = {{spoiler|book=lh-03-the-knight|Champion of the Prime Arena}}
+| professions = {{spoiler|book=lh-03-the-knight|fighter}}
 | appears_in = The Last Horizon
-| titles = Champion of the Prime Arena
-| abilities = Eraser Blade Combat Art
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 ''See also: [[Albedon Pegarthus Timeline]]''

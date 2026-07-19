@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Akura Grace
+| abilities = {{spoiler|book=cradle-07-uncrowned|[[shadow Path]]}}
+| titles = {{spoiler|book=cradle-07-uncrowned|Underlord candidate, Akura Underlord, [[Underlord]]}}{{spoiler|book=cradle-09-bloodline|, [[Underlady]]}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Akura prime team|Akura team]], [[Akura clan]], [[Akura backup team]]}}
+| professions = {{spoiler|book=cradle-09-bloodline|warrior}}
 | appears_in = Cradle
-| titles = Underlord candidate, Akura Underlord, leader of the Akura backup team, warrior, Underlady
-| abilities = sword Path, shadow Path
-| affiliations = Akura team, Akura clan, Akura backup team
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[Akura Grace Timeline]]''

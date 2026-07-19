@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Anagi
+| abilities = {{spoiler|book=cradle-13-threshold|soulfire baptisms, [[blue madra]], [[Ruler techniques]], [[Soulfire|soulfire]], black flames}}
+| titles = {{spoiler|book=cradle-13-threshold|Overlord, [[Archlord]], provincial ruler}}
+| professions = {{spoiler|book=cradle-13-threshold|provincial ruler}}
 | appears_in = Cradle
-| titles = Overlord, Archlord, provincial ruler
-| abilities = soulfire baptisms, blue madra, Ruler techniques, soulfire, black flames
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 ''See also: [[Anagi Timeline]]''

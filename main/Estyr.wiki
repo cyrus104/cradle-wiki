@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Estyr
-| appears_in = The Elder Empire: Shadow, The Elder Empire: Sea
-| titles = Emperor's equal, Regent, Regent of the North
-| abilities = Read the truth, Intent
-| affiliations = Blackwatch
-| introduced = Of Darkness and Dawn
+| abilities = {{spoiler|book=ee-shadow-03-of-killers-and-kings|Read the truth, [[Intent]]}}
+| titles = {{spoiler|book=ee-sea-03-of-kings-and-killers|Emperor's equal, [[Regent]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, Regent of the North}}
+| professions = {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Ruler|ruler]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Darkness and Dawn (novel)|Of Darkness and Dawn]]
 }}
 
 ''See also: [[Estyr Timeline]]''

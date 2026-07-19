@@ -1,10 +1,14 @@
 {{Infobox character
 | name = Talos
 | aliases = Heir Talos
-| appears_in = The Traveler's Gate Trilogy
-| titles = Damascan royal Heir, Heir Talos, unit leader, lord
-| abilities = Traveler of Ragnarus
-| introduced = The Crimson Vault
+| parents = {{spoiler|book=tg-02-crimson-vault|[[King Zakareth the Sixth|Zakareth the Sixth]]}}
+| siblings = {{spoiler|book=tg-02-crimson-vault|[[Leah]]}}
+| abilities = {{spoiler|book=tg-02-crimson-vault|Travel}}
+| titles = {{spoiler|book=tg-02-crimson-vault|Heir, [[Lord|lord]], unit leader}}
+| professions = {{spoiler|book=tg-02-crimson-vault|royal Heir}}
+| residence = {{spoiler|book=tg-02-crimson-vault|[[Damascan camp]]}}
+| appears_in = Traveler's Gate
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 ''See also: [[Talos Timeline]]''

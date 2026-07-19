@@ -1,11 +1,10 @@
 {{Infobox character
 | name = Rudeus Maxwell
-| introduced = Of Shadow and Sea
-| name = Rudeus Maxwell
 | aliases = Maxwell
-| appears_in = The Elder Empire: Shadow
-| titles = Gladstone Kidnapper, insane revolutionary
-| introduced = Of Shadow and Sea
+| titles = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Gladstone Kidnapper]]}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, insane revolutionary}}
+| professions = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|leader}}
+| appears_in = Elder Empire
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 ''See also: [[Rudeus Maxwell Timeline]]''

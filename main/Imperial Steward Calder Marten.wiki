@@ -1,13 +1,14 @@
 {{Infobox character
 | name = Imperial Steward Calder Marten
-| introduced = Of Killers and Kings
-| name = Imperial Steward Calder Marten
 | aliases = Captain Calder, Calder Marten
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Imperial Steward, Captain of The Testament, Captain, Reader, Navigator, Watchmaner King of this world (meant to rule as),
-| abilities = invest wood into his ship, Intent, summon Elderspawn, Reader of Memory, control the ship as part of his body, move his ship through consciousness, duelist, Emperor's Intent, consciousness projected through the Optasia
-| affiliations = Blackwatch, Navigator's Guild, The Testament, The Reliable, Aurelian Empire
-| introduced = Of Killers and Kings
+| spouse = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Jyrine Tessella Marten|Jyrine]]}}
+| parents = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Rojric]], [[Alsa Grayweather]]}}
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|invest wood into his ship, Intent to summon Elderspawn}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, Reading to glimpse his wife}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, move his ship through consciousness}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[Emperor’s Intent|Emperor's Intent]]}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Captain, [[Navigator]], Captain of The Testament}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, Emperor}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, [[Imperial Steward]], King, Watchman, King of this world}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Testament]], [[Blackwatch]]}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, [[Navigator’s Guild|Navigator's Guild]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[The Reliable]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Captain, [[Navigator]], [[Blackwatch]]}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, duelist}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, Consultant saboteur}}
+| appears_in = Elder Empire
+| introduced = [[Of Killers and Kings (novel)|Of Killers and Kings]]
 }}
 
 ''See also: [[Imperial Steward Calder Marten Timeline]]''

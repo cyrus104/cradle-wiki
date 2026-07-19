@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Min Shuei
+| abilities = {{spoiler|book=cradle-11-dreadgod|silver flash inside her soul that can cleanse techniques}}
+| titles = {{spoiler|book=cradle-07-uncrowned|[[Winter Sage]], [[Sage]]}}{{spoiler|book=cradle-08-wintersteel|, Sage of Frozen Blade}}
+| professions = {{spoiler|book=cradle-08-wintersteel|peacemaker}}{{spoiler|book=cradle-12-waybound|, teacher}}
 | appears_in = Cradle
-| titles = Winter Sage, Sage of Frozen Blade, Sage
-| abilities = silver flash inside her soul that can cleanse techniques
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[Min Shuei Timeline]]''

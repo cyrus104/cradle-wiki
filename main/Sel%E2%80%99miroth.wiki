@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Sel’miroth
+| abilities = {{spoiler|book=lh-03-the-knight|spellcaster, hypnotist}}
+| titles = {{spoiler|book=lh-03-the-knight|one of the Seven Calamities, great D’Niss, lone survivor of the Seven Calamities}}
 | appears_in = The Last Horizon
-| titles = one of the Seven Calamities, great D’Niss, lone survivor of the Seven Calamities
-| abilities = spellcaster, hypnotist
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 == Overview ==

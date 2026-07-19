@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Mekendi Maxeus
 | aliases = Maxeus, Mekendi
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = instructor at the Capital’s Imperial Academy, Guild Head, Head of the Magisters, Magister
-| affiliations = Magisters
-| introduced = Of Sea and Shadow
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Blackwatch Guild Head|Guild Head]], Head of the Magisters, [[Magister]]}}
+| affiliations = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Guild of Magisters|Magister’s Guild]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|instructor, orator, [[Magister]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Mekendi Maxeus Timeline]]''

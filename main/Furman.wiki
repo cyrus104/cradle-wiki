@@ -1,10 +1,8 @@
 {{Infobox character
 | name = Furman
-| appears_in = The Elder Empire: Shadow, The Elder Empire: Sea
-| titles = servant, assistant, leader of the alchemists, duplicate
-| abilities = alchemist
-| affiliations = Mason
-| introduced = Of Shadow and Sea
+| professions = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|servant}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, alchemist}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[assistant]], [[Mason]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 == Overview ==

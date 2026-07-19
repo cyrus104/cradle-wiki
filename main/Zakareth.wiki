@@ -1,8 +1,12 @@
 {{Infobox character
 | name = Zakareth
-| appears_in = The Traveler's Gate Trilogy
-| titles = King, King of Damasca
-| introduced = House of Blades
+| children = {{spoiler|book=tg-03-city-of-light|[[Talos]]}}
+| titles = {{spoiler|book=tg-01-house-of-blades|King, [[King of Damasca]]}}
+| affiliations = {{spoiler|book=tg-02-crimson-vault|army}}
+| professions = {{spoiler|book=tg-01-house-of-blades|King}}
+| residence = {{spoiler|book=tg-03-city-of-light|palace}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Zakareth Timeline]]''

@@ -1,12 +1,10 @@
 {{Infobox character
 | name = Azea Farstrider
-| introduced = Of Kings and Killers
-| name = Azea Farstrider
 | aliases = Azea
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = twin head of the Witness Guild, twin Head of the Guild of Witnesses, one of the twin Witnesses
-| affiliations = Witness Guild, Guild of Witnesses
-| introduced = Of Kings and Killers
+| titles = {{spoiler|book=ee-sea-03-of-kings-and-killers|twin head, twin head of the Witness Guild, twin Head of the Guild of Witnesses}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, twin Witness}}
+| affiliations = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Witness Guild]], [[Guild of Witnesses]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
 }}
 
 == Overview ==

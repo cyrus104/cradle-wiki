@@ -1,10 +1,13 @@
 {{Infobox character
 | name = King Zakareth VI
 | aliases = King Zakareth
-| appears_in = The Traveler's Gate Trilogy
-| titles = King, Evening Star, Ragnarus Incarnation
-| abilities = wields the crimson Ragnarus blade
-| introduced = House of Blades
+| children = {{spoiler|book=tg-02-crimson-vault|[[Leah]]}}{{spoiler|book=tg-03-city-of-light|, [[Talos|Heir Talos]]}}
+| abilities = {{spoiler|book=tg-03-city-of-light|wields the crimson Ragnarus blade}}
+| titles = {{spoiler|book=tg-01-house-of-blades|King}}{{spoiler|book=tg-02-crimson-vault|, Evening Star}}{{spoiler|book=tg-03-city-of-light|, [[Ragnarus Incarnation]]}}
+| professions = {{spoiler|book=tg-01-house-of-blades|King}}
+| residence = {{spoiler|book=tg-02-crimson-vault|[[Damasca]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[King Zakareth VI Timeline]]''

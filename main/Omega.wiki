@@ -1,10 +1,15 @@
 {{Infobox character
 | name = Omega
+| parents = {{spoiler|book=lh-04-the-pilot|Omega is Aila Escalon's father}}
+| children = {{spoiler|book=lh-04-the-pilot|[[Aila Escalon]], Jak}}
+| abilities = {{spoiler|book=lh-01-the-captain|dissolving his body into a gray mass, moving through Subspace, regenerate from gray ooze, [[Subspace Drive]], [[enchantment-breaking gun]]}}{{spoiler|book=lh-02-the-engineer|, [[contract magic]], folding into himself}}{{spoiler|book=lh-03-the-knight|, unique Subspace warp}}
+| titles = {{spoiler|book=lh-01-the-captain|[[Grave Hound]]}}{{spoiler|book=lh-04-the-pilot|, [[World Spirit]], founder of Escalon}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[The Last Horizon]]}}{{spoiler|book=lh-02-the-engineer|, [[Escalon Company]]}}{{spoiler|book=lh-03-the-knight|, [[Titan Knights]]}}
+| professions = {{spoiler|book=lh-01-the-captain|[[assassin]]}}{{spoiler|book=lh-02-the-engineer|, [[Pilot|pilot]], mercenary, hired murderer}}
+| birthplace = {{spoiler|book=lh-04-the-pilot|[[Zykaros system]]}}
+| residence = {{spoiler|book=lh-04-the-pilot|[[Shadow Ark]]}}
 | appears_in = The Last Horizon
-| titles = Grave Hound, Omal, assassin, Pilot, hired murderer of the Escalon Company
-| abilities = dissolving his body into a gray mass, moving through Subspace, regenerate from gray ooze, pop in and out of Subspace, devour others and drag them through Subspace, assemble a gun from his dark ooze, vanishing by folding into himself
-| affiliations = The Last Horizon, Escalon Company
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Omega Timeline]]''

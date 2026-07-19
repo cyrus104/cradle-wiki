@@ -1,8 +1,9 @@
 {{Infobox character
 | name = Green Knight
+| titles = {{spoiler|book=lh-03-the-knight|[[Titan Knight]], [[Green Knight]]}}
+| professions = {{spoiler|book=lh-03-the-knight|[[Pilot|pilot]]}}
 | appears_in = The Last Horizon
-| titles = Titan Knight
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 == Overview ==

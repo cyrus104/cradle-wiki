@@ -1,8 +1,10 @@
 {{Infobox character
 | name = Nakothi
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Dead Mother, Great Elder, ruler
-| introduced = Of Sea and Shadow
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Dead Mother]], [[Great Elder]]}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, [[Ruler|ruler]]}}
+| professions = {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Ruler|ruler]]}}
+| residence = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Nakothi]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Nakothi Timeline]]''

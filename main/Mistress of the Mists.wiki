@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Mistress of the Mists
-| appears_in = The Elder Empire: Shadow
-| titles = Mistress of the Mists, Consultant Guild Head
-| affiliations = the Guild
-| introduced = Of Shadow and Sea
+| titles = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Mistress of the Mists]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, Consultant Guild Head}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Am’haranai]]}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, [[The Guild|the Guild]]}}
+| professions = {{spoiler|book=ee-shadow-03-of-killers-and-kings|Consultant Guild Head}}
+| appears_in = Elder Empire
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 ''See also: [[Mistress of the Mists Timeline]]''

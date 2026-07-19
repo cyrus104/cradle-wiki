@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Rune Queen
+| abilities = {{spoiler|book=cradle-12-waybound|[[Authority|authority]], manipulations of her ancient script}}
+| titles = {{spoiler|book=cradle-11-dreadgod|[[Rune Queen]]}}
+| residence = {{spoiler|book=cradle-11-dreadgod|[[Shatterspine Castle]]}}
 | appears_in = Cradle
-| titles = Rune Queen
-| abilities = manipulations of her ancient script, Grand Oath Array
-| introduced = Dreadgod
+| introduced = [[Dreadgod (novel)|Dreadgod]]
 }}
 
 ''See also: [[Rune Queen Timeline]]''

@@ -1,8 +1,9 @@
 {{Infobox character
 | name = Duskwinder
-| appears_in = The Elder Empire: Shadow, The Elder Empire: Sea
-| affiliations = Kameira
-| introduced = Of Shadow and Sea
+| abilities = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|smell blood}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kameira]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 == Overview ==

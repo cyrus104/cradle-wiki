@@ -1,13 +1,11 @@
 {{Infobox character
 | name = Sage of Calling Storms
-| introduced = Uncrowned
-| name = Sage of Calling Storms
 | aliases = Calling Storms
+| abilities = {{spoiler|book=cradle-10-reaper|divining the future}}{{spoiler|book=cradle-12-waybound|, [[Storm madra|storm madra]], call living lightning, regeneration}}
+| titles = {{spoiler|book=cradle-07-uncrowned|[[Sage of Calling Storms]]}}{{spoiler|book=cradle-12-waybound|, [[Archlord]]}}
+| affiliations = {{spoiler|book=cradle-10-reaper|Reigan Shen's subordinates}}
 | appears_in = Cradle
-| titles = Sage of Calling Storms, Archlord
-| abilities = divining the future, storm madra, call living lightning, regeneration
-| affiliations = Stormcallers, Reigan Shen's subordinates
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[Sage of Calling Storms Timeline]]''

@@ -1,6 +1,9 @@
 {{Infobox character
 | name = Feiora Torannus (The Traveler's Gate Trilogy)
-| introduced = City of Light
+| abilities = {{spoiler|book=tg-03-city-of-light|open a Gate, summon a spear}}
+| titles = {{spoiler|book=tg-03-city-of-light|Overlord}}
+| appears_in = Traveler's Gate
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
 == City of Light ==

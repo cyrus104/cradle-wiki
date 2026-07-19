@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Prince Seishen Kiro
-| introduced = Underlord
-| name = Prince Seishen Kiro
 | aliases = Prince Kiro, Seishen Kiro, Kiro
+| parents = {{spoiler|book=cradle-06-underlord|[[Dakata]]}}
+| siblings = {{spoiler|book=cradle-06-underlord|[[Riyusai Meira|Meira]], [[Seishen Daji|Daji]]}}
+| abilities = {{spoiler|book=cradle-06-underlord|combat techniques, [[Striker technique]]}}
+| titles = {{spoiler|book=cradle-06-underlord|Prince, first prince, [[Underlord]], star Underlord}}{{spoiler|book=cradle-13-threshold|, original crown prince}}
+| affiliations = {{spoiler|book=cradle-06-underlord|[[Seishen Kingdom]]}}
 | appears_in = Cradle
-| titles = Prince, first prince, Underlord, star Underlord, original crown prince
-| abilities = combat techniques, Path with aspects of earth and force, Striker technique
-| affiliations = Seishen Kingdom
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 ''See also: [[Prince Seishen Kiro Timeline]]''

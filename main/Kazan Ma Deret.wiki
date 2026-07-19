@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Kazan Ma Deret
+| abilities = {{spoiler|book=cradle-01-unsouled|[[Path of the Mountain’s Heart]]}}
+| professions = {{spoiler|book=cradle-01-unsouled|[[Forger]]}}
 | appears_in = Cradle
-| titles = Iron, Forger
-| abilities = Path of the Mountain’s Heart
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 == Overview ==

@@ -1,9 +1,11 @@
 {{Infobox character
 | name = Xorrus
+| children = {{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]]}}
+| titles = {{spoiler|book=cradle-07-uncrowned|Dragon King's left hand, left hand of the Dragon Monarch, Desert-bringer, the Breath of Destruction, the Eternal Sandstorm, [[Herald]]}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|original pact of Ghostwater, [[Heralds]]}}
+| residence = {{spoiler|book=cradle-12-waybound|Eastern Ashwind}}
 | appears_in = Cradle
-| titles = Dragon King's left hand, left hand of the Dragon Monarch, Desert-bringer, the Breath of Destruction, the Eternal Sandstorm, Herald
-| affiliations = Heralds
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[Xorrus Timeline]]''

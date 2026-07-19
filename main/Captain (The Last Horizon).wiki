@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Captain (The Last Horizon)
+| titles = {{spoiler|book=lh-01-the-captain|Captain}}
+| affiliations = {{spoiler|book=lh-01-the-captain|crew on The Last Horizon, [[The Last Horizon]], [[The Zenith Starship|Zenith Starship]]}}
+| professions = {{spoiler|book=lh-01-the-captain|Captain, leader}}{{spoiler|book=lh-02-the-engineer|, crew member}}
 | appears_in = The Last Horizon
-| titles = Captain
-| abilities = magic
-| affiliations = crew on The Last Horizon, Zenith Starship
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Captain (The Last Horizon) Timeline]]''

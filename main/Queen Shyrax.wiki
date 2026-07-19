@@ -1,11 +1,14 @@
 {{Infobox character
 | name = Queen Shyrax
 | aliases = Shyrax
+| siblings = {{spoiler|book=lh-04-the-pilot|[[Prince Veshran|Veshran]]}}
+| abilities = {{spoiler|book=lh-02-the-engineer|[[telekinesis]], [[t’rshentha]], [[Enhancement]]}}{{spoiler|book=lh-03-the-knight|, [[Perfected infiltration]]}}{{spoiler|book=lh-04-the-pilot|, draconic magic}}
+| titles = {{spoiler|book=lh-01-the-captain|[[Queen]]}}{{spoiler|book=lh-02-the-engineer|, Highness, [[Commander]], Exiled Queen of Karosha, [[Rebel Queen]], Your Highness, exiled Queen of Karosha}}
+| affiliations = {{spoiler|book=lh-01-the-captain|rebels}}{{spoiler|book=lh-03-the-knight|, Varic's crew}}{{spoiler|book=lh-04-the-pilot|, The Last Horizon's crew}}
+| professions = {{spoiler|book=lh-01-the-captain|[[Queen]]}}{{spoiler|book=lh-02-the-engineer|, [[Commander|commander]], journeyman Technician, Captain, bodyguard}}{{spoiler|book=lh-03-the-knight|, [[Aether Technician]]}}
+| residence = {{spoiler|book=lh-04-the-pilot|[[Basyrryx]]}}
 | appears_in = The Last Horizon
-| titles = Queen, Highness, Commander, Your Highness, exiled Queen of Karosha, Rebel Queen de Karosha/the Rebel Queen
-| abilities = telekinesis, manifest a golden dragon's wing, t’rshentha, Enhancement
-| affiliations = rebels, crew of the Zenith Starship, Varic's crew
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Queen Shyrax Timeline]]''

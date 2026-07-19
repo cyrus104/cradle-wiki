@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Kthanikahr
 | aliases = Kethanikahr
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Worm Lord, grave-bug, Great Elder
-| affiliations = Sleepless
-| introduced = Of Sea and Shadow
+| titles = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Worm Lord]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, grave-bug}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[Great Elder]]}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Sleepless]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Kthanikahr Timeline]]''

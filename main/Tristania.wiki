@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Tristania
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = the Silent One, Chronicler
-| abilities = dark whip that produces pale light and lightning, explosive whip, Soulbound Vessel
-| affiliations = Guild of Witnesses
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|dark whip that produces pale light and lightning, explosive whip}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, [[Soulbound Vessel]]}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Silent One|the Silent One]]}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Guild of Witnesses]]}}
+| professions = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Chronicler}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Tristania Timeline]]''

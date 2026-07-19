@@ -2,7 +2,9 @@
 
 {{Infobox character
 | name = Red gnomes
-| introduced = City of Light
+| aliases = red gnomes
+| appears_in = Traveler's Gate
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
 == City of Light ==

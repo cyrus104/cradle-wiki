@@ -1,13 +1,11 @@
 {{Infobox character
 | name = Sage of the Silver Heart
-| introduced = Ghostwater
-| name = Sage of the Silver Heart
 | aliases = Sage of Silver Heart
+| abilities = {{spoiler|book=cradle-06-underlord|fade into shadow}}{{spoiler|book=cradle-09-bloodline|, weaving space and shadow to create portals}}
+| titles = {{spoiler|book=cradle-05-ghostwater|[[Sage of the Silver Heart]]}}
+| affiliations = {{spoiler|book=cradle-06-underlord|[[Akura clan|Akura family]], [[Akura clan]]}}
 | appears_in = Cradle
-| titles = Sage of the Silver Heart
-| abilities = fade into shadow, weaving space and shadow to create portals
-| affiliations = Akura family
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 ''See also: [[Sage of the Silver Heart Timeline]]''

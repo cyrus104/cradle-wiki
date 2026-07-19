@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Chon Ma
+| titles = {{spoiler|book=cradle-04-skysworn|[[Underlord]], head of the Cloud Hammer School}}{{spoiler|book=cradle-05-ghostwater|, Cloud Hammer Underlord}}
+| affiliations = {{spoiler|book=cradle-04-skysworn|[[Blackflame Empire]], [[Cloud Hammer School]]}}
 | appears_in = Cradle
-| titles = Underlord, head of the Cloud Hammer School, Cloud Hammer Underlord
-| affiliations = Blackflame Empire, Cloud Hammer School
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 == Overview ==

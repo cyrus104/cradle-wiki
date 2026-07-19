@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Kiuran
 | aliases = Kiuran the Hound, Kiuran of the Hounds
+| titles = {{spoiler|book=cradle-08-wintersteel|[[Hound]], heavenly messenger, [[Kiuran|Kiuran the Hound]]}}{{spoiler|book=cradle-12-waybound|, one-star Titan}}
+| affiliations = {{spoiler|book=cradle-08-wintersteel|[[Hounds]], [[Abidan]]}}
+| professions = {{spoiler|book=cradle-08-wintersteel|heavenly messenger}}
 | appears_in = Cradle
-| titles = Hound, heavenly messenger, one-star Titan
-| affiliations = Hounds, Abidan
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 ''See also: [[Kiuran Timeline]]''

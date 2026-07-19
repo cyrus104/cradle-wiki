@@ -1,10 +1,15 @@
 {{Infobox character
 | name = Leah
-| appears_in = The Traveler's Gate Trilogy
-| titles = Highness, Heiress Leah, Heiress of the Damascan royal family, Successor to the throne
-| abilities = take a life with a stray thought, scrying lens, construct crystals from the same stone as her bracelet, tap into her Source, reach into Lirial and summon crystal, Ragnarus Traveler
-| affiliations = Damascan royal family
-| introduced = House of Blades
+| parents = {{spoiler|book=tg-01-house-of-blades|[[Kelia]], [[King Zakareth the Sixth|Zakareth the Sixth]]}}{{spoiler|book=tg-02-crimson-vault|, [[King Zakareth VI|King Zakareth]]}}
+| siblings = {{spoiler|book=tg-02-crimson-vault|[[Talos]]}}
+| abilities = {{spoiler|book=tg-01-house-of-blades|take a life with a stray thought}}{{spoiler|book=tg-02-crimson-vault|, construct crystals from the same stone as her bracelet, tap into her Source, summon and empower Lirial devices, reach into Lirial and summon crystal}}{{spoiler|book=tg-03-city-of-light|, open the Crimson Vault, track the target's destination}}
+| titles = {{spoiler|book=tg-01-house-of-blades|Highness, Overlord}}{{spoiler|book=tg-02-crimson-vault|, Heiress Leah, Heiress of the Damascan royal family, Successor to the throne, Queen of Damasca}}
+| affiliations = {{spoiler|book=tg-02-crimson-vault|Damascan royal family}}
+| professions = {{spoiler|book=tg-01-house-of-blades|spy, Overlord}}{{spoiler|book=tg-02-crimson-vault|, [[Queen|queen]], [[Queen]]}}
+| birthplace = {{spoiler|book=tg-01-house-of-blades|[[Bel Calem]]}}
+| residence = {{spoiler|book=tg-01-house-of-blades|[[Myria]], the Overlord's house}}{{spoiler|book=tg-02-crimson-vault|, [[Damasca]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Leah Timeline]]''

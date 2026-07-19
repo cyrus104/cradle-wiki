@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Mell D-One-Twenty-Five
-| introduced = The Engineer
-| name = Mell D-One-Twenty-Five
 | aliases = Doctor Mell, Mell
+| abilities = {{spoiler|book=lh-02-the-engineer|[[Temporal Field]], decoy-bots, [[Nova-Bots]]}}
+| titles = {{spoiler|book=lh-02-the-engineer|Doctor, [[Doctor Nova]]}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[The Last Horizon]]}}{{spoiler|book=lh-02-the-engineer|, [[The Zenith Starship|Zenith Starship]]}}
+| professions = {{spoiler|book=lh-02-the-engineer|[[Technicians|Technician]], [[Engineer]], [[Aether Technician]]}}{{spoiler|book=lh-03-the-knight|, [[wizard]]}}{{spoiler|book=lh-04-the-pilot|, [[Aether Technician|master Aether Technician]]}}
+| residence = {{spoiler|book=lh-01-the-captain|[[The Last Horizon]]}}{{spoiler|book=lh-02-the-engineer|, [[Advocate prison]]}}
 | appears_in = The Last Horizon
-| titles = Doctor Mell, Doctor Nova, Technician, Engineer, Aether Technician, master Aether Technician
-| abilities = Temporal Field, decoy-bots, transfer her consciousness to a robot using a helmet, android gift
-| affiliations = The Last Horizon, Zenith Starship, crew of The Last Horizon
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 ''See also: [[Mell D-One-Twenty-Five Timeline]]''

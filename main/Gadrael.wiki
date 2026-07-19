@@ -1,11 +1,12 @@
 {{Infobox character
 | name = Gadrael
 | aliases = Mantle of Gadrael
+| abilities = {{spoiler|book=cradle-10-reaper|script-formations, warn}}{{spoiler|book=cradle-13-threshold|, bind, burden}}
+| titles = {{spoiler|book=cradle-01-unsouled|Second Judge of the Abidan Court, Makiel’s loyal right hand, [[judge|Judge]]}}{{spoiler|book=cradle-07-uncrowned|, [[Titan]]}}{{spoiler|book=cradle-13-threshold|, second of the Court of Seven}}
+| affiliations = {{spoiler|book=cradle-01-unsouled|[[Abidan Court]], [[Abidan]]}}
+| professions = {{spoiler|book=cradle-01-unsouled|[[judge|Judge]]}}
 | appears_in = Cradle
-| titles = Second Judge of the Abidan Court, Makiel’s loyal right hand, Judge, Titan, the second of the Court of Seven
-| abilities = script-formations, bind, burden, warn
-| affiliations = Abidan Court, Abidan
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Gadrael Timeline]]''

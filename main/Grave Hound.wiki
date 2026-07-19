@@ -1,8 +1,9 @@
 {{Infobox character
 | name = Grave Hound
+| titles = {{spoiler|book=lh-02-the-engineer|[[Grave Hound]]}}
+| affiliations = {{spoiler|book=lh-02-the-engineer|Syndicates}}
 | appears_in = The Last Horizon
-| titles = Grave Hound
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == Overview ==

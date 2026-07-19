@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Mariala Brechess
-| introduced = The Captain
-| name = Mariala Brechess
 | aliases = Mariala
+| abilities = {{spoiler|book=lh-01-the-captain|[[fortune magic]]}}{{spoiler|book=lh-04-the-pilot|, see the future through Aetheric symbols, prepare spells in advance, cast fortune spells, cast offensive spells}}
+| affiliations = {{spoiler|book=lh-01-the-captain|Brechess family}}{{spoiler|book=lh-03-the-knight|, [[Magic Tower]]}}{{spoiler|book=lh-04-the-pilot|, group of six students}}
+| professions = {{spoiler|book=lh-01-the-captain|student}}{{spoiler|book=lh-03-the-knight|, mage}}{{spoiler|book=lh-04-the-pilot|, [[wizard]]}}
+| residence = {{spoiler|book=lh-02-the-engineer|[[The Zenith Starship|Zenith Starship]]}}
 | appears_in = The Last Horizon
-| titles = student, mage, wizard
-| abilities = fortune magic, see the future through Aetheric symbols, prepare spells in advance, cast fortune spells, cast offensive spells
-| affiliations = Brechess family, Magic Tower, group of six students
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Mariala Brechess Timeline]]''

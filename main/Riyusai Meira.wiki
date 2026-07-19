@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Riyusai Meira
-| introduced = Underlord
-| name = Riyusai Meira
 | aliases = Meira
+| abilities = {{spoiler|book=cradle-06-underlord|scythe-blade of green flame, [[Iron body]], [[Ruler technique]], sword and blood techniques, lance of life-madra}}
+| titles = {{spoiler|book=cradle-06-underlord|[[Underlady]], star Underlord of the Seishen Kingdom, [[Underlord]]}}{{spoiler|book=cradle-07-uncrowned|, Seishen Underlady}}
+| affiliations = {{spoiler|book=cradle-06-underlord|[[Seishen Kingdom]]}}
+| professions = {{spoiler|book=cradle-06-underlord|keeper of the Seishen royal garden}}{{spoiler|book=cradle-08-wintersteel|, [[life artist]]}}
+| residence = {{spoiler|book=cradle-06-underlord|[[Seishen royal garden]]}}
 | appears_in = Cradle
-| titles = keeper of the Seishen royal garden, Underlady, spirit of an Underlord, star Underlord of the Seishen Kingdom, Underlord, Seishen Underlady
-| abilities = scythe-blade of green flame, Iron body, Ruler technique, sword and blood techniques, conjure life madra, lance of life-madra, life artist
-| affiliations = Seishen Kingdom
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 ''See also: [[Riyusai Meira Timeline]]''

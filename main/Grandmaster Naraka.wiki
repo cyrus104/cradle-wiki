@@ -1,9 +1,11 @@
 {{Infobox character
 | name = Grandmaster Naraka
-| appears_in = The Traveler's Gate Trilogy
-| titles = Grandmaster, Traveler, avatar of her Territory
-| abilities = produce red fireflies from her hands, summon a head that looks like a jet-black crocodile's head on a long, serpentine neck, Asphodel mist-binder, contact the denizens of Naraka with her mind
-| introduced = House of Blades
+| abilities = {{spoiler|book=tg-02-crimson-vault|produce red fireflies, summon a head that looks like a jet-black crocodile's head on a long, serpentine neck, Asphodel mist-binder, contact the denizens of Naraka with her mind}}
+| titles = {{spoiler|book=tg-01-house-of-blades|Grandmaster}}{{spoiler|book=tg-02-crimson-vault|, avatar of her Territory}}
+| professions = {{spoiler|book=tg-02-crimson-vault|Asphodel mist-binder}}
+| residence = {{spoiler|book=tg-01-house-of-blades|[[Naraka]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Grandmaster Naraka Timeline]]''

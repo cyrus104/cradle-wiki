@@ -1,10 +1,13 @@
 {{Infobox character
 | name = Horizon
+| siblings = {{spoiler|book=lh-02-the-engineer|unnamed brother, sisters}}
+| abilities = {{spoiler|book=lh-01-the-captain|digital competition for crew seats, [[Aethertech scanners]], spells that are memories of past lives brought to life, pinnacle spell}}{{spoiler|book=lh-02-the-engineer|, Aethertech gift, Engineer's gift}}
+| titles = {{spoiler|book=lh-01-the-captain|[[World Spirit]], Knight, Captain}}{{spoiler|book=lh-03-the-knight|, Hero of The Last Horizon}}{{spoiler|book=lh-04-the-pilot|, [[Commander]]}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[The Last Horizon]]}}{{spoiler|book=lh-02-the-engineer|, [[Shadow Ark]]}}
+| professions = {{spoiler|book=lh-02-the-engineer|wizard captain}}{{spoiler|book=lh-03-the-knight|, [[Pilot|pilot]]}}
+| residence = {{spoiler|book=lh-01-the-captain|[[The Last Horizon]]}}
 | appears_in = The Last Horizon
-| titles = World Spirit, Knight
-| abilities = digital competition for crew seats, transfer a person's consciousness to a virtual space, manifest as a holographic form, moving the group within a ship, recall them to the ship, manifest as multiple projections, forward cannons, turrets that manifest out of Subspace, bright green plasma bolts, crimson lasers way spell-enhanced bullets way shift the ship's internal structure at will way conjure floating eyeballs to act as scanners way project holographic words onto the air way Aethertech scanners way control thousands of hands and eyes through her magic way spells that are memories of past lives brought to life way pinnacle spell
-| affiliations = The Last Horizon
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Horizon Timeline]]''

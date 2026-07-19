@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Overlord (The Traveler's Gate Trilogy)
-| appears_in = The Traveler's Gate Trilogy
-| titles = Overlord
-| affiliations = Grandmasters, Travelers, throne of Damasca
-| introduced = House of Blades
+| titles = {{spoiler|book=tg-01-house-of-blades|Overlord}}
+| affiliations = {{spoiler|book=tg-02-crimson-vault|throne of Damasca, [[Grandmasters]], [[Travelers]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Overlord (The Traveler's Gate Trilogy) Timeline]]''

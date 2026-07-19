@@ -1,7 +1,9 @@
 {{Infobox character
 | name = Hariman
-| appears_in = The Traveler's Gate Trilogy
-| introduced = House of Blades
+| titles = {{spoiler|book=tg-03-city-of-light|Denner's advisor, advisor}}
+| professions = {{spoiler|book=tg-03-city-of-light|advisor}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Hariman Timeline]]''

@@ -1,11 +1,11 @@
 {{Infobox character
 | name = Swarm-Queen
 | aliases = Swarm Queen
+| species = Alien
+| titles = {{spoiler|book=lh-01-the-captain|[[Swarm-Queen]]}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[D’Niss|D'Niss]]}}
 | appears_in = The Last Horizon
-| titles = Swarm-Queen
-| abilities = restrict magic to a ship
-| affiliations = D'Niss
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Swarm-Queen Timeline]]''

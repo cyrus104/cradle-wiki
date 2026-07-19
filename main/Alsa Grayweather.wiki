@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Alsa Grayweather
-| introduced = Of Sea and Shadow
-| name = Alsa Grayweather
 | aliases = Alsa
-| appears_in = The Elder Empire: Sea
-| titles = commander of the outpost, right hand of the Blackwatch Guild
-| abilities = Reader, Read the heart, summon Elderspawn
-| affiliations = Blackwatch, Blackwatch Guild
-| introduced = Of Sea and Shadow
+| children = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Imperial Steward Calder Marten|Calder Marten]]}}
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Read the heart, summon Elderspawn}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|commander of the outpost, right hand of the Blackwatch Guild}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Blackwatch]], [[Blackwatch|Blackwatch Guild]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Commander|commander]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Alsa Grayweather Timeline]]''

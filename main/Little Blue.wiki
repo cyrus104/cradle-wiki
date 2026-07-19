@@ -1,9 +1,11 @@
 {{Infobox character
 | name = Little Blue
+| abilities = {{spoiler|book=cradle-03-blackflame|scrub a spirit clean of Blackflame aura buildup}}{{spoiler|book=cradle-05-ghostwater|, touch and affect madra, cleanse and reinforce madra channels, flood Orthos with power}}{{spoiler|book=cradle-11-dreadgod|, purify corruption of her spirit, consume spirits to grow more powerful}}
+| titles = {{spoiler|book=cradle-03-blackflame|[[Riverseed]]}}{{spoiler|book=cradle-12-waybound|, [[Herald]]}}
+| professions = {{spoiler|book=cradle-03-blackflame|[[Sylvan]]}}{{spoiler|book=cradle-10-reaper|, companion}}
+| residence = {{spoiler|book=cradle-05-ghostwater|Lindon's pocket}}{{spoiler|book=cradle-08-wintersteel|, [[Lindon's void key]]}}{{spoiler|book=cradle-11-dreadgod|, Yerin's soulspace}}
 | appears_in = Cradle
-| titles = Riverseed, Sylvan
-| abilities = scrub a spirit clean of Blackflame aura buildup, soothe Lindon's channels and spirit with a cold spark, washes madra channels clean, heal Lindon's shattered spirit, touch and affect madra, cleanse and reinforce madra channels, flood Orthos with power, relieve pain in Lindon's spirit
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[Little Blue Timeline]]''

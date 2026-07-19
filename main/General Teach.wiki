@@ -1,9 +1,11 @@
 {{Infobox character
 | name = General Teach
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = General, Head of the Imperial Guard, Officer, Guard
-| affiliations = Imperial Guard
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Tyrfang]]}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|General}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, Head of the Imperial Guard}}
+| affiliations = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Imperial Guard]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|military leader}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, officer, Guard}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[General Teach Timeline]]''

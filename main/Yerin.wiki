@@ -1,10 +1,14 @@
 {{Infobox character
 | name = Yerin
+| siblings = {{spoiler|book=cradle-02-soulsmith|[[Eithan]]}}
+| children = {{spoiler|book=cradle-05-ghostwater|[[Mercy]]}}
+| abilities = {{spoiler|book=cradle-01-unsouled|[[Path of the Endless Sword]], Endless Sword technique}}{{spoiler|book=cradle-03-blackflame|, [[Flowing Sword]]}}{{spoiler|book=cradle-05-ghostwater|, Rippling Sword Striker technique}}{{spoiler|book=cradle-07-uncrowned|, Shadow technique, [[Final Sword]]}}{{spoiler|book=cradle-08-wintersteel|, [[Moonlight Bridge]], Hidden Sword technique}}{{spoiler|book=cradle-10-reaper|, [[Netherclaw]]}}{{spoiler|book=cradle-12-waybound|, [[Phoenix Song]]}}
+| titles = {{spoiler|book=cradle-01-unsouled|[[Ruler]]}}{{spoiler|book=cradle-02-soulsmith|, Gold stage sacred artist, legendary Gold}}{{spoiler|book=cradle-06-underlord|, [[Underlady]]}}{{spoiler|book=cradle-08-wintersteel|, [[Overlady]]}}{{spoiler|book=cradle-10-reaper|, [[Herald]]}}{{spoiler|book=cradle-11-dreadgod|, [[Overlord Herald]]}}{{spoiler|book=cradle-12-waybound|, [[Uncrowned Queen]]}}{{spoiler|book=cradle-13-threshold|, Death Monarch, Overlady Herald}}
+| affiliations = {{spoiler|book=cradle-02-soulsmith|[[Fishers]]}}{{spoiler|book=cradle-04-skysworn|, [[Redmoon Hall]], [[Skysworn]], [[Arelius family]]}}
+| professions = {{spoiler|book=cradle-01-unsouled|warrior}}{{spoiler|book=cradle-02-soulsmith|, teacher, [[Enforcer]], miner, combatant}}{{spoiler|book=cradle-04-skysworn|, [[Emissaries|emissary]]}}{{spoiler|book=cradle-08-wintersteel|, apprentice}}
+| birthplace = {{spoiler|book=cradle-02-soulsmith|[[Sacred Valley]]}}
 | appears_in = Cradle
-| titles = Ruler, Gold stage sacred artist, legendary Gold, Enforcer, Lowgold practitioner, teacher
-| abilities = Path of the Endless Sword, Endless Sword technique, sword madra, Striker techniques
-| affiliations = Fishers
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Yerin Timeline]]''

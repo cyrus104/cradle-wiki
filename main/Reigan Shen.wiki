@@ -1,11 +1,14 @@
 {{Infobox character
 | name = Reigan Shen
 | aliases = Reigan
+| abilities = {{spoiler|book=cradle-07-uncrowned|[[Path of the King’s Key]], control over an extra-spatial vault}}{{spoiler|book=cradle-08-wintersteel|, mastery over spatial travel, spatial transfer artifact}}{{spoiler|book=cradle-09-bloodline|, teleportation anchor}}{{spoiler|book=cradle-10-reaper|, Striker technique of sword madra, [[Soulfire|soulfire]]}}{{spoiler|book=cradle-11-dreadgod|, [[hunger madra]]}}{{spoiler|book=cradle-12-waybound|, [[King’s Key madra]], [[spirit-sense|spiritual sense]]}}
+| titles = {{spoiler|book=cradle-06-underlord|[[Monarch]]}}{{spoiler|book=cradle-07-uncrowned|, Emperor of Lions, Monarch of the Rosegold continent, [[Uncrowned King]], conqueror, Monarch of the King’s Key}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Dreadgod cults]]}}{{spoiler|book=cradle-08-wintersteel|, [[Ninecloud Court]]}}{{spoiler|book=cradle-13-threshold|, [[House Gray]], [[House Shen]]}}
+| professions = {{spoiler|book=cradle-10-reaper|[[Soulsmith]]}}
+| birthplace = {{spoiler|book=cradle-07-uncrowned|western plains of the Rosegold continent}}
+| residence = {{spoiler|book=cradle-07-uncrowned|[[Rosegold]], palace}}
 | appears_in = Cradle
-| titles = Monarch, Emperor of Lions, Monarch of the Rosegold continent, victor of the first Uncrowned King tournament, conqueror, glory-seekerer, imperialist, and daring innovator
-| abilities = Path of the King’s Key, control over an extra-spatial vault, mastery over spatial travel
-| affiliations = Dreadgod cults, Ninecloud Court, Dreadgod factions
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 ''See also: [[Reigan Shen Timeline]]''

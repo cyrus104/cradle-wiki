@@ -1,10 +1,12 @@
 {{Infobox character
 | name = Larian
+| abilities = {{spoiler|book=cradle-12-waybound|Forge white arrows, sharp perception}}
+| titles = {{spoiler|book=cradle-12-waybound|Monarch of the Empire}}
+| affiliations = {{spoiler|book=cradle-01-unsouled|[[The Eight-Man Empire|Eight-Man Empire]]}}
+| professions = {{spoiler|book=cradle-07-uncrowned|archer}}
+| birthplace = {{spoiler|book=cradle-01-unsouled|[[The Eight-Man Empire|Eight-Man Empire]]}}
 | appears_in = Cradle
-| titles = Gold rank, Monarch of the Empire
-| abilities = Forge white arrows, sharp perception
-| affiliations = Eight-Man Empire
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Larian Timeline]]''

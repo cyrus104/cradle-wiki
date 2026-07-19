@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Kahn Mala
+| abilities = {{spoiler|book=cradle-13-threshold|[[Blood Shadow]]}}
+| titles = {{spoiler|book=cradle-11-dreadgod|[[Archlady]]}}{{spoiler|book=cradle-13-threshold|, [[Jai Matriarch|Matriarch]], [[Daughter of Dread]], [[Lord]]}}
+| affiliations = {{spoiler|book=cradle-11-dreadgod|[[Red Faith]]}}{{spoiler|book=cradle-12-waybound|, [[Redmoon Hall]]}}{{spoiler|book=cradle-13-threshold|, [[Silent King]]}}
+| professions = {{spoiler|book=cradle-13-threshold|cult leader}}
 | appears_in = Cradle
-| titles = Archlady, Red Faith's Archlady, former cult leader of the Silent King, Matriarch, Daughter of Dread, Lord
-| abilities = Blood Shadow, sacred artist
-| affiliations = Red Faith, Redmoon Hall, Silent King, Stormcallers
-| introduced = Dreadgod
+| introduced = [[Dreadgod (novel)|Dreadgod]]
 }}
 
 ''See also: [[Kahn Mala Timeline]]''

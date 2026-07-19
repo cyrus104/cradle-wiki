@@ -1,8 +1,9 @@
 {{Infobox character
 | name = Wei Grand Elder
+| species = Great elder
+| titles = {{spoiler|book=cradle-12-waybound|[[Grand Elder]], [[Sage]]}}
 | appears_in = Cradle
-| titles = Sage
-| introduced = Waybound
+| introduced = [[Waybound (novel)|Waybound]]
 }}
 
 == Overview ==

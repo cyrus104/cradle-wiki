@@ -1,8 +1,9 @@
 {{Infobox character
 | name = Haresh
-| appears_in = The Traveler's Gate Trilogy
-| titles = Arbiter of Betrayal, Arbiter
-| introduced = The Crimson Vault
+| abilities = {{spoiler|book=tg-02-crimson-vault|ash-gray rope}}
+| titles = {{spoiler|book=tg-02-crimson-vault|Arbiter of Betrayal, [[Arbiter]]}}
+| appears_in = Traveler's Gate
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 == Overview ==

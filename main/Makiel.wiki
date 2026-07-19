@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Makiel
+| abilities = {{spoiler|book=cradle-04-skysworn|binding fragments from the void with his will, manipulates the Way}}{{spoiler|book=cradle-07-uncrowned|, create planets}}{{spoiler|book=cradle-09-bloodline|, produce ghostly projections of his sword}}{{spoiler|book=cradle-10-reaper|, manages Fate, watch futures, trace threads of causality}}{{spoiler|book=cradle-12-waybound|, restoration skills, transference ritual}}
+| titles = {{spoiler|book=cradle-01-unsouled|First Judge of the Abidan Court, [[judge|Judge]]}}{{spoiler|book=cradle-03-blackflame|, [[The Hound|the Hound]], Judge designation zero-zero-one}}{{spoiler|book=cradle-07-uncrowned|, [[Mad King]]}}{{spoiler|book=cradle-13-threshold|, leader of the First Division}}
+| affiliations = {{spoiler|book=cradle-01-unsouled|[[Abidan Court]], [[Abidan]]}}{{spoiler|book=cradle-13-threshold|, [[First Division]]}}
 | appears_in = Cradle
-| titles = First Judge of the Abidan Court, the Hound, Judge designation zero-zero-one, Mad King, Judge
-| abilities = binding fragments from the void with his will, manipulates the Way, create planets, produce ghostly projections of his sword, manages Fate, watch futures and trace threads of causality, scan the future, restoration skills
-| affiliations = Abidan Court, the Court, Abidan
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Makiel Timeline]]''

@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Ozriel (The Elder Empire: Sea)
-| appears_in = The Elder Empire: Sea
-| titles = Eighth Judge of the Court of Seven, the Destroyer, Outsider
-| abilities = Intent
-| introduced = Of Kings and Killers
+| abilities = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Intent]]}}
+| titles = {{spoiler|book=ee-sea-03-of-kings-and-killers|Eighth Judge of the Court of Seven, the Destroyer, [[Outsider]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
 }}
 
 ''See also: [[Ozriel (The Elder Empire: Sea) Timeline]]''

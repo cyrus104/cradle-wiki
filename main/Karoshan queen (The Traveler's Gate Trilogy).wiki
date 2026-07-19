@@ -1,8 +1,10 @@
 {{Infobox character
 | name = Karoshan queen (The Traveler's Gate Trilogy)
-| appears_in = The Traveler's Gate Trilogy
-| titles = Queen, original Ragnarus Incarnation, the First of her name, Queen of Damasca
-| introduced = The Crimson Vault
+| titles = {{spoiler|book=tg-02-crimson-vault|[[Queen]]}}{{spoiler|book=tg-03-city-of-light|, First of her name, Queen of Damasca}}
+| professions = {{spoiler|book=tg-02-crimson-vault|[[Queen]]}}
+| residence = {{spoiler|book=tg-03-city-of-light|[[Damasca]]}}
+| appears_in = Traveler's Gate
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 ''See also: [[Karoshan queen (The Traveler's Gate Trilogy) Timeline]]''

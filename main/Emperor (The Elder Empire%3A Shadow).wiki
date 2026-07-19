@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Emperor (The Elder Empire: Shadow)
-| introduced = Of Shadow and Sea
-| name = Emperor (The Elder Empire: Shadow)
 | aliases = The Emperor (The Elder Empire: Shadow)
-| appears_in = The Elder Empire: Shadow
-| titles = Emperor, Aurelian Emperor, original Heartlander, father of every bloodline, father of the Empire, symbol of Imperial stability and civilization de facto ruler of the Aurelian Empire de facto moral compass for the Guild de facto Liberator
-| abilities = Reader, Awaken gravel, sense the memories and potential in objects, bind himself to the heart of a Great Elder, emits an aura of madness, uses an invested pillow to put people to sleep, invested with Intent, exploring the possibilities of Intent, bring inanimate objects to life, words carry such Intent that it is impossible to ignore de facto use of Intent to halt an Elder de facto use of forceful Intent to destroy things de facto flex his Intent to cause sources of flame to flare to life de facto active Reading de facto hide Intent from Reading
-| affiliations = Aurelian Empire, the Guild
-| introduced = Of Shadow and Sea
+| abilities = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Awaken gravel, sense the memories and potential in objects, bind himself to the heart of a Great Elder, emits an aura of madness, uses an invested pillow to put people to sleep, invested with Intent, dissolving a teacup with his will}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, bring inanimate objects to life}}
+| titles = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Emperor, [[Aurelian Emperor]], original Heartlander, father of every bloodline, father of the Empire}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Aurelian Empire]], [[The Guild|the Guild]]}}
+| professions = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Ruler|ruler]]}}
+| residence = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Aurelian Empire]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 ''See also: [[Emperor (The Elder Empire: Shadow) Timeline]]''

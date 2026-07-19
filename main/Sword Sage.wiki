@@ -1,8 +1,12 @@
 {{Infobox character
 | name = Sword Sage
+| species = Remnant
+| abilities = {{spoiler|book=cradle-03-blackflame|[[spirit-sense|spiritual sense]]}}{{spoiler|book=cradle-07-uncrowned|, [[Final Sword]]}}
+| titles = {{spoiler|book=cradle-01-unsouled|[[Sword Sage]]}}
+| professions = {{spoiler|book=cradle-01-unsouled|[[Enforcer]]}}
+| birthplace = {{spoiler|book=cradle-01-unsouled|beyond Sacred Valley}}
 | appears_in = Cradle
-| titles = Sword Sage, Enforcer
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Sword Sage Timeline]]''

@@ -1,9 +1,11 @@
 {{Infobox character
 | name = Steel Avalanche
+| abilities = {{spoiler|book=lh-02-the-engineer|[[Combat Art]]}}
+| titles = {{spoiler|book=lh-02-the-engineer|Advocates’ Low Council, Advocate High Councilor, [[Advocate]]}}
+| affiliations = {{spoiler|book=lh-02-the-engineer|[[Advocates]]}}
+| professions = {{spoiler|book=lh-02-the-engineer|fighter, guard}}
 | appears_in = The Last Horizon
-| titles = Advocates’ Low Council, Advocate High Councilor, Advocate, guard
-| abilities = Combat Art
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 ''See also: [[Steel Avalanche Timeline]]''

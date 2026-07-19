@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Teranon
+| abilities = {{spoiler|book=lh-01-the-captain|analysis spells}}{{spoiler|book=lh-04-the-pilot|, manifest an orange-ish magic circle over his eye to examine data}}
+| titles = {{spoiler|book=lh-01-the-captain|[[Archmage]]}}{{spoiler|book=lh-03-the-knight|, advisor}}
+| affiliations = {{spoiler|book=lh-03-the-knight|Benri's team}}
+| professions = {{spoiler|book=lh-01-the-captain|mentor}}{{spoiler|book=lh-03-the-knight|, advisor}}
 | appears_in = The Last Horizon
-| titles = Archmage, advisor
-| abilities = analysis spells, manifest an orange-ish magic circle over his eye to examine data
-| affiliations = Benri's team
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Teranon Timeline]]''

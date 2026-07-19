@@ -1,8 +1,10 @@
 {{Infobox character
 | name = Adessa
-| appears_in = The Traveler's Gate Trilogy
-| titles = daughter of King Zakareth
-| introduced = The Crimson Vault
+| parents = {{spoiler|book=tg-02-crimson-vault|[[Zakareth]]}}
+| siblings = {{spoiler|book=tg-02-crimson-vault|[[Leah]]}}
+| titles = {{spoiler|book=tg-02-crimson-vault|daughter of King Zakareth}}
+| appears_in = Traveler's Gate
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 == Overview ==

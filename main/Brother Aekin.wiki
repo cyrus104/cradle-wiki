@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Brother Aekin
-| introduced = Wintersteel
-| name = Brother Aekin
 | aliases = Aekin
+| abilities = {{spoiler|book=cradle-08-wintersteel|[[Enforcer technique]]}}
+| titles = {{spoiler|book=cradle-08-wintersteel|[[Uncrowned]]}}
+| affiliations = {{spoiler|book=cradle-08-wintersteel|[[Abyssal Palace]]}}
+| birthplace = {{spoiler|book=cradle-08-wintersteel|[[Abyssal Palace]]}}
 | appears_in = Cradle
-| titles = Uncrowned
-| abilities = Path modeled after the Wandering Titan, Enforcer technique
-| affiliations = Abyssal Palace
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 ''See also: [[Brother Aekin Timeline]]''

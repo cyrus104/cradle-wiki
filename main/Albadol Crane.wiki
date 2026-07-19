@@ -1,11 +1,12 @@
 {{Infobox character
 | name = Albadol Crane
 | aliases = Crane
-| appears_in = The Elder Empire: Shadow
-| titles = alchemist
-| abilities = crossing a mad Reader's Intent with unhinged alchemical poisons
-| affiliations = Imperial Guilds, Magisters, Guild of Alchemists
-| introduced = Of Shadow and Sea
+| abilities = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|crossing a mad Reader's Intent with unhinged alchemical poisons}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Imperial Guilds]], [[Magisters]], [[Alchemist's Guild|Guild of Alchemists]]}}
+| professions = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|alchemist}}
+| residence = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kanatalia]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 == Overview ==

@@ -1,9 +1,12 @@
 {{Infobox character
 | name = Archlady
+| species = Remnant
+| abilities = {{spoiler|book=cradle-11-dreadgod|sword-Path}}
+| titles = {{spoiler|book=cradle-10-reaper|[[Emissary Kahn Mala]], [[Archlady]]}}{{spoiler|book=cradle-11-dreadgod|, silver Remnant}}
+| professions = {{spoiler|book=cradle-12-waybound|governing territory}}
+| birthplace = {{spoiler|book=cradle-11-dreadgod|[[Everwood]]}}
 | appears_in = Cradle
-| titles = Emissary Kahn Mala, silver Remnant
-| abilities = sword-Path
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
 ''See also: [[Archlady Timeline]]''

@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Lyathatan
-| appears_in = The Elder Empire: Sea
-| titles = Elderspawn, Elder, bound Elder
-| abilities = Reading
-| affiliations = Kelarac
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Reading]]}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Elderspawn]], Elder}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, bound Elder}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Kelarac]]}}
+| birthplace = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Kelarac]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Lyathatan Timeline]]''

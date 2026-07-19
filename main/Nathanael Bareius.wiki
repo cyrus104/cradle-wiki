@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Nathanael Bareius
-| introduced = Of Sea and Shadow
-| name = Nathanael Bareius
 | aliases = Lord Bareius, Bareius
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Guild Head of Kanatalia, Head of the Alchemist’s Guild, Lord Bareius, Guild Head
-| abilities = alchemist
-| affiliations = Alchemists' Guild, group led by Estyr
-| introduced = Of Sea and Shadow
+| children = {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Bliss of the Blackwatch|Bliss]]}}
+| titles = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Lord]], [[Blackwatch Guild Head|Guild Head]], [[Head of the Alchemist’s Guild]], [[Nathanael Bareius|Lord Bareius]], Guild Head of Kanatalia}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kanatalia]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[Alchemists]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, group led by Estyr}}
+| professions = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|alchemist, richest man in the world}}
+| birthplace = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kanatalia]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Nathanael Bareius Timeline]]''

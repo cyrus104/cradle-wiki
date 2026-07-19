@@ -1,11 +1,12 @@
 {{Infobox character
 | name = Renfei
 | aliases = Pai Ren
+| spouse = {{spoiler|book=cradle-03-blackflame|[[Bai Rou]]}}
+| abilities = {{spoiler|book=cradle-05-ghostwater|[[Cloud Hammer madra]]}}{{spoiler|book=cradle-06-underlord|, [[Path of the Cloud Hammer]]}}
+| titles = {{spoiler|book=cradle-05-ghostwater|[[Truegold]]}}
+| affiliations = {{spoiler|book=cradle-03-blackflame|[[Skysworn]]}}{{spoiler|book=cradle-05-ghostwater|, [[Cloud Hammer sect]]}}
 | appears_in = Cradle
-| titles = Highgold, Truegold
-| abilities = Cloud Hammer madra, Path of the Cloud Hammer
-| affiliations = Skysworn, Cloud Hammer sect
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[Renfei Timeline]]''

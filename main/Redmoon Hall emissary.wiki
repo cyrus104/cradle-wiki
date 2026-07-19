@@ -2,7 +2,9 @@
 
 {{Infobox character
 | name = Redmoon Hall emissary
-| introduced = Skysworn
+| aliases = Redmoon Hall Emissaries
+| appears_in = Cradle
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 == Skysworn ==

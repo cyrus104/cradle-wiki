@@ -1,7 +1,8 @@
 {{Infobox character
 | name = Lilia
-| appears_in = The Traveler's Gate Trilogy
-| introduced = House of Blades
+| professions = {{spoiler|book=tg-01-house-of-blades|doll}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Lilia Timeline]]''

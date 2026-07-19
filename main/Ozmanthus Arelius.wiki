@@ -1,10 +1,13 @@
 {{Infobox character
 | name = Ozmanthus Arelius
+| aliases = Ozmanthus
+| abilities = {{spoiler|book=cradle-10-reaper|[[Iron body]], Path of pure destruction, [[Death Icon]], bloodline ability to see, [[Soulfire|soulfire]], dismantled techniques}}{{spoiler|book=cradle-11-dreadgod|, madra manipulation}}
+| titles = {{spoiler|book=cradle-10-reaper|[[Monarch]], Patriarch of the Arelius clan}}
+| affiliations = {{spoiler|book=cradle-10-reaper|[[Arelius family|Arelius clan]]}}{{spoiler|book=cradle-13-threshold|, [[Arelius family]]}}
+| professions = {{spoiler|book=cradle-10-reaper|[[Soulsmith]]}}
+| residence = {{spoiler|book=cradle-11-dreadgod|[[labyrinth|the labyrinth]]}}
 | appears_in = Cradle
-| titles = Patriarch of the Arelius clan, Soulsmith, Yerin's master
-| abilities = dismantled techniques, madra manipulation method
-| affiliations = Arelius clan, Arelius family
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
 {{spoiler|book=cradle-10-reaper|'''Identity:''' later revealed to be [[Eithan]], who he became in the present day.}}

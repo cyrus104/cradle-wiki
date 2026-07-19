@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Alden Zaius
+| abilities = {{spoiler|book=cradle-11-dreadgod|[[Blood Shadow]], [[Soulfire|soulfire]]}}
+| titles = {{spoiler|book=cradle-11-dreadgod|Overlord}}
 | appears_in = Cradle
-| titles = Overlord
-| abilities = soulfire
-| introduced = Dreadgod
+| introduced = [[Dreadgod (novel)|Dreadgod]]
 }}
 
 == Overview ==

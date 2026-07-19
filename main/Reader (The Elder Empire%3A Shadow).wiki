@@ -1,10 +1,9 @@
 {{Infobox character
 | name = Reader (The Elder Empire: Shadow)
-| appears_in = The Elder Empire: Shadow
-| titles = Chroniclers
-| abilities = Reading, Awaken an object, Reader senses, Reader's awareness
-| affiliations = Architects
-| introduced = Of Shadow and Sea
+| abilities = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Reading]], [[Reader senses]], Awaken an object}}
+| professions = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Chroniclers]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 ''See also: [[Reader (The Elder Empire: Shadow) Timeline]]''

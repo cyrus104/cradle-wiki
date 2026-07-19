@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Tyria
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Champion
-| abilities = Soulbound power, golden vines made of light, thorny ropes of shining gold, golden thorns
-| introduced = Of Kings and Killers
+| abilities = {{spoiler|book=ee-sea-03-of-kings-and-killers|Soulbound power, golden vines made of light, thorny ropes of shining gold}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, golden thorns}}
+| titles = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Champion]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
 }}
 
 ''See also: [[Tyria Timeline]]''

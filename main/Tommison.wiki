@@ -1,11 +1,11 @@
 {{Infobox character
 | name = Tommison
-| introduced = Of Kings and Killers
-| name = Tommison
 | aliases = Captain Tommison
-| appears_in = The Elder Empire: Sea
-| titles = captain of The Reliable, Navigator captain
-| introduced = Of Kings and Killers
+| titles = {{spoiler|book=ee-sea-03-of-kings-and-killers|captain}}
+| affiliations = {{spoiler|book=ee-sea-03-of-kings-and-killers|Sleepless cabal, [[The Reliable]]}}
+| professions = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Navigator captain]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
 }}
 
 == Overview ==

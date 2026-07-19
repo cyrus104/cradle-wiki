@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Neth’terith
+| abilities = {{spoiler|book=lh-03-the-knight|impale continents with his massive horns}}
+| titles = {{spoiler|book=lh-03-the-knight|one of the Seven Calamities, Shadow Claw}}
+| affiliations = {{spoiler|book=lh-03-the-knight|Seven Calamities of the D’Niss}}
 | appears_in = The Last Horizon
-| titles = one of the Seven Calamities, Shadow Claw
-| affiliations = Seven Calamities of the D’Niss
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 == Overview ==

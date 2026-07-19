@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Bishop of the Iron Legion
-| introduced = The Captain
-| name = Bishop of the Iron Legion
 | aliases = Bishops, Bishop
+| abilities = {{spoiler|book=lh-01-the-captain|breaking barriers, forms faces out of walls, clawed hands that erupt from walls}}
+| titles = {{spoiler|book=lh-01-the-captain|[[Bishop of the Iron Legion]]}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[Iron Legion]]}}
+| residence = {{spoiler|book=lh-01-the-captain|Iron Legion Hives}}
 | appears_in = The Last Horizon
-| titles = Bishop of the Iron Legion
-| abilities = breaking barriers, control a Hive
-| affiliations = Iron Legion
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == Overview ==

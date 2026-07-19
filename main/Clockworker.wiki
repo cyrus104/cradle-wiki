@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Clockworker
+| abilities = {{spoiler|book=lh-02-the-engineer|lock physical objects in place}}
+| titles = {{spoiler|book=lh-02-the-engineer|[[Clockworker]]}}
+| affiliations = {{spoiler|book=lh-02-the-engineer|[[Advocates]]}}
 | appears_in = The Last Horizon
-| titles = Clockworker
-| abilities = the power to lock physical objects in place
-| affiliations = Advocates
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 ''See also: [[Clockworker Timeline]]''

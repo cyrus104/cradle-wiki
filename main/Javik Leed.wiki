@@ -1,12 +1,13 @@
 {{Infobox character
 | name = Javik Leed
-| introduced = The Engineer
-| name = Javik Leed
 | aliases = Javik
+| abilities = {{spoiler|book=lh-02-the-engineer|pilots a hover-chair}}{{spoiler|book=lh-03-the-knight|, uses a heavy two-handed rifle}}
+| titles = {{spoiler|book=lh-02-the-engineer|[[Yellow Knight]], [[Titan Knight]]}}
+| affiliations = {{spoiler|book=lh-02-the-engineer|[[Titan Force]]}}
+| professions = {{spoiler|book=lh-03-the-knight|[[Aether Technician]]}}
+| residence = {{spoiler|book=lh-01-the-captain|[[Nyron Seven]]}}
 | appears_in = The Last Horizon
-| titles = Yellow Knight, Titan Knight, Aether Technician
-| affiliations = Titan Force
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 ''See also: [[Javik Leed Timeline]]''

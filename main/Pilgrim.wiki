@@ -1,10 +1,9 @@
 {{Infobox character
 | name = Pilgrim
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Knight-Adjunct
-| abilities = incantation, alchemy, medical skill, Soulbound power
-| affiliations = Luminian Order, the Guild
-| introduced = Of Dawn and Darkness
+| titles = {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Knight-Adjunct]]}}
+| affiliations = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Luminian Order]], [[The Guild|the Guild]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]]
 }}
 
 ''See also: [[Pilgrim Timeline]]''

@@ -1,11 +1,12 @@
 {{Infobox character
 | name = Telariel
 | aliases = Telariel the Spider
+| abilities = {{spoiler|book=cradle-10-reaper|communication through the Way}}
+| titles = {{spoiler|book=cradle-04-skysworn|[[Spider of the Abidan|the Spider]], [[judge|Judge]]}}
+| affiliations = {{spoiler|book=cradle-04-skysworn|[[Abidan]]}}{{spoiler|book=cradle-10-reaper|, [[Third Division]]}}
+| professions = {{spoiler|book=cradle-04-skysworn|[[judge|Judge]]}}
 | appears_in = Cradle
-| titles = the Spider, Judge
-| abilities = the Way
-| affiliations = Abidan
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Telariel Timeline]]''

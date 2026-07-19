@@ -2,7 +2,9 @@
 
 {{Infobox character
 | name = Visiri courier
-| introduced = The Pilot
+| species = Alien
+| appears_in = The Last Horizon
+| introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
 == The Pilot ==

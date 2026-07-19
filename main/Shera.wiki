@@ -1,10 +1,12 @@
 {{Infobox character
 | name = Shera
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Consultant, Izyrian gladiator, Consultant assassin, The Knife, Gardener, Apprentice of Ayana
-| abilities = uses shears as a weapon, uses a knife and shears in combat, uses a spade as a weapon
-| affiliations = Guild's order of assassins
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|alchemy flares}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, [[Soulbound powers]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[Bastion's Veil]]}}
+| titles = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Knife}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, [[Blackwatch Guild Head|Guild Head]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[The Killer|Killer]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[Mistress of the Mists]]}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Consultants]], Guild's order of assassins, [[Gardeners]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[Independents]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Consultant]], [[assassin]], gladiator}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, [[Gardener]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[Architect]]}}
+| birthplace = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|underside of the Capital}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Shera Timeline]]''

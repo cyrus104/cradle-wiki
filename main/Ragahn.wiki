@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Ragahn
+| titles = {{spoiler|book=cradle-02-soulsmith|[[First Fisher]], leader of the Fisher sect}}
+| affiliations = {{spoiler|book=cradle-02-soulsmith|[[Fisher sect]]}}
+| professions = {{spoiler|book=cradle-02-soulsmith|Fisher}}
 | appears_in = Cradle
-| titles = First Fisher, leader of the Fisher sect, Truegold
-| abilities = sacred artist
-| affiliations = Fisher sect
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
 == Overview ==

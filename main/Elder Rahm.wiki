@@ -1,12 +1,11 @@
 {{Infobox character
 | name = Elder Rahm
-| introduced = Unsouled
-| name = Elder Rahm
 | aliases = Rahm
+| titles = {{spoiler|book=cradle-01-unsouled|Elder, [[Heaven’s Glory Elder|Heaven's Glory elder]]}}
+| professions = {{spoiler|book=cradle-09-bloodline|keeper}}
+| residence = {{spoiler|book=cradle-01-unsouled|[[Lesser Treasure Hall]]}}
 | appears_in = Cradle
-| titles = Elder, Jade, keeper of the Heaven’s Glory School’s Lesser Treasure Hall
-| affiliations = Heaven's Glory School
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Elder Rahm Timeline]]''

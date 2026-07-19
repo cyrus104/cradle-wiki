@@ -1,8 +1,9 @@
 {{Infobox character
 | name = Yzara
-| appears_in = The Elder Empire: Shadow
-| titles = Champion
-| introduced = Of Killers and Kings
+| titles = {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Champion]]}}
+| birthplace = {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Nyala]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Killers and Kings (novel)|Of Killers and Kings]]
 }}
 
 == Overview ==

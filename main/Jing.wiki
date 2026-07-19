@@ -1,11 +1,12 @@
 {{Infobox character
 | name = Jing
 | aliases = Naru Jing
+| spouse = {{spoiler|book=cradle-03-blackflame|[[Naru Cassias Arelius|Cassias]]}}
+| abilities = {{spoiler|book=cradle-06-underlord|[[Path of Grasping Sky]], [[wind madra]]}}
+| titles = {{spoiler|book=cradle-06-underlord|top-ranked Highgold}}
+| affiliations = {{spoiler|book=cradle-03-blackflame|[[Naru clan]]}}
 | appears_in = Cradle
-| titles = top-ranked Highgold in the Empire
-| abilities = Path of Grasping Sky, wind madra
-| affiliations = Naru clan
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[Jing Timeline]]''

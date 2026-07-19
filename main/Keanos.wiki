@@ -1,8 +1,9 @@
 {{Infobox character
 | name = Keanos
-| appears_in = The Traveler's Gate Trilogy
-| abilities = tracking
-| introduced = House of Blades
+| abilities = {{spoiler|book=tg-01-house-of-blades|tracking}}
+| professions = {{spoiler|book=tg-01-house-of-blades|[[Hound|hound]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 == Overview ==

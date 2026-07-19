@@ -1,13 +1,11 @@
 {{Infobox character
 | name = Zhen of the Masons
-| introduced = Of Shadow and Sea
-| name = Zhen of the Masons
 | aliases = Zhen
-| appears_in = The Elder Empire: Shadow
-| titles = Mason
-| abilities = fighter using knives
-| affiliations = House of the Masons
-| introduced = Of Shadow and Sea
+| titles = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Mason]]}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[House of the Masons]]}}
+| professions = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|fighter}}
+| appears_in = Elder Empire
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 ''See also: [[Zhen of the Masons Timeline]]''

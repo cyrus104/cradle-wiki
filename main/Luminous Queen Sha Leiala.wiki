@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Luminous Queen Sha Leiala
-| introduced = Uncrowned
-| name = Luminous Queen Sha Leiala
 | aliases = Leiala, Sha Leiala
+| parents = {{spoiler|book=cradle-07-uncrowned|[[Luminous Queen Sha Miara|Sha Miara]]}}
+| children = {{spoiler|book=cradle-07-uncrowned|[[Luminous Queen Sha Miara|Sha Miara]]}}
+| abilities = {{spoiler|book=cradle-08-wintersteel|[[Path of Celestial Radiance]]}}
+| titles = {{spoiler|book=cradle-07-uncrowned|[[Luminous Queen]], [[Monarch]]}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Ninecloud Court]], Ninecloud people}}
 | appears_in = Cradle
-| titles = Luminous Queen, Monarch
-| abilities = Path of Celestial Radiance
-| affiliations = Ninecloud Court
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[Luminous Queen Sha Leiala Timeline]]''

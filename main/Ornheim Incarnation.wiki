@@ -1,9 +1,11 @@
 {{Infobox character
 | name = Ornheim Incarnation
-| appears_in = The Traveler's Gate Trilogy
-| abilities = mountainous strength, summoned golems
-| affiliations = Valinhall
-| introduced = City of Light
+| abilities = {{spoiler|book=tg-03-city-of-light|mountainous strength, summoned golems}}
+| titles = {{spoiler|book=tg-03-city-of-light|[[Ornheim Incarnation]]}}
+| affiliations = {{spoiler|book=tg-03-city-of-light|[[Valinhall]]}}
+| residence = {{spoiler|book=tg-03-city-of-light|[[Valinhall]]}}
+| appears_in = Traveler's Gate
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
 ''See also: [[Ornheim Incarnation Timeline]]''

@@ -1,11 +1,13 @@
 {{Infobox character
 | name = Andra Agnos
-| introduced = House of Blades
-| name = Andra Agnos
 | aliases = Andra
-| appears_in = The Traveler's Gate Trilogy
-| titles = youngest Valinhall Traveler, Valinhall Traveler
-| introduced = House of Blades
+| parents = {{spoiler|book=tg-03-city-of-light|[[Olissa Agnos|Olissa]], [[Caius Agnos|Caius]]}}
+| siblings = {{spoiler|book=tg-01-house-of-blades|[[Lycus]]}}
+| abilities = {{spoiler|book=tg-03-city-of-light|[[Dragon's Fang]], [[Seijan]]}}
+| titles = {{spoiler|book=tg-03-city-of-light|youngest Valinhall Traveler}}
+| residence = {{spoiler|book=tg-01-house-of-blades|behind a mushroom-cap door}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Andra Agnos Timeline]]''

@@ -1,13 +1,14 @@
 {{Infobox character
 | name = Seishen Daji
-| introduced = Underlord
-| name = Seishen Daji
 | aliases = Prince Daji, Daji
+| parents = {{spoiler|book=cradle-09-bloodline|[[King Dakata|King Seishen Dakata]]}}
+| siblings = {{spoiler|book=cradle-06-underlord|[[Prince Seishen Kiro|Kiro]]}}
+| abilities = {{spoiler|book=cradle-06-underlord|swordsmanship, [[Striker binding|Striker bindings]]}}{{spoiler|book=cradle-08-wintersteel|, Striker attacks}}
+| titles = {{spoiler|book=cradle-06-underlord|[[Underlord]]}}{{spoiler|book=cradle-08-wintersteel|, Prince}}{{spoiler|book=cradle-13-threshold|, surviving heir to the Seishen royal family}}
+| affiliations = {{spoiler|book=cradle-08-wintersteel|[[Seishen Kingdom]]}}
+| birthplace = {{spoiler|book=cradle-08-wintersteel|[[Seishen Kingdom]]}}
 | appears_in = Cradle
-| titles = Underlord, Prince, surviving heir to the Seishen royal family
-| abilities = swordsmanship, Ruler construct, Striker bindings, Striker attacks
-| affiliations = Seishen Kingdom
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 ''See also: [[Seishen Daji Timeline]]''

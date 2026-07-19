@@ -1,10 +1,12 @@
 {{Infobox character
 | name = Akura Fury
+| abilities = {{spoiler|book=cradle-07-uncrowned|[[shadow madra]], layer techniques}}{{spoiler|book=cradle-09-bloodline|, technique that creates a blue circular doorway leading to another world}}
+| titles = {{spoiler|book=cradle-06-underlord|legendary Akura clan pillar, [[Uncrowned King]]}}{{spoiler|book=cradle-07-uncrowned|, [[Herald]]}}{{spoiler|book=cradle-08-wintersteel|, [[Monarch]]}}
+| affiliations = {{spoiler|book=cradle-06-underlord|[[Akura clan]]}}{{spoiler|book=cradle-13-threshold|, [[Wolf Division]], [[Abidan]]}}
+| professions = {{spoiler|book=cradle-13-threshold|recruit}}
+| residence = {{spoiler|book=cradle-08-wintersteel|Sky's Edge fortress}}
 | appears_in = Cradle
-| titles = legendary Akura clan pillar, Uncrowned King tournament winner, Herald, Monarch
-| abilities = shadow madra, layering techniques, technique that creates a blue circular doorway leading to another world
-| affiliations = Akura clan, Wolf Division, Abidan
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 ''See also: [[Akura Fury Timeline]]''

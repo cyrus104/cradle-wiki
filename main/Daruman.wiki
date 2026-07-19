@@ -1,9 +1,11 @@
 {{Infobox character
 | name = Daruman
+| abilities = {{spoiler|book=cradle-09-bloodline|authority over chaos}}{{spoiler|book=cradle-10-reaper|, tearing holes to the Void}}
+| titles = {{spoiler|book=cradle-09-bloodline|King of Madness, [[Mad King]]}}{{spoiler|book=cradle-10-reaper|, Abidan Executor}}
+| professions = {{spoiler|book=cradle-09-bloodline|hero}}{{spoiler|book=cradle-12-waybound|, combatant}}
+| residence = {{spoiler|book=cradle-10-reaper|[[Haven]], [[Limit]]}}{{spoiler|book=cradle-12-waybound|, [[Vesper]]}}
 | appears_in = Cradle
-| titles = King of Madness, Mad King, Abidan Executor
-| abilities = authority over chaos, tearing holes to the Void
-| introduced = Bloodline
+| introduced = [[Bloodline (novel)|Bloodline]]
 }}
 
 ''See also: [[Daruman Timeline]]''

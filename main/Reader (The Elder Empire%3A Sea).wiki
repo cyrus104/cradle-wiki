@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Reader (The Elder Empire: Sea)
-| appears_in = The Elder Empire: Sea
-| titles = The Chronicler
-| abilities = reading impressions, verifying objects, investing objects, sensing changes, altering Intent, sense Intent through the air, cancel out Intent, use the Optasia, experience vivid visions, perform Readings
-| affiliations = Guild of Navigators, Blackwatch Guild
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Reading]], cancel out Intent}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, perform Readings, use the Optasia}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|The Chronicler}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Navigator’s Guild|Guild of Navigators]], [[Blackwatch|Blackwatch Guild]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Reader (The Elder Empire: Sea) Timeline]]''

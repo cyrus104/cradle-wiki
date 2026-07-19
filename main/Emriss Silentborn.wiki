@@ -1,10 +1,13 @@
 {{Infobox character
 | name = Emriss Silentborn
 | aliases = Emriss
+| species = Remnant
+| abilities = {{spoiler|book=cradle-09-bloodline|[[sacred arts]]}}{{spoiler|book=cradle-12-waybound|, gentle leaves, [[Forged madra]], weave life aura}}
+| titles = {{spoiler|book=cradle-06-underlord|Monarch Remnant, [[Monarch]]}}{{spoiler|book=cradle-07-uncrowned|, Queen of the Everwood Continent, Monarch of Titan's Grove}}{{spoiler|book=cradle-08-wintersteel|, [[Underlord]]}}{{spoiler|book=cradle-13-threshold|, Forest Monarch}}
+| professions = {{spoiler|book=cradle-12-waybound|[[Herald]]}}
+| residence = {{spoiler|book=cradle-07-uncrowned|[[Everwood continent]], Titan's Grove}}
 | appears_in = Cradle
-| titles = Monarch Remnant, Queen of the Everwood Continent, Monarch of Titan's Grove, Monarch
-| abilities = sacred arts
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 ''See also: [[Emriss Silentborn Timeline]]''

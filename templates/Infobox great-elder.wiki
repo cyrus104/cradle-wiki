@@ -1,9 +1,6 @@
-{| class="infobox"
-! colspan="2" class="infobox-title" | {{{name}}}
-|-
-| class="infobox-label" | Type
-| class="infobox-data" | Great Elder
-|-
-| class="infobox-label" | Introduced
-| class="infobox-data" | {{{introduced}}}
-|}<noinclude>Great Elder infobox (generated; styling in [[MediaWiki:Common.css]]).</noinclude>
+<table class="infobox">
+<tr><th colspan="2" class="infobox-title">{{{name}}}</th></tr>
+{{#if:{{{image|}}}|<tr><td colspan="2" class="infobox-image">{{{image|}}}{{#if:{{{caption|}}}|<div class="infobox-caption">{{{caption|}}}</div>}}</td></tr>}}
+<tr><th class="infobox-label">Type</th><td class="infobox-data">Great Elder</td></tr>
+<tr><th class="infobox-label">Introduced</th><td class="infobox-data">{{{introduced}}}</td></tr>
+</table><noinclude>Great Elder infobox (generated; styling in [[MediaWiki:Common.css]]).</noinclude>

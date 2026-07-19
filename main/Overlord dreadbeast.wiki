@@ -2,7 +2,9 @@
 
 {{Infobox character
 | name = Overlord dreadbeast
-| introduced = Wintersteel
+| species = Dreadbeast
+| appears_in = Cradle
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Wintersteel ==

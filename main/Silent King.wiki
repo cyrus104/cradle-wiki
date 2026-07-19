@@ -1,10 +1,12 @@
 {{Infobox character
 | name = Silent King
+| species = Dreadgod
+| abilities = {{spoiler|book=cradle-10-reaper|[[hunger madra]], [[spiritual perception]]}}{{spoiler|book=cradle-11-dreadgod|, parasitic technique, [[dream technique]], mental assault, illusions, illusory clones}}
+| titles = {{spoiler|book=cradle-04-skysworn|[[Silent King]]}}{{spoiler|book=cradle-08-wintersteel|, [[Dreadgod]]}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|Silent Servants cult}}{{spoiler|book=cradle-08-wintersteel|, Shen faction}}
+| residence = {{spoiler|book=cradle-11-dreadgod|central Everwood}}
 | appears_in = Cradle
-| titles = Dreadgod
-| abilities = hunger madra, spiritual perception, parasitic technique, dream technique, technique to control the minds of the masses, mental assault, illusions
-| affiliations = Silent Servants cult
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Silent King Timeline]]''

@@ -1,11 +1,12 @@
 {{Infobox character
 | name = Weeping Dragon
 | aliases = The Weeping Dragon
+| abilities = {{spoiler|book=cradle-07-uncrowned|[[living lightning]]}}{{spoiler|book=cradle-11-dreadgod|, [[Striker techniques]]}}{{spoiler|book=cradle-12-waybound|, dragon's breath technique that devours aura, [[Authority|authority]]}}
+| titles = {{spoiler|book=cradle-04-skysworn|[[Weeping Dragon]]}}{{spoiler|book=cradle-09-bloodline|, [[Dreadgod]]}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Stormcallers]]}}
+| residence = {{spoiler|book=cradle-04-skysworn|upper atmosphere}}{{spoiler|book=cradle-11-dreadgod|, sea of clouds}}
 | appears_in = Cradle
-| titles = Dreadgod
-| abilities = living lightning, Striker techniques, dragon's breath technique that devours aura
-| affiliations = Stormcallers
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Weeping Dragon Timeline]]''

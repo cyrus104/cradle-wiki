@@ -1,12 +1,12 @@
 {{Infobox character
 | name = Void Prism
-| introduced = The Pilot
-| name = Void Prism
 | aliases = Prism
+| spouse = {{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]]}}
+| siblings = {{spoiler|book=lh-04-the-pilot|[[Horizon]]}}
+| abilities = {{spoiler|book=lh-04-the-pilot|[[pathfinding magic]], counter magic, analyze magic}}
+| titles = {{spoiler|book=lh-04-the-pilot|[[Zenith Processor]], [[Zenith Device]]}}
 | appears_in = The Last Horizon
-| titles = Zenith Processor, Zenith Device
-| abilities = pathfinding magic, counter magic
-| introduced = The Pilot
+| introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
 ''See also: [[Void Prism Timeline]]''

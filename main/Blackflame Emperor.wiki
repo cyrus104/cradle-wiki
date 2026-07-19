@@ -1,9 +1,11 @@
 {{Infobox character
 | name = Blackflame Emperor
 | aliases = Blackflame Emperor Naru Huan
+| siblings = {{spoiler|book=cradle-05-ghostwater|[[Naru Saeya]]}}
+| titles = {{spoiler|book=cradle-05-ghostwater|[[Blackflame Emperor]]}}{{spoiler|book=cradle-10-reaper|, Overlord}}
+| affiliations = {{spoiler|book=cradle-10-reaper|[[Skysworn]]}}
 | appears_in = Cradle
-| titles = Blackflame Emperor, Overlord
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 == Overview ==

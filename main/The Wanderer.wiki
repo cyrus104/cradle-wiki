@@ -1,9 +1,11 @@
 {{Infobox character
 | name = The Wanderer
 | aliases = Wanderer
-| appears_in = The Traveler's Gate Trilogy
-| titles = room guardian
-| introduced = House of Blades
+| titles = {{spoiler|book=tg-01-house-of-blades|[[The Wanderer]]}}
+| professions = {{spoiler|book=tg-03-city-of-light|[[room guardian]]}}
+| residence = {{spoiler|book=tg-01-house-of-blades|[[Valinhall]]}}{{spoiler|book=tg-02-crimson-vault|, [[the House]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[The Wanderer Timeline]]''

@@ -2,7 +2,9 @@
 
 {{Infobox character
 | name = Sentries
-| introduced = The Captain
+| aliases = Sentry
+| appears_in = The Last Horizon
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == The Captain ==

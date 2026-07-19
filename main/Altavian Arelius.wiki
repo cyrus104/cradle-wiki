@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Altavian Arelius
 | aliases = Altavian
+| abilities = {{spoiler|book=cradle-07-uncrowned|[[Enforcer techniques]], silver full-body Enforcement}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Arelius family|House Arelius]]}}
+| professions = {{spoiler|book=cradle-07-uncrowned|sword artist, fighter}}
 | appears_in = Cradle
-| abilities = Enforcer techniques, silver full-body Enforcement
-| affiliations = House Arelius
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[Altavian Arelius Timeline]]''

@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Chronicler (The Elder Empire: Shadow)
-| appears_in = The Elder Empire: Shadow
-| titles = Chronicler, Heads of the Witness’ Guild
-| abilities = Readers
-| affiliations = Witness’ Guild
-| introduced = Of Shadow and Sea
+| titles = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Chronicler}}
+| affiliations = {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Witness' Guild|Witness’ Guild]]}}
+| professions = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Chronicler}}
+| appears_in = Elder Empire
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 == Overview ==

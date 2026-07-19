@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Yerin's master
+| abilities = {{spoiler|book=cradle-02-soulsmith|[[Steelborn body]]}}
+| titles = {{spoiler|book=cradle-02-soulsmith|[[Sword Sage]]}}{{spoiler|book=cradle-06-underlord|, [[Underlord]]}}
 | appears_in = Cradle
-| titles = Sword Sage, Underlord
-| abilities = sacred artist, Steelborn body
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Yerin's master Timeline]]''

@@ -1,13 +1,14 @@
 {{Infobox character
 | name = Akura Pride
-| introduced = Uncrowned
-| name = Akura Pride
 | aliases = Pride
+| parents = {{spoiler|book=cradle-08-wintersteel|[[Monarch]]}}
+| siblings = {{spoiler|book=cradle-06-underlord|[[Mercy]]}}{{spoiler|book=cradle-08-wintersteel|, [[Akura Mercy]], [[Malice]]}}{{spoiler|book=cradle-13-threshold|, [[Fury]]}}
+| abilities = {{spoiler|book=cradle-07-uncrowned|[[shadow madra]], [[Enforcer techniques]]}}{{spoiler|book=cradle-08-wintersteel|, [[Bloodline armor|bloodline armor]]}}
+| titles = {{spoiler|book=cradle-07-uncrowned|Akura Underlord, [[Underlord]]}}{{spoiler|book=cradle-08-wintersteel|, son of a Monarch}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Akura clan|Akura family]]}}{{spoiler|book=cradle-08-wintersteel|, Lindon's team}}{{spoiler|book=cradle-13-threshold|, [[Wolf Division]]}}
+| professions = {{spoiler|book=cradle-07-uncrowned|servant}}{{spoiler|book=cradle-11-dreadgod|, [[Soulsmith]]}}
 | appears_in = Cradle
-| titles = Akura Underlord, Underlord, Soulsmith, son of a Monarch
-| abilities = shadow madra, Enforcer techniques, bloodline armor
-| affiliations = Akura family, Lindon's team
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[Akura Pride Timeline]]''

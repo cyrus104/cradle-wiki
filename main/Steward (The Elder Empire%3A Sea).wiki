@@ -1,11 +1,10 @@
 {{Infobox character
 | name = Steward (The Elder Empire: Sea)
-| introduced = Of Kings and Killers
-| name = Steward (The Elder Empire: Sea)
 | aliases = Captain (The Elder Empire: Sea)
-| appears_in = The Elder Empire: Sea
-| titles = Steward, Captain
-| introduced = Of Kings and Killers
+| titles = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Captain}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, Steward}}
+| professions = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Captain}}
+| appears_in = Elder Empire
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
 }}
 
 ''See also: [[Steward (The Elder Empire: Sea) Timeline]]''

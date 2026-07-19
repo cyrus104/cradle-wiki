@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Luminous Queen Sha Miara
-| introduced = Unsouled
-| name = Luminous Queen Sha Miara
 | aliases = Sha Miara, Miara
+| abilities = {{spoiler|book=cradle-01-unsouled|[[Path of Celestial Radiance]], Forge a sword of blinding rainbow light}}{{spoiler|book=cradle-07-uncrowned|, [[royal madra]]}}{{spoiler|book=cradle-12-waybound|, rainbow-light disguise}}
+| titles = {{spoiler|book=cradle-01-unsouled|[[Luminous Queen]]}}{{spoiler|book=cradle-04-skysworn|, Queen of the Ninecloud Court}}{{spoiler|book=cradle-07-uncrowned|, [[Monarch]], [[Underlady]], team captain}}
+| affiliations = {{spoiler|book=cradle-04-skysworn|[[Ninecloud Court]]}}{{spoiler|book=cradle-07-uncrowned|, Ninecloud Court team}}
+| professions = {{spoiler|book=cradle-08-wintersteel|fighter}}
+| residence = {{spoiler|book=cradle-08-wintersteel|[[Ninecloud City]]}}
 | appears_in = Cradle
-| titles = Luminous Queen, Queen of the Ninecloud Court, Monarch, Underlady, team captain
-| abilities = Path of Celestial Radiance, Forge a sword of blinding rainbow light, royal madra, rainbow-light disguise
-| affiliations = Ninecloud Court, Ninecloud Court team
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Luminous Queen Sha Miara Timeline]]''

@@ -1,9 +1,11 @@
 {{Infobox character
 | name = Hound
+| abilities = {{spoiler|book=cradle-13-threshold|techniques of a Hound}}
+| titles = {{spoiler|book=cradle-04-skysworn|[[Hound]]}}
+| affiliations = {{spoiler|book=cradle-13-threshold|[[Abidan]]}}
+| professions = {{spoiler|book=cradle-08-wintersteel|messenger}}
 | appears_in = Cradle
-| titles = Hound
-| affiliations = Abidan
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Hound Timeline]]''

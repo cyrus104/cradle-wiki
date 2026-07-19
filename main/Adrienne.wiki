@@ -1,9 +1,12 @@
 {{Infobox character
 | name = Adrienne
 | aliases = Adrienne Lamarkis Daiasus
-| appears_in = The Traveler's Gate Trilogy
-| titles = Lady
-| introduced = House of Blades
+| spouse = {{spoiler|book=tg-01-house-of-blades|[[Malachi]]}}
+| titles = {{spoiler|book=tg-01-house-of-blades|[[Lady]]}}
+| professions = {{spoiler|book=tg-01-house-of-blades|managing the realm}}
+| residence = {{spoiler|book=tg-02-crimson-vault|[[Bel Calem]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Adrienne Timeline]]''

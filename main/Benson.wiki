@@ -1,7 +1,10 @@
 {{Infobox character
 | name = Benson
-| appears_in = The Traveler's Gate Trilogy
-| introduced = House of Blades
+| abilities = {{spoiler|book=tg-01-house-of-blades|wields a huge double-bladed axe}}
+| professions = {{spoiler|book=tg-03-city-of-light|guardian}}
+| residence = {{spoiler|book=tg-02-crimson-vault|Valinhall's blue-lit basement}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Benson Timeline]]''

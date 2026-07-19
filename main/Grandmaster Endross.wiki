@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Grandmaster Endross
-| appears_in = The Traveler's Gate Trilogy
-| titles = Grandmaster
-| abilities = rolling thunderstorm, Gate
-| introduced = The Crimson Vault
+| abilities = {{spoiler|book=tg-02-crimson-vault|rolling thunderstorm, swirling thunderstorm}}
+| titles = {{spoiler|book=tg-02-crimson-vault|Grandmaster}}
+| birthplace = {{spoiler|book=tg-02-crimson-vault|[[The Gate|the Gate]]}}
+| appears_in = Traveler's Gate
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 ''See also: [[Grandmaster Endross Timeline]]''

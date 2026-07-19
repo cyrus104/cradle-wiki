@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Overlord (Cradle)
+| abilities = {{spoiler|book=cradle-08-wintersteel|Consume technique, Northstrider's technique}}
+| titles = {{spoiler|book=cradle-03-blackflame|Overlord}}
+| professions = {{spoiler|book=cradle-12-waybound|crewman}}
 | appears_in = Cradle
-| titles = Overlord
-| abilities = Consume, Northstrider's technique
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[Overlord (Cradle) Timeline]]''

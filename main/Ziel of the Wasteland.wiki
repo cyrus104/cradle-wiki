@@ -1,13 +1,14 @@
 {{Infobox character
 | name = Ziel of the Wasteland
-| introduced = Ghostwater
-| name = Ziel of the Wasteland
 | aliases = Ziel of the Wastelands, Ziel
+| abilities = {{spoiler|book=cradle-05-ghostwater|[[Enforcer technique]]}}{{spoiler|book=cradle-08-wintersteel|, Forging technique, [[Path of the Dawn Oath]]}}{{spoiler|book=cradle-10-reaper|, Steel Dragon’s Mountain technique, force barrier}}{{spoiler|book=cradle-11-dreadgod|, [[spiritual perception]]}}{{spoiler|book=cradle-12-waybound|, [[The Stone Anchor|Stone Anchor]], Oathsign technique}}
+| titles = {{spoiler|book=cradle-05-ghostwater|[[Ziel of the Wasteland]]}}{{spoiler|book=cradle-06-underlord|, [[Truegold]]}}{{spoiler|book=cradle-07-uncrowned|, [[Archlord]], [[Underlord]]}}{{spoiler|book=cradle-10-reaper|, Master of the Training Hall}}{{spoiler|book=cradle-12-waybound|, [[Shield Sage]]}}
+| affiliations = {{spoiler|book=cradle-08-wintersteel|[[Dawnwing sect|Dawnwing Sect]], [[Arelius family|House Arelius]], [[Northstrider]]}}{{spoiler|book=cradle-09-bloodline|, [[Kazan clan]], [[Akura clan]]}}{{spoiler|book=cradle-13-threshold|, [[Reaper Division]]}}
+| professions = {{spoiler|book=cradle-08-wintersteel|[[Soulsmith]], scriptor, combatant}}
+| birthplace = {{spoiler|book=cradle-05-ghostwater|[[Wasteland]]}}
+| residence = {{spoiler|book=cradle-09-bloodline|[[cloud fortress]]}}
 | appears_in = Cradle
-| titles = Ziel of the Wasteland, chosen of the Wastelands, former genius of the Iceflower continent, Underlord, Uncrowned of the Uncrowned King tournament, chosen of Northstridererator of the Dawnwing Sect (former/Archlord of the Dawnwing Sect)
-| abilities = Enforcer technique, Forging technique, Path of the Dawn Oath, Soulsmith, scriptor, Thousand-Mile Cloud, Pure Storm Baptism, Stone Anchor, Steel Dragon’s Mountain technique, Oathsign technique
-| affiliations = Dawnwing Sect, Kazan clan, Northstrider, House Arelius, Reaper Division, Sect of Twin Stars
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 ''See also: [[Ziel of the Wasteland Timeline]]''

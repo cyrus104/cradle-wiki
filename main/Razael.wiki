@@ -1,8 +1,10 @@
 {{Infobox character
 | name = Razael
+| abilities = {{spoiler|book=cradle-11-dreadgod|wields a blazing sword}}
+| titles = {{spoiler|book=cradle-02-soulsmith|[[Wolf|the Wolf]]}}{{spoiler|book=cradle-03-blackflame|, [[judge|Judge]]}}
+| professions = {{spoiler|book=cradle-03-blackflame|[[judge|Judge]]}}
 | appears_in = Cradle
-| titles = the Wolf, Judge
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
 ''See also: [[Razael Timeline]]''

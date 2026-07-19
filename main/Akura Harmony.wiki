@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Akura Harmony
-| introduced = Ghostwater
-| name = Akura Harmony
 | aliases = Harmony
+| spouse = {{spoiler|book=cradle-05-ghostwater|[[Mercy]]}}
+| abilities = {{spoiler|book=cradle-05-ghostwater|breathes darkness, [[shadow madra]]}}{{spoiler|book=cradle-08-wintersteel|, Shadow’s Edge technique}}
+| titles = {{spoiler|book=cradle-05-ghostwater|[[Truegold]]}}
+| affiliations = {{spoiler|book=cradle-05-ghostwater|[[Akura clan]]}}
 | appears_in = Cradle
-| titles = Truegold
-| abilities = breathes darkness, soulfire, Eye of the Deep, access to Ghostwater, shadow madra, Shadow’s Edge technique
-| affiliations = Akura clan
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 ''See also: [[Akura Harmony Timeline]]''

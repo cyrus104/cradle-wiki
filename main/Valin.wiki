@@ -1,11 +1,13 @@
 {{Infobox character
 | name = Valin
 | aliases = Valin the Wanderer, Valin, the Wanderer
-| appears_in = The Traveler's Gate Trilogy
-| titles = the Wanderer, Incarnation of Valinhall, Valinhall Incarnation, the first Valinhall Traveler, an Incarnation, Overlord
-| abilities = draw on Nye essence, speed of the Nye
-| affiliations = House Valinhall
-| introduced = House of Blades
+| abilities = {{spoiler|book=tg-02-crimson-vault|draw on Nye essence, speed of the Nye}}
+| titles = {{spoiler|book=tg-02-crimson-vault|[[The Wanderer|the Wanderer]], [[Valinhall Incarnation|Incarnation of Valinhall]], [[Valinhall Incarnation]], [[Incarnation]], Overlord}}{{spoiler|book=tg-03-city-of-light|, creator of Valinhall, founder of this Territory}}
+| affiliations = {{spoiler|book=tg-01-house-of-blades|House Valinhall}}
+| professions = {{spoiler|book=tg-02-crimson-vault|master}}{{spoiler|book=tg-03-city-of-light|, [[Founder|founder]]}}
+| residence = {{spoiler|book=tg-01-house-of-blades|[[Valinhall]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Valin Timeline]]''

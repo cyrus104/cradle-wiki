@@ -2,7 +2,10 @@
 
 {{Infobox character
 | name = Gold dreadbeasts
-| introduced = Wintersteel
+| aliases = Truegold dreadbeasts
+| species = Dreadbeast
+| appears_in = Cradle
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Wintersteel ==

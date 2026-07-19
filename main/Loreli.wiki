@@ -1,10 +1,13 @@
 {{Infobox character
 | name = Loreli
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = original strategist, scholar, Regent, historical hero, Luminian Regent, ruler delegeate and appointer of rulers guide,
-| abilities = radiate an aura of peace and tranquility, healing abilities, Read people and their possessions, Reader, produces lightning-bright bolts of pure white
-| affiliations = Empire, Luminian Order
-| introduced = Of Dawn and Darkness
+| parents = {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Emperor}}
+| abilities = {{spoiler|book=ee-sea-03-of-kings-and-killers|radiate an aura of peace and tranquility, healing abilities, Read people and their possessions}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, produces lightning-bright bolts of pure white}}
+| titles = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Regent]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, Luminian Regent}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[Regent of the West]], first of the Luminian Order, original Pilgrim, original Knight, Daughter of the Emperor}}
+| affiliations = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Empire}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[Luminian Order]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[Luminian|Luminians]]}}
+| professions = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|strategist, scholar}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[Ruler|ruler]]}}
+| residence = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Aion Sea]], [[Izyria]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]]
 }}
 
 ''See also: [[Loreli Timeline]]''

@@ -2,7 +2,9 @@
 
 {{Infobox character
 | name = Vastwood Mammoth
-| introduced = Ghostwater
+| species = Sacred beast
+| appears_in = Cradle
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 == Ghostwater ==

@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Yala the High Mason
-| introduced = Of Shadow and Sea
-| name = Yala the High Mason
 | aliases = High Councilor Yala, High Mason, Yala
-| appears_in = The Elder Empire: Shadow
-| titles = Councilor, High Councilor, Architect of the High Council, High Mason
-| abilities = Gardener
-| affiliations = Guild, Masons, High Council, Consultants, Consultant’s Guild
-| introduced = Of Shadow and Sea
+| children = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Meia]]}}
+| titles = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Yala the High Mason|High Mason]], Councilor, [[High Councilor]], [[Consultant]]}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Guild]], High Council}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, [[Masons]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[Consultant's Guild|Consultant’s Guild]]}}
+| professions = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Mason]], [[Consultant]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[Gardener]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 ''See also: [[Yala the High Mason Timeline]]''

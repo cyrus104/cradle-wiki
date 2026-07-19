@@ -1,10 +1,11 @@
 {{Infobox character
 | name = First Elder
+| abilities = {{spoiler|book=cradle-09-bloodline|Fox Dream technique}}
+| titles = {{spoiler|book=cradle-01-unsouled|[[First Elder]], elder}}
+| affiliations = {{spoiler|book=cradle-01-unsouled|[[Wei clan]]}}
+| residence = {{spoiler|book=cradle-01-unsouled|[[Clan Hall]], a house that is perfect for cultivating White Fox madra}}
 | appears_in = Cradle
-| titles = First Elder, elder
-| abilities = Fox Dream technique
-| affiliations = Wei clan
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[First Elder Timeline]]''

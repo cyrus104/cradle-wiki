@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Heart Sage
+| abilities = {{spoiler|book=cradle-11-dreadgod|attack the mind, animate an army of silver ghosts}}
+| titles = {{spoiler|book=cradle-06-underlord|[[Heart Sage]]}}
 | appears_in = Cradle
-| titles = Heart Sage
-| abilities = attack the mind, animate an army of silver ghosts
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 ''See also: [[Heart Sage Timeline]]''

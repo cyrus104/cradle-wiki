@@ -1,8 +1,10 @@
 {{Infobox character
 | name = Beast King
+| titles = {{spoiler|book=cradle-05-ghostwater|[[Beast King]], [[Herald]], Patron}}
+| professions = {{spoiler|book=cradle-05-ghostwater|guardian}}
+| residence = {{spoiler|book=cradle-05-ghostwater|the island, [[Wasteland]]}}
 | appears_in = Cradle
-| titles = Beast King, Herald, guardian
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 ''See also: [[Beast King Timeline]]''

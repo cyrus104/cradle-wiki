@@ -1,12 +1,11 @@
 {{Infobox character
 | name = Blackwatch Guild Head
-| introduced = Of Sea and Shadow
-| name = Blackwatch Guild Head
 | aliases = Head of the Blackwatch, Guild Head
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Guild Head
-| affiliations = Blackwatch Guild
-| introduced = Of Sea and Shadow
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Blackwatch Guild Head|Guild Head]]}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Blackwatch|Blackwatch Guild]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Blackwatch Guild Head|Guild Head]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Blackwatch Guild Head Timeline]]''

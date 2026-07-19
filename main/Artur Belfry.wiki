@@ -1,12 +1,11 @@
 {{Infobox character
 | name = Artur Belfry
-| introduced = Of Sea and Shadow
-| name = Artur Belfry
 | aliases = Artur
-| appears_in = The Elder Empire: Sea
-| titles = Imperial Witness, Chronicler, tutor
-| affiliations = Blackwatch
-| introduced = Of Sea and Shadow
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Imperial Witness, Chronicler}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Blackwatch]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|tutor, Chronicler}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Artur Belfry Timeline]]''

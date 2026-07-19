@@ -1,9 +1,12 @@
 {{Infobox character
 | name = Shyrax the Third
+| species = Alien
+| titles = {{spoiler|book=lh-01-the-captain|Queen of the planet Karosha, [[Queen]]}}{{spoiler|book=lh-02-the-engineer|, exiled Karoshan queen}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[Karoshan]]}}
+| professions = {{spoiler|book=lh-01-the-captain|[[Queen]]}}
+| birthplace = {{spoiler|book=lh-01-the-captain|[[Karosha]]}}
 | appears_in = The Last Horizon
-| titles = Queen of the planet Karosha, exiled Karoshan queen
-| affiliations = Karosha
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == Overview ==

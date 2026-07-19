@@ -1,11 +1,13 @@
 {{Infobox character
 | name = Kelsa
 | aliases = Wei Shi Kelsa
+| siblings = {{spoiler|book=cradle-01-unsouled|[[Lindon]]}}
+| abilities = {{spoiler|book=cradle-01-unsouled|[[Path of the White Fox]]}}{{spoiler|book=cradle-07-uncrowned|, [[White Fox|White Fox madra]]}}{{spoiler|book=cradle-09-bloodline|, Fox Dream Ruler technique, [[Fox Dream]]}}{{spoiler|book=cradle-10-reaper|, [[Foxfire]]}}{{spoiler|book=cradle-11-dreadgod|, Foxtail Enforcer technique, [[Striker technique]]}}{{spoiler|book=cradle-13-threshold|, [[Thousand-Mile Cloud]]}}
+| titles = {{spoiler|book=cradle-01-unsouled|Copper Ruler}}{{spoiler|book=cradle-06-underlord|, Wei Shi}}
+| affiliations = {{spoiler|book=cradle-01-unsouled|[[Wei clan]]}}{{spoiler|book=cradle-10-reaper|, [[Twin Star Sect|Twin Star sect]]}}
+| professions = {{spoiler|book=cradle-11-dreadgod|teacher}}
 | appears_in = Cradle
-| titles = Copper Ruler, Wei Shi, Truegold
-| abilities = Path of the White Fox, Fox Dream Ruler technique, White Fox madra, Foxfire, Foxtail Enforcer technique, Striker technique, Fox Dream
-| affiliations = Wei clan, Twin Star sect
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Kelsa Timeline]]''

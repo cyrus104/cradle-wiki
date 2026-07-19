@@ -1,9 +1,11 @@
 {{Infobox character
 | name = Benji
-| appears_in = The Elder Empire: Shadow
-| titles = false Gardener, pseudo-Gardener, newly minted Gardener, Reader
-| abilities = Awakening process
-| introduced = Of Shadow and Sea
+| abilities = {{spoiler|book=ee-shadow-03-of-killers-and-kings|floats in a cloud of purple-light butterflies, can lift Shera over}}
+| titles = {{spoiler|book=ee-shadow-03-of-killers-and-kings|false Gardener, pseudo-Gardener, [[Gardener]], newly minted Gardener}}
+| professions = {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[assassin]]}}
+| residence = {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|a cell}}
+| appears_in = Elder Empire
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 ''See also: [[Benji Timeline]]''

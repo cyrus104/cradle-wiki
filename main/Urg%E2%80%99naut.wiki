@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Urg’naut
 | aliases = Urg'naut
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Great Elder, Creeping Shadow, Great Elder of Annihilation
-| introduced = Of Sea and Shadow
+| children = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Imperial Steward Calder Marten|Calder Marten]]}}
+| titles = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Great Elder]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[Creeping Shadow]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, Great Elder of Annihilation}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Urg’naut Timeline]]''

@@ -1,11 +1,11 @@
 {{Infobox character
 | name = Cladia
 | aliases = Cladia Arelius
+| abilities = {{spoiler|book=cradle-12-waybound|[[light madra]], blessing}}
+| titles = {{spoiler|book=cradle-12-waybound|[[Sage of a Thousand Eyes]], [[Archlady]]}}
+| affiliations = {{spoiler|book=cradle-12-waybound|[[Akura clan|Akura family]]}}
 | appears_in = Cradle
-| titles = Sage of a Thousand Eyes, Archlady
-| abilities = light madra
-| affiliations = Akura family
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 ''See also: [[Cladia Timeline]]''

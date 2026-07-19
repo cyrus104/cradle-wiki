@@ -1,10 +1,13 @@
 {{Infobox character
 | name = Jai Long
+| siblings = {{spoiler|book=cradle-03-blackflame|[[Jai Chen]]}}
+| abilities = {{spoiler|book=cradle-02-soulsmith|[[Path of the Stellar Spear]], [[Stellar Spear madra]]}}{{spoiler|book=cradle-03-blackflame|, [[spirit-sense|spiritual sense]], Serpent's Shadow technique, Flowing Starlight technique, Star’s Edge techniques, [[Ancestor's Spear|Ancestor’s Spear]]}}{{spoiler|book=cradle-04-skysworn|, [[cycling technique]]}}{{spoiler|book=cradle-09-bloodline|, soulfire-enhanced madra}}{{spoiler|book=cradle-10-reaper|, [[Enforcer technique]]}}
+| titles = {{spoiler|book=cradle-02-soulsmith|[[Highgold]], de facto leader of the Sandviper sect, [[Underlord]]}}{{spoiler|book=cradle-03-blackflame|, heir to a vassal sect of the Jai clan}}{{spoiler|book=cradle-04-skysworn|, [[Blackflame]]}}{{spoiler|book=cradle-11-dreadgod|, honored Sage}}
+| affiliations = {{spoiler|book=cradle-02-soulsmith|[[Jai clan]], [[Sandviper sect]]}}{{spoiler|book=cradle-10-reaper|, [[Sect of Twin Stars]]}}
+| professions = {{spoiler|book=cradle-02-soulsmith|attendant, spearman}}
+| residence = {{spoiler|book=cradle-03-blackflame|[[Serpent's Grave]]}}
 | appears_in = Cradle
-| titles = Highgold, attendant of the Sandviper sect, de facto leader of the Sandviper sect, heir to a vassal sect of the Jai clan, former Jai clan heir
-| abilities = Path of the Stellar Spear, Stellar Spear madra, Iron body, spiritual sense, Serpent's Shadow technique, Flowing Starlight technique
-| affiliations = Highgold, Jai clan, Sandviper sect
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
 ''See also: [[Jai Long Timeline]]''

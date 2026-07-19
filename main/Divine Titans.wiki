@@ -1,8 +1,10 @@
 {{Infobox character
 | name = Divine Titans
+| abilities = {{spoiler|book=lh-03-the-knight|[[Combat Arts]]}}
+| professions = {{spoiler|book=lh-03-the-knight|combatants}}
+| residence = {{spoiler|book=lh-04-the-pilot|hangar}}
 | appears_in = The Last Horizon
-| abilities = Combat Arts
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 ''See also: [[Divine Titans Timeline]]''

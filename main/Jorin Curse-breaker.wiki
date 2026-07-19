@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Jorin Curse-breaker
-| introduced = Of Sea and Shadow
-| name = Jorin Curse-breaker
 | aliases = Jorin, Jorin Maze-walker
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Curse-breaker, Maze-walker, Regent of the South, legendary Reader, Regent, legendary founder of the Empire
-| abilities = Intent, alchemy, paper wings decorated with Windwatcher feathers
-| affiliations = Consultants, Imperial Guard
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Intent]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, waves of dark energy}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, acidic darkness, [[corrosive aura]]}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Curse-breaker]], Maze-walker, [[Regent of the South]]}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, legendary founder of the Empire}}
+| affiliations = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Consultants]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[Imperial Guard]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Regent]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, alchemist}}
+| residence = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Gray Island]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, the Capital}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Jorin Curse-breaker Timeline]]''

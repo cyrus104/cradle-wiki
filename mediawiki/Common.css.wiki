@@ -44,3 +44,16 @@ table.infobox .infobox-image {
     background: #ffffff;
     border-top: 1px solid #e3e6ec;
 }
+table.infobox .infobox-caption {
+    font-size: 92%;
+    color: #5a6172;
+    padding-top: 3px;
+}
+table.infobox .infobox-section {
+    background: #d9dfeb;
+    color: #22304f;
+    font-weight: bold;
+    text-align: center;
+    padding: 4px 9px;
+    border-top: 1px solid #b6bcc8;
+}

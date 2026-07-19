@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Seshethkunaaz
+| abilities = {{spoiler|book=cradle-08-wintersteel|rise on a cloud of golden sand}}
+| titles = {{spoiler|book=cradle-05-ghostwater|[[King of all Dragons|Monarch of Dragons]], [[Monarch]]}}{{spoiler|book=cradle-06-underlord|, [[King of all Dragons|King of Dragons]]}}{{spoiler|book=cradle-07-uncrowned|, Monarch of the eastern Ashwind continent}}{{spoiler|book=cradle-08-wintersteel|, ancestor}}
 | appears_in = Cradle
-| titles = Monarch of Dragons, King of Dragons, Monarch of the eastern Ashwind continent, Monarch, ancestor, King of East Ashwind de Monarcher,
-| abilities = rise on a cloud of golden sand
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Seshethkunaaz Timeline]]''

@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Chronicler (The Elder Empire: Sea)
-| appears_in = The Elder Empire: Sea
-| titles = The Chronicler
-| abilities = Reader
-| introduced = Of Sea and Shadow
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|The Chronicler}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Chronicler}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Chronicler (The Elder Empire: Sea) Timeline]]''

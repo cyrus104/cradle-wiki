@@ -1,13 +1,11 @@
 {{Infobox character
 | name = Wei Shi Lindon Arelius
-| introduced = Skysworn
-| name = Wei Shi Lindon Arelius
 | aliases = Lindon Arelius
+| abilities = {{spoiler|book=cradle-06-underlord|[[Path of Black Flame]]}}{{spoiler|book=cradle-08-wintersteel|, [[black dragon madra]], [[Thousand-Mile Cloud]]}}
+| titles = {{spoiler|book=cradle-07-uncrowned|[[Blackflame]]}}{{spoiler|book=cradle-10-reaper|, [[Sage of Twin Stars]]}}{{spoiler|book=cradle-11-dreadgod|, [[Void Sage]]}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|Arelius branch family, Blackflame Empire vassal state, [[Akura clan]], prime Akura team}}
 | appears_in = Cradle
-| titles = the Blackflame, Sage of Twin Stars, Void Sage
-| abilities = Path of Black Flame, black dragon madra
-| affiliations = Arelius branch family, Blackflame Empire vassal state, Akura clan, prime Akura team
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Wei Shi Lindon Arelius Timeline]]''

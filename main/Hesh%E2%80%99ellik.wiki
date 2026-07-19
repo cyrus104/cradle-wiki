@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Hesh’ellik
+| abilities = {{spoiler|book=lh-03-the-knight|[[fortune magic]], probability manipulation}}
+| titles = {{spoiler|book=lh-03-the-knight|the Infester}}
 | appears_in = The Last Horizon
-| titles = the Infester
-| abilities = fortune magic, probability manipulation
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 == Overview ==

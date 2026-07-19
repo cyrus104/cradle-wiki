@@ -1,9 +1,12 @@
 {{Infobox character
 | name = Subject One
+| species = Dreadgod
+| abilities = {{spoiler|book=cradle-09-bloodline|[[Hunger aura|hunger aura]]}}{{spoiler|book=cradle-10-reaper|, [[hunger madra]], borrowed authority}}{{spoiler|book=cradle-11-dreadgod|, [[core binding]]}}
+| titles = {{spoiler|book=cradle-08-wintersteel|father of the Dreadgods, [[Dreadgod]]}}{{spoiler|book=cradle-10-reaper|, fifth or first Dreadgod, Father of Hunger, [[Slumbering Wraith]], first child of hunger, humanoid Dreadgod}}
+| birthplace = {{spoiler|book=cradle-10-reaper|a tank in the labyrinth}}
+| residence = {{spoiler|book=cradle-10-reaper|[[labyrinth|the labyrinth]], bottom of the labyrinth, deep chamber at the center of the labyrinth}}
 | appears_in = Cradle
-| titles = father of the Dreadgods, fifth or first Dreadgod, Father of Hunger, Slumbering Wraith, Dreadgod, first child of hunger
-| abilities = hunger aura, hunger madra, borrowed authority, ability to eat a call for help
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 ''See also: [[Subject One Timeline]]''

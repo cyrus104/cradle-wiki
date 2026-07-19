@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Felrex
+| titles = {{spoiler|book=lh-02-the-engineer|King Regent of Karosha}}{{spoiler|book=lh-03-the-knight|, usurper, contender for the throne of Karosha}}
+| affiliations = {{spoiler|book=lh-03-the-knight|[[Karoshan Alliance]], [[Galactic Union]], [[Perfected]]}}{{spoiler|book=lh-04-the-pilot|, Shyrax's family}}
+| professions = {{spoiler|book=lh-03-the-knight|[[Commander|commander]]}}
 | appears_in = The Last Horizon
-| titles = King Regent of Karosha, usurper, contender for the throne of Karosha
-| affiliations = Karoshan Alliance, Perfected, Shyrax's family
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 ''See also: [[Felrex Timeline]]''

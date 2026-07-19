@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Mercy
+| titles = {{spoiler|book=cradle-06-underlord|[[Underlady]]}}{{spoiler|book=cradle-08-wintersteel|, Overlord, [[Overlady]], [[Archlord]]}}{{spoiler|book=cradle-11-dreadgod|, [[Archlady]], [[Herald]]}}
+| affiliations = {{spoiler|book=cradle-04-skysworn|[[Akura clan]]}}{{spoiler|book=cradle-06-underlord|, [[Skysworn]]}}{{spoiler|book=cradle-13-threshold|, [[Reaper Division]], [[Abidan]]}}
+| professions = {{spoiler|book=cradle-06-underlord|native guide}}{{spoiler|book=cradle-12-waybound|, archer}}{{spoiler|book=cradle-13-threshold|, [[Reaper]]}}
 | appears_in = Cradle
-| titles = Lowgold, Highgold, Truegold
-| abilities = black madra, Blood Shadow, vast black web, shadow limbs, Puppeteer's Iron body
-| affiliations = Akura clan
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Mercy Timeline]]''

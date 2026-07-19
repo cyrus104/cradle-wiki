@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Emala
+| abilities = {{spoiler|book=cradle-11-dreadgod|[[Grand Oath Array]], [[script-circle|script-circles]]}}
+| titles = {{spoiler|book=cradle-11-dreadgod|[[Rune Queen]], [[Monarch]], [[Sage]]}}
+| residence = {{spoiler|book=cradle-11-dreadgod|[[Shatterspine Castle]]}}
 | appears_in = Cradle
-| titles = Rune Queen, Monarch, Sage
-| abilities = Grand Oath Array, script-circles, madra
-| introduced = Dreadgod
+| introduced = [[Dreadgod (novel)|Dreadgod]]
 }}
 
 ''See also: [[Emala Timeline]]''

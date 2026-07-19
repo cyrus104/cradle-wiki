@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Benri Vallenar
-| introduced = The Captain
-| name = Benri Vallenar
 | aliases = Mister Vallenar, Benri
+| children = {{spoiler|book=lh-01-the-captain|[[Varic Vallenar|Varic]]}}
+| abilities = {{spoiler|book=lh-01-the-captain|copying guns and shield generators, generate colorless copies of himself}}
+| titles = {{spoiler|book=lh-01-the-captain|President, [[Archmage]], [[Benri Vallenar|Mister Vallenar]]}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[Vallenar Corporation]], Vallenar family}}{{spoiler|book=lh-04-the-pilot|, [[Vallenar crew]]}}
+| professions = {{spoiler|book=lh-01-the-captain|President}}
 | appears_in = The Last Horizon
-| titles = President of the Vallenar Corporation, Archmage, Mister Vallenar
-| abilities = unique magic, Mirror of Silence, copying guns and shield generators, generate colorless copies of himself
-| affiliations = Vallenar Corporation, Vallenar family, Vallenar crew
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Benri Vallenar Timeline]]''

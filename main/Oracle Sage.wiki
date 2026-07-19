@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Oracle Sage
+| titles = {{spoiler|book=cradle-12-waybound|[[Oracle Sage]], [[Sage of a Thousand Eyes]]}}
+| affiliations = {{spoiler|book=cradle-12-waybound|[[Arelius family|House Arelius]]}}
 | appears_in = Cradle
-| titles = Sage of a Thousand Eyes
-| affiliations = House Arelius
-| introduced = Dreadgod
+| introduced = [[Dreadgod (novel)|Dreadgod]]
 }}
 
 == Overview ==

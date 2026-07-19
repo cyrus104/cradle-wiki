@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Eliadel
-| appears_in = The Traveler's Gate Trilogy
-| titles = the King
-| affiliations = Traveler
-| introduced = House of Blades
+| parents = {{spoiler|book=tg-03-city-of-light|[[Torin]]}}
+| titles = {{spoiler|book=tg-03-city-of-light|the King}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Eliadel Timeline]]''

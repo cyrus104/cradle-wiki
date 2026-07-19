@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Melerius
+| titles = {{spoiler|book=lh-02-the-engineer|[[Archmage]]}}{{spoiler|book=lh-04-the-pilot|, Royal Advisor}}
+| affiliations = {{spoiler|book=lh-04-the-pilot|[[The crown|the crown]]}}
+| professions = {{spoiler|book=lh-02-the-engineer|magical advisor, advisor}}
 | appears_in = The Last Horizon
-| titles = Archmage, advisor to Queen Shyrax, Royal Advisor
-| abilities = interact with the Aetheric structure of sentient beings
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Melerius Timeline]]''

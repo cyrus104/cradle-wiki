@@ -1,11 +1,9 @@
 {{Infobox character
 | name = Akura Courage
-| introduced = Wintersteel
-| name = Akura Courage
 | aliases = Courage
+| abilities = {{spoiler|book=cradle-08-wintersteel|formation of six flying swords}}
 | appears_in = Cradle
-| abilities = controls a formation of six flying swords
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Overview ==

@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Judge Suriel
-| introduced = Wintersteel
-| name = Judge Suriel
 | aliases = Suriel’s Presence, Suriel
+| abilities = {{spoiler|book=cradle-01-unsouled|sacred art to reverse time, [[Presence]]}}{{spoiler|book=cradle-03-blackflame|, can anchor a world to order through her connection to the Way}}{{spoiler|book=cradle-09-bloodline|, can pass through the Way}}{{spoiler|book=cradle-10-reaper|, can look into Fate}}{{spoiler|book=cradle-11-dreadgod|, can tear open a rift into the Way}}
+| titles = {{spoiler|book=cradle-01-unsouled|[[The Phoenix|the Phoenix]], Sixth Judge of the Abidan Court, [[judge|Judge]], [[celestial messenger]], [[Phoenix]]}}{{spoiler|book=cradle-12-waybound|, [[Hound]]}}{{spoiler|book=cradle-13-threshold|, leader of the Abidan}}
+| affiliations = {{spoiler|book=cradle-01-unsouled|[[Abidan Court]], [[Abidan]]}}{{spoiler|book=cradle-03-blackflame|, [[The Eight-Man Empire|Eight-Man Empire]]}}
+| professions = {{spoiler|book=cradle-01-unsouled|healer, [[judge|Judge]]}}{{spoiler|book=cradle-11-dreadgod|, caretaker}}
+| residence = {{spoiler|book=cradle-11-dreadgod|[[Seat of the Accused]]}}
 | appears_in = Cradle
-| titles = Judge, the Phoenix, celestial messenger, Sixth Judge of the Abidan Court, Abidan, Sixth Judge
-| abilities = healing, Presence, sacred art to reverse time, can observe target locations from a thousand kilometers away, can anchor a world to order through her connection to the Way, can tap into her mantle to revert a world towards a state of order, can pass through the Way to enter an Iteration, Presence can issue commands to the Abidan, power to turn back time or rewrite truth, can look into Fate true sight/runic eyes that can scan the future
-| affiliations = Abidan Court, Abidan, Eight-Man Empire
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 ''See also: [[Judge Suriel Timeline]]''

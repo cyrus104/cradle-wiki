@@ -1,12 +1,10 @@
 {{Infobox character
 | name = High Consort Seredash
-| introduced = Threshold: Stories from Cradle
-| name = High Consort Seredash
 | aliases = High Consort, Seredash
+| abilities = {{spoiler|book=cradle-13-threshold|construct a Pattern to manifest the limbs of impossible beasts}}
+| titles = {{spoiler|book=cradle-13-threshold|[[High Consort Seredash|High Consort]]}}
 | appears_in = Cradle
-| titles = High Consort
-| abilities = construct a Pattern
-| introduced = Threshold: Stories from Cradle
+| introduced = [[Threshold: Stories from Cradle (novel)|Threshold: Stories from Cradle]]
 }}
 
 == Overview ==

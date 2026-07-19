@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Priest of Night
 | aliases = the Priest of Night
+| titles = {{spoiler|book=lh-02-the-engineer|[[Priest of Night]]}}
 | appears_in = The Last Horizon
-| titles = Priest of Night
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 == Overview ==

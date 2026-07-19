@@ -1,13 +1,11 @@
 {{Infobox character
 | name = Veris Arelius
-| introduced = Uncrowned
-| name = Veris Arelius
 | aliases = Veris
+| abilities = {{spoiler|book=cradle-07-uncrowned|lightning-based techniques}}
+| titles = {{spoiler|book=cradle-07-uncrowned|[[Underlady]], [[Underlord]]}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Arelius family|House Arelius]]}}{{spoiler|book=cradle-08-wintersteel|, [[Arelius family]]}}
 | appears_in = Cradle
-| titles = Underlady of House Arelius, Underlord
-| abilities = lightning-based techniques
-| affiliations = House Arelius, Arelius family
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[Veris Arelius Timeline]]''

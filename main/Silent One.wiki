@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Silent One
 | aliases = The Silent One
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = warrior, bodyguard
-| affiliations = Witnesses, Witness’ Guild
-| introduced = Of Sea and Shadow
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Silent One]]}}
+| affiliations = {{spoiler|book=ee-sea-03-of-kings-and-killers|Witnesses}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[Witness' Guild|Witness’ Guild]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|warrior, bodyguard}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Silent One Timeline]]''

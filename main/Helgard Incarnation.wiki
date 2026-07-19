@@ -1,8 +1,9 @@
 {{Infobox character
 | name = Helgard Incarnation
-| appears_in = The Traveler's Gate Trilogy
-| abilities = tear open a Gate, created a layer of frost
-| introduced = City of Light
+| abilities = {{spoiler|book=tg-03-city-of-light|tear open a Gate, created a layer of frost}}
+| titles = {{spoiler|book=tg-03-city-of-light|[[Helgard Incarnation]]}}
+| appears_in = Traveler's Gate
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
 == Overview ==

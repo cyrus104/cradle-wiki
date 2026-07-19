@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Naru Huan
-| introduced = Blackflame
-| name = Naru Huan
 | aliases = Huan, Emperor Naru Huan
+| abilities = {{spoiler|book=cradle-03-blackflame|[[wind madra]]}}{{spoiler|book=cradle-10-reaper|, fighting against Blackflame}}
+| titles = {{spoiler|book=cradle-03-blackflame|Emperor, Overlord}}{{spoiler|book=cradle-04-skysworn|, [[Jai Patriarch|Patriarch]], sole leader of the Blackflame Empire}}{{spoiler|book=cradle-05-ghostwater|, Emperor Naru the Second}}
+| affiliations = {{spoiler|book=cradle-04-skysworn|[[Naru clan]], [[Blackflame Empire]]}}
+| residence = {{spoiler|book=cradle-10-reaper|[[Emperor's cloudship]]}}
 | appears_in = Cradle
-| titles = Emperor, Overlord, Patriarch of the Naru clan, sole leader of the Blackflame Empire, Emperor Naru the Second
-| abilities = wind madra, fighting against Blackflame
-| affiliations = Naru clan, Blackflame Empire
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[Naru Huan Timeline]]''

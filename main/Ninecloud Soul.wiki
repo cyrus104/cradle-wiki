@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Ninecloud Soul
+| abilities = {{spoiler|book=cradle-07-uncrowned|communicates via rainbow madra, produces floating models}}
+| titles = {{spoiler|book=cradle-07-uncrowned|voice of the Ninecloud Court}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Ninecloud Court]]}}
+| professions = {{spoiler|book=cradle-07-uncrowned|announcer}}
 | appears_in = Cradle
-| titles = voice of the Ninecloud Court, professional announcer
-| abilities = communicates via rainbow madra, produces floating models
-| affiliations = Ninecloud Court
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[Ninecloud Soul Timeline]]''

@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Crusher
+| abilities = {{spoiler|book=cradle-09-bloodline|conceptual strength}}
+| titles = {{spoiler|book=cradle-08-wintersteel|[[Blood Shadow]]}}{{spoiler|book=cradle-11-dreadgod|, enhanced Shadow}}
+| affiliations = {{spoiler|book=cradle-08-wintersteel|[[Yan Shoumei]]}}
+| residence = {{spoiler|book=cradle-13-threshold|depths of Yan Shoumei's soul}}
 | appears_in = Cradle
-| titles = Blood Shadow, enhanced Shadow
-| abilities = conceptual strength
-| affiliations = Yan Shoumei
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 ''See also: [[Crusher Timeline]]''

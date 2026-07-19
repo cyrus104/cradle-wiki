@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Director Porellus
-| introduced = The Captain
-| name = Director Porellus
 | aliases = Porellus
+| abilities = {{spoiler|book=lh-01-the-captain|uses wands}}
+| titles = {{spoiler|book=lh-01-the-captain|[[Director]], [[Archmage]]}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[Magic Tower]]}}
+| professions = {{spoiler|book=lh-01-the-captain|[[Director]]}}
+| residence = {{spoiler|book=lh-01-the-captain|[[Magic Tower]]}}
 | appears_in = The Last Horizon
-| titles = Director, Archmage
-| abilities = uses wands
-| affiliations = Magic Tower
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Director Porellus Timeline]]''

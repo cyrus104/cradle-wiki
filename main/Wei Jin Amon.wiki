@@ -1,13 +1,11 @@
 {{Infobox character
 | name = Wei Jin Amon
-| introduced = Unsouled
-| name = Wei Jin Amon
 | aliases = Amon
+| abilities = {{spoiler|book=cradle-01-unsouled|purple foxfire}}
+| titles = {{spoiler|book=cradle-01-unsouled|blood grandson of the Patriarch}}{{spoiler|book=cradle-09-bloodline|, grandson of the Wei clan Patriarch}}
+| affiliations = {{spoiler|book=cradle-01-unsouled|[[Wei clan]]}}
 | appears_in = Cradle
-| titles = blood grandson of the Patriarch, grandson of the Wei clan Patriarch
-| abilities = purple foxfire
-| affiliations = Wei clan
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Wei Jin Amon Timeline]]''

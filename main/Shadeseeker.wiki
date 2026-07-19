@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Shadeseeker
+| parents = {{spoiler|book=cradle-13-threshold|[[Herald]]}}
+| titles = {{spoiler|book=cradle-13-threshold|[[Uncrowned]], Uncrowned of the Tidewalkers}}
+| affiliations = {{spoiler|book=cradle-13-threshold|[[Tidewalkers]]}}
 | appears_in = Cradle
-| titles = Uncrowned
-| abilities = madra mixing aspects of swords, water, and blood
-| affiliations = Tidewalkers
-| introduced = Threshold: Stories from Cradle
+| introduced = [[Threshold: Stories from Cradle (novel)|Threshold: Stories from Cradle]]
 }}
 
 == Overview ==

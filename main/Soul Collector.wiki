@@ -1,8 +1,8 @@
 {{Infobox character
 | name = Soul Collector
-| appears_in = The Elder Empire: Sea
-| titles = Soul Collector
-| introduced = Of Sea and Shadow
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Soul Collector]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Soul Collector Timeline]]''

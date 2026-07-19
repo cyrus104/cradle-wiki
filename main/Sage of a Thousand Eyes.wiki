@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Sage of a Thousand Eyes
+| abilities = {{spoiler|book=cradle-08-wintersteel|see anywhere the Sage of a Thousand Eyes can}}{{spoiler|book=cradle-12-waybound|, forge globes of light into eyes, grant vision}}
+| titles = {{spoiler|book=cradle-04-skysworn|[[Sage of a Thousand Eyes]]}}{{spoiler|book=cradle-08-wintersteel|, [[Oracle Sage]]}}
 | appears_in = Cradle
-| titles = Sage of a Thousand Eyes, Oracle Sage
-| abilities = forge globes of light into eyes, grant vision
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Sage of a Thousand Eyes Timeline]]''

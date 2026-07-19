@@ -1,10 +1,12 @@
 {{Infobox character
 | name = Omal
 | aliases = Omal Escalon
+| children = {{spoiler|book=lh-04-the-pilot|[[Aila Escalon]]}}
+| abilities = {{spoiler|book=lh-04-the-pilot|sprout multiple hands and smiles}}
+| titles = {{spoiler|book=lh-04-the-pilot|Mister Escalon}}
+| professions = {{spoiler|book=lh-04-the-pilot|gunslinger}}
 | appears_in = The Last Horizon
-| titles = Mister Escalon
-| abilities = sprout multiple hands and smiles, gunslinger
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Omal Timeline]]''

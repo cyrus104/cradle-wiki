@@ -1,11 +1,15 @@
 {{Infobox character
 | name = Lindon
 | aliases = Shi Lindon, Wei Shi Lindon
+| siblings = {{spoiler|book=cradle-01-unsouled|[[Kelsa]]}}
+| abilities = {{spoiler|book=cradle-01-unsouled|[[Foundation technique]], [[scripts]], [[Empty Palm]], [[Thousand-Mile Cloud]], [[White Fox boundary formation|White Fox boundary]], [[Heart of Twin Stars]]}}{{spoiler|book=cradle-02-soulsmith|, [[Path of Twin Stars]], [[Forging]]}}{{spoiler|book=cradle-03-blackflame|, [[Soulsmithing]]}}
+| titles = {{spoiler|book=cradle-01-unsouled|Wei Shi Lindon the Unsouled, champion of the Foundation tournament}}{{spoiler|book=cradle-02-soulsmith|, founder of a Path}}{{spoiler|book=cradle-03-blackflame|, [[Underlord]], [[Blackflame]]}}
+| affiliations = {{spoiler|book=cradle-01-unsouled|[[Wei clan]], family Shi, [[Heaven’s Glory School|Heaven's Glory School]]}}{{spoiler|book=cradle-03-blackflame|, [[Arelius family]]}}{{spoiler|book=cradle-06-underlord|, [[Skysworn]]}}{{spoiler|book=cradle-11-dreadgod|, [[Twin Star Sect]]}}{{spoiler|book=cradle-13-threshold|, [[Reaper Division]]}}
+| professions = {{spoiler|book=cradle-01-unsouled|[[disciple]]}}{{spoiler|book=cradle-02-soulsmith|, [[Soulsmith|soulsmith]]}}{{spoiler|book=cradle-05-ghostwater|, apprentice Soulsmith}}{{spoiler|book=cradle-07-uncrowned|, [[Sage|sage]]}}{{spoiler|book=cradle-09-bloodline|, swordsman}}
+| birthplace = {{spoiler|book=cradle-03-blackflame|[[Sacred Valley]]}}
+| residence = {{spoiler|book=cradle-07-uncrowned|[[Moongrave]], [[Ninecloud Court]]}}
 | appears_in = Cradle
-| titles = champion of the Foundation tournament, Unsouled, Wei Shi Lindon the Unsouled, founder of a Path
-| abilities = Foundation technique, scripts, Empty Palm technique, Thousand-Mile Cloud, White Fox boundary, Heart of Twin Stars cycling technique, Path of Twin Stars
-| affiliations = Wei clan, family Shi, Heaven's Glory School
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Lindon Timeline]]''

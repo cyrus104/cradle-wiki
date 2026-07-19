@@ -1,11 +1,10 @@
 {{Infobox character
 | name = the Angler of the Crystal Halls
-| introduced = Uncrowned
-| name = the Angler of the Crystal Halls
 | aliases = Angler, The Angler of the Crystal Halls, Angler of the Crystal Halls, The Angler
+| titles = {{spoiler|book=cradle-07-uncrowned|[[the Angler of the Crystal Halls]], a target}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|enemy of the Abidan}}
 | appears_in = Cradle
-| titles = the Angler of the Crystal Halls, a target
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[the Angler of the Crystal Halls Timeline]]''

@@ -1,10 +1,13 @@
 {{Infobox character
 | name = Dross
+| abilities = {{spoiler|book=cradle-05-ghostwater|[[dream madra]]}}{{spoiler|book=cradle-06-underlord|, combat solutions and predictions, dream simulation}}{{spoiler|book=cradle-13-threshold|, combat Presence, audible speech illusions}}
+| titles = {{spoiler|book=cradle-05-ghostwater|Keeper of the Dream Well, [[Eye of the Deep]], Omni-codex}}
+| affiliations = {{spoiler|book=cradle-06-underlord|[[Akura clan]]}}
+| professions = {{spoiler|book=cradle-05-ghostwater|guide-construct, memory construct}}{{spoiler|book=cradle-06-underlord|, companion}}{{spoiler|book=cradle-11-dreadgod|, [[Pilot|pilot]]}}
+| birthplace = {{spoiler|book=cradle-06-underlord|[[Ghostwater]]}}
+| residence = {{spoiler|book=cradle-05-ghostwater|[[Lindon's core|Lindon's pure core]], a gem in Lindon's pocket}}{{spoiler|book=cradle-07-uncrowned|, Lindon's mind and spirit}}
 | appears_in = Cradle
-| titles = Keeper of the Dream Well, Eye of the Deep
-| abilities = dream madra, project words into minds, use Lindon's senses, send intentions, gather information on Paths and behavior to model them, recites a mantra about the unity of aura
-| affiliations = Akura
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 ''See also: [[Dross Timeline]]''

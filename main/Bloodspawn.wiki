@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Bloodspawn
 | aliases = bloodspawn
+| abilities = {{spoiler|book=cradle-04-skysworn|suicide attacks}}
 | appears_in = Cradle
-| abilities = suicide attacks
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Bloodspawn Timeline]]''

@@ -1,9 +1,13 @@
 {{Infobox character
 | name = Chaim
-| appears_in = The Traveler's Gate Trilogy
-| titles = advisor to the Mayor, leader, figure of authority for the Myrians
-| affiliations = Myrians
-| introduced = House of Blades
+| parents = {{spoiler|book=tg-01-house-of-blades|Moseth}}
+| children = {{spoiler|book=tg-01-house-of-blades|[[Orlina]]}}
+| titles = {{spoiler|book=tg-01-house-of-blades|advisor to the Mayor, leader, figure of authority}}
+| affiliations = {{spoiler|book=tg-01-house-of-blades|[[Myrians]]}}
+| professions = {{spoiler|book=tg-01-house-of-blades|advisor}}
+| birthplace = {{spoiler|book=tg-01-house-of-blades|[[Myria]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Chaim Timeline]]''

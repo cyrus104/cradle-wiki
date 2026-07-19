@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Cheska Bennett
-| introduced = Of Sea and Shadow
-| name = Cheska Bennett
 | aliases = Cheska, Bennett
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Head of the Navigator’s Guild, captain, Guild Head, Navigator, Head of the Navigators
-| abilities = uses a curved saber, uses a captain's horn, Soulbound to her ship
-| affiliations = Navigator’s Guild, Guild of Navigators
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|curved saber}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, [[Calder's captain’s horn|captain's horn]]}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Head of the Navigator’s Guild, [[Blackwatch Guild Head|Guild Head]], Captain, [[Navigator]], captain}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, Head of the Navigators}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Navigator’s Guild]], [[Navigator’s Guild|Guild of Navigators]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|captain, [[Navigator]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Cheska Bennett Timeline]]''

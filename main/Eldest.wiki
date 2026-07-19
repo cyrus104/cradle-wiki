@@ -1,11 +1,11 @@
 {{Infobox character
 | name = Eldest
 | aliases = The Eldest, Eldest Nye, Eldest (Nye)
-| appears_in = The Traveler's Gate Trilogy
-| titles = Eldest, Nye Eldest, faded Nye
-| abilities = resurrection technique, performing miracles, materialize out of shadow
-| affiliations = House, Nye
-| introduced = House of Blades
+| abilities = {{spoiler|book=tg-03-city-of-light|resurrection technique, materialize out of shadow}}
+| titles = {{spoiler|book=tg-01-house-of-blades|[[Eldest]], [[Nye Eldest]], faded Nye}}
+| affiliations = {{spoiler|book=tg-01-house-of-blades|[[House]], [[Nye]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Eldest Timeline]]''

@@ -1,12 +1,14 @@
 {{Infobox character
 | name = Olissa Agnos
-| introduced = The Crimson Vault
-| name = Olissa Agnos
 | aliases = Olissa
-| appears_in = The Traveler's Gate Trilogy
-| titles = wife of Caius
-| affiliations = Agnos family
-| introduced = The Crimson Vault
+| spouse = {{spoiler|book=tg-01-house-of-blades|[[Caius Agnos|Caius]]}}
+| parents = {{spoiler|book=tg-01-house-of-blades|[[Lycus]], [[Andra Agnos|Andra]]}}
+| children = {{spoiler|book=tg-01-house-of-blades|[[Lycus]], [[Andra Agnos|Andra]]}}
+| titles = {{spoiler|book=tg-03-city-of-light|wife of Caius}}
+| affiliations = {{spoiler|book=tg-02-crimson-vault|[[Agnos family]]}}
+| professions = {{spoiler|book=tg-02-crimson-vault|tinkerer}}
+| appears_in = Traveler's Gate
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 ''See also: [[Olissa Agnos Timeline]]''

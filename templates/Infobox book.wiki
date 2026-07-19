@@ -1,37 +1,10 @@
-{| class="infobox"
-! colspan="2" class="infobox-title" | {{{name}}}
-{{#if:{{{cover|}}}|
-{{!}}-
-{{!}} colspan="2" class="infobox-image" {{!}} {{{cover|}}}
-}}
-{{#if:{{{released|}}}|
-{{!}}-
-{{!}} class="infobox-label" {{!}} Released
-{{!}} class="infobox-data" {{!}} {{{released|}}}
-}}
-{{#if:{{{isbn|}}}|
-{{!}}-
-{{!}} class="infobox-label" {{!}} ISBN
-{{!}} class="infobox-data" {{!}} {{{isbn|}}}
-}}
-{{#if:{{{publisher|}}}|
-{{!}}-
-{{!}} class="infobox-label" {{!}} Publisher
-{{!}} class="infobox-data" {{!}} {{{publisher|}}}
-}}
-{{#if:{{{pages|}}}|
-{{!}}-
-{{!}} class="infobox-label" {{!}} Pages
-{{!}} class="infobox-data" {{!}} {{{pages|}}}
-}}
-{{#if:{{{follows|}}}|
-{{!}}-
-{{!}} class="infobox-label" {{!}} Follows
-{{!}} class="infobox-data" {{!}} {{{follows|}}}
-}}
-{{#if:{{{precedes|}}}|
-{{!}}-
-{{!}} class="infobox-label" {{!}} Precedes
-{{!}} class="infobox-data" {{!}} {{{precedes|}}}
-}}
-|}<noinclude>Book infobox (generated; styling in [[MediaWiki:Common.css]]).</noinclude>
+<table class="infobox">
+<tr><th colspan="2" class="infobox-title">{{{name}}}</th></tr>
+{{#if:{{{cover|}}}|<tr><td colspan="2" class="infobox-image">{{{cover|}}}{{#if:{{{caption|}}}|<div class="infobox-caption">{{{caption|}}}</div>}}</td></tr>}}
+{{#if:{{{released|}}}|<tr><th class="infobox-label">Released</th><td class="infobox-data">{{{released|}}}</td></tr>}}
+{{#if:{{{isbn|}}}|<tr><th class="infobox-label">ISBN</th><td class="infobox-data">{{{isbn|}}}</td></tr>}}
+{{#if:{{{publisher|}}}|<tr><th class="infobox-label">Publisher</th><td class="infobox-data">{{{publisher|}}}</td></tr>}}
+{{#if:{{{pages|}}}|<tr><th class="infobox-label">Pages</th><td class="infobox-data">{{{pages|}}}</td></tr>}}
+{{#if:{{{follows|}}}|<tr><th class="infobox-label">Follows</th><td class="infobox-data">{{{follows|}}}</td></tr>}}
+{{#if:{{{precedes|}}}|<tr><th class="infobox-label">Precedes</th><td class="infobox-data">{{{precedes|}}}</td></tr>}}
+</table><noinclude>Book infobox (generated; styling in [[MediaWiki:Common.css]]).</noinclude>

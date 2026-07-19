@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Rosephus
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Champion
-| abilities = create spectral weapons, Soulbound power
-| introduced = Of Kings and Killers
+| abilities = {{spoiler|book=ee-sea-03-of-kings-and-killers|create spectral weapons}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, three ghostly red daggers}}
+| titles = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Champion]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
 }}
 
 ''See also: [[Rosephus Timeline]]''

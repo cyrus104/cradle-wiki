@@ -1,9 +1,11 @@
 {{Infobox character
 | name = Rojric
 | aliases = Rojric Marten
-| appears_in = The Elder Empire: Sea
-| titles = prisoner
-| introduced = Of Sea and Shadow
+| children = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|prisoner}}
+| residence = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Candle Bay Imperial Prison and Reformative Facility}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Rojric Timeline]]''

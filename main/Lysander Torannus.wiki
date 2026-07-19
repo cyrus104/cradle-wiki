@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Lysander Torannus
-| introduced = The Crimson Vault
-| name = Lysander Torannus
 | aliases = Overlord Lysander, Lysander
-| appears_in = The Traveler's Gate Trilogy
-| titles = Overlord, Avernus Traveler, premier Sarin-tribe Avernus Traveler
-| abilities = psychic scream
-| affiliations = Talos, Sarin-tribe
-| introduced = The Crimson Vault
+| siblings = {{spoiler|book=tg-03-city-of-light|Feiora}}
+| abilities = {{spoiler|book=tg-02-crimson-vault|psychic scream}}
+| titles = {{spoiler|book=tg-02-crimson-vault|Overlord}}
+| affiliations = {{spoiler|book=tg-02-crimson-vault|[[Talos]]}}{{spoiler|book=tg-03-city-of-light|, Sarin-tribe}}
+| professions = {{spoiler|book=tg-02-crimson-vault|scholar}}
+| appears_in = Traveler's Gate
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 ''See also: [[Lysander Torannus Timeline]]''

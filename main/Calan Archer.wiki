@@ -1,12 +1,11 @@
 {{Infobox character
 | name = Calan Archer
-| introduced = Wintersteel
-| name = Calan Archer
 | aliases = Calan
+| siblings = {{spoiler|book=cradle-08-wintersteel|[[Therian Nills]]}}
+| abilities = {{spoiler|book=cradle-08-wintersteel|[[Goldsign|Goldsigns]], [[Thousand-Mile Cloud]], [[Ruler technique]], [[Striker technique]], [[Soulfire|soulfire]], lightning dragon}}
+| affiliations = {{spoiler|book=cradle-08-wintersteel|[[Stormcallers]], [[Dreadgod cultist]]}}
 | appears_in = Cradle
-| abilities = Goldsign, Thousand-Mile Cloud, Ruler technique, Striker technique, soulfire, conjured a lightning dragon
-| affiliations = Stormcallers, Dreadgod cultist
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 ''See also: [[Calan Archer Timeline]]''

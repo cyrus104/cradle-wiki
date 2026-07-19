@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Zakariel
 | aliases = Zakariel the Fox
+| titles = {{spoiler|book=cradle-10-reaper|[[Fox|the Fox]]}}{{spoiler|book=cradle-12-waybound|, [[judge|Judge]]}}
 | appears_in = Cradle
-| titles = The Fox, Judge
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
 == Overview ==

@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Longhook
+| abilities = {{spoiler|book=cradle-05-ghostwater|[[Blood Shadow]], [[Path of Rolling Earth]], [[Mountain's Fist Enforcer]]}}
+| titles = {{spoiler|book=cradle-04-skysworn|[[Underlord]]}}{{spoiler|book=cradle-06-underlord|, [[Redmoon Underlord]]}}
+| affiliations = {{spoiler|book=cradle-04-skysworn|[[Redmoon Hall]]}}
+| professions = {{spoiler|book=cradle-04-skysworn|[[Emissaries|emissary]]}}
 | appears_in = Cradle
-| titles = Underlord, gentleman, Redmoon Underlord
-| abilities = Blood Shadow, Path of Rolling Earth, Mountain's Fist Enforcer
-| affiliations = Redmoon Hall
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Longhook Timeline]]''

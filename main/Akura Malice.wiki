@@ -1,10 +1,13 @@
 {{Infobox character
 | name = Akura Malice
+| children = {{spoiler|book=cradle-06-underlord|[[Mercy]]}}{{spoiler|book=cradle-07-uncrowned|, [[Akura Fury]]}}{{spoiler|book=cradle-12-waybound|, [[Akura Pride|Pride]]}}
+| abilities = {{spoiler|book=cradle-08-wintersteel|Path of Eternal Night, [[Path of Seven Pages]], [[Ruler techniques]]}}{{spoiler|book=cradle-09-bloodline|, shadow tendrils, Monarch-level messenger construct}}{{spoiler|book=cradle-10-reaper|, [[World of Night]]}}
+| titles = {{spoiler|book=cradle-06-underlord|[[Monarch]]}}{{spoiler|book=cradle-08-wintersteel|, Queen of Shadows}}{{spoiler|book=cradle-11-dreadgod|, Sage of Eternal Night}}
+| affiliations = {{spoiler|book=cradle-05-ghostwater|[[Akura clan]]}}
+| professions = {{spoiler|book=cradle-13-threshold|investigator}}
+| residence = {{spoiler|book=cradle-08-wintersteel|western Ashwind continent}}
 | appears_in = Cradle
-| titles = Monarch, Queen of Shadows, Sage of Eternal Night, investigator
-| abilities = Path of Eternal Night, Path of Seven Pages, pure shadow Path, Forger techniques, Ruler techniques, shadow tendrils, Monarch-level messenger construct, World of Night
-| affiliations = Akura clan
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Akura Malice Timeline]]''

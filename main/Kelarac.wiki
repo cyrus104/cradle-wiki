@@ -1,9 +1,11 @@
 {{Infobox character
 | name = Kelarac
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Collector of Souls, Great Elder, Father of Merchants, Lord of Coin, Gambler’s Delight, Miser’s Bane”,
-| abilities = Reader of Memory, grant wishes, uses dreams
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[dreams]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, stone shark form}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Collector of Souls, [[Great Elder]], Father of Merchants, Lord of Coin, Gambler’s Delight}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Lyathatan]]}}
+| residence = {{spoiler|book=ee-sea-01-of-sea-and-shadow|bottom of the sea, drowned city beneath the Aion}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, bottom of the Aion}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Kelarac Timeline]]''

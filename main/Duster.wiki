@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Duster
-| appears_in = The Elder Empire: Sea
-| titles = Vessel of a Soulbound craftsman
-| abilities = fire
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|fire}}
+| professions = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|gunsmith}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 == Overview ==

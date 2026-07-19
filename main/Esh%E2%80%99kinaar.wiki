@@ -1,10 +1,12 @@
 {{Infobox character
 | name = Esh’kinaar
+| species = Alien
+| abilities = {{spoiler|book=lh-03-the-knight|spell cancellation, spawn magic, consume World Spirits}}
+| titles = {{spoiler|book=lh-01-the-captain|[[Swarm-Queen]]}}{{spoiler|book=lh-03-the-knight|, queen of psychic insects}}
+| affiliations = {{spoiler|book=lh-03-the-knight|[[D’Niss]]}}
+| residence = {{spoiler|book=lh-03-the-knight|[[Dark Space]], behind the local sun}}
 | appears_in = The Last Horizon
-| titles = Swarm-Queen, queen of psychic insects
-| abilities = spellcaster, spell cancellation, spawn magic, conjuration
-| affiliations = D’Niss
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Esh’kinaar Timeline]]''

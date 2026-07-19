@@ -1,7 +1,10 @@
 {{Infobox character
 | name = Cynara
-| appears_in = The Traveler's Gate Trilogy
-| introduced = The Crimson Vault
+| siblings = {{spoiler|book=tg-02-crimson-vault|[[Leah]]}}
+| birthplace = {{spoiler|book=tg-02-crimson-vault|[[Asphodel]]}}
+| residence = {{spoiler|book=tg-02-crimson-vault|palace rooms}}{{spoiler|book=tg-03-city-of-light|, antechamber of Ragnarus}}
+| appears_in = Traveler's Gate
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 ''See also: [[Cynara Timeline]]''

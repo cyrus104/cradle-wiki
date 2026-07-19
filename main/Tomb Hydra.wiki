@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Tomb Hydra
+| species = Dreadgod
+| titles = {{spoiler|book=cradle-10-reaper|guardian, baby Dreadgod}}
+| residence = {{spoiler|book=cradle-10-reaper|honeycomb-like room}}
 | appears_in = Cradle
-| titles = guardian, baby Dreadgod
-| abilities = parasitic madra system
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
 ''See also: [[Tomb Hydra Timeline]]''

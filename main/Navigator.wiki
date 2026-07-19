@@ -1,8 +1,10 @@
 {{Infobox character
 | name = Navigator
-| appears_in = The Elder Empire: Shadow, The Elder Empire: Sea
-| titles = Navigator
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|steering ships, finding destinations}}
+| titles = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Navigator]]}}
+| professions = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Navigator]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Navigator Timeline]]''

@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Red Faith
+| abilities = {{spoiler|book=cradle-08-wintersteel|[[Blood madra|blood madra]], [[Striker technique]], [[Ruler technique]], [[Enforcer technique]]}}{{spoiler|book=cradle-10-reaper|, [[Goldsign|Goldsigns]], follow through space, blood and aura}}{{spoiler|book=cradle-11-dreadgod|, [[blood essence]], blood and sword aura, [[launcher construct]]}}
+| titles = {{spoiler|book=cradle-09-bloodline|[[Sage of Red Faith]]}}{{spoiler|book=cradle-11-dreadgod|, [[Blood Sage]], [[Monarch]]}}
+| affiliations = {{spoiler|book=cradle-10-reaper|[[Redmoon Hall]]}}{{spoiler|book=cradle-11-dreadgod|, [[Blood Icon]]}}
+| professions = {{spoiler|book=cradle-11-dreadgod|researcher, [[Forger]]}}
 | appears_in = Cradle
-| titles = Sage of Red Faith, Blood Sage, Forger, Monarch
-| abilities = blood madra, Striker technique, Ruler technique, Enforcer technique, follow through space, blood and aura, blood essence, nine daggers, blood and sword aura, launcher construct
-| affiliations = Redmoon Hall, Blood Icon
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 ''See also: [[Red Faith Timeline]]''

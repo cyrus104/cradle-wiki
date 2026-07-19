@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Wandering Titan
+| abilities = {{spoiler|book=cradle-09-bloodline|[[hunger techniques|hunger technique]]}}{{spoiler|book=cradle-11-dreadgod|, [[gold dragon’s breath|gold dragon's breath]]}}{{spoiler|book=cradle-12-waybound|, blink through space, [[Striker technique]]}}
+| titles = {{spoiler|book=cradle-08-wintersteel|[[Dreadgod]]}}
+| residence = {{spoiler|book=cradle-08-wintersteel|[[Akura clan territory|Akura territory]]}}{{spoiler|book=cradle-11-dreadgod|, [[Ashwind]]}}
 | appears_in = Cradle
-| titles = Dreadgod
-| abilities = hunger technique
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Wandering Titan Timeline]]''

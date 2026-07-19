@@ -1,8 +1,10 @@
 {{Infobox character
 | name = Aunt Charity
+| abilities = {{spoiler|book=cradle-11-dreadgod|used a void key}}
+| titles = {{spoiler|book=cradle-06-underlord|[[Heart Sage]]}}
+| professions = {{spoiler|book=cradle-12-waybound|makes good elixirs}}
 | appears_in = Cradle
-| titles = Heart Sage
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 ''See also: [[Aunt Charity Timeline]]''

@@ -1,8 +1,8 @@
 {{Infobox character
 | name = Grandmaster Avernus
-| appears_in = The Traveler's Gate Trilogy
-| titles = Grandmaster
-| introduced = The Crimson Vault
+| titles = {{spoiler|book=tg-02-crimson-vault|Grandmaster}}
+| appears_in = Traveler's Gate
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 ''See also: [[Grandmaster Avernus Timeline]]''

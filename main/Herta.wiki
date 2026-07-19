@@ -1,8 +1,9 @@
 {{Infobox character
 | name = Herta
+| species = Alien
+| professions = {{spoiler|book=lh-04-the-pilot|[[assistant]], journeyman prosthetic Technician, virus Technician}}
 | appears_in = The Last Horizon
-| titles = journeyman prosthetic Technician, virus Technician
-| introduced = The Pilot
+| introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
 == Overview ==

@@ -1,10 +1,14 @@
 {{Infobox character
 | name = Indirial
-| appears_in = The Traveler's Gate Trilogy
-| titles = Overlord, Overlord of the realm of Cana, bearer of the first Dragon's Fang
-| abilities = make his sword vanish, cut open a Valinhall Gate, unorthodox application of a lesser-known Valinhall power
-| affiliations = Valinhall Traveler, Tartarus group
-| introduced = House of Blades
+| parents = {{spoiler|book=tg-02-crimson-vault|Aleias, [[Kalman]]}}
+| children = {{spoiler|book=tg-02-crimson-vault|[[Elaina]]}}
+| abilities = {{spoiler|book=tg-02-crimson-vault|make his sword vanish}}{{spoiler|book=tg-03-city-of-light|, cut open a Valinhall Gate, unorthodox application of a lesser-known Valinhall power, call a flickering version of ghost armor, call upon steel to keep himself on his feet, summon weapons from the Valinhall armory}}
+| titles = {{spoiler|book=tg-02-crimson-vault|Overlord, bearer of the first Dragon's Fang, [[Incarnation]]}}{{spoiler|book=tg-03-city-of-light|, [[Incarnation of Ragnarus]], [[Valinhall Incarnation]]}}
+| affiliations = {{spoiler|book=tg-02-crimson-vault|Tartarus group}}
+| professions = {{spoiler|book=tg-01-house-of-blades|servant}}{{spoiler|book=tg-03-city-of-light|, warrior, guard}}
+| residence = {{spoiler|book=tg-02-crimson-vault|[[Cana]], [[Valinhall]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Indirial Timeline]]''

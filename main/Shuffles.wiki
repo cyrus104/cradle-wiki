@@ -1,9 +1,12 @@
 {{Infobox character
 | name = Shuffles
-| appears_in = The Elder Empire: Sea
-| titles = Bellowing Horror, Elderspawn, lesser Elderspawn, spawn of Othaghor
-| abilities = mimics sounds, echo speech, unlatch cages through bars, use words to exert power
-| introduced = Of Sea and Shadow
+| parents = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Othaghor]]}}
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|mimics sounds, echo speech}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, unlatch cages through bars, use words to exert power}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Bellowing Horror]]}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, [[Elderspawn]], [[Lesser Elderspawn|lesser Elderspawn]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, spawn of Othaghor}}
+| professions = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|pet}}
+| residence = {{spoiler|book=ee-sea-01-of-sea-and-shadow|darkened cage}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Shuffles Timeline]]''

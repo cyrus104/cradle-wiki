@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Lemon
+| abilities = {{spoiler|book=lh-04-the-pilot|immune to Subspace madness}}
+| affiliations = {{spoiler|book=lh-03-the-knight|[[Advocates]]}}
 | appears_in = The Last Horizon
-| abilities = immune to Subspace madness
-| affiliations = Advocates
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 ''See also: [[Lemon Timeline]]''

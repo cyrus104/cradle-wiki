@@ -1,10 +1,12 @@
 {{Infobox character
 | name = Lucan
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Consultant, Reader, Gardener, assassin
-| abilities = Reader ritual, Reading, Awakening Syphren, make his gloves and boots stick to walls like a fly's legs, rocking stone like storm-tossed waves
-| affiliations = Guild, Blackwatch
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Reader ritual to mute sound}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, [[Reading]]}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, Awaken stone, rocking stone like storm-tossed waves}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, find traps}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Consultant]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, leader of the scout team}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Blackwatch traitor}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[Consultant's Guild]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Consultant]], prisoner}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, student, inmate, [[Gardener]], [[Architect]]}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, [[assassin]]}}
+| residence = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|subterranean prison, [[Gray District]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Lucan Timeline]]''

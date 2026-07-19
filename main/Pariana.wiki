@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Pariana
+| abilities = {{spoiler|book=cradle-06-underlord|[[Presence]]}}{{spoiler|book=cradle-13-threshold|, construct containment fields, restrictive symbols}}
+| titles = {{spoiler|book=cradle-06-underlord|[[Titan]], [[Abidan]]}}
+| affiliations = {{spoiler|book=cradle-13-threshold|[[Second Division]]}}
+| professions = {{spoiler|book=cradle-06-underlord|designer of the formations}}
 | appears_in = Cradle
-| titles = Titan, Abidan
-| abilities = Presence, construct containment fields
-| affiliations = Second Division
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 == Overview ==

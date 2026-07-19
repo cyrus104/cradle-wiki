@@ -1,13 +1,16 @@
 {{Infobox character
 | name = Raion Raithe
-| introduced = The Captain
-| name = Raion Raithe
 | aliases = Raion
+| species = Alien
+| siblings = {{spoiler|book=lh-03-the-knight|[[Ryzer Raithe]]}}
+| abilities = {{spoiler|book=lh-01-the-captain|[[Aetheric Combat Art]], [[Dance of a Burning World]], [[Combat Art]], crimson energy, summon a Divine Titan, channel the power of friendship}}
+| titles = {{spoiler|book=lh-01-the-captain|Captain, Knight, [[Titan Knight]], Visiri warrior}}{{spoiler|book=lh-03-the-knight|, Red Knight}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[Titan Knights]], [[The Last Horizon]], [[Titan Force]]}}
+| professions = {{spoiler|book=lh-01-the-captain|fighter, [[Pilot|pilot]], warrior, crew member}}
+| birthplace = {{spoiler|book=lh-03-the-knight|[[Visiria]]}}
+| residence = {{spoiler|book=lh-03-the-knight|[[Visiria]]}}
 | appears_in = The Last Horizon
-| titles = Captain, Knight of The Last Horizon, Knight of the Titan Force, Titan Knight, Red Knight, Visiri warrior
-| abilities = Aetheric Combat Art, Dance of a Burning World, Combat Art, crimson energy, summon a Divine Titan, channel the power of friendship
-| affiliations = Titan Knights, The Last Horizon, Titan Force
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Raion Raithe Timeline]]''

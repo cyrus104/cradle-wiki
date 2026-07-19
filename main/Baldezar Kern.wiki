@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Baldezar Kern
-| introduced = Of Sea and Shadow
-| name = Baldezar Kern
 | aliases = Baldezar, Kern
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Champion, Head of the Champion’s Guild, Guild Head
-| abilities = unstoppable berserk state
-| affiliations = Champion’s Guild
-| introduced = Of Sea and Shadow
+| children = {{spoiler|book=ee-sea-03-of-kings-and-killers|Torrence}}
+| abilities = {{spoiler|book=ee-shadow-03-of-killers-and-kings|unstoppable berserk state}}
+| titles = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Champion]], Head of the Champion’s Guild}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[Blackwatch Guild Head|Guild Head]]}}
+| affiliations = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Champion’s Guild]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Baldezar Kern Timeline]]''

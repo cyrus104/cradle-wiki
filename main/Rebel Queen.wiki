@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Rebel Queen
+| titles = {{spoiler|book=lh-02-the-engineer|[[Rebel Queen]]}}
+| affiliations = {{spoiler|book=lh-02-the-engineer|Empire, Karoshan exiles}}{{spoiler|book=lh-04-the-pilot|, [[The Zenith Starship|Zenith Starship]]}}
 | appears_in = The Last Horizon
-| titles = Rebel Queen
-| affiliations = Empire, Karoshan exiles, Zenith Starship
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 == Overview ==

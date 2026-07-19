@@ -1,11 +1,13 @@
 {{Infobox character
 | name = Dead Mother
 | aliases = The Dead Mother
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Nakothi
-| abilities = remake bodies, draws people toward it, destroys bodies and builds them anew, stitch someone back together
-| affiliations = cults
-| introduced = Of Sea and Shadow
+| species = Great elder
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|remake bodies}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, draws people toward it, destroys bodies and builds them anew}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, stitch someone back together}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Nakothi]]}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|cults}}
+| residence = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nakothi's island]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Dead Mother Timeline]]''

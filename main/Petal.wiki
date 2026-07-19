@@ -1,10 +1,13 @@
 {{Infobox character
 | name = Petal
-| appears_in = The Elder Empire: Sea
-| titles = journeyman alchemist
-| abilities = alchemy
-| affiliations = Calder's crew, The Testament, Champions
-| introduced = Of Sea and Shadow
+| siblings = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jyrine Tessella Marten|Jyrine]]}}
+| abilities = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|alchemy}}
+| titles = {{spoiler|book=ee-sea-03-of-kings-and-killers|journeyman alchemist}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Calder's crew, [[Blackwatch]]}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, [[The Testament]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[Champion’s Guild|Champion's Guild]], [[Champions]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|alchemist}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, crew member}}
+| residence = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Testament]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, a building rented by the Champion's Guild}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Petal Timeline]]''

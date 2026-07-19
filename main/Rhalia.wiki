@@ -1,9 +1,11 @@
 {{Infobox character
 | name = Rhalia
-| appears_in = The Traveler's Gate Trilogy
-| titles = Incarnation, Traveler, ghost
-| abilities = levitate, separate a person's mind from their body
-| introduced = House of Blades
+| abilities = {{spoiler|book=tg-01-house-of-blades|levitate, separate a person's mind from their body}}
+| titles = {{spoiler|book=tg-03-city-of-light|[[Incarnation]]}}
+| professions = {{spoiler|book=tg-01-house-of-blades|guide}}
+| residence = {{spoiler|book=tg-02-crimson-vault|[[Elysia]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Rhalia Timeline]]''

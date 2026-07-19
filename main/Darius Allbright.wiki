@@ -1,12 +1,10 @@
 {{Infobox character
 | name = Darius Allbright
-| introduced = Of Darkness and Dawn
-| name = Darius Allbright
 | aliases = Darius, Allbright
-| appears_in = The Elder Empire: Shadow, The Elder Empire: Sea
-| titles = Captain of the Knights of the White Sun, Knight-Adjunct
-| affiliations = Knights of the White Sun, Luminian Order
-| introduced = Of Darkness and Dawn
+| titles = {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Captain of the Knights of the White Sun, [[Knight-Adjunct]]}}
+| affiliations = {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Knights of the White Sun]]}}{{spoiler|book=ee-shadow-03-of-killers-and-kings|, [[Luminian Order]]}}
+| appears_in = Elder Empire
+| introduced = [[Of Darkness and Dawn (novel)|Of Darkness and Dawn]]
 }}
 
 ''See also: [[Darius Allbright Timeline]]''

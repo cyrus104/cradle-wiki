@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Sola Kalter
-| introduced = The Captain
-| name = Sola Kalter
 | aliases = Sola
+| abilities = {{spoiler|book=lh-01-the-captain|split her Flame into several pieces, fire a lance of light, summon Worldslayer, [[pulse boosters]]}}{{spoiler|book=lh-02-the-engineer|, [[Temporal Field]]}}{{spoiler|book=lh-04-the-pilot|, clones that engage Temporal Fields, conjure a handgun}}
+| titles = {{spoiler|book=lh-01-the-captain|[[Fallen Sword]], Sword of The Last Horizon, Knight of the Titan Force, [[the Sword|The Sword]]}}{{spoiler|book=lh-03-the-knight|, Miss Kalter}}{{spoiler|book=lh-04-the-pilot|, [[Vice Chief of Planetary Security|Vice Chief]]}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[Titan Force]], [[The Last Horizon]], [[Iron Legion]]}}{{spoiler|book=lh-02-the-engineer|, [[Union]]}}
+| professions = {{spoiler|book=lh-01-the-captain|gun for hire, warrior}}{{spoiler|book=lh-02-the-engineer|, crew member, [[Pilot|pilot]]}}{{spoiler|book=lh-03-the-knight|, worker}}
+| residence = {{spoiler|book=lh-01-the-captain|[[The Last Horizon]]}}
 | appears_in = The Last Horizon
-| titles = Fallen Sword, Sword of The Last Horizon, Knight of the Titan Force, The Sword, Miss Kalter, Vice Chief
-| abilities = split her Flame into several pieces, fire a lance of light, unique spell beyond Archmage-level, flame of resurrection, pulse boosters to dash, summon Worldslayer, reach into Subspace, activate a Temporal Field to dash, conjure a handgun
-| affiliations = Titan Force, The Last Horizon, Union
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Sola Kalter Timeline]]''

@@ -1,11 +1,14 @@
 {{Infobox character
 | name = Fisher Gesha
 | aliases = Gesha
+| abilities = {{spoiler|book=cradle-03-blackflame|madra pulls objects together, purple madra to pull heavy doors shut}}{{spoiler|book=cradle-04-skysworn|, purple madra to manipulate objects, throw a web of purple light, purple madra to lash lines to debris}}
+| titles = {{spoiler|book=cradle-02-soulsmith|elder, [[Highgold]]}}{{spoiler|book=cradle-11-dreadgod|, [[Sage]]}}
+| affiliations = {{spoiler|book=cradle-03-blackflame|[[Fisher sect]]}}
+| professions = {{spoiler|book=cradle-02-soulsmith|[[Soulsmith]], Fisher}}{{spoiler|book=cradle-03-blackflame|, tutor}}{{spoiler|book=cradle-06-underlord|, business owner, hunter of dreadbeasts}}
+| birthplace = {{spoiler|book=cradle-04-skysworn|[[Desolate Wilds]]}}
+| residence = {{spoiler|book=cradle-02-soulsmith|foundry}}{{spoiler|book=cradle-06-underlord|, Blackflame camp}}
 | appears_in = Cradle
-| titles = Soulsmith, Fisher, Highgold Soulsmith, elder, Highgold
-| abilities = sacred artist, purple madra to pull heavy doors shut, purple madra to manipulate objects, throw a web of purple light, purple madra to lash lines to debris
-| affiliations = Fisher sect
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
 ''See also: [[Fisher Gesha Timeline]]''

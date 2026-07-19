@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Dragon Monarch
+| abilities = {{spoiler|book=cradle-13-threshold|technique involving sandstorms with authority over space}}
+| titles = {{spoiler|book=cradle-07-uncrowned|[[Dragon Monarch]]}}
+| residence = {{spoiler|book=cradle-11-dreadgod|shifting desert vault}}
 | appears_in = Cradle
-| titles = Dragon Monarch
-| abilities = technique involving sandstorms with authority over space
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 == Overview ==

@@ -1,8 +1,13 @@
 {{Infobox character
 | name = Northstrider
 | aliases = Master Northstrider
+| abilities = {{spoiler|book=cradle-05-ghostwater|[[Path of the Hungry Deep]], [[Eyes of the Deep]], [[Soulfire|soulfire]]}}{{spoiler|book=cradle-08-wintersteel|, [[Enforced punches]], living techniques shaped like red dragons, Remnant made mostly of blood madra, hunger madra technique, spirit Enforcer technique}}{{spoiler|book=cradle-11-dreadgod|, [[spiritual perception]]}}{{spoiler|book=cradle-12-waybound|, Consume technique}}
+| titles = {{spoiler|book=cradle-04-skysworn|[[Monarch]], dragon-eater}}{{spoiler|book=cradle-07-uncrowned|, [[Archlord]], patron of the Uncrowned tournament, wandering Monarch of the Trackless Sea}}{{spoiler|book=cradle-08-wintersteel|, master}}
+| affiliations = {{spoiler|book=cradle-05-ghostwater|[[Ghostwater]]}}{{spoiler|book=cradle-07-uncrowned|, [[Uncrowned King Tournament|Uncrowned tournament]]}}{{spoiler|book=cradle-12-waybound|, [[Sunken Tower]]}}
+| professions = {{spoiler|book=cradle-08-wintersteel|[[Sage]]}}{{spoiler|book=cradle-09-bloodline|, [[Champion|champion]]}}
+| residence = {{spoiler|book=cradle-05-ghostwater|[[Ghostwater]]}}{{spoiler|book=cradle-12-waybound|, [[Sunken Tower]]}}
 | appears_in = Cradle
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Northstrider Timeline]]''

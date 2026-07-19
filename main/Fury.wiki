@@ -1,10 +1,13 @@
 {{Infobox character
 | name = Fury
+| parents = {{spoiler|book=cradle-07-uncrowned|[[Mercy]]}}{{spoiler|book=cradle-08-wintersteel|, [[Malice]]}}
+| siblings = {{spoiler|book=cradle-07-uncrowned|[[Mercy]]}}{{spoiler|book=cradle-12-waybound|, [[Akura Pride|Pride]]}}
+| abilities = {{spoiler|book=cradle-07-uncrowned|[[shadow madra]]}}{{spoiler|book=cradle-13-threshold|, Wolf Division techniques}}
+| titles = {{spoiler|book=cradle-07-uncrowned|[[Herald]], [[Monarch]]}}{{spoiler|book=cradle-08-wintersteel|, [[Sage]]}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|Monarch's family, [[Akura prime team|Akura team]]}}{{spoiler|book=cradle-08-wintersteel|, [[Akura clan|Akura family]]}}
+| residence = {{spoiler|book=cradle-08-wintersteel|[[Sky's Edge]], [[fortress]]}}
 | appears_in = Cradle
-| titles = Herald, Monarch, Sage
-| abilities = shadow madra, Wolf Division techniques
-| affiliations = Monarch's family, Akura team, Akura family
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 ''See also: [[Fury Timeline]]''

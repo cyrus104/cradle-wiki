@@ -1,13 +1,14 @@
 {{Infobox character
 | name = Yan Shoumei
-| introduced = Ghostwater
-| name = Yan Shoumei
 | aliases = Shoumei
+| abilities = {{spoiler|book=cradle-05-ghostwater|[[Blood Shadow]]}}{{spoiler|book=cradle-08-wintersteel|, [[Striker techniques]]}}{{spoiler|book=cradle-13-threshold|, Red Crystal technique, Midnight Rain technique}}
+| titles = {{spoiler|book=cradle-06-underlord|Redmoon Truegold}}{{spoiler|book=cradle-07-uncrowned|, leader of the Redmoon Hall team, chosen of Reigan Shen}}{{spoiler|book=cradle-08-wintersteel|, [[Uncrowned]], Uncrowned of Redmoon Hall, competitor in the Uncrowned, Uncrowned in Calan Archer's faction}}{{spoiler|book=cradle-13-threshold|, Overlady of Sailfin Port}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Redmoon Hall]]}}{{spoiler|book=cradle-08-wintersteel|, [[Dreadgod cultist]]}}{{spoiler|book=cradle-13-threshold|, [[Akura clan]]}}
+| professions = {{spoiler|book=cradle-08-wintersteel|fighter}}
+| birthplace = {{spoiler|book=cradle-13-threshold|a dock}}
+| residence = {{spoiler|book=cradle-06-underlord|[[Ghostwater]]}}
 | appears_in = Cradle
-| titles = Redmoon Truegold, leader of the Redmoon Hall team, chosen of Reigan Shen, competitor in the Uncrowned, disciple of the Blood Sage, Uncrowned in Calan Archer's faction iconic Uncrowned of Redmoon Hall iconic Uncrowned iconic Overlady of Sailfin Port iconic Overlady
-| abilities = Blood Shadow, blood madra, Striker techniques, Red Crystal technique, Midnight Rain technique
-| affiliations = Redmoon Hall, Dreadgod cultist, Akura clan
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 ''See also: [[Yan Shoumei Timeline]]''

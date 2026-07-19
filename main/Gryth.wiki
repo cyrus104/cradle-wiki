@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Gryth
+| abilities = {{spoiler|book=cradle-12-waybound|see everything in a person's void space and pocket}}
+| titles = {{spoiler|book=cradle-12-waybound|officer}}
+| affiliations = {{spoiler|book=cradle-12-waybound|Import Processing}}
+| professions = {{spoiler|book=cradle-12-waybound|officer}}
 | appears_in = Cradle
-| titles = officer of Import Processing
-| abilities = see everything in a person's void space and pocket
-| affiliations = Import Processing
-| introduced = Waybound
+| introduced = [[Waybound (novel)|Waybound]]
 }}
 
 == Overview ==

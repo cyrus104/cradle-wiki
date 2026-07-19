@@ -1,11 +1,9 @@
 {{Infobox character
 | name = Fox
-| introduced = Reaper
-| name = Fox
 | aliases = The Fox
+| titles = {{spoiler|book=cradle-10-reaper|[[Fox|the Fox]]}}
 | appears_in = Cradle
-| titles = the Fox
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
 == Overview ==

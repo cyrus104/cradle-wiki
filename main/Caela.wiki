@@ -1,9 +1,10 @@
 {{Infobox character
 | name = Caela
-| appears_in = The Traveler's Gate Trilogy
-| titles = advisor, Traveler
-| abilities = Dragon’s Fang
-| introduced = House of Blades
+| abilities = {{spoiler|book=tg-02-crimson-vault|[[Dragon's Fang|Dragon’s Fang]]}}
+| titles = {{spoiler|book=tg-01-house-of-blades|advisor}}
+| professions = {{spoiler|book=tg-01-house-of-blades|advisor}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Caela Timeline]]''

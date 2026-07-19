@@ -1,8 +1,11 @@
 {{Infobox character
 | name = Nelula Seiren
+| species = Alien
+| titles = {{spoiler|book=lh-03-the-knight|[[Planetary Governor|Planetary Governor of Visiria]]}}
+| professions = {{spoiler|book=lh-03-the-knight|[[Planetary Governor]]}}
+| residence = {{spoiler|book=lh-03-the-knight|[[Visiria]]}}
 | appears_in = The Last Horizon
-| titles = Planetary Governor of Visiria
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 == Overview ==

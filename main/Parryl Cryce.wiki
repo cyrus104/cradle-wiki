@@ -1,12 +1,11 @@
 {{Infobox character
 | name = Parryl Cryce
-| introduced = The Knight
-| name = Parryl Cryce
 | aliases = Parryl
+| abilities = {{spoiler|book=lh-03-the-knight|[[force-blade]]}}
+| titles = {{spoiler|book=lh-03-the-knight|[[Green Knight]], [[Titan Knight]]}}
+| residence = {{spoiler|book=lh-04-the-pilot|Green Titan}}
 | appears_in = The Last Horizon
-| titles = Green Knight, Lichborn girl, former Green Knight, Titan Knight
-| abilities = force-blade
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 ''See also: [[Parryl Cryce Timeline]]''

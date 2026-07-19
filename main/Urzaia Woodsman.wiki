@@ -1,13 +1,13 @@
 {{Infobox character
 | name = Urzaia Woodsman
-| introduced = Of Sea and Shadow
-| name = Urzaia Woodsman
 | aliases = The Woodsman, Urzaia, Woodsman
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Woodsman, ship's cook, Izyrian gladiator, Soulbound warrior, Champion, Navigator captain
-| abilities = Soulbound powers, Awakened weapons
-| affiliations = The Testament, Champion's Guild
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Soulbound powers]], [[Awakened weapons]]}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Urzaia Woodsman|Woodsman]], [[Champion]]}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Champion’s Guild|Champion's Guild]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|cook, gladiator, warrior}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, fighter}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, [[Navigator captain|navigator captain]], [[Navigator captain]]}}
+| residence = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Testament]]}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, the tower}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Urzaia Woodsman Timeline]]''

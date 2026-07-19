@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Blood Sage
+| abilities = {{spoiler|book=cradle-11-dreadgod|blood techniques, [[void space]]}}
+| titles = {{spoiler|book=cradle-09-bloodline|[[Sage of Red Faith]]}}{{spoiler|book=cradle-11-dreadgod|, ghost child}}
+| affiliations = {{spoiler|book=cradle-11-dreadgod|Redmoon's organization}}
+| professions = {{spoiler|book=cradle-10-reaper|cult leader}}{{spoiler|book=cradle-11-dreadgod|, researcher}}
 | appears_in = Cradle
-| titles = Sage of Red Faith, mad tool of a Dreadgod, crazed researcher of forbidden knowledge, ghost child
-| abilities = sacred arts, Forged claw, teleportation anchor, voice can be transmitted through aura, void space, blood techniques
-| affiliations = Redmoon's organization
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[Blood Sage Timeline]]''

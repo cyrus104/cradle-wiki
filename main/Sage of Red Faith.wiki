@@ -1,10 +1,12 @@
 {{Infobox character
 | name = Sage of Red Faith
+| siblings = {{spoiler|book=cradle-04-skysworn|[[Redmoon]]}}
+| abilities = {{spoiler|book=cradle-06-underlord|[[Shadow|shadow]]}}{{spoiler|book=cradle-07-uncrowned|, techniques for raising Blood Shadows}}{{spoiler|book=cradle-11-dreadgod|, [[cloud madra]], memory recording sessions, cycling patterns to feed his Blood Shadow dream aura and blood essence, carves scripts in rings, [[Blood aura|blood aura]], nine daggers in formation}}
+| titles = {{spoiler|book=cradle-04-skysworn|[[Sage of Red Faith]]}}{{spoiler|book=cradle-11-dreadgod|, Overlord}}
+| affiliations = {{spoiler|book=cradle-04-skysworn|[[Redmoon Hall]]}}
+| professions = {{spoiler|book=cradle-08-wintersteel|[[Blood Sage]]}}
 | appears_in = Cradle
-| titles = Sage of Red Faith, Blood Sage, Overlord
-| abilities = techniques for raising Blood Shadows, cloud madra, shadow, memory recording sessions, blood aura, nine daggers in formation
-| affiliations = Redmoon Hall
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 ''See also: [[Sage of Red Faith Timeline]]''

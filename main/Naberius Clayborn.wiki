@@ -1,12 +1,12 @@
 {{Infobox character
 | name = Naberius Clayborn
-| introduced = Of Sea and Shadow
-| name = Naberius Clayborn
 | aliases = Lord Clayborn, Witness, Witness Clayborn, Naberius
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Guild Chronicler, keeper of the Imperial Palace treasury, the Chronicler, Chronicler in red, treasurer, the Witness/Witness Clayborn/A Witness/Witness in charge of Imperial finance/The Witness report included Estyr accusing Calder of being enthralled. (Note: The text treats 'Witness' as a title/role)
-| abilities = Intent
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Intent]]}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Chronicler, [[Naberius Clayborn|Witness]], [[Naberius Clayborn|Lord Clayborn]], candidate for the throne, Emperor, [[The Eternal]], The Witness, [[Naberius Clayborn|Witness Clayborn]], [[Blackwatch Guild Head|Guild Head]]}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Guild]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Guild Chronicler, keeper of the Imperial Palace treasury, treasurer, [[Blackwatch Guild Head|Guild Head]]}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, Navigator crew}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Naberius Clayborn Timeline]]''

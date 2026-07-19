@@ -1,10 +1,14 @@
 {{Infobox character
 | name = Malice
+| parents = {{spoiler|book=cradle-05-ghostwater|[[Malice]]}}
+| children = {{spoiler|book=cradle-08-wintersteel|[[Mercy]], [[Fury]], [[Akura Pride|Pride]]}}{{spoiler|book=cradle-12-waybound|, [[Akura Justice|Justice]]}}
+| abilities = {{spoiler|book=cradle-09-bloodline|[[shadow madra]]}}{{spoiler|book=cradle-10-reaper|, [[Spiritual pressure|spiritual pressure]]}}{{spoiler|book=cradle-11-dreadgod|, [[Dark Tide Incantation]], [[Enforcer technique]], [[Silent King madra]]}}{{spoiler|book=cradle-12-waybound|, Shadestep technique, [[hunger madra]]}}
+| titles = {{spoiler|book=cradle-08-wintersteel|[[Monarch]]}}{{spoiler|book=cradle-10-reaper|, Queen of the Akura clan}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Akura clan|Akura family]]}}{{spoiler|book=cradle-09-bloodline|, [[Akura clan]]}}{{spoiler|book=cradle-11-dreadgod|, [[Moongrave]]}}
+| professions = {{spoiler|book=cradle-11-dreadgod|[[Soulsmith|soulsmith]]}}{{spoiler|book=cradle-12-waybound|, [[Sage]]}}
+| residence = {{spoiler|book=cradle-11-dreadgod|[[Moongrave]]}}
 | appears_in = Cradle
-| titles = Monarch, Queen of the Akura clan
-| abilities = techniques in the Book of Eternal Night, technique that filled half the world with flying skulls of shadow, Forged blue madra arrows, shadow madra
-| affiliations = Akura family, Akura clan
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 ''See also: [[Malice Timeline]]''

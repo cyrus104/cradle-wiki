@@ -1,11 +1,12 @@
 {{Infobox character
 | name = Nera Jesh
 | aliases = Nera
+| abilities = {{spoiler|book=lh-04-the-pilot|fire elementalism}}
+| affiliations = {{spoiler|book=lh-01-the-captain|[[Lichborn]]}}
+| professions = {{spoiler|book=lh-01-the-captain|military cadet}}
+| birthplace = {{spoiler|book=lh-04-the-pilot|[[Dornoth Two|Dornoth II]]}}
 | appears_in = The Last Horizon
-| titles = military cadet
-| abilities = fire elementalism, fire mage
-| affiliations = Lichborn
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == Overview ==

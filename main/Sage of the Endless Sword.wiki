@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Sage of the Endless Sword
+| abilities = {{spoiler|book=cradle-02-soulsmith|sword Paths}}
+| titles = {{spoiler|book=cradle-02-soulsmith|[[Sage of the Endless Sword]]}}
 | appears_in = Cradle
-| titles = Sage of the Endless Sword
-| abilities = sword Paths
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
 ''See also: [[Sage of the Endless Sword Timeline]]''

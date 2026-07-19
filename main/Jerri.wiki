@@ -1,10 +1,11 @@
 {{Infobox character
 | name = Jerri
-| appears_in = The Elder Empire: Sea
-| titles = Imperial prisoner
-| abilities = Sleepless, Soulbound
-| affiliations = Blackwatch, Sleepless
-| introduced = Of Sea and Shadow
+| spouse = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]]}}
+| abilities = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Elderspawn summoning ritual]], control her Vessel through contact}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Sleepless]], [[Blackwatch]], [[The Testament]]}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, Calder's crew}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Pilot|pilot]], prisoner}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, crew member}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Jerri Timeline]]''

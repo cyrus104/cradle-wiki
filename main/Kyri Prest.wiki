@@ -1,11 +1,12 @@
 {{Infobox character
 | name = Kyri Prest
 | aliases = Kyri
+| abilities = {{spoiler|book=lh-04-the-pilot|water magic}}
+| titles = {{spoiler|book=lh-03-the-knight|[[Archmage]], Lieutenant}}
+| affiliations = {{spoiler|book=lh-03-the-knight|[[Iron Legion]], [[Knights]], [[Titan Force]]}}
+| professions = {{spoiler|book=lh-03-the-knight|teacher, [[Combat Artist]], duelist, [[wizard]], combat trainer, coach}}
 | appears_in = The Last Horizon
-| titles = Visiri, Archmage, Lieutenant, duelist, wizard, combat trainer for the Knights
-| abilities = Combat Artist, water magic
-| affiliations = Iron Legion, Knights, Titan Force
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 ''See also: [[Kyri Prest Timeline]]''

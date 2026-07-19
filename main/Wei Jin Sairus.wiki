@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Wei Jin Sairus
-| introduced = Unsouled
-| name = Wei Jin Sairus
 | aliases = Patriarch Sairus
+| children = {{spoiler|book=cradle-01-unsouled|[[Wei Jin Amon]]}}
+| abilities = {{spoiler|book=cradle-01-unsouled|[[Path of the White Fox]], warp the air}}
+| titles = {{spoiler|book=cradle-01-unsouled|[[Wei Patriarch]], [[Wei Jin Sairus|Patriarch Sairus]]}}
+| affiliations = {{spoiler|book=cradle-01-unsouled|[[Wei clan]]}}
 | appears_in = Cradle
-| titles = Wei Patriarch, Patriarch Sairus
-| abilities = Path of the White Fox, warp the air
-| affiliations = Wei clan
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Wei Jin Sairus Timeline]]''

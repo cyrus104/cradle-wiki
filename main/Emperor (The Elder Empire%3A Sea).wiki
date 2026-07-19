@@ -1,12 +1,13 @@
 {{Infobox character
 | name = Emperor (The Elder Empire: Sea)
-| introduced = Of Sea and Shadow
-| name = Emperor (The Elder Empire: Sea)
 | aliases = The Emperor (The Elder Empire: Sea)
-| appears_in = The Elder Empire: Sea
-| titles = Emperor, father of all, Sadesthenes
-| abilities = Reader, levitate wagons, create doors in blank walls, Read Elders
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|levitate wagons, create doors in blank walls}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, Read Elders}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Emperor}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, father of all}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[Sadesthenes]]}}
+| affiliations = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Guild of Magisters]]}}
+| professions = {{spoiler|book=ee-sea-03-of-kings-and-killers|son of a wine merchant}}
+| residence = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Imperial Palace}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Emperor (The Elder Empire: Sea) Timeline]]''

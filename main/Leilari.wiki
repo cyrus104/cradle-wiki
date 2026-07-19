@@ -1,8 +1,11 @@
 {{Infobox character
 | name = Leilari
+| spouse = {{spoiler|book=lh-02-the-engineer|[[Starhammer]], [[Clockworker]]}}
+| abilities = {{spoiler|book=lh-02-the-engineer|[[pathfinding magic|pathfinding spells]]}}
+| professions = {{spoiler|book=lh-02-the-engineer|actress}}
+| residence = {{spoiler|book=lh-02-the-engineer|the prison}}
 | appears_in = The Last Horizon
-| abilities = pathfinding spells
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 ''See also: [[Leilari Timeline]]''

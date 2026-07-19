@@ -1,9 +1,14 @@
 {{Infobox character
 | name = Simon
-| appears_in = The Traveler's Gate Trilogy
-| abilities = amateur swordsman, Nye essence, Benson's steel, enhanced reflexes, call liquid steel from Valinhall, draw on the Nye's essence to increase his perception of time and reflexes, call steel to join with the cool breath of the Nye, draw on liquid steel to create chain-shaped shadows on his skin, Nye's breath, call steel and summon Azura
-| affiliations = Traveler from the Valinhall Territory
-| introduced = House of Blades
+| parents = {{spoiler|book=tg-01-house-of-blades|[[Kalman]]}}
+| abilities = {{spoiler|book=tg-01-house-of-blades|[[Nye essence]], [[Benson's steel]], enhanced reflexes, call liquid steel, call steel to join with the cool breath of the Nye, draw on liquid steel to create chain-shaped shadows, Nye's breath, summon Azura, open a Gate}}
+| titles = {{spoiler|book=tg-02-crimson-vault|[[Valinhall Incarnation]]}}{{spoiler|book=tg-03-city-of-light|, Founder of Valinhall, royal protector, custodian of the Incarnations}}
+| affiliations = {{spoiler|book=tg-01-house-of-blades|Valinhall Territory}}{{spoiler|book=tg-02-crimson-vault|, [[Damascan Kingdom]]}}
+| professions = {{spoiler|book=tg-01-house-of-blades|amateur swordsman}}{{spoiler|book=tg-03-city-of-light|, royal protector}}
+| birthplace = {{spoiler|book=tg-01-house-of-blades|[[Myria]]}}
+| residence = {{spoiler|book=tg-01-house-of-blades|[[Valinhall]], [[Enosh]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Simon Timeline]]''

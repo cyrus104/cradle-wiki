@@ -1,12 +1,13 @@
 {{Infobox character
 | name = Jyrine Tessella Marten
-| introduced = Of Sea and Shadow
-| name = Jyrine Tessella Marten
 | aliases = Jyrine Tessella, Jyrine Marten, Jyrine
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| abilities = manipulate green flame
-| affiliations = Sleepless, Soulbound
-| introduced = Of Sea and Shadow
+| spouse = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]]}}
+| siblings = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Petal]]}}
+| abilities = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|manipulate green flame}}
+| affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Sleepless]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|prisoner}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Jyrine Tessella Marten Timeline]]''

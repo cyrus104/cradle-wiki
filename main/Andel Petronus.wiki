@@ -1,13 +1,12 @@
 {{Infobox character
 | name = Andel Petronus
-| introduced = Of Sea and Shadow
-| name = Andel Petronus
 | aliases = Andel
-| appears_in = The Elder Empire: Sea, The Elder Empire: Shadow
-| titles = Quartermaster, Calder's second-in-command, Luminian Pilgrim, Imperial officer, Navigator, aide and supervisor to Calder Marten
-| abilities = projects white light from his outstretched hand
-| affiliations = The Testament, Luminian Order, Calder's crew, Navigator’s Guild
-| introduced = Of Sea and Shadow
+| abilities = {{spoiler|book=ee-sea-03-of-kings-and-killers|projects white light from his outstretched hand}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Quartermaster]], second-in-command, [[Navigator]], [[Luminian Pilgrim]]}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, Imperial officer}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Testament]], [[Luminian Order]]}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, [[Navigator’s Guild]], Calder's crew}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Quartermaster]], [[Luminian Pilgrim]], [[Navigator]]}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, scribe, Imperial officer}}
+| appears_in = Elder Empire
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Andel Petronus Timeline]]''

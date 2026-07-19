@@ -1,8 +1,9 @@
 {{Infobox character
 | name = Void Sage
+| siblings = {{spoiler|book=cradle-12-waybound|[[Kelsa|Wei Shi Kelsa]]}}
+| titles = {{spoiler|book=cradle-10-reaper|[[Void Sage]]}}
 | appears_in = Cradle
-| titles = Void Sage
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
 ''See also: [[Void Sage Timeline]]''

@@ -1,13 +1,11 @@
 {{Infobox character
 | name = Death Monarch Yerin Arelius
-| introduced = Threshold: Stories from Cradle
-| name = Death Monarch Yerin Arelius
 | aliases = Yerin Arelius
+| abilities = {{spoiler|book=cradle-08-wintersteel|[[Blood Shadow]]}}
+| titles = {{spoiler|book=cradle-10-reaper|[[Uncrowned Queen]]}}{{spoiler|book=cradle-11-dreadgod|, [[Overlady]]}}{{spoiler|book=cradle-13-threshold|, Death Monarch}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|House Arelius clan, [[Blackflame Empire]]}}{{spoiler|book=cradle-13-threshold|, cult of the Bleeding Phoenix}}
 | appears_in = Cradle
-| titles = Death Monarch, Uncrowned Queen, Overlady
-| abilities = Blood Shadow
-| affiliations = House Arelius clan, Blackflame Empire, cult of the Bleeding Phoenix
-| introduced = Threshold: Stories from Cradle
+| introduced = [[Threshold: Stories from Cradle (novel)|Threshold: Stories from Cradle]]
 }}
 
 ''See also: [[Death Monarch Yerin Arelius Timeline]]''
