@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Traveler's Gate series emblem">
+  <title>Traveler's Gate — the opened gate</title>
+  <circle cx="64" cy="64" r="62" fill="#1c2942"/>
+  <circle cx="64" cy="64" r="58" fill="none" stroke="#c9a227" stroke-width="2.5"/>
+  <circle cx="64" cy="64" r="53" fill="none" stroke="#f0c96a" stroke-width="0.8" opacity="0.7"/>
+  <!-- pointed gate arch -->
+  <path d="M 42 96 L 42 58 Q 42 34 64 28 Q 86 34 86 58 L 86 96 Z"
+        fill="none" stroke="#f0c96a" stroke-width="3" stroke-linejoin="round"/>
+  <!-- inner door, ajar: light spilling as a gold sliver -->
+  <path d="M 50 96 L 50 60 Q 50 42 64 37 Q 78 42 78 60 L 78 96 Z" fill="#0f1830"/>
+  <path d="M 64 37 Q 78 42 78 60 L 78 96 L 69 96 L 66 40 Z" fill="#c9a227" opacity="0.9"/>
+  <!-- threshold steps -->
+  <path d="M 36 96 L 92 96" stroke="#f0c96a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 42 103 L 86 103" stroke="#c9a227" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+</svg>

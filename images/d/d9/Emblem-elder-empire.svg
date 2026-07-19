@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Elder Empire series emblem">
+  <title>The Elder Empire — the Elder's eye beneath the waves</title>
+  <circle cx="64" cy="64" r="62" fill="#1c2942"/>
+  <circle cx="64" cy="64" r="58" fill="none" stroke="#c9a227" stroke-width="2.5"/>
+  <circle cx="64" cy="64" r="53" fill="none" stroke="#f0c96a" stroke-width="0.8" opacity="0.7"/>
+  <!-- tentacle spiral coiling to the center -->
+  <path d="M 64 18
+           A 46 46 0 1 1 22 74
+           A 38 38 0 1 0 64 30
+           A 30 30 0 1 1 36 68
+           A 22 22 0 1 0 64 42"
+        fill="none" stroke="#f0c96a" stroke-width="3" stroke-linecap="round"/>
+  <!-- the eye -->
+  <ellipse cx="64" cy="64" rx="13" ry="8.5" fill="none" stroke="#c9a227" stroke-width="2.5"/>
+  <circle cx="64" cy="64" r="3.6" fill="#c9a227"/>
+  <!-- wave chord -->
+  <path d="M 28 92 Q 40 86 52 92 T 76 92 T 100 92" fill="none" stroke="#c9a227" stroke-width="2" opacity="0.85" stroke-linecap="round"/>
+</svg>

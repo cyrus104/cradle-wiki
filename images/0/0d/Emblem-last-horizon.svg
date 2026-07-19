@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="The Last Horizon series emblem">
+  <title>The Last Horizon — a star past the horizon</title>
+  <circle cx="64" cy="64" r="62" fill="#1c2942"/>
+  <circle cx="64" cy="64" r="58" fill="none" stroke="#c9a227" stroke-width="2.5"/>
+  <circle cx="64" cy="64" r="53" fill="none" stroke="#f0c96a" stroke-width="0.8" opacity="0.7"/>
+  <!-- horizon chord with planet curvature -->
+  <path d="M 18 84 A 92 92 0 0 1 110 84" fill="none" stroke="#f0c96a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 26 95 A 110 110 0 0 1 102 95" fill="none" stroke="#c9a227" stroke-width="1.6" opacity="0.75" stroke-linecap="round"/>
+  <!-- orbital arc -->
+  <path d="M 24 56 A 52 34 -14 0 1 104 44" fill="none" stroke="#c9a227" stroke-width="1.6" opacity="0.85" stroke-dasharray="5 6" stroke-linecap="round"/>
+  <!-- the star: four-point -->
+  <path d="M 64 26 L 68.5 47.5 L 90 52 L 68.5 56.5 L 64 78 L 59.5 56.5 L 38 52 L 59.5 47.5 Z"
+        fill="#f0c96a"/>
+  <circle cx="64" cy="52" r="3" fill="#1c2942"/>
+</svg>

@@ -1,29 +1,108 @@
-/* Willverse Wiki site styles (pushed as MediaWiki:Common.css by setup_wiki_pages.py).
-   Infobox card — navy + gold, matching the site logo. Templates emit class-based markup
-   (see mediawiki/gen_infobox_templates.py); all visual decisions live here. */
+/* ============================================================================
+   Willverse Wiki — site design system ("the illuminated ledger")
+   Pushed as MediaWiki:Common.css by setup_wiki_pages.py / push_taxonomy.py.
+   Identity: deep navy + aged gold on warm parchment; serif prose, sans data
+   cards. All component markup (infobox/navbox/banners) is class-based HTML
+   emitted by templates — every visual decision lives here.
+   ========================================================================== */
 
+:root {
+    --wv-navy: #1c2942;
+    --wv-navy-2: #22304f;
+    --wv-gold: #c9a227;
+    --wv-gold-bright: #f0c96a;
+    --wv-paper: #fdfcf7;
+    --wv-paper-2: #f5f2e9;
+    --wv-ink: #26282b;
+    --wv-line: #e2ddd0;
+    --wv-line-strong: #b9b3a4;
+    --wv-serif: "Palatino Linotype", "Book Antiqua", Palatino, "URW Palladio L",
+                Georgia, "Times New Roman", serif;
+    --wv-sans: "Helvetica Neue", Arial, sans-serif;
+}
+
+/* ---- page canvas ------------------------------------------------------- */
+body { background: #e8e6dd; }
+#content {
+    background: var(--wv-paper);
+    border: 1px solid var(--wv-line-strong);
+    border-right: none;
+}
+
+/* ---- typography: serif prose, ledger headings -------------------------- */
+#content .mw-parser-output {
+    font-family: var(--wv-serif);
+    font-size: 15.5px;
+    line-height: 1.68;
+    color: var(--wv-ink);
+}
+#firstHeading {
+    font-family: var(--wv-serif);
+    letter-spacing: 0.01em;
+    border-bottom: 2px solid var(--wv-navy);
+    box-shadow: 0 3px 0 -1px var(--wv-gold);   /* navy rule + thin gold echo */
+    padding-bottom: 0.15em;
+}
+.mw-parser-output h2 {
+    font-family: var(--wv-serif);
+    font-variant: small-caps;
+    letter-spacing: 0.04em;
+    color: var(--wv-navy);
+    border-bottom: 1px solid var(--wv-line-strong);
+}
+.mw-parser-output h3 { font-family: var(--wv-serif); color: var(--wv-navy-2); }
+.mw-parser-output a:hover { text-decoration-color: var(--wv-gold); }
+
+/* ---- table of contents -------------------------------------------------- */
+.toc, .mw-parser-output .toc {
+    background: var(--wv-paper-2);
+    border: 1px solid var(--wv-line);
+    border-left: 3px solid var(--wv-gold);
+    font-family: var(--wv-sans);
+    font-size: 87%;
+    padding: 8px 14px;
+}
+.toc .toctitle h2 { border: none; font-variant: normal; }
+
+/* ---- ordinary tables softened ------------------------------------------ */
+.mw-parser-output table.wikitable { background: #fff; border-color: var(--wv-line); font-family: var(--wv-sans); font-size: 90%; }
+.mw-parser-output table.wikitable > * > tr > th { background: var(--wv-paper-2); border-color: var(--wv-line); }
+.mw-parser-output table.wikitable > * > tr > td { border-color: var(--wv-line); }
+
+/* ---- category bar ------------------------------------------------------- */
+#catlinks {
+    background: var(--wv-paper-2);
+    border: 1px solid var(--wv-line);
+    border-left: 3px solid var(--wv-navy);
+    font-family: var(--wv-sans);
+    font-size: 85%;
+}
+
+/* ---- infobox card ------------------------------------------------------- */
 table.infobox {
     float: right;
     clear: right;
     width: 22em;
     margin: 0 0 1em 1.5em;
-    background: #fbfbf9;
-    border: 1px solid #b6bcc8;
+    background: #fffefb;
+    border: 1px solid var(--wv-line-strong);
     border-spacing: 0;
+    font-family: var(--wv-sans);
     font-size: 88%;
     line-height: 1.45;
 }
 table.infobox .infobox-title {
-    background: #22304f;
-    color: #f0c96a;
+    background: var(--wv-navy);
+    color: var(--wv-gold-bright);
+    font-family: var(--wv-serif);
     font-size: 118%;
     font-weight: bold;
     padding: 7px 10px;
     text-align: center;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
 }
 table.infobox .infobox-label {
-    background: #eef0f4;
+    background: var(--wv-paper-2);
     color: #2c3345;
     font-weight: bold;
     text-align: left;
@@ -31,81 +110,121 @@ table.infobox .infobox-label {
     padding: 5px 9px;
     width: 32%;
     white-space: nowrap;
-    border-top: 1px solid #e3e6ec;
+    border-top: 1px solid var(--wv-line);
 }
 table.infobox .infobox-data {
     padding: 5px 9px;
     vertical-align: top;
-    border-top: 1px solid #e3e6ec;
+    border-top: 1px solid var(--wv-line);
 }
 table.infobox .infobox-image {
     text-align: center;
     padding: 8px;
     background: #ffffff;
-    border-top: 1px solid #e3e6ec;
+    border-top: 1px solid var(--wv-line);
 }
-table.infobox .infobox-caption {
-    font-size: 92%;
-    color: #5a6172;
-    padding-top: 3px;
-}
+table.infobox .infobox-caption { font-size: 92%; color: #5a6172; padding-top: 3px; }
 table.infobox .infobox-section {
-    background: #d9dfeb;
-    color: #22304f;
+    background: #dfe3ee;
+    color: var(--wv-navy);
+    font-family: var(--wv-serif);
+    font-variant: small-caps;
+    letter-spacing: 0.05em;
     font-weight: bold;
     text-align: center;
-    padding: 4px 9px;
-    border-top: 1px solid #b6bcc8;
+    padding: 3px 9px;
+    border-top: 1px solid var(--wv-line-strong);
 }
 
-/* Per-series footer navbox — same family as the infobox */
+/* ---- per-series footer navbox (same family as the infobox) -------------- */
 table.navbox {
     width: 100%;
     margin-top: 1.5em;
-    background: #fbfbf9;
-    border: 1px solid #b6bcc8;
+    background: #fffefb;
+    border: 1px solid var(--wv-line-strong);
     border-spacing: 0;
+    font-family: var(--wv-sans);
     font-size: 88%;
     line-height: 1.5;
 }
 table.navbox .navbox-title {
-    background: #22304f;
-    color: #f0c96a;
+    background: var(--wv-navy);
+    font-family: var(--wv-serif);
     font-size: 108%;
     padding: 5px 10px;
     text-align: center;
+    letter-spacing: 0.03em;
 }
-table.navbox .navbox-title a { color: #f0c96a; }
+table.navbox .navbox-title a { color: var(--wv-gold-bright); }
 table.navbox .navbox-label {
-    background: #eef0f4;
+    background: var(--wv-paper-2);
     color: #2c3345;
     text-align: left;
     vertical-align: top;
     padding: 4px 10px;
     width: 6em;
     white-space: nowrap;
-    border-top: 1px solid #e3e6ec;
+    border-top: 1px solid var(--wv-line);
 }
-table.navbox .navbox-data {
-    padding: 4px 10px;
-    vertical-align: top;
-    border-top: 1px solid #e3e6ec;
-}
+table.navbox .navbox-data { padding: 4px 10px; vertical-align: top; border-top: 1px solid var(--wv-line); }
 
-/* Notice banners ({{Expand}} etc.) — Coppermind-style warm rounded strip */
+/* ---- notice banners ------------------------------------------------------ */
 .willverse-banner {
     background: #fdf6e3;
-    border: 1px solid #c9b458;
+    border: 1px solid var(--wv-gold);
     border-radius: 4px;
     padding: 6px 12px;
     margin: 0 0 1em;
+    font-family: var(--wv-sans);
     font-size: 92%;
 }
 
-/* Heading rules pick up the brand navy */
-.mw-parser-output h2 {
-    border-bottom: 1px solid #c8cfdd;
-}
-
-/* Slim spoiler strip (baseline styles are inline in the gadget; keep in sync) */
+/* ---- spoiler strip (baseline inline styles live in the gadget) ---------- */
+.willverse-spoiler-controls { font-family: var(--wv-sans); }
 .willverse-spoiler-controls select { font-size: 95%; }
+
+/* ---- Main Page ----------------------------------------------------------- */
+body.page-Main_Page #firstHeading,
+body.page-Main_Page #siteSub { display: none; }
+body.page-Main_Page #contentSub { margin: 0; }
+
+.wv-hero {
+    background: var(--wv-navy);
+    border: 1px solid var(--wv-navy-2);
+    border-bottom: 3px solid var(--wv-gold);
+    color: #dfe3ee;
+    text-align: center;
+    padding: 26px 18px 20px;
+    margin: 0 0 1.2em;
+}
+.wv-hero-title {
+    font-family: var(--wv-serif);
+    font-size: 240%;
+    letter-spacing: 0.12em;
+    font-variant: small-caps;
+    color: var(--wv-gold-bright);
+    line-height: 1.15;
+}
+.wv-hero-tag { font-size: 105%; margin-top: 6px; color: #c7cddd; }
+.wv-hero-stats { margin-top: 12px; font-family: var(--wv-sans); font-size: 85%; color: #9aa4bd; letter-spacing: 0.05em; }
+.wv-hero-stats b { color: var(--wv-gold-bright); font-weight: normal; }
+.wv-hero a { color: var(--wv-gold-bright); }
+
+.wv-cards { display: flex; gap: 14px; flex-wrap: wrap; margin: 0 0 0.5em; }
+.wv-card {
+    flex: 1 1 160px;
+    background: #fffefb;
+    border: 1px solid var(--wv-line-strong);
+    border-top: 3px solid var(--wv-navy);
+    text-align: center;
+    padding: 14px 10px 12px;
+    font-family: var(--wv-sans);
+    transition: transform 0.15s ease, border-color 0.15s ease;
+}
+.wv-card:hover { transform: translateY(-3px); border-top-color: var(--wv-gold); }
+.wv-card .wv-card-emblem img { width: 44px; height: 44px; }
+.wv-card-title { font-family: var(--wv-serif); font-weight: bold; font-size: 108%; margin-top: 6px; }
+.wv-card-sub { color: #6b7183; font-size: 84%; }
+
+.wv-cols { display: flex; gap: 22px; flex-wrap: wrap; }
+.wv-cols > div { flex: 1 1 280px; }

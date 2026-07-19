@@ -1,37 +1,43 @@
 <!-- seeded-by-willverse-pipeline: remove this line to stop pipeline updates -->
 __NOTOC__
-<div style="text-align:center; font-size:120%; margin:0.5em 0">
-Welcome to the '''Willverse Wiki''' — a spoiler-safe, source-grounded encyclopedia for Will
-Wight's connected universe.
+<div class="wv-hero">
+<div class="wv-hero-title">The Willverse Wiki</div>
+<div class="wv-hero-tag">A spoiler-safe, source-grounded encyclopedia for Will Wight's connected universe</div>
+<div class="wv-hero-stats"><b>{{NUMBEROFARTICLES}}</b> articles &nbsp;·&nbsp; <b>{{PAGESINCATEGORY:Characters}}</b> characters &nbsp;·&nbsp; <b>26</b> books &nbsp;·&nbsp; every fact verified against the text</div>
 </div>
 
-<div style="text-align:center; color:#555; margin-bottom:1em">
-'''{{NUMBEROFARTICLES}}''' articles · '''{{PAGESINCATEGORY:Characters}}''' characters · 26 books · all facts verified verbatim against the text
+<div class="wv-cards">
+<div class="wv-card"><span class="wv-card-emblem">[[File:Emblem-travelers-gate.svg|44px|link=:Category:Traveler's Gate]]</span><div class="wv-card-title">[[House of Blades (novel)|The Traveler's Gate]]</div><div class="wv-card-sub">3 books</div>[[File:Cover-tg-01-house-of-blades.jpg|120px|link=House of Blades (novel)]]</div>
+<div class="wv-card"><span class="wv-card-emblem">[[File:Emblem-elder-empire.svg|44px|link=:Category:Elder Empire]]</span><div class="wv-card-title">[[Of Sea and Shadow (novel)|The Elder Empire]]</div><div class="wv-card-sub">6 books</div>[[File:Cover-ee-sea-01-of-sea-and-shadow.jpg|120px|link=Of Sea and Shadow (novel)]]</div>
+<div class="wv-card"><span class="wv-card-emblem">[[File:Emblem-cradle.svg|44px|link=:Category:Cradle]]</span><div class="wv-card-title">[[Unsouled (novel)|Cradle]]</div><div class="wv-card-sub">13 books</div>[[File:Cover-cradle-01-unsouled.jpg|120px|link=Unsouled (novel)]]</div>
+<div class="wv-card"><span class="wv-card-emblem">[[File:Emblem-last-horizon.svg|44px|link=:Category:The Last Horizon]]</span><div class="wv-card-title">[[The Captain (novel)|The Last Horizon]]</div><div class="wv-card-sub">4 books</div>[[File:Cover-lh-01-the-captain.jpg|120px|link=The Captain (novel)]]</div>
 </div>
 
-{| style="width:100%; border-collapse:collapse; text-align:center"
-|- style="vertical-align:top"
-| style="width:25%; padding:10px; background:#f8f9fa; border:1px solid #eaecf0" | [[File:Cover-tg-01-house-of-blades.jpg|120px|link=House of Blades (novel)]]<br>'''[[House of Blades (novel)|The Traveler's Gate]]'''<br><small>3 books</small>
-| style="width:25%; padding:10px; background:#f8f9fa; border:1px solid #eaecf0" | [[File:Cover-ee-sea-01-of-sea-and-shadow.jpg|120px|link=Of Sea and Shadow (novel)]]<br>'''[[Of Sea and Shadow (novel)|The Elder Empire]]'''<br><small>6 books</small>
-| style="width:25%; padding:10px; background:#f8f9fa; border:1px solid #eaecf0" | [[File:Cover-cradle-01-unsouled.jpg|120px|link=Unsouled (novel)]]<br>'''[[Unsouled (novel)|Cradle]]'''<br><small>13 books</small>
-| style="width:25%; padding:10px; background:#f8f9fa; border:1px solid #eaecf0" | [[File:Cover-lh-01-the-captain.jpg|120px|link=The Captain (novel)]]<br>'''[[The Captain (novel)|The Last Horizon]]'''<br><small>4 books</small>
-|}
+<div class="wv-cols">
+<div>
 
-== 🛡️ Set your spoiler level ==
-'''This wiki will not spoil you.''' Use the '''"Spoiler level"''' selector at the top of any
-article to set how far you've read '''in each series independently'''. Every fact is tagged with
-the book that reveals it; anything past your progress stays hidden. See [[Project:About]].
+== Set your spoiler level ==
+'''This wiki will not spoil you.''' Use the spoiler strip at the top of any article to set how
+far you've read '''in each series independently'''. Every fact is tagged with the book that
+reveals it; anything past your progress stays hidden — including infobox rows and category
+labels. See [[Project:About]].
 
-== ✨ Explore ==
-* '''Magic systems:''' [[Sacred Arts]] (Cradle) · [[Reading and the Soulbound]] (Elder Empire) · [[Traveling and the Territories]] (Traveler's Gate) · [[Spellcraft]] (The Last Horizon)
-* '''Browse:''' [[:Category:Characters|Characters]] · [[:Category:Locations|Locations]] · [[:Category:Groups|Groups]] · [[:Category:Magic systems|Magic systems]] · [[:Category:Timelines|Timelines]] · [[:Category:Books|Books]]
-* '''[[Willverse books]]''' — every book & reading order
-
-== ✅ Every fact is grounded ==
+== Every fact is grounded ==
 Seeded from the books themselves: each fact's supporting quote is verified '''verbatim''' in the
 text, an independent judge confirms the quote supports the claim, and prose is original summary —
 never copied, never invented. After seeding, editors own the wiki; the pipeline never overwrites
 human edits.
+</div>
+<div>
+
+== Explore ==
+* '''Magic systems:''' [[Sacred Arts]] · [[Reading and the Soulbound]] · [[Traveling and the Territories]] · [[Spellcraft]]
+* '''Browse:''' [[:Category:Characters|Characters]] · [[:Category:Locations|Locations]] · [[:Category:Groups|Groups]] · [[:Category:Lifeforms|Lifeforms]] · [[:Category:Culture|Culture]] · [[:Category:Timelines|Timelines]]
+* '''By calling:''' [[:Category:Magic users|Magic users]] · [[:Category:Professions|Professions]] · [[:Category:Viewpoint characters|Viewpoint characters]]
+* '''[[Willverse books]]''' — every book & reading order
+* '''[[:Category:Content|The full category tree]]'''
+</div>
+</div>
 
 {{Willverse books nav}}
 

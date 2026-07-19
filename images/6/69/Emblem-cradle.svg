@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Cradle series emblem">
+  <title>Cradle — advancement rings</title>
+  <circle cx="64" cy="64" r="62" fill="#1c2942"/>
+  <circle cx="64" cy="64" r="58" fill="none" stroke="#c9a227" stroke-width="2.5"/>
+  <circle cx="64" cy="64" r="53" fill="none" stroke="#f0c96a" stroke-width="0.8" opacity="0.7"/>
+  <!-- three broken advancement rings, each opening rotated -->
+  <g fill="none" stroke="#f0c96a" stroke-linecap="round">
+    <path d="M 64 24 A 40 40 0 1 1 30.4 44.6" stroke-width="3"/>
+    <path d="M 92.2 47.7 A 32.5 32.5 0 1 1 47.7 35.8" stroke-width="3"/>
+    <path d="M 55.4 87.3 A 24.5 24.5 0 1 1 86.9 55.4" stroke-width="3"/>
+  </g>
+  <!-- the core -->
+  <circle cx="64" cy="64" r="9" fill="#c9a227"/>
+  <circle cx="64" cy="64" r="13.5" fill="none" stroke="#f0c96a" stroke-width="1" opacity="0.85"/>
+</svg>
