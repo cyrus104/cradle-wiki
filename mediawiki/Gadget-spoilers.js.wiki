@@ -31,13 +31,16 @@
     var p = progress();
     var box = document.createElement("div");
     box.className = "willverse-spoiler-controls";
-    box.style.cssText = "border:1px solid #a2a9b1;padding:.6em;margin:.6em 0;background:#f8f9fa;font-size:90%";
-    box.appendChild(document.createElement("strong")).textContent = "Spoiler level — how far have you read?";
-    box.appendChild(document.createElement("br"));
+    // slim brand strip (visuals are CRITICAL — was a bulky gray form box); rules also in
+    // MediaWiki:Common.css for anything the inline baseline misses
+    box.style.cssText = "border:1px solid #d5d9e2;border-left:4px solid #22304f;border-radius:2px;padding:.3em .7em;margin:.4em 0 1em;background:#fbfbf9;font-size:85%;line-height:2";
+    var strong = box.appendChild(document.createElement("strong"));
+    strong.textContent = "Spoilers — read up to:";
+    strong.style.cssText = "color:#22304f;margin-right:.9em";
     DATA.series.forEach(function (series) {
       var max = maxOf(series), i;
       var label = document.createElement("label");
-      label.style.cssText = "display:inline-block;margin:.25em .9em .25em 0";
+      label.style.cssText = "display:inline-block;margin:0 .9em 0 0;white-space:nowrap";
       label.appendChild(document.createTextNode((DATA.titles[series] || series) + ": "));
       var sel = document.createElement("select");
       var cur = (series in p) ? p[series] : max;           // default: fully read

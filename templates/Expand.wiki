@@ -1,3 +1,1 @@
-{| class="wikitable" style="width:100%; background:#fdf6e3; border:1px solid #c9b458"
-| 📝 ''This article is still missing information. The seeded facts are a starting point — please help the Willverse Wiki by expanding it.''
-|}<includeonly>[[Category:Stubs]]</includeonly><noinclude>Stub/expand banner (Coppermind-style community hook). Tags the article into [[:Category:Stubs]].</noinclude>
+<div class="willverse-banner">📝 ''This article is still missing information. The seeded facts are a starting point — please help the Willverse Wiki by expanding it.''</div><includeonly>[[Category:Stubs]]</includeonly><noinclude>Stub/expand banner (Coppermind-style community hook). Tags the article into [[:Category:Stubs]]; styling in [[MediaWiki:Common.css]].</noinclude>

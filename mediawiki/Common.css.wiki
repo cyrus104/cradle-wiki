@@ -57,3 +57,55 @@ table.infobox .infobox-section {
     padding: 4px 9px;
     border-top: 1px solid #b6bcc8;
 }
+
+/* Per-series footer navbox — same family as the infobox */
+table.navbox {
+    width: 100%;
+    margin-top: 1.5em;
+    background: #fbfbf9;
+    border: 1px solid #b6bcc8;
+    border-spacing: 0;
+    font-size: 88%;
+    line-height: 1.5;
+}
+table.navbox .navbox-title {
+    background: #22304f;
+    color: #f0c96a;
+    font-size: 108%;
+    padding: 5px 10px;
+    text-align: center;
+}
+table.navbox .navbox-title a { color: #f0c96a; }
+table.navbox .navbox-label {
+    background: #eef0f4;
+    color: #2c3345;
+    text-align: left;
+    vertical-align: top;
+    padding: 4px 10px;
+    width: 6em;
+    white-space: nowrap;
+    border-top: 1px solid #e3e6ec;
+}
+table.navbox .navbox-data {
+    padding: 4px 10px;
+    vertical-align: top;
+    border-top: 1px solid #e3e6ec;
+}
+
+/* Notice banners ({{Expand}} etc.) — Coppermind-style warm rounded strip */
+.willverse-banner {
+    background: #fdf6e3;
+    border: 1px solid #c9b458;
+    border-radius: 4px;
+    padding: 6px 12px;
+    margin: 0 0 1em;
+    font-size: 92%;
+}
+
+/* Heading rules pick up the brand navy */
+.mw-parser-output h2 {
+    border-bottom: 1px solid #c8cfdd;
+}
+
+/* Slim spoiler strip (baseline styles are inline in the gadget; keep in sync) */
+.willverse-spoiler-controls select { font-size: 95%; }

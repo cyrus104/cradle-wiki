@@ -1,9 +1,6 @@
-{| class="wikitable" style="width:100%; margin-top:1.5em; font-size:90%"
-! colspan="2" style="font-size:105%" | [[:Category:Elder Empire|Elder Empire]]
-|-
-| style="white-space:nowrap" | '''Books''' || [[Of Sea and Shadow (novel)|Of Sea and Shadow]] • [[Of Shadow and Sea (novel)|Of Shadow and Sea]] • [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]] • [[Of Darkness and Dawn (novel)|Of Darkness and Dawn]] • [[Of Kings and Killers (novel)|Of Kings and Killers]] • [[Of Killers and Kings (novel)|Of Killers and Kings]]
-|-
-| '''Magic''' || [[Reading and the Soulbound]]
-|-
-| '''Browse''' || [[:Category:Elder Empire characters|Characters]] • [[:Category:Elder Empire locations|Locations]] • [[:Category:Elder Empire groups|Groups]] • [[:Category:Elder Empire events|Events]] • [[:Category:Elder Empire|Everything]]
-|}
+<table class="navbox">
+<tr><th colspan="2" class="navbox-title">[[:Category:Elder Empire|Elder Empire]]</th></tr>
+<tr><th class="navbox-label">Books</th><td class="navbox-data">[[Of Sea and Shadow (novel)|Of Sea and Shadow]] • [[Of Shadow and Sea (novel)|Of Shadow and Sea]] • [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]] • [[Of Darkness and Dawn (novel)|Of Darkness and Dawn]] • [[Of Kings and Killers (novel)|Of Kings and Killers]] • [[Of Killers and Kings (novel)|Of Killers and Kings]]</td></tr>
+<tr><th class="navbox-label">Magic</th><td class="navbox-data">[[Reading and the Soulbound]]</td></tr>
+<tr><th class="navbox-label">Browse</th><td class="navbox-data">[[:Category:Elder Empire characters|Characters]] • [[:Category:Elder Empire locations|Locations]] • [[:Category:Elder Empire groups|Groups]] • [[:Category:Elder Empire events|Events]] • [[:Category:Elder Empire|Everything]]</td></tr>
+</table>
