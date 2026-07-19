@@ -1,6 +1,6 @@
 {{Infobox event
 | name = Ascension portal
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Waybound ==

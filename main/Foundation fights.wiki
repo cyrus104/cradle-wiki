@@ -1,6 +1,6 @@
 {{Infobox event
 | name = Foundation fights
-| introduced = cradle-01-unsouled
+| introduced = Unsouled
 }}
 
 [[Category:Events]]

@@ -1,0 +1,46 @@
+/* Willverse Wiki site styles (pushed as MediaWiki:Common.css by setup_wiki_pages.py).
+   Infobox card — navy + gold, matching the site logo. Templates emit class-based markup
+   (see mediawiki/gen_infobox_templates.py); all visual decisions live here. */
+
+table.infobox {
+    float: right;
+    clear: right;
+    width: 22em;
+    margin: 0 0 1em 1.5em;
+    background: #fbfbf9;
+    border: 1px solid #b6bcc8;
+    border-spacing: 0;
+    font-size: 88%;
+    line-height: 1.45;
+}
+table.infobox .infobox-title {
+    background: #22304f;
+    color: #f0c96a;
+    font-size: 118%;
+    font-weight: bold;
+    padding: 7px 10px;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+table.infobox .infobox-label {
+    background: #eef0f4;
+    color: #2c3345;
+    font-weight: bold;
+    text-align: left;
+    vertical-align: top;
+    padding: 5px 9px;
+    width: 32%;
+    white-space: nowrap;
+    border-top: 1px solid #e3e6ec;
+}
+table.infobox .infobox-data {
+    padding: 5px 9px;
+    vertical-align: top;
+    border-top: 1px solid #e3e6ec;
+}
+table.infobox .infobox-image {
+    text-align: center;
+    padding: 8px;
+    background: #ffffff;
+    border-top: 1px solid #e3e6ec;
+}

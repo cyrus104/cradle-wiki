@@ -2,7 +2,7 @@
 | name = Leilari
 | appears_in = The Last Horizon
 | abilities = pathfinding spells
-| introduced = lh-02-the-engineer
+| introduced = The Engineer
 }}
 
 ''See also: [[Leilari Timeline]]''

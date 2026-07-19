@@ -1,6 +1,6 @@
 {{Infobox location
 | name = Colony
-| introduced = lh-02-the-engineer
+| introduced = The Engineer
 }}
 
 == Overview ==

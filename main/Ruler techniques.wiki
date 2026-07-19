@@ -1,6 +1,6 @@
 {{Infobox technique
 | name = Ruler techniques
-| introduced = cradle-02-soulsmith
+| introduced = Soulsmith
 }}
 
 == Overview ==

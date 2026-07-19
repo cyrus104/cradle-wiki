@@ -1,6 +1,6 @@
 {{Infobox concept
 | name = Soulsmith inheritance
-| introduced = cradle-10-reaper
+| introduced = Reaper
 }}
 
 == Overview ==

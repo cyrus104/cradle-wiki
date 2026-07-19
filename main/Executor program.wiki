@@ -1,6 +1,6 @@
 {{Infobox concept
 | name = Executor program
-| introduced = cradle-10-reaper
+| introduced = Reaper
 }}
 
 == Reaper ==

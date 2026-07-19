@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Infant Songroot
-| introduced = cradle-01-unsouled
+| introduced = Unsouled
 }}
 
 [[Category:Artifacts]]

@@ -2,7 +2,7 @@
 
 {{Infobox construct
 | name = Lichborn ships
-| introduced = lh-02-the-engineer
+| introduced = The Engineer
 }}
 
 == The Engineer ==

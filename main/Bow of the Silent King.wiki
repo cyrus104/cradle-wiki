@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Bow of the Silent King
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Overview ==

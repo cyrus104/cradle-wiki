@@ -2,7 +2,7 @@
 
 {{Infobox construct
 | name = Rune Queen’s array
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Waybound ==

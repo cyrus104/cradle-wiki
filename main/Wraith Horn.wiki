@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Wraith Horn
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Overview ==

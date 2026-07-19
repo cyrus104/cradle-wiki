@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Zenith Processor
-| introduced = lh-02-the-engineer
+| introduced = The Engineer
 }}
 
 ''See also: [[Zenith Processor Timeline]]''

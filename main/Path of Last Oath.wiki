@@ -1,6 +1,6 @@
 {{Infobox technique
 | name = Path of Last Oath
-| introduced = cradle-03-blackflame
+| introduced = Blackflame
 }}
 
 == Overview ==

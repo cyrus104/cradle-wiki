@@ -2,7 +2,7 @@
 
 {{Infobox technique
 | name = Cloud Hammer
-| introduced = cradle-04-skysworn
+| introduced = Skysworn
 }}
 
 == Skysworn ==

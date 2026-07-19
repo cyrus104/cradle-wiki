@@ -2,7 +2,7 @@
 
 {{Infobox artifact
 | name = Diamond Veins elixir
-| introduced = cradle-07-uncrowned
+| introduced = Uncrowned
 }}
 
 == Uncrowned ==

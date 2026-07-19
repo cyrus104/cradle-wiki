@@ -1,12 +1,12 @@
 {{Infobox character
 | name = Lutoch Terelle
-| introduced = lh-02-the-engineer
+| introduced = The Engineer
 | name = Lutoch Terelle
 | aliases = Lutoch
 | appears_in = The Last Horizon
 | titles = Chief Predictive Data Analyst, Oracle of Solstice, Oracle of the Solstice
 | affiliations = Galactic Union, Union Intelligence
-| introduced = lh-02-the-engineer
+| introduced = The Engineer
 }}
 
 == Overview ==

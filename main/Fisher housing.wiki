@@ -1,6 +1,6 @@
 {{Infobox location
 | name = Fisher housing
-| introduced = cradle-02-soulsmith
+| introduced = Soulsmith
 }}
 
 == Soulsmith ==

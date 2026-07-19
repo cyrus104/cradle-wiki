@@ -1,6 +1,6 @@
 {{Infobox construct
 | name = Lindon's puppet-construct
-| introduced = cradle-11-dreadgod
+| introduced = Dreadgod
 }}
 
 == Dreadgod ==

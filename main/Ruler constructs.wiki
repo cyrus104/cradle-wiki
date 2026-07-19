@@ -2,7 +2,7 @@
 
 {{Infobox construct
 | name = Ruler constructs
-| introduced = cradle-03-blackflame
+| introduced = Blackflame
 }}
 
 == Blackflame ==

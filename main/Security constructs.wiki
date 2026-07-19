@@ -2,7 +2,7 @@
 
 {{Infobox construct
 | name = Security constructs
-| introduced = cradle-01-unsouled
+| introduced = Unsouled
 }}
 
 == Wintersteel ==

@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Archlord-level brew
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Waybound ==

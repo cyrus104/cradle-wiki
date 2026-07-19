@@ -1,6 +1,6 @@
 {{Infobox construct
 | name = Sword Sage’s echo
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Waybound ==

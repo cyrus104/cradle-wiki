@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Eclipse
-| introduced = cradle-05-ghostwater
+| introduced = Ghostwater
 }}
 
 ''See also: [[Eclipse Timeline]]''

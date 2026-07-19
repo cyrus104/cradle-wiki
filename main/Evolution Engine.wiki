@@ -1,6 +1,6 @@
 {{Infobox technique
 | name = Evolution Engine
-| introduced = lh-02-the-engineer
+| introduced = The Engineer
 }}
 
 ''See also: [[Evolution Engine Timeline]]''

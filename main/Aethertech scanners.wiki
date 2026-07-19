@@ -2,7 +2,7 @@
 
 {{Infobox artifact
 | name = Aethertech scanners
-| introduced = lh-02-the-engineer
+| introduced = The Engineer
 }}
 
 == The Engineer ==

@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Enforcer badge
-| introduced = cradle-09-bloodline
+| introduced = Bloodline
 }}
 
 == Bloodline ==

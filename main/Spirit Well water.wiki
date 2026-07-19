@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Spirit Well water
-| introduced = cradle-05-ghostwater
+| introduced = Ghostwater
 }}
 
 == Overview ==

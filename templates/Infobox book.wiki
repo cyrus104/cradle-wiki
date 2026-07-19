@@ -1,13 +1,37 @@
-{| class="infobox" style="width:22em; float:right; margin-left:1em"
-! colspan="2" style="font-size:110%" | {{{name}}}
-|-
-| colspan="2" style="text-align:center" | {{{cover|}}}
-|-
-| Released || {{{released|—}}}
-|-
-| ISBN || {{{isbn|—}}}
-|-
-| Publisher || {{{publisher|—}}}
-|-
-| Pages || {{{pages|—}}}
-|}<noinclude>Book infobox (generated).</noinclude>
+{| class="infobox"
+! colspan="2" class="infobox-title" | {{{name}}}
+{{#if:{{{cover|}}}|
+{{!}}-
+{{!}} colspan="2" class="infobox-image" {{!}} {{{cover|}}}
+}}
+{{#if:{{{released|}}}|
+{{!}}-
+{{!}} class="infobox-label" {{!}} Released
+{{!}} class="infobox-data" {{!}} {{{released|}}}
+}}
+{{#if:{{{isbn|}}}|
+{{!}}-
+{{!}} class="infobox-label" {{!}} ISBN
+{{!}} class="infobox-data" {{!}} {{{isbn|}}}
+}}
+{{#if:{{{publisher|}}}|
+{{!}}-
+{{!}} class="infobox-label" {{!}} Publisher
+{{!}} class="infobox-data" {{!}} {{{publisher|}}}
+}}
+{{#if:{{{pages|}}}|
+{{!}}-
+{{!}} class="infobox-label" {{!}} Pages
+{{!}} class="infobox-data" {{!}} {{{pages|}}}
+}}
+{{#if:{{{follows|}}}|
+{{!}}-
+{{!}} class="infobox-label" {{!}} Follows
+{{!}} class="infobox-data" {{!}} {{{follows|}}}
+}}
+{{#if:{{{precedes|}}}|
+{{!}}-
+{{!}} class="infobox-label" {{!}} Precedes
+{{!}} class="infobox-data" {{!}} {{{precedes|}}}
+}}
+|}<noinclude>Book infobox (generated; styling in [[MediaWiki:Common.css]]).</noinclude>

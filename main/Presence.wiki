@@ -2,7 +2,7 @@
 | name = Presence
 | appears_in = Cradle
 | abilities = scour the future, detect barriers, provide explanatory text in her vision, indicate coordinates, report data, warn of suspicious things, report population counts, simple predictions, detect the number of transports or individuals, summon images and project reports
-| introduced = cradle-01-unsouled
+| introduced = Unsouled
 }}
 
 ''See also: [[Presence Timeline]]''

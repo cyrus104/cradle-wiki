@@ -1,6 +1,6 @@
 {{Infobox event
 | name = Dreadgod corpses
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Waybound ==

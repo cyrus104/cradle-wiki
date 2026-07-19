@@ -1,6 +1,6 @@
 {{Infobox construct
 | name = Titan barrier
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Waybound ==

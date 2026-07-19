@@ -2,7 +2,7 @@
 
 {{Infobox construct
 | name = Forged spikes
-| introduced = cradle-02-soulsmith
+| introduced = Soulsmith
 }}
 
 == Soulsmith ==

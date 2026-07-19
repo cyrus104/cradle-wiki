@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Sandviper venom
-| introduced = cradle-02-soulsmith
+| introduced = Soulsmith
 }}
 
 == Soulsmith ==

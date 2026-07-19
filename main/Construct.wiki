@@ -2,7 +2,7 @@
 
 {{Infobox construct
 | name = Construct
-| introduced = cradle-09-bloodline
+| introduced = Bloodline
 }}
 
 == Bloodline ==

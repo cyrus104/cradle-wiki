@@ -2,7 +2,7 @@
 
 {{Infobox construct
 | name = Shells of the Titan
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Waybound ==

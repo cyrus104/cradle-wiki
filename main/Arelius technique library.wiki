@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Arelius technique library
-| introduced = cradle-06-underlord
+| introduced = Underlord
 }}
 
 == Underlord ==

@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Void Matter
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Waybound ==

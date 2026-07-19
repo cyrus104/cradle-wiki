@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Life Water
-| introduced = cradle-05-ghostwater
+| introduced = Ghostwater
 }}
 
 == Ghostwater ==

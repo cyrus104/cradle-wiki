@@ -2,7 +2,7 @@
 
 {{Infobox construct
 | name = Tomb Hydra's binding
-| introduced = cradle-10-reaper
+| introduced = Reaper
 }}
 
 == Reaper ==

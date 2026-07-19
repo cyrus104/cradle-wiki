@@ -1,6 +1,6 @@
 {{Infobox construct
 | name = Weeping Dragon's core binding
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Waybound ==

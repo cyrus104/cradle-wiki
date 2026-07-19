@@ -1,6 +1,6 @@
 {{Infobox technique
 | name = Sage’s command
-| introduced = cradle-10-reaper
+| introduced = Reaper
 }}
 
 == Reaper ==

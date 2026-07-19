@@ -2,7 +2,7 @@
 
 {{Infobox artifact
 | name = The Last Horizon's blueprints
-| introduced = lh-02-the-engineer
+| introduced = The Engineer
 }}
 
 == The Engineer ==

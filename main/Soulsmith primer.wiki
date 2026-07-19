@@ -2,7 +2,7 @@
 
 {{Infobox artifact
 | name = Soulsmith primer
-| introduced = cradle-03-blackflame
+| introduced = Blackflame
 }}
 
 == Blackflame ==

@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Storm Core
-| introduced = cradle-10-reaper
+| introduced = Reaper
 }}
 
 == Overview ==

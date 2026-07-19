@@ -2,7 +2,7 @@
 
 {{Infobox artifact
 | name = Blighted Sky
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Waybound ==

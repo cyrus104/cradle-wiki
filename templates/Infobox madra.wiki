@@ -1,7 +1,9 @@
-{| class="infobox" style="width:22em; float:right; margin-left:1em"
-! colspan="2" style="font-size:110%" | {{{name}}}
+{| class="infobox"
+! colspan="2" class="infobox-title" | {{{name}}}
 |-
-| Type || Madra
+| class="infobox-label" | Type
+| class="infobox-data" | Madra
 |-
-| Introduced || {{{introduced}}}
-|}<noinclude>Madra infobox (generated — see mediawiki/gen_infobox_templates.py).</noinclude>
+| class="infobox-label" | Introduced
+| class="infobox-data" | {{{introduced}}}
+|}<noinclude>Madra infobox (generated; styling in [[MediaWiki:Common.css]]).</noinclude>

@@ -1,6 +1,6 @@
 {{Infobox technique
 | name = veil
-| introduced = cradle-04-skysworn
+| introduced = Skysworn
 }}
 
 == Skysworn ==

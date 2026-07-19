@@ -1,6 +1,6 @@
 {{Infobox icon
 | name = Spear Icon
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Waybound ==

@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = The Blade
-| introduced = lh-02-the-engineer
+| introduced = The Engineer
 }}
 
 == Overview ==

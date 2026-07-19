@@ -1,6 +1,6 @@
 {{Infobox event
 | name = Death
-| introduced = cradle-11-dreadgod
+| introduced = Dreadgod
 }}
 
 == Dreadgod ==

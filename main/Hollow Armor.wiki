@@ -1,6 +1,6 @@
 {{Infobox technique
 | name = Hollow Armor
-| introduced = cradle-03-blackflame
+| introduced = Blackflame
 }}
 
 == Overview ==

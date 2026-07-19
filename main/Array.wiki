@@ -1,6 +1,6 @@
 {{Infobox technique
 | name = Array
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Waybound ==

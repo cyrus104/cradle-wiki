@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Jai spear
-| introduced = cradle-02-soulsmith
+| introduced = Soulsmith
 }}
 
 == Soulsmith ==

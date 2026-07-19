@@ -2,7 +2,7 @@
 
 {{Infobox technique
 | name = Forger trick
-| introduced = cradle-02-soulsmith
+| introduced = Soulsmith
 }}
 
 == Soulsmith ==

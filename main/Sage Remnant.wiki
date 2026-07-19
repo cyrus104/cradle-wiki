@@ -2,7 +2,7 @@
 
 {{Infobox construct
 | name = Sage Remnant
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Waybound ==

@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Madra Engine
-| introduced = cradle-08-wintersteel
+| introduced = Wintersteel
 }}
 
 == Overview ==

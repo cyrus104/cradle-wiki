@@ -1,6 +1,6 @@
 {{Infobox construct
 | name = Mountain’s Heart bricks
-| introduced = cradle-01-unsouled
+| introduced = Unsouled
 }}
 
 [[Category:Constructs]]

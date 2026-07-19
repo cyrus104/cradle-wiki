@@ -2,7 +2,7 @@
 
 {{Infobox group
 | name = miners
-| introduced = cradle-02-soulsmith
+| introduced = Soulsmith
 }}
 
 == Soulsmith ==

@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Purple Feather Elixir
-| introduced = cradle-03-blackflame
+| introduced = Blackflame
 }}
 
 == Blackflame ==

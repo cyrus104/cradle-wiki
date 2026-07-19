@@ -1,6 +1,6 @@
 {{Infobox spell
 | name = Subspace warp
-| introduced = lh-02-the-engineer
+| introduced = The Engineer
 }}
 
 == Overview ==

@@ -1,6 +1,6 @@
 {{Infobox technique
 | name = Sandviper techniques
-| introduced = cradle-02-soulsmith
+| introduced = Soulsmith
 }}
 
 == Soulsmith ==

@@ -1,6 +1,6 @@
 {{Infobox technique
 | name = Phoenix Song
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Overview ==

@@ -1,12 +1,12 @@
 {{Infobox character
 | name = Void Prism
-| introduced = lh-04-the-pilot
+| introduced = The Pilot
 | name = Void Prism
 | aliases = Prism
 | appears_in = The Last Horizon
 | titles = Zenith Processor, Zenith Device
 | abilities = pathfinding magic, counter magic
-| introduced = lh-04-the-pilot
+| introduced = The Pilot
 }}
 
 ''See also: [[Void Prism Timeline]]''

@@ -1,6 +1,6 @@
 {{Infobox construct
 | name = Guardian Puppet
-| introduced = cradle-09-bloodline
+| introduced = Bloodline
 }}
 
 == Bloodline ==

@@ -2,7 +2,7 @@
 
 {{Infobox icon
 | name = Hunger Icon
-| introduced = cradle-10-reaper
+| introduced = Reaper
 }}
 
 == Reaper ==

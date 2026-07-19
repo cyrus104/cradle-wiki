@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Stone door
-| introduced = cradle-04-skysworn
+| introduced = Skysworn
 }}
 
 == Skysworn ==

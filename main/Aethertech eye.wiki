@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Aethertech eye
-| introduced = lh-02-the-engineer
+| introduced = The Engineer
 }}
 
 == Overview ==

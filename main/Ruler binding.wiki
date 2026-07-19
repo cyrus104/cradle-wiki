@@ -2,7 +2,7 @@
 
 {{Infobox technique
 | name = Ruler binding
-| introduced = cradle-06-underlord
+| introduced = Underlord
 }}
 
 == Underlord ==

@@ -1,6 +1,6 @@
 {{Infobox construct
 | name = Burrow Guardian
-| introduced = lh-02-the-engineer
+| introduced = The Engineer
 }}
 
 == Overview ==

@@ -2,7 +2,7 @@
 
 {{Infobox artifact
 | name = Soulsmith tools
-| introduced = cradle-05-ghostwater
+| introduced = Ghostwater
 }}
 
 == Ghostwater ==

@@ -2,7 +2,7 @@
 
 {{Infobox artifact
 | name = Inner Light Tempering elixir
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Waybound ==

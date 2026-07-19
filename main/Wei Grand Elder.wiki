@@ -2,7 +2,7 @@
 | name = Wei Grand Elder
 | appears_in = Cradle
 | titles = Sage
-| introduced = cradle-12-waybound
+| introduced = Waybound
 }}
 
 == Overview ==
