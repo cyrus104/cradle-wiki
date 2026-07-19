@@ -1,0 +1,55 @@
+{{Infobox concept
+| name = Iteration
+| introduced = cradle-03-blackflame
+}}
+
+''See also: [[Iteration Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-13-threshold|An Iteration is a structured world or collection of worlds that functions as a pocket of order and energy. These entities grow outward from clusters of world fragments, similar to the way seeds develop. They are connected to a larger network known as the [[Way]], which acts like a vine providing the necessary stability for an Iteration to maintain its existence and causality. When an Iteration is healthy and well-connected to the [[Way]], it thrives; however, a declining population can weaken this connection, making the world susceptible to infection and chaos. [[Iterations]] are identified by specific designations, such as [[Sanctum]] (001), [[Oasis]] (129), or [[Limit]] (216), though their names are officially assigned by a committee of [[Ghosts]] rather than their creators. While some [[Iterations]] are stable planets, others may be flat planes or unstable border worlds with unique physical laws. When an Iteration dies naturally, it undergoes corrosion and breaks into fragments that drift through the [[void]]. These fragments may experience frozen time or repetitive loops, but they can potentially be combined to form new [[Iterations]]. In extreme cases, an Iteration may be erased or undergo a total temporal reversal to restore it to a pristine state. The stability of an Iteration can be compromised by external forces, such as the influence of the [[Vroshir]] or intense combat, which can cause it to collapse or dissolve into the [[void]].}}
+
+== Blackflame ==
+{{spoiler|book=cradle-03-blackflame|An [[Iteration]] is a cycle or version of the universe.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}
+{{spoiler|book=cradle-03-blackflame|[[Suriel]] was close to every [[Iteration]] of reality in the [[Way]].<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}
+
+== Underlord ==
+{{spoiler|book=cradle-06-underlord|An [[Iteration]] can be rewound to a pristine condition.<ref name="cradle-06-underlord-c1">''Underlord'', chapter 1</ref>}}
+{{spoiler|book=cradle-06-underlord|The [[Iteration]] screamed with the fury of a black-haired woman in furs.<ref name="cradle-06-underlord-c1" />}}
+
+== Bloodline ==
+{{spoiler|book=cradle-09-bloodline|The stability of the [[Iteration]] decreases as the battle rages.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}
+
+== Reaper ==
+{{spoiler|book=cradle-10-reaper|When an [[Iteration]] dies normally, it corrodes into corrupted fragments.<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}
+{{spoiler|book=cradle-10-reaper|The current setting is [[Iteration 001: Sanctum]].<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|[[Li Markuth]] did not want to open the [[Iteration]] up to others.<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}
+
+== Threshold: Stories from Cradle ==
+{{spoiler|book=cradle-13-threshold|An Iteration is a new world formed by incorporating various fragments into the [[Way]], with specific designations assigned to these worlds. To address an emerging problem, [[Northstrider]] was forced to sink deeper into the Iteration, which faced the risk of being lost because it lacked existential infrastructure and [[void]] membrane. While characters traveled within an Iteration located near [[Sanctum]], a group planned to break the entire structure. This group instead worked to create a miniature Iteration composed of multiple fragments, a process that was stabilized by the presence of the [[Judges]].}}
+
+{{spoiler|book=cradle-13-threshold|[[Northstrider]] had to sink deeper into the [[Iteration]] to address a problem.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}
+{{spoiler|book=cradle-13-threshold|The current [[Iteration]] is at risk of being lost due to a lack of [[void]] membrane and existential infrastructure.<ref name="cradle-13-threshold-c4" />}}
+{{spoiler|book=cradle-13-threshold|An [[Iteration]] designation is assigned to worlds.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}
+{{spoiler|book=cradle-13-threshold|The group plans to break the whole [[Iteration]].<ref name="cradle-13-threshold-c6" />}}
+{{spoiler|book=cradle-13-threshold|The characters are inside an [[Iteration]] close to [[Sanctum]].<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}
+{{spoiler|book=cradle-13-threshold|An [[Iteration]] is a new world created by incorporating fragments into the [[Way]].<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}
+{{spoiler|book=cradle-13-threshold|The [[Iteration]] being created by the group is a miniature world composed of multiple fragments.<ref name="cradle-13-threshold-c12" />}}
+{{spoiler|book=cradle-13-threshold|The [[Judges]]' presence reinforced the stability of the [[Iteration]].<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}
+
+== Notable quotes ==
+* {{spoiler|book=cradle-13-threshold|“We’re going to break the whole Iteration. Why do we care if the enemy knows that or not?”<ref name="cradle-13-threshold-c6" />}}
+
+== Notes ==
+<references />
+
+[[Category:Concepts]]
+[[Category:Blackflame]]
+[[Category:Underlord]]
+[[Category:Bloodline]]
+[[Category:Reaper]]
+[[Category:Waybound]]
+[[Category:Threshold: Stories from Cradle]]
+[[Category:Cradle]]
+[[Category:Cradle concepts]]

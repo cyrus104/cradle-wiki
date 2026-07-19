@@ -1,0 +1,11 @@
+{{Infobox location
+| name = Fractured Realms
+| introduced = cradle-12-waybound
+}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|The [[Fractured Realms]] is a realm containing an [[Archmage’s Tower]].}}
+{{spoiler|book=cradle-12-waybound|The [[Fractured Realms]] is a collection of worlds.}}
+
+[[Category:Locations]]
+[[Category:Waybound]]

@@ -1,0 +1,20 @@
+{{Expand}}
+
+{{Infobox construct
+| name = Ruler constructs
+| introduced = cradle-03-blackflame
+}}
+
+== Blackflame ==
+{{spoiler|book=cradle-03-blackflame|The course contains earth-aspect [[Ruler constructs]] that can rebuild stone pillars.<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}
+
+== Dreadgod ==
+{{spoiler|book=cradle-11-dreadgod|[[Ruler constructs]] automatically intercept objects like trees thrown at [[Moongrave]]'s walls.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Constructs]]
+[[Category:Blackflame]]
+[[Category:Dreadgod]]
+[[Category:Cradle]]

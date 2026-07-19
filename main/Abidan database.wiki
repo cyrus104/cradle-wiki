@@ -1,0 +1,17 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = Abidan database
+| introduced = cradle-13-threshold
+}}
+
+== Threshold: Stories from Cradle ==
+{{spoiler|book=cradle-13-threshold|The [[Abidan database]] may have been manipulated to conceal information about the Reapers.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Artifacts]]
+[[Category:Threshold: Stories from Cradle]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

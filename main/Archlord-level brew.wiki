@@ -1,0 +1,10 @@
+{{Infobox artifact
+| name = Archlord-level brew
+| introduced = cradle-12-waybound
+}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|[[Mercy]] is drinking an [[Archlord-level brew]] recovered from the [[House Shen]] vaults.}}
+
+[[Category:Artifacts]]
+[[Category:Waybound]]

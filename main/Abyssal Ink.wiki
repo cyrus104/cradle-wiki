@@ -1,0 +1,17 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = Abyssal Ink
+| introduced = cradle-12-waybound
+}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|[[Abyssal Ink]] is a drop that rejects all light.<ref name="cradle-12-waybound-c2">''Waybound'', chapter 2</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Artifacts]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

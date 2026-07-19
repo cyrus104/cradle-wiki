@@ -1,0 +1,21 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = Aether scanners
+| introduced = lh-01-the-captain
+}}
+
+== The Captain ==
+{{spoiler|book=lh-01-the-captain|Most ships do not have decent [[Aether scanners]].<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}
+
+== The Pilot ==
+{{spoiler|book=lh-04-the-pilot|The [[Pilot]] has a unique [[Aethertech]] scanner.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Artifacts]]
+[[Category:The Captain]]
+[[Category:The Pilot]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon artifacts]]

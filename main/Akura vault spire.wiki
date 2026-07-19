@@ -1,0 +1,10 @@
+{{Infobox construct
+| name = Akura vault spire
+| introduced = cradle-06-underlord
+}}
+
+== Underlord ==
+{{spoiler|book=cradle-06-underlord|The [[Akura vault]] contains a central spire that swirls with [[script]] and siphons excess [[aura]].}}
+
+[[Category:Constructs]]
+[[Category:Underlord]]

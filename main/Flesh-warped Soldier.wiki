@@ -1,0 +1,11 @@
+{{Infobox construct
+| name = Flesh-warped Soldier
+| introduced = cradle-12-waybound
+}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|Flesh-warped Soldiers are humanoid lumps of purplish flesh produced by the [[Ulethian Empire]].}}
+{{spoiler|book=cradle-12-waybound|Flesh-warped Soldiers consume organic material to add to their own bodies and can split into duplicates.}}
+
+[[Category:Constructs]]
+[[Category:Waybound]]

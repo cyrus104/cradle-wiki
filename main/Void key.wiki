@@ -1,0 +1,31 @@
+{{Infobox artifact
+| name = Void key
+| introduced = cradle-07-uncrowned
+}}
+
+== Uncrowned ==
+{{spoiler|book=cradle-07-uncrowned|Constructs can be stored using a [[void key]].}}
+
+== Bloodline ==
+{{spoiler|book=cradle-09-bloodline|[[Charity]]'s [[void key]] can produce weapons and shields.}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|[[Ziel]] intends to keep the [[Sage]]'s [[Remnant]] in his [[void key]].}}
+
+== Notable quotes ==
+* {{spoiler|book=cradle-06-underlord|But what about—" the King began, but a void key the size of a barn opened next to him.<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Artifacts]]
+[[Category:Uncrowned]]
+[[Category:Bloodline]]
+[[Category:Waybound]]
+[[Category:Ghostwater]]
+[[Category:Underlord]]
+[[Category:Wintersteel]]
+[[Category:Reaper]]
+[[Category:Dreadgod]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

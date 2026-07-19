@@ -1,0 +1,16 @@
+* navigation
+** mainpage|Main page
+** Willverse books|All books
+** Project:About|About this wiki
+** recentchanges-url|Recent changes
+** randompage-url|Random page
+* Browse
+** Category:Characters|Characters
+** Category:Locations|Locations
+** Category:Groups|Groups
+** Category:Magic systems|Magic systems
+** Category:Timelines|Timelines
+** Category:Books|Books
+** Category:Disambiguation|Disambiguation
+* SEARCH
+* TOOLBOX

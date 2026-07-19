@@ -1,0 +1,20 @@
+{{Expand}}
+
+{{Infobox technique
+| name = Enforcer binding
+| introduced = cradle-02-soulsmith
+}}
+
+== Soulsmith ==
+{{spoiler|book=cradle-02-soulsmith|An [[Enforcer binding]] can be used to launch a person through the air.<ref name="cradle-02-soulsmith-c9">''Soulsmith'', chapter 9</ref>}}
+
+== Wintersteel ==
+{{spoiler|book=cradle-08-wintersteel|[[Lindon]] can activate an [[Enforcer binding]] in his shield.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Techniques]]
+[[Category:Soulsmith]]
+[[Category:Wintersteel]]
+[[Category:Cradle]]

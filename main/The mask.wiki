@@ -1,0 +1,45 @@
+{{Infobox artifact
+| name = The mask
+| introduced = tg-02-crimson-vault
+}}
+
+''See also: [[The mask Timeline]]''
+
+== Overview ==
+{{spoiler|book=tg-03-city-of-light|The mask is a unique, dual-natured artifact constructed from two different metals: one side consists of rough black iron and the other is made of polished, mirror-like [[Tartarus steel]]. These halves are joined by a jagged, uneven seam rather than a smooth line. The object features two narrow slits for vision but lacks any opening for the mouth or visible means of attachment, such as straps; instead, it binds itself to the wearer's face through unknown means. Originally, the mask was part of a larger tool designed to enhance the abilities of [[Travelers]] by allowing them to access [[Valinhall]] more effectively, featuring safety mechanisms to prevent users from exhausting their [[life]] force. However, that original version was destroyed in a past conflict. The current mask is a reconstructed version made from those remnants and has been attuned to a specific [[Territory]]. While it grants the wearer immense power—comparable to that of an [[Incarnation]] by allowing a deeper connection to [[Valinhall]]—it is considered dangerous. Using it carries significant risks, including the potential for an [[Incarnation]] to sense and summon the mask from the wearer, which could result in death. Additionally, because it lacks the original safety restraints, it provides great power without any built-in protection for the user.}}
+
+== The Crimson Vault ==
+{{spoiler|book=tg-02-crimson-vault|Constructed from both polished-[[steel]] silver and wrought-iron black, this artifact is believed by [[Simon]] to originate from Ragnarus. The mask possesses the ability to bind a user with patterns resembling black chains. To function outside of the [[Territory]], the object must undergo an attunement process. This procedure requires [[binding]] the mask to a specific challenge within a designated room.}}
+
+{{spoiler|book=tg-02-crimson-vault|[[The mask]] is polished-[[steel]] silver on one side and wrought-iron black on the other.<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}
+{{spoiler|book=tg-02-crimson-vault|[[Simon]] believes the mask is from Ragnarus.<ref name="tg-02-crimson-vault-c15" />}}
+{{spoiler|book=tg-02-crimson-vault|[[The mask]] can bind a user with designs like black chains.<ref name="tg-02-crimson-vault-c15" />}}
+{{spoiler|book=tg-02-crimson-vault|[[The mask]] cannot function outside of the [[Territory]] unless it is attuned.<ref name="tg-02-crimson-vault-c15" />}}
+{{spoiler|book=tg-02-crimson-vault|Attuning an artifact requires [[binding]] it to a specific room and a specific challenge.<ref name="tg-02-crimson-vault-c15" />}}
+{{spoiler|book=tg-02-crimson-vault|[[The mask]] needs to be attuned.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}
+{{spoiler|book=tg-02-crimson-vault|[[The mask]] is made of [[steel]] and iron.<ref name="tg-02-crimson-vault-c20" />}}
+
+== City of Light ==
+{{spoiler|book=tg-03-city-of-light|Constructed of half black iron and half mirrored [[steel]] with two narrow eye slits, the mask was originally designed to strengthen other [[Travelers]] through built-in safety measures that prevented them from burning away their lives. The artifact allows a user to draw more deeply on [[Valinhall]] and utilize [[steel]] and [[essence]] without exhaustion, though this power causes chains to grow. While [[Simon]] eventually puts on the mask to call upon his powers with impunity, he also pulls it out during a confrontation involving [[Kai]]'s own mask, which features rectangular eye slits and a white and gray design without a mouth.}}
+
+{{spoiler|book=tg-03-city-of-light|[[The mask]] is half black iron and half mirrored [[steel]] with two narrow slits for the eyes.<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}
+{{spoiler|book=tg-03-city-of-light|[[The mask]] allows the user to use [[steel]] and [[essence]] without running out but causes chains to grow.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}
+{{spoiler|book=tg-03-city-of-light|[[The mask]] allows [[Simon]] to call on his powers with impunity.<ref name="tg-03-city-of-light-c13">''City of Light'', chapter 13</ref>}}
+{{spoiler|book=tg-03-city-of-light|[[The mask]] allows users to draw on [[Valinhall]] more deeply.<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}
+{{spoiler|book=tg-03-city-of-light|[[The mask]] was originally intended to strengthen other [[Travelers]].<ref name="tg-03-city-of-light-c21" />}}
+{{spoiler|book=tg-03-city-of-light|[[The mask]] had safety measures to prevent [[Travelers]] from burning their [[life]] away.<ref name="tg-03-city-of-light-c21" />}}
+{{spoiler|book=tg-03-city-of-light|[[Kai]]'s mask is half white and half gray with two rectangular eye slits and no mouth.<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}
+{{spoiler|book=tg-03-city-of-light|[[Simon]] pulls out the mask.<ref name="tg-03-city-of-light-c22" />}}
+{{spoiler|book=tg-03-city-of-light|[[Simon]] put on the mask.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}
+
+== Notable quotes ==
+* {{spoiler|book=tg-02-crimson-vault|“You can’t use it, though. It needs to be attuned, whatever that means.<ref name="tg-02-crimson-vault-c20" />}}
+
+== Notes ==
+<references />
+
+[[Category:Artifacts]]
+[[Category:The Crimson Vault]]
+[[Category:City of Light]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate artifacts]]

@@ -1,0 +1,10 @@
+{{Infobox concept
+| name = Masterwork Aethertech
+| introduced = lh-02-the-engineer
+}}
+
+== The Engineer ==
+{{spoiler|book=lh-02-the-engineer|[[Masterwork Aethertech]] is a high-grade category of technology.}}
+
+[[Category:Concepts]]
+[[Category:The Engineer]]

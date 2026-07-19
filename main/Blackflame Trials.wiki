@@ -1,0 +1,36 @@
+{{Infobox event
+| name = Blackflame Trials
+| introduced = cradle-03-blackflame
+}}
+
+''See also: [[Blackflame Trials Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-06-underlord|The [[Blackflame]] [[Trials]] are a series of three ancient training courses originally established by the first generation of the [[Blackflame family]] to preserve their legacy and pass their [[Path]] down to future descendants. These trials are designed to test the three fundamental techniques of the [[Blackflame]] [[Path]]: [[Enforcer]], [[Striker]], and [[Ruler]]. Because [[Blackflame madra]] is difficult to forge, the family never developed an official [[Forger technique]]. The trials are managed via a control center that allows for automated courses, though elders could provide supervision to conduct more advanced testing. The individual trials serve different purposes: the [[Enforcer]] trial involves techniques such as the [[Fierce Fire Robe]], while the [[Ruler]] trial is considered the most challenging. Historically, certain trials were designed to test a single disciple's teamwork and spiritual endurance by having them face protectors rather than engaging in direct combat. In the [[Ruler]] trial, participants are pressured to defend themselves to prevent them from maintaining their techniques. Following the collapse of the [[Blackflame family]], the trials have been utilized to train students from various [[Paths]]. While originally intended for [[Blackflame]] practitioners, they can be activated by anyone with the correct access keys and can challenge any [[Lowgold]] artist. The trials are resource-intensive, requiring significant daily costs to operate.}}
+
+== Blackflame ==
+{{spoiler|book=cradle-03-blackflame|Located beneath the temple, the [[Blackflame]] [[Trials]] are composed of three distinct challenges designed for [[Rulers]], Strikers, and [[Enforcer techniques]]. Upon entering the trials, the participant's script is sealed behind them. These tests may involve assessments of foot speed, and the exit to the area is protected by an [[aura]] barrier. Notably, the sound produced by the [[Goldsign]] during the [[Endless Sword]] technique resembles the gong used within the trials.}}
+
+{{spoiler|book=cradle-03-blackflame|The [[Blackflame Trials]] consist of three separate trials: one for [[Enforcer technique]], one for [[Striker technique]], and one for [[Rulers]].<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}
+{{spoiler|book=cradle-03-blackflame|Entering the [[Blackflame Trials]] seals the script behind the participant.<ref name="cradle-03-blackflame-c11" />}}
+{{spoiler|book=cradle-03-blackflame|The [[Blackflame Trials]] are located below the temple.<ref name="cradle-03-blackflame-c12">''Blackflame'', chapter 12</ref>}}
+{{spoiler|book=cradle-03-blackflame|The [[Blackflame Trials]] might test foot speed.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}
+{{spoiler|book=cradle-03-blackflame|The [[Blackflame Trials]] have an exit covered by an [[aura]] barrier.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}
+{{spoiler|book=cradle-03-blackflame|The ringing of the [[Goldsign]] during the [[Endless Sword]] technique sounds like the gong from the [[Blackflame Trials]].<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}
+
+== Skysworn ==
+{{spoiler|book=cradle-04-skysworn|Running the [[Blackflame Trials]] alone is extremely expensive.<ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref>}}
+{{spoiler|book=cradle-04-skysworn|The [[Blackflame Trials]] were a training experience for [[Yerin]].<ref name="cradle-04-skysworn-c15">''Skysworn'', chapter 15</ref>}}
+
+== Underlord ==
+{{spoiler|book=cradle-06-underlord|The [[Blackflame Trials]] are an event [[Yerin]] remembers.<ref name="cradle-06-underlord-c3">''Underlord'', chapter 3</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Events]]
+[[Category:Blackflame]]
+[[Category:Skysworn]]
+[[Category:Underlord]]
+[[Category:Cradle]]
+[[Category:Cradle events]]

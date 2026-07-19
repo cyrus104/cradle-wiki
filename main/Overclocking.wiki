@@ -1,0 +1,16 @@
+{{Expand}}
+
+{{Infobox technique
+| name = Overclocking
+| introduced = lh-02-the-engineer
+}}
+
+== The Engineer ==
+{{spoiler|book=lh-02-the-engineer|[[Overclocking]] is a translation for t’rshentha.<ref name="lh-02-the-engineer-c21">''The Engineer'', chapter 21</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Techniques]]
+[[Category:The Engineer]]
+[[Category:The Last Horizon]]

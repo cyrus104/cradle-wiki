@@ -1,0 +1,62 @@
+{{Infobox technique
+| name = Soulsmithing
+| introduced = cradle-02-soulsmith
+}}
+
+''See also: [[Soulsmithing Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-13-threshold|Soulsmithing is a highly respected and distinguished craft involving the manipulation of spiritual [[essence]]. Practitioners, known as [[Soulsmiths]], work with the components of spirits to forge various items, including weapons, sacred instruments, prosthetic limbs, and complex constructs. Their work requires a combination of three essential elements: the spiritual [[binding]], the physical material of the [[construct]], and the [[Soulsmith]]'s own [[madra]]. Because [[madra]] is a living, changing substance, the process is inherently unpredictable and dangerous; even experts face significant failure rates due to the unique properties of every sample. A core responsibility of a [[Soulsmith]] is to analyze [[Remnants]] to identify which parts are functional bindings and which are useless. To assist with this analytical task, they often create drudges—specialized constructs that serve as mobile toolboxes, encyclopedias, and scanning devices to detect power concentrations within dead [[Remnants]]. The training for this profession is rigorous and takes years, requiring mastery of basic [[scripts]], the ability to weave [[soulfire]] from [[aura]], and proficiency in [[Forging]] to create functional shells around bindings. [[Soulsmiths]] utilize specialized facilities called foundries and tools such as hammers, which are used to inject the smith's will into an object. At higher levels of existence, advanced tools like the [[Soulforge]] allow for the imbuing of greater authority and willpower into artifacts. The craft is also preserved through [[dream tablets]], which are specialized legacies containing a smith's [[life]] work and knowledge. While the skills of a [[Soulsmith]] do not translate directly to combat, they are extremely valuable to clans and sects, often serving as a primary source of income for families.}}
+
+== Soulsmith ==
+{{spoiler|book=cradle-02-soulsmith|[[Lindon]] works on his [[Soulsmithing]].<ref name="cradle-02-soulsmith-c20">''Soulsmith'', chapter 20</ref>}}
+
+== Skysworn ==
+{{spoiler|book=cradle-04-skysworn|The Ancestor's Spearhead is an invaluable material for [[Soulsmithing]].<ref name="cradle-04-skysworn-c5">''Skysworn'', chapter 5</ref>}}
+
+== Ghostwater ==
+{{spoiler|book=cradle-05-ghostwater|[[Soulsmithing]] is a process that may be involved in the creation of certain constructs.<ref name="cradle-05-ghostwater-c6">''Ghostwater'', chapter 6</ref>}}
+
+== Underlord ==
+{{spoiler|book=cradle-06-underlord|[[Dross]] has a solid foundation in [[Soulsmithing]] due to information constructs from [[Ghostwater]].<ref name="cradle-06-underlord-c14">''Underlord'', chapter 14</ref>}}
+{{spoiler|book=cradle-06-underlord|In [[Soulsmithing]], some techniques resonate with one another when activated together.<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}
+
+== Uncrowned ==
+{{spoiler|book=cradle-07-uncrowned|[[Lindon]] enjoys [[Soulsmithing]].<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}
+
+== Wintersteel ==
+{{spoiler|book=cradle-08-wintersteel|[[Lindon]] practices [[Soulsmithing]] in the evenings.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}
+
+== Reaper ==
+{{spoiler|book=cradle-10-reaper|[[Lindon]] intends to practice the skill of Soulsmithing using his own supplies. This craft involves utilizing hammers to crack open a [[Remnant]]'s carapace or batter [[dead matter]] into specific positions. While the process can result in useless products, the highest levels of the discipline require extreme care because success comes at a high price. Ultimately, the creation of [[Archlord]] artifacts represents the peak of traditional Soulsmithing.}}
+
+{{spoiler|book=cradle-10-reaper|[[Soulsmithing]] is a skill [[Lindon]] intends to practice.<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}
+{{spoiler|book=cradle-10-reaper|[[Soulsmithing]] involves using hammers to batter [[dead matter]] into place or crack open a [[Remnant]]'s carapace.<ref name="cradle-10-reaper-c11">''Reaper'', chapter 11</ref>}}
+{{spoiler|book=cradle-10-reaper|The highest level of [[Soulsmithing]] must be approached with care due to the high price of success.<ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref>}}
+{{spoiler|book=cradle-10-reaper|[[Archlord]] artifacts are considered the peak of traditional [[Soulsmithing]].<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}
+{{spoiler|book=cradle-10-reaper|[[Soulsmithing]] can create useless products.<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}
+{{spoiler|book=cradle-10-reaper|[[Lindon]] possesses [[Soulsmithing]] supplies.<ref name="cradle-10-reaper-c19" />}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|[[Fisher Gesha]] has [[Soulsmithing]] facilities in tunnels.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}
+
+== Threshold: Stories from Cradle ==
+{{spoiler|book=cradle-13-threshold|There was no evidence of [[Soulsmithing]] in the world.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}
+
+== Notable quotes ==
+* {{spoiler|book=cradle-12-waybound|“I just wanted your permission to use the Soulsmithing facilities in those tunnels!<ref name="cradle-12-waybound-c6" />}}
+
+== Notes ==
+<references />
+
+[[Category:Techniques]]
+[[Category:Soulsmith]]
+[[Category:Skysworn]]
+[[Category:Ghostwater]]
+[[Category:Underlord]]
+[[Category:Uncrowned]]
+[[Category:Wintersteel]]
+[[Category:Reaper]]
+[[Category:Waybound]]
+[[Category:Threshold: Stories from Cradle]]
+[[Category:Cradle]]

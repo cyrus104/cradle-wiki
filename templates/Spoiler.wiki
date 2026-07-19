@@ -1,0 +1,3 @@
+<span class="spoiler-fact" data-book="{{{book}}}">{{{1}}}</span><noinclude>
+Wraps a fact revealed in a given book. The spoilers gadget hides facts past the reader's chosen book.
+</noinclude>

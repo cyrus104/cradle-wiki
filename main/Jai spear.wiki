@@ -1,0 +1,10 @@
+{{Infobox artifact
+| name = Jai spear
+| introduced = cradle-02-soulsmith
+}}
+
+== Soulsmith ==
+{{spoiler|book=cradle-02-soulsmith|The ancient [[Jai spear]] is said to devour the strength of [[Remnants]] and add it to the user.}}
+
+[[Category:Artifacts]]
+[[Category:Soulsmith]]

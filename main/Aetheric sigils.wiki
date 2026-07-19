@@ -1,0 +1,27 @@
+{{Infobox sacred-art
+| name = Aetheric sigils
+| introduced = lh-01-the-captain
+}}
+
+== Overview ==
+{{spoiler|book=lh-04-the-pilot|Aetheric sigils are magical symbols derived from the natural patterns found within the [[Aether]]. They function as a method of invoking the [[Aether]] to trigger specific events, actions, or manifestations, serving as an alternative to verbal chanting. These symbols can be traced by hand, drawn with wands, or projected through various means such as fire or light. They can appear in many colors—including silver-gray, turquoise, pink, orange, honey, and yellow—and can vary significantly in scale, ranging from small marks to massive circles spanning thousands of yards. Sigils are used to create diverse magical effects, such as protective forcefields, [[binding]] spells, elemental manifestations of [[life]] and water, or complex seals. They can be engraved on physical objects like stone slabs or embedded in technology and artifacts to manipulate [[Aetheric energy]]. When integrated into larger structures, they form magic circles that can interact with the environment or defend vessels. The complexity and meaning of these symbols can be interpreted by those with sufficient skill, as they carry information regarding magical connections, intentions, and potential actions.}}
+
+== The Captain ==
+{{spoiler|book=lh-01-the-captain|Aetheric sigils manifest as swirling white discs during the casting of the [[Absolute Burial]] spell. These markings can be identified by their patterns, such as those appearing on a mud bubble. The sigils serve as functional tools that can be traced by hand and possess the ability to glow to provide alerts. In dark environments, they are capable of flickering white against the shadows.}}
+
+{{spoiler|book=lh-01-the-captain|[[Aetheric sigils]] appear as swirling white discs during the [[Absolute Burial]] spell.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}
+{{spoiler|book=lh-01-the-captain|The pattern on the mud bubble appeared to be an Aetheric sigil.<ref name="lh-01-the-captain-c4">''The Captain'', chapter 4</ref>}}
+{{spoiler|book=lh-01-the-captain|[[Aetheric sigils]] are markings that can glow to indicate alerts.<ref name="lh-01-the-captain-c7">''The Captain'', chapter 7</ref>}}
+{{spoiler|book=lh-01-the-captain|[[Aetheric sigils]] can be traced with the hands.<ref name="lh-01-the-captain-c7" />}}
+{{spoiler|book=lh-01-the-captain|An Aetheric sigil can flicker white against darkness.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}
+
+== The Pilot ==
+{{spoiler|book=lh-04-the-pilot|[[Aetheric sigils]] can form a magical forcefield around a ship.<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Sacred Arts]]
+[[Category:The Captain]]
+[[Category:The Pilot]]
+[[Category:The Last Horizon]]

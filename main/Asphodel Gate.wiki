@@ -1,0 +1,10 @@
+{{Infobox artifact
+| name = Asphodel Gate
+| introduced = tg-03-city-of-light
+}}
+
+== City of Light ==
+{{spoiler|book=tg-03-city-of-light|The [[Asphodel Incarnation]] can use a blue-edged [[Asphodel Gate]] to travel.}}
+
+[[Category:Artifacts]]
+[[Category:City of Light]]

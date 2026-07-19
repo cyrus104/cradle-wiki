@@ -1,0 +1,16 @@
+{{Expand}}
+
+{{Infobox technique
+| name = Pattern
+| introduced = cradle-13-threshold
+}}
+
+== Threshold: Stories from Cradle ==
+{{spoiler|book=cradle-13-threshold|[[Worldweavers]] must [[construct]] a [[Pattern]] to convince the world of their lie.<ref name="cradle-13-threshold-c5">''Threshold: Stories from Cradle'', chapter 5</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Techniques]]
+[[Category:Threshold: Stories from Cradle]]
+[[Category:Cradle]]

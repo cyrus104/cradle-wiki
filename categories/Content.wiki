@@ -1,0 +1,24 @@
+The root category for all in-universe content on the Willverse Wiki — Will Wight's connected universe across four series.
+
+; Browse by kind
+* [[:Category:Characters|Characters]]
+* [[:Category:Locations|Locations]]
+* [[:Category:Groups|Groups]]
+* [[:Category:Events|Events]]
+* [[:Category:Magic|Magic]]
+* [[:Category:Lifeforms|Lifeforms]]
+* [[:Category:Culture|Culture]]
+* [[:Category:Objects and Materials|Objects and Materials]]
+* [[:Category:Concepts|Concepts]]
+
+; Browse by series
+* [[:Category:Traveler's Gate|Traveler's Gate]]
+* [[:Category:Elder Empire|Elder Empire]]
+* [[:Category:Cradle|Cradle]]
+* [[:Category:The Last Horizon|The Last Horizon]]
+
+; Wiki structure
+* [[:Category:Books|The novels]]
+* [[:Category:Timelines|Per-entity timelines]]
+* [[:Category:Amalgam|Cross-series pages]]
+* [[:Category:Meta|Wiki maintenance]]

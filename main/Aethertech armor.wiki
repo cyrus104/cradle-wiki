@@ -1,0 +1,18 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = Aethertech armor
+| introduced = lh-02-the-engineer
+}}
+
+== The Engineer ==
+{{spoiler|book=lh-02-the-engineer|[[Aethertech armor]] is used to support users in mundane battlefields.<ref name="lh-02-the-engineer-c14">''The Engineer'', chapter 14</ref>}}
+{{spoiler|book=lh-02-the-engineer|[[Aethertech armor]] can release a pulse that acts as a scan.<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Artifacts]]
+[[Category:The Engineer]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon artifacts]]

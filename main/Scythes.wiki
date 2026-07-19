@@ -1,0 +1,10 @@
+{{Infobox artifact
+| name = Scythes
+| introduced = cradle-12-waybound
+}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|[[Makiel]] created the [[Scythes]] that were stolen.}}
+
+[[Category:Artifacts]]
+[[Category:Waybound]]

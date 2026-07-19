@@ -1,0 +1,61 @@
+{{Infobox concept
+| name = Soulsmiths
+| introduced = cradle-02-soulsmith
+}}
+
+''See also: [[Soulsmiths Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-12-waybound|Soulsmiths are specialized craftsmen who manipulate spiritual [[essence]] to create various items. Their expertise includes forging weapons, developing constructs, and transplanting bindings from [[Remnants]] into [[sacred artists]]. They may also create prosthetics or specialized armor. The profession is highly respected and can serve as a primary source of wealth for families or clans, though the skills are not primarily intended for direct combat. The craft requires intense dedication, a sharp memory, and a commitment to experimentation. Practitioners must master several core skills, such as reshaping [[madra]], memorizing [[scripts]], and learning to fill gaps in [[dead matter]] through [[Forging]]. A critical aspect of the work is determining which parts of a [[Remnant]] are useful and which are not. To assist in this analytical process, Soulsmiths often create drudges—specialized constructs designed to scan [[Remnants]] for power concentrations and bindings. Successful [[Soulsmithing]] depends heavily on compatibility between the smith's power and the materials used; improper blending can result in dangerous or useless products. While many believe making simple constructs is easy, true mastery involves creating safe, durable, and high-quality items. Advanced [[Soulsmithing]] may involve using specialized tools like hammers to inject willpower into an object, or utilizing unique locations like a [[Soulforge]] to imbue items with the authority of greater beings. Historically, some Soulsmiths have been known for their aesthetic sense, valuing the beauty of a finished piece as much as its utility.}}
+
+== Soulsmith ==
+{{spoiler|book=cradle-02-soulsmith|[[Soulsmiths]] are present in the [[Five Factions Alliance]].<ref name="cradle-02-soulsmith-c13">''Soulsmith'', chapter 13</ref>}}
+{{spoiler|book=cradle-02-soulsmith|The [[Blackflame Empire]] has access to [[Soulsmiths]].<ref name="cradle-02-soulsmith-c14">''Soulsmith'', chapter 14</ref>}}
+{{spoiler|book=cradle-02-soulsmith|[[Soulsmiths]] formed a spear seamlessly from [[madra]].<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}
+
+== Blackflame ==
+{{spoiler|book=cradle-03-blackflame|[[Soulsmiths]] dispose of [[dead matter]] in chambers.<ref name="cradle-03-blackflame-c8">''Blackflame'', chapter 8</ref>}}
+{{spoiler|book=cradle-03-blackflame|The [[Path]] of the Last Oath was designed for and by [[Soulsmiths]].<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}
+{{spoiler|book=cradle-03-blackflame|The [[Soulsmiths]] made a prosthetic for [[Lady Nakali]].<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}
+
+== Ghostwater ==
+{{spoiler|book=cradle-05-ghostwater|The [[Soulsmiths]] attempted to develop an advanced memory [[construct]] at [[Ghostwater]] to take over mental processes.<ref name="cradle-05-ghostwater-c6">''Ghostwater'', chapter 6</ref>}}
+{{spoiler|book=cradle-05-ghostwater|[[Soulsmiths]] attempted to create a [[construct]] that could work alongside a person's brain.<ref name="cradle-05-ghostwater-c13">''Ghostwater'', chapter 13</ref>}}
+
+== Underlord ==
+{{spoiler|book=cradle-06-underlord|Soulsmiths are individuals specialized in the crafting of armor. Within the region, local practitioners engage in the business of purchasing [[Remnants]] to aid their work. However, some renegade members of the guild were discovered distributing defective healing constructs. In [[Ghostwater]], these smiths have also left behind various information constructs. Following a directive from [[King Dakata]], the Soulsmiths were commanded to complete the production of new armor.}}
+
+{{spoiler|book=cradle-06-underlord|Renegade [[Soulsmiths]] were caught selling faulty healing constructs.<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}
+{{spoiler|book=cradle-06-underlord|Local [[Soulsmiths]] buy [[Remnants]].<ref name="cradle-06-underlord-c5" />}}
+{{spoiler|book=cradle-06-underlord|[[Soulsmiths]] left information constructs in [[Ghostwater]].<ref name="cradle-06-underlord-c14">''Underlord'', chapter 14</ref>}}
+{{spoiler|book=cradle-06-underlord|[[King Dakata]] orders the [[Soulsmiths]] to finish new armor.<ref name="cradle-06-underlord-c16">''Underlord'', chapter 16</ref>}}
+{{spoiler|book=cradle-06-underlord|[[Soulsmiths]] are people who craft armor.<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}
+
+== Uncrowned ==
+{{spoiler|book=cradle-07-uncrowned|[[Soulsmiths]] find men’hla tree leaves valuable because each leaf produces a separate [[Remnant]].<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}
+
+== Reaper ==
+{{spoiler|book=cradle-10-reaper|[[Soulsmiths]] who can directly manipulate their willpower are [[Lords]].<ref name="cradle-10-reaper-c11">''Reaper'', chapter 11</ref>}}
+{{spoiler|book=cradle-10-reaper|[[Dross]] feeds the memories of other [[Soulsmiths]] into [[Lindon]]'s mind.<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}
+{{spoiler|book=cradle-10-reaper|A team of [[Soulsmiths]] previously owned the [[labyrinth]].<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|[[Soulsmiths]] have made bows before.<ref name="cradle-12-waybound-c4">''Waybound'', chapter 4</ref>}}
+
+== Notable quotes ==
+* {{spoiler|book=cradle-03-blackflame|"Though the Soulsmiths made her a fine prosthetic, didn't they?"<ref name="cradle-03-blackflame-c10" />}}
+* {{spoiler|book=cradle-06-underlord|“Tell the Soulsmiths I need that new armor finished within the day.<ref name="cradle-06-underlord-c16" />}}
+
+== Notes ==
+<references />
+
+[[Category:Concepts]]
+[[Category:Soulsmith]]
+[[Category:Blackflame]]
+[[Category:Ghostwater]]
+[[Category:Underlord]]
+[[Category:Uncrowned]]
+[[Category:Reaper]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle concepts]]

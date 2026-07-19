@@ -1,0 +1,10 @@
+{{Infobox event
+| name = First obstacle
+| introduced = cradle-04-skysworn
+}}
+
+== Skysworn ==
+{{spoiler|book=cradle-04-skysworn|The first obstacle is a field of flying, whirling metal balls.}}
+
+[[Category:Events]]
+[[Category:Skysworn]]

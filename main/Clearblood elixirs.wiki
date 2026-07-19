@@ -1,0 +1,18 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = Clearblood elixirs
+| introduced = cradle-01-unsouled
+}}
+
+== Unsouled ==
+{{spoiler|book=cradle-01-unsouled|[[Clearblood elixirs]] are pills refined from unique herbs that remove impurities from the core and blood.<ref name="cradle-01-unsouled-c15">''Unsouled'', chapter 15</ref>}}
+{{spoiler|book=cradle-01-unsouled|[[Clearblood elixirs]] increase the speed of a practitioner's cycling and prepare them for advancement.<ref name="cradle-01-unsouled-c15" />}}
+
+== Notes ==
+<references />
+
+[[Category:Artifacts]]
+[[Category:Unsouled]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

@@ -1,0 +1,17 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = Aethertech scanners
+| introduced = lh-02-the-engineer
+}}
+
+== The Engineer ==
+{{spoiler|book=lh-02-the-engineer|Karoshans use handheld [[Aethertech scanners]] to inspect armor.<ref name="lh-02-the-engineer-c21">''The Engineer'', chapter 21</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Artifacts]]
+[[Category:The Engineer]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon artifacts]]

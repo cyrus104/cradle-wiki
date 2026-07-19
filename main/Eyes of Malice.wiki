@@ -1,0 +1,16 @@
+{{Expand}}
+
+{{Infobox spell
+| name = Eyes of Malice
+| introduced = lh-02-the-engineer
+}}
+
+== The Engineer ==
+{{spoiler|book=lh-02-the-engineer|[[Eyes of Malice]] is a niche pathfinding spell that provides a path for someone looking for the caster with hostile intentions.<ref name="lh-02-the-engineer-c23">''The Engineer'', chapter 23</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Spells]]
+[[Category:The Engineer]]
+[[Category:The Last Horizon]]

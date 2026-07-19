@@ -1,0 +1,10 @@
+{{Infobox location
+| name = Mell's workshop
+| introduced = lh-01-the-captain
+}}
+
+== The Captain ==
+{{spoiler|book=lh-01-the-captain|[[Mell]] has a [[workshop]] filled with robotic creations like spider-bots and lifter-bots.}}
+
+[[Category:Locations]]
+[[Category:The Captain]]

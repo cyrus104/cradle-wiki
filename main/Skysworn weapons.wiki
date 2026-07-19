@@ -1,0 +1,17 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = Skysworn weapons
+| introduced = cradle-04-skysworn
+}}
+
+== Skysworn ==
+{{spoiler|book=cradle-04-skysworn|[[Skysworn weapons]] are keyed to the individual user or the armor and can be located or deactivated remotely.<ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Artifacts]]
+[[Category:Skysworn]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

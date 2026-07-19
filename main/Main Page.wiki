@@ -1,0 +1,38 @@
+<!-- seeded-by-willverse-pipeline: remove this line to stop pipeline updates -->
+__NOTOC__
+<div style="text-align:center; font-size:120%; margin:0.5em 0">
+Welcome to the '''Willverse Wiki''' — a spoiler-safe, source-grounded encyclopedia for Will
+Wight's connected universe.
+</div>
+
+<div style="text-align:center; color:#555; margin-bottom:1em">
+'''{{NUMBEROFARTICLES}}''' articles · '''{{PAGESINCATEGORY:Characters}}''' characters · 26 books · all facts verified verbatim against the text
+</div>
+
+{| style="width:100%; border-collapse:collapse; text-align:center"
+|- style="vertical-align:top"
+| style="width:25%; padding:10px; background:#f8f9fa; border:1px solid #eaecf0" | [[File:Cover-tg-01-house-of-blades.jpg|120px|link=House of Blades (novel)]]<br>'''[[House of Blades (novel)|The Traveler's Gate]]'''<br><small>3 books</small>
+| style="width:25%; padding:10px; background:#f8f9fa; border:1px solid #eaecf0" | [[File:Cover-ee-sea-01-of-sea-and-shadow.jpg|120px|link=Of Sea and Shadow (novel)]]<br>'''[[Of Sea and Shadow (novel)|The Elder Empire]]'''<br><small>6 books</small>
+| style="width:25%; padding:10px; background:#f8f9fa; border:1px solid #eaecf0" | [[File:Cover-cradle-01-unsouled.jpg|120px|link=Unsouled (novel)]]<br>'''[[Unsouled (novel)|Cradle]]'''<br><small>13 books</small>
+| style="width:25%; padding:10px; background:#f8f9fa; border:1px solid #eaecf0" | [[File:Cover-lh-01-the-captain.jpg|120px|link=The Captain (novel)]]<br>'''[[The Captain (novel)|The Last Horizon]]'''<br><small>4 books</small>
+|}
+
+== 🛡️ Set your spoiler level ==
+'''This wiki will not spoil you.''' Use the '''"Spoiler level"''' selector at the top of any
+article to set how far you've read '''in each series independently'''. Every fact is tagged with
+the book that reveals it; anything past your progress stays hidden. See [[Project:About]].
+
+== ✨ Explore ==
+* '''Magic systems:''' [[Sacred Arts]] (Cradle) · [[Reading and the Soulbound]] (Elder Empire) · [[Traveling and the Territories]] (Traveler's Gate) · [[Spellcraft]] (The Last Horizon)
+* '''Browse:''' [[:Category:Characters|Characters]] · [[:Category:Locations|Locations]] · [[:Category:Groups|Groups]] · [[:Category:Magic systems|Magic systems]] · [[:Category:Timelines|Timelines]] · [[:Category:Books|Books]]
+* '''[[Willverse books]]''' — every book & reading order
+
+== ✅ Every fact is grounded ==
+Seeded from the books themselves: each fact's supporting quote is verified '''verbatim''' in the
+text, an independent judge confirms the quote supports the claim, and prose is original summary —
+never copied, never invented. After seeding, editors own the wiki; the pipeline never overwrites
+human edits.
+
+{{Willverse books nav}}
+
+[[Category:Meta]]

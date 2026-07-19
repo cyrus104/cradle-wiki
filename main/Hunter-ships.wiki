@@ -1,0 +1,23 @@
+{{Infobox construct
+| name = Hunter-ships
+| introduced = lh-01-the-captain
+}}
+
+== Overview ==
+{{spoiler|book=lh-01-the-captain|Hunter-ships are unmanned, wedge-shaped vessels characterized by a silver, insectoid carapace. These ships possess significant firepower capable of destroying personal starships in one volley and are highly maneuverable over short distances. They are often deployed in large, multiplying formations that resemble closing jaws. A notable tactical danger of these ships is their magical property: if a Hunter-ship is destroyed, it broadcasts its recent experiences. While standard defenses can manage real Hunter-ships, they become much more difficult to repel when supported by black-and-white clones. In certain combat scenarios, these vessels have been observed crashing into planetary surfaces or behaving erratically when their targets are disrupted.}}
+
+== The Captain ==
+{{spoiler|book=lh-01-the-captain|The Hunter-ships are a group of five distinct vessels characterized by their silvery, wedge-shaped forms. These ships are encased in a protective carapace that resembles insect shells and can multiply until they appear as silver teeth. Due to their nature, these vessels possess the potential to choke space with plasma.}}
+
+{{spoiler|book=lh-01-the-captain|[[Hunter-ships]] are silvery wedges covered in shell-like insect carapace.<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}
+{{spoiler|book=lh-01-the-captain|There are five [[Hunter-ships]].<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}
+{{spoiler|book=lh-01-the-captain|There are vessels known as [[Hunter-ships]].<ref name="lh-01-the-captain-c22">''The Captain'', chapter 22</ref>}}
+{{spoiler|book=lh-01-the-captain|[[Hunter-ships]] are ships that can multiply and appear as silver teeth.<ref name="lh-01-the-captain-c29">''The Captain'', chapter 29</ref>}}
+{{spoiler|book=lh-01-the-captain|[[Hunter-ships]] are vessels that could potentially choke space with plasma.<ref name="lh-01-the-captain-c42">''The Captain'', chapter 42</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Constructs]]
+[[Category:The Captain]]
+[[Category:The Last Horizon]]

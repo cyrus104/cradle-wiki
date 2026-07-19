@@ -1,0 +1,10 @@
+{{Infobox group
+| name = Aethril healers
+| introduced = lh-03-the-knight
+}}
+
+== The Knight ==
+{{spoiler|book=lh-03-the-knight|[[Aethril healers]] use enchantments to delay damage.}}
+
+[[Category:Groups]]
+[[Category:The Knight]]

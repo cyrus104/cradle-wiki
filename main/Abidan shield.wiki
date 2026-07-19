@@ -1,0 +1,17 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = Abidan shield
+| introduced = cradle-12-waybound
+}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|The [[Abidan shield]] cannot be restored by [[Shen]] on his own.<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Artifacts]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

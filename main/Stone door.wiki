@@ -1,0 +1,10 @@
+{{Infobox artifact
+| name = Stone door
+| introduced = cradle-04-skysworn
+}}
+
+== Skysworn ==
+{{spoiler|book=cradle-04-skysworn|A stone door in [[Jai clan]] territory is marked with four beasts.}}
+
+[[Category:Artifacts]]
+[[Category:Skysworn]]

@@ -1,0 +1,31 @@
+{{Infobox technique
+| name = Script
+| introduced = cradle-01-unsouled
+}}
+
+== Overview ==
+{{spoiler|book=cradle-05-ghostwater|Script consists of patterns or shapes that serve to guide [[vital aura]], reshaping it for specific purposes. Rather than being a celestial language, script functions by directing [[aura]] through carved symbols or runes. These can be etched into various surfaces, including wood, dirt, stone, glass, and cloth, or even embedded within objects like sapphires. While a script is essentially a two-dimensional drawing of letters or symbols, it can be used to activate more complex and permanent structures known as bindings, which are described as having much greater depth and weight. Scripts can perform a wide variety of functions, such as generating light, creating defensive wards to eject [[madra]], or providing concealment by dispersing spiritual senses. They can also be used as control arrays to manage other objects or to activate the abilities of bindings and constructs. A script can be powered by a user's spirit or [[madra]], though its stability and longevity depend on the quality of the work and the power source used. While some [[scripts]] are simple, others can be incredibly intricate, appearing as complex layers of wheels within wheels. If a script is not broken instantly upon contact, it may trigger its intended effect; however, if the runes are damaged or overtaxed, the script can shatter or tear the material it is written upon.}}
+
+== Unsouled ==
+{{spoiler|book=cradle-01-unsouled|[[Script]] consists of runes that are shapes used to guide [[vital aura]] in the air to reshape it for a new purpose.<ref name="cradle-01-unsouled-c7">''Unsouled'', chapter 7</ref>}}
+{{spoiler|book=cradle-01-unsouled|A script can be constructed using small tiles etched with runes or sigils to function as a full-size script circle.<ref name="cradle-01-unsouled-c9">''Unsouled'', chapter 9</ref>}}
+
+== Soulsmith ==
+{{spoiler|book=cradle-02-soulsmith|A script can gather or push away [[vital aura]].<ref name="cradle-02-soulsmith-c4">''Soulsmith'', chapter 4</ref>}}
+{{spoiler|book=cradle-02-soulsmith|Lines of script on the wall provide light and are fully powered.<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}
+
+== Blackflame ==
+{{spoiler|book=cradle-03-blackflame|A scarlet script encircles the cave entrance.<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}
+
+== Ghostwater ==
+{{spoiler|book=cradle-05-ghostwater|The hatch is protected by hidden rings of script.<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Techniques]]
+[[Category:Unsouled]]
+[[Category:Soulsmith]]
+[[Category:Blackflame]]
+[[Category:Ghostwater]]
+[[Category:Cradle]]

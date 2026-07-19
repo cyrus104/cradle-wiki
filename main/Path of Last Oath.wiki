@@ -1,0 +1,24 @@
+{{Infobox technique
+| name = Path of Last Oath
+| introduced = cradle-03-blackflame
+}}
+
+== Overview ==
+{{spoiler|book=cradle-11-dreadgod|The [[Path]] of the Last Oath is a specialized discipline originally developed by and for [[Soulsmiths]]. It focuses on the immediate creation of basic constructs that function as disposable puppets. Beyond mere force, this [[Path]] incorporates various aspects, most notably water. Historically, the discipline is associated with the [[Rune Queen]] [[Emala]], who utilized it to create the [[Grand Oath Array]]. This array was used to seal a black [[dragon]] emperor and his family, effectively locking certain locations in time. The [[Path]] has also produced various offshoots, such as the [[Path of the Dawn Oath]]. While it is a potent method for winning duels and combat, it is characterized by its ruthless nature.}}
+
+== Blackflame ==
+{{spoiler|book=cradle-03-blackflame|The [[Path]] of the Last Oath was designed for and by [[Soulsmiths]].<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}
+{{spoiler|book=cradle-03-blackflame|The Last Oath [[Path]] is purely defensive.<ref name="cradle-03-blackflame-c9" />}}
+
+== Dreadgod ==
+{{spoiler|book=cradle-11-dreadgod|The [[Path]] of the Last Oath is a path that contains [[Sages]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}
+{{spoiler|book=cradle-11-dreadgod|The [[Path]] of the Last Oath was founded by an individual whose rivalry with the children of [[Empress]] [[Natarianath]] was recorded.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}
+{{spoiler|book=cradle-11-dreadgod|The [[Path]] of the Last Oath is formed of several aspects including force and water.<ref name="cradle-11-dreadgod-c13">''Dreadgod'', chapter 13</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Techniques]]
+[[Category:Blackflame]]
+[[Category:Dreadgod]]
+[[Category:Cradle]]

@@ -1,0 +1,24 @@
+{{Infobox artifact
+| name = The Scythe
+| introduced = cradle-01-unsouled
+}}
+
+== Unsouled ==
+{{spoiler|book=cradle-01-unsouled|[[The Scythe]] is an item that needs to be recovered.<ref name="cradle-01-unsouled-c20">''Unsouled'', chapter 20</ref>}}
+
+== Blackflame ==
+{{spoiler|book=cradle-03-blackflame|[[The Scythe]] is a long, curved blade resembling an obsidian scimitar.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|[[The Scythe]] is [[Ozriel]]'s weapon.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}
+{{spoiler|book=cradle-12-waybound|[[The Scythe]]'s authority clashed with the person holding it.<ref name="cradle-12-waybound-c6" />}}
+
+== Notes ==
+<references />
+
+[[Category:Artifacts]]
+[[Category:Unsouled]]
+[[Category:Blackflame]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

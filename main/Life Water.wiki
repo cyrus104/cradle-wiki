@@ -1,0 +1,10 @@
+{{Infobox artifact
+| name = Life Water
+| introduced = cradle-05-ghostwater
+}}
+
+== Ghostwater ==
+{{spoiler|book=cradle-05-ghostwater|[[Dross]] has a vial of [[Life Water]].}}
+
+[[Category:Artifacts]]
+[[Category:Ghostwater]]

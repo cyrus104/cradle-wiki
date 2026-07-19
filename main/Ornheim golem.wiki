@@ -1,0 +1,17 @@
+{{Expand}}
+
+{{Infobox construct
+| name = Ornheim golem
+| introduced = tg-02-crimson-vault
+}}
+
+== The Crimson Vault ==
+{{spoiler|book=tg-02-crimson-vault|An [[Ornheim golem]] is animated and controlled by a carved gem called a heartstone.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}
+{{spoiler|book=tg-02-crimson-vault|An [[Ornheim golem]] can be destroyed by brute force if its body is broken.<ref name="tg-02-crimson-vault-c4" />}}
+
+== Notes ==
+<references />
+
+[[Category:Constructs]]
+[[Category:The Crimson Vault]]
+[[Category:Traveler's Gate]]

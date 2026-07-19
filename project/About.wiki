@@ -1,0 +1,42 @@
+<!-- seeded-by-willverse-pipeline: remove this line to stop pipeline updates -->
+= About the Willverse Wiki =
+
+This wiki is a community-editable encyclopedia for Will Wight's connected universe, initially
+'''seeded by a local pipeline that reads the books''' and extracts entities, facts, and links —
+then handed to human editors as the living source of truth.
+
+== The two promises ==
+
+=== 1. Per-series spoiler safety ===
+
+Every fact is tagged with the book that reveals it. The spoiler selector (top of each article)
+tracks your reading progress '''independently per series''' — set Cradle to book 3 and the
+Elder Empire to "not started", and each page shows exactly what you've earned. This works
+because facts, Overviews, biographies, and timeline entries are all gated at the level of
+individual statements, not whole pages.
+
+=== 2. Verbatim grounding ===
+
+A seeded fact reaches this wiki only if:
+# its supporting quote appears '''word-for-word''' in the referenced chapter (checked mechanically — a quote that isn't verbatim is rejected);
+# an independent verification pass agrees the quote actually supports the claim (overreaching claims are quarantined);
+# it isn't a near-duplicate of an already-recorded fact.
+
+Prose sections (Overviews, per-book biographies, plot summaries) are '''original summaries'''
+written strictly from verified material — never copied from the books and never quoting them
+beyond short, verified excerpts. Publication data is drawn from public bibliographic sources
+and cited on each book page.
+
+== What the pipeline does and doesn't do ==
+
+* It '''creates and updates''' seeded pages under a bot account.
+* It '''never bulk-deletes pages and never overwrites human edits''' — after seeding, editors own the content.
+* Book text stays on the operator's machine; the wiki carries fair-use summaries and short cited quotes only.
+
+== Editing ==
+
+Edit anything. Keep the two promises: don't remove spoiler tags (readers depend on them), and
+don't add claims the books can't support. Beyond that — expand, restructure, illustrate, and
+analyze as any wiki community would.
+
+[[Category:Meta]]

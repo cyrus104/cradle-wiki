@@ -1,0 +1,16 @@
+{{Expand}}
+
+{{Infobox technique
+| name = Blackflame containment script
+| introduced = cradle-12-waybound
+}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|[[Lindon]] is practiced with the [[Blackflame containment script]].<ref name="cradle-12-waybound-c2">''Waybound'', chapter 2</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Techniques]]
+[[Category:Waybound]]
+[[Category:Cradle]]

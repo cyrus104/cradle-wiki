@@ -1,0 +1,10 @@
+{{Infobox technique
+| name = Array
+| introduced = cradle-12-waybound
+}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|[[Ziel]] operates an [[Array]] to lock [[Calling Storms]] in time.}}
+
+[[Category:Techniques]]
+[[Category:Waybound]]

@@ -1,0 +1,10 @@
+{{Infobox artifact
+| name = Dreadgod seeds
+| introduced = cradle-12-waybound
+}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|[[Dross]] processed pieces of the [[Dreadgod]] into beautiful little seeds.}}
+
+[[Category:Artifacts]]
+[[Category:Waybound]]

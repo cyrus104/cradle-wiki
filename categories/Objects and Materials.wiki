@@ -1,0 +1,8 @@
+Physical things of the Willverse: artifacts and treasures, constructs, weapons, elixirs and starships.
+
+; By kind
+* [[:Category:Artifacts|Artifacts and treasures]]
+* [[:Category:Constructs|Constructs]]
+* [[:Category:Starships|Starships]]
+
+[[Category:Content]]

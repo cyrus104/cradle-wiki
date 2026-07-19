@@ -1,0 +1,20 @@
+{{Expand}}
+
+{{Infobox construct
+| name = Security constructs
+| introduced = cradle-01-unsouled
+}}
+
+== Wintersteel ==
+{{spoiler|book=cradle-08-wintersteel|[[Security constructs]] can use launchers to attack.<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}
+
+== Bloodline ==
+{{spoiler|book=cradle-09-bloodline|[[Elder Rahm]] has four oblong security constructs floating behind him.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Constructs]]
+[[Category:Wintersteel]]
+[[Category:Bloodline]]
+[[Category:Cradle]]

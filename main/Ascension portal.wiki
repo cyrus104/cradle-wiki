@@ -1,0 +1,10 @@
+{{Infobox event
+| name = Ascension portal
+| introduced = cradle-12-waybound
+}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|[[Lindon]]'s ascension portal felt stretched as if it connected to somewhere much too far away.}}
+
+[[Category:Events]]
+[[Category:Waybound]]

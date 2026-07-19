@@ -1,0 +1,7 @@
+{| class="infobox" style="width:22em; float:right; margin-left:1em"
+! colspan="2" style="font-size:110%" | {{{name}}}
+|-
+| Type || Reader Power
+|-
+| Introduced || {{{introduced}}}
+|}<noinclude>Reader Power infobox (generated — see mediawiki/gen_infobox_templates.py).</noinclude>

@@ -1,0 +1,24 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = Aethertech guns
+| introduced = lh-02-the-engineer
+}}
+
+== The Engineer ==
+{{spoiler|book=lh-02-the-engineer|[[Aethertech guns]] are mounted on the walls of the secure room.<ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref>}}
+
+== The Knight ==
+{{spoiler|book=lh-03-the-knight|[[Aethertech guns]] are weapons used by soldiers.<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}
+
+== Notable quotes ==
+* {{spoiler|book=lh-03-the-knight|“Aether Technicians with weaponry gifts, masters of pistol Combat Arts, soldiers with unique compatibility for Aethertech guns. She gave us lengthy lists of all their flaws. And many personal insults.”<ref name="lh-03-the-knight-c22" />}}
+
+== Notes ==
+<references />
+
+[[Category:Artifacts]]
+[[Category:The Engineer]]
+[[Category:The Knight]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon artifacts]]

@@ -1,0 +1,10 @@
+{{Infobox artifact
+| name = Halfsilver blades
+| introduced = cradle-08-wintersteel
+}}
+
+== Wintersteel ==
+{{spoiler|book=cradle-08-wintersteel|[[Halfsilver blades]] disrupt [[madra]].}}
+
+[[Category:Artifacts]]
+[[Category:Wintersteel]]

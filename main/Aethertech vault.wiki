@@ -1,0 +1,17 @@
+{{Expand}}
+
+{{Infobox construct
+| name = Aethertech vault
+| introduced = lh-02-the-engineer
+}}
+
+== The Engineer ==
+{{spoiler|book=lh-02-the-engineer|The [[Nebula Runners]] are transporting an [[Aethertech vault]].<ref name="lh-02-the-engineer-c11">''The Engineer'', chapter 11</ref>}}
+{{spoiler|book=lh-02-the-engineer|The narrator hid behind an [[Aethertech vault]].<ref name="lh-02-the-engineer-c11" />}}
+
+== Notes ==
+<references />
+
+[[Category:Constructs]]
+[[Category:The Engineer]]
+[[Category:The Last Horizon]]

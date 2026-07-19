@@ -1,0 +1,16 @@
+{{Expand}}
+
+{{Infobox technique
+| name = Forger trick
+| introduced = cradle-02-soulsmith
+}}
+
+== Soulsmith ==
+{{spoiler|book=cradle-02-soulsmith|A [[Forger trick]] can duplicate a weapon with green echoes.<ref name="cradle-02-soulsmith-c13">''Soulsmith'', chapter 13</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Techniques]]
+[[Category:Soulsmith]]
+[[Category:Cradle]]

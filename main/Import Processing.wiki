@@ -1,0 +1,10 @@
+{{Infobox group
+| name = Import Processing
+| introduced = cradle-12-waybound
+}}
+
+== Waybound ==
+{{spoiler|book=cradle-12-waybound|[[Import Processing]] is an organization that tracks people who end up on residential planets by accident.}}
+
+[[Category:Groups]]
+[[Category:Waybound]]

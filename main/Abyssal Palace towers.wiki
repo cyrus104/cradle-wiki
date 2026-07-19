@@ -1,0 +1,10 @@
+{{Infobox construct
+| name = Abyssal Palace towers
+| introduced = cradle-08-wintersteel
+}}
+
+== Wintersteel ==
+{{spoiler|book=cradle-08-wintersteel|[[Abyssal Palace cultists]] erect squat towers that are two-story stone cylinders covered in [[scripts]].}}
+
+[[Category:Constructs]]
+[[Category:Wintersteel]]

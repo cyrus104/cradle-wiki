@@ -1,0 +1,10 @@
+{{Infobox artifact
+| name = Varic's shield
+| introduced = lh-03-the-knight
+}}
+
+== The Knight ==
+{{spoiler|book=lh-03-the-knight|[[Varic]] uses a shield that can be covered in acid.}}
+
+[[Category:Artifacts]]
+[[Category:The Knight]]

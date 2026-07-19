@@ -1,0 +1,13 @@
+{| class="infobox" style="width:22em; float:right; margin-left:1em"
+! colspan="2" style="font-size:110%" | {{{name}}}
+|-
+| colspan="2" style="text-align:center" | {{{cover|}}}
+|-
+| Released || {{{released|—}}}
+|-
+| ISBN || {{{isbn|—}}}
+|-
+| Publisher || {{{publisher|—}}}
+|-
+| Pages || {{{pages|—}}}
+|}<noinclude>Book infobox (generated).</noinclude>

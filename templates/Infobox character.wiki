@@ -1,0 +1,15 @@
+{| class="infobox" style="width:22em; float:right; margin-left:1em"
+! colspan="2" style="font-size:110%" | {{{name}}}
+|-
+| Aliases || {{{aliases|—}}}
+|-
+| Titles || {{{titles|—}}}
+|-
+| Abilities || {{{abilities|—}}}
+|-
+| Affiliations || {{{affiliations|—}}}
+|-
+| Appears in || {{{appears_in|—}}}
+|-
+| Introduced || {{{introduced}}}
+|}<noinclude>Character infobox (generated).</noinclude>

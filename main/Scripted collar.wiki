@@ -1,0 +1,17 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = Scripted collar
+| introduced = cradle-02-soulsmith
+}}
+
+== Soulsmith ==
+{{spoiler|book=cradle-02-soulsmith|A scripted collar can choke [[madra]] at the source.<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}
+
+== Notes ==
+<references />
+
+[[Category:Artifacts]]
+[[Category:Soulsmith]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

@@ -1,0 +1,17 @@
+{{Expand}}
+
+{{Infobox construct
+| name = Penetrators
+| introduced = lh-01-the-captain
+}}
+
+== The Captain ==
+{{spoiler|book=lh-01-the-captain|[[Penetrators]] are short-range boarding devices used by the [[Iron Legion]].<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}
+{{spoiler|book=lh-01-the-captain|Each Penetrator comes standard with a crew of twenty-four [[Pawns]], one Sentry, one [[Shepherd]], and optionally a [[Reaver]].<ref name="lh-01-the-captain-c10" />}}
+
+== Notes ==
+<references />
+
+[[Category:Constructs]]
+[[Category:The Captain]]
+[[Category:The Last Horizon]]

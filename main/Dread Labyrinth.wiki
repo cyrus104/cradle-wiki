@@ -1,0 +1,10 @@
+{{Infobox location
+| name = Dread Labyrinth
+| introduced = cradle-10-reaper
+}}
+
+== Reaper ==
+{{spoiler|book=cradle-10-reaper|[[Dross]] can converse with the [[Dread Labyrinth]].}}
+
+[[Category:Locations]]
+[[Category:Reaper]]
