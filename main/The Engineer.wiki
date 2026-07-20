@@ -5,11 +5,19 @@
 }}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[The Engineer]] is a subject of inquiry between Shyrax and the [[Captain]].<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[The Engineer]] did not ask them to defeat [[Starhammer]].<ref name="lh-02-the-engineer-c21">''The Engineer'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[The Engineer]] is a subject of inquiry between Shyrax and the [[Captain]].<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[The Engineer]] did not ask them to defeat [[Starhammer]].<ref name="lh-02-the-engineer-c21">''The Engineer'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|Shyrax hopes the [[Engineer]] will be prepared.<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|Shyrax hopes the [[Engineer]] will be prepared.<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|“The Engineer didn’t ask us to defeat him,” Sola pointed out.<ref name="lh-02-the-engineer-c21" />}}

@@ -7,8 +7,12 @@
 }}
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|The [[Twin Star Sage]] is a legendary figure.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}
-{{spoiler|book=cradle-09-bloodline|The [[Twin Star Sage]] is also known as the [[Sage of Twin Stars]].<ref name="cradle-09-bloodline-c21" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|The [[Twin Star Sage]] is a legendary figure.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Twin Star Sage]] is also known as the [[Sage of Twin Stars]].<ref name="cradle-09-bloodline-c21" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -11,73 +11,85 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|Located to the west of [[Myria]], Enosh is a free city that serves as a residence for [[Grandmasters]] and a home for [[Travelers]]. This city provides essential supplies and medical care, with the [[Grandmasters' palace]] situated at its exact center. While the heretics of Enosh do not worship the Evening [[Star]], the city's patrols extend toward the south. After serving as a destination for [[Alin]] and [[Leah]], the city began gathering for war behind their Rising Sun.}}
 
-{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is a place to the west of [[Myria]].<ref name="tg-01-house-of-blades-c2">''House of Blades'', chapter 2</ref>}}
-{{spoiler|book=tg-01-house-of-blades|The heretics of [[Enosh]] fail to worship the Evening [[Star]].<ref name="tg-01-house-of-blades-c3">''House of Blades'', chapter 3</ref>}}
-{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is a place where [[Grandmasters]] reside and patrols extend south.<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}
-{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is a free city.<ref name="tg-01-house-of-blades-c4" />}}
-{{spoiler|book=tg-01-house-of-blades|[[Enosh]] provides medical care and supplies.<ref name="tg-01-house-of-blades-c4" />}}
-{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is a place from which [[Travelers]] originate.<ref name="tg-01-house-of-blades-c6">''House of Blades'', chapter 6</ref>}}
-{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is a location where [[Travelers]] reside.<ref name="tg-01-house-of-blades-c7">''House of Blades'', chapter 7</ref>}}
-{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is a city.<ref name="tg-01-house-of-blades-c8">''House of Blades'', chapter 8</ref>}}
-{{spoiler|book=tg-01-house-of-blades|The [[Grandmasters' palace]] is located at the exact center of [[Enosh]].<ref name="tg-01-house-of-blades-c16">''House of Blades'', chapter 16</ref>}}
-{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is a destination for [[Alin]] and [[Leah]].<ref name="tg-01-house-of-blades-c22">''House of Blades'', chapter 22</ref>}}
-{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is gathering for war behind their Rising Sun.<ref name="tg-01-house-of-blades-c23">''House of Blades'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is a place to the west of [[Myria]].<ref name="tg-01-house-of-blades-c2">''House of Blades'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|The heretics of [[Enosh]] fail to worship the Evening [[Star]].<ref name="tg-01-house-of-blades-c3">''House of Blades'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is a place where [[Grandmasters]] reside and patrols extend south.<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is a free city.<ref name="tg-01-house-of-blades-c4" />}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Enosh]] provides medical care and supplies.<ref name="tg-01-house-of-blades-c4" />}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is a place from which [[Travelers]] originate.<ref name="tg-01-house-of-blades-c6">''House of Blades'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is a location where [[Travelers]] reside.<ref name="tg-01-house-of-blades-c7">''House of Blades'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is a city.<ref name="tg-01-house-of-blades-c8">''House of Blades'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|The [[Grandmasters' palace]] is located at the exact center of [[Enosh]].<ref name="tg-01-house-of-blades-c16">''House of Blades'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is a destination for [[Alin]] and [[Leah]].<ref name="tg-01-house-of-blades-c22">''House of Blades'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Enosh]] is gathering for war behind their Rising Sun.<ref name="tg-01-house-of-blades-c23">''House of Blades'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Enosh is an aggressive cult of the [[Incarnations]] located near [[Myria]] that controls [[Naraka waypoints]] through its [[Grandmasters]]. This city, which features a [[Grandmasters' palace]] and council-room, is defended by soldiers but possesses walls that a golem army could shatter. After fighting the [[Travelers]] [[Indirial]], the city began preparing for a war that the [[King]] intends to crush. While [[Simon]] maintains a suite of rooms there, [[Alin]] was practically conscripted by the city and arrived to find that Enosh may have located the [[Incarnation]]. Although [[Leah]] attempted to escape the city and plant a crystal within it, she was ultimately left behind in Enosh.}}
 
-{{spoiler|book=tg-02-crimson-vault|The [[Travelers]] [[Indirial]] fought were [[Enosh]].<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] will try harder due to [[Indirial]]'s failure.<ref name="tg-02-crimson-vault-c1" />}}
-{{spoiler|book=tg-02-crimson-vault|There is a war being prepared against [[Enosh]].<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a place where [[Naraka waypoints]] are controlled by [[Enosh Grandmasters]].<ref name="tg-02-crimson-vault-c3" />}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] has walls that can be shattered by a golem army.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a city containing a [[Grandmasters’ palace]].<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Simon]] has a suite of rooms in [[Enosh]].<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}
-{{spoiler|book=tg-02-crimson-vault|Golden hummingbirds are not considered a concern in [[Enosh]].<ref name="tg-02-crimson-vault-c6" />}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a location containing an [[Enosh]] Grandmaster’s council-room.<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] may have found the [[Incarnation]].<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Alin]] assumed [[Simon]] had sided with [[Enosh]].<ref name="tg-02-crimson-vault-c9" />}}
-{{spoiler|book=tg-02-crimson-vault|[[Damascan Travelers]] might think [[Simon]] is working on the side of [[Enosh]].<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] has soldiers.<ref name="tg-02-crimson-vault-c10" />}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] has no [[Travelers]] of the Ragnarus [[Territory]].<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a location/territory that the [[King]] intends to crush.<ref name="tg-02-crimson-vault-c12" />}}
-{{spoiler|book=tg-02-crimson-vault|[[Leah]] had hoped to keep her identity secret to escape from [[Enosh]].<ref name="tg-02-crimson-vault-c13">''The Crimson Vault'', chapter 13</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Alin]] was practically conscripted by [[Enosh]].<ref name="tg-02-crimson-vault-c14">''The Crimson Vault'', chapter 14</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Leah]] planted a crystal in [[Enosh]].<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Alin]] came to [[Enosh]].<ref name="tg-02-crimson-vault-c16">''The Crimson Vault'', chapter 16</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a city that [[Simon]] overlooks from a stone outcropping after leaving [[Naraka]].<ref name="tg-02-crimson-vault-c17">''The Crimson Vault'', chapter 17</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] can field almost as many [[Travelers]] as [[Leah]]'s group.<ref name="tg-02-crimson-vault-c17" />}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] are aggressors.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Leah]] was left in [[Enosh]].<ref name="tg-02-crimson-vault-c22">''The Crimson Vault'', chapter 22</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a cult of the [[Incarnations]].<ref name="tg-02-crimson-vault-c22" />}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a location from which [[Talos]] brought a strike force.<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a location where [[Grandmaster Naraka]] was brought.<ref name="tg-02-crimson-vault-c23" />}}
-{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a location near [[Myria]].<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Alin]] tells [[Simon]] not to take [[Ilana]] to [[Enosh]].<ref name="tg-02-crimson-vault-c25">''The Crimson Vault'', chapter 25</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">28</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Travelers]] [[Indirial]] fought were [[Enosh]].<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] will try harder due to [[Indirial]]'s failure.<ref name="tg-02-crimson-vault-c1" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|There is a war being prepared against [[Enosh]].<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a place where [[Naraka waypoints]] are controlled by [[Enosh Grandmasters]].<ref name="tg-02-crimson-vault-c3" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] has walls that can be shattered by a golem army.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a city containing a [[Grandmasters’ palace]].<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] has a suite of rooms in [[Enosh]].<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|Golden hummingbirds are not considered a concern in [[Enosh]].<ref name="tg-02-crimson-vault-c6" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a location containing an [[Enosh]] Grandmaster’s council-room.<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] may have found the [[Incarnation]].<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Alin]] assumed [[Simon]] had sided with [[Enosh]].<ref name="tg-02-crimson-vault-c9" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Damascan Travelers]] might think [[Simon]] is working on the side of [[Enosh]].<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] has soldiers.<ref name="tg-02-crimson-vault-c10" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] has no [[Travelers]] of the Ragnarus [[Territory]].<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a location/territory that the [[King]] intends to crush.<ref name="tg-02-crimson-vault-c12" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Leah]] had hoped to keep her identity secret to escape from [[Enosh]].<ref name="tg-02-crimson-vault-c13">''The Crimson Vault'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Alin]] was practically conscripted by [[Enosh]].<ref name="tg-02-crimson-vault-c14">''The Crimson Vault'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Leah]] planted a crystal in [[Enosh]].<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Alin]] came to [[Enosh]].<ref name="tg-02-crimson-vault-c16">''The Crimson Vault'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a city that [[Simon]] overlooks from a stone outcropping after leaving [[Naraka]].<ref name="tg-02-crimson-vault-c17">''The Crimson Vault'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] can field almost as many [[Travelers]] as [[Leah]]'s group.<ref name="tg-02-crimson-vault-c17" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] are aggressors.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Leah]] was left in [[Enosh]].<ref name="tg-02-crimson-vault-c22">''The Crimson Vault'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a cult of the [[Incarnations]].<ref name="tg-02-crimson-vault-c22" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a location from which [[Talos]] brought a strike force.<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a location where [[Grandmaster Naraka]] was brought.<ref name="tg-02-crimson-vault-c23" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Enosh]] is a location near [[Myria]].<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Alin]] tells [[Simon]] not to take [[Ilana]] to [[Enosh]].<ref name="tg-02-crimson-vault-c25">''The Crimson Vault'', chapter 25</ref>}}</li>
+</ul>
+</div></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|Enosh is a walled city currently being reconstructed to mirror the layout of [[Elysia]], featuring streets where corpses may be left and a [[Violet District]]. While [[Alin]] intends to protect the city and its citizens, those living in his inspection area harbor a deep fear of him. The city serves as the location for both an [[Incarnation]] and the [[Successor]], with various districts providing assistance to [[Alin]]. Despite its importance, Enosh faces significant threats: [[Zakareth]] seeks to crush it, the [[Ragnarus Incarnation]] intends to attack, and the [[King]] plans to lead the nine [[Territories]] against it. Although [[Simon]] believes the city is lost, [[Leah]] considers it a destination, and she later plans to return there with [[Simon]]. Ultimately, the city remains vulnerable to falling, even as its streets shake from [[Grandmaster Naraka]]'s cackle and it remains the only threat to [[Damasca]]'s secure borders.}}
 
-{{spoiler|book=tg-03-city-of-light|[[Zakareth]] intended to crush [[Enosh]].<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a city with walls.<ref name="tg-03-city-of-light-c2" />}}
-{{spoiler|book=tg-03-city-of-light|[[Alin]] intends to protect [[Enosh]].<ref name="tg-03-city-of-light-c2" />}}
-{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a city being reconstructed to replicate the layout of [[Elysia]].<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a destination [[Leah]] is considering.<ref name="tg-03-city-of-light-c7" />}}
-{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a location containing streets where corpses can be left.<ref name="tg-03-city-of-light-c7" />}}
-{{spoiler|book=tg-03-city-of-light|[[Enosh]] citizens live in the area [[Alin]] is inspecting.<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}
-{{spoiler|book=tg-03-city-of-light|The citizens of [[Enosh]] fear [[Alin]].<ref name="tg-03-city-of-light-c10" />}}
-{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a location where the [[Successor]] is located.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Enosh]] contains districts that send help to [[Alin]].<ref name="tg-03-city-of-light-c11" />}}
-{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a location containing an [[Incarnation]].<ref name="tg-03-city-of-light-c12">''City of Light'', chapter 12</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Damasca]]'s borders are secure from all but [[Enosh]].<ref name="tg-03-city-of-light-c18">''City of Light'', chapter 18</ref>}}
-{{spoiler|book=tg-03-city-of-light|The [[King]] intends to lead the nine [[Territories]] against [[Enosh]].<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Leah]] and [[Simon]] plan to go back to [[Enosh]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a city that [[Simon]] believes is lost.<ref name="tg-03-city-of-light-c25" />}}
-{{spoiler|book=tg-03-city-of-light|[[Grandmaster Naraka]]'s cackle was loud enough to shake the streets of [[Enosh]].<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a location the [[Ragnarus Incarnation]] intended to attack.<ref name="tg-03-city-of-light-c26" />}}
-{{spoiler|book=tg-03-city-of-light|[[Enosh]] contains the [[Violet District]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a location that could fall.<ref name="tg-03-city-of-light-c27" />}}
-{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a place from which students can be taken for [[Elysia]].<ref name="tg-03-city-of-light-c28">''City of Light'', chapter 28</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">20</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Zakareth]] intended to crush [[Enosh]].<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a city with walls.<ref name="tg-03-city-of-light-c2" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Alin]] intends to protect [[Enosh]].<ref name="tg-03-city-of-light-c2" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a city being reconstructed to replicate the layout of [[Elysia]].<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a destination [[Leah]] is considering.<ref name="tg-03-city-of-light-c7" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a location containing streets where corpses can be left.<ref name="tg-03-city-of-light-c7" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]] citizens live in the area [[Alin]] is inspecting.<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The citizens of [[Enosh]] fear [[Alin]].<ref name="tg-03-city-of-light-c10" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a location where the [[Successor]] is located.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]] contains districts that send help to [[Alin]].<ref name="tg-03-city-of-light-c11" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a location containing an [[Incarnation]].<ref name="tg-03-city-of-light-c12">''City of Light'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Damasca]]'s borders are secure from all but [[Enosh]].<ref name="tg-03-city-of-light-c18">''City of Light'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The [[King]] intends to lead the nine [[Territories]] against [[Enosh]].<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Leah]] and [[Simon]] plan to go back to [[Enosh]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a city that [[Simon]] believes is lost.<ref name="tg-03-city-of-light-c25" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Grandmaster Naraka]]'s cackle was loud enough to shake the streets of [[Enosh]].<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a location the [[Ragnarus Incarnation]] intended to attack.<ref name="tg-03-city-of-light-c26" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]] contains the [[Violet District]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a location that could fall.<ref name="tg-03-city-of-light-c27" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]] is a place from which students can be taken for [[Elysia]].<ref name="tg-03-city-of-light-c28">''City of Light'', chapter 28</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|"The crystal I planted in Enosh has gone dark."<ref name="tg-02-crimson-vault-c15" />}}

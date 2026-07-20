@@ -6,7 +6,11 @@
 }}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|The golden giant addresses [[Alin]] as 'initiate'.<ref name="tg-01-house-of-blades-c21">''House of Blades'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|The golden giant addresses [[Alin]] as 'initiate'.<ref name="tg-01-house-of-blades-c21">''House of Blades'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|"Initiate," the giant boomed, nodding to Alin.<ref name="tg-01-house-of-blades-c21" />}}

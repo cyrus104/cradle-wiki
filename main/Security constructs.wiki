@@ -6,10 +6,18 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Security constructs]] can use launchers to attack.<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Security constructs]] can use launchers to attack.<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Elder Rahm]] has four oblong security constructs floating behind him.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|[[Elder Rahm]] has four oblong security constructs floating behind him.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

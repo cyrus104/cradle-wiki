@@ -4,14 +4,26 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|[[Mercy's staff]] has a [[dragon]]'s head that snarls and has violet lights for eyes.<ref name="cradle-04-skysworn-c15">''Skysworn'', chapter 15</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|[[Mercy's staff]] has a [[dragon]]'s head that snarls and has violet lights for eyes.<ref name="cradle-04-skysworn-c15">''Skysworn'', chapter 15</ref>}}</li>
+</ul>
+</div></div>
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|[[Mercy]] has a staff made of polished black roots with a [[dragon]] head top.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|[[Mercy]] has a staff made of polished black roots with a [[dragon]] head top.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}</li>
+</ul>
+</div></div>
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|[[Mercy]] possesses a braided black staff.<ref name="cradle-06-underlord-c2">''Underlord'', chapter 2</ref>}}
-{{spoiler|book=cradle-06-underlord|[[Mercy]] used her staff like a walking stick.<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|[[Mercy]] possesses a braided black staff.<ref name="cradle-06-underlord-c2">''Underlord'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Mercy]] used her staff like a walking stick.<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

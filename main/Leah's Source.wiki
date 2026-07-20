@@ -6,7 +6,11 @@
 }}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|[[Leah]] can use her [[Source]] to encase people in solid crystal.<ref name="tg-02-crimson-vault-c21">''The Crimson Vault'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Leah]] can use her [[Source]] to encase people in solid crystal.<ref name="tg-02-crimson-vault-c21">''The Crimson Vault'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -6,10 +6,18 @@
 }}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|[[Simon]] can call upon essence to slow time and fill his lungs with ice-cold light.<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] can call upon essence to slow time and fill his lungs with ice-cold light.<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
+</ul>
+</div></div>
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Simon]] called [[steel]] and essence to flood through him.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Simon]] called [[steel]] and essence to flood through him.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

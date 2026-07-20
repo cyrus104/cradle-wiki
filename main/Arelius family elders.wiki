@@ -6,8 +6,12 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|The elders of the [[Arelius family]] can rein in the Patriarch.<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}
-{{spoiler|book=cradle-04-skysworn|The [[Arelius family elders]] were displeased with [[Eithan]]'s handling of recent matters, specifically [[Lindon]]'s lost duel.<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|The elders of the [[Arelius family]] can rein in the Patriarch.<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The [[Arelius family elders]] were displeased with [[Eithan]]'s handling of recent matters, specifically [[Lindon]]'s lost duel.<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

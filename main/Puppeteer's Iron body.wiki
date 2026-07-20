@@ -6,7 +6,11 @@
 }}
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|[[Puppeteer's Iron body]] provides control over movements.<ref name="cradle-06-underlord-c7">''Underlord'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|[[Puppeteer's Iron body]] provides control over movements.<ref name="cradle-06-underlord-c7">''Underlord'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-06-underlord|"My Puppeteer's Iron body gives me great control over my movements,"<ref name="cradle-06-underlord-c7" />}}

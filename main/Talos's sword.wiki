@@ -6,8 +6,12 @@
 }}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|[[Talos]]'s red-bladed [[sword]] has increased lethality where a single scratch is inevitably fatal.<ref name="tg-02-crimson-vault-c18">''The Crimson Vault'', chapter 18</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Simon]] considers that [[Talos]]' [[sword]] might work to leave deadly wounds.<ref name="tg-02-crimson-vault-c21">''The Crimson Vault'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Talos]]'s red-bladed [[sword]] has increased lethality where a single scratch is inevitably fatal.<ref name="tg-02-crimson-vault-c18">''The Crimson Vault'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] considers that [[Talos]]' [[sword]] might work to leave deadly wounds.<ref name="tg-02-crimson-vault-c21">''The Crimson Vault'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

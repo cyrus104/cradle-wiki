@@ -7,7 +7,11 @@
 }}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Someone called out to Fisher from inside the [[workshop]].<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Someone called out to Fisher from inside the [[workshop]].<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

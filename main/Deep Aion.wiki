@@ -7,17 +7,33 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The Deep [[Aion]] refers to the most dangerous and remote regions of the [[Aion Sea]], a vast and haunted ocean characterized by its supernatural phenomena and immense perils. While the shallow areas of the sea are accessible to common sailors, the deep [[Aion]] is home to ancient [[Elders]], massive leviathans such as [[Deepstriders]], and various other phantoms and monsters. The sea itself was reportedly created following the death of [[Nakothi]], whose final struggles leveled a continent. Navigating these waters requires specialized expertise and unique vessels. The [[Navigator]]'s [[Guild]] utilizes ships constructed with parts of [[Elderspawn]], which allow the vessels to guide their [[Soulbound]] captains through environmental hazards. Because of these extreme dangers, only a limited number of ships in the empire are capable of traversing the deep [[Aion]]. Beyond its biological and physical threats, the sea is a place where power and conflict attract unspeakable creatures, and its depths are said to house legendary figures like [[Kelarac]].}}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Deep Aion]] is a region at the edge of what [[Navigators]] map.<ref name="ee-sea-01-of-sea-and-shadow-c7">''Of Sea and Shadow'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Deep Aion]] is a region at the edge of what [[Navigators]] map.<ref name="ee-sea-01-of-sea-and-shadow-c7">''Of Sea and Shadow'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The deep [[Aion]] is a place where they effectively cannot touch.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The deep [[Aion]] is a place where they effectively cannot touch.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Dawn and Darkness ==
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The deep [[Aion]] is a zone where the ship anchored.<ref name="ee-sea-02-of-dawn-and-darkness-c13">''Of Dawn and Darkness'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The deep [[Aion]] is a zone where the ship anchored.<ref name="ee-sea-02-of-dawn-and-darkness-c13">''Of Dawn and Darkness'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The deep [[Aion]] is a location being explored by [[Jorin]].<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|Only a few dozen ships in the [[Empire]] are capable of traveling the deep [[Aion]].<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The deep [[Aion]] is a location being explored by [[Jorin]].<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Only a few dozen ships in the [[Empire]] are capable of traveling the deep [[Aion]].<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -6,7 +6,11 @@
 }}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Naberius]] clutches an oozing, gray-green heart.<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Naberius]] clutches an oozing, gray-green heart.<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

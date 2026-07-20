@@ -4,11 +4,19 @@
 }}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|[[Synapse nodes]] are organic machines grown by the [[Aethril]] in multi-dimensional gardens.<ref name="lh-01-the-captain-c35">''The Captain'', chapter 35</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|[[Synapse nodes]] are organic machines grown by the [[Aethril]] in multi-dimensional gardens.<ref name="lh-01-the-captain-c35">''The Captain'', chapter 35</ref>}}</li>
+</ul>
+</div></div>
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[Synapse nodes]] are required to restore [[Horizon]] to full glory.<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Synapse nodes]] are contained within the [[Shadow Ark]].<ref name="lh-02-the-engineer-c29">''The Engineer'', chapter 29</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Synapse nodes]] are required to restore [[Horizon]] to full glory.<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Synapse nodes]] are contained within the [[Shadow Ark]].<ref name="lh-02-the-engineer-c29">''The Engineer'', chapter 29</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

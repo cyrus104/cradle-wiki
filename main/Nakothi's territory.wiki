@@ -6,8 +6,12 @@
 }}
 
 == Of Darkness and Dawn ==
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The spider-thing was headed back toward [[Nakothi's territory]].<ref name="ee-shadow-02-of-darkness-and-dawn-c9">''Of Darkness and Dawn'', chapter 9</ref>}}
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The human made a determination before leaving [[Nakothi's territory]].<ref name="ee-shadow-02-of-darkness-and-dawn-c9" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The spider-thing was headed back toward [[Nakothi's territory]].<ref name="ee-shadow-02-of-darkness-and-dawn-c9">''Of Darkness and Dawn'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The human made a determination before leaving [[Nakothi's territory]].<ref name="ee-shadow-02-of-darkness-and-dawn-c9" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

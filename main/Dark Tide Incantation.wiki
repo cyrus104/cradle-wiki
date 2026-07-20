@@ -4,9 +4,13 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Dark Tide Incantation]] is an [[Enforcer technique]] from [[Mercy]]'s second page that carries spiritual and physical weight.<ref name="cradle-08-wintersteel-c5">''Wintersteel'', chapter 5</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Dark Tide Incantation]] uses [[madra]] of shadow and water.<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Dark Tide Incantation]] adds the force of a crashing wave to an attack.<ref name="cradle-08-wintersteel-c16" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Dark Tide Incantation]] is an [[Enforcer technique]] from [[Mercy]]'s second page that carries spiritual and physical weight.<ref name="cradle-08-wintersteel-c5">''Wintersteel'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Dark Tide Incantation]] uses [[madra]] of shadow and water.<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Dark Tide Incantation]] adds the force of a crashing wave to an attack.<ref name="cradle-08-wintersteel-c16" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

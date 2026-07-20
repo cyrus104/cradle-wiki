@@ -6,10 +6,18 @@
 }}
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|Six [[Jai]] Highgolds were spearing a [[Truegold Remnant]] to death.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|Six [[Jai]] Highgolds were spearing a [[Truegold Remnant]] to death.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
+</ul>
+</div></div>
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|The puppet construct was stitched together from [[Truegold Remnant]] parts.<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|The puppet construct was stitched together from [[Truegold Remnant]] parts.<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

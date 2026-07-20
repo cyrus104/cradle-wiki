@@ -6,8 +6,12 @@
 }}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|A [[Lirial Traveler]] has a duty to watch the walls of [[Enosh]].<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Leah]] is a [[Lirial Traveler]].<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|A [[Lirial Traveler]] has a duty to watch the walls of [[Enosh]].<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Leah]] is a [[Lirial Traveler]].<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

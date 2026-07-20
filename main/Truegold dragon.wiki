@@ -7,8 +7,12 @@
 }}
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|A [[Truegold dragon]] lunges at the [[Lady]]'s arm.<ref name="cradle-05-ghostwater-c14">''Ghostwater'', chapter 14</ref>}}
-{{spoiler|book=cradle-05-ghostwater|A [[Truegold dragon]] leaps in front of the [[Underlady]].<ref name="cradle-05-ghostwater-c14" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|A [[Truegold dragon]] lunges at the [[Lady]]'s arm.<ref name="cradle-05-ghostwater-c14">''Ghostwater'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|A [[Truegold dragon]] leaps in front of the [[Underlady]].<ref name="cradle-05-ghostwater-c14" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

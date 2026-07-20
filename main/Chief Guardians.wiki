@@ -8,8 +8,12 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|The three [[Chief Guardians of Dreadnought City]] are Archlords with advanced [[Remnants]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}
-{{spoiler|book=cradle-11-dreadgod|The [[Chief Guardians]]' [[Remnants]] include an eagle of lightning, a blue angular crystal creature, and a [[steel]] fusion of a crab and a praying mantis.<ref name="cradle-11-dreadgod-c3" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|The three [[Chief Guardians of Dreadnought City]] are Archlords with advanced [[Remnants]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Chief Guardians]]' [[Remnants]] include an eagle of lightning, a blue angular crystal creature, and a [[steel]] fusion of a crab and a praying mantis.<ref name="cradle-11-dreadgod-c3" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

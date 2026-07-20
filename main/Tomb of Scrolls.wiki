@@ -4,9 +4,13 @@
 }}
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|The [[Tomb of Scrolls]] is a location containing a main [[library]].<ref name="cradle-13-threshold-c5">''Threshold: Stories from Cradle'', chapter 5</ref>}}
-{{spoiler|book=cradle-13-threshold|The [[Tomb of Scrolls]] contains a main [[library]] that is a tall, vaulted cathedral to knowledge.<ref name="cradle-13-threshold-c5" />}}
-{{spoiler|book=cradle-13-threshold|The [[Tomb of Scrolls]] is a location where [[Mul’Tanak]] stretched out her arms.<ref name="cradle-13-threshold-c5" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The [[Tomb of Scrolls]] is a location containing a main [[library]].<ref name="cradle-13-threshold-c5">''Threshold: Stories from Cradle'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Tomb of Scrolls]] contains a main [[library]] that is a tall, vaulted cathedral to knowledge.<ref name="cradle-13-threshold-c5" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Tomb of Scrolls]] is a location where [[Mul’Tanak]] stretched out her arms.<ref name="cradle-13-threshold-c5" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -9,27 +9,43 @@
 {{spoiler|book=lh-04-the-pilot|[[Aether]] [[Technicians]] are specialized individuals possessing a unique affinity for [[Aethertech]], the advanced technology used throughout the galaxy. While they are not typically known for prowess in direct combat, they play vital roles in maintaining, repairing, and improving complex machinery. Their abilities are often defined by specific "gifts" or talents; for example, some specialize in starship navigation and subspace drives, others in weaponry, material synthesis, or biotech. A prominent example of a specialized gift is the ability to work with androids, allowing for the integration and repair of humanoid robotic systems. [[Technicians]] vary significantly in their capabilities. Master [[Aether]] [[Technicians]] are rare but highly skilled, capable of bypassing standard manufacturing limitations and creating masterwork devices. While humans are considered the species with the greatest talent for creating [[Aethertech]], other species like the [[Karoshan]] possess unique traits; [[Karoshan Technicians]] can modify and improve existing technology but lack the innate ability to create it from scratch. In professional settings, highly skilled [[Technicians]] may serve as Engineers, responsible for awakening drones, managing internal ship systems, and overseeing large-scale repairs. Despite their importance, they are considered valuable targets for capture by groups like the [[Iron Legion]].}}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|[[Tanner Hall]] has a moderate [[Aether Technician]]’s affinity for starships.<ref name="lh-01-the-captain-c21">''The Captain'', chapter 21</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Aether]] [[Technicians]] are wizards with unique spells.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Aether]] [[Technicians]] are professionals who may not be known for single combat abilities.<ref name="lh-01-the-captain-c35">''The Captain'', chapter 35</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|[[Tanner Hall]] has a moderate [[Aether Technician]]’s affinity for starships.<ref name="lh-01-the-captain-c21">''The Captain'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Aether]] [[Technicians]] are wizards with unique spells.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Aether]] [[Technicians]] are professionals who may not be known for single combat abilities.<ref name="lh-01-the-captain-c35">''The Captain'', chapter 35</ref>}}</li>
+</ul>
+</div></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|[[Mell]] is a highly skilled [[Aether]] Technician, a specialized profession characterized by the use of fully contained, masked suits. Recognized as one of the top practitioners in the galaxy, [[Mell]] possesses powerful gifts that can be utilized to influence the features of [[Nova-Bots]]. This individual was created through cloning using the DNA of four different human [[Aether]] [[Technicians]]. Due to their unique abilities, these technicians are hired by the Advocates at competitive rates.}}
 
-{{spoiler|book=lh-02-the-engineer|[[Mell]] is an [[Aether Technician]] with powerful gifts.<ref name="lh-02-the-engineer-c6">''The Engineer'', chapter 6</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Aether]] [[Technicians]] are hired by the Advocates at competitive rates.<ref name="lh-02-the-engineer-c13">''The Engineer'', chapter 13</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Mell]] is considered a top [[Aether Technician]] in the galaxy.<ref name="lh-02-the-engineer-c16">''The Engineer'', chapter 16</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Mell]] was cloned from the DNA of four human [[Aether]] [[Technicians]].<ref name="lh-02-the-engineer-c20">''The Engineer'', chapter 20</ref>}}
-{{spoiler|book=lh-02-the-engineer|An [[Aether Technician]]'s gift can be used to influence the features of [[Nova-Bots]].<ref name="lh-02-the-engineer-c24">''The Engineer'', chapter 24</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Aether]] [[Technicians]] wear fully contained, masked suits.<ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref>}}
-{{spoiler|book=lh-02-the-engineer|An [[Aether Technician]] is a specialized role or profession.<ref name="lh-02-the-engineer-c35">''The Engineer'', chapter 35</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Mell]] is an [[Aether Technician]] with powerful gifts.<ref name="lh-02-the-engineer-c6">''The Engineer'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Aether]] [[Technicians]] are hired by the Advocates at competitive rates.<ref name="lh-02-the-engineer-c13">''The Engineer'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Mell]] is considered a top [[Aether Technician]] in the galaxy.<ref name="lh-02-the-engineer-c16">''The Engineer'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Mell]] was cloned from the DNA of four human [[Aether]] [[Technicians]].<ref name="lh-02-the-engineer-c20">''The Engineer'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|An [[Aether Technician]]'s gift can be used to influence the features of [[Nova-Bots]].<ref name="lh-02-the-engineer-c24">''The Engineer'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Aether]] [[Technicians]] wear fully contained, masked suits.<ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|An [[Aether Technician]] is a specialized role or profession.<ref name="lh-02-the-engineer-c35">''The Engineer'', chapter 35</ref>}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|An [[Aether Technician]] is a role with an affinity for repairs.<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|An [[Aether Technician]] is a role with an affinity for repairs.<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Aether]] [[Technicians]] could potentially get almost anything out of the core components.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Aether]] [[Technicians]] are considered reputable.<ref name="lh-04-the-pilot-c38">''The Pilot'', chapter 38</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Aether]] [[Technicians]] could potentially get almost anything out of the core components.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aether]] [[Technicians]] are considered reputable.<ref name="lh-04-the-pilot-c38">''The Pilot'', chapter 38</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

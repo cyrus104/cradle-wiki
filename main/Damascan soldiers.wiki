@@ -9,22 +9,34 @@
 {{spoiler|book=tg-03-city-of-light|[[Damascan]] soldiers are the military forces of the [[Damascan Kingdom]], often viewed as legendary and formidable entities. They serve as the extensions of their rulers' will and are known for their discipline, frequently fighting in organized ranks or defensive circles. The royal army is distinguished by its red-and-gold uniforms, while other soldiers may wear different colors, such as brown and purple. Their equipment includes spears, shields, swords, and sometimes horses. The troops are capable of significant coordination, utilizing various combat tactics and working alongside [[Travelers]] who can open [[Gates]] or summon powerful forces. In battle, they have been seen engaging in pitched combat against other nations and fighting diverse creatures. While some soldiers appear as seasoned, cold-eyed veterans, others have been depicted as being vulnerable to the overwhelming power of [[Travelers]] or being overwhelmed by local villagers during times of chaos. The military has historically been used to secure the nation's borders and manage its various [[Territories]].}}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|[[Damascan soldiers]] are a group of soldiers that [[Simon]] wonders about in relation to captured children.<ref name="tg-01-house-of-blades-c2">''House of Blades'', chapter 2</ref>}}
-{{spoiler|book=tg-01-house-of-blades|[[Damascan soldiers]] were the captors of the villagers.<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}
-{{spoiler|book=tg-01-house-of-blades|[[Damascan soldiers]] are present in the cave and carry weapons.<ref name="tg-01-house-of-blades-c4" />}}
-{{spoiler|book=tg-01-house-of-blades|[[Damascan soldiers]] are patrolling the streets.<ref name="tg-01-house-of-blades-c17">''House of Blades'', chapter 17</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|[[Damascan soldiers]] are a group of soldiers that [[Simon]] wonders about in relation to captured children.<ref name="tg-01-house-of-blades-c2">''House of Blades'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Damascan soldiers]] were the captors of the villagers.<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Damascan soldiers]] are present in the cave and carry weapons.<ref name="tg-01-house-of-blades-c4" />}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Damascan soldiers]] are patrolling the streets.<ref name="tg-01-house-of-blades-c17">''House of Blades'', chapter 17</ref>}}</li>
+</ul>
+</div></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|During the raid on [[Myria]], [[Damascan]] soldiers were responsible for the death of [[Ilana]]'s betrothed. Throughout subsequent conflicts, they faced opposition from [[Simon]] and engaged in direct combat with [[Nye]]. The troops later marched toward the Gate to confront [[Grandmaster Helgard]]. In a final recorded encounter, these soldiers carried [[Simon]].}}
 
-{{spoiler|book=tg-02-crimson-vault|[[Damascan soldiers]] killed [[Ilana]]'s betrothed during the raid on [[Myria]].<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Simon]] has killed some [[Damascan soldiers]].<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Damascan]] troops are engaged in combat with [[Nye]].<ref name="tg-02-crimson-vault-c9" />}}
-{{spoiler|book=tg-02-crimson-vault|[[Damascan soldiers]] were marching up to meet [[Grandmaster Helgard]] at the Gate.<ref name="tg-02-crimson-vault-c19">''The Crimson Vault'', chapter 19</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Damascan soldiers]] carried [[Simon]].<ref name="tg-02-crimson-vault-c21">''The Crimson Vault'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Damascan soldiers]] killed [[Ilana]]'s betrothed during the raid on [[Myria]].<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] has killed some [[Damascan soldiers]].<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Damascan]] troops are engaged in combat with [[Nye]].<ref name="tg-02-crimson-vault-c9" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Damascan soldiers]] were marching up to meet [[Grandmaster Helgard]] at the Gate.<ref name="tg-02-crimson-vault-c19">''The Crimson Vault'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Damascan soldiers]] carried [[Simon]].<ref name="tg-02-crimson-vault-c21">''The Crimson Vault'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Erastes]] is considered the perfect image of a [[Damascan]] soldier.<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Erastes]] is considered the perfect image of a [[Damascan]] soldier.<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

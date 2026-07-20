@@ -6,12 +6,20 @@
 }}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Windwatcher is a creature that glides through the air using wind currents.<ref name="ee-sea-01-of-sea-and-shadow-c2">''Of Sea and Shadow'', chapter 2</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Windwatcher is a vessel used by [[General Teach]].<ref name="ee-sea-01-of-sea-and-shadow-c16">''Of Sea and Shadow'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Windwatcher is a creature that glides through the air using wind currents.<ref name="ee-sea-01-of-sea-and-shadow-c2">''Of Sea and Shadow'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Windwatcher is a vessel used by [[General Teach]].<ref name="ee-sea-01-of-sea-and-shadow-c16">''Of Sea and Shadow'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Dawn and Darkness ==
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Windwatcher is [[General Teach]]'s personal [[Kameira]].<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Windwatcher was a [[Kameira]] that is now dead.<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Windwatcher is [[General Teach]]'s personal [[Kameira]].<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Windwatcher was a [[Kameira]] that is now dead.<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

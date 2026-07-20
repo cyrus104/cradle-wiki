@@ -7,9 +7,13 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|The [[Colossal Moon-eater]] is a flying sacred beast with blood [[aura]] that has an aspect of preservation.<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}
-{{spoiler|book=cradle-11-dreadgod|The [[Colossal Moon-eater]] carries a small town strapped to its back.<ref name="cradle-11-dreadgod-c22" />}}
-{{spoiler|book=cradle-11-dreadgod|The Moon-eater possesses authority that could affect transportation out of a location.<ref name="cradle-11-dreadgod-c22" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Colossal Moon-eater]] is a flying sacred beast with blood [[aura]] that has an aspect of preservation.<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Colossal Moon-eater]] carries a small town strapped to its back.<ref name="cradle-11-dreadgod-c22" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The Moon-eater possesses authority that could affect transportation out of a location.<ref name="cradle-11-dreadgod-c22" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

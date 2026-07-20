@@ -6,8 +6,12 @@
 }}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The [[Silent King’s Crown]] expanded over [[Lindon]]'s head.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Lindon]] wears a burning white halo which is the crown of the [[Silent King]].<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The [[Silent King’s Crown]] expanded over [[Lindon]]'s head.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] wears a burning white halo which is the crown of the [[Silent King]].<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

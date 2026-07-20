@@ -6,8 +6,12 @@
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|A [[Gatekeeper]] is a role [[Shadow Ark]] seeks to find to begin integrating planets into his internal system.<ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Gatekeeper]] of [[Shadow Ark]] must have the power to defend those they protect and be a champion of his inhabitants.<ref name="lh-03-the-knight-c17" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|A [[Gatekeeper]] is a role [[Shadow Ark]] seeks to find to begin integrating planets into his internal system.<ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Gatekeeper]] of [[Shadow Ark]] must have the power to defend those they protect and be a champion of his inhabitants.<ref name="lh-03-the-knight-c17" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

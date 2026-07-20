@@ -6,10 +6,18 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|There are thirteen [[Phantom Islands]].<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|There are thirteen [[Phantom Islands]].<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|The [[Phantom Islands]] is a location outside [[Moongrave]] that [[Mercy's mother]] created for [[Charity]]’s training.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Phantom Islands]] is a location outside [[Moongrave]] that [[Mercy's mother]] created for [[Charity]]’s training.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

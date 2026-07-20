@@ -6,10 +6,18 @@
 }}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Gardener training]] dictates certain actions.<ref name="ee-shadow-01-of-shadow-and-sea-c22">''Of Shadow and Sea'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Gardener training]] dictates certain actions.<ref name="ee-shadow-01-of-shadow-and-sea-c22">''Of Shadow and Sea'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Darkness and Dawn ==
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Shera]] has undergone years of [[Gardener training]].<ref name="ee-shadow-02-of-darkness-and-dawn-c3">''Of Darkness and Dawn'', chapter 3</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Shera]] has undergone years of [[Gardener training]].<ref name="ee-shadow-02-of-darkness-and-dawn-c3">''Of Darkness and Dawn'', chapter 3</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

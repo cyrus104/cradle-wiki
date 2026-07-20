@@ -4,11 +4,19 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|[[The Bounding Gazelle]] is a model of a full-sized cloudship produced by [[Reigan Shen]]'s [[Soulsmiths]].<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|[[The Bounding Gazelle]] is a model of a full-sized cloudship produced by [[Reigan Shen]]'s [[Soulsmiths]].<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[The Bounding Gazelle]] is [[Eithan's cloudship]].<ref name="cradle-09-bloodline-c15">''Bloodline'', chapter 15</ref>}}
-{{spoiler|book=cradle-09-bloodline|[[The Bounding Gazelle]] is a high performance cloudship.<ref name="cradle-09-bloodline-c16">''Bloodline'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|[[The Bounding Gazelle]] is [[Eithan's cloudship]].<ref name="cradle-09-bloodline-c15">''Bloodline'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[The Bounding Gazelle]] is a high performance cloudship.<ref name="cradle-09-bloodline-c16">''Bloodline'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-07-uncrowned|"This is a model of a full-sized cloudship, The Bounding Gazelle, among the fastest my Soulsmiths have ever produced."<ref name="cradle-07-uncrowned-c19" />}}

@@ -6,8 +6,12 @@
 }}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|The [[Pillar of Sunset]] is a column of smoldering red and black stone.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}
-{{spoiler|book=tg-03-city-of-light|The [[Pillar of Sunset]] has a red-and-black marbled surface and pulses with living heat.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|The [[Pillar of Sunset]] is a column of smoldering red and black stone.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The [[Pillar of Sunset]] has a red-and-black marbled surface and pulses with living heat.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

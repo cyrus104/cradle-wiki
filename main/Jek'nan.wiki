@@ -11,15 +11,19 @@
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Known as the [[Flourishing Disease]], Jek'nan is a [[Fiend]] possessing branches and an ability to scream at frequencies imperceptible to technology. Having observed humans for centuries, this entity has already devoured thousands of them. Jek'nan is stronger than a single [[Wolf]] and can hold its own against a squad of four average [[Wolves]]. Driven by the intent to digest fragments of an [[Iteration]], the [[Fiend]] plans to strike as soon as the [[Way]] weakens.}}
 
-{{spoiler|book=cradle-13-threshold|[[Jek'nan]] is a [[Fiend]] known as the [[Flourishing Disease]].<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}
-{{spoiler|book=cradle-13-threshold|[[Jek'nan]] is stronger than the [[Wolf]].<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|[[Jek'nan]] is an even match for a squad of four average [[Wolves]].<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|[[Jek'nan]] intends to digest fragments of an [[Iteration]].<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|[[Jek'nan]] plans to strike the moment the [[Way]] weakens.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|[[Jek'nan]] screams in frequencies that technology cannot perceive.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|[[Jek'nan]] is a [[Fiend]].<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|[[Jek'nan]] has branches.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|[[Jek'nan]] has observed humans for centuries and devoured thousands.<ref name="cradle-13-threshold-c6" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[Jek'nan]] is a [[Fiend]] known as the [[Flourishing Disease]].<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Jek'nan]] is stronger than the [[Wolf]].<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Jek'nan]] is an even match for a squad of four average [[Wolves]].<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Jek'nan]] intends to digest fragments of an [[Iteration]].<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Jek'nan]] plans to strike the moment the [[Way]] weakens.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Jek'nan]] screams in frequencies that technology cannot perceive.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Jek'nan]] is a [[Fiend]].<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Jek'nan]] has branches.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Jek'nan]] has observed humans for centuries and devoured thousands.<ref name="cradle-13-threshold-c6" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

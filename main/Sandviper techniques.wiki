@@ -4,11 +4,19 @@
 }}
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|[[Sandviper techniques]] are used on prisoner flesh.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|[[Sandviper techniques]] are used on prisoner flesh.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|[[Sandviper techniques]] produce an acid-green glow.<ref name="cradle-03-blackflame-c4">''Blackflame'', chapter 4</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Sandviper techniques]] use caustic [[madra]] to melt wood.<ref name="cradle-03-blackflame-c4" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|[[Sandviper techniques]] produce an acid-green glow.<ref name="cradle-03-blackflame-c4">''Blackflame'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Sandviper techniques]] use caustic [[madra]] to melt wood.<ref name="cradle-03-blackflame-c4" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

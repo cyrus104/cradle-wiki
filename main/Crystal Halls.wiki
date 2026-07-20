@@ -6,8 +6,12 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|The [[Crystal Halls]] is [[Iri]]'s stronghold.<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The [[Crystal Halls]] is a palace of fluted blue crystal carved from an astronomically large [[diamond]].<ref name="cradle-07-uncrowned-c18" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Crystal Halls]] is [[Iri]]'s stronghold.<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Crystal Halls]] is a palace of fluted blue crystal carved from an astronomically large [[diamond]].<ref name="cradle-07-uncrowned-c18" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

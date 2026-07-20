@@ -6,7 +6,11 @@
 }}
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|The third step to [[Underlord]] is using [[soulfire]] to re-forge the body.<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|The third step to [[Underlord]] is using [[soulfire]] to re-forge the body.<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-06-underlord|“And for the third and final step,” Eithan went on, “you must call upon your soulfire to re-forge your body.<ref name="cradle-06-underlord-c5" />}}

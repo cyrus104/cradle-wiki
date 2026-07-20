@@ -4,12 +4,20 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|The [[Akura Underlords]] are young, purple-eyed individuals.<ref name="cradle-07-uncrowned-c3">''Uncrowned'', chapter 3</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The [[Akura Underlords]] are a group within the [[Akura clan]].<ref name="cradle-07-uncrowned-c3" />}}
-{{spoiler|book=cradle-07-uncrowned|Five different [[Akura Underlords]] challenged [[Lindon]] to duels.<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Akura Underlords]] are young, purple-eyed individuals.<ref name="cradle-07-uncrowned-c3">''Uncrowned'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Akura Underlords]] are a group within the [[Akura clan]].<ref name="cradle-07-uncrowned-c3" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|Five different [[Akura Underlords]] challenged [[Lindon]] to duels.<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Akura Underlords]] were not bothered by the cultist priest's attack.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Akura Underlords]] were not bothered by the cultist priest's attack.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

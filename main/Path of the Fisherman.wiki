@@ -6,8 +6,12 @@
 }}
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|The [[Path of the Fisherman]] is a known [[Path]].<ref name="cradle-02-soulsmith-c10">''Soulsmith'', chapter 10</ref>}}
-{{spoiler|book=cradle-02-soulsmith|The [[Path of the Fisherman]] is followed by the [[Fishers]].<ref name="cradle-02-soulsmith-c10" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Path of the Fisherman]] is a known [[Path]].<ref name="cradle-02-soulsmith-c10">''Soulsmith'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Path of the Fisherman]] is followed by the [[Fishers]].<ref name="cradle-02-soulsmith-c10" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

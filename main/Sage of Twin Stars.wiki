@@ -5,12 +5,20 @@
 }}
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|The [[Sage of Twin Stars]] is associated with the [[Akura clan]].<ref name="cradle-09-bloodline-c10">''Bloodline'', chapter 10</ref>}}
-{{spoiler|book=cradle-09-bloodline|[[Sage of Twin Stars]] is a title or classification [[Jai Long]] attributes to [[Lindon]].<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}
-{{spoiler|book=cradle-09-bloodline|[[Jai Chen]] claimed they were sent by the [[Sage of Twin Stars]].<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|The [[Sage of Twin Stars]] is associated with the [[Akura clan]].<ref name="cradle-09-bloodline-c10">''Bloodline'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Sage of Twin Stars]] is a title or classification [[Jai Long]] attributes to [[Lindon]].<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Jai Chen]] claimed they were sent by the [[Sage of Twin Stars]].<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|The [[Sage of Twin Stars]] is the founder and Patriarch of the [[Sect of Twin Stars]].<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|The [[Sage of Twin Stars]] is the founder and Patriarch of the [[Sect of Twin Stars]].<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-09-bloodline|“We were sent here by the Sage of Twin Stars,” Jai Chen said.<ref name="cradle-09-bloodline-c21" />}}

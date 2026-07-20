@@ -7,15 +7,27 @@
 {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Awakened objects]] are powerful items created through a mysterious and poorly understood process known as [[Awakening]]. This method is used to produce many of the most potent weapons in the Empire, as well as [[Soulbound]] entities. While anyone is capable of using an [[Awakened]] weapon, only a [[Soulbound]] can wield its power without restriction. Some weapons are so significant that they allow a user to act as a bridge between the [[Emperor's power]] and other forces, or even enable a person to bind their soul to an ancient object forged with imperial power. These weapons possess diverse and often destructive properties. Some blades feature orange-and-black mottled [[steel]] that emits a corrosive energy, capable of dissolving lesser [[Elderspawn]] into black sludge or melting solid structures. Other [[Awakened items]] may be characterized by a corrupting, rotting quality that can blight forests, or they may possess an icy, crystalline appearance. Certain weapons are uniquely ancient, predating the Empire itself, and may have the capacity to steal power, break any defense, or harvest lives of immense significance. The energy within these objects is often described as a form of [[Intent]] that can be felt or sensed by others.}}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|An [[Awakened]] blade is a type of weapon that can hold [[Intent]].<ref name="ee-sea-01-of-sea-and-shadow-c25">''Of Sea and Shadow'', chapter 25</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|An [[Awakened]] blade is a type of weapon that can hold [[Intent]].<ref name="ee-sea-01-of-sea-and-shadow-c25">''Of Sea and Shadow'', chapter 25</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Dawn and Darkness ==
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] possesses an [[Awakened]] blade granted through a deal with a [[Great Elder]].<ref name="ee-sea-02-of-dawn-and-darkness-c2">''Of Dawn and Darkness'', chapter 2</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|An [[Awakened]] blade can reduce lesser [[Elders]] to black sludge with a single cut.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]]'s [[Awakened]] blade has orange-and-black mottled [[steel]] and corrosive [[Intent]].<ref name="ee-sea-02-of-dawn-and-darkness-c10">''Of Dawn and Darkness'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] possesses an [[Awakened]] blade granted through a deal with a [[Great Elder]].<ref name="ee-sea-02-of-dawn-and-darkness-c2">''Of Dawn and Darkness'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|An [[Awakened]] blade can reduce lesser [[Elders]] to black sludge with a single cut.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]]'s [[Awakened]] blade has orange-and-black mottled [[steel]] and corrosive [[Intent]].<ref name="ee-sea-02-of-dawn-and-darkness-c10">''Of Dawn and Darkness'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Kings and Killers ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The power of the [[Awakened]] blade corrodes [[Elders]] and dissolves [[Elderspawn]] immediately.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The power of the [[Awakened]] blade corrodes [[Elders]] and dissolves [[Elderspawn]] immediately.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

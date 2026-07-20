@@ -7,15 +7,27 @@
 {{spoiler|book=tg-03-city-of-light|An [[Endross]] Gate serves as a portal connecting the current world to the [[Territory]] of [[Endross]], a brutal desert wasteland characterized by extreme weather and dangerous predators. These gates manifest as swirling, angry thunderstorms that can appear in a person's palm or hang in midair. A unique property of these gates is that they increase in size and potency the longer they remain open, providing the user with more power. However, this growth presents a significant danger; if a traveler loses control, the [[gate]] can become unstable and explode, consuming the user in its power. While travelers use these openings to access their home territory or summon creatures from it, the gates can also be forcibly reopened by gatecrawlers shortly after they have been closed.}}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|An [[Endross Gate]] is a rift between worlds that grows larger and more powerful the longer it remains open.<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}
-{{spoiler|book=tg-01-house-of-blades|If an [[Endross Gate]] becomes too powerful, it can go wild and unleash the full power of [[Endross]] without the user's control.<ref name="tg-01-house-of-blades-c4" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|An [[Endross Gate]] is a rift between worlds that grows larger and more powerful the longer it remains open.<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|If an [[Endross Gate]] becomes too powerful, it can go wild and unleash the full power of [[Endross]] without the user's control.<ref name="tg-01-house-of-blades-c4" />}}</li>
+</ul>
+</div></div>
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|The [[Endross Gate]] is a location [[Valin]] keeps in view.<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}
-{{spoiler|book=tg-02-crimson-vault|An [[Endross Gate]] can explode if it gets out of a [[Traveler]]'s grip.<ref name="tg-02-crimson-vault-c21">''The Crimson Vault'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Endross Gate]] is a location [[Valin]] keeps in view.<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|An [[Endross Gate]] can explode if it gets out of a [[Traveler]]'s grip.<ref name="tg-02-crimson-vault-c21">''The Crimson Vault'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|The four remaining [[Incarnations]] piled out of the [[Endross Gate]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|The four remaining [[Incarnations]] piled out of the [[Endross Gate]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

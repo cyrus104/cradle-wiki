@@ -6,7 +6,11 @@
 }}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Indirial]] can call upon diamond to clarify the world and lift the weight on his thoughts.<ref name="tg-03-city-of-light-c19">''City of Light'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Indirial]] can call upon diamond to clarify the world and lift the weight on his thoughts.<ref name="tg-03-city-of-light-c19">''City of Light'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

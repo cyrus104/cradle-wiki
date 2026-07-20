@@ -7,7 +7,11 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|[[Mo She]] is a skeletal man with mismatched eyes; one milky white and the other green [[jade]].<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|[[Mo She]] is a skeletal man with mismatched eyes; one milky white and the other green [[jade]].<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

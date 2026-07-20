@@ -6,7 +6,11 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|The [[Path of the Last Leaf]] is a school whose [[sacred arts]] turn trees into deadly weapons.<ref name="cradle-04-skysworn-c8">''Skysworn'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|The [[Path of the Last Leaf]] is a school whose [[sacred arts]] turn trees into deadly weapons.<ref name="cradle-04-skysworn-c8">''Skysworn'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

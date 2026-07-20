@@ -7,14 +7,22 @@
 {{spoiler|book=cradle-06-underlord|Starsweep Tower serves as the primary headquarters for the [[Skysworn]]. It is located at the center of [[Stormrock]], a massive flying city built upon a green cloudbank. The tower is a dominant structure that rises above the other obsidian buildings within the city. It contains various specialized facilities reserved exclusively for [[Skysworn]] members and their trainees, including numerous meeting rooms used for diverse purposes such as administrative tasks, interrogations, and social gatherings. The tower also provides living quarters for those within the organization, with higher-ranking members receiving superior accommodations compared to trainees. Additionally, the tower features a stone docking platform at its highest level to accommodate arriving cloudships.}}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|The [[Starsweep Tower]] is a facility in [[Stormrock]] exclusive to [[Skysworn]] and trainees.<ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref>}}
-{{spoiler|book=cradle-04-skysworn|[[Starsweep Tower]] has facilities.<ref name="cradle-04-skysworn-c10" />}}
-{{spoiler|book=cradle-04-skysworn|The [[Starsweep Tower]] is located at the center of [[Stormrock]].<ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref>}}
-{{spoiler|book=cradle-04-skysworn|[[Starsweep Tower]] is an enormous cloudship.<ref name="cradle-04-skysworn-c11" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|The [[Starsweep Tower]] is a facility in [[Stormrock]] exclusive to [[Skysworn]] and trainees.<ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Starsweep Tower]] has facilities.<ref name="cradle-04-skysworn-c10" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The [[Starsweep Tower]] is located at the center of [[Stormrock]].<ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Starsweep Tower]] is an enormous cloudship.<ref name="cradle-04-skysworn-c11" />}}</li>
+</ul>
+</div></div>
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|[[Starsweep Tower]] is the headquarters of the [[Skysworn]].<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}
-{{spoiler|book=cradle-06-underlord|[[Lindon]] and his team landed on [[Starsweep Tower]].<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|[[Starsweep Tower]] is the headquarters of the [[Skysworn]].<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Lindon]] and his team landed on [[Starsweep Tower]].<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-04-skysworn|“All these facilities are exclusive for Skysworn and trainees. ... let me tell you about the Starsweep Tower.<ref name="cradle-04-skysworn-c10" />}}

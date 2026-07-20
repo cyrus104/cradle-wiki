@@ -4,14 +4,26 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|[[Akura Grace]] failed to bond with any of the [[Books of Seven Pages]].<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Akura Grace]] failed to bond with any of the [[Books of Seven Pages]].<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|The Book of Seven Pages is a book [[Lindon]] was interested in.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}
-{{spoiler|book=cradle-11-dreadgod|The [[Books of Seven Pages]] are kept in a [[library]].<ref name="cradle-11-dreadgod-c12">''Dreadgod'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|The Book of Seven Pages is a book [[Lindon]] was interested in.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Books of Seven Pages]] are kept in a [[library]].<ref name="cradle-11-dreadgod-c12">''Dreadgod'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|The Book of Seven Pages is an item [[Pride]] uses to fill himself with power.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The Book of Seven Pages is an item [[Pride]] uses to fill himself with power.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

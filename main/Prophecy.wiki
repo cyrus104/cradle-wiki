@@ -6,7 +6,11 @@
 }}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|A prophecy states that [[Eliadel]] will confront the Evening [[Star]] and stem the tide of blood so the Gate of the Heavens may open again.<ref name="tg-01-house-of-blades-c16">''House of Blades'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|A prophecy states that [[Eliadel]] will confront the Evening [[Star]] and stem the tide of blood so the Gate of the Heavens may open again.<ref name="tg-01-house-of-blades-c16">''House of Blades'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|"Confront the Evening Star, and stem the tide of blood so the Gate of the Heavens may open once again,"<ref name="tg-01-house-of-blades-c16" />}}

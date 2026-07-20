@@ -4,13 +4,25 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|[[Iterations]] are represented as white spots on the map of the [[Way]].<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Iterations]] are represented as white spots on the map of the [[Way]].<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Executors]] are sent into [[Iterations]] on the verge of destruction.<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Executors]] are sent into [[Iterations]] on the verge of destruction.<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|[[Foxes]] allow travel between and within [[Iterations]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[Foxes]] allow travel between and within [[Iterations]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

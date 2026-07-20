@@ -6,7 +6,11 @@
 }}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|[[Alin]] gave [[Simon]] a device that looks like a little acorn trapped in a delicate golden birdcage.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Alin]] gave [[Simon]] a device that looks like a little acorn trapped in a delicate golden birdcage.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

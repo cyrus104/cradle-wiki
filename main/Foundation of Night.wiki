@@ -6,7 +6,11 @@
 }}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|'[[Foundation of Night]]' is a piece of literature written by an ancient [[Architect]] regarding the foundation of the [[Guild]].<ref name="ee-shadow-01-of-shadow-and-sea-c5">''Of Shadow and Sea'', chapter 5</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|'[[Foundation of Night]]' is a piece of literature written by an ancient [[Architect]] regarding the foundation of the [[Guild]].<ref name="ee-shadow-01-of-shadow-and-sea-c5">''Of Shadow and Sea'', chapter 5</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“A quote from Foundation of Night,” Zhen explained to Shera. “Written by an ancient Architect regarding the foundation of our Guild.<ref name="ee-shadow-01-of-shadow-and-sea-c5" />}}

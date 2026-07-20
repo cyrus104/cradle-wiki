@@ -6,8 +6,12 @@
 }}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|The soldiers in the camp wear red-and-gold clothes which is the uniform of the [[Damascan royal army]].<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}
-{{spoiler|book=tg-02-crimson-vault|The [[Damascan royal army]] has a camp where [[Leah]] was found.<ref name="tg-02-crimson-vault-c22">''The Crimson Vault'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|The soldiers in the camp wear red-and-gold clothes which is the uniform of the [[Damascan royal army]].<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Damascan royal army]] has a camp where [[Leah]] was found.<ref name="tg-02-crimson-vault-c22">''The Crimson Vault'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -7,8 +7,12 @@
 }}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Yenzir]] was an [[Izyrian]] strategist.<ref name="ee-sea-01-of-sea-and-shadow-c18">''Of Sea and Shadow'', chapter 18</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Yenzir]] has famous quotes.<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Yenzir]] was an [[Izyrian]] strategist.<ref name="ee-sea-01-of-sea-and-shadow-c18">''Of Sea and Shadow'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Yenzir]] has famous quotes.<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|One of Yenzir’s most famous quotes: “While Honor has never won a single battle, Deceit wins wars.”<ref name="ee-sea-01-of-sea-and-shadow-c23" />}}

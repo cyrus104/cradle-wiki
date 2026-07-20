@@ -4,9 +4,13 @@
 }}
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|[[OTEP]] is a system or entity [[Lindon]] can command to show stories.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}
-{{spoiler|book=cradle-13-threshold|[[OTEP]] was created through a cooperation between [[Abidan]] craftsmen and the [[Vroshir]].<ref name="cradle-13-threshold-c12" />}}
-{{spoiler|book=cradle-13-threshold|[[OTEP]] is a character who questioned [[Eithan]]'s rudeness.<ref name="cradle-13-threshold-c12" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[OTEP]] is a system or entity [[Lindon]] can command to show stories.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[OTEP]] was created through a cooperation between [[Abidan]] craftsmen and the [[Vroshir]].<ref name="cradle-13-threshold-c12" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[OTEP]] is a character who questioned [[Eithan]]'s rudeness.<ref name="cradle-13-threshold-c12" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

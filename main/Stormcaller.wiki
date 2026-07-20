@@ -7,10 +7,18 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|The [[Stormcaller]] is a member of the [[Cult of the Weeping Dragon]].<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Stormcaller]] is a member of the [[Cult of the Weeping Dragon]].<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|The parasite almost beat the [[Stormcaller]] on its own.<ref name="cradle-08-wintersteel-c18">''Wintersteel'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|The parasite almost beat the [[Stormcaller]] on its own.<ref name="cradle-08-wintersteel-c18">''Wintersteel'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|“It almost beat the Stormcaller on its own!”<ref name="cradle-08-wintersteel-c18" />}}

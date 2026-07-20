@@ -7,15 +7,27 @@
 {{spoiler|book=lh-03-the-knight|The Commander is a specialized role within the fleet that serves as its central point of operation. This position is responsible for managing tactical systems, such as sensors and fighter or shuttle coordination, to enhance the overall performance of vessels. While a Commander provides significant benefits by improving target capabilities and general ship efficiency, the role does not hold higher rank than a [[Captain]]. In certain contexts, such as aboard [[The Last Horizon]], the Commander is specifically tasked with leading fleets to new heights and may be assigned to oversee fleet-command systems. Individual holders of this title include [[Nelthan]], who provides stability during crises, and Kelthriss, who has been assigned command of specific units like [[the Perfected]]. The role is vital for strategic success, though some individuals in this position may defer to others for specific battlefield decisions.}}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|The [[Commander]] commands fighters and shuttles and improves sensors and tactical systems.<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Commander]] is one of the dark tablets on the ship's walls.<ref name="lh-01-the-captain-c41">''The Captain'', chapter 41</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|The [[Commander]] commands fighters and shuttles and improves sensors and tactical systems.<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Commander]] is one of the dark tablets on the ship's walls.<ref name="lh-01-the-captain-c41">''The Captain'', chapter 41</ref>}}</li>
+</ul>
+</div></div>
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|The [[Commander]] role is reserved for Shyrax.<ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref>}}
-{{spoiler|book=lh-02-the-engineer|The [[Commander]] does not outrank the [[Captain]] on [[The Last Horizon]].<ref name="lh-02-the-engineer-c5" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|The [[Commander]] role is reserved for Shyrax.<ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Commander]] does not outrank the [[Captain]] on [[The Last Horizon]].<ref name="lh-02-the-engineer-c5" />}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|Shyrax is addressed as [[Commander]] by the narrator.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|Shyrax is addressed as [[Commander]] by the narrator.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|“That,” Horizon said, “is why we have reserved for you the role of the Commander.”<ref name="lh-02-the-engineer-c5" />}}

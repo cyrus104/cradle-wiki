@@ -6,8 +6,12 @@
 }}
 
 == Unsouled ==
-{{spoiler|book=cradle-01-unsouled|The [[Clan Hall]] is where young Wei souls are tested.<ref name="cradle-01-unsouled-c3">''Unsouled'', chapter 3</ref>}}
-{{spoiler|book=cradle-01-unsouled|The [[Clan Hall]] contains a stone fox statue.<ref name="cradle-01-unsouled-c3" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-01-unsouled|The [[Clan Hall]] is where young Wei souls are tested.<ref name="cradle-01-unsouled-c3">''Unsouled'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[Clan Hall]] contains a stone fox statue.<ref name="cradle-01-unsouled-c3" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

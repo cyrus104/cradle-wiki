@@ -5,12 +5,20 @@
 }}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|The [[Yellow Knight]] was swallowed whole by a planet-sized insect.<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|The [[Yellow Knight]] was swallowed whole by a planet-sized insect.<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|The [[Yellow Knight]] is [[Javik Leed]].<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Yellow Knight]] retired.<ref name="lh-03-the-knight-c34">''The Knight'', chapter 34</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Yellow Knight]] provides fire support.<ref name="lh-03-the-knight-c43">''The Knight'', chapter 43</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|The [[Yellow Knight]] is [[Javik Leed]].<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Yellow Knight]] retired.<ref name="lh-03-the-knight-c34">''The Knight'', chapter 34</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Yellow Knight]] provides fire support.<ref name="lh-03-the-knight-c43">''The Knight'', chapter 43</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -6,7 +6,11 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|The four beasts on the stone door are a coiling [[dragon]], a phoenix, an armored warrior with a turtle shell, and a tiger.<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|The four beasts on the stone door are a coiling [[dragon]], a phoenix, an armored warrior with a turtle shell, and a tiger.<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

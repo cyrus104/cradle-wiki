@@ -6,8 +6,12 @@
 }}
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|[[The Eighth Division]] of the [[Abidan]] is currently made up of only three official members and a [[Judge]].<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}
-{{spoiler|book=cradle-13-threshold|[[The Eighth Division]]'s reputation is currently in question.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[The Eighth Division]] of the [[Abidan]] is currently made up of only three official members and a [[Judge]].<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[The Eighth Division]]'s reputation is currently in question.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

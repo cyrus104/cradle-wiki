@@ -7,7 +7,11 @@
 }}
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|[[Eithan]] attempted to override [[Ozriel zero-zero-eight]].<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[Eithan]] attempted to override [[Ozriel zero-zero-eight]].<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-13-threshold|“OTEP, from where do you get your information? Override Ozriel zero-zero-eight.”<ref name="cradle-13-threshold-c12" />}}

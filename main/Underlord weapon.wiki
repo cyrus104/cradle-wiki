@@ -6,10 +6,18 @@
 }}
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|The axe used by [[Harmony]] is an [[Underlord weapon]].<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|The axe used by [[Harmony]] is an [[Underlord weapon]].<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|An [[Underlord weapon]] is noted to produce better results than an unsuitable [[Archlord weapon]].<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|An [[Underlord weapon]] is noted to produce better results than an unsuitable [[Archlord weapon]].<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-07-uncrowned|"...although allow me to caution you that an Underlord weapon suited for you will produce far better results than an unsuitable Archlord weapon."<ref name="cradle-07-uncrowned-c15" />}}

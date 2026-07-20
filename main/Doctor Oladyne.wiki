@@ -6,10 +6,14 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Doctor Oladyne]] is a famous [[Aether Technician]] known for synthesizing materials.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Doctor Oladyne]] is a massive man who was found in a hangar near his ship.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Doctor Oladyne]] was surgically implanted with an explosive device.<ref name="lh-04-the-pilot-c4" />}}
-{{spoiler|book=lh-04-the-pilot|[[Doctor Oladyne]] might have had an explosive device installed himself.<ref name="lh-04-the-pilot-c4" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Doctor Oladyne]] is a famous [[Aether Technician]] known for synthesizing materials.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Doctor Oladyne]] is a massive man who was found in a hangar near his ship.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Doctor Oladyne]] was surgically implanted with an explosive device.<ref name="lh-04-the-pilot-c4" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Doctor Oladyne]] might have had an explosive device installed himself.<ref name="lh-04-the-pilot-c4" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

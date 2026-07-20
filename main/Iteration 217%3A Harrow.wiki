@@ -6,8 +6,12 @@
 }}
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|[[Iteration]] 217 is named [[Harrow]] and is a desert.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Iteration]] 217 is named [[Harrow]].<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|[[Iteration]] 217 is named [[Harrow]] and is a desert.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Iteration]] 217 is named [[Harrow]].<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

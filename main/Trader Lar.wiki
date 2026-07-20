@@ -7,7 +7,11 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Trader Lar]] is a merchant who provides water, fuel, ammo, guns, parts, tools, and cargo.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Trader Lar]] is a merchant who provides water, fuel, ammo, guns, parts, tools, and cargo.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“You missing water, fuel, ammo, or guns?” I recited. “You need new parts, polished tools, or better Subline reception? Spare cargo you need to turn into standards? Trader Lar’s got you covered!”<ref name="lh-04-the-pilot-c37" />}}

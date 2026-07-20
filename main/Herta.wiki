@@ -12,11 +12,15 @@
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Herta is a young woman of a minor species characterized by wide eyes, an over-inflated head, and long fingers and limbs. Serving as the assistant to [[Doctor Elios]], she also works as a virus technician and a journeyman prosthetic technician. Eventually, her likeness is lost from [[Omal]]'s collection, as he can no longer see her picture.}}
 
-{{spoiler|book=lh-04-the-pilot|[[Herta]] is [[Doctor Elios]]'s assistant.<ref name="lh-04-the-pilot-c13">''The Pilot'', chapter 13</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Herta]] is a young woman of a minor species with long limbs and fingers, an over-inflated head, and wide eyes.<ref name="lh-04-the-pilot-c13" />}}
-{{spoiler|book=lh-04-the-pilot|[[Herta]] is a journeyman prosthetic Technician.<ref name="lh-04-the-pilot-c17">''The Pilot'', chapter 17</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Herta]] is a virus Technician.<ref name="lh-04-the-pilot-c17" />}}
-{{spoiler|book=lh-04-the-pilot|[[Herta]] is a person whose picture [[Omal]] can no longer see in his collection.<ref name="lh-04-the-pilot-c33">''The Pilot'', chapter 33</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Herta]] is [[Doctor Elios]]'s assistant.<ref name="lh-04-the-pilot-c13">''The Pilot'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Herta]] is a young woman of a minor species with long limbs and fingers, an over-inflated head, and wide eyes.<ref name="lh-04-the-pilot-c13" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Herta]] is a journeyman prosthetic Technician.<ref name="lh-04-the-pilot-c17">''The Pilot'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Herta]] is a virus Technician.<ref name="lh-04-the-pilot-c17" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Herta]] is a person whose picture [[Omal]] can no longer see in his collection.<ref name="lh-04-the-pilot-c33">''The Pilot'', chapter 33</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -6,8 +6,12 @@
 }}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|The [[Badari Desert]] contains a huge sandstone temple.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Simon]] walked bears from the canyon at the edge of the [[Badari Desert]].<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Badari Desert]] contains a huge sandstone temple.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] walked bears from the canyon at the edge of the [[Badari Desert]].<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -7,14 +7,22 @@
 {{spoiler|book=cradle-13-threshold|The Joy [[Icon]] is a rare and unique entity that manifests as a bright violet flower. It functions by providing its user with heightened sensitivity to the emotions and intentions of others, such as fear or respect. The [[Icon]] can also influence physical reality, such as by infusing a seed with [[life]], and it provides its wielder with emotional perspective. While it can be heard as a warm song or a whisper, its presence may diminish when faced with the hostility of the Void.}}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The [[Joy Icon]] is a bright violet flower blooming in the sky.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}
-{{spoiler|book=cradle-12-waybound|The [[Joy Icon]] can flood a seed with [[life]].<ref name="cradle-12-waybound-c34">''Waybound'', chapter 34</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The [[Joy Icon]] is a bright violet flower blooming in the sky.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Joy Icon]] can flood a seed with [[life]].<ref name="cradle-12-waybound-c34">''Waybound'', chapter 34</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|The [[Joy Icon]] helps [[Mercy]] maintain perspective.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}
-{{spoiler|book=cradle-13-threshold|The [[Joy Icon]] can flare in the form of a bright violet flower to bless people.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|The [[Joy Icon]] makes [[Mercy]] sensitive to the emotional state of people around her.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|The [[Joy Icon]] emits a warm song.<ref name="cradle-13-threshold-c6" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The [[Joy Icon]] helps [[Mercy]] maintain perspective.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Joy Icon]] can flare in the form of a bright violet flower to bless people.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Joy Icon]] makes [[Mercy]] sensitive to the emotional state of people around her.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Joy Icon]] emits a warm song.<ref name="cradle-13-threshold-c6" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

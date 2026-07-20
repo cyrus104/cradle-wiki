@@ -6,8 +6,12 @@
 }}
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|A [[Sandviper Remnant]] corpse was found on the stairs behind [[Lindon]].<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}
-{{spoiler|book=cradle-02-soulsmith|A [[Sandviper Remnant]]'s stinger can be used as a weapon.<ref name="cradle-02-soulsmith-c15" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|A [[Sandviper Remnant]] corpse was found on the stairs behind [[Lindon]].<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|A [[Sandviper Remnant]]'s stinger can be used as a weapon.<ref name="cradle-02-soulsmith-c15" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

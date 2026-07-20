@@ -6,7 +6,11 @@
 }}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|Using [[Valinhall]] power requires it to be re-forged into a new shape, a room, and a guardian.<ref name="tg-03-city-of-light-c8">''City of Light'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|Using [[Valinhall]] power requires it to be re-forged into a new shape, a room, and a guardian.<ref name="tg-03-city-of-light-c8">''City of Light'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

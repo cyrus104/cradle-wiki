@@ -8,10 +8,18 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|[[The Phoenix]] found a dead world.<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|[[The Phoenix]] found a dead world.<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[The Phoenix]] is a member of the [[Court of Seven]].<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[The Phoenix]] is a member of the [[Court of Seven]].<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

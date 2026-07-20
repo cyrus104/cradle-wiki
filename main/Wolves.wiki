@@ -7,16 +7,24 @@
 {{spoiler|book=cradle-13-threshold|The Wolves appear to be a specialized combat division or group within the [[Abidan]]. Members of this organization are identified by a wolf's head symbol displayed on their breastplates. They function as highly trained warriors who hone their bodies to act as instruments of battle, utilizing the [[Way]] to reinforce their combat abilities. Some Wolves employ specific techniques that allow them to manipulate the weight of the world's laws to empower their strikes. Within the hierarchy of this division, members are categorized by star ratings, such as one-star, two-star, and three-star levels. Higher-ranking members, like [[Silverlords]], are noted for their varying degrees of challenge. The Wolves possess a unique [[Presence]] that can be transmitted to others, though standard-issue versions may lack individual personality. While they are capable combatants, some individuals have been noted to be stronger than a single [[Wolf]], such as [[Jek'nan]], who can match a squad of four average members. The Wolves also maintain professional connections with the Spiders.}}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Wolves]] are a type of [[Abidan]].<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Wolves]] are a type of [[Abidan]].<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|The Wolves serve as a specialized division that maintains a close working relationship with the Spiders. During his own reflections, [[Jek'nan]] draws comparisons between himself and the [[Wolf]]. To enhance their combat effectiveness, members of this division utilize the [[Way]]. This training is demonstrated by a team of Wolves who successfully dispatched a [[Class Three Fiend]].}}
 
-{{spoiler|book=cradle-13-threshold|The [[Wolves]] is a division.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}
-{{spoiler|book=cradle-13-threshold|The [[Wolves]] work closely with the Spiders.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}
-{{spoiler|book=cradle-13-threshold|The [[Wolf]] is a character or entity [[Jek'nan]] compares himself to.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|The [[Wolves]] use the [[Way]] to reinforce their combat.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}
-{{spoiler|book=cradle-13-threshold|A team of [[Wolves]] dispatched the [[Class Three Fiend]].<ref name="cradle-13-threshold-c10" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The [[Wolves]] is a division.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Wolves]] work closely with the Spiders.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Wolf]] is a character or entity [[Jek'nan]] compares himself to.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Wolves]] use the [[Way]] to reinforce their combat.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|A team of [[Wolves]] dispatched the [[Class Three Fiend]].<ref name="cradle-13-threshold-c10" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

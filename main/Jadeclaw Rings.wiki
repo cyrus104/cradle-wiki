@@ -4,9 +4,13 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Jadeclaw Rings]] are constructs used by [[Calan Archer]].<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Calan]] possesses [[Jadeclaw Rings]].<ref name="cradle-08-wintersteel-c17" />}}
-{{spoiler|book=cradle-08-wintersteel|[[Calan Archer]] had seven [[Jadeclaw Rings]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Jadeclaw Rings]] are constructs used by [[Calan Archer]].<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Calan]] possesses [[Jadeclaw Rings]].<ref name="cradle-08-wintersteel-c17" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Calan Archer]] had seven [[Jadeclaw Rings]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

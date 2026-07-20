@@ -7,8 +7,12 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|[[Kotai Shou]] is the third-ranked [[Underlord]] and has a prosthetic arm made from a stone-[[madra]] [[Remnant]].<ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref>}}
-{{spoiler|book=cradle-04-skysworn|[[Kotai Shou]] has a gray face and stone fingers.<ref name="cradle-04-skysworn-c11" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|[[Kotai Shou]] is the third-ranked [[Underlord]] and has a prosthetic arm made from a stone-[[madra]] [[Remnant]].<ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Kotai Shou]] has a gray face and stone fingers.<ref name="cradle-04-skysworn-c11" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -7,8 +7,12 @@
 }}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|[[Ezera]] is one of the [[Avernus Travelers]].<ref name="tg-01-house-of-blades-c16">''House of Blades'', chapter 16</ref>}}
-{{spoiler|book=tg-01-house-of-blades|[[Ezera]] rarely sees combat.<ref name="tg-01-house-of-blades-c16" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|[[Ezera]] is one of the [[Avernus Travelers]].<ref name="tg-01-house-of-blades-c16">''House of Blades'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Ezera]] rarely sees combat.<ref name="tg-01-house-of-blades-c16" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

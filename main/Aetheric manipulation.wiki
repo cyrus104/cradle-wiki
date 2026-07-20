@@ -7,18 +7,34 @@
 {{spoiler|book=lh-04-the-pilot|Aetheric manipulation is the practice of interacting with and directing the [[Aether]], a fundamental universal force that exists everywhere and functions as a medium for magic. This process involves convincing the [[Aether]] to perform specific actions, such as conjuring elemental substances like water, wind, or fire, and manifesting spirits that represent various concepts. Practitioners can use it for diverse purposes, including telekinesis, levitation, healing, and creating complex seals or bindings. Some specialized magic allows for the interaction with the Aetheric structure of a sentient being's soul, while others involve reading the [[Aether]] to gain navigational insights or detect hidden threats. The effectiveness of manipulation often depends on the practitioner's specialization, as focusing on specific types of magic helps the [[Aether]] respond more effectively to their intentions. The practice can be influenced by external factors, such as the presence of magical artifacts like staves or rings, and can be amplified by powerful entities. However, manipulation is not without challenges; practitioners must contend with natural resistance from targets, the potential for magic to be twisted by dark intent, and the risk of losing emotional control, which can cause unintended environmental disturbances. Additionally, certain technologies known as [[Aethertech]] rely on this force, and specialized tools or spells can be used to lock out magical influence or disrupt [[Aether]]-dependent systems.}}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|[[Aetheric manipulation]] is a fundamental skill.<ref name="lh-01-the-captain-c4">''The Captain'', chapter 4</ref>}}
-{{spoiler|book=lh-01-the-captain|The narrator is capable of basic [[Aetheric manipulation]].<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}
-{{spoiler|book=lh-01-the-captain|The narrator used raw [[Aetheric manipulation]] to gather a ball of atmosphere.<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|[[Aetheric manipulation]] is a fundamental skill.<ref name="lh-01-the-captain-c4">''The Captain'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The narrator is capable of basic [[Aetheric manipulation]].<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The narrator used raw [[Aetheric manipulation]] to gather a ball of atmosphere.<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
+</ul>
+</div></div>
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[Aetheric manipulation]] is a basic technique [[Varic]] can use.<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Aetheric manipulation]] is a basic technique [[Varic]] can use.<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref>}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|[[Aetheric manipulation]] can be used to perform [[binding]] and sealing magic.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[Aetheric manipulation]] can be used to perform [[binding]] and sealing magic.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Aetheric manipulation]] exercises are used to get used to different spells.<ref name="lh-04-the-pilot-c7">''The Pilot'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Aetheric manipulation]] exercises are used to get used to different spells.<ref name="lh-04-the-pilot-c7">''The Pilot'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

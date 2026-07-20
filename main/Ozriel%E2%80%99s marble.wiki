@@ -6,8 +6,12 @@
 }}
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|[[Ozriel’s marble]] contains a hole in the world suspended inside it.<ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref>}}
-{{spoiler|book=cradle-10-reaper|[[Ozriel]]'s records were hidden among [[Eithan]]'s family for hundreds of generations.<ref name="cradle-10-reaper-c12" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|[[Ozriel’s marble]] contains a hole in the world suspended inside it.<ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Ozriel]]'s records were hidden among [[Eithan]]'s family for hundreds of generations.<ref name="cradle-10-reaper-c12" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

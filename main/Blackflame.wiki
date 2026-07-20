@@ -11,143 +11,187 @@
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|Blackflame is a violent and potent type of fire designed specifically for war. Though it can be called into madra channels to drill through stone, burn through straps, or destroy dummies in the [[Ruler Trial]], the [[Path]] does not demand a high degree of control. This power can race through a user's channels and cause muscles to burn, yet it carries a heavy cost by eroding the soul and destroying advancement, sanity, and lifespan. While the Blackflames fell fifty years ago, their history remains recorded on a [[stone tablet]] in caves where the [[vital aura]] is thick with their power. [[Lindon]] eventually possesses this [[madra]], though its use can cause soul blockages during cycling and may leave users as twisted husks in later years.}}
 
-{{spoiler|book=cradle-03-blackflame|[[Blackflame]] is a potent, violent [[Path]] designed for war.<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}
-{{spoiler|book=cradle-03-blackflame|The [[Blackflame]] [[Path]] does not demand a great degree of control.<ref name="cradle-03-blackflame-c9" />}}
-{{spoiler|book=cradle-03-blackflame|[[Blackflame madra]] can cause users to lose their reason or become twisted husks in later years.<ref name="cradle-03-blackflame-c9" />}}
-{{spoiler|book=cradle-03-blackflame|The Blackflames had attendants and family members on many different [[Paths]].<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}
-{{spoiler|book=cradle-03-blackflame|The [[vital aura]] in the caves is thick with the power of [[Blackflame]].<ref name="cradle-03-blackflame-c12">''Blackflame'', chapter 12</ref>}}
-{{spoiler|book=cradle-03-blackflame|The [[stone tablet]] contains the history of the Blackflames.<ref name="cradle-03-blackflame-c12" />}}
-{{spoiler|book=cradle-03-blackflame|[[Lindon]] possesses [[Blackflame madra]].<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Blackflame madra]] causes [[Lindon]]'s muscles to burn.<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Blackflame]] can be called into madra channels.<ref name="cradle-03-blackflame-c14" />}}
-{{spoiler|book=cradle-03-blackflame|[[Blackflame aura]] can cause blockages in the soul during cycling.<ref name="cradle-03-blackflame-c14" />}}
-{{spoiler|book=cradle-03-blackflame|[[Lindon]] can almost form a ball of [[Blackflame]] between his hands.<ref name="cradle-03-blackflame-c16">''Blackflame'', chapter 16</ref>}}
-{{spoiler|book=cradle-03-blackflame|Blackflames fell fifty years ago.<ref name="cradle-03-blackflame-c16" />}}
-{{spoiler|book=cradle-03-blackflame|[[Blackflame]] is a type of fire.<ref name="cradle-03-blackflame-c16" />}}
-{{spoiler|book=cradle-03-blackflame|Using [[Blackflame]] erodes the soul and destroys advancement, sanity, and lifespan.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Blackflame]] can be used to drill through stone.<ref name="cradle-03-blackflame-c17" />}}
-{{spoiler|book=cradle-03-blackflame|[[Blackflame]] can destroy dummies in the [[Ruler Trial]].<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Blackflame]] raced through [[Lindon's madra]] channels.<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Blackflame]] can burn through straps.<ref name="cradle-03-blackflame-c20">''Blackflame'', chapter 20</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|[[Blackflame]] is a potent, violent [[Path]] designed for war.<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Blackflame]] [[Path]] does not demand a great degree of control.<ref name="cradle-03-blackflame-c9" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Blackflame madra]] can cause users to lose their reason or become twisted husks in later years.<ref name="cradle-03-blackflame-c9" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The Blackflames had attendants and family members on many different [[Paths]].<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[vital aura]] in the caves is thick with the power of [[Blackflame]].<ref name="cradle-03-blackflame-c12">''Blackflame'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[stone tablet]] contains the history of the Blackflames.<ref name="cradle-03-blackflame-c12" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] possesses [[Blackflame madra]].<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Blackflame madra]] causes [[Lindon]]'s muscles to burn.<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Blackflame]] can be called into madra channels.<ref name="cradle-03-blackflame-c14" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Blackflame aura]] can cause blockages in the soul during cycling.<ref name="cradle-03-blackflame-c14" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] can almost form a ball of [[Blackflame]] between his hands.<ref name="cradle-03-blackflame-c16">''Blackflame'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|Blackflames fell fifty years ago.<ref name="cradle-03-blackflame-c16" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Blackflame]] is a type of fire.<ref name="cradle-03-blackflame-c16" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|Using [[Blackflame]] erodes the soul and destroys advancement, sanity, and lifespan.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Blackflame]] can be used to drill through stone.<ref name="cradle-03-blackflame-c17" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Blackflame]] can destroy dummies in the [[Ruler Trial]].<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Blackflame]] raced through [[Lindon's madra]] channels.<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Blackflame]] can burn through straps.<ref name="cradle-03-blackflame-c20">''Blackflame'', chapter 20</ref>}}</li>
+</ul>
+</div></div>
 
 == Skysworn ==
 {{spoiler|book=cradle-04-skysworn|Blackflame is a destructive [[Path]] and a type of [[madra]] that [[Lindon]] remembers using to pierce defenses. Historically, the Blackflames were responsible for driving the [[Tanaban clan]] to extinction, and the name is now used to refer to [[Lindon]] himself. This energy can be sprayed from a punch, utilized to break down extra bindings, or even fed upon by blood [[aura]]. During his journey, [[Lindon]] encounters the concept through [[Jai Long]]'s perspective and observes [[Orthos]] cycling the power, while [[Naru Gwei]] also possesses it within her power.}}
 
-{{spoiler|book=cradle-04-skysworn|The Blackflames drove the [[Tanaban clan]] to extinction.<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}
-{{spoiler|book=cradle-04-skysworn|[[Blackflame]] does not give way to the scripted stone beneath the wooden wall panels in [[Lindon]]'s room.<ref name="cradle-04-skysworn-c1" />}}
-{{spoiler|book=cradle-04-skysworn|[[Blackflame]] is a concept or type of person mentioned in relation to how [[Jai Long]] views [[Lindon]].<ref name="cradle-04-skysworn-c4">''Skysworn'', chapter 4</ref>}}
-{{spoiler|book=cradle-04-skysworn|[[Lindon]] can spray [[Blackflame]] from a punch.<ref name="cradle-04-skysworn-c4" />}}
-{{spoiler|book=cradle-04-skysworn|[[Blackflame]] is a [[Path]].<ref name="cradle-04-skysworn-c5">''Skysworn'', chapter 5</ref>}}
-{{spoiler|book=cradle-04-skysworn|[[Blackflame]] can be used to break down extra bindings.<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}
-{{spoiler|book=cradle-04-skysworn|[[Blackflame madra]] is known for piercing defenses.<ref name="cradle-04-skysworn-c9">''Skysworn'', chapter 9</ref>}}
-{{spoiler|book=cradle-04-skysworn|[[Blackflame]] is a type of [[madra]]/energy [[Lindon]] remembers.<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}
-{{spoiler|book=cradle-04-skysworn|The [[Blackflame]] is one of the entities in [[Naru Gwei]]'s power.<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}
-{{spoiler|book=cradle-04-skysworn|[[Blackflame]] is a name used to refer to [[Lindon]].<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}
-{{spoiler|book=cradle-04-skysworn|[[Orthos]] is cycling [[Blackflame]].<ref name="cradle-04-skysworn-c15">''Skysworn'', chapter 15</ref>}}
-{{spoiler|book=cradle-04-skysworn|[[Blackflame]] is a destructive power.<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}
-{{spoiler|book=cradle-04-skysworn|[[Blackflame]] can feed on blood [[aura]].<ref name="cradle-04-skysworn-c16" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|The Blackflames drove the [[Tanaban clan]] to extinction.<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Blackflame]] does not give way to the scripted stone beneath the wooden wall panels in [[Lindon]]'s room.<ref name="cradle-04-skysworn-c1" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Blackflame]] is a concept or type of person mentioned in relation to how [[Jai Long]] views [[Lindon]].<ref name="cradle-04-skysworn-c4">''Skysworn'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Lindon]] can spray [[Blackflame]] from a punch.<ref name="cradle-04-skysworn-c4" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Blackflame]] is a [[Path]].<ref name="cradle-04-skysworn-c5">''Skysworn'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Blackflame]] can be used to break down extra bindings.<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Blackflame madra]] is known for piercing defenses.<ref name="cradle-04-skysworn-c9">''Skysworn'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Blackflame]] is a type of [[madra]]/energy [[Lindon]] remembers.<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The [[Blackflame]] is one of the entities in [[Naru Gwei]]'s power.<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Blackflame]] is a name used to refer to [[Lindon]].<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Orthos]] is cycling [[Blackflame]].<ref name="cradle-04-skysworn-c15">''Skysworn'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Blackflame]] is a destructive power.<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Blackflame]] can feed on blood [[aura]].<ref name="cradle-04-skysworn-c16" />}}</li>
+</ul>
+</div></div>
 
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|After completing a mission, the Blackflame is viewed by the [[Skysworn]] as a potentially dangerous liability. [[Lindon]] begins cycling this specific type of [[madra]], which is a path that encourages its user to fight for dominance. While the technique is difficult to hide and can even taint the flavor of roasted meat, [[Lindon]] undergoes training under the supervision of [[Orthos]]. The Blackflame proves beneficial to the [[Spirit Well]] and helps restore [[Orthos]]'s body and spirit, though [[Lindon]]'s own [[madra]] is eventually split by a black wedge. Despite total exhaustion of the path, the Blackflame continues to call fire aura to its user and can manifest as a blaze behind [[Lindon]].}}
 
-{{spoiler|book=cradle-05-ghostwater|The [[Blackflame]] completed a mission.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}
-{{spoiler|book=cradle-05-ghostwater|A [[Blackflame]] is considered a potentially dangerous liability by the [[Skysworn]].<ref name="cradle-05-ghostwater-c2" />}}
-{{spoiler|book=cradle-05-ghostwater|[[Lindon]] began cycling [[Blackflame]].<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}
-{{spoiler|book=cradle-05-ghostwater|[[Blackflame]] is a path that urges the user to fight for dominance.<ref name="cradle-05-ghostwater-c3" />}}
-{{spoiler|book=cradle-05-ghostwater|[[Lindon]] has totally exhausted his [[Path of Black Flame]].<ref name="cradle-05-ghostwater-c5">''Ghostwater'', chapter 5</ref>}}
-{{spoiler|book=cradle-05-ghostwater|[[Blackflame]] is a [[Path]] that is hard to hide.<ref name="cradle-05-ghostwater-c8">''Ghostwater'', chapter 8</ref>}}
-{{spoiler|book=cradle-05-ghostwater|[[Lindon]] trains the [[Blackflame technique]] under [[Orthos]]' supervision.<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}
-{{spoiler|book=cradle-05-ghostwater|[[Blackflame]] can taint the flavor of roasted meat.<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}
-{{spoiler|book=cradle-05-ghostwater|The [[Spirit Well]] is beneficial for [[Blackflame madra]].<ref name="cradle-05-ghostwater-c13">''Ghostwater'', chapter 13</ref>}}
-{{spoiler|book=cradle-05-ghostwater|Pure [[madra]] feels more like water than [[Blackflame]].<ref name="cradle-05-ghostwater-c13" />}}
-{{spoiler|book=cradle-05-ghostwater|[[Blackflame]] is a type of [[madra]] that can be cycled.<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}
-{{spoiler|book=cradle-05-ghostwater|[[Blackflame]] helped heal [[Orthos]]'s spirit and restored his body.<ref name="cradle-05-ghostwater-c15" />}}
-{{spoiler|book=cradle-05-ghostwater|[[Lindon]]'s [[Blackflame madra]] was split by a black wedge.<ref name="cradle-05-ghostwater-c15" />}}
-{{spoiler|book=cradle-05-ghostwater|[[Blackflame madra]] calls fire aura to the user.<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}
-{{spoiler|book=cradle-05-ghostwater|[[Lindon]] has [[Blackflame]] blazing behind him.<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Blackflame]] completed a mission.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|A [[Blackflame]] is considered a potentially dangerous liability by the [[Skysworn]].<ref name="cradle-05-ghostwater-c2" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] began cycling [[Blackflame]].<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Blackflame]] is a path that urges the user to fight for dominance.<ref name="cradle-05-ghostwater-c3" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] has totally exhausted his [[Path of Black Flame]].<ref name="cradle-05-ghostwater-c5">''Ghostwater'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Blackflame]] is a [[Path]] that is hard to hide.<ref name="cradle-05-ghostwater-c8">''Ghostwater'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] trains the [[Blackflame technique]] under [[Orthos]]' supervision.<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Blackflame]] can taint the flavor of roasted meat.<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Spirit Well]] is beneficial for [[Blackflame madra]].<ref name="cradle-05-ghostwater-c13">''Ghostwater'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|Pure [[madra]] feels more like water than [[Blackflame]].<ref name="cradle-05-ghostwater-c13" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Blackflame]] is a type of [[madra]] that can be cycled.<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Blackflame]] helped heal [[Orthos]]'s spirit and restored his body.<ref name="cradle-05-ghostwater-c15" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]]'s [[Blackflame madra]] was split by a black wedge.<ref name="cradle-05-ghostwater-c15" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Blackflame madra]] calls fire aura to the user.<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] has [[Blackflame]] blazing behind him.<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|During his journey, [[Lindon]] finds himself relying almost entirely on the power of Blackflame. This energy possesses the unique ability to slide back, and it can even alter the fundamental nature of an experiment when utilized to seal a [[construct]]. Associated with the [[Path of Black Flame]], the power eventually ignites upon [[the Emperor]]'s blade.}}
 
-{{spoiler|book=cradle-06-underlord|[[Lindon]] relies almost entirely on [[Blackflame]].<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}
-{{spoiler|book=cradle-06-underlord|The [[Blackflame]] can slide back.<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}
-{{spoiler|book=cradle-06-underlord|[[Blackflame]] can change the nature of an experiment when used to seal a [[construct]].<ref name="cradle-06-underlord-c14">''Underlord'', chapter 14</ref>}}
-{{spoiler|book=cradle-06-underlord|[[Blackflame]] is associated with the [[Path of Black Flame]].<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}
-{{spoiler|book=cradle-06-underlord|[[Blackflame]] ignited on [[the Emperor]]'s blade.<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|[[Lindon]] relies almost entirely on [[Blackflame]].<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|The [[Blackflame]] can slide back.<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Blackflame]] can change the nature of an experiment when used to seal a [[construct]].<ref name="cradle-06-underlord-c14">''Underlord'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Blackflame]] is associated with the [[Path of Black Flame]].<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Blackflame]] ignited on [[the Emperor]]'s blade.<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|[[Lindon]] summons Blackflame into his palms, utilizing the substance as a bar of energy. This power provides [[Dross]] with explosive strength, though the [[madra]] is hot enough to sear and burn through [[Lindon]]'s own spirit. While its main [[Path]] features a tail as a [[Goldsign]], the energy is versatile enough for [[Lindon]] to [[Forge]]. He also utilizes the power to manifest a Blackflame fireball.}}
 
-{{spoiler|book=cradle-07-uncrowned|[[Lindon]] calls [[Blackflame]] into his palms.<ref name="cradle-07-uncrowned-c12">''Uncrowned'', chapter 12</ref>}}
-{{spoiler|book=cradle-07-uncrowned|[[Blackflame]] is a bar of energy used by [[Lindon]].<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}
-{{spoiler|book=cradle-07-uncrowned|[[Blackflame]] provides explosive strength to [[Dross]].<ref name="cradle-07-uncrowned-c14" />}}
-{{spoiler|book=cradle-07-uncrowned|The [[Goldsign]] of the main [[Path of Black Flame]] is a tail.<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}
-{{spoiler|book=cradle-07-uncrowned|[[Blackflame]] burned through [[Lindon]]'s spirit.<ref name="cradle-07-uncrowned-c16" />}}
-{{spoiler|book=cradle-07-uncrowned|[[Blackflame madra]] is hot enough to sear the spirit.<ref name="cradle-07-uncrowned-c20">''Uncrowned'', chapter 20</ref>}}
-{{spoiler|book=cradle-07-uncrowned|[[Lindon]] uses [[Blackflame]] fireball.<ref name="cradle-07-uncrowned-c20" />}}
-{{spoiler|book=cradle-07-uncrowned|[[Lindon]] can [[Forge]] [[Blackflame madra]].<ref name="cradle-07-uncrowned-c20" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] calls [[Blackflame]] into his palms.<ref name="cradle-07-uncrowned-c12">''Uncrowned'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Blackflame]] is a bar of energy used by [[Lindon]].<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Blackflame]] provides explosive strength to [[Dross]].<ref name="cradle-07-uncrowned-c14" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Goldsign]] of the main [[Path of Black Flame]] is a tail.<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Blackflame]] burned through [[Lindon]]'s spirit.<ref name="cradle-07-uncrowned-c16" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Blackflame madra]] is hot enough to sear the spirit.<ref name="cradle-07-uncrowned-c20">''Uncrowned'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] uses [[Blackflame]] fireball.<ref name="cradle-07-uncrowned-c20" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] can [[Forge]] [[Blackflame madra]].<ref name="cradle-07-uncrowned-c20" />}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|After emerging from a corpse, Blackflame manifests as a spirit of black-and-red madra composed of black fire. This [[essence]] can be projected in the form of thin bars or utilized by [[Lindon]] to bolster his own strength. When applied to a shield, the fire causes the surface to smolder, and it is characterized as a ravenous flame that consumes everything in its path. [[Lindon]] eventually gains the ability to switch between his [[pure madra]] and Blackflame with ease.}}
 
-{{spoiler|book=cradle-08-wintersteel|The corpse becomes [[Blackflame]], transforming into black fire and a spirit of black-and-red madra.<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Blackflame]] can be sent out in thin bars.<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Lindon]] draws on [[Blackflame]] for strength.<ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Blackflame]] can make a shield smolder.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Blackflame]] is described as a ravenous fire that leaves nothing behind.<ref name="cradle-08-wintersteel-c23">''Wintersteel'', chapter 23</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Lindon]] could switch from [[pure madra]] to [[Blackflame]] easily.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|The corpse becomes [[Blackflame]], transforming into black fire and a spirit of black-and-red madra.<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Blackflame]] can be sent out in thin bars.<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] draws on [[Blackflame]] for strength.<ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Blackflame]] can make a shield smolder.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Blackflame]] is described as a ravenous fire that leaves nothing behind.<ref name="cradle-08-wintersteel-c23">''Wintersteel'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] could switch from [[pure madra]] to [[Blackflame]] easily.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Bloodline ==
 {{spoiler|book=cradle-09-bloodline|Blackflame demonstrated its destructive potential by slicing through security constructs and burning away water. A thin bar of the substance was capable of scorching lines into the ground, while [[Lindon]] eventually channeled the power into [[dragon]]'s breath. After covering his left hand in crystallized [[Blackflame madra]], [[Lindon]] utilized a tongue of the flame to slice through space.}}
 
-{{spoiler|book=cradle-09-bloodline|A bar of [[Blackflame]] slices the security constructs.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}
-{{spoiler|book=cradle-09-bloodline|[[Blackflame]] can be used to burn water away.<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}
-{{spoiler|book=cradle-09-bloodline|A thin bar of [[Blackflame]] scorched a line in the ground.<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}
-{{spoiler|book=cradle-09-bloodline|[[Lindon]] channeled [[Blackflame]] into [[dragon]]'s breath.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}
-{{spoiler|book=cradle-09-bloodline|Crystallized [[Blackflame madra]] covered [[Lindon]]'s left hand.<ref name="cradle-09-bloodline-c19" />}}
-{{spoiler|book=cradle-09-bloodline|[[Lindon]] used a tongue of [[Blackflame]] to slice through space.<ref name="cradle-09-bloodline-c22">''Bloodline'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|A bar of [[Blackflame]] slices the security constructs.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Blackflame]] can be used to burn water away.<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|A thin bar of [[Blackflame]] scorched a line in the ground.<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] channeled [[Blackflame]] into [[dragon]]'s breath.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|Crystallized [[Blackflame madra]] covered [[Lindon]]'s left hand.<ref name="cradle-09-bloodline-c19" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] used a tongue of [[Blackflame]] to slice through space.<ref name="cradle-09-bloodline-c22">''Bloodline'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|During these events, [[Lindon]] maintains a decent supply of his [[Blackflame madra]]. He utilizes the substance to provide cover for [[Yerin]] and infuses weapons with its characteristic destructive intention and deadly force. After applying the flames to ghostly images, [[Lindon]] manifests [[Blackflame scales]] and employs a liquid bar of the [[madra]] to melt through stone. The sequence concludes as a bar of Blackflame shoots upward into the sky.}}
 
-{{spoiler|book=cradle-10-reaper|[[Lindon]]'s [[Blackflame madra]] is in decent supply.<ref name="cradle-10-reaper-c17">''Reaper'', chapter 17</ref>}}
-{{spoiler|book=cradle-10-reaper|[[Lindon]] uses [[Blackflame]] to cover [[Yerin]].<ref name="cradle-10-reaper-c18">''Reaper'', chapter 18</ref>}}
-{{spoiler|book=cradle-10-reaper|[[Blackflame]] adds deadly force and destructive intention to weapons.<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}
-{{spoiler|book=cradle-10-reaper|[[Lindon]] used [[Blackflame]] on the ghostly images.<ref name="cradle-10-reaper-c19" />}}
-{{spoiler|book=cradle-10-reaper|[[Lindon]] has [[Blackflame scales]].<ref name="cradle-10-reaper-c20">''Reaper'', chapter 20</ref>}}
-{{spoiler|book=cradle-10-reaper|[[Lindon]] uses a liquid bar of [[Blackflame]] to melt stone.<ref name="cradle-10-reaper-c20" />}}
-{{spoiler|book=cradle-10-reaper|A bar of [[Blackflame]] shot up into the sky.<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]]'s [[Blackflame madra]] is in decent supply.<ref name="cradle-10-reaper-c17">''Reaper'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] uses [[Blackflame]] to cover [[Yerin]].<ref name="cradle-10-reaper-c18">''Reaper'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Blackflame]] adds deadly force and destructive intention to weapons.<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] used [[Blackflame]] on the ghostly images.<ref name="cradle-10-reaper-c19" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] has [[Blackflame scales]].<ref name="cradle-10-reaper-c20">''Reaper'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] uses a liquid bar of [[Blackflame]] to melt stone.<ref name="cradle-10-reaper-c20" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|A bar of [[Blackflame]] shot up into the sky.<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|After [[Lindon]] switched back to using the dark liquid flame, he used it to drill a bar through the [[Archlady]]'s stomach. He subsequently utilized Blackflame to carve scripted boxes before piercing the [[Silent King]]'s skull and halo with a bar of the substance. The flame was then shot through a portal toward [[Tiberian]]'s spirit and later used by [[Lindon]] to strike the [[Dreadgod]] in the head. On one occasion, [[Lindon]]'s eyes darkened solely with Blackflame.}}
 
-{{spoiler|book=cradle-11-dreadgod|[[Lindon]] switched back to [[Blackflame]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}
-{{spoiler|book=cradle-11-dreadgod|[[Lindon]] drilled a bar of [[Blackflame]] through the [[Archlady]]'s stomach.<ref name="cradle-11-dreadgod-c3" />}}
-{{spoiler|book=cradle-11-dreadgod|[[Blackflame]] is a dark liquid flame.<ref name="cradle-11-dreadgod-c3" />}}
-{{spoiler|book=cradle-11-dreadgod|[[Lindon]] used [[Blackflame]] to carve scripted boxes.<ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref>}}
-{{spoiler|book=cradle-11-dreadgod|A bar of [[Blackflame]] pierced the [[Silent King]]'s halo and skull.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}
-{{spoiler|book=cradle-11-dreadgod|A bar of [[Blackflame]] shot through the portal toward [[Tiberian]]'s spirit.<ref name="cradle-11-dreadgod-c19" />}}
-{{spoiler|book=cradle-11-dreadgod|[[Blackflame]] was shot through the [[Dreadgod]]'s head by [[Lindon]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}
-{{spoiler|book=cradle-11-dreadgod|[[Lindon]]'s eyes once darkened only with [[Blackflame]].<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] switched back to [[Blackflame]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] drilled a bar of [[Blackflame]] through the [[Archlady]]'s stomach.<ref name="cradle-11-dreadgod-c3" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Blackflame]] is a dark liquid flame.<ref name="cradle-11-dreadgod-c3" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] used [[Blackflame]] to carve scripted boxes.<ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|A bar of [[Blackflame]] pierced the [[Silent King]]'s halo and skull.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|A bar of [[Blackflame]] shot through the portal toward [[Tiberian]]'s spirit.<ref name="cradle-11-dreadgod-c19" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Blackflame]] was shot through the [[Dreadgod]]'s head by [[Lindon]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]]'s eyes once darkened only with [[Blackflame]].<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|[[Lindon]] possesses the fury of Blackflame, which he once used to incinerate a ruined syringe. This power is capable of bursting through an [[Archlady]]'s shield, leading [[Orthos]] to wonder if the flame could strike [[Dross]]. The energy often gathers around [[Lindon]]'s left hand and has been known to flare within [[Orthos]]'s spirit. During combat, the [[aura]] can produce dark tornadoes of flame, and [[Lindon]] has utilized both two-handed blasts and bars of the substance from each hand. While powerful, a meeting-space constructed from Blackflame would be less inviting than the one [[Lindon]] eventually created.}}
 
-{{spoiler|book=cradle-12-waybound|[[Lindon]] possesses the fury of [[Blackflame]].<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Lindon]] uses [[Blackflame]] to incinerate a ruined syringe.<ref name="cradle-12-waybound-c7">''Waybound'', chapter 7</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Orthos]] wondered if he could hit [[Dross]] with [[Blackflame]].<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Blackflame]] can burst through an [[Archlady]]’s shield.<ref name="cradle-12-waybound-c10" />}}
-{{spoiler|book=cradle-12-waybound|[[Blackflame]] gathers around [[Lindon]]'s left hand.<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Blackflame]] flared in [[Orthos]]'s spirit.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Blackflame aura]] can produce dark tornadoes of flame.<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Lindon]] uses a two-handed blast of [[Blackflame]].<ref name="cradle-12-waybound-c27" />}}
-{{spoiler|book=cradle-12-waybound|[[Lindon]]'s meeting-space was more inviting than if he had made it from [[Blackflame]].<ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Lindon]] uses bars of [[Blackflame]] from each hand.<ref name="cradle-12-waybound-c38">''Waybound'', chapter 38</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] possesses the fury of [[Blackflame]].<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] uses [[Blackflame]] to incinerate a ruined syringe.<ref name="cradle-12-waybound-c7">''Waybound'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Orthos]] wondered if he could hit [[Dross]] with [[Blackflame]].<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Blackflame]] can burst through an [[Archlady]]’s shield.<ref name="cradle-12-waybound-c10" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Blackflame]] gathers around [[Lindon]]'s left hand.<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Blackflame]] flared in [[Orthos]]'s spirit.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Blackflame aura]] can produce dark tornadoes of flame.<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] uses a two-handed blast of [[Blackflame]].<ref name="cradle-12-waybound-c27" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]]'s meeting-space was more inviting than if he had made it from [[Blackflame]].<ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] uses bars of [[Blackflame]] from each hand.<ref name="cradle-12-waybound-c38">''Waybound'', chapter 38</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|[[Blackflame]] boils in [[Lindon]]'s spirit.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}
-{{spoiler|book=cradle-13-threshold|[[Lindon]] sent a line of [[Blackflame]] at the Silverlord's body.<ref name="cradle-13-threshold-c7" />}}
-{{spoiler|book=cradle-13-threshold|[[Lindon]] uses [[Blackflame]] to burn a man's beard and scorch a wall.<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[Blackflame]] boils in [[Lindon]]'s spirit.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Lindon]] sent a line of [[Blackflame]] at the Silverlord's body.<ref name="cradle-13-threshold-c7" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Lindon]] uses [[Blackflame]] to burn a man's beard and scorch a wall.<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

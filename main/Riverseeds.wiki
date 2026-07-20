@@ -6,7 +6,11 @@
 }}
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|[[Riverseeds]] are pure spirits born in areas with a strong balance between water and [[life]] [[aura]].<ref name="cradle-05-ghostwater-c12">''Ghostwater'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|[[Riverseeds]] are pure spirits born in areas with a strong balance between water and [[life]] [[aura]].<ref name="cradle-05-ghostwater-c12">''Ghostwater'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

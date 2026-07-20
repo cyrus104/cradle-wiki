@@ -6,11 +6,19 @@
 }}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Ulrich Fletcher]] is the Warden of [[Candle Bay]].<ref name="ee-sea-01-of-sea-and-shadow-c13">''Of Sea and Shadow'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Ulrich Fletcher]] is the Warden of [[Candle Bay]].<ref name="ee-sea-01-of-sea-and-shadow-c13">''Of Sea and Shadow'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Fletcher is a former warden of [[Candle Bay Imperial Prison]].<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Ulrich Fletcher]] is a character who owns a [[workshop]].<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Fletcher is a former warden of [[Candle Bay Imperial Prison]].<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Ulrich Fletcher]] is a character who owns a [[workshop]].<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

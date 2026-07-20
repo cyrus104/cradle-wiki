@@ -9,22 +9,34 @@
 {{spoiler|book=cradle-12-waybound|Dreadnought City is a location situated on the [[Everwood continent]]. It is characterized by its massive scale, featuring black, spiked walls that extend to the horizon and a landscape of ruined streets. The city is protected by three ancient Archlords known as the [[Chief Guardians]], who possess highly advanced [[Remnants]] that appear physically solid. The city's inhabitants are known to utilize [[Remnants]] in unusual ways, and its citizens have been involved in evacuations alongside figures such as the [[Silent King]]. Additionally, the city has served as a source of refugees for those fleeing the [[Dreadgods]].}}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|[[Dreadnought City]] is a location.<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}
-{{spoiler|book=cradle-07-uncrowned|[[Dreadnought City]] is a location mentioned in comparison to skin color.<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Dreadnought City]] is a location.<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Dreadnought City]] is a location mentioned in comparison to skin color.<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|Dreadnought City, a location characterized by its ruined streets, comes under siege from the drones of the [[Silent King]]. While the city is protected by three [[Chief Guardians]], [[Lindon]] engages in a battle against three Archlords in the skies above the settlement. As the conflict intensifies, an evacuation of the city is initiated. Despite the ongoing crisis, Dreadnought City continues to send foreign emissaries.}}
 
-{{spoiler|book=cradle-11-dreadgod|[[Dreadnought City]] is being besieged by the [[Silent King]]'s drones.<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}
-{{spoiler|book=cradle-11-dreadgod|[[Dreadnought City]] is home to three [[Chief Guardians]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}
-{{spoiler|book=cradle-11-dreadgod|[[Lindon]] faced three Archlords in the skies above [[Dreadnought City]].<ref name="cradle-11-dreadgod-c3" />}}
-{{spoiler|book=cradle-11-dreadgod|[[Dreadnought City]] has ruined streets.<ref name="cradle-11-dreadgod-c3" />}}
-{{spoiler|book=cradle-11-dreadgod|[[Dreadnought City]] was being evacuated.<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}
-{{spoiler|book=cradle-11-dreadgod|[[Dreadnought City]] sends foreign emissaries.<ref name="cradle-11-dreadgod-c8">''Dreadgod'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Dreadnought City]] is being besieged by the [[Silent King]]'s drones.<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Dreadnought City]] is home to three [[Chief Guardians]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] faced three Archlords in the skies above [[Dreadnought City]].<ref name="cradle-11-dreadgod-c3" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Dreadnought City]] has ruined streets.<ref name="cradle-11-dreadgod-c3" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Dreadnought City]] was being evacuated.<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Dreadnought City]] sends foreign emissaries.<ref name="cradle-11-dreadgod-c8">''Dreadgod'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Dreadnought City]] is located in [[Everwood]].<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Northstrider]] mentions having [[dream tablets]] from [[Dreadnought City]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Dreadnought City]] is located in [[Everwood]].<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Northstrider]] mentions having [[dream tablets]] from [[Dreadnought City]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

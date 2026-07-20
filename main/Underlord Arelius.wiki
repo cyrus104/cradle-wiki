@@ -7,7 +7,11 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|[[Underlord Arelius]] took [[Lindon]] and his companion under his wing.<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|[[Underlord Arelius]] took [[Lindon]] and his companion under his wing.<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-04-skysworn|“Underlord Arelius was kind enough to take myself and my companion under his wing.”<ref name="cradle-04-skysworn-c13" />}}

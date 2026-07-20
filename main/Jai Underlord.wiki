@@ -5,11 +5,19 @@
 }}
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|The [[Jai Underlord]] entrusted a task to [[Jai Long]] and [[Gokren]].<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Renfei]] planned to confront the [[Jai Underlord]].<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|The [[Jai Underlord]] entrusted a task to [[Jai Long]] and [[Gokren]].<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Renfei]] planned to confront the [[Jai Underlord]].<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|The [[Jai Underlord]] attracted the attention of [[Redmoon Hall]].<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|The [[Jai Underlord]] attracted the attention of [[Redmoon Hall]].<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

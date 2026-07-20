@@ -4,9 +4,13 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|There is a breach in [[Sector Seven]].<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}
-{{spoiler|book=cradle-11-dreadgod|Reinforcements from [[Sector Eight]] were denied entrance into [[Sector Seven]].<ref name="cradle-11-dreadgod-c1" />}}
-{{spoiler|book=cradle-11-dreadgod|[[Sector Seven]] is a location.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|There is a breach in [[Sector Seven]].<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Reinforcements from [[Sector Eight]] were denied entrance into [[Sector Seven]].<ref name="cradle-11-dreadgod-c1" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Sector Seven]] is a location.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

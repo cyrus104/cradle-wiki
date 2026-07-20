@@ -4,9 +4,13 @@
 }}
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Champion potion]] provides enhancements.<ref name="ee-shadow-03-of-killers-and-kings-c8">''Of Killers and Kings'', chapter 8</ref>}}
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Champion potion]] provides power to [[Shera]].<ref name="ee-shadow-03-of-killers-and-kings-c8" />}}
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Champion potion]] is a substance that can wear off.<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Champion potion]] provides enhancements.<ref name="ee-shadow-03-of-killers-and-kings-c8">''Of Killers and Kings'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Champion potion]] provides power to [[Shera]].<ref name="ee-shadow-03-of-killers-and-kings-c8" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Champion potion]] is a substance that can wear off.<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

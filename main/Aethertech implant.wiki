@@ -6,7 +6,11 @@
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|The [[Karoshan]] agent had an [[Aethertech implant]] at the back of his neck.<ref name="lh-03-the-knight-c13">''The Knight'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|The [[Karoshan]] agent had an [[Aethertech implant]] at the back of his neck.<ref name="lh-03-the-knight-c13">''The Knight'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

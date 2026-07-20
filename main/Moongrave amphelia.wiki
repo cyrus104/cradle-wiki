@@ -6,8 +6,12 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Moongrave amphelia]] trees flourish in abundant [[shadow aura]].<ref name="cradle-11-dreadgod-c8">''Dreadgod'', chapter 8</ref>}}
-{{spoiler|book=cradle-11-dreadgod|[[Moongrave amphelia]] trees were initially taken from [[Everwood]].<ref name="cradle-11-dreadgod-c8" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Moongrave amphelia]] trees flourish in abundant [[shadow aura]].<ref name="cradle-11-dreadgod-c8">''Dreadgod'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Moongrave amphelia]] trees were initially taken from [[Everwood]].<ref name="cradle-11-dreadgod-c8" />}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-11-dreadgod|“They flourish in abundant shadow aura,” said Justice,<ref name="cradle-11-dreadgod-c8" />}}

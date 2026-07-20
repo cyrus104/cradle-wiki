@@ -6,7 +6,11 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Seishen Kingdom Soulsmiths]] design constructs that bend light and assist spiritual veils.<ref name="cradle-08-wintersteel-c20">''Wintersteel'', chapter 20</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Seishen Kingdom Soulsmiths]] design constructs that bend light and assist spiritual veils.<ref name="cradle-08-wintersteel-c20">''Wintersteel'', chapter 20</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

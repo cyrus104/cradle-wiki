@@ -7,18 +7,34 @@
 {{spoiler|book=lh-04-the-pilot|[[Iron]] [[Hives]] are massive, bulbous structures created by the [[Iron Legion]]. They function as central hubs for the [[Legion]]'s fleet and are composed of fused metal from various crashed starships. These entities can be as large as moons or planets, with the [[Grand Hive]] specifically resembling a planet-sized skull made of black iron and white skin. Because they serve as launch points for numerous fighters and craft, they lack defensive shields, making them vulnerable to direct attacks. Beyond their role as mobile bases, [[Hives]] serve critical biological and strategic functions. They act as nurseries capable of producing an [[Iron King]] and contain vast numbers of [[Pawn]] soldiers behind their doors. When not coordinated by a central authority, individual [[Hives]] operate with animalistic instincts to seek out resources. They have been used strategically to block access to specific sectors or to invade and infest planets, spreading through systems like a disease. While some [[Hives]] have been destroyed or left as smoldering debris, others have been hollowed out to remove their core components.}}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|[[Sola]] tracks [[Iron Hives]].<ref name="lh-01-the-captain-c28">''The Captain'', chapter 28</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Sola]] has spent much of her [[life]] inside [[Iron Hives]].<ref name="lh-01-the-captain-c29">''The Captain'', chapter 29</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|[[Sola]] tracks [[Iron Hives]].<ref name="lh-01-the-captain-c28">''The Captain'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Sola]] has spent much of her [[life]] inside [[Iron Hives]].<ref name="lh-01-the-captain-c29">''The Captain'', chapter 29</ref>}}</li>
+</ul>
+</div></div>
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|The crew intends to push [[Iron Hives]] out of the border worlds.<ref name="lh-02-the-engineer-c19">''The Engineer'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|The crew intends to push [[Iron Hives]] out of the border worlds.<ref name="lh-02-the-engineer-c19">''The Engineer'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|[[Iron Hives]] are located in orbit around a blue planet with three small moons of metal and bone.<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}
-{{spoiler|book=lh-03-the-knight|Three [[Iron Hives]] were attacked by the [[D’Niss]].<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[Iron Hives]] are located in orbit around a blue planet with three small moons of metal and bone.<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Three [[Iron Hives]] were attacked by the [[D’Niss]].<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Iron Hives]] can be blown up by immortals using self-upgrading [[Aethertech]].<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Iron Hives]] can be blown up by immortals using self-upgrading [[Aethertech]].<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“I think three Iron Hives were attacked by the D’Niss.”<ref name="lh-03-the-knight-c9" />}}

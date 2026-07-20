@@ -6,8 +6,12 @@
 }}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|[[Alin]] possesses an acorn trapped inside a small golden birdcage.<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Alin]] can use [[Elysia]]'s light on the acorn.<ref name="tg-02-crimson-vault-c10" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Alin]] possesses an acorn trapped inside a small golden birdcage.<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Alin]] can use [[Elysia]]'s light on the acorn.<ref name="tg-02-crimson-vault-c10" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

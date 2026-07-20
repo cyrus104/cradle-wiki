@@ -6,10 +6,18 @@
 }}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|[[Subspace madness]] is a condition where pilots stare into the colors of [[Subspace]] for too long, often leading to them ejecting.<ref name="lh-01-the-captain-c7">''The Captain'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|[[Subspace madness]] is a condition where pilots stare into the colors of [[Subspace]] for too long, often leading to them ejecting.<ref name="lh-01-the-captain-c7">''The Captain'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Subspace madness]] is a fascination with patterns visible through [[Subspace]] that causes pilots to pilot themselves elsewhere.<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Subspace madness]] is a fascination with patterns visible through [[Subspace]] that causes pilots to pilot themselves elsewhere.<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

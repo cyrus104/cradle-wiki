@@ -4,10 +4,14 @@
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|Blue is an object that was being calibrated by the [[Lichborn woman]].<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}
-{{spoiler|book=lh-03-the-knight|Blue is a [[Divine Titan]].<ref name="lh-03-the-knight-c9" />}}
-{{spoiler|book=lh-03-the-knight|Blue is a character who gives orders to Green.<ref name="lh-03-the-knight-c20">''The Knight'', chapter 20</ref>}}
-{{spoiler|book=lh-03-the-knight|Blue uses telekinesis to enter the [[Blue Divine Titan]].<ref name="lh-03-the-knight-c20" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|Blue is an object that was being calibrated by the [[Lichborn woman]].<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Blue is a [[Divine Titan]].<ref name="lh-03-the-knight-c9" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Blue is a character who gives orders to Green.<ref name="lh-03-the-knight-c20">''The Knight'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Blue uses telekinesis to enter the [[Blue Divine Titan]].<ref name="lh-03-the-knight-c20" />}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“...but I finished calibrating Blue right before you were supposed to arrive, and then when you didn’t show up I kept running tests, so I don’t have anything⁠—”<ref name="lh-03-the-knight-c9" />}}

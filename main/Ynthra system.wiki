@@ -6,7 +6,11 @@
 }}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|The [[Ynthra system]] contains five [[Hives]] gathered by the [[Legion]].<ref name="lh-01-the-captain-c21">''The Captain'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|The [[Ynthra system]] contains five [[Hives]] gathered by the [[Legion]].<ref name="lh-01-the-captain-c21">''The Captain'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|The Ynthra system,” Sola said. “The Legion has gathered five Hives here, and no one knows why.<ref name="lh-01-the-captain-c21" />}}

@@ -11,64 +11,80 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The Divine [[Titan]] is an impressive [[Aethertech]] machine that [[Raion]] can summon from within [[Subspace]] using a specialized badge. This red pilotable vessel possesses its own awareness and communicates by vibrating its armor plates to create a voice. During combat, the machine can magnify a user's [[Combat Art]] and even combine with other units to engage a [[Behemoth]] in fist-to-fist fighting. While [[Raion]] once successfully flew the [[construct]] to tear through the [[Grand Hive]]'s armor, the machine eventually attempted to fuse with him by pushing energy into his body. Following a period of breakdown and the absorption of new material, the entity grew beyond [[Raion]]'s control and can now be held within a [[vault]].}}
 
-{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] is a being that [[Raion]] can summon from within [[Subspace]].<ref name="lh-01-the-captain-c14">''The Captain'', chapter 14</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] is a red pilotable vessel.<ref name="lh-01-the-captain-c17">''The Captain'', chapter 17</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Raion]] once flew a [[Divine Titan]].<ref name="lh-01-the-captain-c30">''The Captain'', chapter 30</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Divine Titans]] can be combined to defeat a [[Behemoth]].<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] responds to extreme need and can magnify a user's [[Combat Art]].<ref name="lh-01-the-captain-c32">''The Captain'', chapter 32</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Divine Titans]] are impressive [[Aethertech]] machines.<ref name="lh-01-the-captain-c32" />}}
-{{spoiler|book=lh-01-the-captain|[[Divine Titans]] can possess a level of awareness or personality.<ref name="lh-01-the-captain-c33">''The Captain'', chapter 33</ref>}}
-{{spoiler|book=lh-01-the-captain|A [[Divine Titan]] can go fist-to-fist with a [[Behemoth]].<ref name="lh-01-the-captain-c33" />}}
-{{spoiler|book=lh-01-the-captain|The [[Divine Titan]]'s voice is made by vibrating plates of armor.<ref name="lh-01-the-captain-c33" />}}
-{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] pushes its energy into the pilot to try and fuse with them.<ref name="lh-01-the-captain-c33" />}}
-{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] is a powerful machine that can be piloted.<ref name="lh-01-the-captain-c33" />}}
-{{spoiler|book=lh-01-the-captain|The [[Divine Titan]]'s pilot was being attacked by the machine.<ref name="lh-01-the-captain-c33" />}}
-{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] has absorbed new material to grow beyond [[Raion]]'s control.<ref name="lh-01-the-captain-c34">''The Captain'', chapter 34</ref>}}
-{{spoiler|book=lh-01-the-captain|A [[Divine Titan]] is an entity that can be held in the [[vault]].<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] is capable of tearing through the [[Grand Hive]]'s armor.<ref name="lh-01-the-captain-c43">''The Captain'', chapter 43</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] is a [[construct]] used by [[Raion]].<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Raion]]'s [[Divine Titan]] was experiencing a breakdown.<ref name="lh-01-the-captain-c45" />}}
-{{spoiler|book=lh-01-the-captain|[[Raion]] possesses a [[Divine Titan]] badge.<ref name="lh-01-the-captain-c45" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] is a being that [[Raion]] can summon from within [[Subspace]].<ref name="lh-01-the-captain-c14">''The Captain'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] is a red pilotable vessel.<ref name="lh-01-the-captain-c17">''The Captain'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Raion]] once flew a [[Divine Titan]].<ref name="lh-01-the-captain-c30">''The Captain'', chapter 30</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Divine Titans]] can be combined to defeat a [[Behemoth]].<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] responds to extreme need and can magnify a user's [[Combat Art]].<ref name="lh-01-the-captain-c32">''The Captain'', chapter 32</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Divine Titans]] are impressive [[Aethertech]] machines.<ref name="lh-01-the-captain-c32" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Divine Titans]] can possess a level of awareness or personality.<ref name="lh-01-the-captain-c33">''The Captain'', chapter 33</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|A [[Divine Titan]] can go fist-to-fist with a [[Behemoth]].<ref name="lh-01-the-captain-c33" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Divine Titan]]'s voice is made by vibrating plates of armor.<ref name="lh-01-the-captain-c33" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] pushes its energy into the pilot to try and fuse with them.<ref name="lh-01-the-captain-c33" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] is a powerful machine that can be piloted.<ref name="lh-01-the-captain-c33" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Divine Titan]]'s pilot was being attacked by the machine.<ref name="lh-01-the-captain-c33" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] has absorbed new material to grow beyond [[Raion]]'s control.<ref name="lh-01-the-captain-c34">''The Captain'', chapter 34</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|A [[Divine Titan]] is an entity that can be held in the [[vault]].<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] is capable of tearing through the [[Grand Hive]]'s armor.<ref name="lh-01-the-captain-c43">''The Captain'', chapter 43</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Divine Titan]] is a [[construct]] used by [[Raion]].<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Raion]]'s [[Divine Titan]] was experiencing a breakdown.<ref name="lh-01-the-captain-c45" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Raion]] possesses a [[Divine Titan]] badge.<ref name="lh-01-the-captain-c45" />}}</li>
+</ul>
+</div></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|[[Raion Raithe]] possesses the ability to summon a Divine [[Titan]], a massive mech standing one hundred and fifty feet tall. This machine is activated through the use of a circular badge key, and its power becomes significant when [[Raion]] utilizes it. The entity's capabilities are further enhanced by astral [[dragon]] blood that has soaked into the machine, though [[Raion]]'s piloting speed is noted to be comparable to that of his corrupted form. Despite this strength, [[Raion]] remains unable to control the Divine [[Titan]] without assistance from the [[Captain]].}}
 
-{{spoiler|book=lh-02-the-engineer|[[Raion Raithe]]'s power is significant when using his [[Divine Titan]].<ref name="lh-02-the-engineer-c37">''The Engineer'', chapter 37</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Raion]]'s piloting speed is compared to his corrupted [[Divine Titan]].<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Raion Raithe]] has an astral [[dragon]]'s blood that soaked into his [[Divine Titan]].<ref name="lh-02-the-engineer-c44">''The Engineer'', chapter 44</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Raion]] cannot control his [[Divine Titan]] without the [[Captain]]'s help.<ref name="lh-02-the-engineer-c50">''The Engineer'', chapter 50</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Raion Raithe]] can summon a [[Divine Titan]].<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}
-{{spoiler|book=lh-02-the-engineer|The [[Divine Titan]] is a hundred-and-fifty-foot mech.<ref name="lh-02-the-engineer-c54">''The Engineer'', chapter 54</ref>}}
-{{spoiler|book=lh-02-the-engineer|The [[Divine Titan]] is activated via a circular badge key.<ref name="lh-02-the-engineer-c54" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Raion Raithe]]'s power is significant when using his [[Divine Titan]].<ref name="lh-02-the-engineer-c37">''The Engineer'', chapter 37</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Raion]]'s piloting speed is compared to his corrupted [[Divine Titan]].<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Raion Raithe]] has an astral [[dragon]]'s blood that soaked into his [[Divine Titan]].<ref name="lh-02-the-engineer-c44">''The Engineer'', chapter 44</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Raion]] cannot control his [[Divine Titan]] without the [[Captain]]'s help.<ref name="lh-02-the-engineer-c50">''The Engineer'', chapter 50</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Raion Raithe]] can summon a [[Divine Titan]].<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Divine Titan]] is a hundred-and-fifty-foot mech.<ref name="lh-02-the-engineer-c54">''The Engineer'', chapter 54</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Divine Titan]] is activated via a circular badge key.<ref name="lh-02-the-engineer-c54" />}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The Divine [[Titan]] is a bright green, humanoid [[Aethertech]] [[construct]] featuring chest plates and designed to be piloted. These machines are used by the [[Titan Knights]] to magnify a pilot's abilities, though they are not considered [[Zenith Devices]] and possess certain restrictions that lead them to be described as proud. While a Divine [[Titan]] must be summoned to access specific restricted [[Aethertech]], they remain superior to any substitute when engaging the [[D’Niss]]. [[Raion]] is associated with a Divine [[Titan]], which he requires to perform his [[Combat Art]] on a large scale. Although the narrator possesses one, they have not been in control of a Divine [[Titan]] for a long time, and no individual unit has ever fought at the same level as [[Raion]] and the narrator combined.}}
 
-{{spoiler|book=lh-03-the-knight|A [[Divine Titan]] is a bright green humanoid mech.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Divine Titan]] has plates on its chest.<ref name="lh-03-the-knight-c9" />}}
-{{spoiler|book=lh-03-the-knight|The [[Divine Titan]] is a [[construct]] used by the [[Titan Knights]].<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}
-{{spoiler|book=lh-03-the-knight|A [[Divine Titan]] is superior to any substitute when fighting the [[D’Niss]].<ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Divine Titans]] are [[Aethertech]] constructs that have restrictions and are described as being 'proud'.<ref name="lh-03-the-knight-c20">''The Knight'', chapter 20</ref>}}
-{{spoiler|book=lh-03-the-knight|A [[Divine Titan]] must be summoned to use certain restricted [[Aethertech]].<ref name="lh-03-the-knight-c20" />}}
-{{spoiler|book=lh-03-the-knight|The narrator possesses a [[Divine Titan]].<ref name="lh-03-the-knight-c31">''The Knight'', chapter 31</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Raion]] needs a [[Divine Titan]] to perform his [[Combat Art]] on a large scale.<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Raion]] is associated with the [[Divine Titan]].<ref name="lh-03-the-knight-c37">''The Knight'', chapter 37</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Divine Titan]] is the crew's most effective weapon left.<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Divine Titans]] require pilots.<ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref>}}
-{{spoiler|book=lh-03-the-knight|The narrator has not been in control of a [[Divine Titan]] for a long time.<ref name="lh-03-the-knight-c42">''The Knight'', chapter 42</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Divine Titans]] are designed to magnify the abilities of their pilot.<ref name="lh-03-the-knight-c42" />}}
-{{spoiler|book=lh-03-the-knight|[[Divine Titans]] are not [[Zenith Devices]].<ref name="lh-03-the-knight-c42" />}}
-{{spoiler|book=lh-03-the-knight|No individual [[Divine Titan]] has ever been able to fight on the level of [[Raion]] and the narrator.<ref name="lh-03-the-knight-c43">''The Knight'', chapter 43</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|A [[Divine Titan]] is a bright green humanoid mech.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Divine Titan]] has plates on its chest.<ref name="lh-03-the-knight-c9" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Divine Titan]] is a [[construct]] used by the [[Titan Knights]].<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|A [[Divine Titan]] is superior to any substitute when fighting the [[D’Niss]].<ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Divine Titans]] are [[Aethertech]] constructs that have restrictions and are described as being 'proud'.<ref name="lh-03-the-knight-c20">''The Knight'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|A [[Divine Titan]] must be summoned to use certain restricted [[Aethertech]].<ref name="lh-03-the-knight-c20" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The narrator possesses a [[Divine Titan]].<ref name="lh-03-the-knight-c31">''The Knight'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Raion]] needs a [[Divine Titan]] to perform his [[Combat Art]] on a large scale.<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Raion]] is associated with the [[Divine Titan]].<ref name="lh-03-the-knight-c37">''The Knight'', chapter 37</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Divine Titan]] is the crew's most effective weapon left.<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Divine Titans]] require pilots.<ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The narrator has not been in control of a [[Divine Titan]] for a long time.<ref name="lh-03-the-knight-c42">''The Knight'', chapter 42</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Divine Titans]] are designed to magnify the abilities of their pilot.<ref name="lh-03-the-knight-c42" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Divine Titans]] are not [[Zenith Devices]].<ref name="lh-03-the-knight-c42" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|No individual [[Divine Titan]] has ever been able to fight on the level of [[Raion]] and the narrator.<ref name="lh-03-the-knight-c43">''The Knight'', chapter 43</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|The Divine [[Titan]] is a powerful mech controlled by [[Raion]] that possesses the ability to fly out of [[Shadow Ark]]. This entity is characterized by golden veins covering its surface and contains a cockpit where [[Omega]] pooled. Although the machine remained more or less in one piece for a time, it eventually began dissolving into red light during a fall toward [[Zykaros]].}}
 
-{{spoiler|book=lh-04-the-pilot|[[Raion]]'s [[Divine Titan]] is covered in golden veins.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Raion]]'s [[Divine Titan]] was in one piece, more or less.<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Divine Titans]] are powerful entities that can fly out of [[Shadow Ark]].<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Divine Titan]] has a cockpit where [[Omega]] pooled.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Divine Titan]] is a mech controlled by [[Raion]].<ref name="lh-04-the-pilot-c18" />}}
-{{spoiler|book=lh-04-the-pilot|[[Raion]]'s [[Divine Titan]] was dissolving into red light while falling toward [[Zykaros]].<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Raion]]'s [[Divine Titan]] is covered in golden veins.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Raion]]'s [[Divine Titan]] was in one piece, more or less.<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Divine Titans]] are powerful entities that can fly out of [[Shadow Ark]].<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Divine Titan]] has a cockpit where [[Omega]] pooled.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Divine Titan]] is a mech controlled by [[Raion]].<ref name="lh-04-the-pilot-c18" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Raion]]'s [[Divine Titan]] was dissolving into red light while falling toward [[Zykaros]].<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“There’s no substitute for a Divine Titan when it comes to fighting the D’Niss.”<ref name="lh-03-the-knight-c17" />}}

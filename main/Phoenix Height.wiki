@@ -6,7 +6,11 @@
 }}
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|[[Phoenix Height]] is a location mentioned in relation to the number of [[Path]] manuals.<ref name="cradle-02-soulsmith-c8">''Soulsmith'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|[[Phoenix Height]] is a location mentioned in relation to the number of [[Path]] manuals.<ref name="cradle-02-soulsmith-c8">''Soulsmith'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

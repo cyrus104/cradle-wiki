@@ -15,14 +15,18 @@
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|Clockworker is the name used by [[Jyrid]], an elderly human man with gray hair and a prominent member of the Advocates. He wears a full-body suit of bronze featuring an 'A' on his chest and a helmet that operates using the hands of an ancient clock. While possessing the power to lock physical objects in place, he ultimately betrayed the Advocates and let [[Starhammer]] down.}}
 
-{{spoiler|book=lh-02-the-engineer|[[Clockworker]] is an elderly human man and a member of the Advocates.<ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Clockworker]] has gray hair.<ref name="lh-02-the-engineer-c31" />}}
-{{spoiler|book=lh-02-the-engineer|[[Clockworker]] is a name used for [[Jyrid]].<ref name="lh-02-the-engineer-c40">''The Engineer'', chapter 40</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Clockworker]] wears a full-body suit of bronze with the [[Advocate]] 'A' on his chest.<ref name="lh-02-the-engineer-c40" />}}
-{{spoiler|book=lh-02-the-engineer|[[Clockworker]]'s helmet is bronze and functions with the hands of an ancient clock.<ref name="lh-02-the-engineer-c40" />}}
-{{spoiler|book=lh-02-the-engineer|[[Clockworker]] has the power to lock physical objects in place.<ref name="lh-02-the-engineer-c40" />}}
-{{spoiler|book=lh-02-the-engineer|[[Clockworker]] was a prominent member of the Advocates who betrayed them.<ref name="lh-02-the-engineer-c42">''The Engineer'', chapter 42</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Clockworker]] let [[Starhammer]] down.<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Clockworker]] is an elderly human man and a member of the Advocates.<ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Clockworker]] has gray hair.<ref name="lh-02-the-engineer-c31" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Clockworker]] is a name used for [[Jyrid]].<ref name="lh-02-the-engineer-c40">''The Engineer'', chapter 40</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Clockworker]] wears a full-body suit of bronze with the [[Advocate]] 'A' on his chest.<ref name="lh-02-the-engineer-c40" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Clockworker]]'s helmet is bronze and functions with the hands of an ancient clock.<ref name="lh-02-the-engineer-c40" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Clockworker]] has the power to lock physical objects in place.<ref name="lh-02-the-engineer-c40" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Clockworker]] was a prominent member of the Advocates who betrayed them.<ref name="lh-02-the-engineer-c42">''The Engineer'', chapter 42</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Clockworker]] let [[Starhammer]] down.<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|“Jyrid?” she asked the old man whom most called Clockworker.<ref name="lh-02-the-engineer-c40" />}}

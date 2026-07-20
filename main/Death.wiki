@@ -4,11 +4,19 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Death]] entered the [[Iteration]] and caused it to shake.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Death]] entered the [[Iteration]] and caused it to shake.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Death]] was calling [[Lindon]]'s name.<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Death]] is embodied in a black hole.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Death]] was calling [[Lindon]]'s name.<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Death]] is embodied in a black hole.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

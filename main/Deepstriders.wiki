@@ -11,16 +11,20 @@
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Deepstriders are a type of [[Kameira]] of the sea characterized as massive, blue-scaled leviathans with [[dragon]]-like mouths and solid blue eyes. These sea serpents possess the ability to command the motion of water and produce growls deep enough to shake the surrounding sea. Historically, these creatures made long-distance maritime travel impossible, though alchemists now claim to offer their legendary fortitude. While juvenile Deepstriders are identified by their blue scales, the entity within [[Meia]] exhibits a specific temperament defined by an impatience for combat and a preference for overwhelming force.}}
 
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Deepstriders]] are [[Kameira]] of the sea that can command the motion of water.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A baby Deepstrider is a juvenile [[Kameira]] of the sea with blue scales.<ref name="ee-shadow-01-of-shadow-and-sea-c4" />}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Alchemists]] claim to offer the fortitude of a Deepstrider.<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Deepstriders]] are huge, blue-scaled leviathans with mouths like [[dragons]].<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Deepstrider within [[Meia]] is impatient for combat and prefers overwhelming force.<ref name="ee-shadow-01-of-shadow-and-sea-c19">''Of Shadow and Sea'', chapter 19</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Deepstriders]] are sea serpents that once made long-distance sea travel impossible.<ref name="ee-shadow-01-of-shadow-and-sea-c20">''Of Shadow and Sea'', chapter 20</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Deepstriders]] have blue scales.<ref name="ee-shadow-01-of-shadow-and-sea-c20" />}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Deepstriders]] have solid blue eyes.<ref name="ee-shadow-01-of-shadow-and-sea-c20" />}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Deepstriders]] growl with a sound deep enough to shake the water.<ref name="ee-shadow-01-of-shadow-and-sea-c20" />}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Deepstrider is a type of [[Kameira]].<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Deepstriders]] are [[Kameira]] of the sea that can command the motion of water.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A baby Deepstrider is a juvenile [[Kameira]] of the sea with blue scales.<ref name="ee-shadow-01-of-shadow-and-sea-c4" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Alchemists]] claim to offer the fortitude of a Deepstrider.<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Deepstriders]] are huge, blue-scaled leviathans with mouths like [[dragons]].<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Deepstrider within [[Meia]] is impatient for combat and prefers overwhelming force.<ref name="ee-shadow-01-of-shadow-and-sea-c19">''Of Shadow and Sea'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Deepstriders]] are sea serpents that once made long-distance sea travel impossible.<ref name="ee-shadow-01-of-shadow-and-sea-c20">''Of Shadow and Sea'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Deepstriders]] have blue scales.<ref name="ee-shadow-01-of-shadow-and-sea-c20" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Deepstriders]] have solid blue eyes.<ref name="ee-shadow-01-of-shadow-and-sea-c20" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Deepstriders]] growl with a sound deep enough to shake the water.<ref name="ee-shadow-01-of-shadow-and-sea-c20" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Deepstrider is a type of [[Kameira]].<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“We have solutions that will give you the power of a Hydra, the constitution of a Nightwyrm, the fortitude of a Deepstrider...all the natural advantages that the Kameira have over man, they will be yours!<ref name="ee-shadow-01-of-shadow-and-sea-c8" />}}

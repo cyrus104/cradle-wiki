@@ -4,12 +4,20 @@
 }}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Luminian]] cathedrals exist.<ref name="ee-shadow-01-of-shadow-and-sea-c14">''Of Shadow and Sea'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Luminian]] cathedrals exist.<ref name="ee-shadow-01-of-shadow-and-sea-c14">''Of Shadow and Sea'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Darkness and Dawn ==
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Luminian cathedral]] is located in the center of the citadel.<ref name="ee-shadow-02-of-darkness-and-dawn-c8">''Of Darkness and Dawn'', chapter 8</ref>}}
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The entrance columns of the [[Luminian cathedral]] are carved with reliefs of famous historical heroes, including [[Loreli]].<ref name="ee-shadow-02-of-darkness-and-dawn-c8" />}}
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Luminian cathedral]] features stained glass depicting [[Emperor (Elder Empire)|the Emperor]].<ref name="ee-shadow-02-of-darkness-and-dawn-c8" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Luminian cathedral]] is located in the center of the citadel.<ref name="ee-shadow-02-of-darkness-and-dawn-c8">''Of Darkness and Dawn'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The entrance columns of the [[Luminian cathedral]] are carved with reliefs of famous historical heroes, including [[Loreli]].<ref name="ee-shadow-02-of-darkness-and-dawn-c8" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Luminian cathedral]] features stained glass depicting [[Emperor (Elder Empire)|the Emperor]].<ref name="ee-shadow-02-of-darkness-and-dawn-c8" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

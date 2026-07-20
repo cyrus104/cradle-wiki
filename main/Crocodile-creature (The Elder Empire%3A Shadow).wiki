@@ -7,7 +7,11 @@
 }}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A four-legged creature with a pair of crocodile heads lumbered down the steps.<ref name="ee-shadow-01-of-shadow-and-sea-c21">''Of Shadow and Sea'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A four-legged creature with a pair of crocodile heads lumbered down the steps.<ref name="ee-shadow-01-of-shadow-and-sea-c21">''Of Shadow and Sea'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

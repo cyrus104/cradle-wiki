@@ -5,10 +5,14 @@
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|[[Governor Seiren]] questions [[Raion]]'s desire to convince others.<ref name="lh-03-the-knight-c28">''The Knight'', chapter 28</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Governor Seiren]] is the Governor.<ref name="lh-03-the-knight-c29">''The Knight'', chapter 29</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Governor Seiren]]'s family is the reason [[Visiria]] has a governor instead of a sovereign planetary government.<ref name="lh-03-the-knight-c33">''The Knight'', chapter 33</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Governor Seiren]] is the [[Planetary Governor]].<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[Governor Seiren]] questions [[Raion]]'s desire to convince others.<ref name="lh-03-the-knight-c28">''The Knight'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Governor Seiren]] is the Governor.<ref name="lh-03-the-knight-c29">''The Knight'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Governor Seiren]]'s family is the reason [[Visiria]] has a governor instead of a sovereign planetary government.<ref name="lh-03-the-knight-c33">''The Knight'', chapter 33</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Governor Seiren]] is the [[Planetary Governor]].<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“Oh my, does that mean you have no one else you wish to convince?” Governor Seiren asked.<ref name="lh-03-the-knight-c28" />}}

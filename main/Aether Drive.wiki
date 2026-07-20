@@ -6,10 +6,18 @@
 }}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[Mell]] asks why the narrator was hired if they have an [[Aether Drive]].<ref name="lh-02-the-engineer-c19">''The Engineer'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Mell]] asks why the narrator was hired if they have an [[Aether Drive]].<ref name="lh-02-the-engineer-c19">''The Engineer'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|The [[Aether Drive]] is a [[Subspace]] engine powered by magic.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|The [[Aether Drive]] is a [[Subspace]] engine powered by magic.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -7,14 +7,22 @@
 {{spoiler|book=cradle-13-threshold|[[The Phoenix]] Division is a branch of the [[Abidan]] tasked with the critical roles of healing and reconstruction. Operating out of a massive headquarters in [[Sanctum]] characterized by mountain-sized white domes, the division functions as the most significant medical facility in existence. Beyond providing medical care, Phoenixes are responsible for repairing damage caused by spatial attacks, combating corruption, and restoring entire continents to their previous states of order. While they can return things to how they were, they cannot create new rules or fundamentally alter the laws of reality. Due to the widespread damage across [[Abidan]]-controlled sectors, the division is currently under extreme pressure and is considered one of the most overworked branches within the organization.}}
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|The [[Phoenix Division]] is a division of the [[Abidan]].<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}
-{{spoiler|book=cradle-10-reaper|The [[Phoenix Division]]'s headquarters has gleaming white domes the size of a mountain range.<ref name="cradle-10-reaper-c3" />}}
-{{spoiler|book=cradle-10-reaper|The [[Phoenix Division]] is responsible for healing and rebuilding.<ref name="cradle-10-reaper-c3" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|The [[Phoenix Division]] is a division of the [[Abidan]].<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Phoenix Division]]'s headquarters has gleaming white domes the size of a mountain range.<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Phoenix Division]] is responsible for healing and rebuilding.<ref name="cradle-10-reaper-c3" />}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|The [[Phoenix Division]] is an [[Abidan]] division.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}
-{{spoiler|book=cradle-13-threshold|The [[Phoenix Division]] is an [[Abidan]] division.<ref name="cradle-13-threshold-c10" />}}
-{{spoiler|book=cradle-13-threshold|[[Phoenix Division]] headquarters is located in [[Sanctum]].<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The [[Phoenix Division]] is an [[Abidan]] division.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Phoenix Division]] is an [[Abidan]] division.<ref name="cradle-13-threshold-c10" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Phoenix Division]] headquarters is located in [[Sanctum]].<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

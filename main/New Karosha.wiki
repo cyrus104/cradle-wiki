@@ -6,8 +6,12 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Karoshan]] colonists refer to their settlement as [[New Karosha]].<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}
-{{spoiler|book=lh-04-the-pilot|Some people refer to [[Basyrryx]] as [[New Karosha]].<ref name="lh-04-the-pilot-c7">''The Pilot'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Karoshan]] colonists refer to their settlement as [[New Karosha]].<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Some people refer to [[Basyrryx]] as [[New Karosha]].<ref name="lh-04-the-pilot-c7">''The Pilot'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

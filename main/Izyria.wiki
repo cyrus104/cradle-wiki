@@ -9,35 +9,55 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|Izyria is a continent currently experiencing significant instability, characterized by food shortages, civil unrest, and violence between various [[Guilds]]. The region is facing a leadership crisis due to the disappearance of its [[Regent]], which has led to accusations against [[Imperialists]] for inciting chaos. Historically, [[Izyrian]] culture is deeply rooted in combat traditions; the continent is home to massive gladiator arenas and the [[Champion’s Guild]], which maintains its headquarters in the city of [[Axciss]]. These fighting traditions are so ingrained that even [[Emperor (Elder Empire)|the Emperor]] has historically adhered to the rules of the [[arena]] to gain tribal support. While much of Izyria follows [[Imperial law]], northern regions maintain older customs where tradition carries more weight than the [[Empire]]. The continent is also known for its distinct celestial patterns, such as seeing the moon while the [[Aurelian continent]] experiences daylight.}}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Izyria]] is a place [[Calder]] considers visiting to connect with his culture.<ref name="ee-sea-01-of-sea-and-shadow-c4">''Of Sea and Shadow'', chapter 4</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Izyria]] has great arenas.<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Izyria]] is a place [[Calder]] considers visiting to connect with his culture.<ref name="ee-sea-01-of-sea-and-shadow-c4">''Of Sea and Shadow'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Izyria]] has great arenas.<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Located in the north, Izyria is a location where food can be collected and packages are delivered to a gladiatorial [[arena]] built by its ancestors. The region was destabilized during the command of [[Alagaeus]], leading to a state of chaos. Despite these struggles, the area remains accessible through free delivery from an alchemist.}}
 
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A package is being delivered to a gladiatorial [[arena]] in [[Izyria]].<ref name="ee-sea-02-of-dawn-and-darkness-c5">''Of Dawn and Darkness'', chapter 5</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Izyria]] is a place where food can be picked up.<ref name="ee-sea-02-of-dawn-and-darkness-c5" />}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Izyria]] is in a state of chaos.<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Izyria]] was destabilized while under the command of [[Alagaeus]].<ref name="ee-sea-02-of-dawn-and-darkness-c8" />}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Izyria]] is located in the north.<ref name="ee-sea-02-of-dawn-and-darkness-c15">''Of Dawn and Darkness'', chapter 15</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Izyrian]] ancestors built the [[arena]].<ref name="ee-sea-02-of-dawn-and-darkness-c15" />}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Izyria]] is a location that can be reached via free delivery from an alchemist.<ref name="ee-sea-02-of-dawn-and-darkness-c17">''Of Dawn and Darkness'', chapter 17</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Izyria]] is a location.<ref name="ee-sea-02-of-dawn-and-darkness-c17" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A package is being delivered to a gladiatorial [[arena]] in [[Izyria]].<ref name="ee-sea-02-of-dawn-and-darkness-c5">''Of Dawn and Darkness'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Izyria]] is a place where food can be picked up.<ref name="ee-sea-02-of-dawn-and-darkness-c5" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Izyria]] is in a state of chaos.<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Izyria]] was destabilized while under the command of [[Alagaeus]].<ref name="ee-sea-02-of-dawn-and-darkness-c8" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Izyria]] is located in the north.<ref name="ee-sea-02-of-dawn-and-darkness-c15">''Of Dawn and Darkness'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Izyrian]] ancestors built the [[arena]].<ref name="ee-sea-02-of-dawn-and-darkness-c15" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Izyria]] is a location that can be reached via free delivery from an alchemist.<ref name="ee-sea-02-of-dawn-and-darkness-c17">''Of Dawn and Darkness'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Izyria]] is a location.<ref name="ee-sea-02-of-dawn-and-darkness-c17" />}}</li>
+</ul>
+</div></div>
 
 == Of Darkness and Dawn ==
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Izyria]] is a continent.<ref name="ee-shadow-02-of-darkness-and-dawn-c7">''Of Darkness and Dawn'', chapter 7</ref>}}
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|People in [[Izyria]] see the moon while the [[Aurelian continent]] enjoys daylight.<ref name="ee-shadow-02-of-darkness-and-dawn-c18">''Of Darkness and Dawn'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Izyria]] is a continent.<ref name="ee-shadow-02-of-darkness-and-dawn-c7">''Of Darkness and Dawn'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|People in [[Izyria]] see the moon while the [[Aurelian continent]] enjoys daylight.<ref name="ee-shadow-02-of-darkness-and-dawn-c18">''Of Darkness and Dawn'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Kings and Killers ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Loreli]] is reported to have snuck off to [[Izyria]].<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|There is an obscure sect in the jungles of northern [[Izyria]] that worships lumberjacks.<ref name="ee-sea-03-of-kings-and-killers-c9" />}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Izyria]] is a location that the [[Champion]] [[Twelve]] plans to travel back to.<ref name="ee-sea-03-of-kings-and-killers-c13">''Of Kings and Killers'', chapter 13</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Izyria]] is a place where one could be Pirate [[King]].<ref name="ee-sea-03-of-kings-and-killers-c16">''Of Kings and Killers'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Loreli]] is reported to have snuck off to [[Izyria]].<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|There is an obscure sect in the jungles of northern [[Izyria]] that worships lumberjacks.<ref name="ee-sea-03-of-kings-and-killers-c9" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Izyria]] is a location that the [[Champion]] [[Twelve]] plans to travel back to.<ref name="ee-sea-03-of-kings-and-killers-c13">''Of Kings and Killers'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Izyria]] is a place where one could be Pirate [[King]].<ref name="ee-sea-03-of-kings-and-killers-c16">''Of Kings and Killers'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Izyria]] is a location containing [[Consultant]] chapter houses.<ref name="ee-shadow-03-of-killers-and-kings-c9">''Of Killers and Kings'', chapter 9</ref>}}
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Izyria]] is a location [[Loreli]] was traveling toward.<ref name="ee-shadow-03-of-killers-and-kings-c18">''Of Killers and Kings'', chapter 18</ref>}}
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Governess of [[Izyria]] has started to rebuild the [[Champion’s Guild]].<ref name="ee-shadow-03-of-killers-and-kings-c27">''Of Killers and Kings'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Izyria]] is a location containing [[Consultant]] chapter houses.<ref name="ee-shadow-03-of-killers-and-kings-c9">''Of Killers and Kings'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Izyria]] is a location [[Loreli]] was traveling toward.<ref name="ee-shadow-03-of-killers-and-kings-c18">''Of Killers and Kings'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Governess of [[Izyria]] has started to rebuild the [[Champion’s Guild]].<ref name="ee-shadow-03-of-killers-and-kings-c27">''Of Killers and Kings'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -6,7 +6,11 @@
 }}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The [[Twin Guardians of the Twin Star Sect]] are two [[Remnants]].<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The [[Twin Guardians of the Twin Star Sect]] are two [[Remnants]].<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

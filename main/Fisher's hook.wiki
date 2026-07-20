@@ -6,7 +6,11 @@
 }}
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|A [[Fisher's hook]] is a curved [[sword]].<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|A [[Fisher's hook]] is a curved [[sword]].<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

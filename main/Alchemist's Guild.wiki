@@ -9,34 +9,58 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The Alchemist's [[Guild]], also known as the [[Guild]] of [[Alchemists]] or [[Kanatalia]], is one of the ten influential [[Imperial Guilds]] that serve as pillars of the [[Aurelian Empire]]. Recognized as the wealthiest and most well-connected of the [[Guilds]], it maintains a significant presence through various properties and chapter houses across the [[Empire]]. The organization is characterized by its members' distinctive attire, which typically includes stained leather aprons and large glass goggles. While many members are traditional practitioners of [[alchemy]], the [[Guild]] also employs private security forces and individuals equipped with exotic artifacts or specialized weaponry, such as pistols integrated with smoking chemical bottles. [[The Guild]]'s activities are diverse and often controversial. They operate an Alchemical Academy and conduct research that includes performing experiments on high-level [[Imperial]] prisoners to alter their physical and mental states for increased docility. Their expertise extends to the production of highly valuable substances, including stimulants, poisons—such as gases that can turn a person inside out—and specialized fuels for alchemical stoves. They also hold proprietary secrets regarding the creation of [[Champions]] and provide essential support to other [[Guilds]]. Despite their reputation for being against peace, the [[Guild]] is a major economic force that profits from chaos and maintains high profit margins on its medicinal and chemical products. Leadership within the [[Guild]] is held by a Head, such as [[Nathanael Bareius]], who is described as exceptionally wealthy and paranoid. [[The Guild]]'s influence is so pervasive that its members are accepted in nearly all circles, allowing the organization to gather intelligence on other [[Guilds]]. However, the [[Guild]]'s role in the [[Empire]] is shifting; following the death of [[Emperor (Elder Empire)|the Emperor]], its traditional bonds with other [[Guilds]] have begun to fray as political hierarchies are challenged.}}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Alchemist's Guild]] designed [[redshot]] ammunition.<ref name="ee-sea-01-of-sea-and-shadow-c1">''Of Sea and Shadow'', chapter 1</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|Some alchemists in the [[Guild]] try to duplicate the [[Gray Island]]'s mist in labs but fail.<ref name="ee-sea-01-of-sea-and-shadow-c18">''Of Sea and Shadow'', chapter 18</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Guild]] of [[Alchemists]] performs experiments on inmates in [[Imperial]] prisons.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Alchemist's Guild]] designed [[redshot]] ammunition.<ref name="ee-sea-01-of-sea-and-shadow-c1">''Of Sea and Shadow'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Some alchemists in the [[Guild]] try to duplicate the [[Gray Island]]'s mist in labs but fail.<ref name="ee-sea-01-of-sea-and-shadow-c18">''Of Sea and Shadow'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Guild]] of [[Alchemists]] performs experiments on inmates in [[Imperial]] prisons.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Based in [[Kanatalia]], the Alchemist's [[Guild]] maintains significant influence through various professional and political connections. The organization manages contracts with individuals such as [[Fletcher]] and maintains an association with [[Kanatalia]] itself. Its authority is strong enough to enforce its power over figures like [[Meia]]. Furthermore, the [[Guild]] operates under the direction of [[Emperor (Elder Empire)|the Emperor]] by carrying out his specific assignments.}}
 
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Fletcher]] has Alchemist’s [[Guild]] contracts.<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kanatalia]] is associated with the Alchemist’s [[Guild]].<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Meia]] is enforced by the power of the Alchemist’s [[Guild]].<ref name="ee-shadow-01-of-shadow-and-sea-c11">''Of Shadow and Sea'', chapter 11</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Guild]] of [[Alchemists]] is located in [[Kanatalia]].<ref name="ee-shadow-01-of-shadow-and-sea-c16">''Of Shadow and Sea'', chapter 16</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Guild]] of [[Alchemists]] carries out assignments from [[Emperor (Elder Empire)|the Emperor]].<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Fletcher]] has Alchemist’s [[Guild]] contracts.<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kanatalia]] is associated with the Alchemist’s [[Guild]].<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Meia]] is enforced by the power of the Alchemist’s [[Guild]].<ref name="ee-shadow-01-of-shadow-and-sea-c11">''Of Shadow and Sea'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Guild]] of [[Alchemists]] is located in [[Kanatalia]].<ref name="ee-shadow-01-of-shadow-and-sea-c16">''Of Shadow and Sea'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Guild]] of [[Alchemists]] carries out assignments from [[Emperor (Elder Empire)|the Emperor]].<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Dawn and Darkness ==
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Guild]] of [[Alchemists]] marks up their potions by eighty percent.<ref name="ee-sea-02-of-dawn-and-darkness-c17">''Of Dawn and Darkness'', chapter 17</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Guild]] of [[Alchemists]] marks up their potions by eighty percent.<ref name="ee-sea-02-of-dawn-and-darkness-c17">''Of Dawn and Darkness'', chapter 17</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Darkness and Dawn ==
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Alchemist's Guild]] possesses obscene wealth.<ref name="ee-shadow-02-of-darkness-and-dawn-c8">''Of Darkness and Dawn'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Alchemist's Guild]] possesses obscene wealth.<ref name="ee-shadow-02-of-darkness-and-dawn-c8">''Of Darkness and Dawn'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Kings and Killers ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Petal]] is more talented than the Alchemist’s [[Guild]] recognized.<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Alchemists]] of the Alchemist’s [[Guild]] often wear a uniform consisting of bulging glass goggles, a thick apron, and gloves.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|A member of the Alchemist’s [[Guild]] is working on [[Baldezar Kern]]'s wounds.<ref name="ee-sea-03-of-kings-and-killers-c7">''Of Kings and Killers'', chapter 7</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Alchemist's Guild]] is secretly dealing with the [[Magisters]].<ref name="ee-sea-03-of-kings-and-killers-c11">''Of Kings and Killers'', chapter 11</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Petal]] is more talented than the Alchemist’s [[Guild]] recognized.<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Alchemists]] of the Alchemist’s [[Guild]] often wear a uniform consisting of bulging glass goggles, a thick apron, and gloves.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|A member of the Alchemist’s [[Guild]] is working on [[Baldezar Kern]]'s wounds.<ref name="ee-sea-03-of-kings-and-killers-c7">''Of Kings and Killers'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Alchemist's Guild]] is secretly dealing with the [[Magisters]].<ref name="ee-sea-03-of-kings-and-killers-c11">''Of Kings and Killers'', chapter 11</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Head of the Alchemist’s Guild]] relies on powerful stimulants known to [[alchemy]].<ref name="ee-shadow-03-of-killers-and-kings-c4">''Of Killers and Kings'', chapter 4</ref>}}
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Alchemist’s [[Guild]] crafts smoke used to loosen tongues.<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Head of the Alchemist’s Guild]] relies on powerful stimulants known to [[alchemy]].<ref name="ee-shadow-03-of-killers-and-kings-c4">''Of Killers and Kings'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Alchemist’s [[Guild]] crafts smoke used to loosen tongues.<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

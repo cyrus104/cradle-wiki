@@ -9,12 +9,16 @@
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|[[Fathom]] [[Planetary Security]] is an organization led by a Vice Chief, described as a plump woman who travels with drones. Although the group operates vessels equipped with [[Subspace Drives]], they are considered to have no business in their current location. Following an announcement of a state of emergency, the organization was eventually held off by [[Varic Vallenar]] acting alone.}}
 
-{{spoiler|book=lh-04-the-pilot|The Vice Chief of [[Fathom Planetary Security]] is a plump woman accompanied by drones.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Fathom]]’s [[Planetary Security]] is an organization with a Vice Chief.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Fathom Planetary Security]] is a group that should not have business in the current location.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Fathom Planetary Security]] operates ships with [[Subspace Drives]].<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Fathom Planetary Security]] announced a state of emergency.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Fathom]]’s [[Planetary Security]] is a group that [[Varic Vallenar]] held off on his own.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|The Vice Chief of [[Fathom Planetary Security]] is a plump woman accompanied by drones.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Fathom]]’s [[Planetary Security]] is an organization with a Vice Chief.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Fathom Planetary Security]] is a group that should not have business in the current location.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Fathom Planetary Security]] operates ships with [[Subspace Drives]].<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Fathom Planetary Security]] announced a state of emergency.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Fathom]]’s [[Planetary Security]] is a group that [[Varic Vallenar]] held off on his own.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“Fathom Planetary Security should have no business here, and our subsequent investigations confirmed as much.”<ref name="lh-04-the-pilot-c10" />}}

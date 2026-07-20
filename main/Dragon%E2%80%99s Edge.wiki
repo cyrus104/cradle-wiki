@@ -9,11 +9,15 @@
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|The Dragon’s Edge is a [[Perfected]] dreadnought mentioned by Kelthriss. During combat, this unit activates its central cannons to engage targets. However, the vessel is kept in check and pinned down by [[The Last Horizon]].}}
 
-{{spoiler|book=lh-02-the-engineer|[[Dragon’s Edge]] is a [[Perfected]] dreadnought.<ref name="lh-02-the-engineer-c35">''The Engineer'', chapter 35</ref>}}
-{{spoiler|book=lh-02-the-engineer|Dragon's Edge is a group or unit mentioned by Kelthriss.<ref name="lh-02-the-engineer-c35" />}}
-{{spoiler|book=lh-02-the-engineer|[[Dragon’s Edge]] is a dreadnought that activates central cannons.<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[The Last Horizon]] is keeping [[Dragon’s Edge]] pinned down.<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Horizon]] keeps [[Dragon’s Edge]] in check.<ref name="lh-02-the-engineer-c38" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Dragon’s Edge]] is a [[Perfected]] dreadnought.<ref name="lh-02-the-engineer-c35">''The Engineer'', chapter 35</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Dragon's Edge is a group or unit mentioned by Kelthriss.<ref name="lh-02-the-engineer-c35" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Dragon’s Edge]] is a dreadnought that activates central cannons.<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[The Last Horizon]] is keeping [[Dragon’s Edge]] pinned down.<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Horizon]] keeps [[Dragon’s Edge]] in check.<ref name="lh-02-the-engineer-c38" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

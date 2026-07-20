@@ -6,8 +6,12 @@
 }}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|The narrator previously wore an [[Aethertech mask]].<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Varic]] uses a low-grade [[Aethertech mask]] to hide his face from scans.<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|The narrator previously wore an [[Aethertech mask]].<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Varic]] uses a low-grade [[Aethertech mask]] to hide his face from scans.<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -5,9 +5,13 @@
 }}
 
 == Unsouled ==
-{{spoiler|book=cradle-01-unsouled|[[Lindon's mother]] is a [[Forger]] and a [[Soulsmith]] who specializes in manipulating [[madra]] as a physical material.<ref name="cradle-01-unsouled-c2">''Unsouled'', chapter 2</ref>}}
-{{spoiler|book=cradle-01-unsouled|[[Lindon's mother]] can bind a [[Remnant]] version of a fruit back to its physical vessel.<ref name="cradle-01-unsouled-c2" />}}
-{{spoiler|book=cradle-01-unsouled|[[Lindon's mother]] led the work on the four forged snowfoxes and was expecting a reward from the Patriarch.<ref name="cradle-01-unsouled-c7">''Unsouled'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-01-unsouled|[[Lindon's mother]] is a [[Forger]] and a [[Soulsmith]] who specializes in manipulating [[madra]] as a physical material.<ref name="cradle-01-unsouled-c2">''Unsouled'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Lindon's mother]] can bind a [[Remnant]] version of a fruit back to its physical vessel.<ref name="cradle-01-unsouled-c2" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Lindon's mother]] led the work on the four forged snowfoxes and was expecting a reward from the Patriarch.<ref name="cradle-01-unsouled-c7">''Unsouled'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

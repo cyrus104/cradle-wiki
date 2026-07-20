@@ -6,7 +6,11 @@
 }}
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|The first step to [[Underlord]] is opening the [[soulspace]] by reaching [[Truegold]] peak and controlling [[madra]].<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|The first step to [[Underlord]] is opening the [[soulspace]] by reaching [[Truegold]] peak and controlling [[madra]].<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-06-underlord|“First, you must open your soulspace, which involves reaching the peak of Truegold and controlling your madra completely.<ref name="cradle-06-underlord-c5" />}}

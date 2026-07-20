@@ -16,17 +16,25 @@
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|Kiuran the [[Hound]] is a rat-like man characterized by dark, beady eyes and a thin beard. Serving as a heavenly messenger, he wears smooth eggshell armor belonging to the [[Abidan]] and claims the ability to perceive future outcomes long before they occur. During his time as a [[Hound]], he was eventually contained within a blue bubble of the [[Way]]. While in this state, he engaged in conversation with [[Yerin]] regarding the burial of a [[dragon]].}}
 
-{{spoiler|book=cradle-08-wintersteel|[[Kiuran]] is a [[Hound]] and a rat-like man with a thin beard and dark, beady eyes.<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Kiuran]] wears smooth eggshell armor of the [[Abidan]].<ref name="cradle-08-wintersteel-c2" />}}
-{{spoiler|book=cradle-08-wintersteel|[[Kiuran]] is a heavenly messenger.<ref name="cradle-08-wintersteel-c2" />}}
-{{spoiler|book=cradle-08-wintersteel|[[Kiuran]] claims to see the future/outcomes long ago.<ref name="cradle-08-wintersteel-c2" />}}
-{{spoiler|book=cradle-08-wintersteel|[[Kiuran]] is of the [[Hounds]].<ref name="cradle-08-wintersteel-c11">''Wintersteel'', chapter 11</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Kiuran]] the [[Hound]] is contained within a blue bubble of the [[Way]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Kiuran]] is known as [[Kiuran]] the [[Hound]].<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Yerin]] spoke to [[Kiuran]] about burying a [[dragon]].<ref name="cradle-08-wintersteel-c28" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Kiuran]] is a [[Hound]] and a rat-like man with a thin beard and dark, beady eyes.<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Kiuran]] wears smooth eggshell armor of the [[Abidan]].<ref name="cradle-08-wintersteel-c2" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Kiuran]] is a heavenly messenger.<ref name="cradle-08-wintersteel-c2" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Kiuran]] claims to see the future/outcomes long ago.<ref name="cradle-08-wintersteel-c2" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Kiuran]] is of the [[Hounds]].<ref name="cradle-08-wintersteel-c11">''Wintersteel'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Kiuran]] the [[Hound]] is contained within a blue bubble of the [[Way]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Kiuran]] is known as [[Kiuran]] the [[Hound]].<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Yerin]] spoke to [[Kiuran]] about burying a [[dragon]].<ref name="cradle-08-wintersteel-c28" />}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Kiuran]] is a one-star [[Titan]] and a member of the [[Hounds]].<ref name="cradle-12-waybound-c31">''Waybound'', chapter 31</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Kiuran]] is a one-star [[Titan]] and a member of the [[Hounds]].<ref name="cradle-12-waybound-c31">''Waybound'', chapter 31</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|“You’re not aiming to keep civilians out of it?” Yerin asked her companion. Kiuran the Hound chuckled, looking over the world beneath him like a rat-faced king.<ref name="cradle-08-wintersteel-c28" />}}

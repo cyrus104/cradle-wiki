@@ -6,8 +6,12 @@
 }}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Alin]] is attempting to establish a [[White District]] in his territory.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}
-{{spoiler|book=tg-03-city-of-light|The [[White District]] is a location in the City.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Alin]] is attempting to establish a [[White District]] in his territory.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The [[White District]] is a location in the City.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

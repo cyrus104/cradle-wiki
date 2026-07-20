@@ -4,14 +4,26 @@
 }}
 
 == Unsouled ==
-{{spoiler|book=cradle-01-unsouled|[[Iteration One-one-zero]] is the location [[Suriel]] has arrived in.<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref>}}
-{{spoiler|book=cradle-01-unsouled|[[Suriel]] requests clearance for unbound transportation within [[Iteration One-one-zero]].<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-01-unsouled|[[Iteration One-one-zero]] is the location [[Suriel]] has arrived in.<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Suriel]] requests clearance for unbound transportation within [[Iteration One-one-zero]].<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
+</ul>
+</div></div>
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|[[Iteration One-one-zero]] has deviated from its primary course.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|[[Iteration One-one-zero]] has deviated from its primary course.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|[[Iteration One-one-zero]] is a location in empty space.<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|[[Iteration One-one-zero]] is a location in empty space.<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

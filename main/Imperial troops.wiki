@@ -6,10 +6,18 @@
 }}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Imperial troops]] can be called upon by [[Blackwatch]] to assist in their duties.<ref name="ee-sea-01-of-sea-and-shadow-c13">''Of Sea and Shadow'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Imperial troops]] can be called upon by [[Blackwatch]] to assist in their duties.<ref name="ee-sea-01-of-sea-and-shadow-c13">''Of Sea and Shadow'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Imperial troops]] were among the professional investigators who failed to find the Kidnapper prior to his death.<ref name="ee-shadow-01-of-shadow-and-sea-c3">''Of Shadow and Sea'', chapter 3</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Imperial troops]] were among the professional investigators who failed to find the Kidnapper prior to his death.<ref name="ee-shadow-01-of-shadow-and-sea-c3">''Of Shadow and Sea'', chapter 3</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

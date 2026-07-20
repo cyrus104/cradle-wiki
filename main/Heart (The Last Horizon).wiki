@@ -6,7 +6,11 @@
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|The Heart is a magical artifact located on [[Visiria]].<ref name="lh-03-the-knight-c32">''The Knight'', chapter 32</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|The Heart is a magical artifact located on [[Visiria]].<ref name="lh-03-the-knight-c32">''The Knight'', chapter 32</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|It was better to say that than to tell him we’d left Visiria without the magical artifact we’d come for. "We had to get you off the planet first."<ref name="lh-03-the-knight-c32" />}}

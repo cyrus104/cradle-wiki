@@ -6,7 +6,11 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Heralds]] and [[Monarchs]] have made strange comments about the [[Ninecloud team]].<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Heralds]] and [[Monarchs]] have made strange comments about the [[Ninecloud team]].<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

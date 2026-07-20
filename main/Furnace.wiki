@@ -4,11 +4,19 @@
 }}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|The [[Furnace]] is a technique [[Malachi]] uses to hurl orange fireballs.<ref name="tg-01-house-of-blades-c20">''House of Blades'', chapter 20</ref>}}
-{{spoiler|book=tg-01-house-of-blades|The [[Furnace]] can be called upon by waving a brand in a specific pattern.<ref name="tg-01-house-of-blades-c21">''House of Blades'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|The [[Furnace]] is a technique [[Malachi]] uses to hurl orange fireballs.<ref name="tg-01-house-of-blades-c20">''House of Blades'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|The [[Furnace]] can be called upon by waving a brand in a specific pattern.<ref name="tg-01-house-of-blades-c21">''House of Blades'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Kai]] instructed someone to take scrap metal to the furnace.<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Kai]] instructed someone to take scrap metal to the furnace.<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-03-city-of-light|“Take the scrap metal to the furnace,” he said, on his way out.<ref name="tg-03-city-of-light-c22" />}}

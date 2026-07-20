@@ -7,10 +7,18 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|A [[Class Three Fiend]] was crushed by [[Ozriel]].<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|A [[Class Three Fiend]] was crushed by [[Ozriel]].<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|Class Three [[Fiends]] are not threats to a full, stable [[Iteration]].<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|Class Three [[Fiends]] are not threats to a full, stable [[Iteration]].<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -7,8 +7,12 @@
 }}
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Norian]] is a guard in the [[Imperial Palace]], but he is not an [[Imperial Guard]].<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Norian]] used an [[Awakened bell]] to sound an alarm.<ref name="ee-shadow-03-of-killers-and-kings-c20" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Norian]] is a guard in the [[Imperial Palace]], but he is not an [[Imperial Guard]].<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Norian]] used an [[Awakened bell]] to sound an alarm.<ref name="ee-shadow-03-of-killers-and-kings-c20" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

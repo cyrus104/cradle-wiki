@@ -6,8 +6,12 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|Saeya uses a rainbow sword.<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}
-{{spoiler|book=cradle-07-uncrowned|Saeya uses a colored glass [[sword]].<ref name="cradle-07-uncrowned-c13" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|Saeya uses a rainbow sword.<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|Saeya uses a colored glass [[sword]].<ref name="cradle-07-uncrowned-c13" />}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-07-uncrowned|“Tidewalkers and Ghost-Blades,” Naru Saeya observed, hefting her colored glass sword.<ref name="cradle-07-uncrowned-c13" />}}

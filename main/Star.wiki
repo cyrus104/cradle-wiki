@@ -7,7 +7,11 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Star]] killed [[Clockworker]] for betraying them.<ref name="lh-04-the-pilot-c27">''The Pilot'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Star]] killed [[Clockworker]] for betraying them.<ref name="lh-04-the-pilot-c27">''The Pilot'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

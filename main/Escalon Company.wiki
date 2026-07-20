@@ -9,22 +9,34 @@
 {{spoiler|book=lh-04-the-pilot|The Escalon Company is a mid-level interplanetary corporation. While it maintains various business interests, including a tattoo parlor and an experimental hospital wing, its physical headquarters is described as having a dilapidated appearance similar to a low-end loan office. The organization has been linked to illegal activities, such as smuggling and the manufacturing of weapons, leading to arrest warrants for its president, [[Jak Escalon]]. The company's reputation suffered significantly after it became known that its founder, [[Omega]], was also the [[Pilot]] of [[The Last Horizon]]. Historically, the company's founder was a violent individual responsible for massacres, though he is reportedly kept under control by his family. The company employs various personnel, including violent criminals and professional guards, and has utilized specialized assets like [[Omega]] as a secret weapon.}}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|[[Jak]] is the acting president of the [[Escalon Company]].<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Escalon Company]] is a mid-level corporation founded by [[Omega]].<ref name="lh-01-the-captain-c25">''The Captain'', chapter 25</ref>}}
-{{spoiler|book=lh-01-the-captain|The narrator has looked into the [[Escalon Company]].<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|[[Jak]] is the acting president of the [[Escalon Company]].<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Escalon Company]] is a mid-level corporation founded by [[Omega]].<ref name="lh-01-the-captain-c25">''The Captain'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The narrator has looked into the [[Escalon Company]].<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref>}}</li>
+</ul>
+</div></div>
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|The [[Escalon Company]] is a group that [[Starhammer]] might target.<ref name="lh-02-the-engineer-c45">''The Engineer'', chapter 45</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|The [[Escalon Company]] is a group that [[Starhammer]] might target.<ref name="lh-02-the-engineer-c45">''The Engineer'', chapter 45</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Founded by [[Omega]], the Escalon Company operates as a private detective agency specializing in locating missing individuals or ensuring found people disappear. The organization's history includes a period where [[Aila Escalon]] shackled [[Omega]] to the company, and they once maintained ownership of a tattoo parlor. During [[Omal]]'s tenure, the firm provided violent criminals for hire. Currently, the company's President is present on the planet.}}
 
-{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] once shackled [[Omega]] to the [[Escalon Company]].<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Omal]] hired violent criminals from the [[Escalon Company]].<ref name="lh-04-the-pilot-c17">''The Pilot'', chapter 17</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Escalon Company]] was founded by [[Omega]].<ref name="lh-04-the-pilot-c34">''The Pilot'', chapter 34</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Escalon Company]] functions as a private detective agency that finds missing people and makes found people go missing.<ref name="lh-04-the-pilot-c42">''The Pilot'', chapter 42</ref>}}
-{{spoiler|book=lh-04-the-pilot|The President of the [[Escalon Company]] is present on the planet.<ref name="lh-04-the-pilot-c42" />}}
-{{spoiler|book=lh-04-the-pilot|The [[Escalon Company]] owned a tattoo parlor.<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] once shackled [[Omega]] to the [[Escalon Company]].<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Omal]] hired violent criminals from the [[Escalon Company]].<ref name="lh-04-the-pilot-c17">''The Pilot'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Escalon Company]] was founded by [[Omega]].<ref name="lh-04-the-pilot-c34">''The Pilot'', chapter 34</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Escalon Company]] functions as a private detective agency that finds missing people and makes found people go missing.<ref name="lh-04-the-pilot-c42">''The Pilot'', chapter 42</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The President of the [[Escalon Company]] is present on the planet.<ref name="lh-04-the-pilot-c42" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Escalon Company]] owned a tattoo parlor.<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|"This fine establishment is something like a private detective agency." ... "They find missing people, and they make found people go missing."<ref name="lh-04-the-pilot-c42" />}}

@@ -4,16 +4,32 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|There is a cult of a [[Dreadgod]] that operates beyond the [[Empire]]'s southeastern border.<ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|There is a cult of a [[Dreadgod]] that operates beyond the [[Empire]]'s southeastern border.<ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Tiberian]]'s technique would destroy the [[Dreadgod cult]] if [[Yerin]] used [[Moonlight Bridge]].<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Tiberian]]'s technique would destroy the [[Dreadgod cult]] if [[Yerin]] used [[Moonlight Bridge]].<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The [[Twin Star Sect]] is being called a [[Dreadgod cult]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The [[Twin Star Sect]] is being called a [[Dreadgod cult]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|Everyone in a [[Dreadgod cult]] came from humble beginnings.<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|Everyone in a [[Dreadgod cult]] came from humble beginnings.<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-04-skysworn|It's the cult of a Dreadgod,” she said, so softly that he wouldn't have been able to pick up her words without his Iron body. “Usually, they operate beyond the Empire's southeastern border.<ref name="cradle-04-skysworn-c10" />}}

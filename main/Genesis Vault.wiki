@@ -7,8 +7,12 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Genesis Vault]] takes the form of a pane of glass with an indistinct silhouette behind it.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Genesis Vault]] is a shadow trapped in glass.<ref name="lh-04-the-pilot-c23" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Genesis Vault]] takes the form of a pane of glass with an indistinct silhouette behind it.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Genesis Vault]] is a shadow trapped in glass.<ref name="lh-04-the-pilot-c23" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -9,20 +9,32 @@
 {{spoiler|book=tg-03-city-of-light|[[Elysia]], also known as the City of [[Light]], is a legendary location characterized by its immense beauty and golden atmosphere. The city exists under an eternal sunrise, with a sky that remains a rich gold color. Its architecture is composed of vast white walls adorned with gems and precious metals, featuring silver and gold gates. The cityscape is defined by soaring towers made of various materials including bronze, copper, and gold, alongside massive jewels like amethysts. The city is organized into different districts, such as the [[Gold District]] and the [[Green District]], which are separated by large walls. A central element of the city is its connection to [[Travelers]]; a prophecy suggests that a [[Traveler]] from [[Elysia]] will return to lead the free city of [[Enosh]] against the [[King of Damasca]]. While the city has remained without a [[Traveler]] for over three hundred and fifty years, its arrival is considered a major event. The city possesses unique properties, including the ability to produce various lights—such as [[gold light]] as a reward for courage or silver light representing wisdom—and it is said to contain the complements to other [[Territories]]. Access to the city can be achieved through [[Gates]], which can range from small portals to massive openings spanning the width of the city itself. Though often viewed as a paradise for the virtuous, the city has also been subject to conflict and war.}}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|[[Alin]] calls for power from the [[City of Light]].<ref name="tg-01-house-of-blades-c20">''House of Blades'', chapter 20</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|[[Alin]] calls for power from the [[City of Light]].<ref name="tg-01-house-of-blades-c20">''House of Blades'', chapter 20</ref>}}</li>
+</ul>
+</div></div>
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|The [[City of Light]] is the scale of [[Alin]]'s massive [[Elysian Gate]].<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|The [[City of Light]] is the scale of [[Alin]]'s massive [[Elysian Gate]].<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
+</ul>
+</div></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|The City of [[Light]] is a location associated with [[Elysia]] that contains various graves and is organized into nine distinct districts. This faction engages in conflict against the [[House of Blades]], serving as a model for [[Enosh]] when that area was similarly divided into nine districts. Looking toward future conflicts, the [[Incarnations]] are expected to launch an assault against the city.}}
 
-{{spoiler|book=tg-03-city-of-light|The [[City of Light]] has nine Districts.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}
-{{spoiler|book=tg-03-city-of-light|The [[City of Light]] is a location where graves are located.<ref name="tg-03-city-of-light-c7" />}}
-{{spoiler|book=tg-03-city-of-light|[[Enosh]] was divided into nine districts in imitation of the [[City of Light]].<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}
-{{spoiler|book=tg-03-city-of-light|The [[City of Light]] is a faction that fights the [[House of Blades]].<ref name="tg-03-city-of-light-c11" />}}
-{{spoiler|book=tg-03-city-of-light|The [[Incarnations]] will assault the [[City of Light]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}
-{{spoiler|book=tg-03-city-of-light|The [[City of Light]] is associated with [[Elysia]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|The [[City of Light]] has nine Districts.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The [[City of Light]] is a location where graves are located.<ref name="tg-03-city-of-light-c7" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]] was divided into nine districts in imitation of the [[City of Light]].<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The [[City of Light]] is a faction that fights the [[House of Blades]].<ref name="tg-03-city-of-light-c11" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The [[Incarnations]] will assault the [[City of Light]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The [[City of Light]] is associated with [[Elysia]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

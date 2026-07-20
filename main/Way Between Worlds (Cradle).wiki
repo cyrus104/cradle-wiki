@@ -7,21 +7,41 @@
 {{spoiler|book=cradle-13-threshold|[[The Way]] Between [[Worlds]], also known as the [[Way]], is a fundamental force of pure order that serves as the framework for reality. It appears visually as an endless expanse of textured blue light, resembling a combination of cloth and sapphire-colored tunnels or a vast web. This cosmic structure branches out from a central core, with various paths leading to different [[Iterations]], which are individual worlds scattered throughout the [[Way]] like berries on a branch. [[The Way]] functions as a medium for travel, communication, and the preservation of information. Messages can be sent through it to reach all connected worlds and members of the [[Abidan]]. It also contains a [[Dreamway]], which acts as a massive repository for knowledge through shared dreams. While it allows for navigation between worlds, entering the [[Way]] can be dangerous, potentially casting a traveler into an entirely different and unexpected location. The stability of the [[Way]] is influenced by the worlds connected to it; for instance, populations on certain planets can tether those worlds more firmly to the structure. However, the [[Way]] can also be subject to corruption or thinning, as seen near [[Cradle]] due to [[Vroshir]] influence. Certain individuals, known as [[Waybound]], possess the potential to bind themselves to this force, often resulting in a significant impact on the cosmos.}}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|[[The Way]] Between [[Worlds]] can be tapped into to open a celestial lens.<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|[[The Way]] Between [[Worlds]] can be tapped into to open a celestial lens.<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|Messages travel through the [[Way]] Between [[Worlds]].<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|Messages travel through the [[Way]] Between [[Worlds]].<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[The Way]] Between [[Worlds]] is a term used by [[Eithan]] for the flows of order beneath reality.<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[The Way]] Between [[Worlds]] is a term used by [[Eithan]] for the flows of order beneath reality.<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[The Way]] Between [[Worlds]] is a membrane of reality.<ref name="cradle-12-waybound-c1">''Waybound'', chapter 1</ref>}}
-{{spoiler|book=cradle-12-waybound|[[The Way]] Between [[Worlds]] is the power of pure order.<ref name="cradle-12-waybound-c2">''Waybound'', chapter 2</ref>}}
-{{spoiler|book=cradle-12-waybound|[[The Way]] Between [[Worlds]] is a destination or path for the [[Waybound]].<ref name="cradle-12-waybound-c31">''Waybound'', chapter 31</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[The Way]] Between [[Worlds]] is a membrane of reality.<ref name="cradle-12-waybound-c1">''Waybound'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[The Way]] Between [[Worlds]] is the power of pure order.<ref name="cradle-12-waybound-c2">''Waybound'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[The Way]] Between [[Worlds]] is a destination or path for the [[Waybound]].<ref name="cradle-12-waybound-c31">''Waybound'', chapter 31</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|[[Northstrider]] can normally reach the [[Way]] Between [[Worlds]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[Northstrider]] can normally reach the [[Way]] Between [[Worlds]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

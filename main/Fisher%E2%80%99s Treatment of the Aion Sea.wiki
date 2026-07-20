@@ -6,10 +6,18 @@
 }}
 
 == Of Dawn and Darkness ==
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Fisher’s Treatment of the Aion Sea]] is a text mentioned by [[Calder]].<ref name="ee-sea-02-of-dawn-and-darkness-c16">''Of Dawn and Darkness'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Fisher’s Treatment of the Aion Sea]] is a text mentioned by [[Calder]].<ref name="ee-sea-02-of-dawn-and-darkness-c16">''Of Dawn and Darkness'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Darkness and Dawn ==
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Fisher's]] Treatment of the [[Aion Sea]] is a text that acts as a conduit to the [[Great Elders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c15">''Of Darkness and Dawn'', chapter 15</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Fisher's]] Treatment of the [[Aion Sea]] is a text that acts as a conduit to the [[Great Elders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c15">''Of Darkness and Dawn'', chapter 15</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|"It's a conduit straight to the Great Elders."<ref name="ee-shadow-02-of-darkness-and-dawn-c15" />}}

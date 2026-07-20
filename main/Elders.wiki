@@ -11,72 +11,96 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|The Elders are strange, eternal beings whose existence is documented in ancient accounts that many have questioned. Stirring within the [[Aion]] and beyond, these entities possess powers far exceeding human control and can perceive unalloyed truth through [[Intent]]. While the [[Blackwatch]] works to defend the realm against them, the Elders have become increasingly active following the disappearance of [[Emperor (Elder Empire)|the Emperor]]. Their actions often lack discernible rhyme or reason, and listening to them for extended periods can result in madness. Some suggest that certain [[Guilds]] operate under their influence, while [[Watchmen]] may serve as their acolytes. Furthermore, it is possible to bind these beings into ships using blood, bone, or specific artifacts.}}
 
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Elders]] stir in the [[Aion]] and beyond.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Blackwatch]] defend the realm from the [[Elders]].<ref name="ee-sea-01-of-sea-and-shadow-c6">''Of Sea and Shadow'', chapter 6</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Elders]] are not dead or gone, but are present and mostly not sleeping.<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Elders]] are strange, eternal beings with powers beyond human control.<ref name="ee-sea-01-of-sea-and-shadow-c9">''Of Sea and Shadow'', chapter 9</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Elders]] are subjects of ancient accounts that have been questioned.<ref name="ee-sea-01-of-sea-and-shadow-c9" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Elders]] are a group that some [[Guilds]] might work under the influence of.<ref name="ee-sea-01-of-sea-and-shadow-c16">''Of Sea and Shadow'', chapter 16</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|With [[Emperor (Elder Empire)|the Emperor]] gone, the [[Elders]] have become more active.<ref name="ee-sea-01-of-sea-and-shadow-c16" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Watchmen]] might be acolytes of the [[Elders]].<ref name="ee-sea-01-of-sea-and-shadow-c21">''Of Sea and Shadow'', chapter 21</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|Listening to the [[Elders]] for too long can cause madness.<ref name="ee-sea-01-of-sea-and-shadow-c22">''Of Sea and Shadow'', chapter 22</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Elders]] can see the unalloyed truth through [[Intent]].<ref name="ee-sea-01-of-sea-and-shadow-c22" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Elders]]' actions lack rhyme or reason.<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jerri]] calls out to her [[Elders]].<ref name="ee-sea-01-of-sea-and-shadow-c23" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Elders]] can be bound into ships through bone, blood, or an artifact.<ref name="ee-sea-01-of-sea-and-shadow-c26">''Of Sea and Shadow'', chapter 26</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Elders]] stir in the [[Aion]] and beyond.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Blackwatch]] defend the realm from the [[Elders]].<ref name="ee-sea-01-of-sea-and-shadow-c6">''Of Sea and Shadow'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Elders]] are not dead or gone, but are present and mostly not sleeping.<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Elders]] are strange, eternal beings with powers beyond human control.<ref name="ee-sea-01-of-sea-and-shadow-c9">''Of Sea and Shadow'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Elders]] are subjects of ancient accounts that have been questioned.<ref name="ee-sea-01-of-sea-and-shadow-c9" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Elders]] are a group that some [[Guilds]] might work under the influence of.<ref name="ee-sea-01-of-sea-and-shadow-c16">''Of Sea and Shadow'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|With [[Emperor (Elder Empire)|the Emperor]] gone, the [[Elders]] have become more active.<ref name="ee-sea-01-of-sea-and-shadow-c16" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Watchmen]] might be acolytes of the [[Elders]].<ref name="ee-sea-01-of-sea-and-shadow-c21">''Of Sea and Shadow'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Listening to the [[Elders]] for too long can cause madness.<ref name="ee-sea-01-of-sea-and-shadow-c22">''Of Sea and Shadow'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Elders]] can see the unalloyed truth through [[Intent]].<ref name="ee-sea-01-of-sea-and-shadow-c22" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Elders]]' actions lack rhyme or reason.<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jerri]] calls out to her [[Elders]].<ref name="ee-sea-01-of-sea-and-shadow-c23" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Elders]] can be bound into ships through bone, blood, or an artifact.<ref name="ee-sea-01-of-sea-and-shadow-c26">''Of Sea and Shadow'', chapter 26</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Ancient [[Elders]] are hazards in the deep [[Aion]].<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Elders]] are a type of potent natural force.<ref name="ee-shadow-01-of-shadow-and-sea-c14">''Of Shadow and Sea'', chapter 14</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|If a [[Regent]] is corrupted, a quarter of the [[Empire]] falls under the rule of an [[Elder]].<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Emperor]] does not want the [[Elders]] to win.<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Ancient [[Elders]] are hazards in the deep [[Aion]].<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Elders]] are a type of potent natural force.<ref name="ee-shadow-01-of-shadow-and-sea-c14">''Of Shadow and Sea'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|If a [[Regent]] is corrupted, a quarter of the [[Empire]] falls under the rule of an [[Elder]].<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Emperor]] does not want the [[Elders]] to win.<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Driven by the hope of salvation, some individuals choose to join cults dedicated to the Elders. This tentacled group performs foul incursions and has even dispatched entities to spy on [[Bliss]]. While they can function as either partners or parasites, the Elders have a history of engaging in war when their plans diverge. They are responsible for the crack appearing in the sky and have orchestrated a scheme involving the [[Optasia]] and the death of [[Emperor (Elder Empire)|the Emperor]]. Ultimately, these beings may simply be playing games as they pursue their goal to consume humankind, forcing the [[Empire]] to defend the world against them.}}
 
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Some people join [[Elder cults]] because they believe the [[Elders]] will save them.<ref name="ee-sea-02-of-dawn-and-darkness-c1">''Of Dawn and Darkness'', chapter 1</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Elders]] sent something to spy on [[Bliss]].<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Elders]] and their spawn perform foul incursions.<ref name="ee-sea-02-of-dawn-and-darkness-c8" />}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Elders]] are a group associated with tentacles.<ref name="ee-sea-02-of-dawn-and-darkness-c10">''Of Dawn and Darkness'', chapter 10</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Empire]] must defend the world from [[Elders]].<ref name="ee-sea-02-of-dawn-and-darkness-c12">''Of Dawn and Darkness'', chapter 12</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Elders]] can be used as partners or parasites.<ref name="ee-sea-02-of-dawn-and-darkness-c12" />}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Elders]] have gone to war before when plans diverged.<ref name="ee-sea-02-of-dawn-and-darkness-c12" />}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The appearance of the [[crack in the sky]] is known to be caused by [[Elders]].<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Elders]] have a plan involving the [[Optasia]] and [[Emperor (Elder Empire)|the Emperor]]'s death.<ref name="ee-sea-02-of-dawn-and-darkness-c14" />}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Elders]] wish to consume humankind.<ref name="ee-sea-02-of-dawn-and-darkness-c24">''Of Dawn and Darkness'', chapter 24</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Elders]] are a group that might be playing games.<ref name="ee-sea-02-of-dawn-and-darkness-c24" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Some people join [[Elder cults]] because they believe the [[Elders]] will save them.<ref name="ee-sea-02-of-dawn-and-darkness-c1">''Of Dawn and Darkness'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Elders]] sent something to spy on [[Bliss]].<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Elders]] and their spawn perform foul incursions.<ref name="ee-sea-02-of-dawn-and-darkness-c8" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Elders]] are a group associated with tentacles.<ref name="ee-sea-02-of-dawn-and-darkness-c10">''Of Dawn and Darkness'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Empire]] must defend the world from [[Elders]].<ref name="ee-sea-02-of-dawn-and-darkness-c12">''Of Dawn and Darkness'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Elders]] can be used as partners or parasites.<ref name="ee-sea-02-of-dawn-and-darkness-c12" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Elders]] have gone to war before when plans diverged.<ref name="ee-sea-02-of-dawn-and-darkness-c12" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The appearance of the [[crack in the sky]] is known to be caused by [[Elders]].<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Elders]] have a plan involving the [[Optasia]] and [[Emperor (Elder Empire)|the Emperor]]'s death.<ref name="ee-sea-02-of-dawn-and-darkness-c14" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Elders]] wish to consume humankind.<ref name="ee-sea-02-of-dawn-and-darkness-c24">''Of Dawn and Darkness'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Elders]] are a group that might be playing games.<ref name="ee-sea-02-of-dawn-and-darkness-c24" />}}</li>
+</ul>
+</div></div>
 
 == Of Darkness and Dawn ==
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Though many believe the Elders to be extinct, they are actually moving and have become a high priority for all. Described as serpents and authors of darkness, these entities utilize deception, illusion, and seduction to achieve their ends. They possess the terrifying capability to crack the sky, prompting [[Emperor (Elder Empire)|the Emperor]] to seek ways to prevent their rise. Consequently, the [[Empire]] must build sufficient strength to face down the Elders.}}
 
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[The Emperor]] seeks to prevent the rise of the [[Elders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c3">''Of Darkness and Dawn'', chapter 3</ref>}}
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Elders]] are considered by many to be extinct.<ref name="ee-shadow-02-of-darkness-and-dawn-c5">''Of Darkness and Dawn'', chapter 5</ref>}}
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Deception, illusion, and seduction are the ways of the [[Elders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c6">''Of Darkness and Dawn'', chapter 6</ref>}}
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Elders]] are described as serpents and authors of darkness.<ref name="ee-shadow-02-of-darkness-and-dawn-c8">''Of Darkness and Dawn'', chapter 8</ref>}}
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Elders]] are capable of cracking the sky.<ref name="ee-shadow-02-of-darkness-and-dawn-c10">''Of Darkness and Dawn'', chapter 10</ref>}}
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Elders]] are a high priority for all.<ref name="ee-shadow-02-of-darkness-and-dawn-c15">''Of Darkness and Dawn'', chapter 15</ref>}}
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[The Empire]] needs to be strong enough to face down the [[Elders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Elders]] are moving.<ref name="ee-shadow-02-of-darkness-and-dawn-c22" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[The Emperor]] seeks to prevent the rise of the [[Elders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c3">''Of Darkness and Dawn'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Elders]] are considered by many to be extinct.<ref name="ee-shadow-02-of-darkness-and-dawn-c5">''Of Darkness and Dawn'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Deception, illusion, and seduction are the ways of the [[Elders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c6">''Of Darkness and Dawn'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Elders]] are described as serpents and authors of darkness.<ref name="ee-shadow-02-of-darkness-and-dawn-c8">''Of Darkness and Dawn'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Elders]] are capable of cracking the sky.<ref name="ee-shadow-02-of-darkness-and-dawn-c10">''Of Darkness and Dawn'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Elders]] are a high priority for all.<ref name="ee-shadow-02-of-darkness-and-dawn-c15">''Of Darkness and Dawn'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[The Empire]] needs to be strong enough to face down the [[Elders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Elders]] are moving.<ref name="ee-shadow-02-of-darkness-and-dawn-c22" />}}</li>
+</ul>
+</div></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|After [[Jyrine]] attributes a series of strange occurrences to the Elders, the group begins tearing the sky in half while communicating through a collective chorus. These beings originated from the [[void]], which serves as their true home, and they were once the subject of accusations regarding [[Calder]]'s collaboration. Although they are alien to humanity, the Elders are not inherently evil and actually seek escape rather than destruction. Despite a woman's attempt to sell [[Calder]] to them, he intends to oppose the group and maintains certain knowledge in secret from them.}}
 
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jyrine]] attributes the strange events to [[Elders]].<ref name="ee-sea-03-of-kings-and-killers-c3">''Of Kings and Killers'', chapter 3</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Elders]] are tearing the sky in half.<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Elders]] speak in a chorus.<ref name="ee-sea-03-of-kings-and-killers-c5">''Of Kings and Killers'', chapter 5</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Elders]] sprung from the [[void]].<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Elders]] are a group [[Calder]] was accused of collaborating with.<ref name="ee-sea-03-of-kings-and-killers-c13">''Of Kings and Killers'', chapter 13</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Elders]] are alien to humanity but not evil.<ref name="ee-sea-03-of-kings-and-killers-c19">''Of Kings and Killers'', chapter 19</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] intends to oppose the [[Elders]].<ref name="ee-sea-03-of-kings-and-killers-c20">''Of Kings and Killers'', chapter 20</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[void]] is the home of the [[Elders]].<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] kept knowledge secret from the [[Elders]].<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Elders]] want to escape rather than destroy.<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The woman intended to sell [[Calder]] to [[Elders]].<ref name="ee-sea-03-of-kings-and-killers-c24" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jyrine]] attributes the strange events to [[Elders]].<ref name="ee-sea-03-of-kings-and-killers-c3">''Of Kings and Killers'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Elders]] are tearing the sky in half.<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Elders]] speak in a chorus.<ref name="ee-sea-03-of-kings-and-killers-c5">''Of Kings and Killers'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Elders]] sprung from the [[void]].<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Elders]] are a group [[Calder]] was accused of collaborating with.<ref name="ee-sea-03-of-kings-and-killers-c13">''Of Kings and Killers'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Elders]] are alien to humanity but not evil.<ref name="ee-sea-03-of-kings-and-killers-c19">''Of Kings and Killers'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] intends to oppose the [[Elders]].<ref name="ee-sea-03-of-kings-and-killers-c20">''Of Kings and Killers'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[void]] is the home of the [[Elders]].<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] kept knowledge secret from the [[Elders]].<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Elders]] want to escape rather than destroy.<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The woman intended to sell [[Calder]] to [[Elders]].<ref name="ee-sea-03-of-kings-and-killers-c24" />}}</li>
+</ul>
+</div></div>
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The secrets of the [[Elders]] can be unlocked.<ref name="ee-shadow-03-of-killers-and-kings-c3">''Of Killers and Kings'', chapter 3</ref>}}
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Regents]] intend to cooperate against the [[Elders]].<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Emperor]] believes it is [[Shera]]'s responsibility to oppose the [[Elders]].<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The secrets of the [[Elders]] can be unlocked.<ref name="ee-shadow-03-of-killers-and-kings-c3">''Of Killers and Kings'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Regents]] intend to cooperate against the [[Elders]].<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Emperor]] believes it is [[Shera]]'s responsibility to oppose the [[Elders]].<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“They defend us from the Elders,” Jyrine said.<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}

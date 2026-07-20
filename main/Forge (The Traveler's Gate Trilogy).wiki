@@ -4,11 +4,19 @@
 }}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|The forge has obsidian walls and anvils of various sizes.<ref name="tg-01-house-of-blades-c10">''House of Blades'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|The forge has obsidian walls and anvils of various sizes.<ref name="tg-01-house-of-blades-c10">''House of Blades'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|The [[Tartarus Incarnation]] knocked the door to the forge off its hinges.<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}
-{{spoiler|book=tg-03-city-of-light|The forge is a location the giant enters.<ref name="tg-03-city-of-light-c14" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|The [[Tartarus Incarnation]] knocked the door to the forge off its hinges.<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The forge is a location the giant enters.<ref name="tg-03-city-of-light-c14" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -11,20 +11,36 @@
 == Soulsmith ==
 {{spoiler|book=cradle-02-soulsmith|The [[Path]] of the [[Stellar Spear]] is a specialized path utilized by members of the [[Jai clan]]. This progression features specific Goldsigns and remains an option available to artists. One such [[Goldsign]] within the path consists of frozen hair.}}
 
-{{spoiler|book=cradle-02-soulsmith|The [[Path of the Stellar Spear]] consists of blood members of the [[Jai clan]].<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}
-{{spoiler|book=cradle-02-soulsmith|The [[Path of the Stellar Spear]] is a path that features specific Goldsigns.<ref name="cradle-02-soulsmith-c7" />}}
-{{spoiler|book=cradle-02-soulsmith|The [[Path of the Stellar Spear]] is a path used by the [[Jai clan]].<ref name="cradle-02-soulsmith-c7" />}}
-{{spoiler|book=cradle-02-soulsmith|The [[Path of the Stellar Spear]] is a path available to artists.<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}
-{{spoiler|book=cradle-02-soulsmith|The [[Path of the Stellar Spear]] has a [[Goldsign]] consisting of frozen hair.<ref name="cradle-02-soulsmith-c19">''Soulsmith'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Path of the Stellar Spear]] consists of blood members of the [[Jai clan]].<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Path of the Stellar Spear]] is a path that features specific Goldsigns.<ref name="cradle-02-soulsmith-c7" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Path of the Stellar Spear]] is a path used by the [[Jai clan]].<ref name="cradle-02-soulsmith-c7" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Path of the Stellar Spear]] is a path available to artists.<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Path of the Stellar Spear]] has a [[Goldsign]] consisting of frozen hair.<ref name="cradle-02-soulsmith-c19">''Soulsmith'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|The [[Path of the Stellar Spear]] is a path from which a true heir can be raised.<ref name="cradle-03-blackflame-c16">''Blackflame'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|The [[Path of the Stellar Spear]] is a path from which a true heir can be raised.<ref name="cradle-03-blackflame-c16">''Blackflame'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|The [[Path of the Stellar Spear]] is a path associated with shiny metallic hair.<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|The [[Path of the Stellar Spear]] is a path associated with shiny metallic hair.<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|[[Jai Daishou]] was enlightened when he visited the birthplace of the [[Path of the Stellar Spear]].<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|[[Jai Daishou]] was enlightened when he visited the birthplace of the [[Path of the Stellar Spear]].<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

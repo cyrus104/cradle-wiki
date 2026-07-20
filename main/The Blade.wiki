@@ -7,13 +7,21 @@
 {{spoiler|book=lh-04-the-pilot|The term Blade refers to several distinct entities and weapons within the narrative. One individual known as The Blade is a person who engages in dialogue regarding purpose and morality, once manifesting an orange light. Another entity, the [[Zenith Blade]], is a sentient silver [[sword]] forged from a single piece of metal that can hover and communicate. In terms of weaponry, force-blades are common tools used by Combat Artists; these weapons can be ignited to produce light, flames, or [[Aether]]-based defenses. These force-blades vary in appearance, such as a five-foot shining white version used by a [[Karoshan]]. Additionally, there is a physical metal [[sword]] described as a double-edged, single-piece [[steel]] weapon.}}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[The Blade]] is one of the legends heard by [[Starhammer]].<ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[The Blade]] is one of the legends heard by [[Starhammer]].<ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[The Blade]] is a sentient [[sword]] that communicates via voice.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[The Blade]] is the brother of [[Void Prism]].<ref name="lh-04-the-pilot-c1" />}}
-{{spoiler|book=lh-04-the-pilot|[[The Blade]] can erupt into a shell of burning orange light.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[The Blade]] is a sentient weapon held by [[Aila]].<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[The Blade]] is a sentient [[sword]] that communicates via voice.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[The Blade]] is the brother of [[Void Prism]].<ref name="lh-04-the-pilot-c1" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[The Blade]] can erupt into a shell of burning orange light.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[The Blade]] is a sentient weapon held by [[Aila]].<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

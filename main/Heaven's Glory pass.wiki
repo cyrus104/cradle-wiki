@@ -6,7 +6,11 @@
 }}
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|People are pouring from the [[Heaven's Glory pass]].<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|People are pouring from the [[Heaven's Glory pass]].<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -7,8 +7,12 @@
 }}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Ka’nie’ka]] was the former name of the [[Eldest]] [[Nye]].<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Ka’nie’ka]] wants to restore [[Valinhall]]'s power.<ref name="tg-03-city-of-light-c6" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Ka’nie’ka]] was the former name of the [[Eldest]] [[Nye]].<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Ka’nie’ka]] wants to restore [[Valinhall]]'s power.<ref name="tg-03-city-of-light-c6" />}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-03-city-of-light|“Ka’nie’ka is selfish and afraid. He—” ... “That was the Eldest Nye’s name once, before his title.<ref name="tg-03-city-of-light-c6" />}}

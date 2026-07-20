@@ -12,13 +12,17 @@
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|As a great [[D’Niss]] and one of the [[Seven Calamities]], Sel’miroth functioned as a subtle hypnotist and spellcaster. During the conflict, the entity was targeted by [[Sola]], who utilized the [[Worldslayer]] beam to pierce its form. Although Sel’miroth was a system subject to a [[Subspace]] blockade, it eventually became the lone survivor of the [[Seven Calamities]]. The entity's [[life]] ended when the [[World Spirit of Visiria]] killed it, leaving behind only shredded rainbow wings.}}
 
-{{spoiler|book=lh-03-the-knight|[[Sel’miroth]] is one of the [[Seven Calamities]] and a great [[D’Niss]].<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Sel’miroth]] is a character who can be pierced by the [[Worldslayer]] beam.<ref name="lh-03-the-knight-c16" />}}
-{{spoiler|book=lh-03-the-knight|[[Sel’miroth]] was shot by [[Sola]] with [[Worldslayer]].<ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Sel’miroth]] is a system subject to a [[Subspace]] blockade.<ref name="lh-03-the-knight-c19">''The Knight'', chapter 19</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Sel’miroth]] is a subtle spellcaster and hypnotist.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Sel’miroth]] is the lone survivor of the [[Seven Calamities]].<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Sel’miroth]] has shredded rainbow wings and was killed by the [[World Spirit of Visiria]].<ref name="lh-03-the-knight-c40" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[Sel’miroth]] is one of the [[Seven Calamities]] and a great [[D’Niss]].<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Sel’miroth]] is a character who can be pierced by the [[Worldslayer]] beam.<ref name="lh-03-the-knight-c16" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Sel’miroth]] was shot by [[Sola]] with [[Worldslayer]].<ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Sel’miroth]] is a system subject to a [[Subspace]] blockade.<ref name="lh-03-the-knight-c19">''The Knight'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Sel’miroth]] is a subtle spellcaster and hypnotist.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Sel’miroth]] is the lone survivor of the [[Seven Calamities]].<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Sel’miroth]] has shredded rainbow wings and was killed by the [[World Spirit of Visiria]].<ref name="lh-03-the-knight-c40" />}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“Sola shot Sel’miroth with Worldslayer.”<ref name="lh-03-the-knight-c17" />}}

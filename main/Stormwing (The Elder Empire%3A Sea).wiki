@@ -4,10 +4,14 @@
 }}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|Stormwing has a lingering aroma.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|Stormwings can create bright explosions by snapping their tails over waves.<ref name="ee-sea-01-of-sea-and-shadow-c5">''Of Sea and Shadow'', chapter 5</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Stormwing is something the ship needs to catch.<ref name="ee-sea-01-of-sea-and-shadow-c5" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Stormwing is a creature that the [[Lyathatan]] was asked to fight.<ref name="ee-sea-01-of-sea-and-shadow-c12">''Of Sea and Shadow'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Stormwing has a lingering aroma.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Stormwings can create bright explosions by snapping their tails over waves.<ref name="ee-sea-01-of-sea-and-shadow-c5">''Of Sea and Shadow'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Stormwing is something the ship needs to catch.<ref name="ee-sea-01-of-sea-and-shadow-c5" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Stormwing is a creature that the [[Lyathatan]] was asked to fight.<ref name="ee-sea-01-of-sea-and-shadow-c12">''Of Sea and Shadow'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

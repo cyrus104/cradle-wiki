@@ -6,8 +6,12 @@
 }}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|The [[Eldest]] hopes to walk away with a new [[Founder]].<ref name="tg-03-city-of-light-c20">''City of Light'', chapter 20</ref>}}
-{{spoiler|book=tg-03-city-of-light|A [[Founder]] is needed to take charge of [[Valinhall]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|The [[Eldest]] hopes to walk away with a new [[Founder]].<ref name="tg-03-city-of-light-c20">''City of Light'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|A [[Founder]] is needed to take charge of [[Valinhall]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

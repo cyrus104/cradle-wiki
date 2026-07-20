@@ -7,17 +7,29 @@
 {{spoiler|book=lh-04-the-pilot|The [[Karoshan]] fleet is a military force composed of various vessel classes, including thousands of small and medium ships, several dozen larger vessels, and a significant number of starfighters. The fleet's aesthetic is characterized by black, blocky constructions, though some ships produced by [[The Last Horizon]] appear as smooth, organic-looking dark metal. Many [[Karoshan]] vessels contain small golden spots within them. The fleet is capable of utilizing micro-dives for tactical repositioning and emerging from [[Subspace]]. Command structures within the fleet vary, ranging from forces sent by [[King Regent]] [[Felrex]] to a rebel fleet led by an exiled [[Queen]]. A major component of their power is a massive, six-mile-long dreadnought flagship that serves as a primary engine of destruction. While the fleet has been used for blockades and planetary invasions, it also serves defensive roles, such as screening weaker vessels or bearing the brunt of enemy pressure to allow others to retreat. The fleet's operations are often supported by mass-produced [[Nova-Bots]], which pilot various ships.}}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|Half of the [[Karoshan fleet]] has surfaced while the rest are waiting.<ref name="lh-02-the-engineer-c9">''The Engineer'', chapter 9</ref>}}
-{{spoiler|book=lh-02-the-engineer|The [[Karoshan fleet]] is headed by a six-mile-long dreadnought.<ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|Half of the [[Karoshan fleet]] has surfaced while the rest are waiting.<ref name="lh-02-the-engineer-c9">''The Engineer'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Karoshan fleet]] is headed by a six-mile-long dreadnought.<ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|[[Horizon]] stays between the [[Karoshan fleet]] and [[Raion]].<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[Horizon]] stays between the [[Karoshan fleet]] and [[Raion]].<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 {{spoiler|book=lh-03-the-knight|The [[Karoshan fleet]] is facing two D�iss.}}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|The [[Karoshan fleet]] is commanded by [[King Regent]] [[Felrex]] and the top [[Perfected]].<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}
-{{spoiler|book=lh-04-the-pilot|A [[Karoshan fleet]] is invading [[Zykaros]].<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Karoshan fleet]] was retreating.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|The [[Karoshan fleet]] is commanded by [[King Regent]] [[Felrex]] and the top [[Perfected]].<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|A [[Karoshan fleet]] is invading [[Zykaros]].<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Karoshan fleet]] was retreating.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

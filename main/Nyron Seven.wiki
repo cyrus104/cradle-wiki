@@ -6,7 +6,11 @@
 }}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|[[Nyron Seven]] is the location where [[Javik]] lives with his family.<ref name="lh-01-the-captain-c30">''The Captain'', chapter 30</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|[[Nyron Seven]] is the location where [[Javik]] lives with his family.<ref name="lh-01-the-captain-c30">''The Captain'', chapter 30</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“He retired to live with his family on Nyron Seven.”<ref name="lh-01-the-captain-c30" />}}

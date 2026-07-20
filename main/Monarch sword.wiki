@@ -6,7 +6,11 @@
 }}
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|A [[Monarch sword]] is a weapon not to be used for minor tasks like swatting flies.<ref name="cradle-09-bloodline-c4">''Bloodline'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|A [[Monarch sword]] is a weapon not to be used for minor tasks like swatting flies.<ref name="cradle-09-bloodline-c4">''Bloodline'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-09-bloodline|"You don’t use a Monarch sword to swat flies," Yerin continued.<ref name="cradle-09-bloodline-c4" />}}

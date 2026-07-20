@@ -5,11 +5,19 @@
 }}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|[[Nerissa]] is [[Indirial]]'s wife and had ice-blue eyes.<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Nerissa]] is [[Indirial]]'s wife and had ice-blue eyes.<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Nerissa]] is [[Indirial]]'s wife and was held in a cage.<ref name="tg-03-city-of-light-c17">''City of Light'', chapter 17</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Nerissa]] was pressed against the edge of her cage.<ref name="tg-03-city-of-light-c19">''City of Light'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Nerissa]] is [[Indirial]]'s wife and was held in a cage.<ref name="tg-03-city-of-light-c17">''City of Light'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Nerissa]] was pressed against the edge of her cage.<ref name="tg-03-city-of-light-c19">''City of Light'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

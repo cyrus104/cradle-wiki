@@ -7,7 +7,11 @@
 }}
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Kelsa's father]] has burned eyes and uses a cane.<ref name="cradle-09-bloodline-c8">''Bloodline'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|[[Kelsa's father]] has burned eyes and uses a cane.<ref name="cradle-09-bloodline-c8">''Bloodline'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-09-bloodline|“Father’s eyes were burned,” she said, and the words struck Lindon strangely. He can see basic shapes and can tell the difference between light and dark, but he gets by mostly with his ears and his cane.<ref name="cradle-09-bloodline-c8" />}}

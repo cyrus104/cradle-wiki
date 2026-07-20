@@ -11,69 +11,85 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The [[Vallenar]] Corporation is a corporate entity identified by its silver-and-blue uniforms and a logo featuring a stylized bird of prey formed by merging letters. Specializing in the Sunsail line of ships and high-quality processors, the organization maintains a presence in colonies and employs highly trained, well-equipped guards. While the corporation has secured sections of the [[Hive]] and owns the proprietary [[Mirror of Silence]] spell, it is also associated with [[Professor]] [[Varic Vallenar]], a former heir who wishes to distance himself from the company. Despite its ability to procure rare goods and provide assistance through specific contacts, the corporation has faced opposition from [[Omega]] and maintains a complex relationship with the [[Captain]] and [[Nelthan]].}}
 
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] employees wear silver-and-blue uniforms.<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Vallenar Corporation]] personnel secured a section of the [[Hive]].<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Varic Vallenar]] is the former heir to the [[Vallenar Corporation]].<ref name="lh-01-the-captain-c3" />}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] is a corporate entity.<ref name="lh-01-the-captain-c4">''The Captain'', chapter 4</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Varic Vallenar]] is associated with the [[Vallenar Corporation]].<ref name="lh-01-the-captain-c4" />}}
-{{spoiler|book=lh-01-the-captain|[[Varic Vallenar]] is a [[Professor]].<ref name="lh-01-the-captain-c4" />}}
-{{spoiler|book=lh-01-the-captain|The protagonist has a connection to the [[Vallenar Corporation]].<ref name="lh-01-the-captain-c4" />}}
-{{spoiler|book=lh-01-the-captain|The narrator blacklists requests from the [[Vallenar Corporation]].<ref name="lh-01-the-captain-c5">''The Captain'', chapter 5</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] uses a logo consisting of a merging V and A resembling a stylized bird of prey.<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] produces high-quality processors.<ref name="lh-01-the-captain-c6" />}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] would intercept requests for the narrator's identity.<ref name="lh-01-the-captain-c6" />}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] owns the proprietary spell [[Mirror of Silence]].<ref name="lh-01-the-captain-c11">''The Captain'', chapter 11</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Benri Vallenar]] has a magic-born clone working at [[Vallenar Corporation]] headquarters.<ref name="lh-01-the-captain-c20">''The Captain'', chapter 20</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] is a corporation the [[Captain]] has had good relations with.<ref name="lh-01-the-captain-c21">''The Captain'', chapter 21</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] is a place or entity [[Professor Vallenar]] wishes to be far from.<ref name="lh-01-the-captain-c24">''The Captain'', chapter 24</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] specializes in the Sunsail line of ships.<ref name="lh-01-the-captain-c24" />}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] has guards that are highly trained and well-equipped.<ref name="lh-01-the-captain-c25">''The Captain'', chapter 25</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] has hired [[Omega]] in every memory of the protagonist.<ref name="lh-01-the-captain-c25" />}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] is a company the narrator might seek help from.<ref name="lh-01-the-captain-c27">''The Captain'', chapter 27</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] has ships.<ref name="lh-01-the-captain-c27" />}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] has a presence in colonies.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}
-{{spoiler|book=lh-01-the-captain|A loss of ships or currency could devastate the [[Vallenar Corporation]].<ref name="lh-01-the-captain-c34">''The Captain'', chapter 34</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] can procure rare goods in exchange for favors from [[The Last Horizon]].<ref name="lh-01-the-captain-c35">''The Captain'', chapter 35</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] is an entity that [[Nelthan]] risks damaging relations with.<ref name="lh-01-the-captain-c37">''The Captain'', chapter 37</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] is an organization that provides assistance via a woman on the line.<ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Omega]] has worked against the [[Vallenar Corporation]].<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">26</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] employees wear silver-and-blue uniforms.<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Vallenar Corporation]] personnel secured a section of the [[Hive]].<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Varic Vallenar]] is the former heir to the [[Vallenar Corporation]].<ref name="lh-01-the-captain-c3" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] is a corporate entity.<ref name="lh-01-the-captain-c4">''The Captain'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Varic Vallenar]] is associated with the [[Vallenar Corporation]].<ref name="lh-01-the-captain-c4" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Varic Vallenar]] is a [[Professor]].<ref name="lh-01-the-captain-c4" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The protagonist has a connection to the [[Vallenar Corporation]].<ref name="lh-01-the-captain-c4" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The narrator blacklists requests from the [[Vallenar Corporation]].<ref name="lh-01-the-captain-c5">''The Captain'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] uses a logo consisting of a merging V and A resembling a stylized bird of prey.<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] produces high-quality processors.<ref name="lh-01-the-captain-c6" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] would intercept requests for the narrator's identity.<ref name="lh-01-the-captain-c6" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] owns the proprietary spell [[Mirror of Silence]].<ref name="lh-01-the-captain-c11">''The Captain'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Benri Vallenar]] has a magic-born clone working at [[Vallenar Corporation]] headquarters.<ref name="lh-01-the-captain-c20">''The Captain'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] is a corporation the [[Captain]] has had good relations with.<ref name="lh-01-the-captain-c21">''The Captain'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] is a place or entity [[Professor Vallenar]] wishes to be far from.<ref name="lh-01-the-captain-c24">''The Captain'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] specializes in the Sunsail line of ships.<ref name="lh-01-the-captain-c24" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] has guards that are highly trained and well-equipped.<ref name="lh-01-the-captain-c25">''The Captain'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] has hired [[Omega]] in every memory of the protagonist.<ref name="lh-01-the-captain-c25" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] is a company the narrator might seek help from.<ref name="lh-01-the-captain-c27">''The Captain'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] has ships.<ref name="lh-01-the-captain-c27" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] has a presence in colonies.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|A loss of ships or currency could devastate the [[Vallenar Corporation]].<ref name="lh-01-the-captain-c34">''The Captain'', chapter 34</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] can procure rare goods in exchange for favors from [[The Last Horizon]].<ref name="lh-01-the-captain-c35">''The Captain'', chapter 35</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] is an entity that [[Nelthan]] risks damaging relations with.<ref name="lh-01-the-captain-c37">''The Captain'', chapter 37</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Vallenar Corporation]] is an organization that provides assistance via a woman on the line.<ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Omega]] has worked against the [[Vallenar Corporation]].<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref>}}</li>
+</ul>
+</div></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|Founded by the family of [[Varic Vallenar]], the [[Vallenar]] Corporation maintains a significant presence on [[Dornoth IV]]. The company is linked to the [[Mirror of Silence]] and provided the funding for the [[Starhammer]] movie series. While the [[Captain]] is a former employee who has received multiple offers from the organization, [[Varic Vallenar]] maintains a complicated relationship with the entity and eventually abandoned it.}}
 
-{{spoiler|book=lh-02-the-engineer|The [[Vallenar Corporation]] has a large presence on [[Dornoth IV]].<ref name="lh-02-the-engineer-c2">''The Engineer'', chapter 2</ref>}}
-{{spoiler|book=lh-02-the-engineer|The [[Vallenar Corporation]] was founded by [[Varic Vallenar]]'s family.<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}
-{{spoiler|book=lh-02-the-engineer|The [[Vallenar Corporation]] is associated with the [[Mirror of Silence]].<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}
-{{spoiler|book=lh-02-the-engineer|The [[Vallenar Corporation]] funded the [[Starhammer]] movie series.<ref name="lh-02-the-engineer-c20">''The Engineer'', chapter 20</ref>}}
-{{spoiler|book=lh-02-the-engineer|The [[Vallenar Corporation]] is a company the [[Captain]] previously worked for.<ref name="lh-02-the-engineer-c27">''The Engineer'', chapter 27</ref>}}
-{{spoiler|book=lh-02-the-engineer|The [[Vallenar Corporation]] has made several offers to the [[Captain]].<ref name="lh-02-the-engineer-c32">''The Engineer'', chapter 32</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Varic Vallenar]] has a complicated relationship with the [[Vallenar Corporation]].<ref name="lh-02-the-engineer-c45">''The Engineer'', chapter 45</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Varic Vallenar]] abandoned the [[Vallenar Corporation]].<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|The [[Vallenar Corporation]] has a large presence on [[Dornoth IV]].<ref name="lh-02-the-engineer-c2">''The Engineer'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Vallenar Corporation]] was founded by [[Varic Vallenar]]'s family.<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Vallenar Corporation]] is associated with the [[Mirror of Silence]].<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Vallenar Corporation]] funded the [[Starhammer]] movie series.<ref name="lh-02-the-engineer-c20">''The Engineer'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Vallenar Corporation]] is a company the [[Captain]] previously worked for.<ref name="lh-02-the-engineer-c27">''The Engineer'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Vallenar Corporation]] has made several offers to the [[Captain]].<ref name="lh-02-the-engineer-c32">''The Engineer'', chapter 32</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Varic Vallenar]] has a complicated relationship with the [[Vallenar Corporation]].<ref name="lh-02-the-engineer-c45">''The Engineer'', chapter 45</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Varic Vallenar]] abandoned the [[Vallenar Corporation]].<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The [[Vallenar]] Corporation serves as the parent company to [[Cablewright Genetics]] and maintains various outposts throughout the [[Beshkin]] system. The organization is staffed by a workforce of employees and represents an entity that the narrator considers consulting for information. Ultimately, the corporation is a power that the narrator's group may eventually owe favors to.}}
 
-{{spoiler|book=lh-03-the-knight|The [[Vallenar Corporation]] is the parent company of [[Cablewright Genetics]].<ref name="lh-03-the-knight-c6">''The Knight'', chapter 6</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Vallenar Corporation]] is an entity the narrator considers running information by.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Vallenar Corporation]] has outposts in the [[Beshkin]] system.<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Vallenar Corporation]] has employees.<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Vallenar Corporation]] is an entity the narrator's group might owe favors to.<ref name="lh-03-the-knight-c31">''The Knight'', chapter 31</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|The [[Vallenar Corporation]] is the parent company of [[Cablewright Genetics]].<ref name="lh-03-the-knight-c6">''The Knight'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Vallenar Corporation]] is an entity the narrator considers running information by.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Vallenar Corporation]] has outposts in the [[Beshkin]] system.<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Vallenar Corporation]] has employees.<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Vallenar Corporation]] is an entity the narrator's group might owe favors to.<ref name="lh-03-the-knight-c31">''The Knight'', chapter 31</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Headquartered on the planet [[Fathom]], the [[Vallenar]] Corporation is a massive corporate entity led by its president, [[Benri]]. The organization maintains assets on [[Visiria]] and utilizes scout teams alongside a heavily armed warship, though its security measures are considered inferior to those of [[Horizon]]. While [[Nila]] was once promised a position within the company and eventually wore its uniform, the corporation's involvement in warfare carries the potential to devastate the galactic economy. After one of its ships was led to the [[Dornoth system]], the corporation became an enemy of the crew of [[The Last Horizon]], providing [[Benri]] with resources he can turn against them.}}
 
-{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] has a planetary headquarters on [[Fathom]].<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] is a company that [[Nila]] was promised a position in.<ref name="lh-04-the-pilot-c5">''The Pilot'', chapter 5</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] possesses a heavily armed warship.<ref name="lh-04-the-pilot-c5" />}}
-{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] has security measures that pale to those of [[Horizon]].<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] is a corporate entity whose involvement in war would devastate the galactic economy.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] has a scout team.<ref name="lh-04-the-pilot-c11">''The Pilot'', chapter 11</ref>}}
-{{spoiler|book=lh-04-the-pilot|A [[Vallenar Corporation]] ship was led to the [[Dornoth system]].<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] has assets on [[Visiria]].<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Benri]] is the president of the [[Vallenar Corporation]].<ref name="lh-04-the-pilot-c22">''The Pilot'', chapter 22</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] is an entity that the crew of [[The Last Horizon]] has made enemies with.<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] is an organization [[Benri Vallenar]] can turn resources against.<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Nila]] wears a [[Vallenar Corporation]] uniform.<ref name="lh-04-the-pilot-c39" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] has a planetary headquarters on [[Fathom]].<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] is a company that [[Nila]] was promised a position in.<ref name="lh-04-the-pilot-c5">''The Pilot'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] possesses a heavily armed warship.<ref name="lh-04-the-pilot-c5" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] has security measures that pale to those of [[Horizon]].<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] is a corporate entity whose involvement in war would devastate the galactic economy.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] has a scout team.<ref name="lh-04-the-pilot-c11">''The Pilot'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|A [[Vallenar Corporation]] ship was led to the [[Dornoth system]].<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] has assets on [[Visiria]].<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Benri]] is the president of the [[Vallenar Corporation]].<ref name="lh-04-the-pilot-c22">''The Pilot'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] is an entity that the crew of [[The Last Horizon]] has made enemies with.<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Vallenar Corporation]] is an organization [[Benri Vallenar]] can turn resources against.<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Nila]] wears a [[Vallenar Corporation]] uniform.<ref name="lh-04-the-pilot-c39" />}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“Vallenar Corporation,” a woman said brightly.<ref name="lh-01-the-captain-c38" />}}

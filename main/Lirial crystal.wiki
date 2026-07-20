@@ -7,17 +7,25 @@
 {{spoiler|book=tg-03-city-of-light|[[Lirial]] crystal, also known as the [[Lirial]] stone, is a versatile and rare material used for various magical purposes, primarily centered on information gathering and containment. It can manifest in several forms, including large milky white discs used as scrying lenses, small plum-sized recording devices, teardrop shapes resembling diamonds, and floating spheres or globes that resemble mirrored glass. These crystals can be used to observe specific locations through gates, record events from a single angle, or facilitate communication. Beyond observation, the material possesses unique defensive and restrictive properties. It can be used to encase targets in solid, translucent rock or create prisons of crystal that freeze objects and living beings in place without piercing them. The crystals are often powered by a user's internal energy or a specific source, allowing for the summoning and empowerment of various [[Lirial]] devices. In some instances, the material is used as a weapon or tool for combat, such as in the form of javelins or bolts of white light. Additionally, the crystal is intrinsically linked to the identity and [[essence]] of [[Lirial]] itself, appearing as part of her physical form or serving as a key to open gates into her territory.}}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|[[Lirial crystal]] locks targets in solid rock.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Lirial crystal]] locks targets in solid rock.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}</li>
+</ul>
+</div></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|[[Lirial]] crystals, also referred to as [[Lirial]] stones, serve as tools for communication, such as when [[Leah]] used one to speak with [[Simon]]. These objects often manifest as hovering globes that resemble floating balls of mirrored glass, including a flying specimen and a marble-sized glassy crystal that passed through a door. Beyond communication, [[Leah]] intended to utilize the crystal for the purpose of sealing her father's feet.}}
 
-{{spoiler|book=tg-03-city-of-light|[[Leah]] communicates with [[Simon]] through a [[Lirial crystal]].<ref name="tg-03-city-of-light-c3">''City of Light'', chapter 3</ref>}}
-{{spoiler|book=tg-03-city-of-light|A flying [[Lirial crystal]] appeared.<ref name="tg-03-city-of-light-c8">''City of Light'', chapter 8</ref>}}
-{{spoiler|book=tg-03-city-of-light|Communication crystals are known as [[Lirial]] stones.<ref name="tg-03-city-of-light-c8" />}}
-{{spoiler|book=tg-03-city-of-light|A glassy [[Lirial crystal]] the size of a marble passed through the door.<ref name="tg-03-city-of-light-c9">''City of Light'', chapter 9</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Lirial crystal]] appears as hovering globes that look like floating balls of mirrored glass.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Leah]] intended to use [[Lirial crystal]] to seal her father's feet.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Leah]] communicates with [[Simon]] through a [[Lirial crystal]].<ref name="tg-03-city-of-light-c3">''City of Light'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|A flying [[Lirial crystal]] appeared.<ref name="tg-03-city-of-light-c8">''City of Light'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|Communication crystals are known as [[Lirial]] stones.<ref name="tg-03-city-of-light-c8" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|A glassy [[Lirial crystal]] the size of a marble passed through the door.<ref name="tg-03-city-of-light-c9">''City of Light'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Lirial crystal]] appears as hovering globes that look like floating balls of mirrored glass.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Leah]] intended to use [[Lirial crystal]] to seal her father's feet.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-03-city-of-light|“Simon!” Leah called, through the Lirial crystal.<ref name="tg-03-city-of-light-c3" />}}

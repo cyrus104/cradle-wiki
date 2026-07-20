@@ -6,7 +6,11 @@
 }}
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|The symbol for "[[Empty]]" exists in the old language.<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|The symbol for "[[Empty]]" exists in the old language.<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-09-bloodline|wearing his own badge, though his had the symbol for “Empty” in the old language.<ref name="cradle-09-bloodline-c9" />}}

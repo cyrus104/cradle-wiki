@@ -5,9 +5,13 @@
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|[[Senator Krakal]] is one of the influential leaders present at the meeting.<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Senator Krakal]] is a Senator of the planet [[Visiria]].<ref name="lh-03-the-knight-c29">''The Knight'', chapter 29</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Senator Krakal]] is a senator being challenged by [[Varic]].<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[Senator Krakal]] is one of the influential leaders present at the meeting.<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Senator Krakal]] is a Senator of the planet [[Visiria]].<ref name="lh-03-the-knight-c29">''The Knight'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Senator Krakal]] is a senator being challenged by [[Varic]].<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“You might have to hold me back. I’ve been dying to ask for some investment tips. Senator Krakal, what do you think?”<ref name="lh-03-the-knight-c26" />}}

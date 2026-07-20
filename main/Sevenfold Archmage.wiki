@@ -6,10 +6,18 @@
 }}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|The ritual made the narrator a [[Sevenfold Archmage]].<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|The ritual made the narrator a [[Sevenfold Archmage]].<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|The [[Sevenfold Archmage]] involves a seventh magic.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|The [[Sevenfold Archmage]] involves a seventh magic.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“You never used your seventh magic. No one saw it.”<ref name="lh-04-the-pilot-c49" />}}

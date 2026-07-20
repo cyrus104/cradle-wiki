@@ -6,10 +6,18 @@
 }}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|An [[Asphodel healer]] described [[Alin]] as 'seared and nicely tenderized.'<ref name="tg-01-house-of-blades-c23">''House of Blades'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|An [[Asphodel healer]] described [[Alin]] as 'seared and nicely tenderized.'<ref name="tg-01-house-of-blades-c23">''House of Blades'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|[[Simon]] has been in the care of [[Asphodel]] healers.<ref name="tg-02-crimson-vault-c25">''The Crimson Vault'', chapter 25</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] has been in the care of [[Asphodel]] healers.<ref name="tg-02-crimson-vault-c25">''The Crimson Vault'', chapter 25</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

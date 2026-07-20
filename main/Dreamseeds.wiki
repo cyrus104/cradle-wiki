@@ -4,11 +4,19 @@
 }}
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|[[Dreamseeds]] are located overhead in the facility.<ref name="cradle-05-ghostwater-c13">''Ghostwater'', chapter 13</ref>}}
-{{spoiler|book=cradle-05-ghostwater|[[Dreamseeds]] are spirits that can take a solid form.<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|[[Dreamseeds]] are located overhead in the facility.<ref name="cradle-05-ghostwater-c13">''Ghostwater'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Dreamseeds]] are spirits that can take a solid form.<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Dreamseeds]] are mentioned as a potential reward.<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Dreamseeds]] are mentioned as a potential reward.<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

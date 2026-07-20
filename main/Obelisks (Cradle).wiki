@@ -6,10 +6,18 @@
 }}
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|Stone monuments covered in rings of script blink into existence during the event.<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|Stone monuments covered in rings of script blink into existence during the event.<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|In Obelisk, recruitment happens at the top of the Tower.<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|In Obelisk, recruitment happens at the top of the Tower.<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

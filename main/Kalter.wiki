@@ -6,7 +6,11 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Kalter]] is the name shared by [[Sola]]'s family.<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Kalter]] is the name shared by [[Sola]]'s family.<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

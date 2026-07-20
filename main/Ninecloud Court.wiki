@@ -9,80 +9,120 @@
 {{spoiler|book=cradle-13-threshold|The [[Ninecloud]] [[Court]] is a prominent human-dominated faction located within the [[Ninecloud Country]]. Its capital, [[Ninecloud City]], is one of the largest cities in the world and is characterized by its vibrant, rainbow-colored aesthetic, featuring jeweled towers and brightly colored buildings that glow even at night. The [[Court]] is known for its immense wealth, ostentatious decorations, and high level of influence, often appearing more impressive than the [[Blackflame Empire]]. The [[Court]] is led by a [[Monarch]] known as the [[Luminous Queen]], identified as [[Sha Leiala]]. A central figure in its administration is the [[Ninecloud Soul]], a feminine voice that coordinates the [[Court]]'s various constructs and serves as its official spokesperson for announcements and guest hospitality. The [[Ninecloud]] [[Court]] hosts significant events, such as the [[Uncrowned King]] tournament, and provides specialized facilities including training rooms, viewing towers, and accommodations for guests. In addition to its political role, the [[Court]] possesses advanced technology and resources, including high-quality viewing constructs, specialized security scripts, and various treasures like the [[Heart of the Earth Emperor]]. The [[Court]] also produces cloud fortresses equipped with standard navigation and propulsion systems. While highly influential, some observers note that the faction appears to be a threadbare group despite its colorful and grand outward appearance.}}
 
 == Unsouled ==
-{{spoiler|book=cradle-01-unsouled|The [[Ninecloud Court]] is a royal court with lanterns holding glowing, golden jewels.<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-01-unsouled|The [[Ninecloud Court]] is a royal court with lanterns holding glowing, golden jewels.<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
+</ul>
+</div></div>
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|The [[Ninecloud Court]] is a faction that plunders [[Ghostwater]] and possesses significant knowledge.<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}
-{{spoiler|book=cradle-05-ghostwater|The [[Ninecloud Court]] is a delegation in [[Ghostwater]].<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Ninecloud Court]] is a faction that plunders [[Ghostwater]] and possesses significant knowledge.<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Ninecloud Court]] is a delegation in [[Ghostwater]].<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|The [[Ninecloud Court]] makes a floating castle for the winner of the second round of the tournament.<ref name="cradle-06-underlord-c12">''Underlord'', chapter 12</ref>}}
-{{spoiler|book=cradle-06-underlord|The [[Ninecloud Court]] is ruled by [[Sha Miara]].<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|The [[Ninecloud Court]] makes a floating castle for the winner of the second round of the tournament.<ref name="cradle-06-underlord-c12">''Underlord'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|The [[Ninecloud Court]] is ruled by [[Sha Miara]].<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|Located within [[Ninecloud City]], the [[Ninecloud]] [[Court]] serves as the host for the [[Uncrowned King]] tournament. Before the competition begins, the court offers fourteen days of hospitality within a tower, providing [[Lindon]] with [[Monarch]]'s hospitality. The venue features a viewing tower constructed from stained glass and [[Forged madra]], where staff members select specific visions to display for the audience. While providing protection and enforcement, the court also maintains methods for restoring souls and has prepared a battlefield specifically for two Blackflames. Throughout the tournament, the faction demonstrates its strength by holding most of the top ten ranks and remains associated with [[Sha Miara]].}}
 
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] hosts the [[Uncrowned King]] tournament.<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] sent superior propulsion and navigational constructs to the [[Akura clan]].<ref name="cradle-07-uncrowned-c8" />}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] has a representative.<ref name="cradle-07-uncrowned-c9">''Uncrowned'', chapter 9</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] is a location with light that can pull individuals.<ref name="cradle-07-uncrowned-c9" />}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] offers hospitality within a tower for fourteen days before the tournament begins.<ref name="cradle-07-uncrowned-c9" />}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] is located in [[Ninecloud City]].<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] provides [[Monarch]]'s hospitality to [[Lindon]].<ref name="cradle-07-uncrowned-c10" />}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] would not offend [[Reigan Shen]].<ref name="cradle-07-uncrowned-c10" />}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] tournament staff selects visions to share with the audience.<ref name="cradle-07-uncrowned-c11">''Uncrowned'', chapter 11</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] has a viewing tower made of [[Forged madra]] and stained glass.<ref name="cradle-07-uncrowned-c12">''Uncrowned'', chapter 12</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] provides protection and enforcement.<ref name="cradle-07-uncrowned-c12" />}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] has methods of restoring souls.<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] holds most of the top ten ranks in the tournament.<ref name="cradle-07-uncrowned-c15" />}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] prepared a battlefield for two Blackflames.<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] is a location or faction associated with [[Sha Miara]].<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] believes in decorating training rooms.<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">16</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] hosts the [[Uncrowned King]] tournament.<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] sent superior propulsion and navigational constructs to the [[Akura clan]].<ref name="cradle-07-uncrowned-c8" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] has a representative.<ref name="cradle-07-uncrowned-c9">''Uncrowned'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] is a location with light that can pull individuals.<ref name="cradle-07-uncrowned-c9" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] offers hospitality within a tower for fourteen days before the tournament begins.<ref name="cradle-07-uncrowned-c9" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] is located in [[Ninecloud City]].<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] provides [[Monarch]]'s hospitality to [[Lindon]].<ref name="cradle-07-uncrowned-c10" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] would not offend [[Reigan Shen]].<ref name="cradle-07-uncrowned-c10" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] tournament staff selects visions to share with the audience.<ref name="cradle-07-uncrowned-c11">''Uncrowned'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] has a viewing tower made of [[Forged madra]] and stained glass.<ref name="cradle-07-uncrowned-c12">''Uncrowned'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] provides protection and enforcement.<ref name="cradle-07-uncrowned-c12" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] has methods of restoring souls.<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] holds most of the top ten ranks in the tournament.<ref name="cradle-07-uncrowned-c15" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] prepared a battlefield for two Blackflames.<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] is a location or faction associated with [[Sha Miara]].<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Court]] believes in decorating training rooms.<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|The [[Ninecloud]] [[Court]] is an opulent entity led by the [[Luminous Queen]] and associated with a rainbow-shrouded [[Monarch]]. Its audience chamber, which is filled with colored tiles and pillars, serves as a gathering place for [[Monarchs]]. While the court provides broad, open training rooms and presented a gift to [[Yerin]], it also officially announced its support for [[Reigan Shen]]. During his time there, [[Lindon]] navigated the hallways before being ushered away from the location by [[Charity]].}}
 
-{{spoiler|book=cradle-08-wintersteel|[[Lindon]] was in a hallway in the [[Ninecloud Court]].<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The audience hall of the [[Ninecloud Court]] is filled with colored tiles and pillars.<ref name="cradle-08-wintersteel-c2" />}}
-{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] is led by the [[Luminous Queen]].<ref name="cradle-08-wintersteel-c2" />}}
-{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] is associated with a rainbow-shrouded [[Monarch]].<ref name="cradle-08-wintersteel-c2" />}}
-{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] has a [[Monarch]].<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] is an entity that cannot provoke the [[Abidan]].<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] is characterized by opulence.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] is a location [[Lindon]] is ushered away from by [[Charity]].<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] has announced its support for [[Reigan Shen]].<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] provided a present for [[Yerin]].<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] audience chamber is where [[Monarchs]] usually gather.<ref name="cradle-08-wintersteel-c21">''Wintersteel'', chapter 21</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] provides broad, open training rooms.<ref name="cradle-08-wintersteel-c24">''Wintersteel'', chapter 24</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] was in a hallway in the [[Ninecloud Court]].<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The audience hall of the [[Ninecloud Court]] is filled with colored tiles and pillars.<ref name="cradle-08-wintersteel-c2" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] is led by the [[Luminous Queen]].<ref name="cradle-08-wintersteel-c2" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] is associated with a rainbow-shrouded [[Monarch]].<ref name="cradle-08-wintersteel-c2" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] has a [[Monarch]].<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] is an entity that cannot provoke the [[Abidan]].<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] is characterized by opulence.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] is a location [[Lindon]] is ushered away from by [[Charity]].<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] has announced its support for [[Reigan Shen]].<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] provided a present for [[Yerin]].<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] audience chamber is where [[Monarchs]] usually gather.<ref name="cradle-08-wintersteel-c21">''Wintersteel'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] provides broad, open training rooms.<ref name="cradle-08-wintersteel-c24">''Wintersteel'', chapter 24</ref>}}</li>
+</ul>
+</div></div>
 
 == Bloodline ==
 {{spoiler|book=cradle-09-bloodline|The [[Ninecloud]] [[Court]] is a location where [[Lindon]] and his companions stay, characterized by its value of friendship. This site features an [[Akura tower]] and produces cloud fortresses that can be equipped with redundant security scripts. During their stay, [[Ziel]] obtained various herbs from the area. The court also releases tournament recordings through the use of high-quality viewing constructs. Eventually, the group departed from the [[Ninecloud]] [[Court]] in the morning.}}
 
-{{spoiler|book=cradle-09-bloodline|The [[Ninecloud Court]] values friendship.<ref name="cradle-09-bloodline-c2">''Bloodline'', chapter 2</ref>}}
-{{spoiler|book=cradle-09-bloodline|The [[Ninecloud Court]] contains an [[Akura tower]].<ref name="cradle-09-bloodline-c3">''Bloodline'', chapter 3</ref>}}
-{{spoiler|book=cradle-09-bloodline|The group left the [[Ninecloud Court]] in the morning.<ref name="cradle-09-bloodline-c4">''Bloodline'', chapter 4</ref>}}
-{{spoiler|book=cradle-09-bloodline|The [[Ninecloud Court]] produces cloud fortresses.<ref name="cradle-09-bloodline-c5">''Bloodline'', chapter 5</ref>}}
-{{spoiler|book=cradle-09-bloodline|[[Ziel]] obtained herbs from the [[Ninecloud Court]].<ref name="cradle-09-bloodline-c5" />}}
-{{spoiler|book=cradle-09-bloodline|The [[Ninecloud Court]] can install redundant security scripts in a cloudbase.<ref name="cradle-09-bloodline-c5" />}}
-{{spoiler|book=cradle-09-bloodline|The [[Ninecloud Court]] is a location where [[Lindon]] and his companions are staying.<ref name="cradle-09-bloodline-c5" />}}
-{{spoiler|book=cradle-09-bloodline|The [[Ninecloud Court]] releases tournament recordings.<ref name="cradle-09-bloodline-c16">''Bloodline'', chapter 16</ref>}}
-{{spoiler|book=cradle-09-bloodline|The [[Ninecloud Court]] uses high-quality viewing constructs.<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|The [[Ninecloud Court]] values friendship.<ref name="cradle-09-bloodline-c2">''Bloodline'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Ninecloud Court]] contains an [[Akura tower]].<ref name="cradle-09-bloodline-c3">''Bloodline'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The group left the [[Ninecloud Court]] in the morning.<ref name="cradle-09-bloodline-c4">''Bloodline'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Ninecloud Court]] produces cloud fortresses.<ref name="cradle-09-bloodline-c5">''Bloodline'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Ziel]] obtained herbs from the [[Ninecloud Court]].<ref name="cradle-09-bloodline-c5" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Ninecloud Court]] can install redundant security scripts in a cloudbase.<ref name="cradle-09-bloodline-c5" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Ninecloud Court]] is a location where [[Lindon]] and his companions are staying.<ref name="cradle-09-bloodline-c5" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Ninecloud Court]] releases tournament recordings.<ref name="cradle-09-bloodline-c16">''Bloodline'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Ninecloud Court]] uses high-quality viewing constructs.<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|The [[Ninecloud Court]] provides [[scripts]] for cloudbases.<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}
-{{spoiler|book=cradle-10-reaper|The [[Ninecloud Court]] is more impressive than the [[Blackflame Empire]]'s displays.<ref name="cradle-10-reaper-c5">''Reaper'', chapter 5</ref>}}
-{{spoiler|book=cradle-10-reaper|The [[Ninecloud Court]] has a [[royal madra]].<ref name="cradle-10-reaper-c17">''Reaper'', chapter 17</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|The [[Ninecloud Court]] provides [[scripts]] for cloudbases.<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Ninecloud Court]] is more impressive than the [[Blackflame Empire]]'s displays.<ref name="cradle-10-reaper-c5">''Reaper'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Ninecloud Court]] has a [[royal madra]].<ref name="cradle-10-reaper-c17">''Reaper'', chapter 17</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|The [[Ninecloud Court]] sends foreign emissaries.<ref name="cradle-11-dreadgod-c8">''Dreadgod'', chapter 8</ref>}}
-{{spoiler|book=cradle-11-dreadgod|The [[Ninecloud Court]] is associated with the [[Sha family]].<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Ninecloud Court]] sends foreign emissaries.<ref name="cradle-11-dreadgod-c8">''Dreadgod'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Ninecloud Court]] is associated with the [[Sha family]].<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|Much of the material in [[Lindon]]'s pocket world came from the [[Ninecloud Court]].<ref name="cradle-12-waybound-c2">''Waybound'', chapter 2</ref>}}
-{{spoiler|book=cradle-12-waybound|The [[Ninecloud Court]] is associated with [[the Queen]]'s [[Gift]].<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|Much of the material in [[Lindon]]'s pocket world came from the [[Ninecloud Court]].<ref name="cradle-12-waybound-c2">''Waybound'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Ninecloud Court]] is associated with [[the Queen]]'s [[Gift]].<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|The [[Ninecloud Court]] is a human-dominated faction.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The [[Ninecloud Court]] is a human-dominated faction.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-05-ghostwater|"Aside from the Tidewalker sect and the Ninecloud Court delegation, we achieved the least of everyone in Ghostwater."<ref name="cradle-05-ghostwater-c19" />}}

@@ -6,7 +6,11 @@
 }}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|The [[Narakan way]] involves seeing retribution as just.<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Narakan way]] involves seeing retribution as just.<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

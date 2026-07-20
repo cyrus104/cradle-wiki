@@ -6,7 +6,11 @@
 }}
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|The [[Ghostwater project]] is a project that may have succeeded.<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Ghostwater project]] is a project that may have succeeded.<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

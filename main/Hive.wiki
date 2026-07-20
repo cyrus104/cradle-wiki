@@ -11,17 +11,25 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The Hive is a unit utilized by the [[Iron Legion]] that originated as a ritual room which was subsequently destroyed. This destruction occurred when the disruption of a ritual caused significant damage to the structure. While the exterior of a Hive is described as an [[Iron]] Hell, the unit projects standard starship shields and contains a [[Bishop]] at its center. During recent events, characters entered a Hive where [[Sola]] may have witnessed certain occurrences.}}
 
-{{spoiler|book=lh-01-the-captain|The [[Hive]] was an [[Iron Legion]] ritual room that was destroyed.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}
-{{spoiler|book=lh-01-the-captain|The disruption of a ritual caused significant damage to the [[Hive]].<ref name="lh-01-the-captain-c3" />}}
-{{spoiler|book=lh-01-the-captain|The [[Bishop]] is located at the center of a [[Hive]].<ref name="lh-01-the-captain-c17">''The Captain'', chapter 17</ref>}}
-{{spoiler|book=lh-01-the-captain|The characters are currently in the [[Hive]].<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}
-{{spoiler|book=lh-01-the-captain|The outside of the [[Hive]] is described as an [[Iron]] Hell.<ref name="lh-01-the-captain-c18" />}}
-{{spoiler|book=lh-01-the-captain|The [[Hive]] projects standard starship shields.<ref name="lh-01-the-captain-c18" />}}
-{{spoiler|book=lh-01-the-captain|[[Sola]] may have seen certain things in a [[Hive]].<ref name="lh-01-the-captain-c27">''The Captain'', chapter 27</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Hives]] are units used by the [[Iron Legion]].<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|The [[Hive]] was an [[Iron Legion]] ritual room that was destroyed.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The disruption of a ritual caused significant damage to the [[Hive]].<ref name="lh-01-the-captain-c3" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Bishop]] is located at the center of a [[Hive]].<ref name="lh-01-the-captain-c17">''The Captain'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The characters are currently in the [[Hive]].<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The outside of the [[Hive]] is described as an [[Iron]] Hell.<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Hive]] projects standard starship shields.<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Sola]] may have seen certain things in a [[Hive]].<ref name="lh-01-the-captain-c27">''The Captain'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Hives]] are units used by the [[Iron Legion]].<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|A [[Hive]] can be delivered.<ref name="lh-04-the-pilot-c22">''The Pilot'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|A [[Hive]] can be delivered.<ref name="lh-04-the-pilot-c22">''The Pilot'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“The Legion can attack almost anywhere, if they send a single Hive on a suicide mission.<ref name="lh-01-the-captain-c36" />}}

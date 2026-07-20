@@ -6,8 +6,12 @@
 }}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Grandmaster Naraka]] has three [[Tartarus guards]].<ref name="tg-03-city-of-light-c9">''City of Light'', chapter 9</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Tartarus guards]] bound [[Grandmaster Naraka]] with chains.<ref name="tg-03-city-of-light-c17">''City of Light'', chapter 17</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Grandmaster Naraka]] has three [[Tartarus guards]].<ref name="tg-03-city-of-light-c9">''City of Light'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Tartarus guards]] bound [[Grandmaster Naraka]] with chains.<ref name="tg-03-city-of-light-c17">''City of Light'', chapter 17</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -4,14 +4,26 @@
 }}
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|The [[Eye of the Deep]] is the key to the [[Ghostwater facility]].<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}
-{{spoiler|book=cradle-05-ghostwater|The [[Ghostwater facility]] is a cave with an oracle tree.<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Eye of the Deep]] is the key to the [[Ghostwater facility]].<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Ghostwater facility]] is a cave with an oracle tree.<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|[[Lindon]] found good fortune inside the [[Ghostwater facility]].<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] found good fortune inside the [[Ghostwater facility]].<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Yan Shoumei]] entered the [[Ghostwater facility]] as part of tournament preparation.<ref name="cradle-08-wintersteel-c21">''Wintersteel'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Yan Shoumei]] entered the [[Ghostwater facility]] as part of tournament preparation.<ref name="cradle-08-wintersteel-c21">''Wintersteel'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

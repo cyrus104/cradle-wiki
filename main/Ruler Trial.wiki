@@ -4,10 +4,14 @@
 }}
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|The [[Ruler Trial]] is the most difficult of the three [[Blackflame Trials]].<ref name="cradle-03-blackflame-c16">''Blackflame'', chapter 16</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Lindon]] and [[Yerin]] are attempting the [[Ruler Trial]].<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}
-{{spoiler|book=cradle-03-blackflame|The [[Ruler Trial]] involves a tablet.<ref name="cradle-03-blackflame-c17" />}}
-{{spoiler|book=cradle-03-blackflame|The [[Ruler Trial]] contains ninety-nine dummies.<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|The [[Ruler Trial]] is the most difficult of the three [[Blackflame Trials]].<ref name="cradle-03-blackflame-c16">''Blackflame'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] and [[Yerin]] are attempting the [[Ruler Trial]].<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Ruler Trial]] involves a tablet.<ref name="cradle-03-blackflame-c17" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Ruler Trial]] contains ninety-nine dummies.<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

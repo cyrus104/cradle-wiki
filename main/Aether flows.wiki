@@ -6,10 +6,18 @@
 }}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|Strong local [[Aether flows]] can sustain a livable atmosphere and develop a [[World Spirit]].<ref name="lh-01-the-captain-c8">''The Captain'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|Strong local [[Aether flows]] can sustain a livable atmosphere and develop a [[World Spirit]].<ref name="lh-01-the-captain-c8">''The Captain'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|The flows of the [[Aether]] lead to glory.<ref name="lh-03-the-knight-c19">''The Knight'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|The flows of the [[Aether]] lead to glory.<ref name="lh-03-the-knight-c19">''The Knight'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“Of course it does. The flows of the Aether lead us to glory!”<ref name="lh-03-the-knight-c19" />}}

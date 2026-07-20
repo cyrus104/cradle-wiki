@@ -4,9 +4,13 @@
 }}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The [[Sword of Makiel]] has purple energy pulsing through its blade in veins.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}
-{{spoiler|book=cradle-12-waybound|The [[Sword of Makiel]] is a two-handed [[sword]] that radiates contempt for [[Ozriel]] and has strikes that are absolute, hitting multiple possibilities at once.<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}
-{{spoiler|book=cradle-12-waybound|The [[Sword of Makiel]] drifted in the vacuum after [[Ozriel]] vanished.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The [[Sword of Makiel]] has purple energy pulsing through its blade in veins.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Sword of Makiel]] is a two-handed [[sword]] that radiates contempt for [[Ozriel]] and has strikes that are absolute, hitting multiple possibilities at once.<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Sword of Makiel]] drifted in the vacuum after [[Ozriel]] vanished.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

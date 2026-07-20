@@ -4,14 +4,26 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|[[The Hounds]] track targets through time to find criminals and predict disasters.<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}
-{{spoiler|book=cradle-04-skysworn|The symbol of the [[Hounds]] is a three-headed dog.<ref name="cradle-04-skysworn-c2" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|[[The Hounds]] track targets through time to find criminals and predict disasters.<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The symbol of the [[Hounds]] is a three-headed dog.<ref name="cradle-04-skysworn-c2" />}}</li>
+</ul>
+</div></div>
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|The [[Abidan]] have [[Hounds]], Spiders, and [[Ghosts]].<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Abidan]] have [[Hounds]], Spiders, and [[Ghosts]].<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|[[Abidan]] [[Hounds]] see [[Jek’nan]]'s actions as unlikely probabilities.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[Abidan]] [[Hounds]] see [[Jek’nan]]'s actions as unlikely probabilities.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

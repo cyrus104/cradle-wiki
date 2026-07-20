@@ -6,7 +6,11 @@
 }}
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Iteration 129: Oasis]] is a light in the cluster of [[Sector]] 12 that turned black and withered away.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|[[Iteration 129: Oasis]] is a light in the cluster of [[Sector]] 12 that turned black and withered away.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

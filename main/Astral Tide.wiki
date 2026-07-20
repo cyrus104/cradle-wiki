@@ -4,9 +4,13 @@
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|The [[Astral Tide]] is a unique element that occurs in the [[Farwing Nebula]].<ref name="lh-03-the-knight-c24">''The Knight'', chapter 24</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Astral Tide]] carries many times more weight than natural water.<ref name="lh-03-the-knight-c24" />}}
-{{spoiler|book=lh-03-the-knight|The [[Astral Tide]] cannot be found naturally and can only be conjured.<ref name="lh-03-the-knight-c24" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|The [[Astral Tide]] is a unique element that occurs in the [[Farwing Nebula]].<ref name="lh-03-the-knight-c24">''The Knight'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Astral Tide]] carries many times more weight than natural water.<ref name="lh-03-the-knight-c24" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Astral Tide]] cannot be found naturally and can only be conjured.<ref name="lh-03-the-knight-c24" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

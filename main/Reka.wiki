@@ -7,7 +7,11 @@
 }}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Reka]] is a doll that [[Simon]] hardly ever spoke with.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Reka]] is a doll that [[Simon]] hardly ever spoke with.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

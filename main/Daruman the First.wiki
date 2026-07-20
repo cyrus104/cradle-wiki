@@ -5,10 +5,14 @@
 }}
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Daruman the First]] was the ruler who united his [[Iteration]] and ushered it into a golden age.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}
-{{spoiler|book=cradle-09-bloodline|[[Daruman the First]] was a warrior who fought planet-eaters.<ref name="cradle-09-bloodline-c6" />}}
-{{spoiler|book=cradle-09-bloodline|[[Daruman the First]] was known for his wisdom and integrity.<ref name="cradle-09-bloodline-c6" />}}
-{{spoiler|book=cradle-09-bloodline|[[Daruman the First]] ruled for three hundred years.<ref name="cradle-09-bloodline-c6" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|[[Daruman the First]] was the ruler who united his [[Iteration]] and ushered it into a golden age.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Daruman the First]] was a warrior who fought planet-eaters.<ref name="cradle-09-bloodline-c6" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Daruman the First]] was known for his wisdom and integrity.<ref name="cradle-09-bloodline-c6" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Daruman the First]] ruled for three hundred years.<ref name="cradle-09-bloodline-c6" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

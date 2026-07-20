@@ -5,11 +5,19 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Sha Relliar]] is [[Sha Miara]]'s [[Herald]].<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sha Relliar]] is [[Sha Miara]]'s [[Herald]].<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Sha Relliar]] is a [[Herald]] and the Right Hand of the [[Luminous Queen]].<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}
-{{spoiler|book=cradle-11-dreadgod|[[Sha Relliar]] is [[Sha Miara]]'s uncle.<ref name="cradle-11-dreadgod-c22" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Sha Relliar]] is a [[Herald]] and the Right Hand of the [[Luminous Queen]].<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Sha Relliar]] is [[Sha Miara]]'s uncle.<ref name="cradle-11-dreadgod-c22" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

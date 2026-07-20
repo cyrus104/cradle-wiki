@@ -17,51 +17,63 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|Shuffles is a [[Bellowing Horror]] characterized by black eyes, stubby wings that buzz like a hummingbird's, and a mouth consisting of a nest of tentacles. This creature lives alongside [[Calder]], spending most of the day sleeping in a darkened cage where it occasionally talks in its sleep and eats worms. A capable flyer, the monstrosity can mimic sounds, echo speech, and repeat the words of others. Shuffles is known to growl with a voice like a malevolent earthquake and possesses a deep, masculine laugh. Ultimately, the creature follows [[Calder]] by flapping along behind him.}}
 
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a dark figure with black eyes and stubby wings.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] has a nest of tentacles on its mouth.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a [[Bellowing Horror]].<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a creature kept in a darkened cage that can talk in its sleep.<ref name="ee-sea-01-of-sea-and-shadow-c5">''Of Sea and Shadow'', chapter 5</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a creature with black eyes and tentacles.<ref name="ee-sea-01-of-sea-and-shadow-c7">''Of Sea and Shadow'', chapter 7</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a creature with tentacles that eats worms.<ref name="ee-sea-01-of-sea-and-shadow-c7" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a creature that mostly sleeps during the day.<ref name="ee-sea-01-of-sea-and-shadow-c9">''Of Sea and Shadow'', chapter 9</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] are creatures that live alongside [[Calder]].<ref name="ee-sea-01-of-sea-and-shadow-c9" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a creature that can fly and mimics sounds.<ref name="ee-sea-01-of-sea-and-shadow-c17">''Of Sea and Shadow'', chapter 17</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] can fly and echo speech.<ref name="ee-sea-01-of-sea-and-shadow-c18">''Of Sea and Shadow'', chapter 18</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] has wings that buzz like a hummingbird's.<ref name="ee-sea-01-of-sea-and-shadow-c19">''Of Sea and Shadow'', chapter 19</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] can growl with the voice of a malevolent earthquake.<ref name="ee-sea-01-of-sea-and-shadow-c19" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a monstrosity with wings, tentacles for a mouth, and eyes that glare black hate.<ref name="ee-sea-01-of-sea-and-shadow-c21">''Of Sea and Shadow'', chapter 21</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] has a deep and masculine laugh.<ref name="ee-sea-01-of-sea-and-shadow-c21" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a creature with a tentacle-mouth and wings.<ref name="ee-sea-01-of-sea-and-shadow-c24">''Of Sea and Shadow'', chapter 24</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a creature that repeats what others say.<ref name="ee-sea-01-of-sea-and-shadow-c25">''Of Sea and Shadow'', chapter 25</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] follows [[Calder]] and flaps along behind him.<ref name="ee-sea-01-of-sea-and-shadow-c27">''Of Sea and Shadow'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a dark figure with black eyes and stubby wings.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] has a nest of tentacles on its mouth.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a [[Bellowing Horror]].<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a creature kept in a darkened cage that can talk in its sleep.<ref name="ee-sea-01-of-sea-and-shadow-c5">''Of Sea and Shadow'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a creature with black eyes and tentacles.<ref name="ee-sea-01-of-sea-and-shadow-c7">''Of Sea and Shadow'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a creature with tentacles that eats worms.<ref name="ee-sea-01-of-sea-and-shadow-c7" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a creature that mostly sleeps during the day.<ref name="ee-sea-01-of-sea-and-shadow-c9">''Of Sea and Shadow'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] are creatures that live alongside [[Calder]].<ref name="ee-sea-01-of-sea-and-shadow-c9" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a creature that can fly and mimics sounds.<ref name="ee-sea-01-of-sea-and-shadow-c17">''Of Sea and Shadow'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] can fly and echo speech.<ref name="ee-sea-01-of-sea-and-shadow-c18">''Of Sea and Shadow'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] has wings that buzz like a hummingbird's.<ref name="ee-sea-01-of-sea-and-shadow-c19">''Of Sea and Shadow'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] can growl with the voice of a malevolent earthquake.<ref name="ee-sea-01-of-sea-and-shadow-c19" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a monstrosity with wings, tentacles for a mouth, and eyes that glare black hate.<ref name="ee-sea-01-of-sea-and-shadow-c21">''Of Sea and Shadow'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] has a deep and masculine laugh.<ref name="ee-sea-01-of-sea-and-shadow-c21" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a creature with a tentacle-mouth and wings.<ref name="ee-sea-01-of-sea-and-shadow-c24">''Of Sea and Shadow'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] is a creature that repeats what others say.<ref name="ee-sea-01-of-sea-and-shadow-c25">''Of Sea and Shadow'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shuffles]] follows [[Calder]] and flaps along behind him.<ref name="ee-sea-01-of-sea-and-shadow-c27">''Of Sea and Shadow'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Shuffles is a pudgy green [[Elderspawn]] with bat-like wings that [[Calder]] has kept as a pet since childhood. Though this lesser species is characterized by low intelligence, Shuffles possesses a deep, booming masculine voice and often joins in with rumbling laughter. The creature is known to laugh whenever danger is imminent, though it was once seen simply gnawing on a fishbone while in the rigging.}}
 
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shuffles]] is a creature that lives in a cage and laughs when danger is imminent.<ref name="ee-sea-02-of-dawn-and-darkness-c7">''Of Dawn and Darkness'', chapter 7</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] received [[Shuffles]] as a pet when he was a child.<ref name="ee-sea-02-of-dawn-and-darkness-c12">''Of Dawn and Darkness'', chapter 12</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shuffles]] is an [[Elderspawn]] with a bat-winged shape that interacts with [[Calder]].<ref name="ee-sea-02-of-dawn-and-darkness-c13">''Of Dawn and Darkness'', chapter 13</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shuffles]] was gnawing on a fishbone in the rigging.<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shuffles]] is an [[Elderspawn]] with a deep, booming voice.<ref name="ee-sea-02-of-dawn-and-darkness-c21">''Of Dawn and Darkness'', chapter 21</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shuffles]] joins in with rumbling laughter.<ref name="ee-sea-02-of-dawn-and-darkness-c21" />}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shuffles]] are lesser [[Elderspawn]] with little intelligence.<ref name="ee-sea-02-of-dawn-and-darkness-c23">''Of Dawn and Darkness'', chapter 23</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shuffles]] is a pudgy green monster that can speak in a resonant masculine voice.<ref name="ee-sea-02-of-dawn-and-darkness-c24">''Of Dawn and Darkness'', chapter 24</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shuffles]] is a creature that lives in a cage and laughs when danger is imminent.<ref name="ee-sea-02-of-dawn-and-darkness-c7">''Of Dawn and Darkness'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] received [[Shuffles]] as a pet when he was a child.<ref name="ee-sea-02-of-dawn-and-darkness-c12">''Of Dawn and Darkness'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shuffles]] is an [[Elderspawn]] with a bat-winged shape that interacts with [[Calder]].<ref name="ee-sea-02-of-dawn-and-darkness-c13">''Of Dawn and Darkness'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shuffles]] was gnawing on a fishbone in the rigging.<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shuffles]] is an [[Elderspawn]] with a deep, booming voice.<ref name="ee-sea-02-of-dawn-and-darkness-c21">''Of Dawn and Darkness'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shuffles]] joins in with rumbling laughter.<ref name="ee-sea-02-of-dawn-and-darkness-c21" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shuffles]] are lesser [[Elderspawn]] with little intelligence.<ref name="ee-sea-02-of-dawn-and-darkness-c23">''Of Dawn and Darkness'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shuffles]] is a pudgy green monster that can speak in a resonant masculine voice.<ref name="ee-sea-02-of-dawn-and-darkness-c24">''Of Dawn and Darkness'', chapter 24</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|A spawn of [[Othaghor]], Shuffles is a winged creature with tendrils that frequently rests upon [[Calder]]'s shoulder. This speaking entity possesses the ability to use words to exert power and does not experience time in the same manner as humans. During various encounters, Shuffles has been known to slap, shout into [[Calder]]'s ear, and bellow warnings. Beyond its vocal capabilities, the creature can scream and has demonstrated the dexterity to unlatch cages through their bars.}}
 
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] is a creature with leathery wings and tendrils that rests on [[Calder]]'s shoulder.<ref name="ee-sea-03-of-kings-and-killers-c14">''Of Kings and Killers'', chapter 14</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] fluttered down to land on [[Calder]]'s shoulder.<ref name="ee-sea-03-of-kings-and-killers-c15">''Of Kings and Killers'', chapter 15</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] is a spawn of [[Othaghor]].<ref name="ee-sea-03-of-kings-and-killers-c16">''Of Kings and Killers'', chapter 16</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] is a creature that appears to [[Calder]] and can speak.<ref name="ee-sea-03-of-kings-and-killers-c20">''Of Kings and Killers'', chapter 20</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] is a character who can shout and slap [[Calder]].<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] shouted in [[Calder]]’s ear.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] is a character who bellowed 'TOO LATE'.<ref name="ee-sea-03-of-kings-and-killers-c23" />}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] rides on the railing and has wings.<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] is a creature that landed on [[Calder]]'s shoulder and screams.<ref name="ee-sea-03-of-kings-and-killers-c24" />}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] is a creature that does not feel time like humans.<ref name="ee-sea-03-of-kings-and-killers-c26">''Of Kings and Killers'', chapter 26</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] has the ability to unlatch cages through bars.<ref name="ee-sea-03-of-kings-and-killers-c26" />}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] can use words to exert power.<ref name="ee-sea-03-of-kings-and-killers-c26" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] is a creature with leathery wings and tendrils that rests on [[Calder]]'s shoulder.<ref name="ee-sea-03-of-kings-and-killers-c14">''Of Kings and Killers'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] fluttered down to land on [[Calder]]'s shoulder.<ref name="ee-sea-03-of-kings-and-killers-c15">''Of Kings and Killers'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] is a spawn of [[Othaghor]].<ref name="ee-sea-03-of-kings-and-killers-c16">''Of Kings and Killers'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] is a creature that appears to [[Calder]] and can speak.<ref name="ee-sea-03-of-kings-and-killers-c20">''Of Kings and Killers'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] is a character who can shout and slap [[Calder]].<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] shouted in [[Calder]]’s ear.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] is a character who bellowed 'TOO LATE'.<ref name="ee-sea-03-of-kings-and-killers-c23" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] rides on the railing and has wings.<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] is a creature that landed on [[Calder]]'s shoulder and screams.<ref name="ee-sea-03-of-kings-and-killers-c24" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] is a creature that does not feel time like humans.<ref name="ee-sea-03-of-kings-and-killers-c26">''Of Kings and Killers'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] has the ability to unlatch cages through bars.<ref name="ee-sea-03-of-kings-and-killers-c26" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shuffles]] can use words to exert power.<ref name="ee-sea-03-of-kings-and-killers-c26" />}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|Inside its darkened cage in the corner, Shuffles murmured, “Kill for it....”<ref name="ee-sea-01-of-sea-and-shadow-c5" />}}

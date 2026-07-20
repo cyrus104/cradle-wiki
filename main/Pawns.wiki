@@ -9,13 +9,17 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|Pawns are unholy abominations composed of leftover machinery and corpses that resemble four-limbed [[spiders]]. Serving as a standard part of an [[Iron Legion]] Penetrator's crew, these entities function as an army capable of drowning targets in a mass of flesh. They are utilized to capture individuals for conversion into [[Shepherds]], and they were observed swarming the barrier of the [[Hive]] before evaporating upon approaching [[Sola]]. Ultimately, any crew members who fail their mission face being transformed into Pawns themselves.}}
 
-{{spoiler|book=lh-01-the-captain|[[Pawns]] are an army that can be used to drown targets in flesh.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Pawns]] are part of the standard crew complement for an [[Iron Legion]] Penetrator.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Pawns]] are unholy abominations of metal and flesh that resemble four-limbed [[spiders]] made from corpses and leftover machinery.<ref name="lh-01-the-captain-c10" />}}
-{{spoiler|book=lh-01-the-captain|[[Pawns]] can be used to capture individuals and turn them into [[Shepherds]].<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Pawns]] swarm around the barrier of the [[Hive]].<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Pawns]] evaporate when they get near [[Sola]].<ref name="lh-01-the-captain-c18" />}}
-{{spoiler|book=lh-01-the-captain|If the mission fails, the crew members will be made into [[Pawns]].<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|[[Pawns]] are an army that can be used to drown targets in flesh.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Pawns]] are part of the standard crew complement for an [[Iron Legion]] Penetrator.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Pawns]] are unholy abominations of metal and flesh that resemble four-limbed [[spiders]] made from corpses and leftover machinery.<ref name="lh-01-the-captain-c10" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Pawns]] can be used to capture individuals and turn them into [[Shepherds]].<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Pawns]] swarm around the barrier of the [[Hive]].<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Pawns]] evaporate when they get near [[Sola]].<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|If the mission fails, the crew members will be made into [[Pawns]].<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

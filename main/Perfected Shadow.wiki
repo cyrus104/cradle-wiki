@@ -6,8 +6,12 @@
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|The [[Perfected Shadow]] uses brainwashing magic on its agents.<ref name="lh-03-the-knight-c13">''The Knight'', chapter 13</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Perfected Shadow]] may have inserted traitors into Shyrax's fleet.<ref name="lh-03-the-knight-c18">''The Knight'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|The [[Perfected Shadow]] uses brainwashing magic on its agents.<ref name="lh-03-the-knight-c13">''The Knight'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Perfected Shadow]] may have inserted traitors into Shyrax's fleet.<ref name="lh-03-the-knight-c18">''The Knight'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“He’s an agent of the Perfected Shadow,” I went on. “All sorts of brainwashing magic on him.<ref name="lh-03-the-knight-c13" />}}

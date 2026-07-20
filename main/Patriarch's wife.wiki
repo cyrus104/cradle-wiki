@@ -5,9 +5,13 @@
 }}
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|The [[Kazan]] [[Patriarch's wife]] is an [[Iron]].<ref name="cradle-09-bloodline-c10">''Bloodline'', chapter 10</ref>}}
-{{spoiler|book=cradle-09-bloodline|The [[Patriarch's wife]] wears an iron badge as a breastplate.<ref name="cradle-09-bloodline-c10" />}}
-{{spoiler|book=cradle-09-bloodline|The [[Patriarch's wife]] wants to take [[Maret]] back.<ref name="cradle-09-bloodline-c10" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|The [[Kazan]] [[Patriarch's wife]] is an [[Iron]].<ref name="cradle-09-bloodline-c10">''Bloodline'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Patriarch's wife]] wears an iron badge as a breastplate.<ref name="cradle-09-bloodline-c10" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Patriarch's wife]] wants to take [[Maret]] back.<ref name="cradle-09-bloodline-c10" />}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-09-bloodline|"Maret! Forgiveness, please, I’ll take him!"<ref name="cradle-09-bloodline-c10" />}}

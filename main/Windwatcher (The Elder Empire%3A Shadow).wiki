@@ -6,11 +6,19 @@
 }}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Windwatcher is a type of [[Kameira]].<ref name="ee-shadow-01-of-shadow-and-sea-c7">''Of Shadow and Sea'', chapter 7</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Windwatchers were thought to have gone extinct centuries ago.<ref name="ee-shadow-01-of-shadow-and-sea-c7" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Windwatcher is a type of [[Kameira]].<ref name="ee-shadow-01-of-shadow-and-sea-c7">''Of Shadow and Sea'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Windwatchers were thought to have gone extinct centuries ago.<ref name="ee-shadow-01-of-shadow-and-sea-c7" />}}</li>
+</ul>
+</div></div>
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|A Windwatcher is an iridescent bird [[Kameira]] with shining feathers.<ref name="ee-shadow-03-of-killers-and-kings-c9">''Of Killers and Kings'', chapter 9</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|A Windwatcher is an iridescent bird [[Kameira]] with shining feathers.<ref name="ee-shadow-03-of-killers-and-kings-c9">''Of Killers and Kings'', chapter 9</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

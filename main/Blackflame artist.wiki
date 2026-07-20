@@ -8,7 +8,11 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|A [[Blackflame artist]] is attempting to break an invisible wall with his teeth.<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|A [[Blackflame artist]] is attempting to break an invisible wall with his teeth.<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

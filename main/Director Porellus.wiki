@@ -18,17 +18,21 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|[[Director]] Porellus is an [[Archmage]] and a [[Director]] at the [[Magic Tower]]. This pale, beige, slug-like creature possesses a bulbous body characterized by beetle eyes, tiny tentacles, and many pseudo-legs. The individual features two pairs of arms, including a lower pair of hands, and wears an ornate mantle resembling a scarf with sewn metal scales. During his tenure, Porellus used wands and roared for security, though he was eventually paid off to keep the Tower's security forces occupied. Furthermore, he held the authority to suspend the narrator.}}
 
-{{spoiler|book=lh-01-the-captain|Porellus is a giant, beige slug-like creature with two pairs of arms and many pseudo-legs.<ref name="lh-01-the-captain-c4">''The Captain'', chapter 4</ref>}}
-{{spoiler|book=lh-01-the-captain|Porellus has a lower pair of hands.<ref name="lh-01-the-captain-c4" />}}
-{{spoiler|book=lh-01-the-captain|[[Director Porellus]] is a [[Director]] who roared for security.<ref name="lh-01-the-captain-c4" />}}
-{{spoiler|book=lh-01-the-captain|[[Director Porellus]] has the authority to suspend the narrator.<ref name="lh-01-the-captain-c5">''The Captain'', chapter 5</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Director Porellus]] is a slug-like individual with pale skin and tendrils.<ref name="lh-01-the-captain-c22">''The Captain'', chapter 22</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Director Porellus]] is an [[Archmage]] with a bulbous body and tiny tentacles.<ref name="lh-01-the-captain-c24">''The Captain'', chapter 24</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Director Porellus]] has beetle eyes.<ref name="lh-01-the-captain-c24" />}}
-{{spoiler|book=lh-01-the-captain|[[Director Porellus]] wears a mantle that is like an ornate scarf with metal scales sewn into it.<ref name="lh-01-the-captain-c24" />}}
-{{spoiler|book=lh-01-the-captain|[[Director Porellus]] uses wands.<ref name="lh-01-the-captain-c25">''The Captain'', chapter 25</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Director Porellus]] was paid off to keep Tower security busy.<ref name="lh-01-the-captain-c25" />}}
-{{spoiler|book=lh-01-the-captain|Porellus is a [[Director]] at the [[Magic Tower]].<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|Porellus is a giant, beige slug-like creature with two pairs of arms and many pseudo-legs.<ref name="lh-01-the-captain-c4">''The Captain'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Porellus has a lower pair of hands.<ref name="lh-01-the-captain-c4" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Director Porellus]] is a [[Director]] who roared for security.<ref name="lh-01-the-captain-c4" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Director Porellus]] has the authority to suspend the narrator.<ref name="lh-01-the-captain-c5">''The Captain'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Director Porellus]] is a slug-like individual with pale skin and tendrils.<ref name="lh-01-the-captain-c22">''The Captain'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Director Porellus]] is an [[Archmage]] with a bulbous body and tiny tentacles.<ref name="lh-01-the-captain-c24">''The Captain'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Director Porellus]] has beetle eyes.<ref name="lh-01-the-captain-c24" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Director Porellus]] wears a mantle that is like an ornate scarf with metal scales sewn into it.<ref name="lh-01-the-captain-c24" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Director Porellus]] uses wands.<ref name="lh-01-the-captain-c25">''The Captain'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Director Porellus]] was paid off to keep Tower security busy.<ref name="lh-01-the-captain-c25" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Porellus is a [[Director]] at the [[Magic Tower]].<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“Magic Tower, this is Professor Varic Vallenar. We’re incoming and would like to request a meeting with Director Porellus.”<ref name="lh-01-the-captain-c36" />}}

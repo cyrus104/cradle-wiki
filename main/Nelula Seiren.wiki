@@ -14,11 +14,15 @@
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Nelula Seiren serves as the [[Planetary Governor]] of [[Visiria]]. As an old woman, she possesses pale pink skin and hair styled into an elaborate nest. Her appearance is further distinguished by a third eye that emits a bright red glow. Additionally, her neck, wrists, ears, and hair shine with the luster of rubies and gold.}}
 
-{{spoiler|book=lh-03-the-knight|[[Nelula Seiren]] is the [[Planetary Governor]] of [[Visiria]].<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Nelula Seiren]] has pale pink skin and hair styled in an elaborate nest.<ref name="lh-03-the-knight-c26" />}}
-{{spoiler|book=lh-03-the-knight|[[Nelula Seiren]]'s hair, ears, neck, and wrists shine with gold and rubies.<ref name="lh-03-the-knight-c26" />}}
-{{spoiler|book=lh-03-the-knight|[[Nelula Seiren]] has a third eye that glows bright red.<ref name="lh-03-the-knight-c26" />}}
-{{spoiler|book=lh-03-the-knight|[[Nelula Seiren]] is an old woman.<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[Nelula Seiren]] is the [[Planetary Governor]] of [[Visiria]].<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Nelula Seiren]] has pale pink skin and hair styled in an elaborate nest.<ref name="lh-03-the-knight-c26" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Nelula Seiren]]'s hair, ears, neck, and wrists shine with gold and rubies.<ref name="lh-03-the-knight-c26" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Nelula Seiren]] has a third eye that glows bright red.<ref name="lh-03-the-knight-c26" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Nelula Seiren]] is an old woman.<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“Do you want to challenge an old woman, then?”<ref name="lh-03-the-knight-c30" />}}

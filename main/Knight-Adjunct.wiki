@@ -7,7 +7,11 @@
 }}
 
 == Of Darkness and Dawn ==
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Darius Allbright]] is a [[Knight-Adjunct]].<ref name="ee-shadow-02-of-darkness-and-dawn-c8">''Of Darkness and Dawn'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Darius Allbright]] is a [[Knight-Adjunct]].<ref name="ee-shadow-02-of-darkness-and-dawn-c8">''Of Darkness and Dawn'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

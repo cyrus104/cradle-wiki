@@ -8,7 +8,11 @@
 }}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|The [[Karoshan]] queen is a towering figure with great power.<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|The [[Karoshan]] queen is a towering figure with great power.<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

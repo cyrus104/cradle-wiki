@@ -6,7 +6,11 @@
 }}
 
 == Unsouled ==
-{{spoiler|book=cradle-01-unsouled|Surviving the [[Torchyard]] allows one to harvest enough [[vital aura]] to fuel advancement even to the [[Gold stage]].<ref name="cradle-01-unsouled-c4">''Unsouled'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-01-unsouled|Surviving the [[Torchyard]] allows one to harvest enough [[vital aura]] to fuel advancement even to the [[Gold stage]].<ref name="cradle-01-unsouled-c4">''Unsouled'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

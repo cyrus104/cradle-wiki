@@ -9,51 +9,87 @@
 {{spoiler|book=cradle-12-waybound|[[Soulsmiths]] are highly specialized craftsmen who manipulate [[madra]] to work with the [[essence]] of spirits. Their primary role involves deconstructing and reconstructing [[Remnants]]—living forces left behind by deceased [[sacred artists]]—to utilize their unique properties. Through this process, they can create various items, including weapons, sacred instruments, prosthetic limbs, and complex constructs. They may also transplant bindings from [[Remnants]] into living [[sacred artists]] or bind spiritual components back into physical vessels. The craft is a delicate blend of three elements: the specific [[binding]], the material used for the [[construct]], and the Soulsmith's own [[madra]]. Because [[madra]] is a living, changing substance, practitioners must be able to predict its fluctuations and ensure compatibility between their own power and the materials used; failure can result in useless products or dangerous accidents. [[Soulsmiths]] utilize specialized tools, most notably a [[drudge]]—a personalized [[madra]] [[construct]] that functions as an all-in-one toolkit for analyzing and separating [[Remnant]] components. They also use hammers to inject their personal will into an object, and may utilize advanced facilities like a [[Soulforge]] to imbue items with the authority of higher existences. Training is a rigorous, multi-year process requiring mastery of [[Forging]], the memorization of complex [[scripts]], and the ability to distinguish between various [[madra]] aspects. While their skills are not directly combat-oriented, [[Soulsmiths]] are prestigious and economically vital members of clans and sects.}}
 
 == Unsouled ==
-{{spoiler|book=cradle-01-unsouled|A [[Soulsmith]] is a role that involves creating magical items from [[madra]] and [[Remnants]].<ref name="cradle-01-unsouled-c1">''Unsouled'', chapter 1</ref>}}
-{{spoiler|book=cradle-01-unsouled|[[Soulsmithing]] involves the deconstruction and reconstruction of [[Remnants]] to utilize their unique properties.<ref name="cradle-01-unsouled-c9">''Unsouled'', chapter 9</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-01-unsouled|A [[Soulsmith]] is a role that involves creating magical items from [[madra]] and [[Remnants]].<ref name="cradle-01-unsouled-c1">''Unsouled'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Soulsmithing]] involves the deconstruction and reconstruction of [[Remnants]] to utilize their unique properties.<ref name="cradle-01-unsouled-c9">''Unsouled'', chapter 9</ref>}}</li>
+</ul>
+</div></div>
 
 == Soulsmith ==
 {{spoiler|book=cradle-02-soulsmith|[[Soulsmiths]] are specialized craftsmen who work within a foundry to manipulate the [[essence]] of spirits. This discipline requires immense delicacy and skill to manage complex bindings, as well as a sharp memory and a dedication to constant experimentation. Through their craft, they forge weapons, form various constructs, and are capable of controlling many such creations simultaneously. Additionally, these artisans perform the task of stealing bindings from [[Remnants]] to transplant them into [[sacred artists]].}}
 
-{{spoiler|book=cradle-02-soulsmith|[[Soulsmiths]] are capable of controlling many constructs at once.<ref name="cradle-02-soulsmith-c9">''Soulsmith'', chapter 9</ref>}}
-{{spoiler|book=cradle-02-soulsmith|A [[Soulsmith]] works in a foundry.<ref name="cradle-02-soulsmith-c10">''Soulsmith'', chapter 10</ref>}}
-{{spoiler|book=cradle-02-soulsmith|[[Soulsmithing]] is a discipline that requires delicacy and skill to work with bindings.<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}
-{{spoiler|book=cradle-02-soulsmith|[[Soulsmiths]] are craftsmen who work with the stuff of spirits.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}
-{{spoiler|book=cradle-02-soulsmith|[[Soulsmiths]] form constructs, steal bindings from [[Remnants]] to transplant into [[sacred artists]], and forge weapons.<ref name="cradle-02-soulsmith-c12" />}}
-{{spoiler|book=cradle-02-soulsmith|The art of a [[Soulsmith]] requires a sharp memory and dedication to experimentation.<ref name="cradle-02-soulsmith-c12" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|[[Soulsmiths]] are capable of controlling many constructs at once.<ref name="cradle-02-soulsmith-c9">''Soulsmith'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|A [[Soulsmith]] works in a foundry.<ref name="cradle-02-soulsmith-c10">''Soulsmith'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Soulsmithing]] is a discipline that requires delicacy and skill to work with bindings.<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Soulsmiths]] are craftsmen who work with the stuff of spirits.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Soulsmiths]] form constructs, steal bindings from [[Remnants]] to transplant into [[sacred artists]], and forge weapons.<ref name="cradle-02-soulsmith-c12" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The art of a [[Soulsmith]] requires a sharp memory and dedication to experimentation.<ref name="cradle-02-soulsmith-c12" />}}</li>
+</ul>
+</div></div>
 
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|A Soulsmith is a professional title for those who practice the art of soulsmithing, which involves reshaping [[madra]] other than one's own to give power a specific form. This process of creating constructs requires a high degree of compatibility between the practitioner's power and that of the object being made. To perform this work, [[Soulsmiths]] often utilize tools crafted from goldsteel and may maintain private underground storehouses for their materials. Such specialists can perform various tasks with a [[Sylvan Riverseed]], and historically, a Soulsmith has been responsible for overseeing the operation of a course. Practitioners like Gesha continue to utilize these fundamental skills.}}
 
-{{spoiler|book=cradle-03-blackflame|[[Goldsteel]] is often used for [[Soulsmith tools]].<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Soulsmithing]] is the process of creating a [[construct]] by taking control of power and giving it form.<ref name="cradle-03-blackflame-c1" />}}
-{{spoiler|book=cradle-03-blackflame|[[Soulsmithing]] requires compatibility between the [[Soulsmith]]'s power and the [[construct]]'s power.<ref name="cradle-03-blackflame-c1" />}}
-{{spoiler|book=cradle-03-blackflame|[[Soulsmith]] is a title or profession.<ref name="cradle-03-blackflame-c2">''Blackflame'', chapter 2</ref>}}
-{{spoiler|book=cradle-03-blackflame|Gesha uses [[Soulsmith]] practice.<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}
-{{spoiler|book=cradle-03-blackflame|Reshaping [[madra]] besides one's own is the fundamental skill of a [[Soulsmith]].<ref name="cradle-03-blackflame-c6" />}}
-{{spoiler|book=cradle-03-blackflame|[[Soulsmiths]] can do many things with a [[Sylvan Riverseed]].<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}
-{{spoiler|book=cradle-03-blackflame|There is a [[Soulsmith]]’s underground storehouse.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}
-{{spoiler|book=cradle-03-blackflame|A [[Soulsmith]] was in charge of the course’s operation.<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|[[Goldsteel]] is often used for [[Soulsmith tools]].<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Soulsmithing]] is the process of creating a [[construct]] by taking control of power and giving it form.<ref name="cradle-03-blackflame-c1" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Soulsmithing]] requires compatibility between the [[Soulsmith]]'s power and the [[construct]]'s power.<ref name="cradle-03-blackflame-c1" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Soulsmith]] is a title or profession.<ref name="cradle-03-blackflame-c2">''Blackflame'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|Gesha uses [[Soulsmith]] practice.<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|Reshaping [[madra]] besides one's own is the fundamental skill of a [[Soulsmith]].<ref name="cradle-03-blackflame-c6" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Soulsmiths]] can do many things with a [[Sylvan Riverseed]].<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|There is a [[Soulsmith]]’s underground storehouse.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A [[Soulsmith]] was in charge of the course’s operation.<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|A [[Soulsmith]] is required to repair a cracked [[Ancestor's Spear]].<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}
-{{spoiler|book=cradle-04-skysworn|[[Soulsmiths]] create constructs and weapons.<ref name="cradle-04-skysworn-c3">''Skysworn'', chapter 3</ref>}}
-{{spoiler|book=cradle-04-skysworn|An impulsive [[Soulsmith]] is a dead [[Soulsmith]].<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|A [[Soulsmith]] is required to repair a cracked [[Ancestor's Spear]].<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Soulsmiths]] create constructs and weapons.<ref name="cradle-04-skysworn-c3">''Skysworn'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|An impulsive [[Soulsmith]] is a dead [[Soulsmith]].<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|[[Soulsmithing]] involves [[binding]] a spiritual [[construct]] to a physical vessel by using [[madra]] to tie them together.<ref name="cradle-05-ghostwater-c8">''Ghostwater'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|[[Soulsmithing]] involves [[binding]] a spiritual [[construct]] to a physical vessel by using [[madra]] to tie them together.<ref name="cradle-05-ghostwater-c8">''Ghostwater'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|A [[Soulsmith]] is one who practices [[Soulsmithing]].<ref name="cradle-06-underlord-c15">''Underlord'', chapter 15</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|A [[Soulsmith]] is one who practices [[Soulsmithing]].<ref name="cradle-06-underlord-c15">''Underlord'', chapter 15</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Adama]] does not consider himself a [[Soulsmith]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Adama]] does not consider himself a [[Soulsmith]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|[[Soulsmiths]] can sometimes blend bindings into hybrid techniques.<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|[[Soulsmiths]] can sometimes blend bindings into hybrid techniques.<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Malice]] is a famous [[Soulsmith]].<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Malice]] is a famous [[Soulsmith]].<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -8,8 +8,12 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|[[Kotai Taien]] is a member of the [[Kotai clan]].<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}
-{{spoiler|book=cradle-04-skysworn|[[Kotai Taien]] is someone [[Lindon]] associates with divine justice for his pain.<ref name="cradle-04-skysworn-c15">''Skysworn'', chapter 15</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|[[Kotai Taien]] is a member of the [[Kotai clan]].<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Kotai Taien]] is someone [[Lindon]] associates with divine justice for his pain.<ref name="cradle-04-skysworn-c15">''Skysworn'', chapter 15</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

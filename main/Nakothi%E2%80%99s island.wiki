@@ -6,8 +6,12 @@
 }}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nakothi]] has an [[island]].<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nakothi’s island]] is part of the [[Dead Mother]]’s body and resembles a pale corpse.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nakothi]] has an [[island]].<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nakothi’s island]] is part of the [[Dead Mother]]’s body and resembles a pale corpse.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

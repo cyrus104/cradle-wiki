@@ -6,8 +6,12 @@
 }}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|The [[Bleeding Wand]] is a two-foot long artifact of Ragnarus consisting of a [[ruby]] core with a dark wooden root.<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}
-{{spoiler|book=tg-02-crimson-vault|The [[Bleeding Wand]] is an artifact wielded by [[Adessa]].<ref name="tg-02-crimson-vault-c3" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Bleeding Wand]] is a two-foot long artifact of Ragnarus consisting of a [[ruby]] core with a dark wooden root.<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Bleeding Wand]] is an artifact wielded by [[Adessa]].<ref name="tg-02-crimson-vault-c3" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

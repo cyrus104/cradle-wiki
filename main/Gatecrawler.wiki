@@ -9,13 +9,21 @@
 {{spoiler|book=tg-03-city-of-light|A gatecrawler is a specialized device used to force open [[Gates]] that are either currently closing or have already been shut. These tools can be difficult and exhausting to operate, often requiring significant physical effort from the user. While a black gauntlet with spiked or clawed fingertips serves as the [[Valinhall]] version of this device, other entities like the [[Vault]] possess various gatecrawlers, such as a [[sword]] with a shifting black and red blade. Using a gatecrawler to enter a foreign [[Territory]] can be perceived as an act of aggression, causing the Gate to react with red light or flares. This method is known as a way to follow a [[Traveler]] into a new area, though it can be used by enemies to break into protected locations.}}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|A [[gatecrawler]] can tear open a closed Gate.<ref name="tg-02-crimson-vault-c11">''The Crimson Vault'', chapter 11</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|A [[gatecrawler]] can tear open a closed Gate.<ref name="tg-02-crimson-vault-c11">''The Crimson Vault'', chapter 11</ref>}}</li>
+</ul>
+</div></div>
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|The giant tore his way into [[the House]] with a [[gatecrawler]].<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}
-{{spoiler|book=tg-03-city-of-light|One of the [[Vault]]'s gatecrawlers is shaped like a [[sword]].<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}
-{{spoiler|book=tg-03-city-of-light|The characters previously entered [[the House]] through a [[gatecrawler]].<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}
-{{spoiler|book=tg-03-city-of-light|The [[Incarnations]] used a [[gatecrawler]] to cut their way into [[Elysia]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|The giant tore his way into [[the House]] with a [[gatecrawler]].<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|One of the [[Vault]]'s gatecrawlers is shaped like a [[sword]].<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The characters previously entered [[the House]] through a [[gatecrawler]].<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The [[Incarnations]] used a [[gatecrawler]] to cut their way into [[Elysia]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

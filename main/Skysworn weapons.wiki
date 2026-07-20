@@ -6,7 +6,11 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|[[Skysworn weapons]] are keyed to the individual user or the armor and can be located or deactivated remotely.<ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|[[Skysworn weapons]] are keyed to the individual user or the armor and can be located or deactivated remotely.<ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

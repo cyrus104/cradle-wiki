@@ -6,8 +6,12 @@
 }}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Lindon]] was holding [[Blackflame claws]] in his left hand.<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Orthos]]'s right hand is covered in [[Blackflame claws]].<ref name="cradle-12-waybound-c28">''Waybound'', chapter 28</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] was holding [[Blackflame claws]] in his left hand.<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Orthos]]'s right hand is covered in [[Blackflame claws]].<ref name="cradle-12-waybound-c28">''Waybound'', chapter 28</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

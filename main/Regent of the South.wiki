@@ -7,8 +7,12 @@
 }}
 
 == Of Dawn and Darkness ==
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Regent of the South]] is a visitor to the [[Consultants]].<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Regent of the South]] is a man who refers to himself as having an oath to eternity.<ref name="ee-sea-02-of-dawn-and-darkness-c20" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Regent of the South]] is a visitor to the [[Consultants]].<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Regent of the South]] is a man who refers to himself as having an oath to eternity.<ref name="ee-sea-02-of-dawn-and-darkness-c20" />}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“The Consultants have a visitor,” Teach said, as she handed the winged lizard’s reins to Andel. “The Regent of the South.”<ref name="ee-sea-02-of-dawn-and-darkness-c20" />}}

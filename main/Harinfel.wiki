@@ -9,12 +9,16 @@
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Situated on a high hill southeast of the [[Latari Forest]] within [[Lysander]]'s realm, Harinfel once served as a populated village. The settlement was eventually destroyed by the [[Incarnation]], leaving behind only empty remnants of its former self. Following this devastation, the village lost nearly eighty percent of its residents. A group eventually traveled to the location, establishing a camp just outside the ruins of the former village.}}
 
-{{spoiler|book=tg-02-crimson-vault|[[Harinfel]] is located southeast of the [[Latari Forest]] in [[Lysander]]'s realm.<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}
-{{spoiler|book=tg-02-crimson-vault|The group is going to the village of [[Harinfel]].<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}
-{{spoiler|book=tg-02-crimson-vault|The camp is located outside the former village of [[Harinfel]].<ref name="tg-02-crimson-vault-c9" />}}
-{{spoiler|book=tg-02-crimson-vault|The village of [[Harinfel]] lost almost eighty percent of its residents.<ref name="tg-02-crimson-vault-c9" />}}
-{{spoiler|book=tg-02-crimson-vault|[[Harinfel]] village lies in empty remnants on a high hill.<ref name="tg-02-crimson-vault-c9" />}}
-{{spoiler|book=tg-02-crimson-vault|The [[Incarnation]] has destroyed [[Harinfel]].<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Harinfel]] is located southeast of the [[Latari Forest]] in [[Lysander]]'s realm.<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The group is going to the village of [[Harinfel]].<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The camp is located outside the former village of [[Harinfel]].<ref name="tg-02-crimson-vault-c9" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The village of [[Harinfel]] lost almost eighty percent of its residents.<ref name="tg-02-crimson-vault-c9" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Harinfel]] village lies in empty remnants on a high hill.<ref name="tg-02-crimson-vault-c9" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Incarnation]] has destroyed [[Harinfel]].<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|"That's in Lysander's realm, isn't it? It's just southeast of the Latari Forest."<ref name="tg-02-crimson-vault-c8" />}}

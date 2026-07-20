@@ -6,8 +6,12 @@
 }}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Kareia]] is the most abundant of the [[United Worlds]].<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Kareia]] is a location with clouds.<ref name="cradle-12-waybound-c36" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Kareia]] is the most abundant of the [[United Worlds]].<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Kareia]] is a location with clouds.<ref name="cradle-12-waybound-c36" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

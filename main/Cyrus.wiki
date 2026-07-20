@@ -7,7 +7,11 @@
 }}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|[[Cyrus]] is an [[Overlord]] associated with [[Tartarus]].<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Cyrus]] is an [[Overlord]] associated with [[Tartarus]].<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|“I’m sure Tartarus still stands as well,” Indirial added. “Overlord Cyrus won’t let his Tree go so easily, and his sacrifice was relatively fresh.”<ref name="tg-02-crimson-vault-c23" />}}

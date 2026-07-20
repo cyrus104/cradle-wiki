@@ -6,8 +6,12 @@
 }}
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|The eggs of the [[Bleeding Phoenix]] are round crimson shapes that cling to landscapes.<ref name="cradle-09-bloodline-c14">''Bloodline'', chapter 14</ref>}}
-{{spoiler|book=cradle-09-bloodline|[[Bleeding Phoenix eggs]] can re-form if broken apart.<ref name="cradle-09-bloodline-c14" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|The eggs of the [[Bleeding Phoenix]] are round crimson shapes that cling to landscapes.<ref name="cradle-09-bloodline-c14">''Bloodline'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Bleeding Phoenix eggs]] can re-form if broken apart.<ref name="cradle-09-bloodline-c14" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

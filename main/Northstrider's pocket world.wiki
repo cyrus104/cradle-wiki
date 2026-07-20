@@ -6,8 +6,12 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Northstrider's pocket world]] is a miniature version of [[Ghostwater]] consisting of sand, seaweed, a forest of blades, a cave with two wells, and a fenced-off living area.<ref name="cradle-08-wintersteel-c20">''Wintersteel'', chapter 20</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Yerin]] and [[Ruby]] trained inside [[Northstrider's pocket world]].<ref name="cradle-08-wintersteel-c22">''Wintersteel'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Northstrider's pocket world]] is a miniature version of [[Ghostwater]] consisting of sand, seaweed, a forest of blades, a cave with two wells, and a fenced-off living area.<ref name="cradle-08-wintersteel-c20">''Wintersteel'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Yerin]] and [[Ruby]] trained inside [[Northstrider's pocket world]].<ref name="cradle-08-wintersteel-c22">''Wintersteel'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

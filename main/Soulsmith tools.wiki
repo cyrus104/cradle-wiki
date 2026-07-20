@@ -6,8 +6,12 @@
 }}
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|[[Lindon]] has a leather roll containing his [[Soulsmith tools]].<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}
-{{spoiler|book=cradle-05-ghostwater|[[Soulsmith tools]] are kept in pouches and from loops on a bundle of leather.<ref name="cradle-05-ghostwater-c6">''Ghostwater'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] has a leather roll containing his [[Soulsmith tools]].<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Soulsmith tools]] are kept in pouches and from loops on a bundle of leather.<ref name="cradle-05-ghostwater-c6">''Ghostwater'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

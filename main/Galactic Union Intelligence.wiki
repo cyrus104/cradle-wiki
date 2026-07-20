@@ -6,7 +6,11 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Galactic Union Intelligence]] believed [[Herta]] was a specialist in viral engineering.<ref name="lh-04-the-pilot-c17">''The Pilot'', chapter 17</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Galactic Union Intelligence]] believed [[Herta]] was a specialist in viral engineering.<ref name="lh-04-the-pilot-c17">''The Pilot'', chapter 17</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“If you’re gifted in prosthetics, then why does Galactic Union Intelligence seem to believe that you’re a specialist in viral engineering?”<ref name="lh-04-the-pilot-c17" />}}

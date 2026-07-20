@@ -6,8 +6,12 @@
 }}
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|The [[Heaven’s Drops]] are four transparent gray-green orbs wrapped in rings of [[Forged]] script that can improve cycling quality.<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}
-{{spoiler|book=cradle-06-underlord|Heaven's Drops appear gray and dull in the air.<ref name="cradle-06-underlord-c8" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|The [[Heaven’s Drops]] are four transparent gray-green orbs wrapped in rings of [[Forged]] script that can improve cycling quality.<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|Heaven's Drops appear gray and dull in the air.<ref name="cradle-06-underlord-c8" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

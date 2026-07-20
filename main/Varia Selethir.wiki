@@ -6,9 +6,13 @@
 }}
 
 == Of Kings and Killers ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Varia Selethir]] is [[Cheska Bennett]]’s quartermaster.<ref name="ee-sea-03-of-kings-and-killers-c5">''Of Kings and Killers'', chapter 5</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|Varia is a quartermaster.<ref name="ee-sea-03-of-kings-and-killers-c5" />}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|Varia is an orange-clad quartermaster for Cheska.<ref name="ee-sea-03-of-kings-and-killers-c16">''Of Kings and Killers'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Varia Selethir]] is [[Cheska Bennett]]’s quartermaster.<ref name="ee-sea-03-of-kings-and-killers-c5">''Of Kings and Killers'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Varia is a quartermaster.<ref name="ee-sea-03-of-kings-and-killers-c5" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Varia is an orange-clad quartermaster for Cheska.<ref name="ee-sea-03-of-kings-and-killers-c16">''Of Kings and Killers'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

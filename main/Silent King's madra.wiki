@@ -6,7 +6,11 @@
 }}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The [[Silent King's madra]] produces a disturbing white light.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The [[Silent King's madra]] produces a disturbing white light.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

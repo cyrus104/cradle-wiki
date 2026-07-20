@@ -4,9 +4,13 @@
 }}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren, the Whispering Death]] is an [[Awakened]] bronze weapon that [[Lucan]] named.<ref name="ee-shadow-01-of-shadow-and-sea-c19">''Of Shadow and Sea'', chapter 19</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]]'s blade looks like a glass window looking into a netherworld and is filled with dozens of shining green hands.<ref name="ee-shadow-01-of-shadow-and-sea-c19" />}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren's power]] was increased by two kills performed by [[Shera]].<ref name="ee-shadow-01-of-shadow-and-sea-c19" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren, the Whispering Death]] is an [[Awakened]] bronze weapon that [[Lucan]] named.<ref name="ee-shadow-01-of-shadow-and-sea-c19">''Of Shadow and Sea'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]]'s blade looks like a glass window looking into a netherworld and is filled with dozens of shining green hands.<ref name="ee-shadow-01-of-shadow-and-sea-c19" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren's power]] was increased by two kills performed by [[Shera]].<ref name="ee-shadow-01-of-shadow-and-sea-c19" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

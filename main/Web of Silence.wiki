@@ -6,7 +6,11 @@
 }}
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|The [[Web of Silence]] is a shimmering purple-and-orange web from a strange [[Path]] that attacks the mind and spirit.<ref name="cradle-10-reaper-c16">''Reaper'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|The [[Web of Silence]] is a shimmering purple-and-orange web from a strange [[Path]] that attacks the mind and spirit.<ref name="cradle-10-reaper-c16">''Reaper'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

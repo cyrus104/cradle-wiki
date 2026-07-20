@@ -6,8 +6,12 @@
 }}
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|[[Stellar Spear Remnants]] appear thin, bony, and look like they are sketched in vivid starlight.<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}
-{{spoiler|book=cradle-03-blackflame|A spiked [[Stellar Spear]] [[Remnant]] rose.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|[[Stellar Spear Remnants]] appear thin, bony, and look like they are sketched in vivid starlight.<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A spiked [[Stellar Spear]] [[Remnant]] rose.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

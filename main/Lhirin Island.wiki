@@ -4,11 +4,19 @@
 }}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Lhirin Island]] is a nomadic isle that has reportedly drifted west.<ref name="ee-sea-01-of-sea-and-shadow-c7">''Of Sea and Shadow'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Lhirin Island]] is a nomadic isle that has reportedly drifted west.<ref name="ee-sea-01-of-sea-and-shadow-c7">''Of Sea and Shadow'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Lhirin Island]] is a floating [[island]] of the [[Aion]] that moves and hunts ships.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Calder Marten]] was expected to take a long way around [[Lhirin Island]].<ref name="ee-shadow-01-of-shadow-and-sea-c10" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Lhirin Island]] is a floating [[island]] of the [[Aion]] that moves and hunts ships.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Calder Marten]] was expected to take a long way around [[Lhirin Island]].<ref name="ee-shadow-01-of-shadow-and-sea-c10" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

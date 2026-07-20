@@ -4,9 +4,13 @@
 }}
 
 == Of Kings and Killers ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Imperial seal]] is a famous relic used by [[Emperor (Elder Empire)|the Emperor]] to imprint messages.<ref name="ee-sea-03-of-kings-and-killers-c11">''Of Kings and Killers'', chapter 11</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|Messages sent with the [[Imperial seal]] cannot be opened or read by anyone other than the intended recipient.<ref name="ee-sea-03-of-kings-and-killers-c11" />}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Imperial seal]] is not [[Awakened]] but possesses heavy significance of [[Intent]].<ref name="ee-sea-03-of-kings-and-killers-c11" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Imperial seal]] is a famous relic used by [[Emperor (Elder Empire)|the Emperor]] to imprint messages.<ref name="ee-sea-03-of-kings-and-killers-c11">''Of Kings and Killers'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Messages sent with the [[Imperial seal]] cannot be opened or read by anyone other than the intended recipient.<ref name="ee-sea-03-of-kings-and-killers-c11" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Imperial seal]] is not [[Awakened]] but possesses heavy significance of [[Intent]].<ref name="ee-sea-03-of-kings-and-killers-c11" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

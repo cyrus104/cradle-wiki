@@ -5,10 +5,14 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Divide]] is an entity [[Shadow Ark]] does not want to deal with.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Divide]] is an adaptive power of the [[Zenith Blade]] that grants abilities based on the user's chosen opponent.<ref name="lh-04-the-pilot-c14" />}}
-{{spoiler|book=lh-04-the-pilot|[[Divide]] is a character who has boarded a different ship.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Divide]]'s [[sword]] dissolved when he sighed.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Divide]] is an entity [[Shadow Ark]] does not want to deal with.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Divide]] is an adaptive power of the [[Zenith Blade]] that grants abilities based on the user's chosen opponent.<ref name="lh-04-the-pilot-c14" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Divide]] is a character who has boarded a different ship.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Divide]]'s [[sword]] dissolved when he sighed.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“I don’t want to deal with Divide, all right?” Ark said.<ref name="lh-04-the-pilot-c14" />}}

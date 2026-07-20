@@ -6,8 +6,12 @@
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|The [[Lesser Karoshan system]] is located next to the primary [[Karoshan]] system.<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Lesser Karoshan system]] is a location where the [[Iron Legion]] was cleared.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|The [[Lesser Karoshan system]] is located next to the primary [[Karoshan]] system.<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Lesser Karoshan system]] is a location where the [[Iron Legion]] was cleared.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

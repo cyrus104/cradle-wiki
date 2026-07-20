@@ -6,7 +6,11 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Lemon]] can manifest waves of shining yellow acid using [[Aethertech]] implants.<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Lemon]] can manifest waves of shining yellow acid using [[Aethertech]] implants.<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

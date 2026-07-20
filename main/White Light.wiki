@@ -4,10 +4,14 @@
 }}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|The [[White Light]] represents selflessness and pure devotion to the service of another at one's own expense.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Rhalia]] mentions [[Alin]] is not complete without the [[White Light]].<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[White Light]] can only be used on another's behalf.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Simon]] has [[White Light]] leaking out of him.<ref name="tg-03-city-of-light-c27" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|The [[White Light]] represents selflessness and pure devotion to the service of another at one's own expense.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Rhalia]] mentions [[Alin]] is not complete without the [[White Light]].<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[White Light]] can only be used on another's behalf.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Simon]] has [[White Light]] leaking out of him.<ref name="tg-03-city-of-light-c27" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

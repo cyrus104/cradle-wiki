@@ -7,8 +7,12 @@
 }}
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|A [[Fisher woman]] uses a curved blade.<ref name="cradle-02-soulsmith-c8">''Soulsmith'', chapter 8</ref>}}
-{{spoiler|book=cradle-02-soulsmith|A young [[Fisher woman]] carries a hook in each hand.<ref name="cradle-02-soulsmith-c9">''Soulsmith'', chapter 9</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|A [[Fisher woman]] uses a curved blade.<ref name="cradle-02-soulsmith-c8">''Soulsmith'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|A young [[Fisher woman]] carries a hook in each hand.<ref name="cradle-02-soulsmith-c9">''Soulsmith'', chapter 9</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

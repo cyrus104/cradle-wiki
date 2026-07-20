@@ -6,8 +6,12 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|A [[Forged claw]] can slash through [[Eithan]]'s [[Hollow Armor]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Blood Sage]] uses a [[Forged claw]].<ref name="cradle-08-wintersteel-c27" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|A [[Forged claw]] can slash through [[Eithan]]'s [[Hollow Armor]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Blood Sage]] uses a [[Forged claw]].<ref name="cradle-08-wintersteel-c27" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

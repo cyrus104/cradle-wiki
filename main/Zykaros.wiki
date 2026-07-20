@@ -11,35 +11,39 @@
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Zykaros is a dark, smoggy planet within a system believed to be the source of [[Solstice]]'s orders. This industrial junkyard features toxic oceans and a poisonous atmosphere that is purified by twisting spires, though the world remains scarred by a global disaster from the [[Worldslayer]] strike. The planet is home to Zykaros Prime, the birthplace of [[Horizon]]'s [[Pilot]], and contains various government facilities accessible via [[Galactic Union]] ID. As a [[World Spirit]], Zykaros acts as the galaxy's greatest spellcaster, possessing the ability to warp the [[Aether]] and manipulate clouds. This entity can dissolve into billowing hair-like clouds or shift between a humanoid woman and a fifty-foot titan, using a voice that makes bones tremble. Currently, the planet's ground and sky are tearing themselves apart, creating a location from which the narrator must escape.}}
 
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a planet.<ref name="lh-04-the-pilot-c13">''The Pilot'', chapter 13</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a location with a [[World Spirit]].<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Zykaros system]] is a sector where [[Solstice]]'s orders are believed to originate.<ref name="lh-04-the-pilot-c40">''The Pilot'', chapter 40</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] Prime is [[Horizon]]'s [[Pilot]]'s home planet.<ref name="lh-04-the-pilot-c40" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a planet that features [[Subline]] news.<ref name="lh-04-the-pilot-c40" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a planet shrouded in darkness.<ref name="lh-04-the-pilot-c40" />}}
-{{spoiler|book=lh-04-the-pilot|The planet [[Zykaros]] has a toxic atmosphere and oceans.<ref name="lh-04-the-pilot-c42">''The Pilot'', chapter 42</ref>}}
-{{spoiler|book=lh-04-the-pilot|Twisting spires on [[Zykaros]] purify the air.<ref name="lh-04-the-pilot-c42" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a planet containing [[Lutoch Terelle]]'s apartment.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Galactic Union]] ID grants access to all government facilities on [[Zykaros]].<ref name="lh-04-the-pilot-c43" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] can warp the [[Aether]] like a gravity well.<ref name="lh-04-the-pilot-c44">''The Pilot'', chapter 44</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is described as the greatest spellcaster in the galaxy.<ref name="lh-04-the-pilot-c44" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is described as a choked industrial junkyard.<ref name="lh-04-the-pilot-c44" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] Prime is a location within the [[Zykaros system]].<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a planet with smoggy skies.<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] has planetary defense systems.<ref name="lh-04-the-pilot-c46" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a location or entity that can prevent [[Omega]] from leaving.<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a location toward which [[Raion]]'s [[Divine Titan]] was falling.<ref name="lh-04-the-pilot-c47" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] has an atmosphere.<ref name="lh-04-the-pilot-c47" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] has billowing clouds of hair that float like a cape.<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] has tombstone teeth.<ref name="lh-04-the-pilot-c48" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] can manipulate clouds.<ref name="lh-04-the-pilot-c48" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]]' eyes leak smoke.<ref name="lh-04-the-pilot-c48" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] can dissolve her body and appear in the clouds.<ref name="lh-04-the-pilot-c48" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a [[World Spirit]] whose voice causes bones to tremble.<ref name="lh-04-the-pilot-c48" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]]'s human form is unstable and shifts between a fifty-foot-tall titan and a normal humanoid woman.<ref name="lh-04-the-pilot-c48" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a location the narrator needs to escape.<ref name="lh-04-the-pilot-c48" />}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]] suffered a global disaster from the [[Worldslayer]] strike.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Zykaros]]' ground and sky are tearing themselves apart.<ref name="lh-04-the-pilot-c49" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">29</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a planet.<ref name="lh-04-the-pilot-c13">''The Pilot'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a location with a [[World Spirit]].<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Zykaros system]] is a sector where [[Solstice]]'s orders are believed to originate.<ref name="lh-04-the-pilot-c40">''The Pilot'', chapter 40</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] Prime is [[Horizon]]'s [[Pilot]]'s home planet.<ref name="lh-04-the-pilot-c40" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a planet that features [[Subline]] news.<ref name="lh-04-the-pilot-c40" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a planet shrouded in darkness.<ref name="lh-04-the-pilot-c40" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The planet [[Zykaros]] has a toxic atmosphere and oceans.<ref name="lh-04-the-pilot-c42">''The Pilot'', chapter 42</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Twisting spires on [[Zykaros]] purify the air.<ref name="lh-04-the-pilot-c42" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a planet containing [[Lutoch Terelle]]'s apartment.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Galactic Union]] ID grants access to all government facilities on [[Zykaros]].<ref name="lh-04-the-pilot-c43" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] can warp the [[Aether]] like a gravity well.<ref name="lh-04-the-pilot-c44">''The Pilot'', chapter 44</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is described as the greatest spellcaster in the galaxy.<ref name="lh-04-the-pilot-c44" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is described as a choked industrial junkyard.<ref name="lh-04-the-pilot-c44" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] Prime is a location within the [[Zykaros system]].<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a planet with smoggy skies.<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] has planetary defense systems.<ref name="lh-04-the-pilot-c46" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a location or entity that can prevent [[Omega]] from leaving.<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a location toward which [[Raion]]'s [[Divine Titan]] was falling.<ref name="lh-04-the-pilot-c47" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] has an atmosphere.<ref name="lh-04-the-pilot-c47" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] has billowing clouds of hair that float like a cape.<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] has tombstone teeth.<ref name="lh-04-the-pilot-c48" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] can manipulate clouds.<ref name="lh-04-the-pilot-c48" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]]' eyes leak smoke.<ref name="lh-04-the-pilot-c48" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] can dissolve her body and appear in the clouds.<ref name="lh-04-the-pilot-c48" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a [[World Spirit]] whose voice causes bones to tremble.<ref name="lh-04-the-pilot-c48" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]]'s human form is unstable and shifts between a fifty-foot-tall titan and a normal humanoid woman.<ref name="lh-04-the-pilot-c48" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a location the narrator needs to escape.<ref name="lh-04-the-pilot-c48" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] suffered a global disaster from the [[Worldslayer]] strike.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]]' ground and sky are tearing themselves apart.<ref name="lh-04-the-pilot-c49" />}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“My brother doesn’t like you,” said the World Spirit of Zykaros.<ref name="lh-04-the-pilot-c39" />}}

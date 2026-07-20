@@ -5,9 +5,13 @@
 }}
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|[[Balari]] is the [[Herald of the Silent Servants]] and a [[sword]] artist.<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref>}}
-{{spoiler|book=cradle-13-threshold|[[Balari]] is a person [[Kelsa]] knows.<ref name="cradle-13-threshold-c8" />}}
-{{spoiler|book=cradle-13-threshold|[[Balari]] is the [[Silent Herald]] who appeared to assist [[Kelsa]].<ref name="cradle-13-threshold-c8" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[Balari]] is the [[Herald of the Silent Servants]] and a [[sword]] artist.<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Balari]] is a person [[Kelsa]] knows.<ref name="cradle-13-threshold-c8" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Balari]] is the [[Silent Herald]] who appeared to assist [[Kelsa]].<ref name="cradle-13-threshold-c8" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

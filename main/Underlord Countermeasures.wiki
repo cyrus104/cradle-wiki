@@ -6,8 +6,12 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|There are multiple [[Underlord Countermeasures]], including Numbers Two through Four.<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}
-{{spoiler|book=cradle-11-dreadgod|There are sixteen [[Underlord Countermeasures]] in total.<ref name="cradle-11-dreadgod-c17" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|There are multiple [[Underlord Countermeasures]], including Numbers Two through Four.<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|There are sixteen [[Underlord Countermeasures]] in total.<ref name="cradle-11-dreadgod-c17" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -4,10 +4,14 @@
 }}
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|The [[Ghost Division]] is one of the [[Abidan]] divisions.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}
-{{spoiler|book=cradle-13-threshold|The [[Ghost Division]] is a division of the [[Abidan]].<ref name="cradle-13-threshold-c4" />}}
-{{spoiler|book=cradle-13-threshold|The [[Ghost Division]] builds and maintains the laws of reality.<ref name="cradle-13-threshold-c4" />}}
-{{spoiler|book=cradle-13-threshold|[[Eithan]] mentioned the [[Ghost Division]].<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The [[Ghost Division]] is one of the [[Abidan]] divisions.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Ghost Division]] is a division of the [[Abidan]].<ref name="cradle-13-threshold-c4" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Ghost Division]] builds and maintains the laws of reality.<ref name="cradle-13-threshold-c4" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Eithan]] mentioned the [[Ghost Division]].<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -7,7 +7,11 @@
 }}
 
 == Of Dawn and Darkness ==
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Mora Belyard]] is a second Under-lieutenant in the [[Imperial army]].<ref name="ee-sea-02-of-dawn-and-darkness-c21">''Of Dawn and Darkness'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Mora Belyard]] is a second Under-lieutenant in the [[Imperial army]].<ref name="ee-sea-02-of-dawn-and-darkness-c21">''Of Dawn and Darkness'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“Second Under-lieutenant Mora Belyard, sir. Permission to come aboard?”<ref name="ee-sea-02-of-dawn-and-darkness-c21" />}}

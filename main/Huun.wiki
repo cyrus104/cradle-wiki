@@ -4,9 +4,13 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Huun]] is a desert planet.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Huun]] is sparsely populated and serves as a meeting-place for outlaws, exiles, and travelers.<ref name="lh-04-the-pilot-c37" />}}
-{{spoiler|book=lh-04-the-pilot|[[Huun]] has a [[World Spirit]] that emerges from slumber every few decades.<ref name="lh-04-the-pilot-c37" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Huun]] is a desert planet.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Huun]] is sparsely populated and serves as a meeting-place for outlaws, exiles, and travelers.<ref name="lh-04-the-pilot-c37" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Huun]] has a [[World Spirit]] that emerges from slumber every few decades.<ref name="lh-04-the-pilot-c37" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

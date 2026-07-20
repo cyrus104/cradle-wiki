@@ -7,15 +7,27 @@
 {{spoiler|book=lh-04-the-pilot|[[Karoshan]] ships are a diverse array of spacecraft utilized by the [[Karoshan Empire]], ranging from old, rusted vessels to high-end luxury cruisers and sleek private ships designed for speed rather than combat. Their aesthetic varies significantly; many are described as black and blocky, while others appear more organic with dark metal plating that glows blue-green. Some specialized vessels feature skeletal designs and green engine flames. A massive six-mile-long dreadnought serves as a primary flagship, representing a rare and devastating level of firepower within their military. These fleets are often piloted by mass-produced [[Nova-Bots]], though they can also be manned by individuals. Tactically, [[Karoshan forces]] have been used for military blockades, screening operations to protect their queen, and defensive maneuvers to allow other vessels to retreat. Their capabilities include emerging from [[Subspace]] and performing micro-dives for repositioning, though they have also been noted for using amateur formations that leave them vulnerable to fire.}}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[Karoshan ships]] are dark, blocky vessels bristling with guns.<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}
-{{spoiler|book=lh-02-the-engineer|There are six hundred [[Karoshan ships]] remaining with the group.<ref name="lh-02-the-engineer-c10">''The Engineer'', chapter 10</ref>}}
-{{spoiler|book=lh-02-the-engineer|There are black [[Karoshan ships]] hovering over the asteroid.<ref name="lh-02-the-engineer-c34">''The Engineer'', chapter 34</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Karoshan ships]] are dark, blocky vessels bristling with guns.<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|There are six hundred [[Karoshan ships]] remaining with the group.<ref name="lh-02-the-engineer-c10">''The Engineer'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|There are black [[Karoshan ships]] hovering over the asteroid.<ref name="lh-02-the-engineer-c34">''The Engineer'', chapter 34</ref>}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|Most [[Karoshan ships]] contained golden spots after the spell was cast.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|Most [[Karoshan ships]] contained golden spots after the spell was cast.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Karoshan ships]] are black and rectangular.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Karoshan ships]] are black and rectangular.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

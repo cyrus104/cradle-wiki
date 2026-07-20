@@ -6,8 +6,12 @@
 }}
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|The [[Fox Division]] binds the [[Way]] to destinations to allow travel between and within [[Iterations]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}
-{{spoiler|book=cradle-13-threshold|A woman from the [[Fox Division]] escorted [[Gadrael]].<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The [[Fox Division]] binds the [[Way]] to destinations to allow travel between and within [[Iterations]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|A woman from the [[Fox Division]] escorted [[Gadrael]].<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

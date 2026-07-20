@@ -6,7 +6,11 @@
 }}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Rhalia's Gate]] drifts beside [[Alin]] and prefers to open only once a day due to the nature of [[Elysia]].<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Rhalia's Gate]] drifts beside [[Alin]] and prefers to open only once a day due to the nature of [[Elysia]].<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

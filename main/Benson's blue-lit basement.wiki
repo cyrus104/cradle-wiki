@@ -6,8 +6,12 @@
 }}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Benson's blue-lit basement]] is a location from which [[Indirial]] can summon [[liquid steel]].<ref name="tg-03-city-of-light-c17">''City of Light'', chapter 17</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Benson]]'s basement contains a steel skeleton with burning blue eyes.<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Benson's blue-lit basement]] is a location from which [[Indirial]] can summon [[liquid steel]].<ref name="tg-03-city-of-light-c17">''City of Light'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Benson]]'s basement contains a steel skeleton with burning blue eyes.<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

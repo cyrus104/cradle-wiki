@@ -4,14 +4,26 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|[[Ghost-Blade]] is a warband of the [[Eight]]-Man [[Empire]].<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Ghost-Blade]] is a warband of the [[Eight]]-Man [[Empire]].<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Ghost-Blades]] practice a [[Path]] of [[sword]] and death [[madra]].<ref name="cradle-08-wintersteel-c5">''Wintersteel'', chapter 5</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Ghost-Blades]] practice a [[Path]] of [[sword]] and death [[madra]].<ref name="cradle-08-wintersteel-c5">''Wintersteel'', chapter 5</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|[[Ghost-Blade]] is one of the eight wandering mercenary armies in the [[Eight]]-Man [[Empire]].<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}
-{{spoiler|book=cradle-10-reaper|The [[Ghost-Blade]]'s [[Goldsign]] is a hovering spirit of death [[madra]].<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|[[Ghost-Blade]] is one of the eight wandering mercenary armies in the [[Eight]]-Man [[Empire]].<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Ghost-Blade]]'s [[Goldsign]] is a hovering spirit of death [[madra]].<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

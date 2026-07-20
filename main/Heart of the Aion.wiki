@@ -4,11 +4,19 @@
 }}
 
 == Of Kings and Killers ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Heart of the Aion]] is a [[Navigator]]'s ship.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Heart of the Aion]] is a [[Navigator]]'s ship.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Heart of the Aion]] is a ship.<ref name="ee-shadow-03-of-killers-and-kings-c18">''Of Killers and Kings'', chapter 18</ref>}}
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Heart of the Aion]] is a momentous presence with power and accumulated history.<ref name="ee-shadow-03-of-killers-and-kings-c18" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Heart of the Aion]] is a ship.<ref name="ee-shadow-03-of-killers-and-kings-c18">''Of Killers and Kings'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Heart of the Aion]] is a momentous presence with power and accumulated history.<ref name="ee-shadow-03-of-killers-and-kings-c18" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

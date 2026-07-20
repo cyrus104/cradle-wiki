@@ -4,12 +4,20 @@
 }}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Children]] are monstrous beings created by warping human bodies.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Children]] are monstrous beings created by warping human bodies.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Children]] are capable of making attacks that make retrieval difficult.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Shera]]'s black hair rushes through a crowd of [[Children]].<ref name="ee-shadow-01-of-shadow-and-sea-c11">''Of Shadow and Sea'', chapter 11</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Children]] were lunging around in the trees.<ref name="ee-shadow-01-of-shadow-and-sea-c21">''Of Shadow and Sea'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Children]] are capable of making attacks that make retrieval difficult.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Shera]]'s black hair rushes through a crowd of [[Children]].<ref name="ee-shadow-01-of-shadow-and-sea-c11">''Of Shadow and Sea'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Children]] were lunging around in the trees.<ref name="ee-shadow-01-of-shadow-and-sea-c21">''Of Shadow and Sea'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-01-of-shadow-and-sea|"Attacks from the Children have made retrieval difficult."<ref name="ee-shadow-01-of-shadow-and-sea-c10" />}}

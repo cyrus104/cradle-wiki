@@ -13,11 +13,15 @@
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Shadeseeker is a shark-girl who holds the title of [[Uncrowned]] of the [[Tidewalkers]]. As the daughter of a [[Herald]], she utilizes a unique [[madra]] that blends elements of water, blood, and swords. In combat, she wields a pair of jagged daggers to engage her enemies. Despite her capabilities, she ultimately fell victim to the schemes orchestrated by Reigan.}}
 
-{{spoiler|book=cradle-13-threshold|[[Shadeseeker]] is the [[Uncrowned]] of the [[Tidewalkers]] and a shark-girl.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}
-{{spoiler|book=cradle-13-threshold|[[Shadeseeker]]'s father is a [[Herald]].<ref name="cradle-13-threshold-c1" />}}
-{{spoiler|book=cradle-13-threshold|[[Shadeseeker]] fights with a pair of jagged daggers.<ref name="cradle-13-threshold-c1" />}}
-{{spoiler|book=cradle-13-threshold|[[Shadeseeker]]'s [[madra]] mixes aspects of swords, water, and blood.<ref name="cradle-13-threshold-c1" />}}
-{{spoiler|book=cradle-13-threshold|[[Shadeseeker]] was defeated by Reigan's plans.<ref name="cradle-13-threshold-c1" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[Shadeseeker]] is the [[Uncrowned]] of the [[Tidewalkers]] and a shark-girl.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Shadeseeker]]'s father is a [[Herald]].<ref name="cradle-13-threshold-c1" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Shadeseeker]] fights with a pair of jagged daggers.<ref name="cradle-13-threshold-c1" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Shadeseeker]]'s [[madra]] mixes aspects of swords, water, and blood.<ref name="cradle-13-threshold-c1" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Shadeseeker]] was defeated by Reigan's plans.<ref name="cradle-13-threshold-c1" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

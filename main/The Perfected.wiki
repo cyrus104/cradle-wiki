@@ -4,11 +4,19 @@
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|[[The Perfected]] are aware of Shyrax's activities.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}
-{{spoiler|book=lh-03-the-knight|[[The Perfected]] are contenders for the throne of [[Karosha]].<ref name="lh-03-the-knight-c5" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[The Perfected]] are aware of Shyrax's activities.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[The Perfected]] are contenders for the throne of [[Karosha]].<ref name="lh-03-the-knight-c5" />}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[The Perfected]] are a group whose actions can be attributed to the [[Zenith Devices]].<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[The Perfected]] are a group whose actions can be attributed to the [[Zenith Devices]].<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

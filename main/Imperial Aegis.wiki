@@ -9,11 +9,15 @@
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|Originating from Sophara's [[soulspace]], the [[Imperial]] Aegis is a golden disc that serves as a defensive [[construct]]. This object functions by intercepting and blocking incoming attacks to provide protection. During her encounters, Sophara utilizes the Aegis for defense, such as when it successfully blocked an arrow fired by [[Mercy]].}}
 
-{{spoiler|book=cradle-08-wintersteel|The [[Imperial Aegis]] is a golden disc that originates from Sophara's [[soulspace]].<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Imperial Aegis]] is an object that can block attacks.<ref name="cradle-08-wintersteel-c16" />}}
-{{spoiler|book=cradle-08-wintersteel|Sophara uses the [[Imperial Aegis]] for defense.<ref name="cradle-08-wintersteel-c16" />}}
-{{spoiler|book=cradle-08-wintersteel|The [[Imperial Aegis]] is a defensive [[construct]] that can intercept attacks.<ref name="cradle-08-wintersteel-c16" />}}
-{{spoiler|book=cradle-08-wintersteel|Sophara's [[Imperial Aegis]] blocked an arrow from [[Mercy]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Imperial Aegis]] is a golden disc that originates from Sophara's [[soulspace]].<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Imperial Aegis]] is an object that can block attacks.<ref name="cradle-08-wintersteel-c16" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Sophara uses the [[Imperial Aegis]] for defense.<ref name="cradle-08-wintersteel-c16" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Imperial Aegis]] is a defensive [[construct]] that can intercept attacks.<ref name="cradle-08-wintersteel-c16" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Sophara's [[Imperial Aegis]] blocked an arrow from [[Mercy]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

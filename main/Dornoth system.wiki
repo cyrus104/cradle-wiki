@@ -9,23 +9,35 @@
 {{spoiler|book=lh-04-the-pilot|The [[Dornoth]] system is a significant region of space within the [[Galactic Union]]. It contains several planets, including [[Dornoth I]], which serves as a secondary world for the [[Lichborn]], and [[Dornoth IV]], the homeworld of the [[Lichborn]] culture. [[Dornoth IV]] is frequently described as the most inhospitable inhabited planet in the galaxy due to its sulfurous clouds and parasitic lifeforms. Other celestial bodies include [[Dornoth III]], a planet characterized by volcanic activity that releases corrosive chemicals into orbit and is surrounded by a network of metal satellites, as well as the uninhabited moon near [[Dornoth III]] that contains an automated spaceport. The system is also home to [[Murrok]] and features a variety of moons, barren planets, and an artificial asteroid belt. [[Vessels]] produced within this system typically feature a skeletal aesthetic and utilize green light for propulsion. While the system is a major hub of activity with numerous stations and colonies, it has also been a site of intense conflict involving the [[Grand Hive]] and the [[D’Niss]].}}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|The [[Dornoth system]] is located within a specific sector displayed on the [[High Council]]'s holographic projector.<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}
-{{spoiler|book=lh-02-the-engineer|The [[Dornoth system]] is included in the [[Galactic Union]].<ref name="lh-02-the-engineer-c34">''The Engineer'', chapter 34</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|The [[Dornoth system]] is located within a specific sector displayed on the [[High Council]]'s holographic projector.<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Dornoth system]] is included in the [[Galactic Union]].<ref name="lh-02-the-engineer-c34">''The Engineer'', chapter 34</ref>}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|The [[Dornoth system]] contains the [[Grand Hive]].<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|The [[Dornoth system]] contains the [[Grand Hive]].<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|After setting a course for the [[Dornoth]] system, the vessel discovered a star-map displayed upon a holo-projector within the area. [[The Last Horizon]] eventually hovered at the system's edge, where it was observed that ships manufactured there feature a skeletal motif and engines burning with green fire. Visible through a portal in the sky of [[Shadow Ark]], the system remains a place where relatives of [[Sola Kalter]] were once shunned and serves as a location to which she could potentially return. Following its time there, the Last [[Horizon]] shuddered into real space only minutes after being cast away from the system.}}
 
-{{spoiler|book=lh-04-the-pilot|The ship is setting course for the [[Dornoth system]].<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Dornoth system]] contains a star-map shown on a holo-projector.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] is hovering at the edge of the [[Dornoth system]].<ref name="lh-04-the-pilot-c11">''The Pilot'', chapter 11</ref>}}
-{{spoiler|book=lh-04-the-pilot|Ships manufactured in the [[Dornoth system]] have a skeletal motif and engines that burn with green fire.<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Dornoth system]] is visible through a portal in [[Shadow Ark]]'s sky.<ref name="lh-04-the-pilot-c15" />}}
-{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] shuddered into real space minutes after being cast away from the [[Dornoth system]].<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Dornoth system]] is a location [[Sola]] could return to.<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Dornoth system]] is a location where relatives of [[Sola Kalter]] were shunned.<ref name="lh-04-the-pilot-c34">''The Pilot'', chapter 34</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|The ship is setting course for the [[Dornoth system]].<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Dornoth system]] contains a star-map shown on a holo-projector.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] is hovering at the edge of the [[Dornoth system]].<ref name="lh-04-the-pilot-c11">''The Pilot'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Ships manufactured in the [[Dornoth system]] have a skeletal motif and engines that burn with green fire.<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Dornoth system]] is visible through a portal in [[Shadow Ark]]'s sky.<ref name="lh-04-the-pilot-c15" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] shuddered into real space minutes after being cast away from the [[Dornoth system]].<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Dornoth system]] is a location [[Sola]] could return to.<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Dornoth system]] is a location where relatives of [[Sola Kalter]] were shunned.<ref name="lh-04-the-pilot-c34">''The Pilot'', chapter 34</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“Horizon, let everyone know we’re setting course for the Dornoth system,” I said.<ref name="lh-04-the-pilot-c8" />}}

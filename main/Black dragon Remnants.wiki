@@ -4,11 +4,19 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|Enemies of [[Emala]] might include black [[dragon]] [[Remnants]].<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|Enemies of [[Emala]] might include black [[dragon]] [[Remnants]].<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Orthos]] can release a black [[dragon]] [[Remnant]].<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Lindon]] has the black [[dragon]] [[Remnants]] locked away.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Orthos]] can release a black [[dragon]] [[Remnant]].<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] has the black [[dragon]] [[Remnants]] locked away.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-12-waybound|“Orthos, release one of the black dragon Remnants, if you don’t mind.”<ref name="cradle-12-waybound-c3" />}}

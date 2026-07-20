@@ -6,10 +6,18 @@
 }}
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Wei territory]] is the domain of the [[Wei clan]].<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|[[Wei territory]] is the domain of the [[Wei clan]].<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|The [[Twin Star Sect]] banners fly over the [[Wei territory]].<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The [[Twin Star Sect]] banners fly over the [[Wei territory]].<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -4,9 +4,13 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|The [[Center for Arcane Research]] is a smooth, rounded [[pyramid]] of glass and [[Lutoch Terelle]]'s destination.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Center for Arcane Research]] has three layers of magical wards.<ref name="lh-04-the-pilot-c43" />}}
-{{spoiler|book=lh-04-the-pilot|The [[Glass Ring Projector]] is assigned to the [[Center for Arcane Research]].<ref name="lh-04-the-pilot-c43" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|The [[Center for Arcane Research]] is a smooth, rounded [[pyramid]] of glass and [[Lutoch Terelle]]'s destination.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Center for Arcane Research]] has three layers of magical wards.<ref name="lh-04-the-pilot-c43" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Glass Ring Projector]] is assigned to the [[Center for Arcane Research]].<ref name="lh-04-the-pilot-c43" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

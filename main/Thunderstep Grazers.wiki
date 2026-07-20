@@ -6,7 +6,11 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Thunderstep Grazers]] are bison-like creatures.<ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Thunderstep Grazers]] are bison-like creatures.<ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

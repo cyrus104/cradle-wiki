@@ -4,11 +4,19 @@
 }}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|[[The Tree]] is related to the sacrifice in Ragnarus and has seemed restless for several years.<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|[[The Tree]] is related to the sacrifice in Ragnarus and has seemed restless for several years.<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|The [[Enosh Travelers]] intend to destroy the [[Tree]].<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[The Tree]] is something that can be examined by a [[Traveler]].<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Enosh Travelers]] intend to destroy the [[Tree]].<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[The Tree]] is something that can be examined by a [[Traveler]].<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

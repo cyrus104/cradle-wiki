@@ -6,7 +6,11 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Omega]] fought in the [[Galactic Union Civil War]] against [[Solstice]].<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Omega]] fought in the [[Galactic Union Civil War]] against [[Solstice]].<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“I remember you fighting in the Galactic Union Civil War. You fought against Solstice then, and from everything I know about you, it seems you started before I born.”<ref name="lh-04-the-pilot-c10" />}}

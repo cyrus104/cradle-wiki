@@ -6,10 +6,18 @@
 }}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Maxwell]] describes the [[Empire]] as being sick.<ref name="ee-shadow-01-of-shadow-and-sea-c1">''Of Shadow and Sea'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Maxwell]] describes the [[Empire]] as being sick.<ref name="ee-shadow-01-of-shadow-and-sea-c1">''Of Shadow and Sea'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Dawn and Darkness ==
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Empire]] is a political entity.<ref name="ee-sea-02-of-dawn-and-darkness-c23">''Of Dawn and Darkness'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Empire]] is a political entity.<ref name="ee-sea-02-of-dawn-and-darkness-c23">''Of Dawn and Darkness'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

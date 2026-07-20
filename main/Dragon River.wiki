@@ -4,11 +4,19 @@
 }}
 
 == Unsouled ==
-{{spoiler|book=cradle-01-unsouled|Wei children learn to swim in the [[Dragon River]].<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}
-{{spoiler|book=cradle-01-unsouled|The [[Dragon River]] is a stream that cascades down the cliffs of [[Greatfather]].<ref name="cradle-01-unsouled-c12">''Unsouled'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-01-unsouled|Wei children learn to swim in the [[Dragon River]].<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[Dragon River]] is a stream that cascades down the cliffs of [[Greatfather]].<ref name="cradle-01-unsouled-c12">''Unsouled'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|The [[Dragon River]] is a river that was drying up.<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|The [[Dragon River]] is a river that was drying up.<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

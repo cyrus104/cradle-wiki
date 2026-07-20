@@ -4,10 +4,14 @@
 }}
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|The [[Flourishing Disease]] is a title for [[Jek’nan]].<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}
-{{spoiler|book=cradle-13-threshold|The [[Flourishing Disease]] reversed [[Jek'nan]]'s plan.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|The [[Flourishing Disease]] uses infection as an attack.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|The [[Flourishing Disease]] is also known as [[Jek'nan]].<ref name="cradle-13-threshold-c6" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The [[Flourishing Disease]] is a title for [[Jek’nan]].<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Flourishing Disease]] reversed [[Jek'nan]]'s plan.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Flourishing Disease]] uses infection as an attack.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Flourishing Disease]] is also known as [[Jek'nan]].<ref name="cradle-13-threshold-c6" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

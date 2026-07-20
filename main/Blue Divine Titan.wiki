@@ -9,19 +9,27 @@
 {{spoiler|book=lh-03-the-knight|The [[Blue]] [[Divine Titan]] is a massive, building-sized mech that represents highly advanced [[Aethertech]]. Its construction features smooth, bright blue plating that connects in an organic fashion similar to the shell of an insect. The machine is relatively slender in build and possesses a helmet styled after a hood, accompanied by a large staff that serves as a primary component of its design. While the [[Titan]] is capable of functioning with various forms of magic, it was specifically engineered to work alongside elemental magic and is keyed to water elementalism. It possesses the ability to amplify all forms of [[Aether manipulation]]. In past encounters, the unit has been used in combat against slipwraiths, though such battles have resulted in significant losses to protected vessels.}}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|The [[Blue Divine Titan]] is a ship where the [[Captain]] once faced a slipwraith.<ref name="lh-02-the-engineer-c9">''The Engineer'', chapter 9</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|The [[Blue Divine Titan]] is a ship where the [[Captain]] once faced a slipwraith.<ref name="lh-02-the-engineer-c9">''The Engineer'', chapter 9</ref>}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The [[Blue]] [[Divine Titan]] is a metal behemoth characterized by its bright blue, smooth plates and a helmet design that resembles a hood. As an advanced form of [[Aethertech]], this entity possesses the ability to amplify every act of [[Aether manipulation]]. It is equipped with a massive staff and features an opening chest plate that reveals a pilot's seat. To successfully operate the machine, a specific relationship must exist between the [[Knight]] and the [[Titan]].}}
 
-{{spoiler|book=lh-03-the-knight|The [[Blue Divine Titan]] is more advanced than other [[Aethertech]].<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Blue Divine Titan]] has smooth and bright blue plates.<ref name="lh-03-the-knight-c9" />}}
-{{spoiler|book=lh-03-the-knight|The [[Blue Divine Titan]]'s helmet design evokes a hood.<ref name="lh-03-the-knight-c9" />}}
-{{spoiler|book=lh-03-the-knight|The [[Blue Divine Titan]] has a massive staff.<ref name="lh-03-the-knight-c20">''The Knight'', chapter 20</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Blue Divine Titan]] amplifies all acts of [[Aether manipulation]].<ref name="lh-03-the-knight-c34">''The Knight'', chapter 34</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Blue Divine Titan]] is a metal behemoth that shines bright blue.<ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref>}}
-{{spoiler|book=lh-03-the-knight|Piloting a [[Divine Titan]] requires a relationship between [[Knight]] and [[Titan]].<ref name="lh-03-the-knight-c41" />}}
-{{spoiler|book=lh-03-the-knight|The [[Blue Divine Titan]] has a pilot's seat revealed by an opening chest plate.<ref name="lh-03-the-knight-c41" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|The [[Blue Divine Titan]] is more advanced than other [[Aethertech]].<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Blue Divine Titan]] has smooth and bright blue plates.<ref name="lh-03-the-knight-c9" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Blue Divine Titan]]'s helmet design evokes a hood.<ref name="lh-03-the-knight-c9" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Blue Divine Titan]] has a massive staff.<ref name="lh-03-the-knight-c20">''The Knight'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Blue Divine Titan]] amplifies all acts of [[Aether manipulation]].<ref name="lh-03-the-knight-c34">''The Knight'', chapter 34</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Blue Divine Titan]] is a metal behemoth that shines bright blue.<ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Piloting a [[Divine Titan]] requires a relationship between [[Knight]] and [[Titan]].<ref name="lh-03-the-knight-c41" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Blue Divine Titan]] has a pilot's seat revealed by an opening chest plate.<ref name="lh-03-the-knight-c41" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -6,7 +6,11 @@
 }}
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|The darkness is a gate leading to a sacred land of opportunity.<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|The darkness is a gate leading to a sacred land of opportunity.<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-06-underlord|“The darkness before you is a gate. It leads to a sacred land of opportunity, but for this opportunity, you must fight.<ref name="cradle-06-underlord-c6" />}}

@@ -9,160 +9,204 @@
 {{spoiler|book=cradle-13-threshold|The Abidan is a vast, far-reaching organization dedicated to maintaining order across the many worlds of the cosmos. Originally born on the world of [[Cradle]], the group's foundations were laid by the first generation of the [[Court of Seven]]. The organization is structured into seven distinct ranks, with its various divisions headquartered in massive golden pyramids on the world of [[Sanctum]]. While most Abidan wear seamless white armor, some specialized members, such as those in the [[Wolf Division]], may feature different markings. The organization is governed by the [[Abidan Court]], which includes several [[Judges]], such as [[Suriel]] and [[Makiel]], and a First [[Judge]]. The primary mission of the Abidan is to protect [[Iterations]] from chaos and ensure stability within the [[Way]]. They manage various types of worlds, including resource and pioneer worlds, as well as specialized locations like [[Threshold]], which serves as a transitional space for mortal ascendants. They also maintain [[Haven]], a prison-world used to hold dangerous inmates. To fulfill their duties, the Abidan utilize advanced technology and can intervene in mortal affairs to address spatial or temporal violations, though they are often bound by the [[Eledari Pact]], which limits their ability to change the established [[fate]] of healthy worlds. Despite their role as protectors, the Abidan are viewed with suspicion by some; certain [[Monarchs]] see them as inflexible tyrants who prioritize their own expansion over the stability of local families. The organization has faced significant challenges, including attacks from enemies like the [[Vroshir]] and internal strife caused by figures such as [[Daruman]], a former high-ranking [[Executor]] turned rebel known as [[the Mad King]]. The Abidan's strength was historically bolstered by the presence of [[Ozriel]], whose unique ability to manage corrupted worlds allowed for massive organizational growth. However, the organization has faced periods of decline and instability due to his absence and external threats.}}
 
 == Unsouled ==
-{{spoiler|book=cradle-01-unsouled|[[Cradle]] is the birthplace of the [[Abidan]].<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref>}}
-{{spoiler|book=cradle-01-unsouled|The [[Abidan]] were created to save the weak who stand against the strong.<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}
-{{spoiler|book=cradle-01-unsouled|The [[Abidan]] collect and quarantine important worlds as a last bastion against infinite chaos.<ref name="cradle-01-unsouled-c20">''Unsouled'', chapter 20</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-01-unsouled|[[Cradle]] is the birthplace of the [[Abidan]].<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[Abidan]] were created to save the weak who stand against the strong.<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[Abidan]] collect and quarantine important worlds as a last bastion against infinite chaos.<ref name="cradle-01-unsouled-c20">''Unsouled'', chapter 20</ref>}}</li>
+</ul>
+</div></div>
 
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|Operating from their headquarters in [[Sanctum]], the Abidan are a group that protects [[Iterations]] from chaos-tainted fragments located at the edges of the [[Way]]. These entities, who wear smooth and entirely white armor, possess technology capable of generating stable domes that remain unaffected by chaos. While their forces were once limited to caring for only two hundred and fifty [[Iterations]], they maintain a degree of autonomy when responding to temporal or spatial violations. During the events in [[Harrow]], they utilized their capabilities to evacuate the local elite. Ultimately, the continued survival of the Abidan is dependent upon the presence of [[Ozriel]].}}
 
-{{spoiler|book=cradle-03-blackflame|The [[Abidan]] wear smooth, absolutely white armor.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}
-{{spoiler|book=cradle-03-blackflame|The [[Abidan]] use technology that can create stable domes unaffected by chaos.<ref name="cradle-03-blackflame-c13" />}}
-{{spoiler|book=cradle-03-blackflame|The [[Abidan]] evacuated the elite of [[Harrow]].<ref name="cradle-03-blackflame-c13" />}}
-{{spoiler|book=cradle-03-blackflame|The [[Abidan]] have a headquarters in [[Sanctum]].<ref name="cradle-03-blackflame-c13" />}}
-{{spoiler|book=cradle-03-blackflame|The survival of the [[Abidan]] depends on [[Ozriel]]'s presence.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}
-{{spoiler|book=cradle-03-blackflame|The [[Abidan]]'s forces were once only able to care for two hundred and fifty [[Iterations]].<ref name="cradle-03-blackflame-c21" />}}
-{{spoiler|book=cradle-03-blackflame|The [[Abidan]] protect [[Iterations]] from chaos-tainted fragments at the edges of the [[Way]].<ref name="cradle-03-blackflame-c21" />}}
-{{spoiler|book=cradle-03-blackflame|[[Abidan]] are allowed a certain degree of autonomy when responding to spatial or temporal violations.<ref name="cradle-03-blackflame-c21" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|The [[Abidan]] wear smooth, absolutely white armor.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Abidan]] use technology that can create stable domes unaffected by chaos.<ref name="cradle-03-blackflame-c13" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Abidan]] evacuated the elite of [[Harrow]].<ref name="cradle-03-blackflame-c13" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Abidan]] have a headquarters in [[Sanctum]].<ref name="cradle-03-blackflame-c13" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The survival of the [[Abidan]] depends on [[Ozriel]]'s presence.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Abidan]]'s forces were once only able to care for two hundred and fifty [[Iterations]].<ref name="cradle-03-blackflame-c21" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Abidan]] protect [[Iterations]] from chaos-tainted fragments at the edges of the [[Way]].<ref name="cradle-03-blackflame-c21" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Abidan]] are allowed a certain degree of autonomy when responding to spatial or temporal violations.<ref name="cradle-03-blackflame-c21" />}}</li>
+</ul>
+</div></div>
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|The majority of the inhabitants of [[Oversight]] are not [[Abidan]].<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}
-{{spoiler|book=cradle-04-skysworn|Other divisions of the [[Abidan]] are headquartered on [[Sanctum]].<ref name="cradle-04-skysworn-c2" />}}
-{{spoiler|book=cradle-04-skysworn|[[Abidan]] is a group that can change the destiny of an [[Iteration]].<ref name="cradle-04-skysworn-c2" />}}
-{{spoiler|book=cradle-04-skysworn|The [[Abidan]] is an organization composed of white-armored figures arranged in seven distinct ranks.<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|The majority of the inhabitants of [[Oversight]] are not [[Abidan]].<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|Other divisions of the [[Abidan]] are headquartered on [[Sanctum]].<ref name="cradle-04-skysworn-c2" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Abidan]] is a group that can change the destiny of an [[Iteration]].<ref name="cradle-04-skysworn-c2" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The [[Abidan]] is an organization composed of white-armored figures arranged in seven distinct ranks.<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|Abidans are beings that can be rendered powerless without the [[Way]].<ref name="cradle-06-underlord-c1">''Underlord'', chapter 1</ref>}}
-{{spoiler|book=cradle-06-underlord|The [[Abidan]] are under attack across their border worlds.<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|Abidans are beings that can be rendered powerless without the [[Way]].<ref name="cradle-06-underlord-c1">''Underlord'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|The [[Abidan]] are under attack across their border worlds.<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|[[Iri]] robbed the [[Abidan]].<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}
-{{spoiler|book=cradle-07-uncrowned|[[The Mad King]] hates the [[Abidan]].<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The [[Abidan]] are the creators of [[Cradle]].<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Iri]] robbed the [[Abidan]].<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[The Mad King]] hates the [[Abidan]].<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Abidan]] are the creators of [[Cradle]].<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|The Abidan are entities that wear smooth, liquid-like armor and act solely for their own benefit. While they have placed restrictions on the [[Monarchs]], [[Northstrider]] has advised that one should not rely on their intervention. During recent events, they were observed removing an arrowhead and descending toward the world, with some low-ranking members viewing those in [[Cradle]] as misguided infants. Their presence was noted at the contest, and it is suspected that they may have intervened in how [[sacred artists]] understood complex principles. Because of their nature, the [[Ninecloud Court]] cannot provoke them.}}
 
-{{spoiler|book=cradle-08-wintersteel|The [[Abidan]] are mentioned as entities that [[Northstrider]] may have promised service to.<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Abidan]] have placed restrictions on the [[Monarchs]].<ref name="cradle-08-wintersteel-c2" />}}
-{{spoiler|book=cradle-08-wintersteel|[[Northstrider]] advised not to rely on the intervention of the [[Abidan]].<ref name="cradle-08-wintersteel-c2" />}}
-{{spoiler|book=cradle-08-wintersteel|The [[Abidan]] act only for their own benefit.<ref name="cradle-08-wintersteel-c2" />}}
-{{spoiler|book=cradle-08-wintersteel|The [[Abidan]] wear smooth, almost liquid armor.<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Abidan]] took out the arrowhead.<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] cannot provoke the [[Abidan]].<ref name="cradle-08-wintersteel-c4" />}}
-{{spoiler|book=cradle-08-wintersteel|The [[Abidan]] are descending.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Abidan]] intervention is suspected in how [[sacred artists]] understood complex principles.<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}
-{{spoiler|book=cradle-08-wintersteel|Some low-ranking [[Abidan]] view those in [[Cradle]] as misguided infants.<ref name="cradle-08-wintersteel-c21">''Wintersteel'', chapter 21</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Abidan]] are present at the contest.<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Abidan]] are mentioned as entities that [[Northstrider]] may have promised service to.<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Abidan]] have placed restrictions on the [[Monarchs]].<ref name="cradle-08-wintersteel-c2" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Northstrider]] advised not to rely on the intervention of the [[Abidan]].<ref name="cradle-08-wintersteel-c2" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Abidan]] act only for their own benefit.<ref name="cradle-08-wintersteel-c2" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Abidan]] wear smooth, almost liquid armor.<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Abidan]] took out the arrowhead.<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Court]] cannot provoke the [[Abidan]].<ref name="cradle-08-wintersteel-c4" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Abidan]] are descending.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Abidan]] intervention is suspected in how [[sacred artists]] understood complex principles.<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Some low-ranking [[Abidan]] view those in [[Cradle]] as misguided infants.<ref name="cradle-08-wintersteel-c21">''Wintersteel'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Abidan]] are present at the contest.<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
+</ul>
+</div></div>
 
 == Bloodline ==
 {{spoiler|book=cradle-09-bloodline|Originally a force spanning ten thousand worlds before the departure of [[Ozriel]], the Abidan are organized into legions of white-armored warriors. These figures, whose banners feature a stylized fox wrapped in its own tail, were seen flanking the portal to [[Threshold]]. During combat, they utilize blue lances of [[Way-power]] and possess abilities that surpass even those of the [[Monarchs]]. While their first generation rose from [[Cradle]], they operate through a vast system that maintains eyes upon those entering the [[Way]]. In battle, Abidan guardians are known to engage champions in direct blade-to-blade combat.}}
 
-{{spoiler|book=cradle-09-bloodline|The [[Abidan]] attack using blue lances of [[Way-power]] to reinforce their attacks.<ref name="cradle-09-bloodline-c1">''Bloodline'', chapter 1</ref>}}
-{{spoiler|book=cradle-09-bloodline|[[Abidan]] figures flank the portal to [[Threshold]] and wear seamless eggshell-white armor.<ref name="cradle-09-bloodline-c3">''Bloodline'', chapter 3</ref>}}
-{{spoiler|book=cradle-09-bloodline|[[Abidan]] banners depict a stylized fox wrapped in its own tail.<ref name="cradle-09-bloodline-c3" />}}
-{{spoiler|book=cradle-09-bloodline|The [[Abidan]] have eyes upon those entering the [[Way]].<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}
-{{spoiler|book=cradle-09-bloodline|The [[Abidan]] have a system.<ref name="cradle-09-bloodline-c9" />}}
-{{spoiler|book=cradle-09-bloodline|The [[Abidan]] are organized into white-armored legions.<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}
-{{spoiler|book=cradle-09-bloodline|The [[Abidan]] possess abilities that exceed those of the [[Monarchs]].<ref name="cradle-09-bloodline-c18" />}}
-{{spoiler|book=cradle-09-bloodline|[[Abidan]] guardians fight the champions of the [[Vroshir]] blade-to-blade.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}
-{{spoiler|book=cradle-09-bloodline|The first generation of [[Abidan]] rose from [[Cradle]].<ref name="cradle-09-bloodline-c19" />}}
-{{spoiler|book=cradle-09-bloodline|[[Abidan]] is a group that was once ten thousand worlds strong before [[Ozriel]]'s departure.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|The [[Abidan]] attack using blue lances of [[Way-power]] to reinforce their attacks.<ref name="cradle-09-bloodline-c1">''Bloodline'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Abidan]] figures flank the portal to [[Threshold]] and wear seamless eggshell-white armor.<ref name="cradle-09-bloodline-c3">''Bloodline'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Abidan]] banners depict a stylized fox wrapped in its own tail.<ref name="cradle-09-bloodline-c3" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Abidan]] have eyes upon those entering the [[Way]].<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Abidan]] have a system.<ref name="cradle-09-bloodline-c9" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Abidan]] are organized into white-armored legions.<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Abidan]] possess abilities that exceed those of the [[Monarchs]].<ref name="cradle-09-bloodline-c18" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Abidan]] guardians fight the champions of the [[Vroshir]] blade-to-blade.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The first generation of [[Abidan]] rose from [[Cradle]].<ref name="cradle-09-bloodline-c19" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Abidan]] is a group that was once ten thousand worlds strong before [[Ozriel]]'s departure.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|The Abidan is an organization that controls territory across existence, though they have abandoned nine hundred and ninety sectors to maintain control over only ten. While their agents deliver reports through the [[Way Between Worlds]], the group is currently stretched to its absolute limits. This collective includes the [[Phoenix Division]] and seven greatest assets, among whom some believe [[Ozriel]] to be the most valuable of the [[Judges]]. Though they possess an unstoppable [[sword]] and gifted [[Penance]] to [[Yerin]], the Abidan also maintain [[Haven]] as a prison-world. The group is composed of peers to [[Eithan]] who might imprison him, and their forceful, individualistic [[Judges]] have even been the subject of speculation regarding their ability to wipe memories.}}
 
-{{spoiler|book=cradle-10-reaper|The [[Abidan]] described [[Penance]].<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}
-{{spoiler|book=cradle-10-reaper|[[Abidan]] controls territory across existence.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}
-{{spoiler|book=cradle-10-reaper|The [[Abidan]] receive messages sent through the [[Way Between Worlds]].<ref name="cradle-10-reaper-c3" />}}
-{{spoiler|book=cradle-10-reaper|The [[Abidan]] are currently stretched to their absolute limits.<ref name="cradle-10-reaper-c3" />}}
-{{spoiler|book=cradle-10-reaper|The [[Abidan]] control ten sectors.<ref name="cradle-10-reaper-c3" />}}
-{{spoiler|book=cradle-10-reaper|The [[Abidan]] abandoned nine hundred and ninety sectors.<ref name="cradle-10-reaper-c3" />}}
-{{spoiler|book=cradle-10-reaper|[[Abidan]] agents deliver reports to the [[Abidan]].<ref name="cradle-10-reaper-c3" />}}
-{{spoiler|book=cradle-10-reaper|There are seven greatest assets among the [[Abidan]].<ref name="cradle-10-reaper-c3" />}}
-{{spoiler|book=cradle-10-reaper|The [[Judges]] are described as unusually individualistic and forceful.<ref name="cradle-10-reaper-c3" />}}
-{{spoiler|book=cradle-10-reaper|The [[Abidan]] includes the [[Phoenix Division]].<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}
-{{spoiler|book=cradle-10-reaper|The [[Abidan]] can colonize nine worlds after [[Ozriel]] reaps one.<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}
-{{spoiler|book=cradle-10-reaper|Some believe [[Ozriel]] to be the most valuable of the [[Judges]].<ref name="cradle-10-reaper-c13" />}}
-{{spoiler|book=cradle-10-reaper|[[Haven]] is the prison-world of the [[Abidan]].<ref name="cradle-10-reaper-c13" />}}
-{{spoiler|book=cradle-10-reaper|The [[Abidan]] gifted [[Penance]] to [[Yerin]].<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}
-{{spoiler|book=cradle-10-reaper|The [[Abidan]] possess an unstoppable [[sword]].<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}
-{{spoiler|book=cradle-10-reaper|[[Reigan Shen]] questioned if the [[Abidan]] were coming.<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}
-{{spoiler|book=cradle-10-reaper|The [[Abidan]] is a group that includes [[Eithan]]'s peers who might imprison him.<ref name="cradle-10-reaper-c27">''Reaper'', chapter 27</ref>}}
-{{spoiler|book=cradle-10-reaper|[[Malice]] wondered if the [[Abidan]] were unable to wipe memories.<ref name="cradle-10-reaper-c27" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|The [[Abidan]] described [[Penance]].<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Abidan]] controls territory across existence.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Abidan]] receive messages sent through the [[Way Between Worlds]].<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Abidan]] are currently stretched to their absolute limits.<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Abidan]] control ten sectors.<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Abidan]] abandoned nine hundred and ninety sectors.<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Abidan]] agents deliver reports to the [[Abidan]].<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|There are seven greatest assets among the [[Abidan]].<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Judges]] are described as unusually individualistic and forceful.<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Abidan]] includes the [[Phoenix Division]].<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Abidan]] can colonize nine worlds after [[Ozriel]] reaps one.<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Some believe [[Ozriel]] to be the most valuable of the [[Judges]].<ref name="cradle-10-reaper-c13" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Haven]] is the prison-world of the [[Abidan]].<ref name="cradle-10-reaper-c13" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Abidan]] gifted [[Penance]] to [[Yerin]].<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Abidan]] possess an unstoppable [[sword]].<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Reigan Shen]] questioned if the [[Abidan]] were coming.<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Abidan]] is a group that includes [[Eithan]]'s peers who might imprison him.<ref name="cradle-10-reaper-c27">''Reaper'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Malice]] wondered if the [[Abidan]] were unable to wipe memories.<ref name="cradle-10-reaper-c27" />}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|The Abidan are a group of beings bound by an oath of noninterference who prioritize the stabilization of worlds rather than the direct elimination of enemies. Although their former control over various systems has fallen apart, they maintain a deep hatred for the [[Monarchs]], whom they view as parasites. Their presence is signaled by manacles that act as a beacon to any member of their kind, and even [[the Mad King]]'s imitation Scythe was originally of Abidan make. While some figures like [[Northstrider]] refuse to bow to them, it is revealed that [[Eithan]] Arelius is an Abidan. Despite their historical influence, they face opposition from the [[Vroshir]].}}
 
-{{spoiler|book=cradle-11-dreadgod|[[The Mad King]]'s imitation Scythe was of [[Abidan]] make.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}
-{{spoiler|book=cradle-11-dreadgod|The manacles act as a beacon to any [[Abidan]].<ref name="cradle-11-dreadgod-c1" />}}
-{{spoiler|book=cradle-11-dreadgod|[[Northstrider]] refuses to bow to the [[Abidan]].<ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref>}}
-{{spoiler|book=cradle-11-dreadgod|[[Lindon]] suspected an [[Abidan]] would be needed to find them in their current location.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}
-{{spoiler|book=cradle-11-dreadgod|[[Abidan]] prioritizes stabilizing worlds over eliminating the enemy.<ref name="cradle-11-dreadgod-c6" />}}
-{{spoiler|book=cradle-11-dreadgod|[[Eithan]] Arelius is an [[Abidan]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}
-{{spoiler|book=cradle-11-dreadgod|The [[Abidan]] control once fell apart.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}
-{{spoiler|book=cradle-11-dreadgod|The [[Abidan]] have an oath of noninterference.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}
-{{spoiler|book=cradle-11-dreadgod|The [[Vroshir]] oppose the [[Abidan]].<ref name="cradle-11-dreadgod-c20">''Dreadgod'', chapter 20</ref>}}
-{{spoiler|book=cradle-11-dreadgod|The [[Abidan]] have former systems they may regain control over.<ref name="cradle-11-dreadgod-c20" />}}
-{{spoiler|book=cradle-11-dreadgod|The [[Abidan]] hate the [[Monarchs]] and consider them parasites.<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[The Mad King]]'s imitation Scythe was of [[Abidan]] make.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The manacles act as a beacon to any [[Abidan]].<ref name="cradle-11-dreadgod-c1" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Northstrider]] refuses to bow to the [[Abidan]].<ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] suspected an [[Abidan]] would be needed to find them in their current location.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Abidan]] prioritizes stabilizing worlds over eliminating the enemy.<ref name="cradle-11-dreadgod-c6" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Eithan]] Arelius is an [[Abidan]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Abidan]] control once fell apart.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Abidan]] have an oath of noninterference.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Vroshir]] oppose the [[Abidan]].<ref name="cradle-11-dreadgod-c20">''Dreadgod'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Abidan]] have former systems they may regain control over.<ref name="cradle-11-dreadgod-c20" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Abidan]] hate the [[Monarchs]] and consider them parasites.<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|Responsible for the creation of the world, the Abidan utilize various orders such as the [[Titans]] and employ lower-ranking members to manage affairs that do not require a [[Judge]]'s direct attention. While they possess the ability to monitor worlds below them and have guarded portals, their history includes significant losses under [[Makiel]]'s rule and the long-term enslavement of people from [[Lindon]]'s world. The organization has exerted immense influence by offering [[Penance]] as a tournament prize, providing [[Lindon]] with [[Suriel]]'s marble, and being the only entity to forcibly summon [[Northstrider]] after his advancement. Despite their power, including the ability to raise guardians and imprison individuals like [[Eithan]], the Abidan have fallen, leaving figures like [[Li Markuth]] to fear their [[sword]] while others predict their collapse.}}
 
-{{spoiler|book=cradle-12-waybound|The [[Titans]] are an order of [[Abidan]].<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}
-{{spoiler|book=cradle-12-waybound|The target has a barrier from the [[Abidan]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Makiel]] has ruled over the greatest losses since the founding of the [[Abidan]].<ref name="cradle-12-waybound-c6" />}}
-{{spoiler|book=cradle-12-waybound|The [[Abidan]] have fallen.<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}
-{{spoiler|book=cradle-12-waybound|The [[Abidan]] offered [[Penance]] as a prize for the [[Uncrowned King]] tournament.<ref name="cradle-12-waybound-c18" />}}
-{{spoiler|book=cradle-12-waybound|The [[Abidan]] are the only people who have forcibly summoned [[Northstrider]] since his advancement to [[Monarch]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}
-{{spoiler|book=cradle-12-waybound|The [[Abidan]] are responsible for the world.<ref name="cradle-12-waybound-c24">''Waybound'', chapter 24</ref>}}
-{{spoiler|book=cradle-12-waybound|The [[Abidan]] were guarding the portal.<ref name="cradle-12-waybound-c31">''Waybound'', chapter 31</ref>}}
-{{spoiler|book=cradle-12-waybound|The [[Abidan]] have a way to monitor worlds below them.<ref name="cradle-12-waybound-c31" />}}
-{{spoiler|book=cradle-12-waybound|Lower-ranking [[Abidan]] handle business that is not important enough for a [[Judge]]'s individual attention.<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Li Markuth]] feels the [[sword]] of the [[Abidan]] hanging over his head.<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}
-{{spoiler|book=cradle-12-waybound|[[The Mad King]] believes the [[Abidan]] are going to fall.<ref name="cradle-12-waybound-c35" />}}
-{{spoiler|book=cradle-12-waybound|The [[Abidan]] raised a guardian to protect the place in case [[Markuth]] or someone like him returned.<ref name="cradle-12-waybound-c35" />}}
-{{spoiler|book=cradle-12-waybound|[[Li Markuth]] has information the [[Abidan]] would want.<ref name="cradle-12-waybound-c35" />}}
-{{spoiler|book=cradle-12-waybound|[[Eithan]] may have been imprisoned by the [[Abidan]].<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}
-{{spoiler|book=cradle-12-waybound|The [[Abidan]] have been enslaving people from [[Lindon]]'s world for thousands of years.<ref name="cradle-12-waybound-c36" />}}
-{{spoiler|book=cradle-12-waybound|The [[Abidan]] gave [[Lindon]] [[Suriel]]'s marble.<ref name="cradle-12-waybound-c36" />}}
-{{spoiler|book=cradle-12-waybound|Most [[Abidan]] are not [[Wolves]].<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}
-{{spoiler|book=cradle-12-waybound|The [[Abidan]] assured [[Lindon]] that almost two years had passed in their location.<ref name="cradle-12-waybound-c37" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">19</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The [[Titans]] are an order of [[Abidan]].<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The target has a barrier from the [[Abidan]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Makiel]] has ruled over the greatest losses since the founding of the [[Abidan]].<ref name="cradle-12-waybound-c6" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Abidan]] have fallen.<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Abidan]] offered [[Penance]] as a prize for the [[Uncrowned King]] tournament.<ref name="cradle-12-waybound-c18" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Abidan]] are the only people who have forcibly summoned [[Northstrider]] since his advancement to [[Monarch]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Abidan]] are responsible for the world.<ref name="cradle-12-waybound-c24">''Waybound'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Abidan]] were guarding the portal.<ref name="cradle-12-waybound-c31">''Waybound'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Abidan]] have a way to monitor worlds below them.<ref name="cradle-12-waybound-c31" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Lower-ranking [[Abidan]] handle business that is not important enough for a [[Judge]]'s individual attention.<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Li Markuth]] feels the [[sword]] of the [[Abidan]] hanging over his head.<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[The Mad King]] believes the [[Abidan]] are going to fall.<ref name="cradle-12-waybound-c35" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Abidan]] raised a guardian to protect the place in case [[Markuth]] or someone like him returned.<ref name="cradle-12-waybound-c35" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Li Markuth]] has information the [[Abidan]] would want.<ref name="cradle-12-waybound-c35" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Eithan]] may have been imprisoned by the [[Abidan]].<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Abidan]] have been enslaving people from [[Lindon]]'s world for thousands of years.<ref name="cradle-12-waybound-c36" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Abidan]] gave [[Lindon]] [[Suriel]]'s marble.<ref name="cradle-12-waybound-c36" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Most [[Abidan]] are not [[Wolves]].<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Abidan]] assured [[Lindon]] that almost two years had passed in their location.<ref name="cradle-12-waybound-c37" />}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|The Abidan is a far-reaching human organization composed of various divisions that protect and supervise worlds. Headquartered within great golden pyramids, these official members can manipulate the [[Way]] directly, though lower ranks struggle to maintain such connections. While many workers view them as divine beings, the shorthanded group faces significant threats from Class Three [[Fiends]] and considers the Reapers to be traitors. Having occupied [[Threshold]] since the first generation, they possess special authority to lock down a world and are permitted to use their full power there. During recent events, the organization issued warnings to [[Lindon]] and [[Yerin]] upon their emergence from a portal, and an Abidan woman wearing armor with a curled-up fox symbol assisted in [[Lindon]]'s transport.}}
 
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] organization had not seen talent like [[Eithan]] and [[Ozmanthus]] since the first generation.<ref name="cradle-13-threshold-c2">''Threshold: Stories from Cradle'', chapter 2</ref>}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] are a far-reaching human organization that can manipulate the [[Way]] directly.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}
-{{spoiler|book=cradle-13-threshold|All [[Abidan]] divisions are headquartered within great golden pyramids.<ref name="cradle-13-threshold-c4" />}}
-{{spoiler|book=cradle-13-threshold|The lowest ranks of the [[Abidan]] struggle to maintain their connection to the [[Way]] or direct it at scale.<ref name="cradle-13-threshold-c4" />}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] was the last out of the portal.<ref name="cradle-13-threshold-c4" />}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] describe the [[Way]] flowing through a person.<ref name="cradle-13-threshold-c4" />}}
-{{spoiler|book=cradle-13-threshold|[[Hall]] is a young [[Abidan]].<ref name="cradle-13-threshold-c4" />}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] is composed of various Divisions.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] are a group that protects worlds.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|Many workers on [[Pioneer 602]] see the [[Abidan]] as divine beings.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] are shorthanded.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] supervise worlds.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|Class Three [[Fiends]] are opponents for entire groups of [[Abidan]].<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|[[Abidan]] can wear black armor.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|[[Abidan]] use arrows.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|An [[Abidan]] cannot kill a [[Fiend]] in the Void.<ref name="cradle-13-threshold-c6" />}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] are powerless to intervene in certain situations.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] have occupied [[Threshold]] since the first generation.<ref name="cradle-13-threshold-c7" />}}
-{{spoiler|book=cradle-13-threshold|An [[Abidan]] woman with a curled-up fox symbol on her armor assisted in [[Lindon]]'s transport.<ref name="cradle-13-threshold-c7" />}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] are permitted to use their full power in [[Threshold]].<ref name="cradle-13-threshold-c7" />}}
-{{spoiler|book=cradle-13-threshold|Three [[Abidan]] are watching the battle from behind a formation.<ref name="cradle-13-threshold-c7" />}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] consider the Reapers to be traitors.<ref name="cradle-13-threshold-c7" />}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] have special authority over the [[Way]] and can lock down a world.<ref name="cradle-13-threshold-c7" />}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] are in the [[Way]] and their will is inviolable.<ref name="cradle-13-threshold-c7" />}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] are official and predictable.<ref name="cradle-13-threshold-c7" />}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] is an organization.<ref name="cradle-13-threshold-c7" />}}
-{{spoiler|book=cradle-13-threshold|Most [[Abidan]] wear gray outfits under their armor.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] is a group that [[Ozriel]] believes has no hope left without support.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] were involved in the creation of [[OTEP]].<ref name="cradle-13-threshold-c12" />}}
-{{spoiler|book=cradle-13-threshold|[[Abidan]] issued warnings to [[Lindon]] and [[Yerin]] upon their emergence from a [[Way-portal]].<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}
-{{spoiler|book=cradle-13-threshold|The [[Abidan]] dangles an arrowhead.<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">31</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] organization had not seen talent like [[Eithan]] and [[Ozmanthus]] since the first generation.<ref name="cradle-13-threshold-c2">''Threshold: Stories from Cradle'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] are a far-reaching human organization that can manipulate the [[Way]] directly.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|All [[Abidan]] divisions are headquartered within great golden pyramids.<ref name="cradle-13-threshold-c4" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The lowest ranks of the [[Abidan]] struggle to maintain their connection to the [[Way]] or direct it at scale.<ref name="cradle-13-threshold-c4" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] was the last out of the portal.<ref name="cradle-13-threshold-c4" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] describe the [[Way]] flowing through a person.<ref name="cradle-13-threshold-c4" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Hall]] is a young [[Abidan]].<ref name="cradle-13-threshold-c4" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] is composed of various Divisions.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] are a group that protects worlds.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|Many workers on [[Pioneer 602]] see the [[Abidan]] as divine beings.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] are shorthanded.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] supervise worlds.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|Class Three [[Fiends]] are opponents for entire groups of [[Abidan]].<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Abidan]] can wear black armor.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Abidan]] use arrows.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|An [[Abidan]] cannot kill a [[Fiend]] in the Void.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] are powerless to intervene in certain situations.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] have occupied [[Threshold]] since the first generation.<ref name="cradle-13-threshold-c7" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|An [[Abidan]] woman with a curled-up fox symbol on her armor assisted in [[Lindon]]'s transport.<ref name="cradle-13-threshold-c7" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] are permitted to use their full power in [[Threshold]].<ref name="cradle-13-threshold-c7" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|Three [[Abidan]] are watching the battle from behind a formation.<ref name="cradle-13-threshold-c7" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] consider the Reapers to be traitors.<ref name="cradle-13-threshold-c7" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] have special authority over the [[Way]] and can lock down a world.<ref name="cradle-13-threshold-c7" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] are in the [[Way]] and their will is inviolable.<ref name="cradle-13-threshold-c7" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] are official and predictable.<ref name="cradle-13-threshold-c7" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] is an organization.<ref name="cradle-13-threshold-c7" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|Most [[Abidan]] wear gray outfits under their armor.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] is a group that [[Ozriel]] believes has no hope left without support.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] were involved in the creation of [[OTEP]].<ref name="cradle-13-threshold-c12" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Abidan]] issued warnings to [[Lindon]] and [[Yerin]] upon their emergence from a [[Way-portal]].<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] dangles an arrowhead.<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|“Did you promise the Abidan your service?” the Dragon King asked.<ref name="cradle-08-wintersteel-c2" />}}

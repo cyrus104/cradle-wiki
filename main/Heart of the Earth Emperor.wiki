@@ -6,7 +6,11 @@
 }}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The [[Heart of the Earth Emperor]] is a pill stolen from the [[Ninecloud Court]] designed to help [[Monarchs]] focus physical strength.<ref name="cradle-12-waybound-c7">''Waybound'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The [[Heart of the Earth Emperor]] is a pill stolen from the [[Ninecloud Court]] designed to help [[Monarchs]] focus physical strength.<ref name="cradle-12-waybound-c7">''Waybound'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-12-waybound|“Heart of the Earth Emperor. Stolen from the Ninecloud Court, this pill is made to help Monarchs control and focus their physical strength.<ref name="cradle-12-waybound-c7" />}}

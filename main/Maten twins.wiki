@@ -5,9 +5,13 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|The [[Maten twins]] were covering [[Lindon]]'s team's retreat.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}
-{{spoiler|book=cradle-08-wintersteel|One of the [[Maten twins]] was covered in burns.<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The [[Maten twins]] need support.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Maten twins]] were covering [[Lindon]]'s team's retreat.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|One of the [[Maten twins]] was covered in burns.<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Maten twins]] need support.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

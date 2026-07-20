@@ -4,13 +4,25 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|[[Iteration 110]] is the designation for the world of [[Cradle]].<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|[[Iteration 110]] is the designation for the world of [[Cradle]].<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Iteration 110]] shook when treasures were revealed.<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Iteration 110]] shook when treasures were revealed.<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|The report takes place during [[Iteration 110: Cradle]].<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The report takes place during [[Iteration 110: Cradle]].<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

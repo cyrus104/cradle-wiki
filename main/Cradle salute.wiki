@@ -6,7 +6,11 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|A [[Cradle salute]] consists of fists pressed together.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|A [[Cradle salute]] consists of fists pressed together.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

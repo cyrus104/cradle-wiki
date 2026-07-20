@@ -6,7 +6,11 @@
 }}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|The [[Andros family]] has wagons.<ref name="tg-01-house-of-blades-c12">''House of Blades'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|The [[Andros family]] has wagons.<ref name="tg-01-house-of-blades-c12">''House of Blades'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

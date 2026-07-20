@@ -6,8 +6,12 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|The [[Crushing Black Palm]] is a technique that combines a [[Forger echo technique]] and an [[Enforcer]] attack technique.<ref name="cradle-07-uncrowned-c5">''Uncrowned'', chapter 5</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The [[Crushing Black Palm]] can produce multiple strikes at once from a single palm strike.<ref name="cradle-07-uncrowned-c5" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Crushing Black Palm]] is a technique that combines a [[Forger echo technique]] and an [[Enforcer]] attack technique.<ref name="cradle-07-uncrowned-c5">''Uncrowned'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Crushing Black Palm]] can produce multiple strikes at once from a single palm strike.<ref name="cradle-07-uncrowned-c5" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

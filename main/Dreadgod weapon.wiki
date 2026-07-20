@@ -9,13 +9,17 @@
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|Capable of launching volleys of arrows, these weapons are one of only two types on [[Cradle]] that can rival [[Markuth]]'s [[sword]]. While a person possessing a [[Herald]]'s body and the beginnings of authority can wield them, [[Lindon]] eventually comes to possess two such weapons. One of these is a blue, scale-covered bow that [[Lindon]] presents to [[Larian]], which carries the spiritual weight of a [[Dreadgod]] weapon. These weapons are also noted for their ability to react when sensing threats.}}
 
-{{spoiler|book=cradle-12-waybound|The [[Dreadgod weapon]] is capable of launching volleys of arrows.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Lindon]] now has two [[Dreadgod]] weapons.<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}
-{{spoiler|book=cradle-12-waybound|A person with a [[Herald]]'s body and beginnings of authority can use a [[Dreadgod weapon]].<ref name="cradle-12-waybound-c23" />}}
-{{spoiler|book=cradle-12-waybound|[[Lindon]] has [[Dreadgod]] weapons.<ref name="cradle-12-waybound-c23" />}}
-{{spoiler|book=cradle-12-waybound|[[Lindon]] presents [[Larian]] with a blue, scale-covered bow that has the spiritual weight of a [[Dreadgod weapon]].<ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref>}}
-{{spoiler|book=cradle-12-waybound|Weapons made from the [[Dreadgods]] are one of two types of weapons on [[Cradle]] that can rival [[Markuth]]'s [[sword]].<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Lindon]]'s [[Dreadgod]] weapons react to threats.<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The [[Dreadgod weapon]] is capable of launching volleys of arrows.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] now has two [[Dreadgod]] weapons.<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|A person with a [[Herald]]'s body and beginnings of authority can use a [[Dreadgod weapon]].<ref name="cradle-12-waybound-c23" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] has [[Dreadgod]] weapons.<ref name="cradle-12-waybound-c23" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] presents [[Larian]] with a blue, scale-covered bow that has the spiritual weight of a [[Dreadgod weapon]].<ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Weapons made from the [[Dreadgods]] are one of two types of weapons on [[Cradle]] that can rival [[Markuth]]'s [[sword]].<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]]'s [[Dreadgod]] weapons react to threats.<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-12-waybound|“We now have two Dreadgod weapons,” Lindon said.<ref name="cradle-12-waybound-c23" />}}

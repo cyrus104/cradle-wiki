@@ -6,7 +6,11 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|The [[Totem]] inside Sophara carried an echo of the power in front of her.<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Totem]] inside Sophara carried an echo of the power in front of her.<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

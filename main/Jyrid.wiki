@@ -5,9 +5,13 @@
 }}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[Jyrid]] is also known as [[Clockworker]].<ref name="lh-02-the-engineer-c40">''The Engineer'', chapter 40</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Jyrid]] is a reliable old human man.<ref name="lh-02-the-engineer-c40" />}}
-{{spoiler|book=lh-02-the-engineer|[[Jyrid]] is described as someone who only cares about protecting people down to his core.<ref name="lh-02-the-engineer-c40" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Jyrid]] is also known as [[Clockworker]].<ref name="lh-02-the-engineer-c40">''The Engineer'', chapter 40</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Jyrid]] is a reliable old human man.<ref name="lh-02-the-engineer-c40" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Jyrid]] is described as someone who only cares about protecting people down to his core.<ref name="lh-02-the-engineer-c40" />}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|“Jyrid?” she asked the old man whom most called Clockworker.<ref name="lh-02-the-engineer-c40" />}}

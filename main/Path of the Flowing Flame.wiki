@@ -6,10 +6,18 @@
 }}
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|The [[Path of the Flowing Flame]] involves [[dragon]]-fire behaving like a liquid.<ref name="cradle-05-ghostwater-c8">''Ghostwater'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Path of the Flowing Flame]] involves [[dragon]]-fire behaving like a liquid.<ref name="cradle-05-ghostwater-c8">''Ghostwater'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|The [[Path of the Flowing Flame]] is associated with gold [[dragon]]'s breath.<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Path of the Flowing Flame]] is associated with gold [[dragon]]'s breath.<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

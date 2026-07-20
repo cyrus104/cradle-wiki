@@ -5,10 +5,14 @@
 }}
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|[[Brani]] is a [[Twin Messenger]] who can temporarily exist in two places at once.<ref name="cradle-13-threshold-c5">''Threshold: Stories from Cradle'', chapter 5</ref>}}
-{{spoiler|book=cradle-13-threshold|[[Brani]] is a Worldweaver.<ref name="cradle-13-threshold-c5" />}}
-{{spoiler|book=cradle-13-threshold|[[Brani]] is a scout on [[Zeth]]'s team.<ref name="cradle-13-threshold-c5" />}}
-{{spoiler|book=cradle-13-threshold|[[Brani]] uses a bow.<ref name="cradle-13-threshold-c5" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[Brani]] is a [[Twin Messenger]] who can temporarily exist in two places at once.<ref name="cradle-13-threshold-c5">''Threshold: Stories from Cradle'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Brani]] is a Worldweaver.<ref name="cradle-13-threshold-c5" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Brani]] is a scout on [[Zeth]]'s team.<ref name="cradle-13-threshold-c5" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Brani]] uses a bow.<ref name="cradle-13-threshold-c5" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -11,62 +11,78 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The [[Zenith]] Device is a type of technology or object regarded as mythical treasure from an era beyond reliable history. As original [[Aethertech]], these devices are powerful enough to challenge even the staff [[Eurias]] and possess the ability to utilize conjuration spells. Within the narrative, a [[Zenith]] Device serves as the power source for the simulation and acts as the prize in a contest.}}
 
-{{spoiler|book=lh-01-the-captain|[[Zenith Devices]] are the original [[Aethertech]] and are mythical treasures from an era beyond reliable history.<ref name="lh-01-the-captain-c5">''The Captain'', chapter 5</ref>}}
-{{spoiler|book=lh-01-the-captain|A [[Zenith Device]] is a powerful entity or object that even the staff [[Eurias]] might struggle against.<ref name="lh-01-the-captain-c8">''The Captain'', chapter 8</ref>}}
-{{spoiler|book=lh-01-the-captain|A [[Zenith Device]] can use conjuration spells.<ref name="lh-01-the-captain-c8" />}}
-{{spoiler|book=lh-01-the-captain|A [[Zenith Device]] is a type of technology or object.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}
-{{spoiler|book=lh-01-the-captain|The simulation is powered by a [[Zenith Device]].<ref name="lh-01-the-captain-c11">''The Captain'', chapter 11</ref>}}
-{{spoiler|book=lh-01-the-captain|The [[Zenith Device]] is a prize in a contest.<ref name="lh-01-the-captain-c12">''The Captain'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|[[Zenith Devices]] are the original [[Aethertech]] and are mythical treasures from an era beyond reliable history.<ref name="lh-01-the-captain-c5">''The Captain'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|A [[Zenith Device]] is a powerful entity or object that even the staff [[Eurias]] might struggle against.<ref name="lh-01-the-captain-c8">''The Captain'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|A [[Zenith Device]] can use conjuration spells.<ref name="lh-01-the-captain-c8" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|A [[Zenith Device]] is a type of technology or object.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The simulation is powered by a [[Zenith Device]].<ref name="lh-01-the-captain-c11">''The Captain'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Zenith Device]] is a prize in a contest.<ref name="lh-01-the-captain-c12">''The Captain'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|A [[Zenith]] Device is a high-level technology or artifact that may not be limited by biological laws and can exist as an active entity within the galaxy. These machines possess heavy pride and have the power to fold dimensions by bending the [[Aether]] to violate space. Such devices exhibit magical resistance capable of fracturing a seal, though their existence has never been proven in any of the narrator's other lives. One specific [[Zenith]] Device is a chunk of obsidian shaped like a cut [[diamond]] that [[Starhammer]] once accessed, while [[Mell]] currently seeks to reclaim her own. Additionally, the [[Zenith Blade]] is considered a potential [[Zenith]] Device located halfway across the galaxy.}}
 
-{{spoiler|book=lh-02-the-engineer|The existence of a [[Zenith Device]] has not been proven in any of the narrator's other lives.<ref name="lh-02-the-engineer-c19">''The Engineer'', chapter 19</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Zenith Devices]] are entities or machines that can be active in the galaxy.<ref name="lh-02-the-engineer-c25">''The Engineer'', chapter 25</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Zenith Devices]] can possess heavy pride.<ref name="lh-02-the-engineer-c29">''The Engineer'', chapter 29</ref>}}
-{{spoiler|book=lh-02-the-engineer|The [[Zenith Blade]] is a potential [[Zenith Device]] that is halfway across the galaxy.<ref name="lh-02-the-engineer-c30">''The Engineer'', chapter 30</ref>}}
-{{spoiler|book=lh-02-the-engineer|The [[Zenith Device]] folds dimensions and violates space by bending the [[Aether]].<ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}
-{{spoiler|book=lh-02-the-engineer|A [[Zenith Device]] is a technology that may not be limited to the laws of biology.<ref name="lh-02-the-engineer-c35">''The Engineer'', chapter 35</ref>}}
-{{spoiler|book=lh-02-the-engineer|A [[Zenith Device]] possesses magical resistance that can fracture a seal.<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}
-{{spoiler|book=lh-02-the-engineer|The [[Zenith Device]] is a high-level technology/artifact.<ref name="lh-02-the-engineer-c39">''The Engineer'', chapter 39</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Starhammer]] had access to a [[Zenith Device]].<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}
-{{spoiler|book=lh-02-the-engineer|The [[Zenith Device]] is a chunk of obsidian in the shape of a cut [[diamond]].<ref name="lh-02-the-engineer-c46" />}}
-{{spoiler|book=lh-02-the-engineer|[[Mell]] wants her [[Zenith Device]] back.<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|The existence of a [[Zenith Device]] has not been proven in any of the narrator's other lives.<ref name="lh-02-the-engineer-c19">''The Engineer'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Zenith Devices]] are entities or machines that can be active in the galaxy.<ref name="lh-02-the-engineer-c25">''The Engineer'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Zenith Devices]] can possess heavy pride.<ref name="lh-02-the-engineer-c29">''The Engineer'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Zenith Blade]] is a potential [[Zenith Device]] that is halfway across the galaxy.<ref name="lh-02-the-engineer-c30">''The Engineer'', chapter 30</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Zenith Device]] folds dimensions and violates space by bending the [[Aether]].<ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|A [[Zenith Device]] is a technology that may not be limited to the laws of biology.<ref name="lh-02-the-engineer-c35">''The Engineer'', chapter 35</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|A [[Zenith Device]] possesses magical resistance that can fracture a seal.<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Zenith Device]] is a high-level technology/artifact.<ref name="lh-02-the-engineer-c39">''The Engineer'', chapter 39</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Starhammer]] had access to a [[Zenith Device]].<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Zenith Device]] is a chunk of obsidian in the shape of a cut [[diamond]].<ref name="lh-02-the-engineer-c46" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Mell]] wants her [[Zenith Device]] back.<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|A [[Zenith]] Device is a self-aware entity that achieves consciousness once specific awakening conditions are met. While these devices do not actively seek out partners, they possess the ability to evaluate qualifications and choose their own [[Champions]]. Once a selection is made, the device provides resources to a member of the [[Vallenar]] line. Because these entities cannot lower their standards, [[Benri Vallenar]] has set his sights on the potential awakening of another device.}}
 
-{{spoiler|book=lh-03-the-knight|[[Zenith Devices]] do not actively seek out partners.<ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Zenith Devices]] are self-aware once their awakening conditions are satisfied.<ref name="lh-03-the-knight-c15">''The Knight'', chapter 15</ref>}}
-{{spoiler|book=lh-03-the-knight|A [[Zenith Device]] cannot lower its standards.<ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Benri Vallenar]] aims to potentially awaken another [[Zenith Device]].<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref>}}
-{{spoiler|book=lh-03-the-knight|A [[Zenith Device]] can choose [[Champions]].<ref name="lh-03-the-knight-c25">''The Knight'', chapter 25</ref>}}
-{{spoiler|book=lh-03-the-knight|A [[Zenith Device]] provides resources to a [[Vallenar]].<ref name="lh-03-the-knight-c29">''The Knight'', chapter 29</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Zenith Device]] is an entity that can chuckle and evaluate qualifications.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[Zenith Devices]] do not actively seek out partners.<ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Zenith Devices]] are self-aware once their awakening conditions are satisfied.<ref name="lh-03-the-knight-c15">''The Knight'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|A [[Zenith Device]] cannot lower its standards.<ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Benri Vallenar]] aims to potentially awaken another [[Zenith Device]].<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|A [[Zenith Device]] can choose [[Champions]].<ref name="lh-03-the-knight-c25">''The Knight'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|A [[Zenith Device]] provides resources to a [[Vallenar]].<ref name="lh-03-the-knight-c29">''The Knight'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Zenith Device]] is an entity that can chuckle and evaluate qualifications.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|A [[Zenith]] Device is a powerful piece of ancient human technology that can manifest as an AI projection of yellow lights or a voice, such as the one that contacted [[Doctor Oladyne]]. While these devices possess basic functions and can be modified, their exact powers depend on the specific tasks and users, including [[Aila]] and [[Mell]]. These objects are capable of being brought to full power, standing against the eyes of [[Solstice]], and even causing skills to rust. Throughout various conflicts, [[Zenith Devices]] have been utilized by [[Aila Escalon]] to track enemies, involved in battles at [[Advocate headquarters]], and found aboard locations ranging from the Last [[Horizon]] to the [[Universal Manufacturing]] cargo ship.}}
 
-{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] is a powerful creation of ancient humanity.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}
-{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] is a piece of technology that can take an interest in someone personally.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}
-{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] can appear as an AI projection of yellow lights.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}
-{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] is a voice that called [[Doctor Oladyne]].<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}
-{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] is a piece of technology that can be modified.<ref name="lh-04-the-pilot-c9">''The Pilot'', chapter 9</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Zenith Device]] is an object that can stand against the eyes of [[Solstice]].<ref name="lh-04-the-pilot-c11">''The Pilot'', chapter 11</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Zenith Devices]] have basic functions and their exact powers depend on their users and tasks.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Aila]] is a [[Zenith Device]].<ref name="lh-04-the-pilot-c14" />}}
-{{spoiler|book=lh-04-the-pilot|[[Aila]] uses a [[Zenith Device]] to keep up with enemies.<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}
-{{spoiler|book=lh-04-the-pilot|The voice from the [[Zenith Colony]] identified as a [[Zenith Device]].<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}
-{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] can be brought up to full power.<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref>}}
-{{spoiler|book=lh-04-the-pilot|An active [[Zenith Device]] may be aboard the [[Karoshan]] facility.<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Universal Manufacturing]] cargo ship is carrying a [[Zenith Device]].<ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref>}}
-{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] was involved in a battle at [[Advocate headquarters]].<ref name="lh-04-the-pilot-c27">''The Pilot'', chapter 27</ref>}}
-{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] is an item that might cause skills to rust.<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] contained a [[Zenith Device]].<ref name="lh-04-the-pilot-c31">''The Pilot'', chapter 31</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Zenith Blade]] is a [[Zenith Device]].<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Mell]] possesses a [[Zenith Device]].<ref name="lh-04-the-pilot-c32" />}}
-{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] carries a [[Zenith Device]].<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}
-{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] fills the laboratory with musical laughter.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">20</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] is a powerful creation of ancient humanity.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] is a piece of technology that can take an interest in someone personally.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] can appear as an AI projection of yellow lights.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] is a voice that called [[Doctor Oladyne]].<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] is a piece of technology that can be modified.<ref name="lh-04-the-pilot-c9">''The Pilot'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Device]] is an object that can stand against the eyes of [[Solstice]].<ref name="lh-04-the-pilot-c11">''The Pilot'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Zenith Devices]] have basic functions and their exact powers depend on their users and tasks.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila]] is a [[Zenith Device]].<ref name="lh-04-the-pilot-c14" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila]] uses a [[Zenith Device]] to keep up with enemies.<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The voice from the [[Zenith Colony]] identified as a [[Zenith Device]].<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] can be brought up to full power.<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|An active [[Zenith Device]] may be aboard the [[Karoshan]] facility.<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Universal Manufacturing]] cargo ship is carrying a [[Zenith Device]].<ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] was involved in a battle at [[Advocate headquarters]].<ref name="lh-04-the-pilot-c27">''The Pilot'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] is an item that might cause skills to rust.<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] contained a [[Zenith Device]].<ref name="lh-04-the-pilot-c31">''The Pilot'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Blade]] is a [[Zenith Device]].<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Mell]] possesses a [[Zenith Device]].<ref name="lh-04-the-pilot-c32" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] carries a [[Zenith Device]].<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|A [[Zenith Device]] fills the laboratory with musical laughter.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“It’s not everyone who can say they modified a Zenith Device.”<ref name="lh-04-the-pilot-c9" />}}

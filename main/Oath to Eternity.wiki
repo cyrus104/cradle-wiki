@@ -6,8 +6,12 @@
 }}
 
 == Of Kings and Killers ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Oath to Eternity]] is a weapon held by [[Foster]].<ref name="ee-sea-03-of-kings-and-killers-c18">''Of Kings and Killers'', chapter 18</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Foster]] pulls [[Oath to Eternity]].<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Oath to Eternity]] is a weapon held by [[Foster]].<ref name="ee-sea-03-of-kings-and-killers-c18">''Of Kings and Killers'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Foster]] pulls [[Oath to Eternity]].<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

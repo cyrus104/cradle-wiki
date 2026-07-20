@@ -7,21 +7,41 @@
 {{spoiler|book=cradle-11-dreadgod|Forging is the process of using [[madra]] to give power a tangible, physical form. It serves as the fundamental skill for [[Soulsmiths]], who utilize it to create constructs, manufacture weapons, and build functional shells around valuable bindings. While the core concept involves taking control of energy and shaping it into a specific image, the complexity of the technique varies significantly. Basic applications can produce temporary objects like solid illusions, duplicate weapons through echoes, or create short-lived structures that dissipate after a few seconds. More advanced practitioners can forge incredibly dense materials that mimic [[steel]], create complex runes, or even imbue [[madra]] with temporary [[life]] to produce autonomous entities like snakes or [[dragons]]. The stability and quality of [[Forged madra]] depend on several factors, including the user's skill, the compatibility between the [[Soulsmith]]'s power and the [[construct]], and the precision of any integrated [[scripts]]. Some [[Forged]] objects are highly durable, while others are brittle and can shatter like glass or ice under pressure. Because different types of [[madra]] react uniquely to the environment—some dissolving in light or changing state when pierced—[[Soulsmiths]] must use specialized tools, such as those made of goldsteel, to manipulate them safely. Ultimately, Forging is a versatile discipline used for everything from simple defensive walls and utility items to the creation of legendary treasures.}}
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|[[Soulsmiths]] use [[Forging]] to fill in the gaps of [[dead matter]] and create a functional shell around valuable bindings.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}
-{{spoiler|book=cradle-02-soulsmith|[[Forging]] involves producing scales.<ref name="cradle-02-soulsmith-c12" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|[[Soulsmiths]] use [[Forging]] to fill in the gaps of [[dead matter]] and create a functional shell around valuable bindings.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Forging]] involves producing scales.<ref name="cradle-02-soulsmith-c12" />}}</li>
+</ul>
+</div></div>
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|[[Forging]] is a process similar to [[Soulsmithing]].<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|[[Forging]] is a process similar to [[Soulsmithing]].<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Forging]] is a technique [[Yerin]] has been practicing.<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Ziel]] uses [[Forging]] to create circles.<ref name="cradle-08-wintersteel-c15">''Wintersteel'', chapter 15</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Forging]] is a technique [[Yerin]] has been practicing.<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Ziel]] uses [[Forging]] to create circles.<ref name="cradle-08-wintersteel-c15">''Wintersteel'', chapter 15</ref>}}</li>
+</ul>
+</div></div>
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Ziel]] poured himself into [[Forging]] a green rune.<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|[[Ziel]] poured himself into [[Forging]] a green rune.<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Charity]] used [[Forging]] to animate an owl.<ref name="cradle-11-dreadgod-c12">''Dreadgod'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Charity]] used [[Forging]] to animate an owl.<ref name="cradle-11-dreadgod-c12">''Dreadgod'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -6,7 +6,11 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|The [[Worlds]] are something people swear upon.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|The [[Worlds]] are something people swear upon.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“I wasn’t calling nobody, I swear on the Aether and all the Worlds, I was just looking through my logs.<ref name="lh-04-the-pilot-c37" />}}

@@ -6,7 +6,11 @@
 }}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|The [[Gate to the Territory]] can only be opened by those descended from the first [[King of Damasca]] and requires a blood sacrifice.<ref name="tg-01-house-of-blades-c23">''House of Blades'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|The [[Gate to the Territory]] can only be opened by those descended from the first [[King of Damasca]] and requires a blood sacrifice.<ref name="tg-01-house-of-blades-c23">''House of Blades'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

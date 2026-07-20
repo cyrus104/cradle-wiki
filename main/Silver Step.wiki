@@ -6,8 +6,12 @@
 }}
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|The [[Silver Step]] is an [[Enforcer technique]] with [[Striker]] elements.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Silver Step]] is a technique that launches the user.<ref name="cradle-03-blackflame-c17" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|The [[Silver Step]] is an [[Enforcer technique]] with [[Striker]] elements.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Silver Step]] is a technique that launches the user.<ref name="cradle-03-blackflame-c17" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

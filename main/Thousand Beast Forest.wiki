@@ -6,7 +6,11 @@
 }}
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|The [[Thousand Beast Forest]] is a place where two-headed bears live.<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|The [[Thousand Beast Forest]] is a place where two-headed bears live.<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

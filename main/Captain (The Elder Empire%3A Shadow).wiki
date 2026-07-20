@@ -5,9 +5,13 @@
 }}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Captain is said to be [[Soulbound]] to his ship.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Captain's mind is Elder-touched.<ref name="ee-shadow-01-of-shadow-and-sea-c10" />}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Captain intends to head for the Capital.<ref name="ee-shadow-01-of-shadow-and-sea-c27">''Of Shadow and Sea'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Captain is said to be [[Soulbound]] to his ship.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Captain's mind is Elder-touched.<ref name="ee-shadow-01-of-shadow-and-sea-c10" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Captain intends to head for the Capital.<ref name="ee-shadow-01-of-shadow-and-sea-c27">''Of Shadow and Sea'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“The Captain intends to head for the Capital, ma’am.”<ref name="ee-shadow-01-of-shadow-and-sea-c27" />}}

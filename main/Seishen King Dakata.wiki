@@ -7,8 +7,12 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Seishen King Dakata]] is a broad-shouldered man who wears bulky gray armor.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Seishen King Dakata]] fought a dreadbeast with the power of an [[Overlord]].<ref name="cradle-08-wintersteel-c9" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Seishen King Dakata]] is a broad-shouldered man who wears bulky gray armor.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Seishen King Dakata]] fought a dreadbeast with the power of an [[Overlord]].<ref name="cradle-08-wintersteel-c9" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

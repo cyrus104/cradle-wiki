@@ -5,13 +5,25 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|[[Silver Heart]] is a [[Sage]].<ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|[[Silver Heart]] is a [[Sage]].<ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|A [[Silver Heart]] is a [[construct]] created by the [[Sculpt the Soul]] technique.<ref name="cradle-11-dreadgod-c16">''Dreadgod'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|A [[Silver Heart]] is a [[construct]] created by the [[Sculpt the Soul]] technique.<ref name="cradle-11-dreadgod-c16">''Dreadgod'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|[[Silver Heart]] is an entity whose access can be denied by the [[Silent Sage]].<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[Silver Heart]] is an entity whose access can be denied by the [[Silent Sage]].<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-04-skysworn|“Frozen Blade and Silver Heart,” Underlady Li Min Redflower put in, her voice creaking behind her dark veil.<ref name="cradle-04-skysworn-c11" />}}

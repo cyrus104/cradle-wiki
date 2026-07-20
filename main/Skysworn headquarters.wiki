@@ -6,8 +6,12 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|The [[Skysworn]] have a headquarters.<ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref>}}
-{{spoiler|book=cradle-04-skysworn|The [[Soulsmith foundry]] is located in the [[Skysworn]]’s tower.<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|The [[Skysworn]] have a headquarters.<ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The [[Soulsmith foundry]] is located in the [[Skysworn]]’s tower.<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

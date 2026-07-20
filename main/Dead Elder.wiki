@@ -8,7 +8,11 @@
 }}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[island]] contains the flesh of a dead [[Elder]].<ref name="ee-sea-01-of-sea-and-shadow-c11">''Of Sea and Shadow'', chapter 11</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[island]] contains the flesh of a dead [[Elder]].<ref name="ee-sea-01-of-sea-and-shadow-c11">''Of Sea and Shadow'', chapter 11</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

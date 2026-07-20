@@ -6,8 +6,12 @@
 }}
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|[[Blackflame power]] consists of black destruction and red heat.<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Blackflame power]] flared against acid-green light.<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|[[Blackflame power]] consists of black destruction and red heat.<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Blackflame power]] flared against acid-green light.<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -9,25 +9,45 @@
 {{spoiler|book=cradle-13-threshold|Enforce refers to the application of [[madra]] to strengthen, protect, or manipulate objects and individuals. It is a fundamental aspect of combat and utility used by various practitioners to enhance their physical capabilities or weaponry. While many users employ basic enforcement to reinforce their bodies, more advanced practitioners utilize specialized [[Enforcer techniques]]. These techniques can take several forms: full-body applications that provide a continuous layer of protection and power, or concentrated strikes that focus [[madra]] into specific movements like a single slash or palm-strike. [[Enforcer techniques]] vary significantly depending on the specific [[Path]] being followed, as different types of [[madra]] interact with the user's body in unique ways. Some techniques are designed for speed, others for defense, and some may even focus on the spirit. While highly effective, these techniques can be physically taxing, sometimes causing strain to muscles and joints or requiring the body to consume [[madra]] rapidly to facilitate healing. Beyond personal enhancement, enforcement can also be applied to weapons to reinforce them or used as a method of restriction to inhibit [[madra]] or control movement.}}
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|[[Enforce]] is a technique [[Yerin]] can use with her [[madra]].<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|[[Enforce]] is a technique [[Yerin]] can use with her [[madra]].<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
+</ul>
+</div></div>
 
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|Enforce is a technique that utilizes [[madra]] to reinforce the user's physical body. During an instance where servants shouted, the technique was used to Enforce their voices, which caused the surrounding sand to shake. [[Lindon]] applied this method to his own body and later utilized the [[Enforcer technique]] specifically on his arms. Additionally, the technique can be employed to assist with breathing.}}
 
-{{spoiler|book=cradle-03-blackflame|[[Enforce]] is a technique used to reinforce the body with [[madra]].<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}
-{{spoiler|book=cradle-03-blackflame|The servants' shouts were [[Enforced]], causing the nearby sand to shake.<ref name="cradle-03-blackflame-c8">''Blackflame'', chapter 8</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Lindon]] used his [[madra]] to [[Enforce]] his body.<ref name="cradle-03-blackflame-c8" />}}
-{{spoiler|book=cradle-03-blackflame|[[Lindon]] used his [[Enforcer technique]] on his arms.<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Enforce]] is a technique used to assist breathing.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|[[Enforce]] is a technique used to reinforce the body with [[madra]].<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The servants' shouts were [[Enforced]], causing the nearby sand to shake.<ref name="cradle-03-blackflame-c8">''Blackflame'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] used his [[madra]] to [[Enforce]] his body.<ref name="cradle-03-blackflame-c8" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] used his [[Enforcer technique]] on his arms.<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Enforce]] is a technique used to assist breathing.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|[[Lindon]] must use [[Enforce]] to move because his core is nearly empty.<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] must use [[Enforce]] to move because his core is nearly empty.<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|A man used his [[Blood Shadow]] to [[Enforce]] himself.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|A man used his [[Blood Shadow]] to [[Enforce]] himself.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|[[Pride]] used the [[Enforce]] technique to lift a wall.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[Pride]] used the [[Enforce]] technique to lift a wall.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

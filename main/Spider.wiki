@@ -5,14 +5,26 @@
 }}
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|The [[Spider]] has a web that can detect beings of great power.<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}
-{{spoiler|book=cradle-10-reaper|[[Eithan]] was once the heir of the [[Spider]].<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|The [[Spider]] has a web that can detect beings of great power.<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Eithan]] was once the heir of the [[Spider]].<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|The [[Spider]] is a being that [[Ozriel]] suggests [[Suriel]] check with.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Spider]] is a being that [[Ozriel]] suggests [[Suriel]] check with.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|The techniques of a [[Spider]] can provide access to several more senses.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The techniques of a [[Spider]] can provide access to several more senses.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

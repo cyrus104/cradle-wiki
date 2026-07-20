@@ -7,13 +7,21 @@
 {{spoiler|book=lh-04-the-pilot|Combat Arts are specialized abilities utilized by individuals known as Combat Artists. These techniques are distinct from spells, as they are not intended for long-term maintenance and require intense concentration. Because using a [[Combat Art]] necessitates focusing on the [[Aether]], it is nearly impossible for a combatant to perform one while simultaneously casting a proper spell without interfering with their own abilities. Combat Artists can manifest various elemental or energetic effects, such as flames, flowing water, solar-like flares, or orange light. These arts can be applied to different combat styles, ranging from defensive maneuvers like creating shields or reflecting projectiles to offensive strikes that can damage limbs or tear away magic. While most Combat Arts are used in close-quarters fighting—often involving superhuman speed—some rare masters can apply these abilities to firearms, though the effectiveness of such an art is limited by the mechanical specifications of the weapon. The specific nature and utility of a [[Combat Art]], such as whether it favors defense or offense, defines the specialty of the artist.}}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|[[Combat Arts]] have a limited effect on guns.<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Visiri]] have a legendary predilection for [[Combat Arts]].<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Combat Arts]] can be mastered in the use of pistols.<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Combat Arts]] can involve the manipulation of crimson flame and deadly shadow.<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[Combat Arts]] have a limited effect on guns.<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Visiri]] have a legendary predilection for [[Combat Arts]].<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Combat Arts]] can be mastered in the use of pistols.<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Combat Arts]] can involve the manipulation of crimson flame and deadly shadow.<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Combat Arts]] are not spells and cannot be sustained for long periods.<ref name="lh-04-the-pilot-c44">''The Pilot'', chapter 44</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Combat Arts]] are not spells and cannot be sustained for long periods.<ref name="lh-04-the-pilot-c44">''The Pilot'', chapter 44</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“Aether Technicians with weaponry gifts, masters of pistol Combat Arts, soldiers with unique compatibility for Aethertech guns. She gave us lengthy lists of all their flaws. And many personal insults.”<ref name="lh-03-the-knight-c22" />}}

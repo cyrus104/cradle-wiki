@@ -6,7 +6,11 @@
 }}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|The [[Nuren group]] is led by an older human man with a large scar across one eye.<ref name="lh-02-the-engineer-c43">''The Engineer'', chapter 43</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|The [[Nuren group]] is led by an older human man with a large scar across one eye.<ref name="lh-02-the-engineer-c43">''The Engineer'', chapter 43</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

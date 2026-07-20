@@ -4,9 +4,13 @@
 }}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[Thundertails]] are lightning rabbits summoned via the [[Lagomorph Contract]].<ref name="lh-02-the-engineer-c15">''The Engineer'', chapter 15</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Thundertails]] are faster than [[Starhammer]] in his [[Temporal Field]] and strike with thunderbolt energy.<ref name="lh-02-the-engineer-c15" />}}
-{{spoiler|book=lh-02-the-engineer|Against normal people in normal space, [[Thundertails]] carry little more energy than a stun gun.<ref name="lh-02-the-engineer-c15" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Thundertails]] are lightning rabbits summoned via the [[Lagomorph Contract]].<ref name="lh-02-the-engineer-c15">''The Engineer'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Thundertails]] are faster than [[Starhammer]] in his [[Temporal Field]] and strike with thunderbolt energy.<ref name="lh-02-the-engineer-c15" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Against normal people in normal space, [[Thundertails]] carry little more energy than a stun gun.<ref name="lh-02-the-engineer-c15" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

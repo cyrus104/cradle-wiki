@@ -6,8 +6,12 @@
 }}
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|A [[Twin Messenger]] is a type of individual capable of temporarily existing in two places at once.<ref name="cradle-13-threshold-c5">''Threshold: Stories from Cradle'', chapter 5</ref>}}
-{{spoiler|book=cradle-13-threshold|[[Twin Messenger]] is a common [[Pattern]] used by [[Brani]].<ref name="cradle-13-threshold-c5" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|A [[Twin Messenger]] is a type of individual capable of temporarily existing in two places at once.<ref name="cradle-13-threshold-c5">''Threshold: Stories from Cradle'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Twin Messenger]] is a common [[Pattern]] used by [[Brani]].<ref name="cradle-13-threshold-c5" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

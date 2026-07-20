@@ -6,7 +6,11 @@
 }}
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|[[Miners]] go inside the [[Transcendent Ruins]] to draw scales from the air.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|[[Miners]] go inside the [[Transcendent Ruins]] to draw scales from the air.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

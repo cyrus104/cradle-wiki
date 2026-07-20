@@ -7,7 +7,11 @@
 }}
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|[[Grenn]] is a person who provides information to [[Jai Long]].<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|[[Grenn]] is a person who provides information to [[Jai Long]].<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-02-soulsmith|“Sir. Grenn said that the foreman said that the miners can’t go into the southwest corner of the fourth floor.<ref name="cradle-02-soulsmith-c7" />}}

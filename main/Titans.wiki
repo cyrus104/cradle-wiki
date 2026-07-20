@@ -4,9 +4,13 @@
 }}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The [[Titans]] are an order of [[Abidan]].<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}
-{{spoiler|book=cradle-12-waybound|The [[Seventy-One Words of Fortification]] is a reinforcement technique favored by lower-level [[Titans]].<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}
-{{spoiler|book=cradle-12-waybound|One-star [[Titans]] would be troubled defending against [[Markuth]]'s attacks.<ref name="cradle-12-waybound-c35" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The [[Titans]] are an order of [[Abidan]].<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Seventy-One Words of Fortification]] is a reinforcement technique favored by lower-level [[Titans]].<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|One-star [[Titans]] would be troubled defending against [[Markuth]]'s attacks.<ref name="cradle-12-waybound-c35" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

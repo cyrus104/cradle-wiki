@@ -6,8 +6,12 @@
 }}
 
 == Unsouled ==
-{{spoiler|book=cradle-01-unsouled|The [[Holy Wind]] is represented by an old woman in gray.<ref name="cradle-01-unsouled-c9">''Unsouled'', chapter 9</ref>}}
-{{spoiler|book=cradle-01-unsouled|[[Holy Wind]] is a school that young geniuses from clans might attend.<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-01-unsouled|The [[Holy Wind]] is represented by an old woman in gray.<ref name="cradle-01-unsouled-c9">''Unsouled'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Holy Wind]] is a school that young geniuses from clans might attend.<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

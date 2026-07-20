@@ -7,7 +7,11 @@
 }}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[Farsight]] is someone who has not eaten or slept for two days.<ref name="lh-02-the-engineer-c1">''The Engineer'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Farsight]] is someone who has not eaten or slept for two days.<ref name="lh-02-the-engineer-c1">''The Engineer'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|"Yeah, I’m fine, but Farsight and the others haven’t eaten or slept for two days."<ref name="lh-02-the-engineer-c1" />}}

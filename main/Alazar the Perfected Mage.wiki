@@ -11,13 +11,21 @@
 {{spoiler|book=lh-03-the-knight|Alazar, known as [[the Perfected]] Mage, is a powerful figure associated with the [[Karoshan Empire]]. He commands a [[Mage Corps]] and possesses enough authority that his subordinates require his specific confirmation before executing large-scale magical preparations. His role involves assessing threats to determine if they fall within his forces' capabilities, such as during the summoning of a [[Swarm-Queen]]. Alazar utilizes advanced tools like ancient scrying mirrors to monitor the state of the [[Aether]] across distant systems. While he has been noted as being absent from certain fleet engagements, his presence is significant enough that his involvement would allow for the matching of powerful enemy spells. Additionally, individuals who have undergone the process of being [[Perfected]], such as [[Zyrana]], are described as possessing complete mastery over their training, magic, and equipment.}}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[Alazar the Perfected Mage]] is a mage who slew the narrator in a previous life.<ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref>}}
-{{spoiler|book=lh-02-the-engineer|Alazar is known as [[the Perfected]] Mage.<ref name="lh-02-the-engineer-c55">''The Engineer'', chapter 55</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Alazar the Perfected Mage]] is a mage who slew the narrator in a previous life.<ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Alazar is known as [[the Perfected]] Mage.<ref name="lh-02-the-engineer-c55">''The Engineer'', chapter 55</ref>}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|Alazar is a figure whose presence would allow the Karoshans to overcome [[D’Niss]] magic.<ref name="lh-03-the-knight-c33">''The Knight'', chapter 33</ref>}}
-{{spoiler|book=lh-03-the-knight|Alazar is capable of matching enemy spells.<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}
-{{spoiler|book=lh-03-the-knight|Alazar is a mage who may have access to the royal court's magical treasures.<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|Alazar is a figure whose presence would allow the Karoshans to overcome [[D’Niss]] magic.<ref name="lh-03-the-knight-c33">''The Knight'', chapter 33</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Alazar is capable of matching enemy spells.<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Alazar is a mage who may have access to the royal court's magical treasures.<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

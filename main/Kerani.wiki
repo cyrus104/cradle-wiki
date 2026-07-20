@@ -7,7 +7,11 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Kerani]] is a worker who uses goggles and tools to maintain engines.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Kerani]] is a worker who uses goggles and tools to maintain engines.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

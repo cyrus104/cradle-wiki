@@ -8,10 +8,18 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|The [[Abyssal Palace Herald]] hurls chunks of mountains at [[Fury]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Abyssal Palace Herald]] hurls chunks of mountains at [[Fury]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|The [[Herald]] of [[Abyssal Palace]] arrived after the Blood, Silent, and Storm [[Sages]].<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|The [[Herald]] of [[Abyssal Palace]] arrived after the Blood, Silent, and Storm [[Sages]].<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

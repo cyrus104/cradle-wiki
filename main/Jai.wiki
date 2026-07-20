@@ -4,11 +4,19 @@
 }}
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|The [[Jai]] are strangling the family.<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}
-{{spoiler|book=cradle-03-blackflame|The [[Jai]] was dissolving into infighting.<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|The [[Jai]] are strangling the family.<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Jai]] was dissolving into infighting.<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|The [[Jai]] are one of the major clans.<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|The [[Jai]] are one of the major clans.<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

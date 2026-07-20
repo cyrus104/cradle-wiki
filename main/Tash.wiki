@@ -5,9 +5,13 @@
 }}
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|[[Tash]] is a [[Copper]] guard.<ref name="cradle-02-soulsmith-c14">''Soulsmith'', chapter 14</ref>}}
-{{spoiler|book=cradle-02-soulsmith|[[Tash]] is a guard who uses axes.<ref name="cradle-02-soulsmith-c14" />}}
-{{spoiler|book=cradle-02-soulsmith|[[Tash]] is a man who uses an axe.<ref name="cradle-02-soulsmith-c14" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|[[Tash]] is a [[Copper]] guard.<ref name="cradle-02-soulsmith-c14">''Soulsmith'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Tash]] is a guard who uses axes.<ref name="cradle-02-soulsmith-c14" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Tash]] is a man who uses an axe.<ref name="cradle-02-soulsmith-c14" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

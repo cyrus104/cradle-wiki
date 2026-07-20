@@ -6,8 +6,12 @@
 }}
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|[[Northgate]] is one of the largest cities in the [[Iteration]].<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}
-{{spoiler|book=cradle-13-threshold|[[Northgate]] has walls.<ref name="cradle-13-threshold-c7" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[Northgate]] is one of the largest cities in the [[Iteration]].<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Northgate]] has walls.<ref name="cradle-13-threshold-c7" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

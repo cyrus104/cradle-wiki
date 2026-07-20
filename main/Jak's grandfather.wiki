@@ -7,7 +7,11 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Jak's grandfather]] is flying around the [[Visiria system]] in a [[Zenith Device]].<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Jak's grandfather]] is flying around the [[Visiria system]] in a [[Zenith Device]].<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“I’m looking at a Subline report that says he’s flying around the Visiria system in a Zenith Device. Is that true, Jak?”<ref name="lh-04-the-pilot-c1" />}}

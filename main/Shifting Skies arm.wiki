@@ -6,7 +6,11 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|The [[Shifting Skies arm]] is a [[construct]] that [[Lindon]] and [[Fisher Gesha]] are working on.<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|The [[Shifting Skies arm]] is a [[construct]] that [[Lindon]] and [[Fisher Gesha]] are working on.<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

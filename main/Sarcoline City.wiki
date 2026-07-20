@@ -9,12 +9,16 @@
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Located within [[Harness]], Sarcoline City is a colorful urban center characterized by its smooth, pale peach-colored stone walls and gates. The city serves as a bustling hub where people travel alongside monsters of many different sizes. During his travels, [[Ziel]] passed through the settlement and discovered that its fortifications were too durable for his normal [[madra]] to penetrate.}}
 
-{{spoiler|book=cradle-13-threshold|The walls of [[Sarcoline City]] are made of pale peach-colored blocks of smooth stone.<ref name="cradle-13-threshold-c11">''Threshold: Stories from Cradle'', chapter 11</ref>}}
-{{spoiler|book=cradle-13-threshold|[[Sarcoline City]] is a colorful city with people traveling with monsters of various sizes.<ref name="cradle-13-threshold-c11" />}}
-{{spoiler|book=cradle-13-threshold|[[Sarcoline City]] is a location [[Ziel]] has traveled through.<ref name="cradle-13-threshold-c11" />}}
-{{spoiler|book=cradle-13-threshold|[[Sarcoline City]] is a location with walls and gates.<ref name="cradle-13-threshold-c11" />}}
-{{spoiler|book=cradle-13-threshold|[[Sarcoline City]]'s walls are too strong for [[Ziel]]'s normal [[madra]] to bite through.<ref name="cradle-13-threshold-c11" />}}
-{{spoiler|book=cradle-13-threshold|[[Sarcoline City]] is a walled city in [[Harness]].<ref name="cradle-13-threshold-c11" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The walls of [[Sarcoline City]] are made of pale peach-colored blocks of smooth stone.<ref name="cradle-13-threshold-c11">''Threshold: Stories from Cradle'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Sarcoline City]] is a colorful city with people traveling with monsters of various sizes.<ref name="cradle-13-threshold-c11" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Sarcoline City]] is a location [[Ziel]] has traveled through.<ref name="cradle-13-threshold-c11" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Sarcoline City]] is a location with walls and gates.<ref name="cradle-13-threshold-c11" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Sarcoline City]]'s walls are too strong for [[Ziel]]'s normal [[madra]] to bite through.<ref name="cradle-13-threshold-c11" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Sarcoline City]] is a walled city in [[Harness]].<ref name="cradle-13-threshold-c11" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

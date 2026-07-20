@@ -6,7 +6,11 @@
 }}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|[[Benri's staff]] is made of organic silver refined from mirror [[dragon]] bones and topped with blue shadow-crystal.<ref name="lh-01-the-captain-c20">''The Captain'', chapter 20</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|[[Benri's staff]] is made of organic silver refined from mirror [[dragon]] bones and topped with blue shadow-crystal.<ref name="lh-01-the-captain-c20">''The Captain'', chapter 20</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -6,7 +6,11 @@
 }}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|Planetary [[Security]] is an organization that responds to incidents on planets.<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|Planetary [[Security]] is an organization that responds to incidents on planets.<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

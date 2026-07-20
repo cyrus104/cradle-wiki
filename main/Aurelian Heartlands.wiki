@@ -6,10 +6,18 @@
 }}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Aurelian Heartlands]] is a civilized area.<ref name="ee-sea-01-of-sea-and-shadow-c6">''Of Sea and Shadow'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Aurelian Heartlands]] is a civilized area.<ref name="ee-sea-01-of-sea-and-shadow-c6">''Of Sea and Shadow'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Kings and Killers ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Aurelian]] [[Heartland]] is a region where people are looking up at the breaking sky.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Aurelian]] [[Heartland]] is a region where people are looking up at the breaking sky.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

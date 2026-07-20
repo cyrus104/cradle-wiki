@@ -6,7 +6,11 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Helethshan]] is of the blood of the [[Midnight Fang]].<ref name="cradle-11-dreadgod-c13">''Dreadgod'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Helethshan]] is of the blood of the [[Midnight Fang]].<ref name="cradle-11-dreadgod-c13">''Dreadgod'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-11-dreadgod|“I am Helethshan, blood of the Midnight Fang, and I will accept you into my service.<ref name="cradle-11-dreadgod-c13" />}}

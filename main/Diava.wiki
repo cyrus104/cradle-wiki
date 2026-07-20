@@ -6,8 +6,12 @@
 }}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Diava]] is a short-handled, red-wrapped [[sword]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Denner]] thought [[Diava]] had stopped listening to the [[Dragon's Fang]].<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Diava]] is a short-handled, red-wrapped [[sword]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Denner]] thought [[Diava]] had stopped listening to the [[Dragon's Fang]].<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-03-city-of-light|"Diava," he said, hefting the short-handled, red-wrapped sword in his right hand.<ref name="tg-03-city-of-light-c25" />}}

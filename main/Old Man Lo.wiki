@@ -5,10 +5,14 @@
 }}
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|[[Old Man Lo]] wears a pressed purple uniform.<ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}
-{{spoiler|book=cradle-05-ghostwater|[[Old Man Lo]] is an [[Overlord]].<ref name="cradle-05-ghostwater-c7" />}}
-{{spoiler|book=cradle-05-ghostwater|[[Old Man Lo]] can move in a blur.<ref name="cradle-05-ghostwater-c7" />}}
-{{spoiler|book=cradle-05-ghostwater|[[Old Man Lo]] once argued with a woman from the [[Thousand-Mile Cloud]].<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|[[Old Man Lo]] wears a pressed purple uniform.<ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Old Man Lo]] is an [[Overlord]].<ref name="cradle-05-ghostwater-c7" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Old Man Lo]] can move in a blur.<ref name="cradle-05-ghostwater-c7" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Old Man Lo]] once argued with a woman from the [[Thousand-Mile Cloud]].<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

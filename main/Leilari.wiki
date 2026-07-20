@@ -16,20 +16,28 @@
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|Leilari is an actress featured in the film [[Starhammer]] VI and is known as the wife of [[Clockworker]]. Having previously explored uncharted planets within the [[Free Worlds]], she utilized a gray flight suit and synth-flesh putty to disguise her facial structure during her travels. To assist with her technical needs, she employed a [[steel]] band on her left forearm as a backup console. Following the use of pathfinding spells by [[Varic]], she was discovered in a hiding place and was eventually located in the prison.}}
 
-{{spoiler|book=lh-02-the-engineer|[[Leilari]] is an actress in the movie [[Starhammer]] VI.<ref name="lh-02-the-engineer-c20">''The Engineer'', chapter 20</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Leilari]] is [[Starhammer]]'s wife.<ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Leilari]] uses a gray flight suit as emergency clothing.<ref name="lh-02-the-engineer-c40">''The Engineer'', chapter 40</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Leilari]] uses synth-flesh putty to hide her facial structure.<ref name="lh-02-the-engineer-c40" />}}
-{{spoiler|book=lh-02-the-engineer|[[Leilari]] has explored uncharted planets in the [[Free Worlds]].<ref name="lh-02-the-engineer-c40" />}}
-{{spoiler|book=lh-02-the-engineer|[[Leilari]] uses a [[steel]] band on her left forearm as a backup console.<ref name="lh-02-the-engineer-c40" />}}
-{{spoiler|book=lh-02-the-engineer|[[Leilari]] is the wife of [[Clockworker]].<ref name="lh-02-the-engineer-c40" />}}
-{{spoiler|book=lh-02-the-engineer|[[Leilari]] was found in a hiding place by [[Varic]] using pathfinding spells.<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Leilari]] is a person who can be found in the prison.<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] is an actress in the movie [[Starhammer]] VI.<ref name="lh-02-the-engineer-c20">''The Engineer'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] is [[Starhammer]]'s wife.<ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] uses a gray flight suit as emergency clothing.<ref name="lh-02-the-engineer-c40">''The Engineer'', chapter 40</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] uses synth-flesh putty to hide her facial structure.<ref name="lh-02-the-engineer-c40" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] has explored uncharted planets in the [[Free Worlds]].<ref name="lh-02-the-engineer-c40" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] uses a [[steel]] band on her left forearm as a backup console.<ref name="lh-02-the-engineer-c40" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] is the wife of [[Clockworker]].<ref name="lh-02-the-engineer-c40" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] was found in a hiding place by [[Varic]] using pathfinding spells.<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] is a person who can be found in the prison.<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Leilari]] has [[Aethertech]] implants in her jaw.<ref name="lh-04-the-pilot-c27">''The Pilot'', chapter 27</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Leilari]] was distracted by her console during the meeting.<ref name="lh-04-the-pilot-c27" />}}
-{{spoiler|book=lh-04-the-pilot|[[Leilari]] is a personal connection of [[Starhammer]].<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Leilari]] has [[Aethertech]] implants in her jaw.<ref name="lh-04-the-pilot-c27">''The Pilot'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Leilari]] was distracted by her console during the meeting.<ref name="lh-04-the-pilot-c27" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Leilari]] is a personal connection of [[Starhammer]].<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

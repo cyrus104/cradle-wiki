@@ -7,8 +7,12 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Gar]] has navy training.<ref name="lh-04-the-pilot-c9">''The Pilot'', chapter 9</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Gar]] analyzed a spell.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Gar]] has navy training.<ref name="lh-04-the-pilot-c9">''The Pilot'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Gar]] analyzed a spell.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“Only for a second,” Gar said, as he analyzed the spell.<ref name="lh-04-the-pilot-c26" />}}

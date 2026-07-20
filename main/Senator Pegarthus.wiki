@@ -7,8 +7,12 @@
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|[[Senator Pegarthus]] is a senator.<ref name="lh-03-the-knight-c27">''The Knight'', chapter 27</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Senator Pegarthus]] is a Senator of the planet [[Visiria]].<ref name="lh-03-the-knight-c29">''The Knight'', chapter 29</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[Senator Pegarthus]] is a senator.<ref name="lh-03-the-knight-c27">''The Knight'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Senator Pegarthus]] is a Senator of the planet [[Visiria]].<ref name="lh-03-the-knight-c29">''The Knight'', chapter 29</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -4,11 +4,19 @@
 }}
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Reigan Shen]] emerges onto the blighted rock of the Wastelands.<ref name="cradle-09-bloodline-c14">''Bloodline'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|[[Reigan Shen]] emerges onto the blighted rock of the Wastelands.<ref name="cradle-09-bloodline-c14">''Bloodline'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|The Wastelands contain a fortified citadel frozen in time.<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}
-{{spoiler|book=cradle-11-dreadgod|The [[Wasteland]] contains long-abandoned battlefields.<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|The Wastelands contain a fortified citadel frozen in time.<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Wasteland]] contains long-abandoned battlefields.<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

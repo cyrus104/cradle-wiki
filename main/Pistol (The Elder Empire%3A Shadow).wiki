@@ -6,8 +6,12 @@
 }}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Albadol Crane]] used a pistol.<ref name="ee-shadow-01-of-shadow-and-sea-c16">''Of Shadow and Sea'', chapter 16</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|An alchemist managed to make a pistol work on the castle grounds despite its defenses.<ref name="ee-shadow-01-of-shadow-and-sea-c16" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Albadol Crane]] used a pistol.<ref name="ee-shadow-01-of-shadow-and-sea-c16">''Of Shadow and Sea'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|An alchemist managed to make a pistol work on the castle grounds despite its defenses.<ref name="ee-shadow-01-of-shadow-and-sea-c16" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -4,13 +4,25 @@
 }}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Dylia]] is a place from which merchant vessels sail.<ref name="ee-sea-01-of-sea-and-shadow-c7">''Of Sea and Shadow'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Dylia]] is a place from which merchant vessels sail.<ref name="ee-sea-01-of-sea-and-shadow-c7">''Of Sea and Shadow'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Kings and Killers ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Dylia]] is a territory with a governess.<ref name="ee-sea-03-of-kings-and-killers-c13">''Of Kings and Killers'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Dylia]] is a territory with a governess.<ref name="ee-sea-03-of-kings-and-killers-c13">''Of Kings and Killers'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kthanikahr]] could be devouring towns in [[Dylia]].<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kthanikahr]] could be devouring towns in [[Dylia]].<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -6,7 +6,11 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|There is a [[Monarch-killing weapon]] on the line.<ref name="cradle-08-wintersteel-c11">''Wintersteel'', chapter 11</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|There is a [[Monarch-killing weapon]] on the line.<ref name="cradle-08-wintersteel-c11">''Wintersteel'', chapter 11</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|“And there’s a Monarch-killing weapon on the line.”<ref name="cradle-08-wintersteel-c11" />}}

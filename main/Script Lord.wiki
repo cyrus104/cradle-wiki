@@ -7,7 +7,11 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[The Script Lord]] is the author of [[The Seven Principles of Pure Madra]].<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[The Script Lord]] is the author of [[The Seven Principles of Pure Madra]].<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

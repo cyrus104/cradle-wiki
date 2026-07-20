@@ -6,8 +6,12 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Crimson Sun Rises]] is a technique that condenses fire aura and [[madra]] into a red ball.<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}
-{{spoiler|book=cradle-08-wintersteel|Sophara completed her [[Crimson Sun Rises]] technique.<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Crimson Sun Rises]] is a technique that condenses fire aura and [[madra]] into a red ball.<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Sophara completed her [[Crimson Sun Rises]] technique.<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

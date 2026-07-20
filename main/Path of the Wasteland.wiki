@@ -6,7 +6,11 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|The [[Path of the Wasteland]] has aspects of earth and wind, with techniques taking the form of blowing golden sand.<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Path of the Wasteland]] has aspects of earth and wind, with techniques taking the form of blowing golden sand.<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

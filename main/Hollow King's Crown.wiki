@@ -6,7 +6,11 @@
 }}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|The [[Hollow King's Crown]] is a technique involving stars forged overhead.<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Hollow King's Crown]] is a technique involving stars forged overhead.<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

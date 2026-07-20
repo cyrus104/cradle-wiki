@@ -6,8 +6,12 @@
 }}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Shadeshifter]] urges [[Meia]] to attack [[Yala]] while she is vulnerable.<ref name="ee-shadow-01-of-shadow-and-sea-c15">''Of Shadow and Sea'', chapter 15</ref>}}
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Shadeshifter]] is a type of [[Kameira]].<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Shadeshifter]] urges [[Meia]] to attack [[Yala]] while she is vulnerable.<ref name="ee-shadow-01-of-shadow-and-sea-c15">''Of Shadow and Sea'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Shadeshifter]] is a type of [[Kameira]].<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

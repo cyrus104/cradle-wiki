@@ -6,8 +6,12 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|The [[Path of the Shifting Skies]] is a blend of cloud, wind, and water madra.<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}
-{{spoiler|book=cradle-04-skysworn|The [[Path of the Shifting Skies]] arm is a [[Highgold]] arm.<ref name="cradle-04-skysworn-c7" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|The [[Path of the Shifting Skies]] is a blend of cloud, wind, and water madra.<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The [[Path of the Shifting Skies]] arm is a [[Highgold]] arm.<ref name="cradle-04-skysworn-c7" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

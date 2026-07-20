@@ -5,10 +5,14 @@
 }}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|[[Grandmaster Asphodel]] is a healer who treated [[Alin]].<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Grandmaster Asphodel]] is a soft, round Grandmaster.<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Grandmaster Asphodel]] lost her [[life]] during an attack.<ref name="tg-02-crimson-vault-c14">''The Crimson Vault'', chapter 14</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Grandmaster Asphodel]] managed to take her team around [[Overlord Eli]]'s defenses.<ref name="tg-02-crimson-vault-c14" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Grandmaster Asphodel]] is a healer who treated [[Alin]].<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Grandmaster Asphodel]] is a soft, round Grandmaster.<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Grandmaster Asphodel]] lost her [[life]] during an attack.<ref name="tg-02-crimson-vault-c14">''The Crimson Vault'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Grandmaster Asphodel]] managed to take her team around [[Overlord Eli]]'s defenses.<ref name="tg-02-crimson-vault-c14" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

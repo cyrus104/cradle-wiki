@@ -6,8 +6,12 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|The containment around the [[Ninecloud madra]] was broken.<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The fuel for the [[Ninecloud madra]] had mostly faded into useless [[essence]].<ref name="cradle-07-uncrowned-c8" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|The containment around the [[Ninecloud madra]] was broken.<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The fuel for the [[Ninecloud madra]] had mostly faded into useless [[essence]].<ref name="cradle-07-uncrowned-c8" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

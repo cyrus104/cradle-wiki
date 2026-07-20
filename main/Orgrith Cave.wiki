@@ -9,15 +9,23 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|Situated in the southeastern corner of the [[Latari Forest]], Orgrith Cave was originally created during a chaotic and terrible battle involving [[Tartarus]], [[Naraka]], and the [[Ornheim Travelers]]. The site serves as the designated location for the graduation ritual. While [[Simon]] had previously entered the cave, it is also a place where [[Andra]] and [[Lycus]] may have become trapped.}}
 
-{{spoiler|book=tg-01-house-of-blades|[[Orgrith Cave]] is the location for the graduation ritual.<ref name="tg-01-house-of-blades-c10">''House of Blades'', chapter 10</ref>}}
-{{spoiler|book=tg-01-house-of-blades|[[Orgrith Cave]] is located at the southeastern corner of the [[Latari Forest]].<ref name="tg-01-house-of-blades-c11">''House of Blades'', chapter 11</ref>}}
-{{spoiler|book=tg-01-house-of-blades|[[Orgrith Cave]] was formed by a long and terrible battle.<ref name="tg-01-house-of-blades-c11" />}}
-{{spoiler|book=tg-01-house-of-blades|[[Orgrith Cave]] was formed in a chaotic battle between [[Tartarus]], [[Naraka]], and [[Ornheim Travelers]].<ref name="tg-01-house-of-blades-c11" />}}
-{{spoiler|book=tg-01-house-of-blades|[[Simon]] had previously entered [[Orgrith Cave]].<ref name="tg-01-house-of-blades-c12">''House of Blades'', chapter 12</ref>}}
-{{spoiler|book=tg-01-house-of-blades|[[Orgrith Cave]] is a place where [[Andra]] and [[Lycus]] might have been trapped.<ref name="tg-01-house-of-blades-c15">''House of Blades'', chapter 15</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|[[Orgrith Cave]] is the location for the graduation ritual.<ref name="tg-01-house-of-blades-c10">''House of Blades'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Orgrith Cave]] is located at the southeastern corner of the [[Latari Forest]].<ref name="tg-01-house-of-blades-c11">''House of Blades'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Orgrith Cave]] was formed by a long and terrible battle.<ref name="tg-01-house-of-blades-c11" />}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Orgrith Cave]] was formed in a chaotic battle between [[Tartarus]], [[Naraka]], and [[Ornheim Travelers]].<ref name="tg-01-house-of-blades-c11" />}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Simon]] had previously entered [[Orgrith Cave]].<ref name="tg-01-house-of-blades-c12">''House of Blades'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Orgrith Cave]] is a place where [[Andra]] and [[Lycus]] might have been trapped.<ref name="tg-01-house-of-blades-c15">''House of Blades'', chapter 15</ref>}}</li>
+</ul>
+</div></div>
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|[[Simon]] previously called all his [[steel]] in [[Orgrith Cave]].<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] previously called all his [[steel]] in [[Orgrith Cave]].<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|"Orgrith Cave," he said at last. "Seven nights in Orgrith Cave."<ref name="tg-01-house-of-blades-c10" />}}

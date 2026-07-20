@@ -7,7 +7,11 @@
 }}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Kash-Nagh]] is a ten-foot-tall humanoid animal resembling a man crossed with a bear.<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Kash-Nagh]] is a ten-foot-tall humanoid animal resembling a man crossed with a bear.<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

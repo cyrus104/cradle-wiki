@@ -7,16 +7,28 @@
 {{spoiler|book=tg-03-city-of-light|[[Ornheim]] [[Travelers]] are individuals belonging to the [[Ornheim]] [[Territory]] who possess the ability to summon various objects and creatures to aid them in combat or utility. Their primary specialty involves the creation of golems, which are constructed from materials like granite, flint, shale, obsidian, or quartz. These summoned beings can take many forms, including wolves, assassins, and massive guardians, often requiring specific gemstones or heartstones to animate. [[Ornheim]] [[Travelers]] are characterized by their patience, endurance, and meticulous preparation, often spending weeks refining their creations. They are noted for being disciplined and diligent followers of their leaders, typically awaiting orders without panicking. Beyond golems, these [[Travelers]] can summon stone structures, such as temples, or use elemental forces like ice and flame. In addition to individual [[Travelers]], the territory is associated with powerful [[Incarnations]]—large, stone-like entities that resemble intricately carved human figures and possess immense strength.}}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|[[Ornheim Travelers]] were involved in the battle that formed [[Orgrith Cave]].<ref name="tg-01-house-of-blades-c11">''House of Blades'', chapter 11</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|[[Ornheim Travelers]] were involved in the battle that formed [[Orgrith Cave]].<ref name="tg-01-house-of-blades-c11">''House of Blades'', chapter 11</ref>}}</li>
+</ul>
+</div></div>
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|[[Ornheim Travelers]] can summon stone from their [[Territory]].<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}
-{{spoiler|book=tg-02-crimson-vault|An [[Ornheim]] [[Traveler]] can create a golem from tiles using a carved [[ruby]].<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Ornheim Travelers]] can summon stone from their [[Territory]].<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|An [[Ornheim]] [[Traveler]] can create a golem from tiles using a carved [[ruby]].<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
+</ul>
+</div></div>
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Ornheim Travelers]] are used to add bricks to walls.<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}
-{{spoiler|book=tg-03-city-of-light|The [[Ornheim]] [[Traveler]] entered the entry hall.<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}
-{{spoiler|book=tg-03-city-of-light|[[Ornheim Travelers]] are engaging soldiers a few streets away.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Ornheim Travelers]] are used to add bricks to walls.<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The [[Ornheim]] [[Traveler]] entered the entry hall.<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Ornheim Travelers]] are engaging soldiers a few streets away.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

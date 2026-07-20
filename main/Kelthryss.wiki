@@ -11,11 +11,15 @@
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Kelthryss is a northern ivory feathered drake that serves as a protector for [[Carmine]]. While traveling alongside both [[Ziel]] and [[Carmine]], this creature is known to snarl and spit sparks. As a feathered drake of the north, Kelthryss remains a constant companion to its traveling party.}}
 
-{{spoiler|book=cradle-13-threshold|[[Kelthryss]] is a northern ivory feathered drake.<ref name="cradle-13-threshold-c11">''Threshold: Stories from Cradle'', chapter 11</ref>}}
-{{spoiler|book=cradle-13-threshold|[[Kelthryss]] is a northern ivory feathered drake that protects [[Carmine]].<ref name="cradle-13-threshold-c11" />}}
-{{spoiler|book=cradle-13-threshold|[[Kelthryss]] is a feathered drake.<ref name="cradle-13-threshold-c11" />}}
-{{spoiler|book=cradle-13-threshold|[[Kelthryss]] is a drake that snarls and spits sparks.<ref name="cradle-13-threshold-c11" />}}
-{{spoiler|book=cradle-13-threshold|[[Kelthryss]] is a character traveling with [[Ziel]] and [[Carmine]].<ref name="cradle-13-threshold-c11" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[Kelthryss]] is a northern ivory feathered drake.<ref name="cradle-13-threshold-c11">''Threshold: Stories from Cradle'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Kelthryss]] is a northern ivory feathered drake that protects [[Carmine]].<ref name="cradle-13-threshold-c11" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Kelthryss]] is a feathered drake.<ref name="cradle-13-threshold-c11" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Kelthryss]] is a drake that snarls and spits sparks.<ref name="cradle-13-threshold-c11" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Kelthryss]] is a character traveling with [[Ziel]] and [[Carmine]].<ref name="cradle-13-threshold-c11" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

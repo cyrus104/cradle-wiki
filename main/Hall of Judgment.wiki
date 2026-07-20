@@ -4,12 +4,20 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|The [[Hall of Judgment]] is a shining golden tower on an artificial hill.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}
-{{spoiler|book=cradle-11-dreadgod|A crack echoed through the [[Hall of Judgment]].<ref name="cradle-11-dreadgod-c1" />}}
-{{spoiler|book=cradle-11-dreadgod|The [[Hall of Judgment]] is a golden edifice belonging to the [[Abidan]].<ref name="cradle-11-dreadgod-c20">''Dreadgod'', chapter 20</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Hall of Judgment]] is a shining golden tower on an artificial hill.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|A crack echoed through the [[Hall of Judgment]].<ref name="cradle-11-dreadgod-c1" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Hall of Judgment]] is a golden edifice belonging to the [[Abidan]].<ref name="cradle-11-dreadgod-c20">''Dreadgod'', chapter 20</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The [[Hall of Judgment]] is located in [[Sanctum]].<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The [[Hall of Judgment]] is located in [[Sanctum]].<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

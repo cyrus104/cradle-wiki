@@ -7,17 +7,33 @@
 {{spoiler|book=cradle-13-threshold|Fiends are chaotic entities warped by the Void that exist to consume worlds. They are characterized by their ability to distort reality, manipulate gravity, and manifest warped environments such as landscapes of fleshy trees. These creatures range in power through a classification system: Class Four Fiends threaten cities or low-power civilizations, while Class Three Fiends require entire groups of [[Abidan]] to combat. Higher-level entities, such as Class Two Fiends, can reach massive scales, appearing as country-sized beasts or serpent-like mutants capable of swallowing planets. Some Fiends are powerful enough to challenge [[Judges]], and others can be bound by the will of humans or used as servants by kings. While some individuals have been known to host Fiends within their own bodies, these entities often exert pressure that causes physical mutation in their hosts. Ultimately, Fiends are driven by a fundamental hunger to devour existence itself.}}
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|[[Fiends]] slither forward from the darkness between the stars of [[Fathom]].<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}
-{{spoiler|book=cradle-10-reaper|Many [[Fiends]] cringed back like dogs remembering a whip.<ref name="cradle-10-reaper-c15" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|[[Fiends]] slither forward from the darkness between the stars of [[Fathom]].<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Many [[Fiends]] cringed back like dogs remembering a whip.<ref name="cradle-10-reaper-c15" />}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Fiends]] can twist reality with their presence.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Fiends]] can twist reality with their presence.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Fiends]] set upon [[Suriel]] in the Void.<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Fiends]] set upon [[Suriel]] in the Void.<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|The [[Fiends]] want the world itself.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The [[Fiends]] want the world itself.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

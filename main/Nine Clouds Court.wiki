@@ -6,7 +6,11 @@
 }}
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|[[Eithan]]'s clothes are imported from the [[Nine Clouds Court]].<ref name="cradle-02-soulsmith-c13">''Soulsmith'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|[[Eithan]]'s clothes are imported from the [[Nine Clouds Court]].<ref name="cradle-02-soulsmith-c13">''Soulsmith'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

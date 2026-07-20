@@ -6,7 +6,11 @@
 }}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|The throne is a solid block of [[ruby]] ornamented in lines of gold.<ref name="tg-03-city-of-light-c17">''City of Light'', chapter 17</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|The throne is a solid block of [[ruby]] ornamented in lines of gold.<ref name="tg-03-city-of-light-c17">''City of Light'', chapter 17</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

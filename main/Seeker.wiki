@@ -6,7 +6,11 @@
 }}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|Seekers are a type of person that can be called.<ref name="tg-01-house-of-blades-c1">''House of Blades'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|Seekers are a type of person that can be called.<ref name="tg-01-house-of-blades-c1">''House of Blades'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|“Start calling another seeker, then, I suppose,” the woman said with a sigh.<ref name="tg-01-house-of-blades-c1" />}}

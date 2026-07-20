@@ -7,15 +7,27 @@
 {{spoiler|book=lh-04-the-pilot|Trade serves as the universal language used for communication and exchange throughout the galaxy. It is spoken by various sentient species, including the royal house of the [[Karoshan Empire]], and is used for high-level business negotiations between major corporations and representatives of different cultures. Beyond its function as a linguistic tool, trade encompasses the exchange of tangible commodities—such as [[Aethertech]] water purifiers, ships, plants, and raw materials—as well as the trading of information, services, and even enemies. Economic activities range from large-scale corporate dealings at headquarters to the scavenging and recycling of junk in scrapper colonies, as well as the procurement of rare goods through established connections.}}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|[[Trade]] is a language spoken by [[Sola]].<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|[[Trade]] is a language spoken by [[Sola]].<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[Trade]] is the galactic language used for exchange with the [[Karoshan Empire]].<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Trade]] is a language spoken by humans.<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Undermaker]] is supposed to be fluent in [[Trade]].<ref name="lh-02-the-engineer-c44">''The Engineer'', chapter 44</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Trade]] is the galactic language used for exchange with the [[Karoshan Empire]].<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Trade]] is a language spoken by humans.<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Undermaker]] is supposed to be fluent in [[Trade]].<ref name="lh-02-the-engineer-c44">''The Engineer'', chapter 44</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Trade]] is the common language of the galaxy.<ref name="lh-04-the-pilot-c21">''The Pilot'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Trade]] is the common language of the galaxy.<ref name="lh-04-the-pilot-c21">''The Pilot'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

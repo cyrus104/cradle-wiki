@@ -7,19 +7,35 @@
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Awakening]] is a mysterious and permanent process used to transform inanimate objects into powerful, sentient-like artifacts. While the exact nature of this procedure remains poorly understood even by the most brilliant minds in the [[Empire]], it involves a [[Reader]] bringing a level of awareness or rudimentary consciousness to an object. This newfound [[life]] is directly tied to the item's original [[Intent]], which dictates its goals and eventual capabilities. During the process, an object undergoes a single physical transformation to better align with its purpose; once this change occurs, the item's shape cannot be altered again. An [[Awakened object]] can utilize its existing store of [[Intent]] to accomplish tasks, though it cannot collect or receive any new [[Intent]] after the process is complete. Attempting to Awaken an object a second time results in no effect. The procedure can take anywhere from days to several years depending on the object's power, and in some instances, a human can become bound to the item, potentially becoming a [[Soulbound]]. While [[Awakening]] grants objects increased power and unique abilities, it also makes them less predictable and can lead to unpredictable consequences for those nearby.}}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|An object can be [[Awakened]] using [[Intent]] and proper equipment.<ref name="ee-sea-01-of-sea-and-shadow-c4">''Of Sea and Shadow'', chapter 4</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|When a [[Reader]] decides to [[Awaken]] an object, the tool gains a rudimentary consciousness related to its task.<ref name="ee-sea-01-of-sea-and-shadow-c13">''Of Sea and Shadow'', chapter 13</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Naberius]] was asked how long it would take him to [[Awaken]] and bond the [[Heart]].<ref name="ee-sea-01-of-sea-and-shadow-c14">''Of Sea and Shadow'', chapter 14</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Heart]] must be [[Awakened]].<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|An object can be [[Awakened]] using [[Intent]] and proper equipment.<ref name="ee-sea-01-of-sea-and-shadow-c4">''Of Sea and Shadow'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|When a [[Reader]] decides to [[Awaken]] an object, the tool gains a rudimentary consciousness related to its task.<ref name="ee-sea-01-of-sea-and-shadow-c13">''Of Sea and Shadow'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Naberius]] was asked how long it would take him to [[Awaken]] and bond the [[Heart]].<ref name="ee-sea-01-of-sea-and-shadow-c14">''Of Sea and Shadow'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Heart]] must be [[Awakened]].<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|One must [[Awaken]] an entire ship to make it a [[Vessel]].<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|One must [[Awaken]] an entire ship to make it a [[Vessel]].<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Dawn and Darkness ==
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Reading]] can be used to temporarily [[Awaken]] stone.<ref name="ee-sea-02-of-dawn-and-darkness-c16">''Of Dawn and Darkness'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Reading]] can be used to temporarily [[Awaken]] stone.<ref name="ee-sea-02-of-dawn-and-darkness-c16">''Of Dawn and Darkness'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Darkness and Dawn ==
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Awakening]] is related to active [[Reading]].<ref name="ee-shadow-02-of-darkness-and-dawn-c4">''Of Darkness and Dawn'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Awakening]] is related to active [[Reading]].<ref name="ee-shadow-02-of-darkness-and-dawn-c4">''Of Darkness and Dawn'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

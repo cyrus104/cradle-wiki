@@ -4,9 +4,13 @@
 }}
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|The [[Silent Core]] is located beneath [[Mount Samara]].<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}
-{{spoiler|book=cradle-10-reaper|The eastern chamber has been influenced by the [[Silent Core]] for hundreds of years.<ref name="cradle-10-reaper-c8" />}}
-{{spoiler|book=cradle-10-reaper|The [[Silent Core]] is a purple-white core.<ref name="cradle-10-reaper-c8" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|The [[Silent Core]] is located beneath [[Mount Samara]].<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The eastern chamber has been influenced by the [[Silent Core]] for hundreds of years.<ref name="cradle-10-reaper-c8" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Silent Core]] is a purple-white core.<ref name="cradle-10-reaper-c8" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

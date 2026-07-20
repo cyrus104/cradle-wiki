@@ -6,10 +6,18 @@
 }}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Crawlers]] are creatures that nest in [[Erin]].<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Crawlers]] are creatures that nest in [[Erin]].<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref>}}</li>
+</ul>
+</div></div>
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The prisoner mentioned a Crawler sighting in the winter of eleven ninety-two.<ref name="ee-shadow-01-of-shadow-and-sea-c5">''Of Shadow and Sea'', chapter 5</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The prisoner mentioned a Crawler sighting in the winter of eleven ninety-two.<ref name="ee-shadow-01-of-shadow-and-sea-c5">''Of Shadow and Sea'', chapter 5</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“Winter of eleven ninety-two. Crawler sighting.<ref name="ee-shadow-01-of-shadow-and-sea-c5" />}}

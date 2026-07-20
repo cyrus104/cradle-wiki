@@ -6,10 +6,14 @@
 }}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Archmage]] [[Kerathin]] is an [[Aethril]] woman with white hair and pale blue skin.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Kerathin]] is an [[Archmage]] who uses a staff.<ref name="lh-04-the-pilot-c43" />}}
-{{spoiler|book=lh-04-the-pilot|[[Kerathin]] uses a purple [[aura]].<ref name="lh-04-the-pilot-c43" />}}
-{{spoiler|book=lh-04-the-pilot|[[Kerathin]] is an [[Archmage]].<ref name="lh-04-the-pilot-c43" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Archmage]] [[Kerathin]] is an [[Aethril]] woman with white hair and pale blue skin.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Kerathin]] is an [[Archmage]] who uses a staff.<ref name="lh-04-the-pilot-c43" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Kerathin]] uses a purple [[aura]].<ref name="lh-04-the-pilot-c43" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Kerathin]] is an [[Archmage]].<ref name="lh-04-the-pilot-c43" />}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|She needed to stay close to her protector. But she found to her dismay that the wizard wasn’t as unflappable and confident as before. “What is that?” the Archmage asked in utter horror.<ref name="lh-04-the-pilot-c43" />}}

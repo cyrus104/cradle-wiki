@@ -4,9 +4,13 @@
 }}
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|The [[Spirit Manifestation pill]] is a rare and expensive elixir refined from valuable herbs and blood essences.<ref name="cradle-03-blackflame-c15">''Blackflame'', chapter 15</ref>}}
-{{spoiler|book=cradle-03-blackflame|The [[Spirit Manifestation pill]] is customized to the individual consuming it.<ref name="cradle-03-blackflame-c15" />}}
-{{spoiler|book=cradle-03-blackflame|The [[Spirit Manifestation pill]] can fill a user with enough [[sword madra]] to break the boundary to [[Highgold]].<ref name="cradle-03-blackflame-c15" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|The [[Spirit Manifestation pill]] is a rare and expensive elixir refined from valuable herbs and blood essences.<ref name="cradle-03-blackflame-c15">''Blackflame'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Spirit Manifestation pill]] is customized to the individual consuming it.<ref name="cradle-03-blackflame-c15" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Spirit Manifestation pill]] can fill a user with enough [[sword madra]] to break the boundary to [[Highgold]].<ref name="cradle-03-blackflame-c15" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

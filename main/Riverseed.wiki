@@ -9,20 +9,36 @@
 {{spoiler|book=cradle-12-waybound|[[Sylvan]] [[Riverseeds]] are natural spirits that emerge from environments containing a perfectly balanced and extremely potent [[vital aura]]. Unlike [[Remnants]], which result from the passing of a [[sacred artist]], [[Riverseeds]] are formed through the accumulation of [[aura]]. They are characterized by their gentle nature and high degree of flexibility, allowing them to work with almost any aspect of power to provide support or supplementation. Because they are so malleable, skilled artisans can transform them into various items, including weapons, guides, power sources, guardians, elixirs, or even luxury beverages. In their unintelligent state, they can be utilized in the process of [[Soulsmithing]]. Individually, these spirits possess significant spiritual weight and can manifest with distinct personalities, communicating through chimes or squeaks. They are capable of interacting directly with a person's madra channels, often providing soothing or restorative effects to the spirit.}}
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|When infused with [[soulfire]], a [[Riverseed]]'s color changes from bright blue-green to deep sapphire.<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}
-{{spoiler|book=cradle-03-blackflame|The [[Riverseed]] is another name for [[Little Blue]].<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}
-{{spoiler|book=cradle-03-blackflame|The [[Sylvan Riverseed]] can be used to cleanse [[Orthos]].<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Riverseed]] is a [[Sylvan]].<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|When infused with [[soulfire]], a [[Riverseed]]'s color changes from bright blue-green to deep sapphire.<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Riverseed]] is another name for [[Little Blue]].<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Sylvan Riverseed]] can be used to cleanse [[Orthos]].<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Riverseed]] is a [[Sylvan]].<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Orthos]] agreed with the [[Riverseed]].<ref name="cradle-09-bloodline-c13">''Bloodline'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|[[Orthos]] agreed with the [[Riverseed]].<ref name="cradle-09-bloodline-c13">''Bloodline'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Dross]] drifts over to the [[Riverseed]].<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}
-{{spoiler|book=cradle-11-dreadgod|[[Riverseed]] is a creature capable of squeaking.<ref name="cradle-11-dreadgod-c9">''Dreadgod'', chapter 9</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Dross]] drifts over to the [[Riverseed]].<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Riverseed]] is a creature capable of squeaking.<ref name="cradle-11-dreadgod-c9">''Dreadgod'', chapter 9</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The [[Remnant]] had been taught a lesson by the [[Riverseed]].<ref name="cradle-12-waybound-c13">''Waybound'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The [[Remnant]] had been taught a lesson by the [[Riverseed]].<ref name="cradle-12-waybound-c13">''Waybound'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-03-blackflame|“Can’t keep calling her the Riverseed. She’s got a face.”<ref name="cradle-03-blackflame-c14" />}}

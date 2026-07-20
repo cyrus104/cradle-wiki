@@ -9,18 +9,30 @@
 {{spoiler|book=tg-03-city-of-light|Overlords are powerful leaders who serve the throne of [[Damasca]] and act as administrators for various territories. They hold significant authority, commanding legions of soldiers, vast resources, and loyal supporters. Beyond their political roles, Overlords are often experienced [[Travelers]] themselves, possessing years of combat and magical expertise. They carry the heavy responsibility of keeping the [[Incarnations]] imprisoned within their cells, and their territories are heavily defended against any form of land or magical assault. Each Overlord is associated with a specific [[Tree]], which are interconnected through Ragnarus; nourishing one [[Tree]] provides sustenance to the others. Overlords also command [[Travelers]] from different regions, such as [[Naraka]], [[Avernus]], and [[Ornheim]], to assist in their governance and military operations. While some are known for being just or even protective of their subjects, they possess the legal power to arrest individuals and issue commands that must be obeyed. Their influence is widespread, ranging from managing local corners of [[Damasca]] to participating in high-level alliances with [[Grandmasters]].}}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|The Overlords might know the identity of the destructive force in [[Ragnarus the Crimson Vault]].<ref name="tg-01-house-of-blades-c10">''House of Blades'', chapter 10</ref>}}
-{{spoiler|book=tg-01-house-of-blades|Each Overlord has one of these [[Trees]].<ref name="tg-01-house-of-blades-c14">''House of Blades'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-01-house-of-blades|The Overlords might know the identity of the destructive force in [[Ragnarus the Crimson Vault]].<ref name="tg-01-house-of-blades-c10">''House of Blades'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|Each Overlord has one of these [[Trees]].<ref name="tg-01-house-of-blades-c14">''House of Blades'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|Overlords are charged with keeping the [[Incarnations]] sealed in their prisons.<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}
-{{spoiler|book=tg-02-crimson-vault|The [[Grandmasters]] intend to attack the Overlords.<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}
-{{spoiler|book=tg-02-crimson-vault|The Overlords have been building weapons against [[Alin]] for years.<ref name="tg-02-crimson-vault-c16">''The Crimson Vault'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|Overlords are charged with keeping the [[Incarnations]] sealed in their prisons.<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Grandmasters]] intend to attack the Overlords.<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The Overlords have been building weapons against [[Alin]] for years.<ref name="tg-02-crimson-vault-c16">''The Crimson Vault'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Zakareth]]'s Overlords are meant to govern in his name.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}
-{{spoiler|book=tg-03-city-of-light|Two Overlords were having a deep conversation in the corner.<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}
-{{spoiler|book=tg-03-city-of-light|The Overlords were kept in line by the royal family's ability to deal with the Hanging [[Trees]].<ref name="tg-03-city-of-light-c18">''City of Light'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Zakareth]]'s Overlords are meant to govern in his name.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|Two Overlords were having a deep conversation in the corner.<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The Overlords were kept in line by the royal family's ability to deal with the Hanging [[Trees]].<ref name="tg-03-city-of-light-c18">''City of Light'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|“As you know, the Overlords are charged with keeping the Incarnations sealed in their prisons.<ref name="tg-02-crimson-vault-c6" />}}

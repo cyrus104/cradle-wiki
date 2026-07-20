@@ -9,23 +9,39 @@
 {{spoiler|book=cradle-13-threshold|The term Irons refers to several distinct concepts within the world. Primarily, it identifies a rank or class of individuals, often appearing as combatants or reinforcements who utilize weapons such as spears. These individuals may possess varying levels of spiritual ability, with some lacking significant spiritual sense despite their combat roles. In certain training contexts, participants are restricted to the capabilities of an [[Iron]]. Additionally, Irons refers to various specialized physical enhancements known as [[Iron]] bodies. These physiological augmentations provide different benefits depending on their type: the Steelborn [[Iron body]] offers immense strength but requires constant fuel to prevent injury; the [[Moonheart Iron body]] was developed in a neighboring country and utilized by royalty to compensate for specific weaknesses; and the [[Silverscale Iron body]], commonly used by fishermen, provides resistance to spiritual attacks by fortifying natural control over the spirit. Finally, the term can relate to materials and objects, such as [[wintersteel]] ore or mechanical devices constructed from brass and [[steel]].}}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Irons]] are reinforcements that flooded in.<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Irons]] are reinforcements that flooded in.<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == Bloodline ==
 {{spoiler|book=cradle-09-bloodline|The Irons are a group of [[Wei clan]] members located at [[Mount Samara]]. While initially hiding within the branches of a tree, they are known to carry weapons and act as enemies to [[Lindon]] and [[Yerin]]. During the events at their location, [[Mercy]] managed to gather a force of over two hundred Irons.}}
 
-{{spoiler|book=cradle-09-bloodline|[[Irons]] were hiding in the branches of a tree.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}
-{{spoiler|book=cradle-09-bloodline|The [[Irons]] are members of the [[Wei clan]].<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}
-{{spoiler|book=cradle-09-bloodline|[[Irons]] are enemies of [[Lindon]] and [[Yerin]].<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}
-{{spoiler|book=cradle-09-bloodline|[[Irons]] carry weapons.<ref name="cradle-09-bloodline-c12" />}}
-{{spoiler|book=cradle-09-bloodline|The [[Irons]] are a group located at [[Mount Samara]].<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}
-{{spoiler|book=cradle-09-bloodline|[[Mercy]] gathered over two hundred [[Irons]].<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|[[Irons]] were hiding in the branches of a tree.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Irons]] are members of the [[Wei clan]].<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Irons]] are enemies of [[Lindon]] and [[Yerin]].<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Irons]] carry weapons.<ref name="cradle-09-bloodline-c12" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Irons]] are a group located at [[Mount Samara]].<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Mercy]] gathered over two hundred [[Irons]].<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Irons]] are individuals who carry spears.<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Irons]] are individuals who carry spears.<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}</li>
+</ul>
+</div></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|Trainees are restricted to using little more than [[Irons]] during combat practice.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|Trainees are restricted to using little more than [[Irons]] during combat practice.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

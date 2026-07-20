@@ -6,8 +6,12 @@
 }}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|The [[God’s Eye]] had replaced the sun.<ref name="lh-01-the-captain-c2">''The Captain'', chapter 2</ref>}}
-{{spoiler|book=lh-01-the-captain|The narrator was once strapped to a chair staring into [[God’s Eye]] during a ritual.<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|The [[God’s Eye]] had replaced the sun.<ref name="lh-01-the-captain-c2">''The Captain'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The narrator was once strapped to a chair staring into [[God’s Eye]] during a ritual.<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

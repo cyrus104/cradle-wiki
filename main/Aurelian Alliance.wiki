@@ -4,11 +4,19 @@
 }}
 
 == Of Kings and Killers ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Aurelian Alliance]] is a new government formed after the end of the [[Aurelian Empire]].<ref name="ee-sea-03-of-kings-and-killers-c26">''Of Kings and Killers'', chapter 26</ref>}}
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Aurelian Alliance]] is a loose agreement between regional governors and the [[Guilds]].<ref name="ee-sea-03-of-kings-and-killers-c26" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Aurelian Alliance]] is a new government formed after the end of the [[Aurelian Empire]].<ref name="ee-sea-03-of-kings-and-killers-c26">''Of Kings and Killers'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Aurelian Alliance]] is a loose agreement between regional governors and the [[Guilds]].<ref name="ee-sea-03-of-kings-and-killers-c26" />}}</li>
+</ul>
+</div></div>
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Aurelian Alliance]] is in its early days.<ref name="ee-shadow-03-of-killers-and-kings-c27">''Of Killers and Kings'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Aurelian Alliance]] is in its early days.<ref name="ee-shadow-03-of-killers-and-kings-c27">''Of Killers and Kings'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -6,7 +6,11 @@
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|[[Archmage-level detection spells]] can be used to find agents.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[Archmage-level detection spells]] can be used to find agents.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|"It also won’t find any agents that are shielded from Archmage-level detection spells, and there are mundane ways to hide from it."<ref name="lh-03-the-knight-c5" />}}

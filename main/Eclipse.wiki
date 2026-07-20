@@ -11,24 +11,44 @@
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|Eclipse is the [[Ancient Bow of the Soulseeker]], a weapon crafted from the remnant of a shadow [[dragon]] that attained Sagehood. Originally belonging to [[Mercy's mother]], the bow was carried through a journey spanning from [[Lowgold]] to [[Archlord]]. During her tenure, [[Mercy's mother]] utilized the weapon to seal the living volcano of Shara Kahn. This bow possesses the ability to forge arrows of jet-black color, and it is affectionately referred to as [[Suu]] by [[Mercy]].}}
 
-{{spoiler|book=cradle-05-ghostwater|[[Eclipse]] is the [[Ancient Bow of the Soulseeker]].<ref name="cradle-05-ghostwater-c14">''Ghostwater'', chapter 14</ref>}}
-{{spoiler|book=cradle-05-ghostwater|[[Eclipse]] is a bow that can forge jet-black arrows.<ref name="cradle-05-ghostwater-c14" />}}
-{{spoiler|book=cradle-05-ghostwater|[[Eclipse]] was the weapon of [[Mercy's mother]] from [[Lowgold]] to [[Archlord]].<ref name="cradle-05-ghostwater-c14" />}}
-{{spoiler|book=cradle-05-ghostwater|[[Eclipse]] was made from the [[Remnant]] of a shadow [[dragon]] who became a [[Sage]].<ref name="cradle-05-ghostwater-c14" />}}
-{{spoiler|book=cradle-05-ghostwater|[[Mercy's mother]] used [[Eclipse]] to seal the living volcano of Shara Kahn.<ref name="cradle-05-ghostwater-c14" />}}
-{{spoiler|book=cradle-05-ghostwater|[[Mercy]] calls the bow [[Suu]].<ref name="cradle-05-ghostwater-c14" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|[[Eclipse]] is the [[Ancient Bow of the Soulseeker]].<ref name="cradle-05-ghostwater-c14">''Ghostwater'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Eclipse]] is a bow that can forge jet-black arrows.<ref name="cradle-05-ghostwater-c14" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Eclipse]] was the weapon of [[Mercy's mother]] from [[Lowgold]] to [[Archlord]].<ref name="cradle-05-ghostwater-c14" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Eclipse]] was made from the [[Remnant]] of a shadow [[dragon]] who became a [[Sage]].<ref name="cradle-05-ghostwater-c14" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Mercy's mother]] used [[Eclipse]] to seal the living volcano of Shara Kahn.<ref name="cradle-05-ghostwater-c14" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Mercy]] calls the bow [[Suu]].<ref name="cradle-05-ghostwater-c14" />}}</li>
+</ul>
+</div></div>
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|[[Mercy]] uses [[Eclipse]] for support.<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Mercy]] uses [[Eclipse]] for support.<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Eclipse]] is a location with a [[dragon]]'s head at its center.<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Eclipse]] is a location with a [[dragon]]'s head at its center.<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|[[Mercy]] wields [[Eclipse]].<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|[[Mercy]] wields [[Eclipse]].<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Mercy]] holds onto [[Eclipse]] for support.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Mercy]] holds onto [[Eclipse]] for support.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -7,7 +7,11 @@
 }}
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|[[Naru Gwei and Naru Saeya]] possess powerful wind madra.<ref name="cradle-10-reaper-c5">''Reaper'', chapter 5</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|[[Naru Gwei and Naru Saeya]] possess powerful wind madra.<ref name="cradle-10-reaper-c5">''Reaper'', chapter 5</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

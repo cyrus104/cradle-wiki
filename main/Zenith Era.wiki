@@ -9,22 +9,38 @@
 {{spoiler|book=lh-04-the-pilot|The [[Zenith]] [[Era]] refers to a historical period characterized by the creation of advanced [[Aethertech]], primarily developed by human technicians. This era saw the emergence of seven powerful entities known as [[Zenith Devices]], which possess immense capabilities that far exceed modern technology. While much of the history from this time is unreliable or considered mythical, the era is defined by its superior craftsmanship in areas such as medical care, alloys, and magical enchantments. The [[Zenith Devices]] themselves are sentient, highly powerful, and often possess significant egos; they were originally designed to foster the growth of galactic civilization. However, their initial awakening as competitors is believed to have brought an end to the [[Zenith]] [[Era]] itself. Notable artifacts from this period include the [[Zenith]] Starship, known as [[The Last Horizon]], and the [[Zenith Colony]].}}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|The [[Zenith Era]] was a period of high magic.<ref name="lh-01-the-captain-c9">''The Captain'', chapter 9</ref>}}
-{{spoiler|book=lh-01-the-captain|[[Zenith Era]] is a period or type of sample used for signal comparison.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|The [[Zenith Era]] was a period of high magic.<ref name="lh-01-the-captain-c9">''The Captain'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Zenith Era]] is a period or type of sample used for signal comparison.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[Mell]] uses [[Zenith]]-era schematics to make her [[Nova-Bots]].<ref name="lh-02-the-engineer-c6">''The Engineer'', chapter 6</ref>}}
-{{spoiler|book=lh-02-the-engineer|Many [[Zenith Era]] colonies used lighting that relies on the [[Aether]] only during manufacturing.<ref name="lh-02-the-engineer-c17">''The Engineer'', chapter 17</ref>}}
-{{spoiler|book=lh-02-the-engineer|[[Shadow Ark]] is a piece of [[Zenith Era]] miracle technology.<ref name="lh-02-the-engineer-c45">''The Engineer'', chapter 45</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Mell]] uses [[Zenith]]-era schematics to make her [[Nova-Bots]].<ref name="lh-02-the-engineer-c6">''The Engineer'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Many [[Zenith Era]] colonies used lighting that relies on the [[Aether]] only during manufacturing.<ref name="lh-02-the-engineer-c17">''The Engineer'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Shadow Ark]] is a piece of [[Zenith Era]] miracle technology.<ref name="lh-02-the-engineer-c45">''The Engineer'', chapter 45</ref>}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|No more than two [[Zenith Devices]] have been activated at any one time since the [[Zenith Era]].<ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is described as the full armory of the [[Zenith Era]].<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Zenith Era]] produced the greatest magical wards.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|No more than two [[Zenith Devices]] have been activated at any one time since the [[Zenith Era]].<ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is described as the full armory of the [[Zenith Era]].<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Zenith Era]] produced the greatest magical wards.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|The [[Zenith Era]] was a time when all [[Zenith Devices]] were not awake.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}
-{{spoiler|book=lh-04-the-pilot|The [[Zenith Era]] was brought to an end by the might of the seven [[Zenith]] competitors.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Era]] was a time when all [[Zenith Devices]] were not awake.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Era]] was brought to an end by the might of the seven [[Zenith]] competitors.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

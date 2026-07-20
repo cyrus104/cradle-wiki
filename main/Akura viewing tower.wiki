@@ -6,10 +6,18 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|[[Lindon]] stood beneath the [[Akura viewing tower]] after a [[spatial transfer]].<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] stood beneath the [[Akura viewing tower]] after a [[spatial transfer]].<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|Someone broke through security at the back of the [[Akura viewing tower]].<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|Someone broke through security at the back of the [[Akura viewing tower]].<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

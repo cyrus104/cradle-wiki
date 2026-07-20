@@ -7,8 +7,12 @@
 }}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Kharrus]] is the [[Herald]] of the [[Nine-Hands]].<ref name="cradle-12-waybound-c17">''Waybound'', chapter 17</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Kharrus]] is quiet, even-tempered, and reliable.<ref name="cradle-12-waybound-c17" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Kharrus]] is the [[Herald]] of the [[Nine-Hands]].<ref name="cradle-12-waybound-c17">''Waybound'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Kharrus]] is quiet, even-tempered, and reliable.<ref name="cradle-12-waybound-c17" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

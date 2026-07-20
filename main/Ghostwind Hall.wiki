@@ -11,15 +11,19 @@
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|[[Ghostwind]] Hall is a location that [[Lindon]] recently completed working on and where he later materialized. The hall serves as a residence for [[Orthos]], who has spent months within its walls, and the sounds of his training can be heard from within. The facility features a cycling room used by [[Yerin]] for her practice and is accessible through a portal located inside a doorway. During one instance, the air within the hall boiled when an alarm sounded, and [[Mercy]] eventually strode back into the space where [[Yerin]] was present.}}
 
-{{spoiler|book=cradle-12-waybound|[[Ghostwind Hall]] is a location [[Lindon]] recently finished working on.<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Ghostwind Hall]] is a location where [[Lindon]] materialized.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Orthos]] has spent months inside [[Ghostwind Hall]].<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Ghostwind Hall]] contains a cycling room where [[Yerin]] practices.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Ghostwind Hall]] is a location where [[Orthos]]' training can be heard.<ref name="cradle-12-waybound-c12" />}}
-{{spoiler|book=cradle-12-waybound|[[Ghostwind Hall]] is a location where the air boiled when an alarm sounded.<ref name="cradle-12-waybound-c12" />}}
-{{spoiler|book=cradle-12-waybound|[[Ghostwind Hall]] is a location accessible via a portal inside a doorway.<ref name="cradle-12-waybound-c13">''Waybound'', chapter 13</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Mercy]] strode back into [[Ghostwind Hall]].<ref name="cradle-12-waybound-c26">''Waybound'', chapter 26</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Yerin]] was in [[Ghostwind Hall]].<ref name="cradle-12-waybound-c26" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|[[Ghostwind Hall]] is a location [[Lindon]] recently finished working on.<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Ghostwind Hall]] is a location where [[Lindon]] materialized.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Orthos]] has spent months inside [[Ghostwind Hall]].<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Ghostwind Hall]] contains a cycling room where [[Yerin]] practices.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Ghostwind Hall]] is a location where [[Orthos]]' training can be heard.<ref name="cradle-12-waybound-c12" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Ghostwind Hall]] is a location where the air boiled when an alarm sounded.<ref name="cradle-12-waybound-c12" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Ghostwind Hall]] is a location accessible via a portal inside a doorway.<ref name="cradle-12-waybound-c13">''Waybound'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Mercy]] strode back into [[Ghostwind Hall]].<ref name="cradle-12-waybound-c26">''Waybound'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Yerin]] was in [[Ghostwind Hall]].<ref name="cradle-12-waybound-c26" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

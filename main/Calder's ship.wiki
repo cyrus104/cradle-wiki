@@ -6,7 +6,11 @@
 }}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Calder]] has a ship in the water off the edge of the [[island]] used for firing cannons.<ref name="ee-shadow-01-of-shadow-and-sea-c25">''Of Shadow and Sea'', chapter 25</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Calder]] has a ship in the water off the edge of the [[island]] used for firing cannons.<ref name="ee-shadow-01-of-shadow-and-sea-c25">''Of Shadow and Sea'', chapter 25</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

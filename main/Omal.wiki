@@ -15,20 +15,28 @@
 {{spoiler|book=lh-04-the-pilot|Omal Escalon is an individual associated with the [[Escalon Company]], a mid-level interplanetary corporation. He has a history tied to [[Aila Escalon]] and is known for his familiarity with concrete environments, often spending time in a glass and [[steel]] palace. Omal possesses unique physical traits, including the ability to sprout extra limbs such as a third hand and the capacity to stretch his neck. He has expressed an interest in undergoing augmentations, even suggesting he would enjoy becoming a freak to match others. His presence on a planet has previously triggered security alerts and warnings from [[Solstice]]. Omal is also linked to the character [[Omega]], who is identified as the founder of Escalon and the pilot of [[The Last Horizon]].}}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|[[Omal]] is a character who picked up [[Lemon]].<ref name="lh-03-the-knight-c23">''The Knight'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[Omal]] is a character who picked up [[Lemon]].<ref name="lh-03-the-knight-c23">''The Knight'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Omal, the father of [[Aila Escalon]], is a gunslinger known by the moniker Mister Escalon. He possesses the unsettling ability to sprout multiple smiles and hands, and he is distinguished by an artificial eye that glows with orange light. During a test of [[The Last Horizon]] against [[Aila]] and [[Hallow Divide]], his capabilities were put to the proof. His eventual appearance on the edge of a [[VMC]] amidst wind and shadow was significant enough to prompt [[Lutoch Terelle]] to issue an emergency warning.}}
 
-{{spoiler|book=lh-04-the-pilot|[[Omal]] is [[Aila]]'s father.<ref name="lh-04-the-pilot-c13">''The Pilot'', chapter 13</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Omal]] is Mister Escalon.<ref name="lh-04-the-pilot-c17">''The Pilot'', chapter 17</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Omal]] has the ability to sprout multiple hands and smiles.<ref name="lh-04-the-pilot-c17" />}}
-{{spoiler|book=lh-04-the-pilot|[[Omal]] has an artificial eye that shines with orange light.<ref name="lh-04-the-pilot-c17" />}}
-{{spoiler|book=lh-04-the-pilot|[[Omal]] Escalon tests [[The Last Horizon]] against [[Aila Escalon]] and [[Hallow Divide]].<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Omal]] is a gunslinger.<ref name="lh-04-the-pilot-c33">''The Pilot'', chapter 33</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Omal]] Escalon is a person whose presence on the planet prompted [[Lutoch Terelle]] to issue an emergency warning.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}
-{{spoiler|book=lh-04-the-pilot|[[Omal]] Escalon appeared on the edge of a [[VMC]] with wind and shadow.<ref name="lh-04-the-pilot-c43" />}}
-{{spoiler|book=lh-04-the-pilot|[[Omal]] Escalon has an orange eye.<ref name="lh-04-the-pilot-c43" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-04-the-pilot|[[Omal]] is [[Aila]]'s father.<ref name="lh-04-the-pilot-c13">''The Pilot'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Omal]] is Mister Escalon.<ref name="lh-04-the-pilot-c17">''The Pilot'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Omal]] has the ability to sprout multiple hands and smiles.<ref name="lh-04-the-pilot-c17" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Omal]] has an artificial eye that shines with orange light.<ref name="lh-04-the-pilot-c17" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Omal]] Escalon tests [[The Last Horizon]] against [[Aila Escalon]] and [[Hallow Divide]].<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Omal]] is a gunslinger.<ref name="lh-04-the-pilot-c33">''The Pilot'', chapter 33</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Omal]] Escalon is a person whose presence on the planet prompted [[Lutoch Terelle]] to issue an emergency warning.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Omal]] Escalon appeared on the edge of a [[VMC]] with wind and shadow.<ref name="lh-04-the-pilot-c43" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Omal]] Escalon has an orange eye.<ref name="lh-04-the-pilot-c43" />}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“Mister Escalon, please, what do you want?<ref name="lh-04-the-pilot-c17" />}}

@@ -4,11 +4,19 @@
 }}
 
 == Unsouled ==
-{{spoiler|book=cradle-01-unsouled|The [[Golden Sword School]] is a school that may have craftsmen capable of making parasite rings.<ref name="cradle-01-unsouled-c4">''Unsouled'', chapter 4</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-01-unsouled|The [[Golden Sword School]] is a school that may have craftsmen capable of making parasite rings.<ref name="cradle-01-unsouled-c4">''Unsouled'', chapter 4</ref>}}</li>
+</ul>
+</div></div>
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|The [[Golden Sword School]] is a group [[Lindon]] needs to visit.<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}
-{{spoiler|book=cradle-09-bloodline|The [[Golden Sword School]] is located on the mountain to the west.<ref name="cradle-09-bloodline-c9" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|The [[Golden Sword School]] is a group [[Lindon]] needs to visit.<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Golden Sword School]] is located on the mountain to the west.<ref name="cradle-09-bloodline-c9" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

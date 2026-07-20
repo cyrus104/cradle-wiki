@@ -9,39 +9,67 @@
 {{spoiler|book=cradle-12-waybound|[[Gold]] [[dragons]] are a lineage of powerful beings characterized by their affinity for fire and [[water aura]]. Historically, they served as a subordinate family to the black [[dragons]], who once ruled the continent. While some [[dragon]] bloodlines prefer their natural serpentine forms, gold [[dragons]] possess a refined aesthetic sense and frequently adopt human appearances. This transformation is often preferred because [[madra]] flows more efficiently through a human body, and many golds choose to live in this form for centuries. Even when appearing human, they often retain draconic features such as golden eyes, scales on their cheeks or limbs, and tails. The strength of a gold [[dragon]] is categorized by levels of [[madra]] density, including [[Lowgold]], [[Highgold]], and [[Truegold]]. At lower levels, such as [[Highgold]], they may appear as large lizards that rely on physical weapons like claws, fangs, and tails rather than flame arts. As they advance to [[Truegold]], they become more humanoid and capable of using sophisticated techniques, including [[dragon]]'s breath—a powerful stream of liquid flame. Some gold [[dragons]] are also known to be highly intelligent, capable of speech and the use of various arts. Notable figures include [[Sopharanatoth]], a leader of a gold dragon team, and the [[Dragon Monarch]] [[Seshethkunaaz]].}}
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|[[Gold dragons]] eat meat of the quality found in [[Silverfang Carp]] from the moment they hatch.<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|[[Gold dragons]] eat meat of the quality found in [[Silverfang Carp]] from the moment they hatch.<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
+</ul>
+</div></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|The gold [[dragons]] are a notoriously cruel and vicious royal family that possesses a more human appearance than other dragonkind, featuring scales that imitate hair. Physically, they are characterized by serpentine bodies, four clawed limbs, shining eyes, and gleaming fangs, with the ability to spew bright orange liquid flame. During the tournament, this lineage engaged in various schemes, including bribing enemies and damaging a cloudship to weaken the [[Akura clan]]. While they have not claimed responsibility for the delay of the [[Blackflame team]], members of this line include [[Sopharanatoth]].}}
 
-{{spoiler|book=cradle-07-uncrowned|The gold [[dragons]] are a notoriously vicious and cruel royal family of [[dragons]].<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The gold [[dragon]] has a serpentine body, four clawed limbs, gleaming fangs, and shining eyes.<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The gold [[dragon]] can spew bright orange liquid flame.<ref name="cradle-07-uncrowned-c8" />}}
-{{spoiler|book=cradle-07-uncrowned|[[Gold dragons]] damaged the cloudship to weaken the [[Akura clan]] in the tournament.<ref name="cradle-07-uncrowned-c9">''Uncrowned'', chapter 9</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The gold [[dragons]] have not claimed responsibility for the [[Blackflame team]]'s delay.<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}
-{{spoiler|book=cradle-07-uncrowned|The gold [[dragons]] were responsible for bribing the enemies.<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}
-{{spoiler|book=cradle-07-uncrowned|[[Gold dragons]] look more human than other [[dragons]].<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}
-{{spoiler|book=cradle-07-uncrowned|[[Gold dragons]] have scales that imitate hair.<ref name="cradle-07-uncrowned-c14" />}}
-{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth]] belongs to the line of gold [[dragons]].<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|The gold [[dragons]] are a notoriously vicious and cruel royal family of [[dragons]].<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The gold [[dragon]] has a serpentine body, four clawed limbs, gleaming fangs, and shining eyes.<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The gold [[dragon]] can spew bright orange liquid flame.<ref name="cradle-07-uncrowned-c8" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Gold dragons]] damaged the cloudship to weaken the [[Akura clan]] in the tournament.<ref name="cradle-07-uncrowned-c9">''Uncrowned'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The gold [[dragons]] have not claimed responsibility for the [[Blackflame team]]'s delay.<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The gold [[dragons]] were responsible for bribing the enemies.<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Gold dragons]] look more human than other [[dragons]].<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Gold dragons]] have scales that imitate hair.<ref name="cradle-07-uncrowned-c14" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth]] belongs to the line of gold [[dragons]].<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Northstrider]] is an enemy of the gold [[dragons]].<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}
-{{spoiler|book=cradle-08-wintersteel|Sophara is of the gold [[dragons]].<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}
-{{spoiler|book=cradle-08-wintersteel|[[Fury]] has been campaigning against the gold [[dragons]] for hundreds of years.<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}
-{{spoiler|book=cradle-08-wintersteel|The black [[dragon]] was a critic of the gold [[dragons]]' rule.<ref name="cradle-08-wintersteel-c23">''Wintersteel'', chapter 23</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Northstrider]] is an enemy of the gold [[dragons]].<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Sophara is of the gold [[dragons]].<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Fury]] has been campaigning against the gold [[dragons]] for hundreds of years.<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The black [[dragon]] was a critic of the gold [[dragons]]' rule.<ref name="cradle-08-wintersteel-c23">''Wintersteel'', chapter 23</ref>}}</li>
+</ul>
+</div></div>
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Gold dragons]] are creatures that can be targeted by [[Akura Malice]]'s arrows.<ref name="cradle-09-bloodline-c14">''Bloodline'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|[[Gold dragons]] are creatures that can be targeted by [[Akura Malice]]'s arrows.<ref name="cradle-09-bloodline-c14">''Bloodline'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|The gold [[dragons]] once ruled half of the continent.<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|The gold [[dragons]] once ruled half of the continent.<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Gold dragons]] are described as tyrants who do not respect what they can do.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}
-{{spoiler|book=cradle-11-dreadgod|[[Gold dragons]] are considered tyrants because they ruled unopposed for too long.<ref name="cradle-11-dreadgod-c10" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Gold dragons]] are described as tyrants who do not respect what they can do.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Gold dragons]] are considered tyrants because they ruled unopposed for too long.<ref name="cradle-11-dreadgod-c10" />}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The gold [[dragons]] pumped [[Sopharanatoth]] to the point of critical instability in her spirit.<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The gold [[dragons]] pumped [[Sopharanatoth]] to the point of critical instability in her spirit.<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|“Kenvata Nasuma Juvari of the Silent Servants, chosen of Reigan Shen, you face Sophara of the gold dragons, chosen of the Dragon King!”<ref name="cradle-08-wintersteel-c6" />}}

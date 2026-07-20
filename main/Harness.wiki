@@ -9,13 +9,17 @@
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Harness is a wilderness where every inhabitant is a monster and the people do not practice the [[sacred arts]]. This location serves as a repository for [[Abidan]] files regarding security measures and is a place where legends spread from [[Sarcoline City]] to various other walled cities. During a past conflict, the entire world of Harness pushed back against [[Dross]], yet it remains an iteration that may be unable to withstand threats exceeding its local monsters. Consequently, characters are currently working to ensure the [[fate]] of this iteration is not derailed.}}
 
-{{spoiler|book=cradle-13-threshold|People in [[Harness]] do not practice the [[sacred arts]].<ref name="cradle-13-threshold-c11">''Threshold: Stories from Cradle'', chapter 11</ref>}}
-{{spoiler|book=cradle-13-threshold|[[Harness]] is a location containing [[Abidan]] files on security measures.<ref name="cradle-13-threshold-c11" />}}
-{{spoiler|book=cradle-13-threshold|[[Harness]] is a wilderness where everything is a monster.<ref name="cradle-13-threshold-c11" />}}
-{{spoiler|book=cradle-13-threshold|[[Harness]] is a location or entity that may be unable to handle threats beyond the current world's monsters.<ref name="cradle-13-threshold-c11" />}}
-{{spoiler|book=cradle-13-threshold|[[Harness]] is an event or iteration whose [[fate]] the characters are attempting not to derail.<ref name="cradle-13-threshold-c11" />}}
-{{spoiler|book=cradle-13-threshold|The entire world of [[Harness]] pushed back against [[Dross]].<ref name="cradle-13-threshold-c11" />}}
-{{spoiler|book=cradle-13-threshold|[[Harness]] is a place where legends spread from [[Sarcoline City]] to other walled cities.<ref name="cradle-13-threshold-c11" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|People in [[Harness]] do not practice the [[sacred arts]].<ref name="cradle-13-threshold-c11">''Threshold: Stories from Cradle'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Harness]] is a location containing [[Abidan]] files on security measures.<ref name="cradle-13-threshold-c11" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Harness]] is a wilderness where everything is a monster.<ref name="cradle-13-threshold-c11" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Harness]] is a location or entity that may be unable to handle threats beyond the current world's monsters.<ref name="cradle-13-threshold-c11" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Harness]] is an event or iteration whose [[fate]] the characters are attempting not to derail.<ref name="cradle-13-threshold-c11" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The entire world of [[Harness]] pushed back against [[Dross]].<ref name="cradle-13-threshold-c11" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Harness]] is a place where legends spread from [[Sarcoline City]] to other walled cities.<ref name="cradle-13-threshold-c11" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

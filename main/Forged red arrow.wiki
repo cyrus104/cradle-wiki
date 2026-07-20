@@ -6,10 +6,18 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Forged]] red arrows are used by [[Emissaries]].<ref name="cradle-11-dreadgod-c14">''Dreadgod'', chapter 14</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Forged]] red arrows are used by [[Emissaries]].<ref name="cradle-11-dreadgod-c14">''Dreadgod'', chapter 14</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The [[Forged]] arrow is an illusionary volley that can be difficult to catch with the eye or spiritual sense.<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The [[Forged]] arrow is an illusionary volley that can be difficult to catch with the eye or spiritual sense.<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

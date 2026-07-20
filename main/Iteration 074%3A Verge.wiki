@@ -6,10 +6,18 @@
 }}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Iteration]] 074 is named [[Verge]].<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Iteration]] 074 is named [[Verge]].<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The current location/iteration is [[Iteration 074: Verge]].<ref name="cradle-12-waybound-c38">''Waybound'', chapter 38</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The current location/iteration is [[Iteration 074: Verge]].<ref name="cradle-12-waybound-c38">''Waybound'', chapter 38</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

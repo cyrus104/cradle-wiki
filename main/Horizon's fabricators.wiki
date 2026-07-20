@@ -6,7 +6,11 @@
 }}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[Horizon]] has upgraded fabricators.<ref name="lh-02-the-engineer-c39">''The Engineer'', chapter 39</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-02-the-engineer|[[Horizon]] has upgraded fabricators.<ref name="lh-02-the-engineer-c39">''The Engineer'', chapter 39</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|“You were vital to our preparations, and Horizon’s upgraded fabricators were all that allowed us to stand our ground, but you served virtually no use in this fight.<ref name="lh-02-the-engineer-c39" />}}

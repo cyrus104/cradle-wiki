@@ -6,7 +6,11 @@
 }}
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|The second step to [[Underlord]] is weaving [[soulfire]] from [[aura]].<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|The second step to [[Underlord]] is weaving [[soulfire]] from [[aura]].<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-06-underlord|“Second, you must weave soulfire from aura.<ref name="cradle-06-underlord-c5" />}}

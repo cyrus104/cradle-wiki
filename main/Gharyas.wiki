@@ -5,9 +5,13 @@
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|[[Gharyas]] is the [[Perfected Shadow]].<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}
-{{spoiler|book=lh-03-the-knight|[[Gharyas]]'s hallmarks are material sabotage and inciting fanaticism.<ref name="lh-03-the-knight-c5" />}}
-{{spoiler|book=lh-03-the-knight|[[Gharyas]] is conducting an operation.<ref name="lh-03-the-knight-c29">''The Knight'', chapter 29</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[Gharyas]] is the [[Perfected Shadow]].<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Gharyas]]'s hallmarks are material sabotage and inciting fanaticism.<ref name="lh-03-the-knight-c5" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Gharyas]] is conducting an operation.<ref name="lh-03-the-knight-c29">''The Knight'', chapter 29</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|"Your opponent is Gharyas, the Perfected Shadow."<ref name="lh-03-the-knight-c5" />}}

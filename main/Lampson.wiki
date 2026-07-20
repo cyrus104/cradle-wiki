@@ -7,8 +7,12 @@
 }}
 
 == Of Dawn and Darkness ==
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Lampson]] is an alchemist who deals primarily in organ processing and storage.<ref name="ee-sea-02-of-dawn-and-darkness-c17">''Of Dawn and Darkness'', chapter 17</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Lampson]] has pure black hair.<ref name="ee-sea-02-of-dawn-and-darkness-c17" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Lampson]] is an alchemist who deals primarily in organ processing and storage.<ref name="ee-sea-02-of-dawn-and-darkness-c17">''Of Dawn and Darkness'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Lampson]] has pure black hair.<ref name="ee-sea-02-of-dawn-and-darkness-c17" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

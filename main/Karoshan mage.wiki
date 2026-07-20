@@ -7,10 +7,18 @@
 }}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|In a previous [[life]], the narrator was crushed alive by a [[Karoshan mage]].<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-01-the-captain|In a previous [[life]], the narrator was crushed alive by a [[Karoshan mage]].<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
+</ul>
+</div></div>
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|A [[Karoshan mage]] is present in the class, wearing a purple mantle.<ref name="lh-03-the-knight-c24">''The Knight'', chapter 24</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|A [[Karoshan mage]] is present in the class, wearing a purple mantle.<ref name="lh-03-the-knight-c24">''The Knight'', chapter 24</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

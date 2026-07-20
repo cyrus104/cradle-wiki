@@ -6,7 +6,11 @@
 }}
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|The characters are presented with a golden flame instruction to '[[Defeat the Army]]'.<ref name="cradle-07-uncrowned-c11">''Uncrowned'', chapter 11</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|The characters are presented with a golden flame instruction to '[[Defeat the Army]]'.<ref name="cradle-07-uncrowned-c11">''Uncrowned'', chapter 11</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-07-uncrowned|In the air before Lindon, characters appeared in golden flame: “Defeat the Army.”<ref name="cradle-07-uncrowned-c11" />}}

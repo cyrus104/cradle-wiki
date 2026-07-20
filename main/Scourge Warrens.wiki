@@ -6,8 +6,12 @@
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|[[Scourge Warrens]] are underground factories used by the [[Iron Legion]] to infest planets.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}
-{{spoiler|book=lh-03-the-knight|The [[Scourge Warrens]] killed thousands of people across a continent in a half hour.<ref name="lh-03-the-knight-c15">''The Knight'', chapter 15</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=lh-03-the-knight|[[Scourge Warrens]] are underground factories used by the [[Iron Legion]] to infest planets.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Scourge Warrens]] killed thousands of people across a continent in a half hour.<ref name="lh-03-the-knight-c15">''The Knight'', chapter 15</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

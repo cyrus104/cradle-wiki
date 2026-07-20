@@ -13,13 +13,21 @@
 {{spoiler|book=cradle-12-waybound|Del'rek of the [[Shann]] is a powerful individual who has joined the [[Eight]]-Man [[Empire]]. A sacred elephant appearing in human form, Del'rek is notably tall and possesses tusks. This entity is a highly skilled combatant; one master described a duel with Del'rek as an exceptionally intense experience that provided more value than a decade of solitary training. In combat, Del'rek utilizes a spear and demonstrates significant strength, capable of causing space to tremble with a single thrust. Additionally, Del'rek has been involved in retrieving weapons and navigating spatial distortions.}}
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|[[Del'rek]] is of the [[Shann]].<ref name="cradle-06-underlord-c12">''Underlord'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|[[Del'rek]] is of the [[Shann]].<ref name="cradle-06-underlord-c12">''Underlord'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|Del’rek of the [[Shann]] is a sacred elephant in human form.<ref name="cradle-12-waybound-c15">''Waybound'', chapter 15</ref>}}
-{{spoiler|book=cradle-12-waybound|Del’rek can lend restoration authority.<ref name="cradle-12-waybound-c17">''Waybound'', chapter 17</ref>}}
-{{spoiler|book=cradle-12-waybound|Del’rek of the [[Shann]] is a man taller than [[Lindon]] who has tusks and resembles a sacred elephant in human form.<ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref>}}
-{{spoiler|book=cradle-12-waybound|Del’rek is a character who observes something in the distance.<ref name="cradle-12-waybound-c33" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|Del’rek of the [[Shann]] is a sacred elephant in human form.<ref name="cradle-12-waybound-c15">''Waybound'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Del’rek can lend restoration authority.<ref name="cradle-12-waybound-c17">''Waybound'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Del’rek of the [[Shann]] is a man taller than [[Lindon]] who has tusks and resembles a sacred elephant in human form.<ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Del’rek is a character who observes something in the distance.<ref name="cradle-12-waybound-c33" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

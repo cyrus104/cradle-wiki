@@ -7,9 +7,13 @@
 }}
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Elder of Urg’naut]] is a being that can mold itself into a vaguely human shape with an eye in the center of its head.<ref name="ee-shadow-03-of-killers-and-kings-c23">''Of Killers and Kings'', chapter 23</ref>}}
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Elders]] of [[Urg’naut]] watched the [[Knight-Adjunct]].<ref name="ee-shadow-03-of-killers-and-kings-c23" />}}
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Elders]] of [[Urg’naut]] collapsed and melted into darkness during the event.<ref name="ee-shadow-03-of-killers-and-kings-c23" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Elder of Urg’naut]] is a being that can mold itself into a vaguely human shape with an eye in the center of its head.<ref name="ee-shadow-03-of-killers-and-kings-c23">''Of Killers and Kings'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Elders]] of [[Urg’naut]] watched the [[Knight-Adjunct]].<ref name="ee-shadow-03-of-killers-and-kings-c23" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Elders]] of [[Urg’naut]] collapsed and melted into darkness during the event.<ref name="ee-shadow-03-of-killers-and-kings-c23" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

@@ -4,11 +4,19 @@
 }}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|The [[Green District]] contains [[emerald]] titans and shield-backed turtles.<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Green District]] contains [[emerald]] titans and shield-backed turtles.<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
+</ul>
+</div></div>
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Enosh]]'s [[Green District]] is a location where white marble has grown in batches.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}
-{{spoiler|book=tg-03-city-of-light|There is plenty of food in the [[Green District]].<ref name="tg-03-city-of-light-c9">''City of Light'', chapter 9</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-03-city-of-light|[[Enosh]]'s [[Green District]] is a location where white marble has grown in batches.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|There is plenty of food in the [[Green District]].<ref name="tg-03-city-of-light-c9">''City of Light'', chapter 9</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

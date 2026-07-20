@@ -6,7 +6,11 @@
 }}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder's bag]] is an invested tool that can unravel after being hit.<ref name="ee-sea-01-of-sea-and-shadow-c21">''Of Sea and Shadow'', chapter 21</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder's bag]] is an invested tool that can unravel after being hit.<ref name="ee-sea-01-of-sea-and-shadow-c21">''Of Sea and Shadow'', chapter 21</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

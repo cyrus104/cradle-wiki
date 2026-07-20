@@ -4,10 +4,14 @@
 }}
 
 == Of Dawn and Darkness ==
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Emperor's quarters]] are located near a courtyard.<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Emperor's quarters]] is a location where people are instructed to gather.<ref name="ee-sea-02-of-dawn-and-darkness-c8" />}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Emperor's quarters]] contain a full bathroom with functional plumbing.<ref name="ee-sea-02-of-dawn-and-darkness-c10">''Of Dawn and Darkness'', chapter 10</ref>}}
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Emperor's quarters]] has been uninhabited for years.<ref name="ee-sea-02-of-dawn-and-darkness-c16">''Of Dawn and Darkness'', chapter 16</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Emperor's quarters]] are located near a courtyard.<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Emperor's quarters]] is a location where people are instructed to gather.<ref name="ee-sea-02-of-dawn-and-darkness-c8" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Emperor's quarters]] contain a full bathroom with functional plumbing.<ref name="ee-sea-02-of-dawn-and-darkness-c10">''Of Dawn and Darkness'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Emperor's quarters]] has been uninhabited for years.<ref name="ee-sea-02-of-dawn-and-darkness-c16">''Of Dawn and Darkness'', chapter 16</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

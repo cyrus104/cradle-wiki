@@ -4,9 +4,13 @@
 }}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|[[Lysander Torannus]] has a flock of [[Sarin tribe sparrows]].<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Sarin]] sparrows are from [[Avernus]] and can cause mental pain with their cries.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}
-{{spoiler|book=tg-02-crimson-vault|[[Sarin]] sparrows have blade-sharp beaks and talons.<ref name="tg-02-crimson-vault-c20" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Lysander Torannus]] has a flock of [[Sarin tribe sparrows]].<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Sarin]] sparrows are from [[Avernus]] and can cause mental pain with their cries.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Sarin]] sparrows have blade-sharp beaks and talons.<ref name="tg-02-crimson-vault-c20" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

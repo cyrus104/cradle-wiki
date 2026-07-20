@@ -6,8 +6,12 @@
 }}
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|The [[Ghosts]] are concerned about the tangled threads in the [[Iteration]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}
-{{spoiler|book=cradle-13-threshold|A committee of [[Ghosts]] determines [[Iteration]] names.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|The [[Ghosts]] are concerned about the tangled threads in the [[Iteration]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|A committee of [[Ghosts]] determines [[Iteration]] names.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-13-threshold|“Iteration names are determined by a committee of Ghosts, not by whoever makes the world.”<ref name="cradle-13-threshold-c12" />}}

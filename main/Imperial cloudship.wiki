@@ -6,8 +6,12 @@
 }}
 
 == Underlord ==
-{{spoiler|book=cradle-06-underlord|The [[Imperial cloudship]] is a hundred paces long and forty wide with three levels.<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}
-{{spoiler|book=cradle-06-underlord|The [[Imperial cloudship]] features five scripted tubes on its back that function as propulsion.<ref name="cradle-06-underlord-c17" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|The [[Imperial cloudship]] is a hundred paces long and forty wide with three levels.<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|The [[Imperial cloudship]] features five scripted tubes on its back that function as propulsion.<ref name="cradle-06-underlord-c17" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

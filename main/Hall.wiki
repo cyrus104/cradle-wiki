@@ -13,11 +13,15 @@
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|[[Hallister Halloway]], commonly referred to by the nickname Hall, is a young [[Abidan]] known as [[the Ghost]]. He is a young [[Ghost]] who materializes from a shadow. In his role as a leader, he is recognized for having failed his disciples.}}
 
-{{spoiler|book=cradle-13-threshold|[[Hall]] is a nickname for [[Hallister Halloway]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}
-{{spoiler|book=cradle-13-threshold|[[Hall]] is a young [[Ghost]] who materializes from a shadow.<ref name="cradle-13-threshold-c4" />}}
-{{spoiler|book=cradle-13-threshold|[[Hall]] is known as [[the Ghost]].<ref name="cradle-13-threshold-c4" />}}
-{{spoiler|book=cradle-13-threshold|[[Hall]] is a young [[Abidan]].<ref name="cradle-13-threshold-c4" />}}
-{{spoiler|book=cradle-13-threshold|[[Hall]] is a leader who failed his disciples.<ref name="cradle-13-threshold-c4" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-13-threshold|[[Hall]] is a nickname for [[Hallister Halloway]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Hall]] is a young [[Ghost]] who materializes from a shadow.<ref name="cradle-13-threshold-c4" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Hall]] is known as [[the Ghost]].<ref name="cradle-13-threshold-c4" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Hall]] is a young [[Abidan]].<ref name="cradle-13-threshold-c4" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Hall]] is a leader who failed his disciples.<ref name="cradle-13-threshold-c4" />}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

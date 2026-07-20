@@ -16,15 +16,19 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur Belfry serves as an [[Imperial]] Witness and a Chronicler tasked with reading and recording the history of the Empire. In his role as a tutor, he provided lectures and various teachings to [[Calder]] [[Marten]] while possessing a copy of [[Sadesthenes’ From Rising Sun to Setting Moon]]. Though he is a person known to Alsa, his duties also include writing confidential reports for the [[Blackwatch]].}}
 
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry]] is an [[Imperial]] Witness.<ref name="ee-sea-01-of-sea-and-shadow-c6">''Of Sea and Shadow'', chapter 6</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry]] is the Chronicler who Reads and records [[Imperial]] history.<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur is a tutor.<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur is a Chronicler.<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur holds a copy of [[Sadesthenes’ From Rising Sun to Setting Moon]].<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur provided teachings to [[Calder]] [[Marten]].<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur lectured [[Calder]].<ref name="ee-sea-01-of-sea-and-shadow-c8" />}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur is a person known to Alsa.<ref name="ee-sea-01-of-sea-and-shadow-c19">''Of Sea and Shadow'', chapter 19</ref>}}
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry]] is an [[Imperial]] Witness who wrote a confidential report for the [[Blackwatch]].<ref name="ee-sea-01-of-sea-and-shadow-c24">''Of Sea and Shadow'', chapter 24</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry]] is an [[Imperial]] Witness.<ref name="ee-sea-01-of-sea-and-shadow-c6">''Of Sea and Shadow'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry]] is the Chronicler who Reads and records [[Imperial]] history.<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur is a tutor.<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur is a Chronicler.<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur holds a copy of [[Sadesthenes’ From Rising Sun to Setting Moon]].<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur provided teachings to [[Calder]] [[Marten]].<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur lectured [[Calder]].<ref name="ee-sea-01-of-sea-and-shadow-c8" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur is a person known to Alsa.<ref name="ee-sea-01-of-sea-and-shadow-c19">''Of Sea and Shadow'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry]] is an [[Imperial]] Witness who wrote a confidential report for the [[Blackwatch]].<ref name="ee-sea-01-of-sea-and-shadow-c24">''Of Sea and Shadow'', chapter 24</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“So, children, let’s get to know one another. You are both familiar with the works of Sadesthenes, yes?”<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}

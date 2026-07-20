@@ -6,10 +6,18 @@
 }}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|[[Death aura]] is a type of [[aura]] that [[Jai Daishou]] has learned to see.<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|[[Death aura]] is a type of [[aura]] that [[Jai Daishou]] has learned to see.<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|The tunnel crawled with death [[aura]].<ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|The tunnel crawled with death [[aura]].<ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Notes ==
 <references />

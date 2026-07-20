@@ -9,22 +9,38 @@
 {{spoiler|book=cradle-12-waybound|[[Sector]] [[Eleven]] is a collection of worlds, known as iterations, that holds significant strategic importance to the [[Abidan]]. The sector includes several notable worlds, such as [[Asylum]], [[Amalgam]], and [[Cradle]] ([[Iteration 110]]). [[Fathom]] serves as the central lynchpin for the entire sector; it possesses a massive population and maintains the most stable connection to the [[Way]], which in turn helps stabilize the other iterations within [[Sector]] [[Eleven]]. Because of this stability, [[Fathom]] is considered a vital target that must be destroyed before the rest of the sector can fall. During a period of intense conflict, [[the Mad King]] sought to isolate and destroy [[Sector]] [[Eleven]]. He utilized various methods to seal off the sector, including placing barriers and obstacles within the [[Way]] to prevent help from arriving. The [[Vroshir]] targeted the sector by surrounding it, aiming to dismantle its strategic assets. While some important worlds like [[Cradle]] are typically protected and quarantined by the [[Abidan]] during system collapses, [[Sector]] [[Eleven]] faced extreme instability and isolation due to [[the Mad King]]'s efforts to cement its destruction.}}
 
 == Unsouled ==
-{{spoiler|book=cradle-01-unsouled|[[Sector Eleven]] contains [[Iteration]] one-one-zero.<ref name="cradle-01-unsouled-c20">''Unsouled'', chapter 20</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-01-unsouled|[[Sector Eleven]] contains [[Iteration]] one-one-zero.<ref name="cradle-01-unsouled-c20">''Unsouled'', chapter 20</ref>}}</li>
+</ul>
+</div></div>
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|The [[Vroshir]] would need to penetrate [[Sector Eleven]].<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-09-bloodline|The [[Vroshir]] would need to penetrate [[Sector Eleven]].<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|[[Sector]] [[Eleven]] is a vast region containing various [[Iterations]], including the worlds of [[Cradle]] and [[Asylum]]. [[The Mad King]] seeks to isolate this sector, which is currently being targeted by the [[Vroshir]]. Within this territory, [[Fathom]] serves as the essential lynchpin.}}
 
-{{spoiler|book=cradle-10-reaper|[[Sector]] 11 is a location being targeted by the [[Vroshir]].<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}
-{{spoiler|book=cradle-10-reaper|[[The Mad King]] intends to isolate [[Sector Eleven]].<ref name="cradle-10-reaper-c3" />}}
-{{spoiler|book=cradle-10-reaper|[[Sector]] 11 includes the worlds of [[Cradle]] and [[Asylum]].<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}
-{{spoiler|book=cradle-10-reaper|[[Sector]] 11 is a location containing various [[Iterations]].<ref name="cradle-10-reaper-c15" />}}
-{{spoiler|book=cradle-10-reaper|[[Fathom]] is the lynchpin of [[Sector Eleven]].<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|[[Sector]] 11 is a location being targeted by the [[Vroshir]].<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[The Mad King]] intends to isolate [[Sector Eleven]].<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Sector]] 11 includes the worlds of [[Cradle]] and [[Asylum]].<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Sector]] 11 is a location containing various [[Iterations]].<ref name="cradle-10-reaper-c15" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Fathom]] is the lynchpin of [[Sector Eleven]].<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The connection to [[Sector Eleven]] is unstable.<ref name="cradle-12-waybound-c31">''Waybound'', chapter 31</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|The connection to [[Sector Eleven]] is unstable.<ref name="cradle-12-waybound-c31">''Waybound'', chapter 31</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-12-waybound|“Our connection to Sector Eleven is so unstable I’m surprised even you made it through.”<ref name="cradle-12-waybound-c31" />}}

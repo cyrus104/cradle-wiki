@@ -11,125 +11,169 @@
 == Unsouled ==
 {{spoiler|book=cradle-01-unsouled|[[Remnants]] are substances or items that [[Soulsmiths]] can mold, consisting of [[pure madra]] constructions freed from their physical forms. These entities are created when a powerful [[sacred artist]] dies, leaving behind their soul as a living force that can develop consciousness and hunger for human [[madra]]. While they possess only narrow, fragmented memories of their former lives, these shadow-like beings can advance in power over time. Different forms exist, such as a purple, skeletal tree-Remnant or an ogre-shaped outline made of [[Mountain's Heart]] power. In combat, a [[sword]]-aspect Remnant provides great strength despite being weak in pursuit, and some highly powerful entities composed of [[Forged madra]] have even been known to break free from ancient seals.}}
 
-{{spoiler|book=cradle-01-unsouled|[[Remnants]] are substances or items that can be molded by [[Soulsmiths]].<ref name="cradle-01-unsouled-c1">''Unsouled'', chapter 1</ref>}}
-{{spoiler|book=cradle-01-unsouled|[[Remnants]] are constructions of [[pure madra]] freed from their physical bodies.<ref name="cradle-01-unsouled-c2">''Unsouled'', chapter 2</ref>}}
-{{spoiler|book=cradle-01-unsouled|When a [[sacred artist]] of enough power dies, they leave their soul behind as a living force known as a [[Remnant]].<ref name="cradle-01-unsouled-c2" />}}
-{{spoiler|book=cradle-01-unsouled|The tree-[[Remnant]] is a purple, skeletal construction of [[madra]] shaped like a leafless tree.<ref name="cradle-01-unsouled-c2" />}}
-{{spoiler|book=cradle-01-unsouled|[[Remnants]] hunger for pure human [[madra]] and can develop consciousness if they consume it.<ref name="cradle-01-unsouled-c2" />}}
-{{spoiler|book=cradle-01-unsouled|The fruit shines with the bright color of a [[Remnant]].<ref name="cradle-01-unsouled-c2" />}}
-{{spoiler|book=cradle-01-unsouled|Breaking a sacred tree can release a [[Remnant]].<ref name="cradle-01-unsouled-c3">''Unsouled'', chapter 3</ref>}}
-{{spoiler|book=cradle-01-unsouled|[[Remnants]] can advance over time like humans and [[sacred beasts]].<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}
-{{spoiler|book=cradle-01-unsouled|[[Remnants]] have only fragments of their memories from [[life]] and are narrow in scope.<ref name="cradle-01-unsouled-c16" />}}
-{{spoiler|book=cradle-01-unsouled|[[Remnants]] are described as shadows.<ref name="cradle-01-unsouled-c16" />}}
-{{spoiler|book=cradle-01-unsouled|A [[Remnant]] can be made of [[Mountain's Heart]] power and appear like an outline of an ogre painted in dirt.<ref name="cradle-01-unsouled-c17">''Unsouled'', chapter 17</ref>}}
-{{spoiler|book=cradle-01-unsouled|Taking in a [[Remnant]] is the difference between [[Jade]] and [[Gold]].<ref name="cradle-01-unsouled-c17" />}}
-{{spoiler|book=cradle-01-unsouled|A [[Remnant]] of the [[sword]] aspect is powerful in combat but weak in pursuit.<ref name="cradle-01-unsouled-c18">''Unsouled'', chapter 18</ref>}}
-{{spoiler|book=cradle-01-unsouled|A [[Remnant]] of an expert beyond [[Gold]] was thought to be sealed in the ancient tomb but had cut through its restraints.<ref name="cradle-01-unsouled-c19">''Unsouled'', chapter 19</ref>}}
-{{spoiler|book=cradle-01-unsouled|The [[Remnant]] is composed of [[Forged madra]].<ref name="cradle-01-unsouled-c19" />}}
-{{spoiler|book=cradle-01-unsouled|The [[Remnant]] leaks silvery motes of [[essence]] during battle.<ref name="cradle-01-unsouled-c19" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">16</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-01-unsouled|[[Remnants]] are substances or items that can be molded by [[Soulsmiths]].<ref name="cradle-01-unsouled-c1">''Unsouled'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Remnants]] are constructions of [[pure madra]] freed from their physical bodies.<ref name="cradle-01-unsouled-c2">''Unsouled'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|When a [[sacred artist]] of enough power dies, they leave their soul behind as a living force known as a [[Remnant]].<ref name="cradle-01-unsouled-c2" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The tree-[[Remnant]] is a purple, skeletal construction of [[madra]] shaped like a leafless tree.<ref name="cradle-01-unsouled-c2" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Remnants]] hunger for pure human [[madra]] and can develop consciousness if they consume it.<ref name="cradle-01-unsouled-c2" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The fruit shines with the bright color of a [[Remnant]].<ref name="cradle-01-unsouled-c2" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|Breaking a sacred tree can release a [[Remnant]].<ref name="cradle-01-unsouled-c3">''Unsouled'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Remnants]] can advance over time like humans and [[sacred beasts]].<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Remnants]] have only fragments of their memories from [[life]] and are narrow in scope.<ref name="cradle-01-unsouled-c16" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Remnants]] are described as shadows.<ref name="cradle-01-unsouled-c16" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|A [[Remnant]] can be made of [[Mountain's Heart]] power and appear like an outline of an ogre painted in dirt.<ref name="cradle-01-unsouled-c17">''Unsouled'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|Taking in a [[Remnant]] is the difference between [[Jade]] and [[Gold]].<ref name="cradle-01-unsouled-c17" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|A [[Remnant]] of the [[sword]] aspect is powerful in combat but weak in pursuit.<ref name="cradle-01-unsouled-c18">''Unsouled'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|A [[Remnant]] of an expert beyond [[Gold]] was thought to be sealed in the ancient tomb but had cut through its restraints.<ref name="cradle-01-unsouled-c19">''Unsouled'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[Remnant]] is composed of [[Forged madra]].<ref name="cradle-01-unsouled-c19" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[Remnant]] leaks silvery motes of [[essence]] during battle.<ref name="cradle-01-unsouled-c19" />}}</li>
+</ul>
+</div></div>
 
 == Soulsmith ==
 {{spoiler|book=cradle-02-soulsmith|[[Remnants]] are creatures or objects found within the Wilds that tend to gather in areas where [[vital aura]] is thick. Appearing as lines of color painted onto the world, these entities are often disoriented upon birth and can even emerge from walls or peel themselves out of a person's body. They gain intelligence and power by consuming human [[madra]], though they can be restricted by script circles or have their strength devoured by the [[Jai spear]]. While some [[sacred artists]] like [[Kral]] possess tiny [[Remnants]] on their bodies, others such as [[Yerin]] carry theirs wrapped around their waists like a belt, flickering with [[blood madra]]. These tricky parts of [[sacred beasts]] can be dissected into functional components, and a master may even leave behind a Remnant of powerful [[madra]]. Ultimately, a [[sacred artist]] must take on the power of a Remnant to advance from the [[Jade stage]] to [[Gold]], at which point the entity can be held within a core.}}
 
-{{spoiler|book=cradle-02-soulsmith|A [[Remnant]] can be held in a core at the [[Gold stage]].<ref name="cradle-02-soulsmith-c2">''Soulsmith'', chapter 2</ref>}}
-{{spoiler|book=cradle-02-soulsmith|[[Yerin's Remnant]] is wrapped around her waist like a belt.<ref name="cradle-02-soulsmith-c3">''Soulsmith'', chapter 3</ref>}}
-{{spoiler|book=cradle-02-soulsmith|The [[Remnant]] flickers with [[blood madra]].<ref name="cradle-02-soulsmith-c3" />}}
-{{spoiler|book=cradle-02-soulsmith|[[Remnants]] are often disoriented when they are born.<ref name="cradle-02-soulsmith-c3" />}}
-{{spoiler|book=cradle-02-soulsmith|[[Remnants]] look as though they have been painted onto the world in lines of color.<ref name="cradle-02-soulsmith-c3" />}}
-{{spoiler|book=cradle-02-soulsmith|[[Remnants]] are creatures encountered by [[Lindon]] and [[Yerin]].<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}
-{{spoiler|book=cradle-02-soulsmith|[[Remnants]] are creatures or objects found in the Wilds.<ref name="cradle-02-soulsmith-c6">''Soulsmith'', chapter 6</ref>}}
-{{spoiler|book=cradle-02-soulsmith|The [[Jai spear]] devours the strength of [[Remnants]].<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}
-{{spoiler|book=cradle-02-soulsmith|To advance from [[Jade]] to [[Gold]], a [[sacred artist]] must take on the power of a [[Remnant]].<ref name="cradle-02-soulsmith-c7" />}}
-{{spoiler|book=cradle-02-soulsmith|A [[Remnant]] can be dissected into its functional components.<ref name="cradle-02-soulsmith-c10">''Soulsmith'', chapter 10</ref>}}
-{{spoiler|book=cradle-02-soulsmith|A [[Remnant]]'s corpse can be seen as unusual in a camp of [[sacred artists]].<ref name="cradle-02-soulsmith-c10" />}}
-{{spoiler|book=cradle-02-soulsmith|A [[Remnant]] can peel itself out of a person's body.<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}
-{{spoiler|book=cradle-02-soulsmith|[[Remnants]] gain power and intelligence by consuming human [[madra]].<ref name="cradle-02-soulsmith-c13">''Soulsmith'', chapter 13</ref>}}
-{{spoiler|book=cradle-02-soulsmith|[[Kral]] has a tiny [[Remnant]] on his arm.<ref name="cradle-02-soulsmith-c13" />}}
-{{spoiler|book=cradle-02-soulsmith|A master can leave behind a [[Remnant]] of powerful [[madra]].<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}
-{{spoiler|book=cradle-02-soulsmith|[[Remnants]] are parts of [[sacred beasts]] that can be tricky to handle.<ref name="cradle-02-soulsmith-c15" />}}
-{{spoiler|book=cradle-02-soulsmith|[[Remnants]] attack [[Lindon]] regularly.<ref name="cradle-02-soulsmith-c16">''Soulsmith'', chapter 16</ref>}}
-{{spoiler|book=cradle-02-soulsmith|[[Remnants]] can be restricted by script circles.<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}
-{{spoiler|book=cradle-02-soulsmith|[[Remnants]] are creatures that gather where [[vital aura]] is thick.<ref name="cradle-02-soulsmith-c17" />}}
-{{spoiler|book=cradle-02-soulsmith|[[Remnants]] can emerge from walls.<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">20</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-02-soulsmith|A [[Remnant]] can be held in a core at the [[Gold stage]].<ref name="cradle-02-soulsmith-c2">''Soulsmith'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Yerin's Remnant]] is wrapped around her waist like a belt.<ref name="cradle-02-soulsmith-c3">''Soulsmith'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Remnant]] flickers with [[blood madra]].<ref name="cradle-02-soulsmith-c3" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Remnants]] are often disoriented when they are born.<ref name="cradle-02-soulsmith-c3" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Remnants]] look as though they have been painted onto the world in lines of color.<ref name="cradle-02-soulsmith-c3" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Remnants]] are creatures encountered by [[Lindon]] and [[Yerin]].<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Remnants]] are creatures or objects found in the Wilds.<ref name="cradle-02-soulsmith-c6">''Soulsmith'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Jai spear]] devours the strength of [[Remnants]].<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|To advance from [[Jade]] to [[Gold]], a [[sacred artist]] must take on the power of a [[Remnant]].<ref name="cradle-02-soulsmith-c7" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|A [[Remnant]] can be dissected into its functional components.<ref name="cradle-02-soulsmith-c10">''Soulsmith'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|A [[Remnant]]'s corpse can be seen as unusual in a camp of [[sacred artists]].<ref name="cradle-02-soulsmith-c10" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|A [[Remnant]] can peel itself out of a person's body.<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Remnants]] gain power and intelligence by consuming human [[madra]].<ref name="cradle-02-soulsmith-c13">''Soulsmith'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Kral]] has a tiny [[Remnant]] on his arm.<ref name="cradle-02-soulsmith-c13" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|A master can leave behind a [[Remnant]] of powerful [[madra]].<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Remnants]] are parts of [[sacred beasts]] that can be tricky to handle.<ref name="cradle-02-soulsmith-c15" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Remnants]] attack [[Lindon]] regularly.<ref name="cradle-02-soulsmith-c16">''Soulsmith'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Remnants]] can be restricted by script circles.<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Remnants]] are creatures that gather where [[vital aura]] is thick.<ref name="cradle-02-soulsmith-c17" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Remnants]] can emerge from walls.<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}</li>
+</ul>
+</div></div>
 
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|A Remnant is a body composed of solid [[madra]] that lacks muscle, appearing instead as a collection of brush-strokes or a constellation of bright light points forming joints, eyes, and a heart. These entities represent a stage of progression higher than an [[Iron]], possessing [[madra]] that [[dreadbeasts]] can consume and which can be broken down to provide excess energy or digested for skills. During an encounter, a tall, sunken Remnant with long limbs and a fish-like face attacked [[Lindon]] using purple madra that adhered to his ankle like silk. While powerful individuals can swat them away like flies, a strong enough suction force in the core can contain one. Some [[Remnants]], such as the one with sapphire eyes found in [[Lindon]]'s pack, possess the power to cleanse and restore [[madra]], and they may even leave techniques or powers behind for a successor.}}
 
-{{spoiler|book=cradle-03-blackflame|A [[Remnant]] is a body without muscle to cut through.<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Remnants]] contain [[madra]] that [[dreadbeasts]] can eat.<ref name="cradle-03-blackflame-c1" />}}
-{{spoiler|book=cradle-03-blackflame|[[Remnants]] look like a collection of brush-strokes.<ref name="cradle-03-blackflame-c1" />}}
-{{spoiler|book=cradle-03-blackflame|[[Remnants]] can be dissected using specialized tools.<ref name="cradle-03-blackflame-c1" />}}
-{{spoiler|book=cradle-03-blackflame|A [[Remnant]] attacked [[Lindon]] with purple madra that stuck to his ankle like spider's silk.<ref name="cradle-03-blackflame-c1" />}}
-{{spoiler|book=cradle-03-blackflame|The [[Remnant]] that attacked [[Lindon]] was tall and sunken with long limbs and a fish-like face.<ref name="cradle-03-blackflame-c1" />}}
-{{spoiler|book=cradle-03-blackflame|A [[Remnant]] can be swatted like a fly by someone powerful enough.<ref name="cradle-03-blackflame-c1" />}}
-{{spoiler|book=cradle-03-blackflame|[[Jai Long]] has a [[Remnant]] in his core that is blending with his own [[madra]].<ref name="cradle-03-blackflame-c2">''Blackflame'', chapter 2</ref>}}
-{{spoiler|book=cradle-03-blackflame|A [[Remnant]] can leave behind techniques or powers to a successor.<ref name="cradle-03-blackflame-c4">''Blackflame'', chapter 4</ref>}}
-{{spoiler|book=cradle-03-blackflame|The [[Remnant]] looked like a constellation of bright light points forming joints, hands, eyes, and a heart.<ref name="cradle-03-blackflame-c4" />}}
-{{spoiler|book=cradle-03-blackflame|The [[Remnant]]'s roar sounded like a bonfire.<ref name="cradle-03-blackflame-c4" />}}
-{{spoiler|book=cradle-03-blackflame|A [[Remnant]] is a stage of progression higher than an [[Iron]].<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}
-{{spoiler|book=cradle-03-blackflame|[[Remnants]] are made of solid [[madra]].<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}
-{{spoiler|book=cradle-03-blackflame|A strong enough suction force in the core can contain a [[Remnant]].<ref name="cradle-03-blackflame-c6" />}}
-{{spoiler|book=cradle-03-blackflame|A [[Remnant]] can be broken down for power by digesting its skills and [[madra]].<ref name="cradle-03-blackflame-c7">''Blackflame'', chapter 7</ref>}}
-{{spoiler|book=cradle-03-blackflame|A [[Remnant]] can provide excess energy.<ref name="cradle-03-blackflame-c7" />}}
-{{spoiler|book=cradle-03-blackflame|[[Yerin]] has a death-grip on her [[Remnant]].<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}
-{{spoiler|book=cradle-03-blackflame|The [[Remnant]] in [[Lindon]]'s pack has sapphire eyes.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}
-{{spoiler|book=cradle-03-blackflame|The [[Remnant]]'s power can cleanse and restore [[madra]].<ref name="cradle-03-blackflame-c21" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">19</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-03-blackflame|A [[Remnant]] is a body without muscle to cut through.<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Remnants]] contain [[madra]] that [[dreadbeasts]] can eat.<ref name="cradle-03-blackflame-c1" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Remnants]] look like a collection of brush-strokes.<ref name="cradle-03-blackflame-c1" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Remnants]] can be dissected using specialized tools.<ref name="cradle-03-blackflame-c1" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A [[Remnant]] attacked [[Lindon]] with purple madra that stuck to his ankle like spider's silk.<ref name="cradle-03-blackflame-c1" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Remnant]] that attacked [[Lindon]] was tall and sunken with long limbs and a fish-like face.<ref name="cradle-03-blackflame-c1" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A [[Remnant]] can be swatted like a fly by someone powerful enough.<ref name="cradle-03-blackflame-c1" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Jai Long]] has a [[Remnant]] in his core that is blending with his own [[madra]].<ref name="cradle-03-blackflame-c2">''Blackflame'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A [[Remnant]] can leave behind techniques or powers to a successor.<ref name="cradle-03-blackflame-c4">''Blackflame'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Remnant]] looked like a constellation of bright light points forming joints, hands, eyes, and a heart.<ref name="cradle-03-blackflame-c4" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Remnant]]'s roar sounded like a bonfire.<ref name="cradle-03-blackflame-c4" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A [[Remnant]] is a stage of progression higher than an [[Iron]].<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Remnants]] are made of solid [[madra]].<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A strong enough suction force in the core can contain a [[Remnant]].<ref name="cradle-03-blackflame-c6" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A [[Remnant]] can be broken down for power by digesting its skills and [[madra]].<ref name="cradle-03-blackflame-c7">''Blackflame'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A [[Remnant]] can provide excess energy.<ref name="cradle-03-blackflame-c7" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Yerin]] has a death-grip on her [[Remnant]].<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Remnant]] in [[Lindon]]'s pack has sapphire eyes.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Remnant]]'s power can cleanse and restore [[madra]].<ref name="cradle-03-blackflame-c21" />}}</li>
+</ul>
+</div></div>
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|[[Remnant]] limbs can retain their own [[life]] and will.<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}
-{{spoiler|book=cradle-04-skysworn|The arm is a [[Remnant]]'s arm.<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-04-skysworn|[[Remnant]] limbs can retain their own [[life]] and will.<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The arm is a [[Remnant]]'s arm.<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}</li>
+</ul>
+</div></div>
 
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|A Remnant is a prosthetic limb composed of light. During an explosion, a Remnant made of black clouds launched itself forward. These entities can rise from a body in the form of a silver-blue light that resembles a wire model of the original creature. In one instance, a Remnant was observed attempting to rise from a new body.}}
 
-{{spoiler|book=cradle-05-ghostwater|A [[Remnant]] is a prosthetic limb made of light.<ref name="cradle-05-ghostwater-c1">''Ghostwater'', chapter 1</ref>}}
-{{spoiler|book=cradle-05-ghostwater|A [[Remnant]] of black clouds launched itself forward after an explosion.<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}
-{{spoiler|book=cradle-05-ghostwater|A [[Remnant]] can rise from a body as a silver-blue light.<ref name="cradle-05-ghostwater-c8">''Ghostwater'', chapter 8</ref>}}
-{{spoiler|book=cradle-05-ghostwater|A [[Remnant]] looks like a wire model of the original creature.<ref name="cradle-05-ghostwater-c8" />}}
-{{spoiler|book=cradle-05-ghostwater|A [[Remnant]] was attempting to rise from a new body.<ref name="cradle-05-ghostwater-c8" />}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-05-ghostwater|A [[Remnant]] is a prosthetic limb made of light.<ref name="cradle-05-ghostwater-c1">''Ghostwater'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|A [[Remnant]] of black clouds launched itself forward after an explosion.<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|A [[Remnant]] can rise from a body as a silver-blue light.<ref name="cradle-05-ghostwater-c8">''Ghostwater'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|A [[Remnant]] looks like a wire model of the original creature.<ref name="cradle-05-ghostwater-c8" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|A [[Remnant]] was attempting to rise from a new body.<ref name="cradle-05-ghostwater-c8" />}}</li>
+</ul>
+</div></div>
 
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|[[Remnants]] manifest in diverse and surreal forms, such as a large silver and purple book featuring a single eye that appeared behind the [[Sage]]. Some entities take on animalistic shapes, including a corpse resembling a rainbow-colored donkey that bleeds multicolored [[essence]]. Other instances involve the provision of [[essence]] by a dying Remnant within an underground chamber or the appearance of a hulking, armored giant with metallic flesh and a smooth boulder for a face. Additionally, parts of these beings can be integrated into others, as seen when [[Lindon]] possesses a white Remnant limb.}}
 
-{{spoiler|book=cradle-06-underlord|An apparition behind the [[Sage]] appeared like a [[Remnant]], manifesting as a large silver and purple book with a [[Remnant]] eye.<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}
-{{spoiler|book=cradle-06-underlord|A dying [[Remnant]] provides [[essence]] in an underground chamber.<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}
-{{spoiler|book=cradle-06-underlord|A [[Remnant]]'s corpse can look like a donkey fashioned of rainbows and bleed multicolored [[essence]].<ref name="cradle-06-underlord-c14">''Underlord'', chapter 14</ref>}}
-{{spoiler|book=cradle-06-underlord|[[Lindon]] has a white [[Remnant]] limb.<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}
-{{spoiler|book=cradle-06-underlord|A [[Remnant]] appeared as a hulking figure like an armored giant with a smooth boulder for a face and metallic [[madra]] flesh.<ref name="cradle-06-underlord-c20">''Underlord'', chapter 20</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-06-underlord|An apparition behind the [[Sage]] appeared like a [[Remnant]], manifesting as a large silver and purple book with a [[Remnant]] eye.<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|A dying [[Remnant]] provides [[essence]] in an underground chamber.<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|A [[Remnant]]'s corpse can look like a donkey fashioned of rainbows and bleed multicolored [[essence]].<ref name="cradle-06-underlord-c14">''Underlord'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Lindon]] has a white [[Remnant]] limb.<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|A [[Remnant]] appeared as a hulking figure like an armored giant with a smooth boulder for a face and metallic [[madra]] flesh.<ref name="cradle-06-underlord-c20">''Underlord'', chapter 20</ref>}}</li>
+</ul>
+</div></div>
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|[[Remnant]] pieces do not always combine as expected.<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}
-{{spoiler|book=cradle-07-uncrowned|[[Remnants]] are used in the [[Everwood continent]].<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Remnant]] pieces do not always combine as expected.<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Remnants]] are used in the [[Everwood continent]].<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|A Remnant is a [[construct]] or entity that can be forged using [[madra]]. These entities can be assembled from remnants of force, earth, or [[sword madra]] to create objects such as training dummies. A Remnant can also rise from a corpse, inheriting the thoughts of the person from whom it emerged. While powerful, an [[Overlord]]'s Remnant can be destroyed through the application of spiritual damage.}}
 
-{{spoiler|book=cradle-08-wintersteel|The training dummy is assembled from [[Remnants]] of [[sword]], earth, or [[force madra]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}
-{{spoiler|book=cradle-08-wintersteel|A [[Remnant]] can rise from a person's body and inherit their thoughts.<ref name="cradle-08-wintersteel-c1" />}}
-{{spoiler|book=cradle-08-wintersteel|A [[Remnant]] is a [[construct]] or entity that can be forged from [[madra]].<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}
-{{spoiler|book=cradle-08-wintersteel|A [[Remnant]] can rise from a corpse.<ref name="cradle-08-wintersteel-c3" />}}
-{{spoiler|book=cradle-08-wintersteel|An [[Overlord]]'s [[Remnant]] can be destroyed by spiritual damage.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-08-wintersteel|The training dummy is assembled from [[Remnants]] of [[sword]], earth, or [[force madra]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|A [[Remnant]] can rise from a person's body and inherit their thoughts.<ref name="cradle-08-wintersteel-c1" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|A [[Remnant]] is a [[construct]] or entity that can be forged from [[madra]].<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|A [[Remnant]] can rise from a corpse.<ref name="cradle-08-wintersteel-c3" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|An [[Overlord]]'s [[Remnant]] can be destroyed by spiritual damage.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
+</ul>
+</div></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|Sacred artists can take [[Remnants]] into their spirit.<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}
-{{spoiler|book=cradle-10-reaper|Beings stronger than Archlords do not often leave [[Remnants]] when they die.<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-10-reaper|Sacred artists can take [[Remnants]] into their spirit.<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Beings stronger than Archlords do not often leave [[Remnants]] when they die.<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
+</ul>
+</div></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|The [[Archlady]] restored her [[Remnant]] after being struck.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}
-{{spoiler|book=cradle-11-dreadgod|The [[Remnant]] [[Lindon]] strengthened for [[Kelsa]] gave her denser and better balanced [[madra]].<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}
-{{spoiler|book=cradle-11-dreadgod|[[Remnants]] are notoriously unreliable.<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Archlady]] restored her [[Remnant]] after being struck.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Remnant]] [[Lindon]] strengthened for [[Kelsa]] gave her denser and better balanced [[madra]].<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Remnants]] are notoriously unreliable.<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
+</ul>
+</div></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|Appearing as a mute, nightmare-like skeleton within [[Yerin]]'s classroom, this Remnant serves as a leash for her. As echoes of people from their former lives, these beings consume pieces of themselves to function. After the death of [[Malice]], the entity rose amidst a dim purple light and beamed encouragement at [[Mercy]] to prevent her from giving up. Though it once existed as a lion, the Remnant has transitioned into a man-like form and possesses the capability to be integrated into a person's body.}}
 
-{{spoiler|book=cradle-12-waybound|A [[Remnant]] can act as a leash for [[Yerin]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}
-{{spoiler|book=cradle-12-waybound|The [[Remnant]] is a mute nightmare skeleton in [[Yerin]]'s classroom.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Remnants]] are echoes of people from their lives.<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}
-{{spoiler|book=cradle-12-waybound|[[Remnants]] use up pieces of themselves as they work.<ref name="cradle-12-waybound-c18" />}}
-{{spoiler|book=cradle-12-waybound|A [[Remnant]] beamed at [[Mercy]] and encouraged her not to give up.<ref name="cradle-12-waybound-c26">''Waybound'', chapter 26</ref>}}
-{{spoiler|book=cradle-12-waybound|A dim purple light was the [[Remnant]] rising after [[Malice]]'s death.<ref name="cradle-12-waybound-c28">''Waybound'', chapter 28</ref>}}
-{{spoiler|book=cradle-12-waybound|A [[Remnant]] can be integrated into a person's body.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}
-{{spoiler|book=cradle-12-waybound|The [[Remnant]] is a being that once was a lion but now looks like a man.<ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref>}}
+<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
+<ul class="wv-fact-list">
+<li>{{spoiler|book=cradle-12-waybound|A [[Remnant]] can act as a leash for [[Yerin]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Remnant]] is a mute nightmare skeleton in [[Yerin]]'s classroom.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Remnants]] are echoes of people from their lives.<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Remnants]] use up pieces of themselves as they work.<ref name="cradle-12-waybound-c18" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|A [[Remnant]] beamed at [[Mercy]] and encouraged her not to give up.<ref name="cradle-12-waybound-c26">''Waybound'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|A dim purple light was the [[Remnant]] rising after [[Malice]]'s death.<ref name="cradle-12-waybound-c28">''Waybound'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|A [[Remnant]] can be integrated into a person's body.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Remnant]] is a being that once was a lion but now looks like a man.<ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref>}}</li>
+</ul>
+</div></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-02-soulsmith|“Good,” Kral said, and the tiny Remnant on his arm bit down.<ref name="cradle-02-soulsmith-c13" />}}
