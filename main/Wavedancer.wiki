@@ -11,8 +11,8 @@
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|Wavedancer is a flying double-edged blade featuring runes stylized to resemble crashing waves. The weapon possesses a graceful [[Archlord]] spirit that remains without any [[binding]]. During combat, [[Lindon]] utilizes the [[sword]] to block incoming attacks, effectively using it as a shield. In one instance, [[Dross]] even moves the flying blade to intercept a punch.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Wavedancer]] is a double-edged blade with runes stylized to look like crashing waves.<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Wavedancer]]'s [[Archlord]] spirit is graceful and it has no [[binding]].<ref name="cradle-07-uncrowned-c16" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Dross]] moves the flying [[Wavedancer]] to block a punch.<ref name="cradle-07-uncrowned-c16" />}}</li>
@@ -20,52 +20,46 @@
 <li>{{spoiler|book=cradle-07-uncrowned|[[Wavedancer]] is [[Lindon]]'s [[flying sword]].<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] uses [[Wavedancer]] to block attacks.<ref name="cradle-07-uncrowned-c20">''Uncrowned'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Wavedancer]] is a [[sword]] that can act as a shield.<ref name="cradle-07-uncrowned-c20" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Wavedancer]] is a [[flying sword]] crafted from the blues and greens of wind and waves.<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Wavedancer]] is an [[Archlord]] [[flying sword]].<ref name="cradle-08-wintersteel-c10" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Wavedancer]] is a [[flying sword]].<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Wavedancer]] is used to carve a [[binding]] like a smooth pearl.<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Wavedancer]] follows [[Lindon]] but is sluggish in the current [[aura]].<ref name="cradle-09-bloodline-c18" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] summoned [[Wavedancer]].<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|Originally won by [[Lindon]] as a prize during the [[Uncrowned King]] tournament, Wavedancer is an entity or artifact characterized by storm [[madra]] and crackling blue-and-gold power. During combat, it is capable of unleashing the breath of a golden [[dragon]] and creating eight distinct clones. The entity also demonstrated its offensive capabilities by spearing into the [[Titan]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Wavedancer]] speared into the [[Titan]].<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Wavedancer]] was [[Lindon]]'s prize from the [[Uncrowned King]] tournament.<ref name="cradle-12-waybound-c30" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Wavedancer]] holds crackling blue-and-gold power and storm [[madra]].<ref name="cradle-12-waybound-c30" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Wavedancer]] can create eight clones.<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Wavedancer]] is an entity or artifact that unleashes a golden [[dragon]]'s breath.<ref name="cradle-12-waybound-c38">''Waybound'', chapter 38</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Wavedancer]] appeared over [[Lindon]]'s head as a [[flying sword]].<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

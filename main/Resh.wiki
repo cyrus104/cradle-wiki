@@ -5,13 +5,12 @@
 }}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|[[Resh]] is a member of the [[Sandvipers]].<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Resh]] reluctantly met [[Yerin]]'s eyes.<ref name="cradle-02-soulsmith-c5" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Resh]] is a member of the [[Sandviper sect]] who was defeated by a [[Copper]].<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

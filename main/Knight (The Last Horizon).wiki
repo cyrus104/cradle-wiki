@@ -11,29 +11,26 @@
 {{spoiler|book=lh-04-the-pilot|The Knight is a specialized role within the starship known as [[The Last Horizon]], responsible for managing both internal and external security. This position encompasses the oversight of various shield systems and specific inner security protocols. The role is uniquely designed for individuals possessing a heroic temperament, specifically those willing to sacrifice themselves for their companions. A Knight serves as a conduit through which a master of [[Combat Arts]] can channel their abilities, providing the ship with a potent Aetheric pattern and significant energy to bolster its armor and shields. Furthermore, the Knight's influence enhances the vessel's close-range weaponry, such as point-defense turrets and plasma cutters. [[Raion Raithe]] is identified as a [[Knight of The Last Horizon]].}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Red]] Knight is the hotheaded leader of the [[Blue Knight]]'s order.<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The narrator has a Knight to check on.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The Knight channels power through short-range weapons.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The narrator has a Knight they must stop from doing something stupid.<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|It is the Knight's job to defend their crew with their [[life]].<ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The ship has a Knight onboard.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The Knight is a character who wrenched limbs away from the [[Divine Titan]]'s controls.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

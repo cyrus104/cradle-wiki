@@ -4,26 +4,23 @@
 }}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|A [[Forged spear]] was used to kill a bear-sized beast.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|A [[Forged spear]] can be used in combat.<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Akura Grace]] was pinned by a [[Forged spear]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Eithan]] struck with a [[Forged spear]].<ref name="cradle-10-reaper-c16">''Reaper'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -4,13 +4,12 @@
 }}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] and [[Yerin]] could have traveled from the [[Akura guest tower]].<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The cloudship dock is located outside the [[Akura guest tower]].<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Akura guest tower]] contains training facilities.<ref name="cradle-08-wintersteel-c21">''Wintersteel'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

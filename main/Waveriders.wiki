@@ -11,8 +11,8 @@
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Waveriders are [[Kameira]] of the sea that possess the natural ability to command the motion of water. These mountable entities are associated with the [[Mason]] and utilize docks for their travel. While a Waverider can be found waiting at a dock, [[Shera]] has imagined a hidden bay filled with these creatures.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Waveriders]] are [[Kameira]] of the sea that can command the motion of water.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Waveriders]] are mounts used by the [[Am’haranai]] that have natural powers over water.<ref name="ee-shadow-01-of-shadow-and-sea-c4" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Waverider is a creature waiting at the dock.<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref>}}</li>
@@ -20,16 +20,14 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Waverider is associated with the [[Mason]].<ref name="ee-shadow-01-of-shadow-and-sea-c8" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Shera]] imagines a hidden bay filled with [[Waveriders]].<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Waveriders]] travel by docks.<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Waverider is a method of transport back to the [[Capital]].<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Lucan]] and [[Shera]] could snare [[Waveriders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c4">''Of Darkness and Dawn'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

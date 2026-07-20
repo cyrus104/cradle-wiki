@@ -11,55 +11,49 @@
 == Soulsmith ==
 {{spoiler|book=cradle-02-soulsmith|Constructed by masters from an age beyond memory, the Transcendent [[Ruins]] serve as a dark and deadly [[labyrinth]] left behind by ancient powerhouses. The site draws [[vital aura]] from hundreds of miles around its location and currently hosts the encampment for the [[Five Factions Alliance]]. Near its entrance, the structure features at least four floors. Ultimately, a party led by [[Jai Long]] successfully reached the summit of the ruins.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Transcendent Ruins]] were built by masters ancient beyond memory.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Transcendent Ruins]] is the location of the [[Five Factions Alliance]] encampment.<ref name="cradle-02-soulsmith-c6">''Soulsmith'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Transcendent Ruins]] draws [[vital aura]] from hundreds of miles around.<ref name="cradle-02-soulsmith-c6" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Transcendent Ruins]] has at least four floors near its entrance.<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Transcendent Ruins]] are a dark and deadly [[labyrinth]] left by ancient powerhouses.<ref name="cradle-02-soulsmith-c8">''Soulsmith'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Jai Long]] is a leader of a party that reached the summit of the [[Transcendent Ruins]].<ref name="cradle-02-soulsmith-c19">''Soulsmith'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Soulsmith foundry]] is located at the top of the [[Transcendent Ruins]].<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|People came to the [[Transcendent Ruins]] to pull profit from danger.<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Transcendent Ruins]] is a location.<ref name="cradle-03-blackflame-c6" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] and [[Yerin]] encountered the [[Transcendent Ruins]].<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Lindon]] was previously sealed in the [[Transcendent Ruins]].<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Transcendent Ruins]] is a location [[Lindon]] visited a year ago.<ref name="cradle-04-skysworn-c4">''Skysworn'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|Two of the [[dream tablets]] were taken from the [[Transcendent Ruins]].<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The emergence of the [[Transcendent Ruins]] led to a temporary alliance of five factions.<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Transcendent Ruins]] are located in the [[Desolate Wilds]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

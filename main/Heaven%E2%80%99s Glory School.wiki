@@ -11,8 +11,8 @@
 == Unsouled ==
 {{spoiler|book=cradle-01-unsouled|Located on [[Mount Samara]], the Heaven’s Glory School is a riverstone-sculpted institution that uses [[Samara]]’s ring to gather [[light aura]]. The school maintains a hierarchy of elders and lesser initiates, rarely accepting students below the [[Iron stage]] and forbidding disciples from killing one another. While members are permitted to compete for everything, the elders prioritize strength and only intervene if a disciple dies. Disciples typically wear white and gold uniforms with red sashes and iron badges, though the school has recently suffered the abduction of four members by an outsider seeking their [[sacred arts]]. During [[Lindon]]'s attempt to trick his way into the school, he encountered an elder in combat and dealt with a faction that had previously taken [[Yerin's master]]'s body, [[sword]], and [[Remnant]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">16</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">16</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|The [[Heaven’s Glory School]] is a school that some refiners have gone on pilgrimage to.<ref name="cradle-01-unsouled-c4">''Unsouled'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Heaven’s Glory School]] has lost four disciples to abduction by an outsider seeking their [[sacred arts]].<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Heaven's Glory]] School is represented by a boy wrapped in white and gold.<ref name="cradle-01-unsouled-c9">''Unsouled'', chapter 9</ref>}}</li>
@@ -29,61 +29,54 @@
 <li>{{spoiler|book=cradle-01-unsouled|The [[Heaven's Glory]] School is a school that [[Lindon]] has been tricking his way into.<ref name="cradle-01-unsouled-c16" />}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Heaven's Glory]] School took [[Yerin's master]]'s body, [[sword]], and [[Remnant]].<ref name="cradle-01-unsouled-c17">''Unsouled'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Heaven's Glory]] School has an elder that [[Lindon]] fought.<ref name="cradle-01-unsouled-c17" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Heaven’s Glory School]] is a school from which [[Lindon]] stole a [[parasite ring]].<ref name="cradle-02-soulsmith-c2">''Soulsmith'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Yerin]] once stood against the entire [[Heaven's Glory]] School.<ref name="cradle-02-soulsmith-c8">''Soulsmith'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Yerin]] engaged in battle with the [[Heaven’s Glory School]].<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Jades]] of the [[Heaven's Glory]] School did something to [[Yerin's master]].<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|The [[Heaven's Glory]] School has treasures.<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Heaven's Glory]] School sent a sacred beast to hunt [[Kelsa]].<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Heaven's Glory]] School came to the [[Wei clan]] looking for a girl they called the disciple of the [[Sword Sage]].<ref name="cradle-07-uncrowned-c1">''Uncrowned'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Heaven's Glory]] School contains [[Jades]].<ref name="cradle-07-uncrowned-c1" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Heaven’s Glory School]] is described as a collection of backwards savages who have forgotten nearly everything about the [[sacred arts]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Heaven's Glory]] School is located near the [[Ancestor's Tomb]].<ref name="cradle-08-wintersteel-c1" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Heaven’s Glory School]] is located in [[Sacred Valley]].<ref name="cradle-08-wintersteel-c1" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
 {{spoiler|book=cradle-09-bloodline|Located near the eastern exit of [[Sacred Valley]], the Heaven’s Glory School is an institution composed of smooth rainstone buildings that covers a large portion of the mountain. This group, which once held a coveted position for [[Amon]], is known for gathering [[Ruler techniques]] and maintaining apprentices identified by wooden, iron, or copper badges. Although the school is willing to negotiate regarding territory, it has previously hunted [[Lindon]]'s family and possesses more influence than the [[Wei clan]]. Despite being described as the most wisdom-challenged of the schools, they surrounded a hill with plans to keep [[Kazan]] prisoners until their formation was deactivated. Following these events, [[Lindon]] claimed the school in the absence of its [[Jades]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] has no attachment to the [[Heaven’s Glory School]].<ref name="cradle-09-bloodline-c4">''Bloodline'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The group is moving toward the [[Heaven’s Glory School]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Heaven’s Glory School]] consists of smooth rainstone buildings.<ref name="cradle-09-bloodline-c6" />}}</li>
@@ -101,22 +94,19 @@
 <li>{{spoiler|book=cradle-09-bloodline|[[Heaven’s Glory School]] is a group/institution.<ref name="cradle-09-bloodline-c11" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Heaven's Glory]] School has surrounded the hill.<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Heaven’s Glory School]] planned to keep the [[Kazan]] prisoners.<ref name="cradle-09-bloodline-c13">''Bloodline'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 {{spoiler|book=cradle-09-bloodline|[[Eithan]] intends to plow through the Heaven�s Glory School.}}
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The [[Heaven's Glory]] School deactivated their formation.<ref name="cradle-09-bloodline-c15">''Bloodline'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] claims [[Heaven's Glory]] School in the absence of its [[Jades]].<ref name="cradle-09-bloodline-c15" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Heaven’s Glory School]] is a former site.<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-01-unsouled|“The honorable Heaven’s Glory School has lost no less than four disciples to abduction, it seems.”<ref name="cradle-01-unsouled-c6" />}}

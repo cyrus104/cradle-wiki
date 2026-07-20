@@ -11,8 +11,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|[[Sola]] utilizes the codename Fallen [[Sword]], a title that has become famous among the populace and is used by civilians to address her. Appearing as a tall figure clad in gray powered armor with a reflective green visor, she operates as an independent agent driven by a personal crusade against the [[Iron Legion]]. During her raids on [[Iron Legion]] [[Hives]], she utilizes an [[Aethertech weapon]] to carry out her mission.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Fallen Sword]] is a codename used by [[Sola]].<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Fallen Sword]] is a tall figure wearing gray powered armor with a reflective green visor.<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Fallen Sword]] is currently raiding an [[Iron Legion Hive]].<ref name="lh-01-the-captain-c16" />}}</li>
@@ -21,32 +21,28 @@
 <li>{{spoiler|book=lh-01-the-captain|The [[Fallen Sword]] is a famous individual.<ref name="lh-01-the-captain-c18" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Fallen Sword]] is a title held by [[Sola]].<ref name="lh-01-the-captain-c19">''The Captain'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Fallen Sword]] is equipped with an [[Aethertech weapon]].<ref name="lh-01-the-captain-c43">''The Captain'', chapter 43</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]] intends to sharpen the [[Fallen Sword]].<ref name="lh-02-the-engineer-c21">''The Engineer'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Sola Kalter]] is known as the [[Fallen Sword]].<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|Shyrax addresses [[Fallen Sword]].<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Fallen Sword]] is a title or name used by an interlocutor with [[Sola]].<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Fallen Sword]] is a character or entity that can be sent to [[Omega]].<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Fallen Sword]] is dedicated to killing the [[Iron Legion]].<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|An image of a tall figure in gray powered armor appeared next to Horizon, with visor glistening a reflective green. “The Fallen Sword,” she said.<ref name="lh-01-the-captain-c16" />}}

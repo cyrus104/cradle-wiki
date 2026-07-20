@@ -11,8 +11,8 @@
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|The [[Totem]] of the [[Dragon King]] is a gold statue depicting a winged boy that holds a portion of the [[Dragon King]]'s authority and spirit. As a prize from the final round, the artifact can project an image of the [[Dragon King]] and its strength is dictated by Sophara's level of control. During a confrontation, the totem condensed into a crown above Sophara's head and filled the sky with enough power to stall the [[Sage of Red Faith]]. This massive projection eventually began to dissolve within the sky.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Totem of the Dragon King]] is a gold statue of a boy with broad [[dragon]]'s wings that releases a projection of the [[Dragon King]].<ref name="cradle-08-wintersteel-c23">''Wintersteel'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Totem of the Dragon King]] carries a measure of the [[Dragon King]]'s spirit and authority.<ref name="cradle-08-wintersteel-c23" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The power of the [[Totem of the Dragon King]] is limited by how much Sophara can control.<ref name="cradle-08-wintersteel-c23" />}}</li>
@@ -21,8 +21,7 @@
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Dragon King]]’s [[Totem]] can stall the [[Sage of Red Faith]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Dragon King]]’s [[Totem]] filled the sky.<ref name="cradle-08-wintersteel-c27" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Dragon King]]’s [[Totem]] began to dissolve in the sky.<ref name="cradle-08-wintersteel-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

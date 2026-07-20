@@ -9,17 +9,16 @@
 {{spoiler|book=cradle-13-threshold|[[Redmoon Hall]] is a powerful organization characterized by its members as being more dangerous than typical combat specialists. The group utilizes a massive, red-tinted cloudship as its headquarters, which is decorated with the symbol of a [[Bleeding Phoenix]]. Members of this sect include [[Overlords]], an [[Overlady]], and individuals like [[Yan Shoumei]]. Their combat techniques often involve the use of [[Blood Shadows]], which can be manifested as weapons such as axes, spears, or swords; certain advanced techniques allow them to derive power by breaking down these shadows. While the organization has faced internal divisions regarding whether the [[Bleeding Phoenix]] should be viewed as a divine entity or an opportunity for power, it has also been noted to be under the protection of the [[Void Sage]]. The group's leadership includes [[Kahn Mala]], and its members have historically been capable of reaching high levels of combat proficiency, with some nearly achieving the status of the [[Uncrowned]].}}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yan Shoumei]] mentions [[Redmoon]] as something she might not need.<ref name="cradle-08-wintersteel-c11">''Wintersteel'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|Redmoon is a [[Herald]] and the leader of [[Redmoon Hall]] who possesses a blood Path and pink skin. Originally a spirit that grew his own human body, he was later found as a dried-up husk resembling a corpse after spending a hundred years at the bottom of a desert. This entity, who features a milk-white line traveling through his cheek, monitors various situations and has maintained contact with the [[Bleeding Phoenix]]. During a conversation with the [[Sage of Red Faith]], Redmoon used a script on a control panel to broadcast their exchange. Ultimately, he serves as the [[Blood Shadow]] that the [[Sage of Red Faith]]'s relationship will become.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Redmoon]] is a [[Herald]] and a leader of [[Redmoon Hall]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Redmoon]] is the leader of [[Redmoon Hall]].<ref name="cradle-11-dreadgod-c9">''Dreadgod'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Redmoon]] is an entity that monitors situations.<ref name="cradle-11-dreadgod-c9" />}}</li>
@@ -33,16 +32,14 @@
 <li>{{spoiler|book=cradle-11-dreadgod|[[Redmoon]] has pink skin.<ref name="cradle-11-dreadgod-c14" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Redmoon]] was a spirit that grew his own human body.<ref name="cradle-11-dreadgod-c14" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Redmoon]] was a dried-up husk that looked like a corpse after a hundred years at the bottom of a desert.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Yan Shoumei]] is a [[Redmoon artist]].<ref name="cradle-13-threshold-c3">''Threshold: Stories from Cradle'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Redmoon]] has a red-robed entourage.<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

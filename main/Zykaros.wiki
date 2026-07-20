@@ -11,8 +11,8 @@
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Zykaros is a dark, smoggy planet within a system believed to be the source of [[Solstice]]'s orders. This industrial junkyard features toxic oceans and a poisonous atmosphere that is purified by twisting spires, though the world remains scarred by a global disaster from the [[Worldslayer]] strike. The planet is home to Zykaros Prime, the birthplace of [[Horizon]]'s [[Pilot]], and contains various government facilities accessible via [[Galactic Union]] ID. As a [[World Spirit]], Zykaros acts as the galaxy's greatest spellcaster, possessing the ability to warp the [[Aether]] and manipulate clouds. This entity can dissolve into billowing hair-like clouds or shift between a humanoid woman and a fifty-foot titan, using a voice that makes bones tremble. Currently, the planet's ground and sky are tearing themselves apart, creating a location from which the narrator must escape.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">29</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">29</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a planet.<ref name="lh-04-the-pilot-c13">''The Pilot'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a location with a [[World Spirit]].<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zykaros system]] is a sector where [[Solstice]]'s orders are believed to originate.<ref name="lh-04-the-pilot-c40">''The Pilot'', chapter 40</ref>}}</li>
@@ -42,8 +42,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] is a location the narrator needs to escape.<ref name="lh-04-the-pilot-c48" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]] suffered a global disaster from the [[Worldslayer]] strike.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Zykaros]]' ground and sky are tearing themselves apart.<ref name="lh-04-the-pilot-c49" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“My brother doesn’t like you,” said the World Spirit of Zykaros.<ref name="lh-04-the-pilot-c39" />}}

@@ -6,18 +6,16 @@
 }}
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Visiri fleet]] was in a stalemate with [[The Last Horizon]].<ref name="lh-03-the-knight-c37">''The Knight'', chapter 37</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Visiria]]'s fleet consists of crimson-striped ships.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

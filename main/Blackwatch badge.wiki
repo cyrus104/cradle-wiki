@@ -6,12 +6,11 @@
 }}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Blackwatch badge]] is an item [[Calder]] possesses.<ref name="ee-sea-01-of-sea-and-shadow-c10">''Of Sea and Shadow'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|People tend to run from anyone with a [[Blackwatch badge]].<ref name="ee-sea-01-of-sea-and-shadow-c21">''Of Sea and Shadow'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|"Second of all, if I could even walk straight in the door with a Blackwatch badge on, they’re not about to let me walk out with a prisoner."<ref name="ee-sea-01-of-sea-and-shadow-c10" />}}

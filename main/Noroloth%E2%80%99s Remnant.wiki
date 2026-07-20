@@ -8,18 +8,16 @@
 }}
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Noroloth’s Remnant]] is a [[Herald Remnant]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Noroloth]]'s [[Remnant]] flew closer to the cavern entrance.<ref name="cradle-12-waybound-c13">''Waybound'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

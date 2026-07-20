@@ -11,8 +11,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|The Sleepless is a cabal that raised [[Jerri]] and provided her with specific instructions. After being inducted into the group by her father, [[Jerri]] became a member of this organization which promises its followers a [[life]] defined by purpose and risk. Guided by the credo 'That which sleeps will soon wake,' the members stay awake to serve their own interests while the [[Great Elders]] sleep. Although they do not worship the [[Elders]] and are not a cult, at least one member of the Sleepless remains under the care of the [[Consultants]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Sleepless]] is a group that [[Jerri]] belongs to.<ref name="ee-sea-01-of-sea-and-shadow-c7">''Of Sea and Shadow'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Sleepless]] is a group that has at least one member in the care of the [[Consultants]].<ref name="ee-sea-01-of-sea-and-shadow-c16">''Of Sea and Shadow'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jerri's father]] inducted her into the [[Sleepless]].<ref name="ee-sea-01-of-sea-and-shadow-c18">''Of Sea and Shadow'', chapter 18</ref>}}</li>
@@ -23,27 +23,25 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Sleepless]] are a group that [[Jerri]] was raised by.<ref name="ee-sea-01-of-sea-and-shadow-c22" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Sleepless]] is a cabal that gave [[Jerri]] instructions.<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Sleepless]] is a cabal.<ref name="ee-sea-01-of-sea-and-shadow-c27">''Of Sea and Shadow'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Sleepless is a group composed of both men and women. While they are characterized as a cult led by a cabal, [[Jyrine]] maintains that the organization is not a cult and does not engage in the worship of [[Elders]]. During their period of planning, they dispatched a messenger, potentially an [[Elderspawn]], into the cell of [[Lucan]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Sleepless]] are a cult with a cabal of leaders.<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Sleepless]] sent a messenger into [[Lucan's cell]], likely an [[Elderspawn]].<ref name="ee-shadow-01-of-shadow-and-sea-c15">''Of Shadow and Sea'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Sleepless]] are planning something.<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Sleepless]] are a group that [[Jyrine]] claims is not a cult and does not worship [[Elders]].<ref name="ee-shadow-01-of-shadow-and-sea-c17" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Sleepless]] is a group of men and women.<ref name="ee-shadow-01-of-shadow-and-sea-c27">''Of Shadow and Sea'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Sleepless is a cultist cabal whose activities within the [[Aion Sea]] are closely monitored by the [[Navigator’s Guild]]. Composed of acolytes who wear [[Open Eye medallions]], this group is often represented by the symbol of the Open [[Eye]] and actively seeks to make new recruits. Despite their numbers, the cabal possesses only one true combat-capable [[Soulbound]] among its membership. The group is known to engage in lengthy deliberations and maintains frequent contact with [[Calder]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Navigator’s Guild]] monitors [[Sleepless]] activity in the [[Aion Sea]].<ref name="ee-sea-02-of-dawn-and-darkness-c1">''Of Dawn and Darkness'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jerri]] waited for the [[Sleepless]] cabal to stop deliberating.<ref name="ee-sea-02-of-dawn-and-darkness-c3">''Of Dawn and Darkness'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Sleepless]] is a cabal that has only one true combat-capable [[Soulbound]] in their membership.<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
@@ -52,23 +50,21 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Sleepless]] are acolytes who wear [[Open Eye medallions]].<ref name="ee-sea-02-of-dawn-and-darkness-c13">''Of Dawn and Darkness'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Sleepless]] are cultists.<ref name="ee-sea-02-of-dawn-and-darkness-c13" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Sleepless]] are a group that [[Calder]] is in frequent contact with.<ref name="ee-sea-02-of-dawn-and-darkness-c16">''Of Dawn and Darkness'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Sleepless]] have de facto control of the [[Optasia]].<ref name="ee-shadow-02-of-darkness-and-dawn-c13">''Of Darkness and Dawn'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Sleepless]] are an entity that humanity must face.<ref name="ee-shadow-02-of-darkness-and-dawn-c13" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Sleepless]] opposed the attempt to gain access to the [[Optasia]].<ref name="ee-shadow-02-of-darkness-and-dawn-c17">''Of Darkness and Dawn'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Guided by predictions from [[Ach'magut]], the Sleepless operate under a structured leadership. While their cell in the [[Capital]] faces the constant threat of discovery by [[Watchmen]] or [[Magisters]], the group is widely perceived as evil by the rest of the world. Their efforts include securing bargains with the [[Great Elders]], though they do not treat all such entities equally and maintain detailed records of their conversations. The organization's influence is further evidenced by the successful breakout of [[Jerri]] from the [[Gray Island]] cell and the fact that [[Calder]]'s wife was once a member.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Sleepless]] have predictions from [[Ach'magut]].<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Sleepless]] cell in the [[Capital]] risks being picked up by a [[Magister]] or [[Watchman]].<ref name="ee-sea-03-of-kings-and-killers-c5">''Of Kings and Killers'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Sleepless]] have leaders.<ref name="ee-sea-03-of-kings-and-killers-c5" />}}</li>
@@ -78,17 +74,15 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Sleepless]] want to secure a bargain with the [[Great Elders]].<ref name="ee-sea-03-of-kings-and-killers-c19" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Sleepless]] left records including transcripts of conversations with [[Great Elders]].<ref name="ee-sea-03-of-kings-and-killers-c19" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]]'s wife was one of the [[Sleepless]].<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Sleepless]] had been corralled and surrounded by fog.<ref name="ee-shadow-03-of-killers-and-kings-c1">''Of Killers and Kings'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Sleepless]] is a banner under which various cults have banded together.<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Sleepless]] have been instructed to deepen the divide between [[Guilds]].<ref name="ee-shadow-03-of-killers-and-kings-c2" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“It means there is at least one member of the Sleepless in the care of the Consultants right now.”<ref name="ee-sea-01-of-sea-and-shadow-c16" />}}

@@ -11,22 +11,21 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|The Capital is a city of gleaming clock-towers and ancient spires that remains unconquered by the night. Within its borders lie various [[Imperial]] homes and wealthy districts, all sustained by resources from the [[Imperial Palace]] to fund the [[Imperial Guard]]. Although it was once identified in a burned message, the city fell into several months of chaos following the death of [[Emperor (Elder Empire)|the Emperor]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Capital is a location mentioned in the burned message.<ref name="ee-sea-01-of-sea-and-shadow-c1">''Of Sea and Shadow'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Capital is a city that night cannot conquer.<ref name="ee-sea-01-of-sea-and-shadow-c2">''Of Sea and Shadow'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Imperial Palace]]'s resources were used for keeping the Capital running and funding the [[Imperial Guard]].<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Capital contains wealthy districts and [[Imperial]] homes.<ref name="ee-sea-01-of-sea-and-shadow-c4">''Of Sea and Shadow'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Capital was swallowed in chaos for a few months after [[Emperor (Elder Empire)|the Emperor]]'s death.<ref name="ee-sea-01-of-sea-and-shadow-c7">''Of Sea and Shadow'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Capital contains ancient spires and gleaming clock-towers.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Capital is a vast city that swallows the coastline and can be approached by sea. Mentioned as a destination by [[Andel]], it is also the location [[Bliss]] intends to return to. This city houses [[Kanatalia]] workshops and an upper crust of influential people, while its population has been acclimated to the concept of a leader for many years. Within its borders, prisoners face trial, and it serves as the intended destination for the escort of the [[Consultants]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Capital is a destination mentioned by [[Andel]].<ref name="ee-sea-02-of-dawn-and-darkness-c2">''Of Dawn and Darkness'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Capital is a location [[Bliss]] intends to return to.<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Capital is a location that can be approached by sea.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
@@ -36,14 +35,13 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Capital is a location containing [[Kanatalia]] workshops.<ref name="ee-sea-02-of-dawn-and-darkness-c17">''Of Dawn and Darkness'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Consultants]] were to be escorted back to the Capital.<ref name="ee-sea-02-of-dawn-and-darkness-c24">''Of Dawn and Darkness'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Capital is a vast city that swallows the coastline.<ref name="ee-sea-02-of-dawn-and-darkness-c24" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|During a period of surging population for the coronation, the Capital serves as the home of a [[Navigator chapter house]] and an [[Imperial Palace]] that occupies nearly twenty percent of the city. Though its military harbor is small compared to [[Candle Bay]], the location is visible through a rift in the [[void]] and features streets lit by sunset-orange quicklamps at night. Chaos eventually erupts throughout the city as champions are found dead and citizens scream that the [[Imperial Palace]] has fallen. Amidst this turmoil, [[Calder]] flies back through the Capital, a location filled with wards against the [[Elders]] and [[Optasia]] statues that can be protected by the [[White Sun]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">21</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">21</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Capital's population surged for the coronation.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Capital's military harbor is tiny compared to [[Candle Bay]].<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The characters are sticking around the Capital.<ref name="ee-sea-03-of-kings-and-killers-c4" />}}</li>
@@ -65,8 +63,7 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Capital is a location that can be protected by the [[White Sun]].<ref name="ee-sea-03-of-kings-and-killers-c21">''Of Kings and Killers'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Capital is filled with wards against the [[Elders]].<ref name="ee-sea-03-of-kings-and-killers-c21" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] flew back through the Capital.<ref name="ee-sea-03-of-kings-and-killers-c21" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|"I just learned how to do this, and it’s going to blow the pants off certain people back in the Capital."<ref name="ee-sea-01-of-sea-and-shadow-c1" />}}

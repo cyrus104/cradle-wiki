@@ -11,8 +11,8 @@
 == Skysworn ==
 {{spoiler|book=cradle-04-skysworn|As owners of three-quarters of the continent, the [[Akura]] clan employs the world's most talented dream artists. These dream-readers possess the ability to observe shifts in [[fate]] and the currents of destiny. While they have shielded the [[Empire]] from [[dragons]] for generations, the clan remains largely apathetic toward the [[Blackflame Empire]] beyond their shared humanity. Their recent activities include providing battle reports concerning encounters with [[Redmoon Hall]] and making a formal request regarding an errant daughter. Furthermore, the clan does not entirely approve of [[Mercy]]'s presence.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|The [[Akura clan]] has provided battle reports regarding encounters with [[Redmoon Hall]].<ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Akura]] family has shielded the [[Empire]] from [[dragons]] for generations.<ref name="cradle-04-skysworn-c11" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Akura]] family is apathetic toward the [[Blackflame Empire]] except for being both human.<ref name="cradle-04-skysworn-c11" />}}</li>
@@ -21,14 +21,13 @@
 <li>{{spoiler|book=cradle-04-skysworn|The [[Akura clan]] employs the world's greatest dream artists.<ref name="cradle-04-skysworn-c14" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Akura clan]]'s dream-readers can see shifts in [[fate]] and the currents of destiny.<ref name="cradle-04-skysworn-c14" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Akura clan]] does not entirely approve of [[Mercy]]'s presence.<ref name="cradle-04-skysworn-c15">''Skysworn'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|The [[Akura]] clan is a group composed of various branches, often described as an empire of children. This family provides protection to the [[Skysworn]] and offers rewards for every [[Underlord]] head taken. While their power is dwarfed by that of black [[dragons]], the clan deals with such creatures and possesses [[Harmony]]'s armor as a bloodline legacy. Members like [[Akura Mercy]] and [[Yerin]] are recognized as part of the family, an entity that should not be opposed. Despite their strength and potential involvement in upcoming competitions, the clan has kept the [[fate]] of one of its children hidden from the [[Monarch]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">14</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Akura Mercy]] is a member of the [[Akura clan]].<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Skysworn]] are under the protection of the [[Akura]] family.<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Akura clan]] is a group.<ref name="cradle-05-ghostwater-c4">''Ghostwater'', chapter 4</ref>}}</li>
@@ -43,14 +42,13 @@
 <li>{{spoiler|book=cradle-05-ghostwater|[[Harmony]]'s armor is the bloodline legacy of the [[Akura]] family.<ref name="cradle-05-ghostwater-c18" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Akura]] family might compete in the upcoming competition.<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Akura]] family hid their child's [[fate]] from the [[Monarch]].<ref name="cradle-05-ghostwater-c19" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|The vaunted [[Akura]] clan is a [[Monarch]] faction on the continent, renowned for their legendary pillars and mastery of [[shadow madra]]. As a group that [[King Dakata]] serves, the clan holds immense influence, as their favor can determine whether the [[Blackflame Empire]] thrives or dies. Operating from a mountain-sized fortress, they oversee treasured territories like [[Night Wheel Valley]] and the lands where [[Lindon]]'s family resides. The clan maintains its power by making its vassals compete, a practice seen when they provided a signal to [[Emperor Naru Huan]] and participated in a competition involving the [[gate]]. Following their responsibility for [[Renfei]]'s death, [[Lindon]] eventually prepares to compete on behalf of the clan alongside their favored young Underlords.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">19</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Akura clan]] has legendary pillars.<ref name="cradle-06-underlord-c2">''Underlord'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Akura clan]] is famous for their use of [[shadow madra]].<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Akura]] family's favor determines if the [[Blackflame Empire]] thrives or dies.<ref name="cradle-06-underlord-c4" />}}</li>
@@ -70,14 +68,13 @@
 <li>{{spoiler|book=cradle-06-underlord|The [[Akura clan]] owns territory where [[Lindon]]'s family lives.<ref name="cradle-06-underlord-c21" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Lindon]] will compete on behalf of the [[Akura clan]].<ref name="cradle-06-underlord-c21" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The favored young Underlords of the [[Akura clan]] are lined up.<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|Composed of family members including a [[Monarch]] and a [[Fury]], the [[Akura]] clan is a powerful family led by the daughter of [[Monarch Malice]]. While they prepare [[Lindon]] and [[Mercy]] for the [[Uncrowned King]] tournament, [[Lindon]] remains a guest who was not raised with their specific training. The clan, which utilizes the [[Frozen Blade school]] as a vassal faction and displays a symbol of three stars over a moon-pale mountain range, provides high-quality clothing and sends gifts in ornate black wood chests. During the tournament, servants in rainbow robes usher them into the [[Ninecloud Court]], though the clan is targeted by gold [[dragons]] and eventually split apart during the second round of competition. Despite [[Eithan]] viewing them as oppressors, [[Lindon]] intends to gather the clan's competitors together in the jungle, and many members of the family attempt to speak with him.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Akura clan]] is preparing [[Lindon]] and [[Mercy]] for the [[Uncrowned King]] tournament.<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Akura clan]] is composed of family members including a [[Monarch]] and [[Fury]].<ref name="cradle-07-uncrowned-c3">''Uncrowned'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] was not raised with the training of the [[Akura clan]].<ref name="cradle-07-uncrowned-c3" />}}</li>
@@ -96,14 +93,13 @@
 <li>{{spoiler|book=cradle-07-uncrowned|The second round of the competition split the [[Akura]] faction.<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Akura]] family is led by the daughter of [[Monarch Malice]].<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Many people trying to talk to [[Lindon]] were from the [[Akura]] family.<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|Residing in an amethyst spire within their assigned tower in [[Ninecloud City]], the purple-eyed [[Akura]] clan is a powerful faction associated with [[House Arelius]]. The clan possesses thousands of [[soulfire]] arts and has successfully raised a [[Herald]], a [[Sage]], and a [[Monarch]], maintaining alliances with both [[Sages]] and [[Heralds]]. While [[Lindon]] was previously taken to the family for training and later purchased [[hunger madra]] in their name, the clan's primary hope for winning [[Penance]] rests with [[Yerin]]. To support her, they have contributed advancement resources and gifted Sophara a [[life]]-size goldsteel statue of [[Ekeri]]. Despite facing chaos, a state of war, and hostility from ocean inhabitants, the clan remains capable of operating independently during crises, with members named after virtues and a reputation that exceeds any individual member.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">26</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">26</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Akura clan]] has an assigned tower in [[Ninecloud City]].<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Akura]] family resides in an amethyst spire.<ref name="cradle-08-wintersteel-c3" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Members of the [[Akura clan]] have purple eyes.<ref name="cradle-08-wintersteel-c3" />}}</li>
@@ -130,14 +126,13 @@
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Akura]] faction is handling their own war.<ref name="cradle-08-wintersteel-c27" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Akura]] faction was in a state of chaos.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Akura clan]] settles down and may still honor contribution points.<ref name="cradle-08-wintersteel-c28" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
 {{spoiler|book=cradle-09-bloodline|The [[Akura]] clan, which is governed by a head family and based in their capital of [[Moongrave]], operates through three pillars. While the clan is known for providing protection to people, they faced scrutiny when [[Lindon]] blamed them for failing to assist those in [[Sacred Valley]]. During a period of investigation, the clan's strength was noted as having fallen from three stars to two. To assist with evacuations, the clan deployed a fleet of cloudships that unloaded refugees at [[Heaven's Glory]] School. During these operations, forty [[Akura]] clan [[Golds]] supported [[Lindon]], though the first waves of their forces had not yet returned.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">16</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">16</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The [[Akura clan]] has three pillars.<ref name="cradle-09-bloodline-c2">''Bloodline'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|A representative of the [[Akura clan]] has arrived.<ref name="cradle-09-bloodline-c2" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Akura clan]] provides protection to people.<ref name="cradle-09-bloodline-c2" />}}</li>
@@ -154,14 +149,13 @@
 <li>{{spoiler|book=cradle-09-bloodline|The [[Akura clan]] has a head family.<ref name="cradle-09-bloodline-c13" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Moongrave]] is the capital of the [[Akura clan]].<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Jai Chen]] considered the [[Akura clan]] but did not know them.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|The [[Akura]] clan, a powerful group ruled by [[Queen]] [[Malice]], maintains territory that includes the area where [[Dross]] speaks and features [[Herald]]-level spirits that shine like bonfires. After [[Lindon]] and [[Eithan]] previously borrowed the clan's name, the [[Akura]] declared the [[labyrinth]] territory off-limits and [[Lindon]] agreed to contact them if [[Mercy]]'s [[life]] were ever in danger. While [[Charity]] and [[Malice]] serve as pillars of the family, the [[Heart Sage]] took [[Mercy]] to assist in leading the clan. [[Lindon]] was eventually honored before the clan, and a statue of [[Mercy]] now sits at the head of the [[Akura]] in the [[World of Night]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] and [[Eithan]] previously had to borrow the name of the [[Akura clan]].<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] would contact the [[Akura clan]] if [[Mercy]]'s [[life]] were in danger.<ref name="cradle-10-reaper-c4" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Akura clan]] declared the [[labyrinth]] territory off-limits.<ref name="cradle-10-reaper-c4" />}}</li>
@@ -172,14 +166,13 @@
 <li>{{spoiler|book=cradle-10-reaper|The [[Akura clan]] has [[Herald]]-level spirits that shine like bonfires.<ref name="cradle-10-reaper-c10" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Akura clan]] is a clan ruled by [[Queen]] [[Malice]].<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|A statue of [[Mercy]] sits at the head of the [[Akura clan]] in the [[World of Night]].<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|The [[Akura]] clan is a formidable power that can be antagonized, maintaining influence through the allegiance of various [[Heralds]] and [[Sages]]. Represented by a purple-and-black banner, the clan possesses enough experts to keep [[Lindon]] under control and includes members such as [[Akura Justice]]. During the defense of [[Moongrave]], the clan mustered twelve Archlords to protect the area. Furthermore, [[Akura Malice]] has been known to speak with the full authority of the clan.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|Some [[Sages]] and [[Heralds]] owe allegiance to the [[Akura clan]].<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Akura Justice]] is part of the [[Akura clan]].<ref name="cradle-11-dreadgod-c8">''Dreadgod'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Akura clan]] has enough experts to keep [[Lindon]] under control.<ref name="cradle-11-dreadgod-c8" />}}</li>
@@ -187,25 +180,22 @@
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Akura clan]] uses a purple-and-black aesthetic as its banner.<ref name="cradle-11-dreadgod-c12">''Dreadgod'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Akura clan]] mustered twelve Archlords for the defense of [[Moongrave]].<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Akura Malice]] spoke by the authority of the [[Akura clan]].<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] has not let [[Mercy]] out of his sight since leaving the [[Akura clan]].<ref name="cradle-12-waybound-c2">''Waybound'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Mercy]] felt a memory of her faith in the [[Akura clan]].<ref name="cradle-12-waybound-c13">''Waybound'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Northstrider]] does not share the bias against [[sacred beasts]] held by many in the [[Akura clan]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[King Dakata]] was once a guest of the [[Akura]].<ref name="cradle-13-threshold-c9">''Threshold: Stories from Cradle'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The characters are currently in the [[Akura clan]]'s territory.<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-05-ghostwater|“We are here on behalf of the Blackflame Empire,” Renfei said loudly, “under the protection of the Akura family.”<ref name="cradle-05-ghostwater-c3" />}}

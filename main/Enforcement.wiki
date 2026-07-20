@@ -7,33 +7,29 @@
 {{spoiler|book=cradle-07-uncrowned|Enforcement refers to a method of utilizing [[madra]] to enhance a practitioner's physical capabilities. This can be performed through basic enforcement, which involves pouring [[madra]] into the body to provide a general strengthening effect, or through more specialized and efficient [[Enforcer techniques]]. While basic enforcement is often inefficient and exhausting, true [[Enforcer techniques]] allow for greater control and power. These techniques are categorized into several types: full-body techniques, which are common and versatile but lack specialization; specialized techniques focused on specific attributes like speed or movement; and attack techniques that concentrate power into a single motion, such as a strike or slash. While attack techniques are more powerful than full-body versions, they can be more cumbersome and leave the user vulnerable. Some techniques may also function as restriction techniques to inhibit [[madra]] or provide specific utility. Full-body enforcement is often detectable by those of [[Jade]] rank or higher, sometimes manifesting as external markings or light.}}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|[[Enforcement]] is a specialization used to pierce armor.<ref name="cradle-02-soulsmith-c3">''Soulsmith'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Enforcement]] is a basic technique used to strengthen the whole body with [[madra]].<ref name="cradle-02-soulsmith-c3" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Yerin]] uses [[Enforcement]] to feed [[madra]] to her limbs.<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Enforcement]] can be used on the entire body without a full-body [[Enforcer technique]].<ref name="cradle-05-ghostwater-c8">''Ghostwater'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Eithan's scissors]] respond to [[Enforcement]].<ref name="cradle-07-uncrowned-c17">''Uncrowned'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

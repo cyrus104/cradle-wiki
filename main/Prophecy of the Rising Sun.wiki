@@ -6,11 +6,10 @@
 }}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The prophecy of the Rising Sun predicts the end of the reign of the [[Crimson Vault]].<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|“The prophecy of the Rising Sun has already borne fruit. The reign of the Crimson Vault has almost come to an end.”<ref name="tg-02-crimson-vault-c6" />}}

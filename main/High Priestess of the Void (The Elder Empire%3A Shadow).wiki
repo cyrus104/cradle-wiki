@@ -6,11 +6,10 @@
 }}
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Jyrine]] is addressed as the High Priestess of the Void by a shadow voice.<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-03-of-killers-and-kings|“Deliver a message for me, High Priestess of the Void.”<ref name="ee-shadow-03-of-killers-and-kings-c20" />}}

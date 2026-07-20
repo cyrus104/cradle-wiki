@@ -11,8 +11,8 @@
 == Soulsmith ==
 {{spoiler|book=cradle-02-soulsmith|Originating in the [[Desolate Wilds]], the legendary [[Jai]] clan moved its main branch to the [[Blackflame Empire]] after producing an [[Underlord]]. As a first-class clan within the empire, they are allied with the [[Sandviper sect]] and serve as a faction in the [[Alliance camp]]. The group follows the [[Path of the Stellar Spear]], utilizing light-aspected combat techniques and specific spear maneuvers represented by a twisting line of starlight. While [[Jai Long]] once held status within the clan, he is now formerly of the group. During their interactions with [[Lindon]] and [[Yerin]], [[Jai Sen]] attempted to recruit the pair to work for the clan, though they ultimately avoided staying with them. Additionally, the clan possesses a spear with specific bindings that [[Eithan]] deems suitable for a particular use.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Jai clan]] is part of the [[Blackflame Empire]].<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Jai clan]] is a faction in the [[Alliance camp]].<ref name="cradle-02-soulsmith-c5" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Jai Sen]] wants [[Lindon]] and [[Yerin]] to work for the [[Jai clan]].<ref name="cradle-02-soulsmith-c6">''Soulsmith'', chapter 6</ref>}}</li>
@@ -30,14 +30,13 @@
 <li>{{spoiler|book=cradle-02-soulsmith|[[Jai Long]] is formerly of the [[Jai clan]].<ref name="cradle-02-soulsmith-c19">''Soulsmith'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Jai clan]] has a head branch.<ref name="cradle-02-soulsmith-c19" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Jai clan]] is described as legendary.<ref name="cradle-02-soulsmith-c19" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|The ancient [[Jai]] clan, led by Patriarch [[Jai Daishou]], maintains a presence at the border and possesses palaces on the mountain peak in [[Serpent's Grave]]. Members of this clan, who feature black hair and wear sky blue robes marked with a star-and-spear emblem, utilize generational spear arts and the [[Star Lance]] technique. While they employ refiners, [[Soulsmiths]], and various gold-ranked members, the clan has faced internal strife as [[Jai Long]] kills clansmen in their homes and wages a guerrilla war against them. Despite seizing assets from [[Eithan]]'s family and the last refinery in Serpent’s Grave, the clan has recently slowed its aggression. Currently, they are ruthlessly reclaiming territory and hunting anyone wearing a black crescent.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">29</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">29</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Jai clan]] has refiners and [[Soulsmiths]].<ref name="cradle-03-blackflame-c2">''Blackflame'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Jai clan]] has a presence at the border.<ref name="cradle-03-blackflame-c3">''Blackflame'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Jai clan]] has seized assets from [[Eithan]]'s family.<ref name="cradle-03-blackflame-c3" />}}</li>
@@ -67,14 +66,13 @@
 <li>{{spoiler|book=cradle-03-blackflame|The [[Jai clan]] has spear arts passed down for generations.<ref name="cradle-03-blackflame-c20">''Blackflame'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Jai clan]] is an ancient clan.<ref name="cradle-03-blackflame-c20" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|A [[Jai clan]] warrior in blue held a spear at [[Lindon]]'s chest.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
 {{spoiler|book=cradle-04-skysworn|The [[Jai]] clan is a great family whose territory encompasses a lake and miles of underground tunnels. Although [[Jai Daishou]] desires for his clan to outlive him, the group is currently considered the lowest-ranked of the great clans and is crumbling in the west. Their history includes the exile of [[Jai Long]] to the [[Desolate Wilds]], and they are a group to whom [[Lindon]] mentions sending ashes. Additionally, the clan's net is something that characters intend to escape.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Jai Daishou]] wants his clan to outlive him.<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Jai Daishou]] belongs to the [[Jai clan]].<ref name="cradle-04-skysworn-c1" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Jai clan]] territory includes a lake and miles of underground tunnel.<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
@@ -84,45 +82,39 @@
 <li>{{spoiler|book=cradle-04-skysworn|The [[Jai clan]] is the lowest-ranked of the great clans.<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Jai clan]]'s net is something the characters intend to escape.<ref name="cradle-04-skysworn-c9">''Skysworn'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Jai clan]] is crumbling in the west.<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Jai clan]] has fallen.<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Akura]] family aims to replace the [[Jai clan]] in the [[Uncrowned]] [[King]] tournament.<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Jai clan]] has an invader in the Valley.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The [[Jai clan]] wore blue and carried spears.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Jai clan]] has members with spiritual senses.<ref name="cradle-09-bloodline-c21" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The [[Jai clan]] once owned the [[aura]] chamber used by [[Jai Long]].<ref name="cradle-10-reaper-c11">''Reaper'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Jai clan]] once attacked the [[Arelius family]].<ref name="cradle-11-dreadgod-c18">''Dreadgod'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-02-soulsmith|“I am Jai Sen, of the Jai clan whose honor echoes in every corner of the Blackflame Empire.<ref name="cradle-02-soulsmith-c5" />}}

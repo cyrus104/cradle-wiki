@@ -4,13 +4,12 @@
 }}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Elysian]] tests involve testing one's virtues.<ref name="tg-01-house-of-blades-c8">''House of Blades'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|Valor is an [[Elysian]] virtue that rewards the caller with [[gold light]].<ref name="tg-01-house-of-blades-c8" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|Selflessness is the key to most [[Elysian virtues]].<ref name="tg-01-house-of-blades-c8" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

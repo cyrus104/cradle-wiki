@@ -6,11 +6,10 @@
 }}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Bellowing Horror]] is about a foot tall, stubby, has greenish-black skin, tiny bat-like wings, black eyes, and a mouth hidden by wormlike tendrils.<ref name="ee-sea-01-of-sea-and-shadow-c19">''Of Sea and Shadow'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

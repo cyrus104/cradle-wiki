@@ -11,8 +11,8 @@
 == Unsouled ==
 {{spoiler|book=cradle-01-unsouled|The Lesser Treasure Hall is one of three treasure halls located within the [[Heaven's Glory]] School and is identified by a towering sign featuring its name in gold letters. This facility houses various items for selection, including weapons, constructs, elixirs, and training supplements. Disciples are permitted to choose treasures from the hall once they have successfully survived the [[Trial of Glorious Ascension]]. A [[Jade Forger]] resides in a location directly above the hall, which is protected by a locked door containing deadly constructs and security scripts. Additionally, the floors of the hall contain hidden security constructs that are activated by [[scripts]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|The [[Heaven's Glory]] School has a [[Lesser Treasure Hall]] containing weapons, training supplements, elixirs, and constructs.<ref name="cradle-01-unsouled-c12">''Unsouled'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Lesser Treasure Hall]] is a place from which disciples can select items after surviving the [[Trial of Glorious Ascension]].<ref name="cradle-01-unsouled-c13">''Unsouled'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Lesser Treasure Hall]] is one of three treasure halls in the [[Heaven’s Glory School]].<ref name="cradle-01-unsouled-c14">''Unsouled'', chapter 14</ref>}}</li>
@@ -21,16 +21,14 @@
 <li>{{spoiler|book=cradle-01-unsouled|A [[Jade Forger]] lives over the [[Lesser Treasure Hall]].<ref name="cradle-01-unsouled-c17">''Unsouled'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Lesser Treasure Hall]] contains script-activated security constructs hidden in its floors.<ref name="cradle-01-unsouled-c17" />}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Lesser Treasure Hall]] has a locked door with security scripts and deadly constructs.<ref name="cradle-01-unsouled-c18">''Unsouled'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The ruined building was similar in size to the [[Lesser Treasure Hall]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] suggested speaking in the [[Lesser Treasure Hall]].<ref name="cradle-09-bloodline-c6" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-09-bloodline|“We can speak in the Lesser Treasure Hall.”<ref name="cradle-09-bloodline-c6" />}}

@@ -9,18 +9,17 @@
 {{spoiler|book=lh-04-the-pilot|The Advocates are a group of self-proclaimed guardians of galactic civilization that originated as a band of vigilantes. They eventually gained quasi-official authority and became a vital component of [[life]] within the [[Free Worlds]], where they are viewed as heroic figures and models for citizenship. Their primary role is providing essential public services to those living outside the reach of standard police forces. However, perceptions of the organization vary significantly by region; while they are highly respected in the [[Free Worlds]], the [[Alliance]] views them as an ineffective force that refuses to share its proprietary [[Aethertech]]. Internal and external criticisms of the group include allegations of corruption, specifically that they prioritize protecting their reputation over all else and follow the leadership of [[Starhammer]] without question. The organization has also faced internal division regarding whether they should expand their influence across the galaxy or remain within their established mandate. Following the destruction of [[Starhammer]] and a major battle involving a [[Zenith Device]], the Advocates' headquarters was left in disrepair. Despite these challenges and leadership struggles among their [[Councilors]], some members are working toward rebuilding the organization to be stronger than before.}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Advocates]] are self-proclaimed guardians of galactic civilization.<ref name="lh-01-the-captain-c5">''The Captain'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Advocates]] are individuals who might pursue a criminal.<ref name="lh-01-the-captain-c22">''The Captain'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|Originally a group of vigilantes in the [[Free Worlds]] who gained quasi-official authority, the Advocates are an organization dedicated to protecting the galaxy. Members join through applications and wear blue and white uniforms, operating a fleet of one thousand ships that rely heavily on [[Aethertech]]. While they possess the authority to arrest individuals for crimes like robbery and piracy, they are described as corrupt despite their purpose of saving people. The group performs ship inspections, seals away unidentified relics, and maintains a presence near the [[Scylon system]]. Although they have faced conflict with various individuals and were eventually killed by [[Omega]], they have also provided personal testimonies to the [[Union]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">47</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">47</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The [[Advocates]] are a group that people join through applications.<ref name="lh-02-the-engineer-c1">''The Engineer'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Advocates]] wear blue and white uniforms.<ref name="lh-02-the-engineer-c6">''The Engineer'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Advocates]] have the authority to arrest individuals for crimes such as abduction, robbery, sabotage, and piracy.<ref name="lh-02-the-engineer-c6" />}}</li>
@@ -68,35 +67,32 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[Advocates]] are loyal to [[Starhammer]].<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Advocates]] fought against [[Starhammer]].<ref name="lh-02-the-engineer-c54">''The Engineer'', chapter 54</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Advocates]] provide personal testimonies to the [[Union]].<ref name="lh-02-the-engineer-c55">''The Engineer'', chapter 55</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The Advocates initiated their involvement by placing bounties on the heads of [[Mell]] and the narrator. This group was later identified as a potential force behind various subspace blockades. Despite facing internal instability, the organization remained active and continued to clash with [[Raion]]. Ultimately, the Advocates reached their end when the group fell.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Advocates]] have placed a bounty on the narrator and [[Mell]]'s heads.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Advocates]] are a potential group responsible for subspace blockades.<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Advocates]] are still present.<ref name="lh-03-the-knight-c19">''The Knight'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Advocates]] is a group currently in a state of instability.<ref name="lh-03-the-knight-c23">''The Knight'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Raion]] had a conflict with the Advocates.<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Advocates]] have fallen.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|The Advocates once served as leaders of an allied fleet alongside [[Starhammer]]. This period of influence ended when they were slaughtered within their own home. Despite this tragedy, the group maintains top-security vaults and a frozen prison. Their ability to act is further limited by internal politics, as they take no action when the [[Councilors]] are in disagreement.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Advocates]] led an allied fleet with [[Starhammer]].<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Advocates]] were slaughtered in their home.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Advocates]] possess top-security vaults.<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Advocates]] would take no action due to the [[Councilors]]' disagreement.<ref name="lh-04-the-pilot-c27">''The Pilot'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Advocates]] have a frozen prison.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|“On the bright side, there is only minimal presence from the Advocates stationed nearby.”<ref name="lh-02-the-engineer-c10" />}}

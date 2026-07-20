@@ -6,11 +6,10 @@
 }}
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Karoshan wands]] were trained on [[Raion]].<ref name="lh-02-the-engineer-c4">''The Engineer'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|Raion gave him an encouraging pat. "No!" Then he backed up, paying no attention to the Karoshan guns and wands that had been trained on him since he had laid a hand on her.<ref name="lh-02-the-engineer-c4" />}}

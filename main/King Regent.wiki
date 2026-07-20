@@ -14,34 +14,31 @@
 {{spoiler|book=lh-04-the-pilot|[[King]] [[Regent]] [[Felrex]] is the current ruler of [[Karosha]], having seized power from [[Queen Shyrax]] through betrayal. A member of a specialized subspecies known as [[the Perfected]], he is considered a usurper by those loyal to the former queen. [[Felrex]]'s primary ambition is the expansion of the [[Iron Legion]] through the invasion of the [[Galactic Union]]. To achieve this, he utilizes a highly protected laboratory beneath his royal palace and relies on [[the Perfected]]—an artificially created ruling caste—to bolster his military strength. His leadership style involves strategic stalling and the use of advanced technology, such as the [[Zenith Cannon]], to build his forces. While he is a formidable combatant capable of matching powerful entities like the D'Niss through magical channeling, his reign is characterized by political instability and opposition from various galactic factions.}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[King Regent]] authorized the [[Karoshan commander]] to use a wand.<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|[[King]] [[Regent]] [[Felrex]], the monarch of [[Karosha]], was once a candidate for selection by [[Horizon]]. He is associated with drones observed in the sky and intends to stall the [[D’Niss]] in order to [[construct]] an army of [[Perfected]]. While he watches the duel as a presiding ruler, he is also a figure targeted by the threat posed by [[Varic Vallenar]] and his crew.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|Drones in the sky could belong to the [[King Regent]].<ref name="lh-03-the-knight-c13">''The Knight'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[King]] [[Felrex]] is a monarch who will watch the duel.<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[King]] [[Felrex]] is the [[King]] of [[Karosha]].<ref name="lh-03-the-knight-c29">''The Knight'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[King Regent]] [[Felrex]] was a candidate for selection by [[Horizon]].<ref name="lh-03-the-knight-c37">''The Knight'', chapter 37</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[King Regent]] [[Felrex]] intends to stall the [[D’Niss]] to build an army of [[Perfected]].<ref name="lh-03-the-knight-c38">''The Knight'', chapter 38</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[King]] [[Felrex]] is a figure whom [[Varic Vallenar]] and his crew pose a threat to.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[King Regent]] [[Felrex]] is a mutual enemy of the [[Captain]] and [[Solstice]].<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[King Regent]] [[Felrex]] is a top [[Perfected]] leader who may be waiting with the [[Karoshan fleet]].<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[King Regent]] is the ruler being opposed by the [[Rebel Queen]].<ref name="lh-04-the-pilot-c27">''The Pilot'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“The King Regent authorized me to use this wand and granted me Aethertech for my hunt.<ref name="lh-01-the-captain-c6" />}}

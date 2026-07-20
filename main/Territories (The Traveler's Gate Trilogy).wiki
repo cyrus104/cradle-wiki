@@ -4,20 +4,18 @@
 }}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|None of the Territories are safe.<ref name="tg-01-house-of-blades-c8">''House of Blades'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|A person's full power cannot be called up in someone else's [[Territory]].<ref name="tg-01-house-of-blades-c16">''House of Blades'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|There are ten original Territories: nine unnamed ones and [[Elysia]].<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|Territories are usually embodied in a single [[Incarnation]] at a time.<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -7,27 +7,24 @@
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Nakothi]]'s [[Children]] are monstrous entities created from human remains through the power of the [[Great Elder]] [[Nakothi]], also known as the [[Dead Mother]]. These creatures are formed when [[Nakothi]]'s power embeds itself into corpses, a process she used to design specialized workers or ambassadors during her reign. While many are described as desiccated, sand-colored husks or skeletal remains, they can also manifest as grotesque, mismatched amalgamations of organs and limbs, such as titanic women with tentacles or creatures with shifting, pulpy heads. Driven by a mindless bloodlust and an insatiable hunger, the [[Children]] are often controlled or summoned to battle by their [[Handmaiden]]. They possess a simple and focused mental nature, lacking the deep complexity of other entities like the [[Lyathatan]]. Despite their varied and horrific physical forms, they share a common [[essence]] characterized by a stench of death and a singular, predatory intent. While they are formidable enough to swarm entire arenas or forests, they can be countered by those wielding invested weapons.}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Nakothi's Children]] strike [[Calder]] like a cresting wave.<ref name="ee-sea-01-of-sea-and-shadow-c27">''Of Sea and Shadow'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Nakothi's Children]] include bone-clawed crabs.<ref name="ee-sea-01-of-sea-and-shadow-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nakothi's Children]] live on the [[Island]].<ref name="ee-shadow-01-of-shadow-and-sea-c15">''Of Shadow and Sea'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nakothi]]’s [[Children]] are creatures of many different descriptions that inhabit the [[island]].<ref name="ee-shadow-01-of-shadow-and-sea-c21">''Of Shadow and Sea'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Nakothi]]’s [[Children]] can follow a person no matter how far they crawl.<ref name="ee-shadow-02-of-darkness-and-dawn-c9">''Of Darkness and Dawn'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

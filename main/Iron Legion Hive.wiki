@@ -9,16 +9,15 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The [[Iron Legion]] utilizes [[Hives]] as central structures within their organization. These [[Hives]] function as complex labyrinths composed of living hallways and possess the capability to give birth to a [[King of the Iron Legion]]. During a raid conducted by the [[Fallen Sword]], the scale of such a [[Hive]] prompted concerns regarding whether an entire unit was being pitted against them. Previously, the narrator had engaged in combat against an [[Iron Legion]] [[Hive]] while fighting on behalf of the [[Vallenar Corporation]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|An [[Iron Legion Hive]] can give birth to a [[King of the Iron Legion]].<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Iron Legion]] has [[Hives]].<ref name="lh-01-the-captain-c4">''The Captain'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The narrator wonders if they are being pitted against an entire [[Iron Legion Hive]].<ref name="lh-01-the-captain-c13">''The Captain'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Fallen Sword]] is raiding an [[Iron Legion Hive]].<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|An [[Iron Legion Hive]] can be a [[labyrinth]] of living hallways.<ref name="lh-01-the-captain-c19">''The Captain'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The narrator previously fought against an [[Iron Legion Hive]] on the [[Vallenar Corporation]]'s side.<ref name="lh-01-the-captain-c27">''The Captain'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“She is in the midst of raiding an Iron Legion Hive…”<ref name="lh-01-the-captain-c16" />}}

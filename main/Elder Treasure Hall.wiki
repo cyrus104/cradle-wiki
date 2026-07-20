@@ -6,12 +6,11 @@
 }}
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The female elder suggested the [[Elder Treasure Hall]] to host guests.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|There is an [[Elder Treasure Hall]] within the school.<ref name="cradle-09-bloodline-c7">''Bloodline'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

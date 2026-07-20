@@ -16,8 +16,8 @@
 == Unsouled ==
 {{spoiler|book=cradle-01-unsouled|Wei Shi Jaran, whose name is inscribed on an iron tablet used by members of the [[Shi family]], was once considered one of the most promising [[sacred artists]] within the clan. He is the father of [[Lindon]] and bears a permanent smirk from a scar at the corner of his lip, as well as a limp that necessitates the use of a cane. During an arena match, he watched the proceedings with fury. Additionally, he appeared within [[Lindon]]'s dream to observe a battle between the [[Jades]] and Markuth.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|[[Wei Shi Jaran]] has a lip scarred into an eternal smirk and a limp that requires a cane from participating in the [[Festival]] before last.<ref name="cradle-01-unsouled-c2">''Unsouled'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|Jaran has a scar at the corner of his lip.<ref name="cradle-01-unsouled-c3">''Unsouled'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|Jaran uses a cane.<ref name="cradle-01-unsouled-c3" />}}</li>
@@ -27,57 +27,50 @@
 <li>{{spoiler|book=cradle-01-unsouled|Jaran is watching a battle between Markuth and the [[Jades]] in [[Lindon]]'s dream.<ref name="cradle-01-unsouled-c10">''Unsouled'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Wei Shi Jaran]] is the name on an iron tablet used by members of the [[Shi family]].<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|Jaran watched the arena match in fury.<ref name="cradle-01-unsouled-c12">''Unsouled'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Wei Shi Jaran]] was blinded by the [[Heaven's Glory]] School as punishment.<ref name="cradle-07-uncrowned-c1">''Uncrowned'', chapter 1</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Wei Shi Jaran]] is [[Lindon]]'s father.<ref name="cradle-09-bloodline-c8">''Bloodline'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Wei Shi Jaran]] has a bad leg.<ref name="cradle-09-bloodline-c8" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Jaran is [[Wei Shi Jaran]].<ref name="cradle-09-bloodline-c8" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Jaran is juggling his cane.<ref name="cradle-09-bloodline-c15">''Bloodline'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|Jaran has a wounded leg.<ref name="cradle-10-reaper-c5">''Reaper'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] restored Jaran’s eyes.<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] repaired the shape of Jaran’s long-twisted leg.<ref name="cradle-10-reaper-c7" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Wei Shi Jaran]] holds a spear and lives in Serpent’s [[Grave]].<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Jaran suspected [[Lindon]] caused the current situation.<ref name="cradle-11-dreadgod-c17" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|Jaran has replacement eyes.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|Jaran is [[Kelsa's father]].<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|Jaran is part of [[Lindon]]'s family.<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-09-bloodline|"These people looked like his parents, so familiar he could never mistake them."<ref name="cradle-09-bloodline-c8" />}}

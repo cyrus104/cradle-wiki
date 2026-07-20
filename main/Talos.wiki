@@ -19,8 +19,8 @@
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Talos, the curly golden-haired firstborn son of [[King Zakareth the Sixth]] and heir to the [[Damascan]] throne, acted as a proud older brother to [[Leah]]. Clad in a black and red suit and wielding a crimson blade artifact of Ragnarus, he spent years planning with [[Lysander]] to assassinate the [[King]]. As a lord and unit leader, Talos utilized his abilities as a [[Traveler of Ragnarus]] to bring a strike force from [[Enosh]] to betray [[Zakareth]]. During the ensuing battle, he commanded his forces and engaged his father using a jeweled staff to deflect a spear. Ultimately, Talos was located in the [[Damascan camp]] on the verge of death, his body lying upon blue tiles with a livid red mark around his neck.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">29</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">29</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Talos]] is [[Leah]]'s brother.<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Talos]] is a [[Damascan]] royal Heir.<ref name="tg-02-crimson-vault-c3" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Talos]] carries a [[sword]] with a red blade which is an artifact of Ragnarus.<ref name="tg-02-crimson-vault-c3" />}}</li>
@@ -50,8 +50,7 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Talos]] is a [[Ragnarus Traveler]].<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Talos]] betrayed [[Zakareth]] by bringing a strike force from [[Enosh]].<ref name="tg-02-crimson-vault-c23" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Talos]]'s body lay on blue tiles with a livid red mark around his neck.<ref name="tg-02-crimson-vault-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|"Eliadel, this man claims to be Talos, firstborn son of Zakareth the Sixth, and Heir to the Damascan throne."<ref name="tg-02-crimson-vault-c15" />}}

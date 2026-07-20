@@ -9,39 +9,36 @@
 {{spoiler|book=cradle-13-threshold|[[Enforcer techniques]] are a category of [[madra]]-based abilities used to enhance various aspects of combat, ranging from physical attributes to weaponry. These techniques are broadly classified into several types: full-body techniques, which reinforce the user's entire form to increase strength or speed; weapon techniques, which focus power into a tool like a [[sword]] or spear; and attack techniques, which concentrate enforcement into specific, powerful individual strikes. While specialized attack techniques offer greater potency than full-body versions, they are often more cumbersome and leave the user vulnerable to retaliation. Users may also employ specialized variations, such as mental techniques to heighten perception or spirit techniques to prepare the soul. Some advanced practitioners can layer multiple techniques simultaneously or braid them together for complex effects, though this requires significant [[madra]] and concentration. The physical manifestation of these techniques often includes radiating light, external markings, or specific colored auras that can be sensed by others. While highly effective for boosting mobility, defense, or offensive power, many techniques carry significant costs, such as straining muscles and joints, burning through [[madra]] rapidly, or causing internal physical damage that requires constant healing.}}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|An [[Enforcer technique]] can cause a person to drift slowly.<ref name="cradle-02-soulsmith-c6">''Soulsmith'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Lindon]] can execute a basic [[Enforcer technique]].<ref name="cradle-02-soulsmith-c16">''Soulsmith'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|An [[Enforcer]] technique functions by using [[madra]] to power and protect a practitioner's body until the energy is exhausted or the technique is released. The [[Flowing Sword]] serves as a specific example of such a method. These techniques can be evaluated through the use of a [[binding]], which is designed to test their effectiveness. During combat, [[Jai Daishou]] has utilized an [[Enforcer]] technique, and the young [[Blackflame]] has also employed one to successfully dodge attacks.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|An [[Enforcer technique]] protects and powers a user's body with [[madra]] until the [[madra]] is depleted or the technique is dropped.<ref name="cradle-03-blackflame-c12">''Blackflame'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[binding]] is meant to test an [[Enforcer technique]].<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Flowing Sword]] is an [[Enforcer technique]].<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Jai Daishou]] uses an [[Enforcer technique]].<ref name="cradle-03-blackflame-c20">''Blackflame'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The young [[Blackflame]] used his [[Enforcer technique]] to dodge.<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Wei Shi Lindon Arelius]] uses an [[Enforcer technique]] to flow [[madra]] through his body.<ref name="cradle-04-skysworn-c3">''Skysworn'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|An [[Enforcer technique]] can be used to block out pain.<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|The [[Enforcer]] technique is a fundamental method that can be enhanced through the use of an egg's power. While it can manifest as single strikes like [[sword]] slashes or palm-strikes, the technique also provides a full-body strengthening effect and increased speed. Practitioners such as [[Ekeri]], [[Ekerinatoth]], and [[Ziel]] utilize this ability, and [[Lindon]] has employed it to restrain [[Orthos]]. The technique can appear as a shroud of burning black-and-red or cause a blade to pulse with power.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Enforcer technique]] is a basic technique that can be boosted by the egg's power.<ref name="cradle-05-ghostwater-c1">''Ghostwater'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] uses the [[Enforcer technique]] to restrain [[Orthos]].<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|An [[Enforcer technique]] provides a full-body strengthening effect.<ref name="cradle-05-ghostwater-c8">''Ghostwater'', chapter 8</ref>}}</li>
@@ -52,82 +49,73 @@
 <li>{{spoiler|book=cradle-05-ghostwater|[[Enforcer techniques]] can be full-body or single strikes like palm-strikes or [[sword]] slashes.<ref name="cradle-05-ghostwater-c13">''Ghostwater'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Yerin's master]]'s blade pulses with the power of her [[Enforcer technique]].<ref name="cradle-05-ghostwater-c17">''Ghostwater'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] was shrouded in the burning black-and-red of his [[Enforcer technique]].<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|An [[Enforcer technique]] can emit pink light.<ref name="cradle-06-underlord-c2">''Underlord'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Enforcer technique]] can provide explosive strength and speed.<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|[[Enforcer techniques]] serve as a standard combat option for practitioners. During his battles, [[Lindon]] activates a [[pure madra]] technique that manifests as blue-white flame. Other combatants utilize these methods for different purposes, such as [[Pride]] employing a defensive gray haze or Sophara using the technique to fuel her jumps. Despite their utility, these [[Enforcer techniques]] possess inherent limits.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Enforcer]] attack techniques are a standard option for combat.<ref name="cradle-07-uncrowned-c5">''Uncrowned'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] activates a [[pure madra]] [[Enforcer technique]] that manifests as blue-white flame.<ref name="cradle-07-uncrowned-c11">''Uncrowned'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Pride]] uses a defensive [[Enforcer technique]] with a gray haze.<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Sophara uses an [[Enforcer technique]] to fuel her jump.<ref name="cradle-07-uncrowned-c14" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Enforcer technique]] has limits.<ref name="cradle-07-uncrowned-c20">''Uncrowned'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Blacksword]]'s soul was in poor shape after his match.<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Red Faith]] uses an [[Enforcer technique]].<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yerin]]'s [[Enforcer technique]] is considered fine but not worth working on by the [[Winter Sage]].<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Pride]] used four [[Enforcer techniques]] to break [[Mercy]]'s grip.<ref name="cradle-09-bloodline-c2">''Bloodline'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Titan]] uses an [[Enforcer technique]] that manifests as a golden nimbus.<ref name="cradle-09-bloodline-c20">''Bloodline'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|An [[Enforcer technique]] was used on [[Reigan Shen]]'s axe.<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Jai Long]]'s [[Enforcer technique]] is imbalanced due to inconsistently baptized channels.<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]]'s partner used an [[Enforcer technique]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|A spirit [[Enforcer technique]] is needed to separate drained [[madra]].<ref name="cradle-11-dreadgod-c3" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Red Faith]] uses an [[Enforcer technique]] to knit his bones and flesh back together.<ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Dreadgod]] combined a [[Forged claw]] of [[Blackflame madra]] with an [[Enforcer technique]].<ref name="cradle-11-dreadgod-c18">''Dreadgod'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Northstrider]] funnels the [[Enforcer technique]] into his fists.<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Enforcer technique]] prepares the soul.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Ziel]] used no [[Enforcer technique]] while fighting his [[Remnant]].<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Shadeseeker]]'s limbs were covered by an [[Enforcer technique]].<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Tiberian]] uses an [[Enforcer technique]].<ref name="cradle-13-threshold-c1" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Bloody Thorn]] may have used an [[Enforcer technique]] during her fight.<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

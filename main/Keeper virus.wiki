@@ -4,13 +4,12 @@
 }}
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Keeper virus]] becomes more aggressive in response to [[Aila]]'s accelerated healing.<ref name="lh-04-the-pilot-c13">''The Pilot'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Keeper virus]] is believed to have been engineered by an [[Aether Technician]].<ref name="lh-04-the-pilot-c13" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Keeper virus]] must be manually reapplied and cannot exist in the wild.<ref name="lh-04-the-pilot-c17">''The Pilot'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

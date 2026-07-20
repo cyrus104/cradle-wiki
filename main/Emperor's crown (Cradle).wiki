@@ -7,21 +7,19 @@
 {{spoiler|book=cradle-11-dreadgod|[[The Emperor]]'s crown refers to a collection of thirty-two artifacts located on a tropical [[island]]. These crowns are easily identifiable from the air because they emit a golden beacon of light, though the physical objects remain hidden beneath thick forest canopies. When an individual places a crown on their head, the golden light intensifies and turns white. This action is permanent; once worn, a crown can only be removed if the wearer is killed. These white crowns are associated with the [[Silent King]].}}
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|A crown is only removed if the wearer is killed while wearing it.<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|There are supposed to be twenty-eight more crowns.<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Crowns appear at a rate of ten per hour.<ref name="cradle-07-uncrowned-c14" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Crowns appear during the tournament rounds.<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Kerani]] saw a glimmer of white light resembling a crown behind [[Terkell]]'s head.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-07-uncrowned|"But there are supposed to be twenty-eight more crowns."<ref name="cradle-07-uncrowned-c14" />}}

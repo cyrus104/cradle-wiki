@@ -6,12 +6,11 @@
 }}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|[[Heavenly Sky Tigers]] are a lineage of [[sacred beasts]].<ref name="cradle-02-soulsmith-c14">''Soulsmith'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|For a Heavenly Sky Tiger, consuming the body of their sibling acts like an elixir to support their [[madra]].<ref name="cradle-02-soulsmith-c14" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

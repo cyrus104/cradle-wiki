@@ -6,18 +6,16 @@
 }}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Urzaia]] possesses two [[Awakened hatchets]].<ref name="ee-sea-01-of-sea-and-shadow-c17">''Of Sea and Shadow'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Urzaia]] carries dark [[Awakened hatchets]].<ref name="ee-sea-03-of-kings-and-killers-c18">''Of Kings and Killers'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

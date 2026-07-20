@@ -9,48 +9,43 @@
 {{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Navigator]]’s [[Guild]] is an [[Imperial]] [[Guild]] that holds a monopoly on safe travel across the [[Aion Sea]]. Because they are the only force capable of navigating these waters at will, members often accumulate significant personal wealth. [[The Guild]] is led by [[Cheska Bennett]], who commands the flagship known as [[The Eternal]], a blood-red vessel that leaves trails of alchemical fire in its wake. Their crest features a ship's wheel with a single eye at the center. [[The Guild]]'s maritime dominance is rooted in the unique nature of their ships, which are known as [[Vessels]]. These one-of-a-kind [[Awakened objects]] are constructed with parts of an [[Elder]] built into their structure. This technology allows [[Navigators]] to function as [[Soulbound]], meaning they possess an uncanny, physical connection to their ships that enables them to control them with incredible precision. While some view the [[Guild]] members as pirates or swindlers, they are essential for any maritime commerce or travel within the [[Empire]]. [[The Guild]] maintains a massive presence, including a chapter house in the [[Capital]] constructed from ancient ship wreckage and various properties throughout the [[Empire]].}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Cheska Bennett]] is the Head of the [[Navigator’s Guild]].<ref name="ee-sea-01-of-sea-and-shadow-c1">''Of Sea and Shadow'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Guild]] of [[Navigators]] is a guild.<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Navigator]]'s [[Guild crest]] is a ship’s wheel with a single eye in the center.<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Navigator]]’s [[Guild]] is a group located on the [[Gray Island]] that maintains a membership consisting of captains and other individuals who receive discounts at alchemical chapter houses. The organization possesses the capacity to be loaded with guards and soldiers, and it maintains supervisory authority over [[Andel Petronus]]. During the events of this volume, [[Calder Marten]] is sentenced to perform forced labor in service to the guild after being assigned a specific job for them.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder Marten]] has a job for the [[Navigator]]'s [[Guild]].<ref name="ee-sea-02-of-dawn-and-darkness-c5">''Of Dawn and Darkness'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Navigator’s Guild]] supervises [[Andel Petronus]].<ref name="ee-sea-02-of-dawn-and-darkness-c13">''Of Dawn and Darkness'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Navigator]]'s [[Guild]] is a group that can be loaded with soldiers and [[Guards]].<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder Marten]] was sentenced to forced labor in the service of the [[Navigator’s Guild]].<ref name="ee-sea-02-of-dawn-and-darkness-c16">''Of Dawn and Darkness'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Guild]] of [[Navigators]] is a guild that includes Captains and members who receive discounts at alchemical chapter houses.<ref name="ee-sea-02-of-dawn-and-darkness-c17">''Of Dawn and Darkness'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Navigator’s Guild]] is one of the groups on the [[Gray Island]].<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Calder Marten]] is a [[Captain]] in the [[Navigator]]'s [[Guild]].<ref name="ee-shadow-02-of-darkness-and-dawn-c13">''Of Darkness and Dawn'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Navigator]]'s [[Guild]] sent [[Calder]] on orders to search for [[Captain Tommison]].<ref name="ee-sea-03-of-kings-and-killers-c10">''Of Kings and Killers'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Navigator’s Guild]] employs [[Readers]].<ref name="ee-sea-03-of-kings-and-killers-c16">''Of Kings and Killers'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“Cheska Bennett. Member of the proud Guild of Navigators, and recently made captain of The Eternal.”<ref name="ee-sea-01-of-sea-and-shadow-c8" />}}

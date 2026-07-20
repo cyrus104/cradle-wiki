@@ -7,23 +7,21 @@
 {{spoiler|book=lh-04-the-pilot|Basyrryx is a cavern-based planet situated within a [[Zenith Device]] on the edge of the [[Alliance]]. Despite being supported by a [[World Spirit]], the planet lacks its own indigenous civilization due to its specific galactic location. The world features a sophisticated underground environment where light is provided through an ancient magical mechanism that captures and enhances sunlight via the [[Aether]]. Currently, the planet serves as a refuge for [[Karoshan]] evacuees and is ruled by Shyrax, known as the [[Rebel Queen]], from the depths of [[Shadow Ark]]. The [[World Spirit of Basyrryx]] is a young-looking woman in a golden dress who desires permanent residents and visitors, making the planet a site for magical instruction.}}
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Basyrryx]] is a planet on the border of the [[Alliance]] that is supported by a [[World Spirit]] but lacks civilization.<ref name="lh-03-the-knight-c24">''The Knight'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The outer crust of [[Basyrryx]] is largely uninhabitable due to a toxic atmosphere trapped by rolling yellow clouds.<ref name="lh-03-the-knight-c24" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Beneath the crust of [[Basyrryx]] is a vast cavern system that spans the entire planet, including its oceans.<ref name="lh-03-the-knight-c24" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Basyrryx]] is a planet accepting evacuating ships.<ref name="lh-03-the-knight-c24" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Basyrryx]] is a planet located inside a [[Zenith Device]].<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Basyrryx]] is a cavern-planet.<ref name="lh-04-the-pilot-c7">''The Pilot'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Basyrryx]] is a location where Shyrax has mages.<ref name="lh-04-the-pilot-c35">''The Pilot'', chapter 35</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

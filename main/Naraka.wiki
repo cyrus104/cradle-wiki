@@ -11,8 +11,8 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|Naraka is a territory belonging to [[Grandmaster Naraka]] that serves as a source for ferocious creatures and contains various black pits. This realm can be traveled through via specific waypoints used for fast travel, and it is associated with a stripe of [[Travelers]] who wear burnt red robes. The region contains red stones characterized by a gritty, sandy outer coating similar to fine ash. Furthermore, power can be pulled from Naraka, and the group itself is known to send reinforcements.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Naraka]] is a place from which ferocious creatures originate.<ref name="tg-01-house-of-blades-c2">''House of Blades'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Naraka]] is a place described as having black pits.<ref name="tg-01-house-of-blades-c2" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Naraka]] has waypoints used for fast travel.<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}</li>
@@ -22,14 +22,13 @@
 <li>{{spoiler|book=tg-01-house-of-blades|[[Naraka]] is a stripe of [[Traveler]] associated with burnt red robes.<ref name="tg-01-house-of-blades-c18">''House of Blades'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Naraka]] is a place from which power can be pulled.<ref name="tg-01-house-of-blades-c20">''House of Blades'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Naraka]] is a group that sends reinforcements.<ref name="tg-01-house-of-blades-c21">''House of Blades'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Naraka is a [[Damascan Traveler]] and a blond woman who possesses the ability to summon fire from the [[Furnace of Judgment]]. Known as the Cavern of Flame, she represents justice, law, and order while wearing red-tinted glasses and blood-red robes. As one of the [[Travelers]] who attacked [[Simon]]'s parents, she is associated with a territory that [[Simon]] intends to never visit again. This location serves as a place from which incursions may come and is inhabited by flaming black lizard-things.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Naraka]] is a blond woman who can summon fire from the [[Furnace of Judgment]].<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Naraka]] is a type of [[Traveler]].<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Naraka]] was one of the [[Travelers]] who attacked [[Simon]]'s parents.<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}</li>
@@ -43,14 +42,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Naraka]] is a [[Damascan Traveler]].<ref name="tg-02-crimson-vault-c19">''The Crimson Vault'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Naraka]] is a place containing flaming black lizard-things.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Naraka]] represents justice.<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|Naraka is one of the nine [[Territories]] and a location that the group has previously traveled through. This territory can be entered via a red Gate, and it is home to a pack of dogs. Within this realm, an old woman and several guards have remained, and [[Indirial]] was once ordered to enter the area. The name also refers to a Grandmaster who wears traditional dark red robes and possesses knowledge of what patrols the streets between sundown and sunup. This figure is a deity or force that can be invoked to judge and punish, though [[Alin]] had not seen them all day.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Naraka]] will judge and punish.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Naraka]] is someone [[Alin]] has not seen all day.<ref name="tg-03-city-of-light-c2" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Naraka]] is a deity or force that can be invoked.<ref name="tg-03-city-of-light-c4">''City of Light'', chapter 4</ref>}}</li>
@@ -64,8 +62,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[Naraka]] is a [[Territory]] that the group has traveled through before.<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Naraka]] has a pack of dogs.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Rhalia]] kept [[Shai]] in the City to keep her safe from [[Naraka]].<ref name="tg-03-city-of-light-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|“Then we must act now. If we Travel through Naraka, surely we can make it.”<ref name="tg-01-house-of-blades-c16" />}}

@@ -7,29 +7,26 @@
 {{spoiler|book=cradle-12-waybound|Hunger [[aura]], also known as the [[aura]] of blood and hunger, is a non-natural force that functions by indiscriminately consuming energy. It acts as a corrupting influence that weakens all other forms of [[aura]], including those belonging to humans, [[sacred beasts]], natural spirits, and remnants. The presence of this [[aura]] can induce intense feelings of greed, insatiable ambition, and a desperate desire to move forward. It is known to nibble away at power continuously, meaning any energy spent or consumed by hunger-based techniques is lost permanently. While often mistaken for a mere corruption of [[pure madra]], the [[aura]] is actually linked to the presence of [[Monarchs]]; if they were to depart, the [[Dreadgods]] would lose strength. The [[aura]] is closely associated with the [[Dreadgods]], specifically appearing in patterns that empower them, such as when it erupted from the [[Silent King]] to strengthen the others. It is a core component of the [[Bleeding Phoenix]], which blends blood and hunger aspects together. The [[aura]] can manifest in various forms, such as a swirling white and gray energy that resembles a colorless person, or as hunger constructs like fangs. It can also cause physical corruption, such as turning stone into a substance resembling overgrown skin.}}
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The wave of power from [[Sacred Valley]] was a [[hunger aura]].<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[hunger aura]] felt like an endless, gnawing greed for more.<ref name="cradle-10-reaper-c8" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The power emanating from within the [[labyrinth]] is an all-consuming hunger.<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Hunger aura]] exploded from the [[Silent King]]'s corpse and empowered other [[Dreadgods]].<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Hunger aura]] only shows up when [[Monarchs]] stay too long.<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Northstrider]] used an [[aura]] of blood and hunger.<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Hunger aura]] erupted from the [[Weeping Dragon]] upon its death.<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-11-dreadgod|"Hunger aura doesn’t happen naturally," Yerin said. "It only shows up when there are Monarchs who stay too long."<ref name="cradle-11-dreadgod-c21" />}}

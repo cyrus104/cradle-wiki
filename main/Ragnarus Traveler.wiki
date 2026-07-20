@@ -7,23 +7,21 @@
 {{spoiler|book=tg-03-city-of-light|Ragnarus [[Travelers]] are individuals linked to the ninth [[Territory]], known as Ragnarus or the [[Crimson Vault]]. These [[Travelers]] possess the ability to summon powerful weapons and can travel specifically back to [[Cana]], though they cannot open [[Gates]] to the [[Crimson Vault]] from within a [[Territory]]. The power associated with Ragnarus is described as warm, hungry, and sentient, often acting like a disembodied heart. A defining characteristic of these [[Travelers]] is the cost required to use their abilities; they frequently utilize the pain or blood of others to activate and fuel their weapons. In combat, a [[Traveler]] can consume enemies to sustain themselves, provided they are willing to pay the necessary price. While some [[Travelers]] serve as guards meant to intercept uninvited entities passing through Ragnarus [[Gates]], others may act as traitors or use their connection to the [[Territory]] for self-serving purposes.}}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Indirial]] expects backup in the form of a pair of Ragnarus [[Travelers]].<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|Ragnarus [[Travelers]] have a tendency to pay the prices for their weapons using other people.<ref name="tg-02-crimson-vault-c13">''The Crimson Vault'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|A [[Ragnarus Traveler]] can be found at the heart of the [[Crimson Vault]].<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Valin]] questions if Ragnarus [[Travelers]] will be grateful to [[Simon]].<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Leah]]'s brothers and sisters were Ragnarus [[Travelers]].<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Leah]] is a [[Ragnarus Traveler]].<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|A [[Ragnarus Traveler]] is an impossibly powerful combatant.<ref name="tg-03-city-of-light-c19">''City of Light'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

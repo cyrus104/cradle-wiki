@@ -6,14 +6,13 @@
 }}
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Miss Lakiri]] is a gunner from [[Vandenyas]].<ref name="ee-sea-03-of-kings-and-killers-c10">''Of Kings and Killers'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Lakiri was left twitching and foaming at the mouth after the battle.<ref name="ee-sea-03-of-kings-and-killers-c12">''Of Kings and Killers'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Lakiri was stung by [[Othaghor]]’s [[Slithers]].<ref name="ee-sea-03-of-kings-and-killers-c14">''Of Kings and Killers'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Lakiri is dead.<ref name="ee-sea-03-of-kings-and-killers-c14" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

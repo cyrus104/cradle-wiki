@@ -9,45 +9,40 @@
 {{spoiler|book=cradle-12-waybound|The Nethergate is a massive stone door, standing thirty meters tall and featuring carvings of a [[Dreadgod]], which serves as the primary entrance to a [[labyrinth]] located within [[Sacred Valley]]. Situated north of [[Yoma Mountain]], this gateway is managed by the [[Fallen Leaf School]], whose elders use it every ten years to access treasures from the [[labyrinth]]'s upper levels. The door is notable for its ability to react to the presence of the [[labyrinth]]'s master, though it has also been known to malfunction or fail to open on schedule. Historical records regarding the Nethergate and its contents are inconsistent; while some sources claim it is the location where [[Dreadgods]] were born, others suggest it was a site used for studying [[Dreadgod]] samples. It is also believed to be the origin point of [[dreadbeasts]], which are lesser copies of the [[Dreadgods]]. Additionally, a fragment of an ancient [[stone tablet]] found at the base of the Nethergate is rumored to possess unique properties, though this has never been verified.}}
 
 == Unsouled ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|A [[stone tablet]] fragment was supposedly found at the base of the [[Nethergate]].<ref name="cradle-01-unsouled-c8">''Unsouled'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Nethergate]] opens every ten years, allowing [[Fallen Leaf]] elders to retrieve treasures from the [[labyrinth]]'s shallowest levels.<ref name="cradle-01-unsouled-c12">''Unsouled'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The [[Nethergate]] is a [[gate]] that opens with a hissing release of power.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The [[Nethergate]] is the exit to the [[labyrinth]].<ref name="cradle-10-reaper-c21">''Reaper'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Nethergate]] is a location that can crack or swing open.<ref name="cradle-10-reaper-c21" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Nethergate]] is a [[gate]] that [[Yerin]] and [[Eithan]] approached.<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Reigan Shen]] exited through the [[Nethergate]].<ref name="cradle-10-reaper-c24" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Nethergate]] is a giant stone door carved with the image of the [[Slumbering Wraith]].<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] and [[Cassias]] watched an exodus from the [[Nethergate]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] flew toward the [[Nethergate]] in [[Sacred Valley]].<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] passed through the [[Nethergate]].<ref name="cradle-12-waybound-c15">''Waybound'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

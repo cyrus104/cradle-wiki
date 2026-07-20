@@ -18,8 +18,8 @@
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|Prince [[Seishen]] Kiro is the first prince of the [[Seishen Kingdom]] and the son of [[King Dakata]]. While searching for the [[Blackflame]] boy alongside Meira, he utilized combat techniques involving a [[sword]] with blue sparks and a red-hot metal shield bearing a lion's face. As an [[Underlord]] whose [[Path]] incorporates aspects of earth and force, Kiro wore armor made entirely of [[madra]] that glowed with a silver-and-yellow corona. During his confrontation with [[Lindon]], the noble-blooded warrior launched a bright blue lance and used a [[Striker technique]] to produce blue lightning from his blade. Despite being a [[Truegold]] capable of challenging Underlords, Kiro eventually saw his armor fall apart and lost his shield while his left arm went numb.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">29</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">29</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Prince Seishen Kiro]] is a prince of the [[Seishen Kingdom]].<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|Kiro is the first prince of the [[Seishen Kingdom]].<ref name="cradle-06-underlord-c6" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Seishen]] Kiro is the son of [[King Dakata]].<ref name="cradle-06-underlord-c9">''Underlord'', chapter 9</ref>}}</li>
@@ -49,35 +49,31 @@
 <li>{{spoiler|book=cradle-06-underlord|Kiro is an ally of Daji and Meira.<ref name="cradle-06-underlord-c20" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|Kiro used a [[Striker technique]] in his [[sword]] that produced blue lightning.<ref name="cradle-06-underlord-c20" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Seishen]] Kiro is associated with an urn.<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The world stops against [[Seishen]] Kiro.<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Prince Kiro saw Harmony in [[Ghostwater]].<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|Prince Kiro was left dead in [[Charity]]�s treasure [[vault]].<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Kiro is the brother of Daji.<ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Kiro is dead.<ref name="cradle-08-wintersteel-c20">''Wintersteel'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|Kiro was the original crown prince.<ref name="cradle-13-threshold-c9">''Threshold: Stories from Cradle'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Kiro is Daji's older brother.<ref name="cradle-13-threshold-c9" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Daji was resentful of Prince Kiro.<ref name="cradle-13-threshold-c9" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Prince Kiro is the first prince of the [[Seishen Kingdom]].<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-06-underlord|It was too far away for Lindon to read, but he suspected it read “Seishen Kiro.” Not a jar, then. An urn.<ref name="cradle-06-underlord-c21" />}}

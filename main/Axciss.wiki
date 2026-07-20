@@ -11,8 +11,8 @@
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Located on the [[Izyrian continent]], Axciss is known as the City of [[Champions]]. The city features a gladiator's [[arena]] that serves as a site where criminals are sentenced to death. Upon reaching the city, which was three days away from [[Calder]]'s position, the crew visited this [[arena]]. Following an explosion at the site, a hunt for unregistered alchemists was set to take place within Axciss, where [[Calder]] and [[Jerri]] possessed very few acquaintances.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Axciss]] is the City of [[Champions]] located on the [[Izyrian continent]].<ref name="ee-sea-02-of-dawn-and-darkness-c9">''Of Dawn and Darkness'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Axciss]] contains a gladiator's [[arena]] where criminals are sentenced to death.<ref name="ee-sea-02-of-dawn-and-darkness-c9" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] and [[Jerri]] have few acquaintances in [[Axciss]].<ref name="ee-sea-02-of-dawn-and-darkness-c15">''Of Dawn and Darkness'', chapter 15</ref>}}</li>
@@ -20,31 +20,27 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Axciss]] is a location where there will be a hunt for unregistered alchemists following an explosion at the [[arena]].<ref name="ee-sea-02-of-dawn-and-darkness-c17" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The crew visited the [[arena]] upon reaching [[Axciss]].<ref name="ee-sea-02-of-dawn-and-darkness-c19">''Of Dawn and Darkness'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Axciss]] is a location located three days from [[Calder]]'s current position.<ref name="ee-sea-02-of-dawn-and-darkness-c21">''Of Dawn and Darkness'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Axciss]] is a location mentioned by the old man.<ref name="ee-shadow-02-of-darkness-and-dawn-c7">''Of Darkness and Dawn'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Nakothi]] has choices from [[Axciss]].<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Rebels are active in [[Axciss]].<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Axciss]] is a location.<ref name="ee-shadow-03-of-killers-and-kings-c12">''Of Killers and Kings'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The situation in [[Axciss]] was described as urgent.<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

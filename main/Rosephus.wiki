@@ -14,8 +14,8 @@
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Rosephus is a [[Champion]] with a muscular build similar to an [[Izyrian]] statue, bearing a shallow cut over one eyebrow and carrying [[Emperor (Elder Empire)|the Emperor]]'s full-face helmet. He keeps three swords buckled to the right side of his hip and possesses a [[sword]] that he spins in place. Through his blue [[Soulbound Vessel]], he can create spectral weapons, specifically manifesting daggers of red light that hover over his head. During the events described, [[Tyria]] calls out to him, and he questions which members of the group are [[Readers]]. Additionally, [[Petal]] commands Rosephus to seal a door.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Rosephus]] is a [[Champion]] who is muscled like an [[Izyrian]] statue and carries many weapons.<ref name="ee-sea-03-of-kings-and-killers-c13">''Of Kings and Killers'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Rosephus]] carries three swords buckled to the right side of his hip.<ref name="ee-sea-03-of-kings-and-killers-c13" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Rosephus]] is a [[Champion]].<ref name="ee-sea-03-of-kings-and-killers-c15">''Of Kings and Killers'', chapter 15</ref>}}</li>
@@ -29,16 +29,14 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Rosephus]] has a shallow cut over one eyebrow.<ref name="ee-sea-03-of-kings-and-killers-c17" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Rosephus]] asks who among the group are [[Readers]].<ref name="ee-sea-03-of-kings-and-killers-c17" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Rosephus]] is someone [[Petal]] commands to seal a door.<ref name="ee-sea-03-of-kings-and-killers-c17" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Rosephus]] was destroying walls in a rage to find someone.<ref name="ee-shadow-03-of-killers-and-kings-c16">''Of Killers and Kings'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Rosephus]] uses a [[sword]] in each hand and has three ghostly red daggers as his [[Soulbound]] power.<ref name="ee-shadow-03-of-killers-and-kings-c16" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-03-of-kings-and-killers|“Northwest corner, Rosephus,” she called back.<ref name="ee-sea-03-of-kings-and-killers-c15" />}}

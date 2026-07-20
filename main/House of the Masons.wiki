@@ -4,26 +4,23 @@
 }}
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[House of the Masons]] is one of the most respected orders on [[Gray Island]].<ref name="ee-shadow-01-of-shadow-and-sea-c5">''Of Shadow and Sea'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Zhen]]'s [[House of the Masons]] is an entrance well-known to [[Consultants]].<ref name="ee-shadow-01-of-shadow-and-sea-c13">''Of Shadow and Sea'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[House of the Masons]] is located on [[Gray Island]].<ref name="ee-shadow-02-of-darkness-and-dawn-c20">''Of Darkness and Dawn'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[High Council]] and certain [[Architects]] protect someone beneath the house of the [[Masons]].<ref name="ee-shadow-03-of-killers-and-kings-c17">''Of Killers and Kings'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

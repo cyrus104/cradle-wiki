@@ -11,8 +11,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The Karoshan are an eloquent species of warriors standing nine feet tall, characterized by neon-like hair that grows in thick strands from the back of their helmets. These people, who are associated with both space colonies and pirates, utilize plasma rifles and standard infantry helmets while employing [[Aethertech]] during patrols to identify individuals. Although they are considered superior to humans in nearly every respect, the [[Iron King]] is noted as being the equal of most of their kind. Currently engaged in a war against the [[Lichborn]], the Karoshan have seen an improvement in their diplomatic relations through the efforts of [[President Vashei]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">14</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|Karoshans are a species known for being eloquent and superior to humans in virtually every respect.<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Karoshans are superior to humans in virtually every respect.<ref name="lh-01-the-captain-c6" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Karoshans are nine feet tall.<ref name="lh-01-the-captain-c6" />}}</li>
@@ -27,14 +27,13 @@
 <li>{{spoiler|book=lh-01-the-captain|[[Karoshan]] is a group associated with pirates.<ref name="lh-01-the-captain-c35">''The Captain'', chapter 35</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The Karoshans are at war with the [[Lichborn]].<ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[President Vashei]] improved relationships with the Karoshans.<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|The Karoshan are a faction of exiles serving under the [[Rebel Queen]], [[Shyrax the Third]]. This group, which is sometimes compared to [[the Perfected]], travels in vessels that fly alongside [[The Last Horizon]] and utilizes Combat Artists clad in generic black uniforms and featureless helmets. During their activities, the Karoshans have seized an [[Advocate]] shuttle and were observed watching [[Mell]] and the narrator. Although they faced near-attacks from the Advocates and saw their cruisers retreating during a battle where they acted as enemies, the group continues to sweep the system for debris.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">19</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Karoshan]] soldiers are present in the training room.<ref name="lh-02-the-engineer-c4">''The Engineer'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Karoshan]] are a group of which Shyrax is [[Queen]].<ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Karoshans normally give birth to twins or triplets.<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
@@ -54,14 +53,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|The Karoshans are an enemy group in the battle.<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Karoshan]] cruisers were retreating during the battle.<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Karoshans are sweeping the system of debris.<ref name="lh-02-the-engineer-c39">''The Engineer'', chapter 39</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|As one of the five intelligent species in the galaxy, the Karoshans are high-level Combat Artists who utilize mages that chant to the [[Aether]]. These beings, known as [[the Perfected]], stand nine or ten feet tall with neon cables instead of hair and possess scanning technology superior to that of the [[D’Niss]]. They maintain a fleet of blocky black ships and colonies, often utilizing Nova-Bot vessels to protect their lives. Although they are allies of the [[Empire]], they also function as an enemy group that demands the heads of those entering their system. During conflicts, Karoshans have been seen scavenging equipment like plasma pistols from the remains of fallen foes.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">19</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The Karoshans use blocky black constructions for their ships and colonies.<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Karoshans are nine or ten feet tall and have neon cables instead of hair.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Karoshans are one of the five species of intelligent beings in the galaxy.<ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref>}}</li>
@@ -81,14 +79,13 @@
 <li>{{spoiler|book=lh-03-the-knight|A purple [[Karoshan]] plucked a plasma pistol from [[Omega]]'s remains.<ref name="lh-03-the-knight-c37">''The Knight'', chapter 37</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The Karoshans are an enemy group with a fleet.<ref name="lh-03-the-knight-c38">''The Knight'', chapter 38</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Karoshan mages]] chant to the [[Aether]].<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|The Karoshans are an indigo-skinned species characterized by sharp fangs, lashing tails, and a birth rate that exceeds human standards. While refugees of the race reside on the planet [[Basyrryx]], they maintain a fleet of black, blocky ships used to provide cover fire against enemies. As allies of [[Visiria]], they have conducted research on the [[Iron Legion]] and provided relevant data, though some members have reported losing contact with their queen. [[Sola]] recognizes a specific rebel fleet of Karoshans as allies, even as the species maintains unique cultural traditions such as washing in a basin when entering a home.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Karoshan refugees]] live on the planet [[Basyrryx]].<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Karoshans are part of a fleet that maintains fire on the enemy.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Karoshans are a group that is scurrying in the hangar and claims to have lost contact with their queen.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
@@ -102,8 +99,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|The [[Karoshan]] have a fleet of black, blocky ships.<ref name="lh-04-the-pilot-c29" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|There is a rebel fleet of Karoshans that [[Sola]] considers allies.<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The laboratory on [[Karosha]] can hold one [[Karoshan]].<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -13,15 +13,14 @@
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|During the first year of her reign, [[Queen]] [[Leah]] I established herself as the current monarch. She is a figure with ancestral ties known to [[Valin]] and serves as a client for whom [[Overlord Indirial]] conducts business. Throughout the records, she is formally recognized as [[Queen]] [[Leah]] the First.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|It is the 1st Year in the Reign of [[Queen Leah I]].<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Queen]] [[Leah]] has ancestors that [[Valin]] knew.<ref name="tg-03-city-of-light-c8">''City of Light'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Queen]] [[Leah]] is a person for whom [[Overlord Indirial]] performs business.<ref name="tg-03-city-of-light-c13">''City of Light'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Leah]] I is the current reigning [[Queen]].<ref name="tg-03-city-of-light-c18">''City of Light'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Queen]] [[Leah]] the First is a character mentioned in the text.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

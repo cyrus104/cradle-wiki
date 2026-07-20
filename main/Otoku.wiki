@@ -12,8 +12,8 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|Otoku is a doll of a young girl characterized by long black hair and a red dress patterned with flowers. Initially addressed by [[Kai]], the doll is later carried by [[Simon]], who keeps her tied to his belt. While cradled by [[Kai]], she communicates through a hazy mental voice, but she eventually speaks directly to [[Simon]]. During their journey, Otoku provides [[Simon]] with warnings and combat instructions while claiming that [[the Nye]] never leave their homes. She also offers commentary regarding the nature of victory and defeat.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Otoku]] is a doll of a little girl with long black hair and a red flower patterned dress.<ref name="tg-01-house-of-blades-c5">''House of Blades'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Otoku]] is the name of one of the dolls [[Kai]] addresses.<ref name="tg-01-house-of-blades-c7">''House of Blades'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Otoku]] is someone [[Kai]] cradles who can communicate with a hazy mental voice.<ref name="tg-01-house-of-blades-c11">''House of Blades'', chapter 11</ref>}}</li>
@@ -23,14 +23,13 @@
 <li>{{spoiler|book=tg-01-house-of-blades|[[Otoku]] provides combat instructions to [[Simon]].<ref name="tg-01-house-of-blades-c19">''House of Blades'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Otoku]] provided a warning to [[Simon]].<ref name="tg-01-house-of-blades-c19" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Otoku]] commented on victory and defeat.<ref name="tg-01-house-of-blades-c21">''House of Blades'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Otoku is a doll characterized by long, dark hair and the ability to move and speak. While capable of warning [[Kai]] about [[Valin]]'s strikes, the doll is also known to mock him. Otoku maintains a connection with [[Simon]] by residing within his head, where it communicates through thoughts and a voice that can be heard in his mind. During these interactions, Otoku often responds to [[Simon]] using sarcasm or jokes.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Otoku]] is someone who would mock [[Kai]].<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Otoku]] is a doll that could warn [[Kai]] of [[Valin]]'s strikes.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Otoku]] communicates with [[Simon]].<ref name="tg-02-crimson-vault-c7">''The Crimson Vault'', chapter 7</ref>}}</li>
@@ -40,14 +39,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Otoku]] is in [[Simon]]'s head.<ref name="tg-02-crimson-vault-c18" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Otoku]] can communicate with [[Simon]] via thought.<ref name="tg-02-crimson-vault-c18" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Otoku]]'s voice can be heard in [[Simon]]'s mind.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|Otoku was a long, black-haired individual who spoke with tones of self-satisfaction and once rested in [[Kai]]'s lap. While [[Simon]] had considered asking her for something, she later commented on his learning and responded to [[Kai]]'s voice with a windy sigh. Her [[life]] ended violently when her face was crushed and torn away, leaving half of it shattered. This tragedy motivated [[Kai]] to seek protection for her and eventually pursue vengeance, while [[Azura]] sensed an image of Otoku's mangled face. Ultimately, Otoku passed away and her name was placed upon the same headstone as [[Kai]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Otoku]] is a character who lies in [[Kai]]'s lap.<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Otoku]] has long, black hair.<ref name="tg-03-city-of-light-c6" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Otoku]] is a character who speaks with tones of self-satisfaction.<ref name="tg-03-city-of-light-c6" />}}</li>
@@ -61,8 +59,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[Otoku]] had long, black hair and half of her face was shattered.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Otoku]]'s name is on the same headstone as [[Kai]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Otoku]] is deceased.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|“Is that a doll? Were you talking to the doll?” "Well, I...yes," Simon said. That sounded lame, so he tried again. "It’s a talking doll."<ref name="tg-01-house-of-blades-c18" />}}

@@ -9,21 +9,19 @@
 {{spoiler|book=lh-04-the-pilot|An [[Iron]] [[Bishop]] is a consciousness tasked with the management of specific [[Iron Legion]] [[Hives]]. These entities typically manifest as massive faces constructed from the walls of their environment, utilizing a combination of organic and mechanical components. Their physical appearance can include eyes made of camera clusters or groups of living eyeballs, and they possess mouths formed from a mixture of [[steel]] and skin. As they are integrated with their [[Hives]], they can manifest physical limbs, such as clawed hands, directly from the surrounding walls. In terms of behavior and role, Bishops focus on the maintenance and expansion of the [[Iron Legion]] rather than attempting to conquer civilized regions. They generally occupy [[life]]-sustaining planets located within [[Dark Space]]. While they are not considered rare on a galactic scale, they are expensive to acquire. Bishops possess the ability to adapt to specific magical specialties by developing countermeasures. They have been known to command others to surrender and can be reconstructed or reassembled through magical rituals involving [[Aetheric symbols]] and specialized components.}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The local [[Iron Bishop]] knows something unknown to [[Horizon]].<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|An [[Iron Bishop]] is a reconstructed item being shipped to [[Benri]].<ref name="lh-04-the-pilot-c11">''The Pilot'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Iron Bishop]] is a cargo item intended for delivery to the planet.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|An [[Iron Bishop]] is a reassembled piece of something.<ref name="lh-04-the-pilot-c22">''The Pilot'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Iron Bishop]] is a face of flesh and metal in disassembled pieces that rose during the ritual.<ref name="lh-04-the-pilot-c38">''The Pilot'', chapter 38</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“The local Iron Bishop knows something we don’t.”<ref name="lh-01-the-captain-c16" />}}

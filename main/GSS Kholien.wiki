@@ -6,18 +6,16 @@
 }}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[GSS Kholien]] is a ship commanded by [[Nelthan]].<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[GSS Kholien]] is a ship that hosted a peacekeeping force.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“Captain Vallenar, this is Commander Nelthan of GSS Kholien.<ref name="lh-01-the-captain-c36" />}}

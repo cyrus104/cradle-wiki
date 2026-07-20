@@ -5,14 +5,13 @@
 }}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Yakir]] is a sergeant.<ref name="tg-01-house-of-blades-c2">''House of Blades'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Yakir]] is a representative of [[Malachi]].<ref name="tg-01-house-of-blades-c2" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Yakir]] has command of the unit in the absence of [[Traveler]] [[Cormac]].<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Malachi]] hoped [[Yakir]] would keep [[Cormac]] in line.<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

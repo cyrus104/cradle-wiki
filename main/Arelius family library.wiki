@@ -4,19 +4,17 @@
 }}
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Arelius family]] has a [[library]].<ref name="cradle-03-blackflame-c8">''Blackflame'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Arelius family library]] contains an analysis on the uses of a [[Blood Shadow]].<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Arelius family library]] contains information about [[Paths]] and techniques.<ref name="cradle-06-underlord-c14">''Underlord'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

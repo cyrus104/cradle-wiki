@@ -7,27 +7,24 @@
 {{spoiler|book=lh-03-the-knight|The [[Karoshan]] [[Empire]] is a powerful interstellar entity and a primary member of the [[Karoshan Alliance]], which also includes the [[Visiri system]]. [[The Empire]] is currently embroiled in a civil war between the rightful ruler, [[Queen Shyrax]] III, and [[King Regent]] [[Felrex]]. While Shyrax has sought refuge in other sectors, [[Felrex]] is focused on his ambition to have the [[Iron Legion]] invade the [[Galactic Union]]. [[The Empire]]'s military strength is significant, characterized by a fleet of blocky, black vessels ranging from starfighters and cruisers to massive six-mile-long dreadnoughts. These forces are noted for their ability to deploy large numbers of troops and resources to secure colonies. Physically, Karoshans are a formidable species that is considered superior to humans in many ways. They are much larger than humans, typically standing between nine and eleven feet tall, and possess thick skin. Their most striking features include glowing hair that grows in thick strands from their helmets and varying skin tones, such as bronze or yellow. Due to their restrained nature and physical appearance, their facial expressions can be difficult for humans to interpret. The [[Karoshan]] military is feared throughout the galaxy, with their soldiers often appearing in legends as terrifying combatants.}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Karoshan Empire]] possesses military property that the narrator could steal.<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The [[Karoshan Empire]] uses the galactic language of [[Trade]] for exchange.<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Karoshan Empire]] is contained within the [[Alliance]].<ref name="lh-02-the-engineer-c34">''The Engineer'', chapter 34</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Karoshan Empire]] is experiencing an [[Imperial]] civil war.<ref name="lh-02-the-engineer-c35">''The Engineer'', chapter 35</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Karoshan Empire]] is one of the major components of the [[Karoshan Alliance]].<ref name="lh-03-the-knight-c13">''The Knight'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -17,8 +17,8 @@
 == Unsouled ==
 {{spoiler|book=cradle-01-unsouled|As a high-status individual within the [[Wei clan]], Wei Jin Sairus serves as the [[Wei Patriarch]]. He is a [[Ruler]] on the [[Path of the White Fox]] and wears a [[jade]] scepter badge bearing the [[White Fox]] emblem upon his chest. During his time as Patriarch, he demonstrated the ability to warp the air around him and suggested that [[Lindon]] could exit the stage without losing honor. After awarding [[Kelsa]] a [[jade]] badge, the grandfather of [[Wei Jin Amon]] saw his body dissolve into foxfire.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|[[Wei Jin Sairus]] is the [[Wei Patriarch]].<ref name="cradle-01-unsouled-c9">''Unsouled'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Wei Jin Sairus]] wears a [[jade]] scepter badge with the [[White Fox]] emblem on his chest.<ref name="cradle-01-unsouled-c9" />}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Wei Jin Sairus]] is a [[Ruler]] on the [[Path of the White Fox]].<ref name="cradle-01-unsouled-c10">''Unsouled'', chapter 10</ref>}}</li>
@@ -28,8 +28,7 @@
 <li>{{spoiler|book=cradle-01-unsouled|[[Wei Jin Sairus]] suggested [[Lindon]] could remove himself from the stage without dishonor.<ref name="cradle-01-unsouled-c11" />}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Wei Jin Sairus]] is a high-status individual in the [[Wei clan]].<ref name="cradle-01-unsouled-c12">''Unsouled'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|Patriarch Sairus can warp the air around him.<ref name="cradle-01-unsouled-c12" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-01-unsouled|Wei Jin Sairus lowered his arms, which had been raised to settle the audience. “Young Lindon, there is no dishonor if you remove yourself from the stage.<ref name="cradle-01-unsouled-c11" />}}

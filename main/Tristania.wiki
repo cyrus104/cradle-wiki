@@ -16,8 +16,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|A member of the [[Guild of Witnesses]] known as the [[Silent One]], Tristania was self-taught in a [[Kanatalia]] laboratory. While traveling with [[Naberius]], she wore bandages over her eyes and kept weapons hidden within her coat. During a voyage on a ship with [[Calder]], she utilized a dark whip that produced lightning and pale light. After [[Shera]] struck her back while she was covering [[Naberius]], Tristania used an explosive whip to battle the [[Children of Nakothi]]. Following these events, she was carried by members of the [[Blackwatch]], though she was ultimately shot in the back of the head and killed by [[Naberius]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Tristania]] is wrapped in bandages.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Tristania]] wears bandages over her eyes and keeps weapons in her coat.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Tristania]] is known as the [[Silent One]].<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
@@ -35,14 +35,13 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Tristania]] has a high, clear, young, and weary voice.<ref name="ee-sea-01-of-sea-and-shadow-c12" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Tristania]] was shot in the back of the head by [[Naberius]].<ref name="ee-sea-01-of-sea-and-shadow-c14">''Of Sea and Shadow'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Tristania]] is a person whom [[Naberius]] killed.<ref name="ee-sea-01-of-sea-and-shadow-c16">''Of Sea and Shadow'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Tristania is a [[Chronicler]] and the partner of [[Naberius]], who adopted her when they were roughly the same age. She is sheathed from head to toe in bandages and wears a brown coat that has been invested to stop bullets. Her equipment includes a dark whip acting as a [[Soulbound Vessel]], and she also possesses a [[Stormwing]] tail [[Vessel]]. Through this connection, she is [[Soulbound]] to the [[Awakened]] tail of a [[Stormwing]]. During her experiences, she was once climbed upon by a giant beetle.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tristania]] is a woman of roughly the same age as [[Naberius]] who was adopted by him.<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tristania]] is a [[Chronicler]] and [[Naberius]]'s partner.<ref name="ee-shadow-01-of-shadow-and-sea-c6" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tristania]] is sheathed head-to-toe in bandages and wears a brown coat.<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
@@ -51,8 +50,7 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tristania]]'s coat is invested to stop bullets.<ref name="ee-shadow-01-of-shadow-and-sea-c11">''Of Shadow and Sea'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A giant beetle clambered up on [[Tristania]].<ref name="ee-shadow-01-of-shadow-and-sea-c11" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tristania]] possesses a [[Stormwing]] tail [[Vessel]].<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

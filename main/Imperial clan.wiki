@@ -6,18 +6,16 @@
 }}
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Imperial clan]] may not be happy about the demonstration of [[Blackflame]] powers in public.<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|The [[Imperial clan]] is an entity the [[Deepwalker Ape]] swore revenge against.<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

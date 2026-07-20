@@ -11,8 +11,8 @@
 == Soulsmith ==
 {{spoiler|book=cradle-02-soulsmith|Located far to the east, the [[Blackflame]] [[Empire]] is a civilization that serves as the home of the [[Jai clan]]. This territory is characterized by a lack of harvesters similar to those utilized by [[miners]] and features a remote range of mountains along its southern edge. Although the empire contains only a small number of Underlords, [[Eithan]] serves the realm in this capacity. Additionally, the empire is a potential destination for the relocation of [[Jai Long]]'s sister.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Blackflame Empire]] is the empire where the [[Jai clan]] resides.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Blackflame Empire]] contains only a handful of Underlords.<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Blackflame Empire]] is a civilization.<ref name="cradle-02-soulsmith-c7" />}}</li>
@@ -21,14 +21,13 @@
 <li>{{spoiler|book=cradle-02-soulsmith|[[Eithan]] serves the [[Blackflame Empire]] as an [[Underlord]].<ref name="cradle-02-soulsmith-c19">''Soulsmith'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Blackflame Empire]] is a location where [[Jai Long]]'s sister might move.<ref name="cradle-02-soulsmith-c19" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Blackflame Empire]] contains a remote range of mountains at its southern edge.<ref name="cradle-02-soulsmith-c20">''Soulsmith'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|The [[Blackflame]] [[Empire]] is a territory composed of various clans that was originally founded by a family discovering a source of [[dragon]] power. Although [[the Emperor]] has struggled to maintain the full scope of this realm for two generations, it remains a destination where [[Lindon]] and [[Yerin]] are brought by a young [[Underlord]] for training. The empire's western edge is defined by the mountains located to the west of the [[Desolate Wilds]], and its society utilizes a strict system for ranking and categorizing all things. Within this land, the value of resources is immense, such as a single superior-grade scale being worth ten thousand of [[Lindon]]'s scales. While [[Eithan]] is not entirely from this location, his arrival has made a significant impact upon the empire.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|There are not many who know [[Yerin's master]] in the [[Blackflame Empire]].<ref name="cradle-03-blackflame-c3">''Blackflame'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Blackflame Empire]] is the destination [[Lindon]] is returning to.<ref name="cradle-03-blackflame-c3" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Blackflame Empire]] contains different clans.<ref name="cradle-03-blackflame-c3" />}}</li>
@@ -41,14 +40,13 @@
 <li>{{spoiler|book=cradle-03-blackflame|In the [[Blackflame Empire]], a superior-grade scale is worth about ten thousand of [[Lindon]]'s scales.<ref name="cradle-03-blackflame-c10" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Eithan]]'s arrival had an impact in the [[Blackflame Empire]].<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|A young [[Underlord]] had taken [[Lindon]] and [[Yerin]] back into the [[Blackflame Empire]] for training.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
 {{spoiler|book=cradle-04-skysworn|Situated at the southern edge of a lush green expanse, the [[Blackflame]] [[Empire]] is an imperial territory owned by the [[Akura clan]] and ruled by [[Naru Huan]]. While it is a land where killing an [[Underlord]] is difficult, the original empire met its demise during the last awakening of the [[Corrupted ones]]. Within this realm, the green armor of the [[Skysworn]] is highly respected, and no resident possesses the space-control abilities held by the [[Akura]] Matriarch or her disciples. During a duel that takes place within its borders, [[Lindon]] finds himself in the southern portion of the empire, a place capable of employing strategies such as fleeing like mice when faced with overwhelming natural disasters.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|The [[Blackflame Empire]] is a place where killing an [[Underlord]] is difficult.<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Blackflame Empire]] is located at the southern edge of a lush green expanse.<ref name="cradle-04-skysworn-c1" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Blackflame Empire]] has met its demise.<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
@@ -61,14 +59,13 @@
 <li>{{spoiler|book=cradle-04-skysworn|The [[Blackflame Empire]] can employ a strategy of fleeing like mice in front of overwhelming natural disasters.<ref name="cradle-04-skysworn-c11" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Blackflame Empire]] is a territory owned by the [[Akura clan]].<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|No one in the [[Blackflame Empire]] possesses the space-control abilities of the [[Akura family Matriarch]] or her disciples.<ref name="cradle-04-skysworn-c14" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|The [[Blackflame]] [[Empire]] is a political entity where [[Skysworn]] serve as celebrated heroes. The empire's perceived strength grows when an [[Akura]] is in its service, and it possesses a healer capable of restoring hooks. While the empire contains a western labyrinth and serves as the origin point for [[dragons]], it would be reduced to a war-torn desert without the protection of the [[Beast King]] and other guardians. Additionally, a delegation from the empire has been noted near the [[Life Well]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Blackflame Empire]] is an empire where [[Skysworn]] serve as heroes.<ref name="cradle-05-ghostwater-c1">''Ghostwater'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Blackflame Empire]]'s strength is perceived to increase if an [[Akura]] works for it.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Blackflame Empire]] is mentioned in relation to the [[Skysworn]].<ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}</li>
@@ -78,14 +75,13 @@
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Blackflame Empire]] contains a western labyrinth.<ref name="cradle-05-ghostwater-c14">''Ghostwater'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[dragons]] came from the [[Blackflame Empire]].<ref name="cradle-05-ghostwater-c14" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Blackflame Empire]] has a delegation near the [[Life Well]].<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|Following the fall of the [[Jai clan]], the [[Blackflame]] [[Empire]] existed as a fractured and lawless territory where competition between [[Monarch]] disciples often spilled over. During a selection process, an army bearing various faction symbols streamed through a tall column of darkness to establish a camp behind [[Orthos]]. Although the empire defends the territory within [[Night Wheel Valley]], its thin [[aura]] makes Underlords rare, though they are treated like kings within the realm. After experiencing the much stronger [[aura]] of the valley, the empire's own [[aura]] felt weaker, eventually leading to a retreat. Following these events, [[Akura Charity]] addressed the people of the empire and promised to provide a gift in compensation, though she did not select [[Lindon]] as one of their three competitors.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">22</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">22</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Blackflame Empire]] was fractured and lawless following the fall of the [[Jai clan]] and before the rise of the [[Arelius family]].<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Blackflame Empire]] is a location where competition between [[Monarch]] disciples may spill over.<ref name="cradle-06-underlord-c4" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Eithan]] spoke of growing together for the good of the [[Blackflame Empire]].<ref name="cradle-06-underlord-c4" />}}</li>
@@ -108,14 +104,13 @@
 <li>{{spoiler|book=cradle-06-underlord|[[Akura Charity]] promised to add a gift to the [[Blackflame Empire]] in compensation.<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Charity]] addresses the people of the [[Blackflame Empire]].<ref name="cradle-06-underlord-c21" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Charity]] did not select [[Lindon]] as one of the three competitors from the [[Blackflame Empire]].<ref name="cradle-06-underlord-c21" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|The [[Blackflame]] [[Empire]] serves as the ancestral home of [[Orthos]]'s [[dragon]] lineage and shares a cultural origin with the people who named [[Ninecloud]] country. While major families seek to claim the empire, its [[fate]] remains tied to the [[Uncrowned King]] tournament where it competes as a vassal team of the [[Akura clan]]. During the competition in [[Night Wheel Valley]], the empire successfully doubled its number of Underlords, though it remains weaker than the [[Frozen Blade school]] and is dwarfed by [[Akura clan]] power. As a vassal team currently en route to the tournament, the empire includes representatives such as [[Yerin Arelius]] and contains descendants of [[House Arelius]], including [[Eithan]] Arelius. During the matches, a fighter from the empire is pitted against the final descendant of their original royal family.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Blackflame Empire]] is the empire from which [[Orthos]]'s [[dragon]] ancestors descend.<ref name="cradle-07-uncrowned-c1">''Uncrowned'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Blackflame Empire]] competitors have already been chosen.<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The major families want the [[Blackflame Empire]].<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}</li>
@@ -133,14 +128,13 @@
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Blackflame Empire]] contains descendants of [[House Arelius]].<ref name="cradle-07-uncrowned-c17">''Uncrowned'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Blackflame Empire]] is the faction/location of [[Eithan]] Arelius.<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Yerin Arelius]] is a representative of the [[Blackflame Empire]].<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|The [[Blackflame]] [[Empire]] is a significant territory that [[Eithan]] spent much of his [[life]] inhabiting, though he now seeks to prevent the empire from launching an invasion. The faction contains [[sacred artists]] who were transported to the [[Night Wheel Valley]] and employs workers from the [[Arelius family]]. During a period of training intended to prepare for an invasion, the empire was targeted by [[Redmoon Emissaries]] and faced the necessity of evacuation before the arrival of the [[Dreadgods]]. While a group is expected to emerge in the western portion of the empire, the territory has also been linked to the humiliation and death of [[Kiro]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Blackflame Empire]] is a target of interest.<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Eithan]] spent much of his [[life]] in the [[Blackflame Empire]].<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Blackflame Empire]] is an entity that [[Eithan]] seeks to prevent from invading.<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
@@ -154,14 +148,13 @@
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Blackflame Empire]] has [[Arelius family]] workers.<ref name="cradle-08-wintersteel-c15">''Wintersteel'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The group will emerge in the western [[Blackflame Empire]].<ref name="cradle-08-wintersteel-c18">''Wintersteel'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Blackflame Empire]] humiliated [[Kiro]] before killing him.<ref name="cradle-08-wintersteel-c20">''Wintersteel'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
 {{spoiler|book=cradle-09-bloodline|Located beyond the [[Desolate Wilds]], the [[Blackflame]] [[Empire]] serves as a protective domain that encompasses the western region of [[Orthos]]. During its history, the empire has been the site where the [[Bleeding Phoenix]] was witnessed, yet it lacks an [[Archlord]] to rule over its territory. While the empire is considered too weak to attract the interest of the [[Wandering Titan]], it has faced internal instability as the [[Jai clan]] was pushed out of its proper lands.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The [[Blackflame Empire]] provides protection to people.<ref name="cradle-09-bloodline-c2">''Bloodline'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Blackflame Empire]] is a location containing the western region where [[Orthos]] is located.<ref name="cradle-09-bloodline-c5">''Bloodline'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Bleeding Phoenix]] was witnessed in the [[Blackflame Empire]].<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
@@ -169,14 +162,13 @@
 <li>{{spoiler|book=cradle-09-bloodline|The [[Blackflame Empire]] lies beyond the [[Desolate Wilds]].<ref name="cradle-09-bloodline-c10" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Blackflame Empire]] is considered too weak to interest the [[Wandering Titan]].<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Jai clan]] was being pushed out of the [[Blackflame Empire]] proper.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|The [[Blackflame]] [[Empire]] is a massive territory protected by the [[Wastelanders]]. A fleet of cloudships once arrived from this vast domain, which maintains a complex hierarchy of subordinates. Within the empire, clerks and administrators manage recruitment efforts, though nearly every [[sacred artist]] faces a significant barrier when attempting to advance to the [[Underlord]] stage. While [[Malice]] has forces arrayed around its borders, the empire remains within striking range of the fighting between [[Monarchs]]. [[Jai Long]] has expressed a desire to avoid blending into this expansive location.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The [[Wastelanders]] protect the [[Blackflame Empire]].<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|A fleet of cloudships arrived from the [[Blackflame Empire]].<ref name="cradle-10-reaper-c5">''Reaper'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Blackflame Empire]] is described as being very large.<ref name="cradle-10-reaper-c5" />}}</li>
@@ -186,39 +178,35 @@
 <li>{{spoiler|book=cradle-10-reaper|[[Malice]] has forces arrayed around the [[Blackflame Empire]].<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Blackflame Empire]] has clerks and administrators organizing recruitment.<ref name="cradle-10-reaper-c11">''Reaper'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Blackflame Empire]] is within [[Striker]] range of the [[Monarchs]]' fighting.<ref name="cradle-10-reaper-c20">''Reaper'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|Located in [[Ashwind]], the [[Blackflame]] [[Empire]] was historically governed by black [[dragon]] emperors and later by the [[Blackflame family]]. The empire's northern coast is secured by a protective wall. During recent events, there was an expectation that a portal leading back to the empire would open.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Blackflame Empire]] is in [[Ashwind]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Blackflame Empire]] was once ruled by black [[dragon]] emperors.<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Blackflame Empire]] has a wall protecting its northern coast.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Blackflame Empire]] was once ruled by the [[Blackflame family]].<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|A portal back to the [[Blackflame Empire]] was expected to open.<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|Refugees from the [[Blackflame Empire]] are mentioned.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The battle took place over the western [[Blackflame Empire]].<ref name="cradle-12-waybound-c19">''Waybound'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The western [[Blackflame Empire]] is a possible starting location for [[Lindon]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The [[Blackflame Empire]] is in a steady decline.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|In the [[Blackflame Empire]], [[Overlord]] scales were once considered the highest grade.<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Blackflame Empire]] is an empire.<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-02-soulsmith|“I am Jai Sen, of the Jai clan whose honor echoes in every corner of the Blackflame Empire.<ref name="cradle-02-soulsmith-c5" />}}

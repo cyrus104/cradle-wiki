@@ -11,8 +11,8 @@
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|The [[Tartarus]] [[Travelers]] serve as the guards for the [[King]]'s private [[library]] located in [[Cana]]. Clad in gleaming [[steel]], these small squads of three or four members carry silver keys forged from [[Tartarus steel]]. These specialized keys allow the travelers to summon various entities, including metal beasts, spinning blades, glass tornadoes, and needles. During past events, [[Shai]] managed to infiltrate their barracks, and one traveler was noted to have escaped through her [[Territory]]. A member of this group also participated in the recent battle.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Tartarus Travelers]] guard the [[King]]'s private [[library]] in [[Cana]].<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Tartarus Travelers]] wear gleaming [[steel]] and carry keys.<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|There is a squad of three or four [[Tartarus Travelers]].<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}</li>
@@ -22,15 +22,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Shai]] once found her way into the [[Tartarus Travelers]]' barracks.<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|A [[Tartarus]] [[Traveler]] was involved in the battle.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Tartarus Travelers]] can summon needles, spinning blades, metal beasts, and glass tornadoes.<ref name="tg-02-crimson-vault-c21">''The Crimson Vault'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|There are three [[Tartarus Travelers]] present.<ref name="tg-03-city-of-light-c12">''City of Light'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|"listening to Shai tell a story about how she had managed to find her way into the Tartarus Travelers' barracks."<ref name="tg-02-crimson-vault-c15" />}}

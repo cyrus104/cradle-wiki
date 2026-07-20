@@ -11,21 +11,20 @@
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|[[Emala]] constructed her Grand Oath [[Array]] using runes derived from ancient sources. This powerful mechanism controls time and contains fragments of a [[Sage]]'s authority. Because of its complexity, even [[Heralds]] and [[Sages]] found the array's workings impossible to unravel. [[Emala]] ultimately utilized the Grand Oath [[Array]] to seal the castle.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Grand Oath Array]] controls time.<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Emala]]'s [[Grand Oath Array]] was based on runes derived from the ancient runes.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Grand Oath Array]]'s working was impossible to unravel for [[Sages]] and [[Heralds]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Emala]] used the [[Grand Oath Array]] to seal the castle.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Grand Oath Array]] contains pieces of [[Sage]]’s authority.<ref name="cradle-11-dreadgod-c13">''Dreadgod'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|The Grand Oath [[Array]] is a time-warping masterpiece created by the [[Rune Queen]] that can be operated using a [[Path]]. To activate the array, [[Ziel]] manifests silver runes and steers the device to accelerate time or slow suffering. Because [[Ziel]] lacked sufficient [[madra]], the array was forced to burn its own structure to fuel itself. By the end of these events, [[Ziel]] has stowed the array, which remains in bad shape.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Grand Oath Array]] is an array that can be operated with a [[Path]].<ref name="cradle-12-waybound-c4">''Waybound'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Ziel]] activated the [[Grand Oath Array]].<ref name="cradle-12-waybound-c7">''Waybound'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Grand Oath Array]] can accelerate time.<ref name="cradle-12-waybound-c7" />}}</li>
@@ -37,8 +36,7 @@
 <li>{{spoiler|book=cradle-12-waybound|The [[Grand Oath Array]] was burning its own structure to fuel itself due to [[Ziel]]'s lack of [[madra]].<ref name="cradle-12-waybound-c20" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Grand Oath Array]] is the [[Rune Queen]]’s masterpiece.<ref name="cradle-12-waybound-c20" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Grand Oath Array]] is in bad shape.<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-12-waybound|Ziel raised a hand. “The Grand Oath Array is in bad shape, unless you can repair it.”<ref name="cradle-12-waybound-c23" />}}

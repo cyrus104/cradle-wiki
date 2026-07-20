@@ -16,8 +16,8 @@
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|Serving as a professional announcer for the [[Ninecloud Court]], the [[Ninecloud]] Soul is a feminine spirit that communicates through rainbow light and [[madra]]. This entity uses its beautiful voice to announce teams, cults, and [[arena]] participants while providing essential tournament information and delivering prizes. During the competition, the spirit produces floating models to replay fight highlights for entertainment and reacts with excitement to various actions in the [[arena]]. The [[Ninecloud]] Soul specifically identified [[Lindon]] as number eleven and [[Yerin]] as number ten, eventually announcing [[Yerin]]'s victory and the remaining sixteen competitors.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">19</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Soul]] is the voice of the [[Ninecloud Court]].<ref name="cradle-07-uncrowned-c9">''Uncrowned'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Soul]] is a voice that announces participants in the [[arena]].<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Soul]] announces the teams and cults.<ref name="cradle-07-uncrowned-c10" />}}</li>
@@ -37,14 +37,13 @@
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Soul]] announced [[Yerin]]'s victory.<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Soul]] announced that sixteen competitors remain in the tournament.<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud Soul]] replays fight highlights and follows matches with entertainment.<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|The [[Ninecloud]] Soul manages various public announcements, including declaring victories and introducing [[arena]] fighters. During these proceedings, the entity introduces candidates for the [[Uncrowned]] and celebrates [[Eithan]]’s accomplishments. While coordinating every [[construct]] within the [[Ninecloud Court]], the entity may also deliver items to [[Ziel]]'s room. After announcing [[Akura Mercy]]'s victory and replaying her combat highlights, the [[Ninecloud]] Soul manifests as a beam of rainbow light and locks [[Lindon]] away in anger. Following the announcement of fighter prizes, the entity's voice proclaims the eighteenth [[Uncrowned King]] while remaining quite busy.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">16</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">16</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Soul]] makes public announcements.<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Soul]] declared victory.<ref name="cradle-08-wintersteel-c5">''Wintersteel'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Soul]] announced [[Yan Shoumei]]'s victory.<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}</li>
@@ -61,15 +60,13 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yerin]] did not hear the [[Ninecloud Soul]].<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Soul]]'s voice announced the eighteenth [[Uncrowned King]].<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Ninecloud Soul]] is described as being quite busy.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The [[Ninecloud Soul]] announces winners in the [[arena]].<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-07-uncrowned|And the Ninecloud Soul's voice spoke from all around them: “Representing the Monarch Akura Malice, the Akura prime team presents Akura Mercy, the favored daughter of the Monarch herself.”<ref name="cradle-07-uncrowned-c10" />}}

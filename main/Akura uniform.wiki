@@ -6,12 +6,11 @@
 }}
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] wears an [[Akura uniform]] with a bright violet script on the hem.<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Akura]] team uniform has a high collar and a cape.<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

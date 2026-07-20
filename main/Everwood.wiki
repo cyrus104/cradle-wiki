@@ -9,17 +9,16 @@
 {{spoiler|book=cradle-13-threshold|Everwood is a continent located on the opposite side of the world, requiring significant travel through space to reach. It is ruled by [[Emriss Silentborn]], a [[Monarch]] known as the [[Remnant]] [[Monarch]] and [[Queen]] of the Everwood Continent. Emriss is believed to have been a men’hla tree prior to her ascension, and she possesses a soothing, reassuring presence rather than overwhelming spiritual pressure. The continent is home to a large population of humans with various dark skin tones who practice unique [[sacred arts]], often accompanied by spirits or [[Remnants]]. Everwood is notable for its connection to the [[Dreamway]]; while most people cannot access it freely, Emriss can send messages through it to various factions and organizations. The continent is also a source of specialized materials, as men’hla trees are considered sacred and are highly valuable to [[Soulsmiths]] because their leaves can produce individual [[Remnants]].}}
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Everwood]] is a continent where men’hla trees are considered sacred.<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|Located on the opposite side of the world, Everwood is a destination where [[Lindon]] was expected to arrive. Upon suggesting a journey there, it is noted that the [[Silent King]] resides in the central region of the forest. The area is associated with the [[Monarch of Everwood]] and contains various assignments for those present. Furthermore, most individuals outside of this location are unable to draw from the [[Dreamway]] freely.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is in central [[Everwood]].<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] suggests going to [[Everwood]].<ref name="cradle-11-dreadgod-c2" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Everwood]] is a location where [[Lindon]] was expected to be.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
@@ -27,24 +26,21 @@
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Monarch of Everwood]] is associated with [[Everwood]].<ref name="cradle-11-dreadgod-c18">''Dreadgod'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Everwood]] contains assignments.<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Most people outside [[Everwood]] cannot draw from the [[Dreamway]] freely.<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Dreadnought City]] is in [[Everwood]].<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|None of the [[Dreadgods]] have reached [[Everwood]] yet.<ref name="cradle-12-waybound-c24">''Waybound'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Everwood]] is one of the five land masses projected by the [[Phoenix]].<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Everwood]] is a place ruled by [[the Queen]].<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-11-dreadgod|“Everwood is on the other side of the world.<ref name="cradle-11-dreadgod-c5" />}}

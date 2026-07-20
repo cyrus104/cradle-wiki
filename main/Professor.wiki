@@ -7,11 +7,10 @@
 }}
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Mariala]] addressed the narrator as [[Professor]].<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“Uh…Professor, um…What—I mean, what is⁠—”<ref name="lh-03-the-knight-c35" />}}

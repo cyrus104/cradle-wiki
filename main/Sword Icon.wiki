@@ -9,17 +9,16 @@
 {{spoiler|book=cradle-12-waybound|[[The Sword]] [[Icon]] is a powerful conceptual symbol representing the [[essence]] of swordsmanship. To manifest this [[Icon]], an individual must embody the concept of the [[sword]] on a deep level rather than merely using it as a tool. While typically a pursuit that takes Archlords lifetimes to achieve, some individuals like [[Yerin Arelius]] have begun to reflect it earlier in their development. The [[Icon]] is a manifestation of authority, and while it is often associated with swords, the underlying cutting authority can be applied to various types of cutting weapons. Among the [[Sages]] of a specific generation, three individuals successfully manifested this [[Icon]]: the [[Sage of the Endless Sword]] (also known as [[Adama]]), the [[Sage of Fallen Blades]], and a third unnamed individual. While [[Heralds]] can resonate with the [[Icon]], they are often unable to perceive it clearly.}}
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Sword Icon]] is a technique or manifestation that can be touched upon in an attack.<ref name="cradle-07-uncrowned-c20">''Uncrowned'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|[[The Sword]] [[Icon]] is a specific type of [[Icon]] and a manifestation held by certain [[Sages]] that represents a powerful concept. As a practitioner develops a connection to this entity, it can provide guidance and advice during combat, though Archlords often spend entire lifetimes pursuing such a manifestation. [[Yerin]] works to strengthen her bond with the [[Icon]], sensing its presence when she pushes herself or when her [[Shadow]]'s influence is weakened. Following the advice of the [[Winter Sage]] to let the [[Icon]] show through her, [[Yerin]] eventually feels its presence settle around her and follows its instruction to run power through her [[sword]]. However, after receiving this guidance, she is no longer able to sense the entity.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Sword Icon]] is a manifestation held by certain [[Sages]].<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Sword Icon]] has guided [[Yerin]] in battle.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Sword Icon]] is a specific type of [[Icon]].<ref name="cradle-08-wintersteel-c8" />}}</li>
@@ -38,18 +37,16 @@
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Sword Icon]] told [[Yerin]] to run power through her [[sword]] and pull it free.<ref name="cradle-08-wintersteel-c26" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Sword Icon]] is something Archlords spend lifetimes pursuing.<ref name="cradle-08-wintersteel-c26" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yerin]] could no longer sense the [[Sword Icon]].<ref name="cradle-08-wintersteel-c26" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Sword Icon]] is something [[Heralds]] are deaf to but can resonate with.<ref name="cradle-12-waybound-c8">''Waybound'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|A [[Sage]] can read an [[Icon]] like a book.<ref name="cradle-12-waybound-c8" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Sword Icon]] is a power or phenomenon that [[Yerin]] has experienced.<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Yerin]] wrestled the [[Sword Icon]] down and it vanished.<ref name="cradle-12-waybound-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|The Winter Sage had been sending her out to fight with her sword, insisting that this would help her become a “symbol” of swordsmanship and thus get closer to the Sword Icon.<ref name="cradle-08-wintersteel-c11" />}}

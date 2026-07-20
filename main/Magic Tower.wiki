@@ -11,8 +11,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The Magic Tower is a polished [[steel]] spire that pierces the clouds, functioning as both a school and a vertical city. This location features manicured lawns, a teacher's dock, and serves as a port where Sunsail ships can be picked up. While its reputation provides protection for students, the tower also maintains significant political reach within the [[Galactic Union]] and restricts corporations from operating within its system without special exemptions. Ultimately, the tower's influence is highlighted when [[Varic Vallenar]] requests its assistance in the fight against the [[Iron Legion]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Magic Tower]] is a vertical city and a school.<ref name="lh-01-the-captain-c4">''The Captain'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Magic Tower]] is a polished [[steel]] spire that pierces the clouds.<ref name="lh-01-the-captain-c4" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The narrator is bound to the [[Magic Tower]] on something like parole.<ref name="lh-01-the-captain-c5">''The Captain'', chapter 5</ref>}}</li>
@@ -24,31 +24,28 @@
 <li>{{spoiler|book=lh-01-the-captain|The [[Magic Tower]] is a location with Sunsail ships.<ref name="lh-01-the-captain-c27">''The Captain'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Magic Tower]] is a location that has political reach within the [[Galactic Union]].<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Varic Vallenar]] requested the help of the [[Magic Tower]] against the [[Iron Legion]].<ref name="lh-01-the-captain-c37">''The Captain'', chapter 37</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The [[Magic Tower]] assumes wizards can achieve significant results in both water elementalism and [[binding]] magic.<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Magic Tower]] is a location where [[Omega]] attacked [[Varic Vallenar]].<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The narrator has students from the [[Magic Tower]].<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Magic Tower]] has students who are growing impatient.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Magic Tower]] is an organization or location from which [[Mariala Brechess]] originates.<ref name="lh-03-the-knight-c24">''The Knight'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|As an institution of the [[Galactic Union]], the Magic Tower is governed by an enigmatic [[Archmage]] serving as the [[First Director]]. Following a recent visit to [[Dornoth]] Four by the [[First Director]], the organization has maintained its commitment to providing full support to [[Planetary Security]]. Currently, the tower is working against the [[Captain]] while managing internal administrative duties such as providing class lists. These operations are conducted in accordance with established policies regarding student information.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Magic Tower]] is led by a [[First Director]] who is an enigmatic [[Archmage]].<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Magic Tower]] has a [[First Director]].<ref name="lh-04-the-pilot-c2" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Magic Tower]] is an institution of the [[Galactic Union]].<ref name="lh-04-the-pilot-c9">''The Pilot'', chapter 9</ref>}}</li>
@@ -57,8 +54,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|The [[Magic Tower]] is working against the [[Captain]].<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Magic Tower]] provides class lists.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Magic Tower]] has policies regarding student information.<ref name="lh-04-the-pilot-c37" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|"Melerius and the Magic Tower students were growing impatient."<ref name="lh-03-the-knight-c5" />}}

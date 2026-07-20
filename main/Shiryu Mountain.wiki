@@ -9,8 +9,8 @@
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|Located within [[Serpent's Grave]], Shiryu Mountain is the site where the final [[dragons]] perished. The mountain features a secondary peak and a main peak situated beneath the palaces of the [[Jai]] family. Having built their homes upon the mountain, most members of the [[Jai clan]] have retreated to its summit. Additionally, a peak on Mount Shiryu serves as the location where flames once blasted into the sky.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Shiryu Mountain]] is the peak where the last of the [[dragons]] died.<ref name="cradle-03-blackflame-c7">''Blackflame'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Shiryu Mountain]] is located in [[Serpent's Grave]].<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Shiryu Mountain]] has a secondary peak.<ref name="cradle-03-blackflame-c12">''Blackflame'', chapter 12</ref>}}</li>
@@ -18,8 +18,7 @@
 <li>{{spoiler|book=cradle-03-blackflame|The [[Jai clan]] built their homes on [[Shiryu Mountain]].<ref name="cradle-03-blackflame-c16" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Shiryu Mountain]] has a main peak beneath the [[Jai]] family palaces.<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|Mount Shiryu has a peak where flames blasted into the sky.<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

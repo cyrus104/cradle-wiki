@@ -10,8 +10,8 @@
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Sixteen-year-old Carmine is a lanky boy with messy black hair, typically dressed in clothing consisting of red and black shades. After the monsters of [[Eternity Incorporated]] destroyed his home, he was found shaking amidst broken glass. The group rescued him from the wreckage while he tightly clutched [[Kelthryss]]. Following his rescue, [[Ziel]] provided him with a list of survivors.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Carmine]] is a sixteen-year-old boy with messy black hair and long, lanky limbs.<ref name="cradle-13-threshold-c11">''Threshold: Stories from Cradle'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Carmine]]'s clothes are in shades of red and black.<ref name="cradle-13-threshold-c11" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Carmine]]'s home was destroyed by [[Eternity Incorporated]]'s monsters.<ref name="cradle-13-threshold-c11" />}}</li>
@@ -19,8 +19,7 @@
 <li>{{spoiler|book=cradle-13-threshold|[[Carmine]] was shaking and surrounded by broken glass.<ref name="cradle-13-threshold-c11" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Carmine]] clutches [[Kelthryss]].<ref name="cradle-13-threshold-c11" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Carmine]] is given a list of survivors by [[Ziel]].<ref name="cradle-13-threshold-c11" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-13-threshold|Ziel pulled the folded paper from his jacket and pressed it into Carmine’s hands. “Here’s the list of survivors.<ref name="cradle-13-threshold-c11" />}}

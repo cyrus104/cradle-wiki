@@ -9,30 +9,27 @@
 {{spoiler|book=ee-sea-03-of-kings-and-killers|A Bellowing Horror, also referred to as a Bellows or [[Shuffles]], is a small creature described as a spawn of [[Othaghor]]. Physically, it resembles a stout, foot-tall man with undersized bat wings and eyes that project pure hatred. Its head is a chaotic collection of mouths, eyes, waving stalks, and bone cages that house pulsing organs. While it can be kept in a birdcage and treated as a harmless pet that eats rats, its primary function is to unnerve people by mimicking the most disturbing and vile words it hears. Despite its ability to repeat declarations of doom, it is considered non-threatening by those who keep it.}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Bellowing Horror]] is a pet that the crew normally keeps sealed up.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Bellowing Horror]] is also commonly known as a Bellows.<ref name="ee-sea-01-of-sea-and-shadow-c19">''Of Sea and Shadow'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Bellowing Horror]] is something people can have a link to.<ref name="ee-sea-01-of-sea-and-shadow-c22">''Of Sea and Shadow'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Bellowing Horror]] is an [[Elderspawn]] with a simple, unfathomable, alien mind.<ref name="ee-sea-01-of-sea-and-shadow-c27">''Of Sea and Shadow'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] carries a [[Bellowing Horror]].<ref name="ee-sea-02-of-dawn-and-darkness-c3">''Of Dawn and Darkness'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Bellowing Horror]] is a creature meant to unnerve the minds of men by repeating vile and disturbing parts of conversations.<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Bellowing Horror]] is an entity [[Calder]] gestures away.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Bellowing Horror]] is an entity that preened and chuckled.<ref name="ee-sea-03-of-kings-and-killers-c22" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“He carries with him a Bellowing Horror, a spawn of Othaghor that often declares death.”<ref name="ee-sea-02-of-dawn-and-darkness-c3" />}}

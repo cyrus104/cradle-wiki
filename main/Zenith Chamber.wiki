@@ -7,27 +7,24 @@
 {{spoiler|book=lh-04-the-pilot|The [[Zenith]] Chamber is a spiritual entity associated with the ancient [[Zenith Devices]]. It possesses a gentle and maternal personality, interacting with others in a manner similar to a parent reuniting with long-lost children. The Chamber is capable of providing blessings to individuals and appears to work in tandem with the [[Zenith Devices]] to further their shared objective of fostering the growth of galactic civilization.}}
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The spirit within the glass is believed to be the spirit of the [[Zenith Chamber]].<ref name="lh-02-the-engineer-c55">''The Engineer'', chapter 55</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Felrex]] is blessed by the [[Zenith Chamber]].<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Chamber]] is the one who asked if they had called to surrender.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Chamber]] is working with [[Vault]].<ref name="lh-04-the-pilot-c23" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Chamber]] is a character that asks for a prize.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|"You must be the spirit of the Zenith Chamber,"<ref name="lh-02-the-engineer-c55" />}}

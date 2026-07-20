@@ -9,29 +9,27 @@
 {{spoiler|book=lh-04-the-pilot|The [[Karoshan Alliance]] is a small political entity composed of the [[Karoshan Empire]] and several [[Visiri]] planets. Despite its limited size, it is considered a powerful organization. The Alliance's public perception of the [[Zenith]] starship known as [[The Last Horizon]] is largely negative, with its communications networks describing the vessel as a bringer of destruction and a harbinger of disaster for both the [[Free Worlds]] and the [[Union]]. However, the Alliance's [[Commander]], Shyrax, has chosen to lend her strength to the ship to serve as its commander.}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The Alliance has territory that is considered hazardous.<ref name="lh-01-the-captain-c5">''The Captain'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Last Horizon]] is identified as originating in [[Alliance space]].<ref name="lh-01-the-captain-c5" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Iron Legion]] appears to be abandoning the Alliance.<ref name="lh-01-the-captain-c37">''The Captain'', chapter 37</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The Alliance calls the nearest system [[Fifty-Three X]].<ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The Alliance is a group mentioned by Shyrax.<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The Alliance offers help at generous rates if one goes to [[Karosha]] in person.<ref name="lh-02-the-engineer-c32">''The Engineer'', chapter 32</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Alliance intelligence reports agree that [[Queen Shyrax]] took [[Mell]].<ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The Alliance is an established organization that once employed [[Jan]] for freelance work. This group maintains a deep hatred for both the narrator and [[Raion]], a prominent representative of [[Visiria]] who remains unaffiliated with them. Because of this animosity, the narrator and their companions are currently wanted by the Alliance. Their military forces utilize rifles equipped with magical shielding and have been seen providing accompaniment to a fleet of [[Titan Knights]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Jan]] used to do freelance work for the Alliance.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The narrator and their companions are wanted in the Alliance.<ref name="lh-03-the-knight-c11">''The Knight'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Rifles issued by the Alliance are magically shielded.<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}</li>
@@ -39,16 +37,14 @@
 <li>{{spoiler|book=lh-03-the-knight|[[Raion]] is a prominent representative of [[Visiria]] who is not part of the Alliance.<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The Alliance is an existing group.<ref name="lh-03-the-knight-c19">''The Knight'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|A fleet of Alliance forces accompanied the [[Titan Knights]].<ref name="lh-03-the-knight-c34">''The Knight'', chapter 34</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The Alliance issues automatic rifles.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] attacked the Alliance.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|"In the Alliance, they call the nearest system Fifty-Three X."<ref name="lh-01-the-captain-c38" />}}

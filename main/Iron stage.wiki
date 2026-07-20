@@ -4,14 +4,13 @@
 }}
 
 == Unsouled ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|The [[Iron stage]] is a level of [[sacred artist]].<ref name="cradle-01-unsouled-c2">''Unsouled'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Iron]] is a stage of advancement.<ref name="cradle-01-unsouled-c3">''Unsouled'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|An [[Iron body]] is a quantitative difference compared to [[Copper]] or below, making [[Irons]] superhuman.<ref name="cradle-01-unsouled-c5">''Unsouled'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|Advancing to [[Iron]] refines the body and expels impurities.<ref name="cradle-01-unsouled-c7">''Unsouled'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

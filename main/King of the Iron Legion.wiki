@@ -6,13 +6,12 @@
 }}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[King of the Iron Legion]] is a ten-foot-tall human-like figure wrapped in chrome armor with cybernetic and mystical connections.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Iron Legion]] [[King]]'s body was lost due to the disruption of a ritual.<ref name="lh-01-the-captain-c3" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|A [[King of the Iron Legion]] was once affected by [[Absolute Burial]].<ref name="lh-01-the-captain-c14">''The Captain'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

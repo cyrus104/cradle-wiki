@@ -15,8 +15,8 @@
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|A middle-aged human man with weathered skin and graying hair, the Undermaker serves as a [[Combat Artist]] and an [[Advocate]] pilot. Working in disaster relief, he holds the position of Defender of [[Tunnel City]]. He utilizes his unique ability to generate false matter to [[construct]] essential structures like walls and bridges. For his duties, he wears a skintight black combat suit featuring bronze highlights, temperature regulation functions, and an [[Advocate]] 'A' displayed on his chest.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Undermaker]] is the Defender of [[Tunnel City]] and an [[Advocate]] pilot.<ref name="lh-02-the-engineer-c44">''The Engineer'', chapter 44</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Undermaker]] is a human man in his middle years with graying hair and weathered skin.<ref name="lh-02-the-engineer-c44" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Undermaker]] wears a skintight black suit with bronze highlights and an [[Advocate]] ‘A’ on his chest.<ref name="lh-02-the-engineer-c44" />}}</li>
@@ -24,8 +24,7 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[Undermaker]] is a [[Combat Artist]].<ref name="lh-02-the-engineer-c44" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Undermaker]] is an [[Advocate]] who works in disaster relief.<ref name="lh-02-the-engineer-c44" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Undermaker]] wears a combat suit with a temperature regulation function.<ref name="lh-02-the-engineer-c44" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

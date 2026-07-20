@@ -4,14 +4,13 @@
 }}
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Oasis]] is an [[Abidan]] [[Iteration]].<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Oasis]] is composed of thousands of islands.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Oasis]]' central planet is a blue marble.<ref name="cradle-09-bloodline-c19" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The clash between [[Makiel]]'s [[sword]] and the Scythe blasted a crater in the central planet of [[Oasis]].<ref name="cradle-09-bloodline-c19" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -17,8 +17,8 @@
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|A red-skinned [[Visiri]] and former [[Titan Force]] teacher, Kyri Prest is a famous wizard and duelist who earned her title as [[Archmage]] on the battlefield. She serves as a Lieutenant, an [[arena]] duelist, and the combat trainer and coach for the [[Knights]]. Kyri is a skilled [[Combat Artist]] who possesses three eyes, including a third eye that shines white, and an [[aura]] of pale pink close to white. Following an ambush by the [[Iron Legion]], she now utilizes high-grade, sleek silver [[Aethertech]] prosthetic arms that run with blue lights. In her duties as the narrator's teacher, she wields a wand shaped like a jagged spike of silver metal resembling a [[steel]] icicle.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Kyri Prest]] is a [[Visiri]] and has held the title of [[Archmage]].<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Kyri Prest]] is the narrator's teacher.<ref name="lh-03-the-knight-c1" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Kyri Prest]] has a third eye that shines white.<ref name="lh-03-the-knight-c1" />}}</li>
@@ -37,15 +37,13 @@
 <li>{{spoiler|book=lh-03-the-knight|Kyri's [[aura]] is a pale pink close to white.<ref name="lh-03-the-knight-c12" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Kyri is an [[arena]] duelist.<ref name="lh-03-the-knight-c12" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Kyri was a teacher in the [[Titan Force]].<ref name="lh-03-the-knight-c31">''The Knight'', chapter 31</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|Kyri was the narrator's mentor in water magic.<ref name="lh-04-the-pilot-c7">''The Pilot'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -11,8 +11,8 @@
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|[[The Shadow]] [[Ark]] is a piece of [[Aethertech]] and a [[Zenith Device]] that identifies as the [[Zenith Colony]]. While it serves as a target for the crew to locate with [[Murrok]]'s assistance, this non-weaponized device contains all the thought-conduction alloy and synapse nodes in the galaxy. Upon activation by a guardian, this [[diamond]]-shaped obsidian structure can expand into a massive entity that guides a superior fleet and flies alongside [[Starhammer]] in [[Subspace]]. The vessel possesses a disembodied voice and can unfold into fractal shards of black and purple, capable of consuming space or restricting [[Aether]]. Ultimately, the [[Shadow]] [[Ark]] acts as a reliable location where magic can be used, though it is noted to be [[Horizon]]'s brother who does not like to share.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">32</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">32</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Shadow Ark]] is a [[Zenith Device]] that can hide.<ref name="lh-02-the-engineer-c25">''The Engineer'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Shadow Ark]] activates when someone is found to act as a guardian for its territory.<ref name="lh-02-the-engineer-c25" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Shadow]] [[Ark]] is a target that the crew hopes to find with [[Murrok]]'s help.<ref name="lh-02-the-engineer-c29">''The Engineer'', chapter 29</ref>}}</li>
@@ -45,14 +45,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[Shadow Ark]] is [[Horizon]]'s brother.<ref name="lh-02-the-engineer-c55">''The Engineer'', chapter 55</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Shadow Ark]] is more reliable than [[Horizon]].<ref name="lh-02-the-engineer-c55" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Shadow Ark]] and [[Horizon]] do not like to share.<ref name="lh-02-the-engineer-c55" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|[[Shadow]] [[Ark]] exists as an obsidian crystal capable of unfolding into a short man adorned in violet-edged obsidian armor and a crown of horns. While his attention remains focused on his inner world, many of his functions stay restricted until he establishes a mortal bond. He possesses non-adaptive systems and is capable of making a buzzing sound similar to clearing his throat. Amidst a fractured black-and-violet sky, he eventually begins accepting evacuating ships.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Shadow Ark]]'s attention is focused on his inner world.<ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Many of [[Shadow Ark]]'s functions are restricted until he has a mortal bond.<ref name="lh-03-the-knight-c17" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Shadow Ark]] can expand into a short man with violet-edged obsidian armor and a crown of horns.<ref name="lh-03-the-knight-c17" />}}</li>
@@ -61,14 +60,13 @@
 <li>{{spoiler|book=lh-03-the-knight|[[Shadow Ark]] is accepting evacuating ships.<ref name="lh-03-the-knight-c24">''The Knight'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Shadow Ark]] is an obsidian crystal that can unfold into a man in violet-edged obsidian armor.<ref name="lh-03-the-knight-c38">''The Knight'', chapter 38</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Shadow Ark]] has a fractured black-and-violet sky.<ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|[[The Shadow]] [[Ark]] is a [[Zenith Colony]] and a Guardian of Shyrax that serves as a secure cargo transport ship capable of swallowing planets to hide. This starship, which houses the [[Titan Force headquarters]] and a sealed sky, can take a human form featuring crown-like spikes on its scalp. After [[Horizon]] sent [[Omega]] to the vessel, it was eventually stolen by enemies, though it remains a location where people desire to settle and where [[Nova-Bots]] reside. The black-and-violet entity can unfold into a spatial warp or expand into a massive wall, and it has even swallowed the moon that supported the [[Titan Force]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">22</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">22</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Shadow Ark]] is the name of the [[Zenith Colony]].<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Shadow Ark]] is a location where Shyrax's children could be kept safe.<ref name="lh-04-the-pilot-c6" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Shadow Ark]] is a Guardian of Shyrax.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
@@ -91,8 +89,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Shadow Ark]] is a place where people want to settle.<ref name="lh-04-the-pilot-c36">''The Pilot'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Shadow Ark]] is a location where [[Nova-Bots]] stay.<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Shadow Ark]] is a black-and-violet shape that unfolds in the air and into a spatial warp.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|"This is it," Shadow Ark said to him, the sound weirdly distorted in the swirls of Subspace.<ref name="lh-02-the-engineer-c45" />}}

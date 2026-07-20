@@ -11,32 +11,29 @@
 {{spoiler|book=tg-03-city-of-light|Lilia is a wooden doll characterized by her large purple eyes and a frilly white dress. She is part of a collection of dolls owned by [[Kai]], who treats them with significant care and respect. Lilia possesses the ability to communicate telepathically, often speaking in a voice that resembles a gentle wind. Her manner of speech is typically described as distant, thoughtful, or dreamy, though she can also express curiosity or observation. In addition to her role as a companion, Lilia provides guidance and commentary through mental whispers, offering advice or making observations about the people around her.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Lilia]] is the name of one of the dolls [[Kai]] addresses.<ref name="tg-01-house-of-blades-c7">''House of Blades'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Lilia]] is a doll with a white dress and huge purple eyes that [[Kai]] converses with.<ref name="tg-01-house-of-blades-c7" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] carries [[Lilia]] in his arm.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Lilia]] has purple eyes.<ref name="tg-02-crimson-vault-c2" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Lilia]] communicates with [[Simon]].<ref name="tg-02-crimson-vault-c7">''The Crimson Vault'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Lilia]] is someone who would make [[Simon]] feel bad about a poor throw.<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Lilia]] says incomprehensible things about dreams.<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Lilia]] is a character whose dreamy tones [[Rebekkah]] mimics.<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Lilia]] is a character whose voice trails off.<ref name="tg-03-city-of-light-c16">''City of Light'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Lilia]]'s feet were crushed and her white dress was torn.<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

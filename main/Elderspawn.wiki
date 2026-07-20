@@ -17,8 +17,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|Elderspawn are giant, alien monsters with unfathomable faces that may lack heads, hearts, spines, or limbs. These creatures possess an awareness that can be read by [[Calder]] and act as guides for [[Navigators]] crossing the [[Aion]], though they can also attack gates or tear open prisons. While some Elderspawn may be summoned through [[Intent]] or arrive during ritual sequences, they can be immobilized by contact with [[Awakened iron]]. Despite their strange biology and mentality, which includes having six black eyes and gills, they are not necessarily malicious, though an army of them can crawl across an [[island]]. These beings do not experience tiredness in the human sense, and their volume serves as a measure for loudness.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">23</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">23</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|An [[Elderspawn]] is a clawed creature that [[Calder]] had to nail to the inside of his hull.<ref name="ee-sea-01-of-sea-and-shadow-c1">''Of Sea and Shadow'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Elderspawn]] are creatures that may not get tired in the human sense.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The volume of [[Elderspawn]] is a measure for loudness.<ref name="ee-sea-01-of-sea-and-shadow-c7">''Of Sea and Shadow'', chapter 7</ref>}}</li>
@@ -42,14 +42,13 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[island]] is crawling with an army of [[Elderspawn]].<ref name="ee-sea-01-of-sea-and-shadow-c25" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Emperor]] is compared to [[Elderspawn]] due to his detachment from humanity.<ref name="ee-sea-01-of-sea-and-shadow-c26">''Of Sea and Shadow'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Elderspawn]] are creatures with unfathomable faces.<ref name="ee-sea-01-of-sea-and-shadow-c27">''Of Sea and Shadow'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Elderspawn are winged, dark green creatures with tentacles writhing over their mouths that roving street gangs in poor quarters often resemble. These entities can be used in ship construction to help captains navigate the hazards of the deep [[Aion]], and a giant specimen was once chained beneath the [[Navigator]]'s ship. While they are difficult to kill, sometimes requiring a second blade, [[Meia]] has successfully slain a giant Elderspawn using only her bare hands. During conflicts on the [[island]], [[Lucan]] fought against them, though every Elderspawn eventually vanished after being swept away by [[Bastion's Veil]]. [[Calder Marten]] maintains captive Elderspawn and utilizes an orange-and-black [[sword]] that possesses a specific effect on the creatures.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Elderspawn]] are entities that roving bands of street gangs resemble in the poorer quarters.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The prisoner was once mistaken for [[Elderspawn]].<ref name="ee-shadow-01-of-shadow-and-sea-c5">''Of Shadow and Sea'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A giant [[Elderspawn]] is tied to the hull of the [[Navigator]]'s ship.<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref>}}</li>
@@ -67,14 +66,13 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Every [[Elderspawn]] on the [[island]] has vanished.<ref name="ee-shadow-01-of-shadow-and-sea-c26" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Elderspawn]] are creatures that can be swept off the [[Island]] by [[Bastion's Veil]].<ref name="ee-shadow-01-of-shadow-and-sea-c26" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Meia]] has killed a giant [[Elderspawn]] with her bare hands.<ref name="ee-shadow-01-of-shadow-and-sea-c27">''Of Shadow and Sea'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Characterized by a perpetual state of malice and burning frustration, these ten-legged entities possess spear-sharp limbs and chitin that ranges from slick purple to dark blue. While they were once used as messengers, their presence rose globally during the [[Long Mourning]], and they have since been sighted in locations such as [[Dylia]], [[Vandenyas]], the Nire, and the [[Capital]]. These creatures, which resemble wild lions and can imitate human voices, are capable of emptying entire villages or spreading diseases that transform people into monsters. Though some variations like the low-intelligence [[Shuffles]] exist, these hordes are known to kneel and have been used to feed prisoners or were even kept as pets by [[Calder]]. During violent encounters in [[Emperor (Elder Empire)|the Emperor]]'s courtyard, fleshy Elderspawn have been known to fight and leave behind gore.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">20</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">20</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Elderspawn]] are used as messengers.<ref name="ee-sea-02-of-dawn-and-darkness-c3">''Of Dawn and Darkness'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Reading]] an [[Elderspawn]] directly can cause madness.<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Elderspawn]] rose all over the world during the [[Long Mourning]].<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
@@ -95,14 +93,13 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] has a pet [[Elderspawn]].<ref name="ee-sea-02-of-dawn-and-darkness-c19">''Of Dawn and Darkness'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Elderspawn]] include [[Shuffles]], who have little intelligence more than animals.<ref name="ee-sea-02-of-dawn-and-darkness-c23">''Of Dawn and Darkness'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Elderspawn]] are hordes that can kneel.<ref name="ee-sea-02-of-dawn-and-darkness-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|These hideous creatures, which are more repulsive than any [[Kameira]], possess dark purple or near-black hairy bodies and ten legs. Characterized by a shifting, skittering movement, they feature eyes situated on stalks upon their backs and can even borrow a person's face. During a battle, [[Kerian]] managed to sweep an army of these entities from the shores by collapsing the [[Veil]]. They are known for their sickening purple blood and death-screams that sound like a blend of a whistling teakettle and a screaming horse, which produce floating green lights upon their passing. While they showed no concern for humans and even constructed a bronze door within a tunnel, the Guard leader eventually identified [[Darius]] as one of these beings during a period when they were being cleansed from the [[Capital]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The deaths of [[Elderspawn]] produce floating green lights.<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] swept an army of [[Elderspawn]] from the shores by collapsing the [[Veil]].<ref name="ee-shadow-02-of-darkness-and-dawn-c2" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|There was a battle with the [[Elderspawn]].<ref name="ee-shadow-02-of-darkness-and-dawn-c4">''Of Darkness and Dawn'', chapter 4</ref>}}</li>
@@ -118,14 +115,13 @@
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Elderspawn]] are being cleansed from the [[Capital]].<ref name="ee-shadow-02-of-darkness-and-dawn-c16" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|An [[Elderspawn]] is a creature more hideous than any [[Kameira]].<ref name="ee-shadow-02-of-darkness-and-dawn-c18">''Of Darkness and Dawn'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Elderspawn]] are beings that can borrow a person's face.<ref name="ee-shadow-02-of-darkness-and-dawn-c19">''Of Darkness and Dawn'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Created by [[Othaghor]], these lime-green creatures serve the [[Elders]] and act as messengers that translate the voices of the [[Sleepless]] cabal. Found around the [[Capital]], these entities possess six yellow eyes, a dozen webbed feet, stingers, and extendible jaws filled with crocodile teeth. While some Elderspawn served [[Jerri]] by transporting food and waste during her imprisonment, others appeared as giant fanged fish or aquatic masses seething in the surf. Because they can affect the minds and bodies of victims like [[Mister Goss]], people use silver rings for protection, and certain [[Pilgrims]] develop a holy zeal to eradicate them. Ultimately, they are the specific targets for which the [[Awakened sword]] was designed, even as pieces of their corpses began stitching themselves back together alongside human remains.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">23</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">23</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Elderspawn]] messengers translate the voices of the [[Sleepless]] cabal.<ref name="ee-sea-03-of-kings-and-killers-c5">''Of Kings and Killers'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Elderspawn]] report back to the [[Sleepless leaders]].<ref name="ee-sea-03-of-kings-and-killers-c5" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Estyr]] identified something or someone as an [[Elderspawn]].<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
@@ -149,14 +145,13 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] snaps [[Elderspawn]] as he marches forward.<ref name="ee-sea-03-of-kings-and-killers-c24" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Elderspawn]] are entities that the [[Awakened sword]] was designed to be used against.<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Pieces of [[Elderspawn]] and human corpses were stitching themselves together.<ref name="ee-sea-03-of-kings-and-killers-c25" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The Elderspawn serve as a method for the [[Creeping Shadow]] to exert influence over the world, with some individuals sharing a hive-like mind. Following a global uprising on the night of [[Emperor (Elder Empire)|the Emperor]]'s death, these creatures were even known to drive out certain [[Elder]] tombs. While they are unable to pass through the mist of the [[Bastion]]’s [[Veil]] and can be torched by [[Loreli]]'s [[Beacon]], they remain a persistent threat. They have been observed pooling at [[Darius Allbright]]'s feet, swarming decks, and inhabiting the waters surrounding the [[Navigators]]. These beings of flesh and bone are capable of crawling up railings, and their presence has been signaled by the sight of distant armies.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Some [[Elderspawn]] share a mind like a hive.<ref name="ee-shadow-03-of-killers-and-kings-c5">''Of Killers and Kings'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Estyr]] uses the term '[[Elderspawn]]' as a declaration of hatred and fury.<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Allbright]] suggests flushing out the [[Elderspawn]] from the [[Imperial Palace]].<ref name="ee-shadow-03-of-killers-and-kings-c10">''Of Killers and Kings'', chapter 10</ref>}}</li>
@@ -170,8 +165,7 @@
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Elderspawn]] are in the water around the [[Navigators]].<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Elderspawn]] were on the deck.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Elderspawn]] of flesh and bone can crawl up railings.<ref name="ee-shadow-03-of-killers-and-kings-c26">''Of Killers and Kings'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|In volume no less than the Elderspawn, he announced, “Danger! All hands on deck!<ref name="ee-sea-01-of-sea-and-shadow-c7" />}}

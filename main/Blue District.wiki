@@ -7,25 +7,23 @@
 {{spoiler|book=tg-03-city-of-light|The [[Blue]] District is one of the nine colored sections that make up the city. It represents the virtue of mercy, a quality intended to assist [[Naraka]] [[Travelers]] who are prone to being judgmental. Access to the district is provided through a specific door located within the city's central wall system. The area contains various unique lifeforms, including three-tailed lizards, air-drifting ethereal fish, and unnamed tentacled entities that consume the heat and [[life]] force of [[Naraka]] monsters. Additionally, the district houses the ruins of a [[Naraka waystation]].}}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Blue District]] exemplifies mercy.<ref name="tg-02-crimson-vault-c13">''The Crimson Vault'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Blue District]] contains three-tailed lizards and ethereal fish.<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|The [[Blue]] District is the all-blue section of [[Enosh]]. After [[Alin]] mentions the location, he begins a march toward it. This area is known to contain jellies within its bounds. Ultimately, an explosion occurs inside the district.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The [[Blue District]] is a location mentioned by [[Alin]].<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Alin]] marches toward the [[Blue District]].<ref name="tg-03-city-of-light-c10" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Blue District]] is the all-blue section of [[Enosh]].<ref name="tg-03-city-of-light-c10" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Blue District]] contains jellies.<ref name="tg-03-city-of-light-c12">''City of Light'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The explosion occurs in the [[Blue District]].<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-03-city-of-light|"Alin marched toward the Blue District, his boots ringing on the stones."<ref name="tg-03-city-of-light-c10" />}}

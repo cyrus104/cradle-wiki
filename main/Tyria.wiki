@@ -14,8 +14,8 @@
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|As a [[Champion]] clad in leather and mail, Tyria emerged from the fog by stumbling onto the [[Steward]]'s body. She wielded a silver needle as a weapon and utilized her [[Soulbound]] power, which manifested as golden light pooling at her feet and forming vines of radiance. During combat, she cast thorny ropes of shining gold toward [[Shera]] to capture her enemy. Following these events, Tyria carried a red-haired man in white armor who suffered a wound on his back, though she believed [[Calder]] was dead. While leveling her needle at [[Foster]]'s chest, she remained a figure whom researchers would report to [[Petal]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Tyria]] is a [[Champion]].<ref name="ee-sea-03-of-kings-and-killers-c13">''Of Kings and Killers'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Tyria]] is a [[Champion]] who wears armor of leather and mail.<ref name="ee-sea-03-of-kings-and-killers-c15">''Of Kings and Killers'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Tyria]] is a [[Champion]] with [[Soulbound]] power suited to capturing enemies.<ref name="ee-sea-03-of-kings-and-killers-c15" />}}</li>
@@ -27,16 +27,14 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Tyria]] believes [[Calder]] is dead.<ref name="ee-sea-03-of-kings-and-killers-c17" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Tyria]] is someone the researchers would report [[Petal]] to.<ref name="ee-sea-03-of-kings-and-killers-c17" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Tyria]] leveled a silver needle at [[Foster]]'s chest.<ref name="ee-sea-03-of-kings-and-killers-c17" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Tyria]] uses golden thorns.<ref name="ee-shadow-03-of-killers-and-kings-c16">''Of Killers and Kings'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Tyria]] has [[Soulbound powers]].<ref name="ee-shadow-03-of-killers-and-kings-c16" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-03-of-kings-and-killers|“You think I didn’t take his pulse? He’s gone.”<ref name="ee-sea-03-of-kings-and-killers-c17" />}}

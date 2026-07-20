@@ -11,8 +11,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|Soulbound are a rare type of human, numbering only a handful on the continent, who gain useful powers by borrowing from [[Kameira]] or the [[Elders]]. This status is achieved through a process called [[Awakening]], and while it can take years to bond a [[Vessel]], every Soulbound maintains a connection to their [[Vessel]]. Although the [[Greenwardens]] are believed to all be Soulbound, these individuals are actually the greatest warriors of the [[Empire]]. Within the crew, two known Soulbound exist, including [[Naberius Clayborn]], and it is noted that a Soulbound who has breached [[Bastion]]’s [[Veil]] can wield power freely. Despite their strength, a Soulbound would be unable to stand against the focused power of [[Urzaia]]'s opponent, though they can fight their way to freedom if brought to their [[Vessel]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Greenwardens]] are supposedly all [[Soulbound]].<ref name="ee-sea-01-of-sea-and-shadow-c4">''Of Sea and Shadow'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Soulbound]] are humans who borrow the powers of [[Elders]] or [[Kameira]].<ref name="ee-sea-01-of-sea-and-shadow-c5">''Of Sea and Shadow'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|There were only a handful of [[Soulbound]] on the continent.<ref name="ee-sea-01-of-sea-and-shadow-c5" />}}</li>
@@ -30,14 +30,13 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Naberius Clayborn]] is a [[Soulbound]].<ref name="ee-sea-01-of-sea-and-shadow-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Soulbound]] can fight their way free if they are brought to their [[Vessel]].<ref name="ee-sea-01-of-sea-and-shadow-c25">''Of Sea and Shadow'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Soulbound]] are the greatest warriors of the [[Empire]].<ref name="ee-sea-01-of-sea-and-shadow-c26">''Of Sea and Shadow'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Soulbound is a person who has bonded with an object of power known as a [[Vessel]], from which they may draw specific powers. These entities are defined by their complex relationship to [[Intent]], and certain types exist, such as the Soulbound [[Silent One]]. While [[Navigators]] are considered Soulbound because they are bound to their ships, others like [[Bastion]] have held this status in the past. The nature of a Soulbound is so significant that [[Gardeners]] avoid fighting them at all costs, and the presence of one in a crater can determine the success of an individual like [[Shera]]. Furthermore, if [[Naberius Clayborn]] were to take the [[Heart]] as his [[Vessel]], he would undergo this transformation.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Fletcher]] compares the envelope to a [[Soulbound]]'s [[Vessel]].<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Soulbound]] are entities whose relationship to [[Intent]] is a subject of concern.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|If [[Naberius Clayborn]] takes the [[Heart]] as his [[Soulbound Vessel]], he would become a [[Soulbound]].<ref name="ee-shadow-01-of-shadow-and-sea-c4" />}}</li>
@@ -49,14 +48,13 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Bastion]] was a [[Soulbound]].<ref name="ee-shadow-01-of-shadow-and-sea-c12">''Of Shadow and Sea'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A [[Soulbound]] is a person who has bonded with an object of power.<ref name="ee-shadow-01-of-shadow-and-sea-c19">''Of Shadow and Sea'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Soulbound]] individuals may have powers granted by their [[Vessel]].<ref name="ee-shadow-01-of-shadow-and-sea-c25">''Of Shadow and Sea'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|A Soulbound is a legendary fighter and a type of person [[Jyrine]] has long dreamed of meeting. Born through the phenomena of [[Reading]] and [[Intent]], these individuals possess powers that remain not fully understood and serve as entities that flare like a beacon within [[The Testament]]'s awareness. Because conventional arms are ineffective against them, Soulbound individuals and combat-capable modifications have been mobilized, as they are people who possess something to bind. These entities can call for their [[Vessel]] and were notably involved in the attack on [[Mekendi Maxeus]]. Among them is [[Shera]], whose specific level of danger compared to other Soulbound remains a subject of inquiry for [[Jerri]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Soulbound]] is a type of person [[Jyrine]] has dreamed about meeting.<ref name="ee-sea-02-of-dawn-and-darkness-c1">''Of Dawn and Darkness'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Soulbound]] is a type of entity that flares like a beacon in [[The Testament]]'s awareness.<ref name="ee-sea-02-of-dawn-and-darkness-c2">''Of Dawn and Darkness'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Soulbound]] is a person who has something to bind.<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
@@ -69,14 +67,13 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Soulbound]] is a classification or type of person that [[Calder]] asks [[Duster]] about.<ref name="ee-sea-02-of-dawn-and-darkness-c13">''Of Dawn and Darkness'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Soulbound]] was involved in the attack on [[Mekendi Maxeus]].<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Soulbound]] is a type of legendary fighter.<ref name="ee-sea-02-of-dawn-and-darkness-c15">''Of Dawn and Darkness'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|As one of the world's first Soulbound, [[Alagaeus]] belongs to a vital group within the [[Empire]] that possesses a link to specific [[Vessels]], such as a [[pistol]]. These individuals derive their power from either an [[Elder]] or a [[Kameira]], and the first few months of their existence are critical for harnessing this [[Elder power]]. While a Soulbound can draw strength by inhaling through a blade, they may also exist without their [[Vessel]], as seen with [[Shera]]. Although the [[Imperial Guard]] is capable of subduing them, mortal judges find they cannot enforce their will upon Soulbound with any degree of impartiality or precision. This group includes individuals like [[Jyrine]] and remains essential to the stability of the [[Empire]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Alagaeus]] is one of the first [[Soulbound]] in the world.<ref name="ee-shadow-02-of-darkness-and-dawn-c1">''Of Darkness and Dawn'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Soulbound]] involves a link between an individual and their [[Vessels]].<ref name="ee-shadow-02-of-darkness-and-dawn-c1" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A [[Soulbound]] is a person who might use a [[pistol]] as a [[Vessel]].<ref name="ee-shadow-02-of-darkness-and-dawn-c1" />}}</li>
@@ -89,14 +86,13 @@
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Shera]] is a [[Soulbound]] without her [[Vessel]].<ref name="ee-shadow-02-of-darkness-and-dawn-c17">''Of Darkness and Dawn'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A [[Soulbound]] can draw power by inhaling through a blade.<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Soulbound]] are vital to the [[Empire]].<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Soulbound is a type of magic that can be an achievement, a state of being, or a power possessed by [[Luminian Order]] [[Pilgrims]]. This ability allows individuals to perform immense feats, such as reshaping the [[Spear of Tharlos]], projecting illusions to lure [[Bliss]] away from the [[Capital]], or even raising an [[island]] from the sea. While alchemists utilize leashed Soulbound, those who possess this power must leave their [[Vessels]] in secure storage before meetings, an experience that feels like a part of their body going numb. Although Soulbound individuals can control their [[Vessels]] through contact, the [[Luminian Order]]'s support means very few remain capable of healing injuries. The nature of one's Soulbound is subject to specific requirements for [[Champions]], and the power is so potent that [[Alsa Grayweather]] would stand no chance in a battle between such beings.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|A [[Soulbound]] is someone [[Calder]] cannot defend himself from if [[Jerri]] is unarmed.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Soulbound]] individuals are requested to leave their [[Vessels]] in secure storage outside the meeting venue.<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Varia Selethir]] is [[Soulbound]].<ref name="ee-sea-03-of-kings-and-killers-c5">''Of Kings and Killers'', chapter 5</ref>}}</li>
@@ -114,14 +110,13 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Soulbound]] is a state or achievement one might reach.<ref name="ee-sea-03-of-kings-and-killers-c18">''Of Kings and Killers'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Champions]] have requirements regarding the nature of their [[Soulbound]].<ref name="ee-sea-03-of-kings-and-killers-c19">''Of Kings and Killers'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Soulbound]] is a power [[Bliss]] used to reshape the [[Spear of Tharlos]].<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|Soulbound are volatile individuals who can be newly acquired through a process that allows people to emerge successfully transformed. These entities possess powers of communication and, in some historical instances, the ability to alter their voice and appearance. While they have unleashed their powers within the streets of the [[Imperial Palace]], a true challenge for them lies in plumbing the depths of their [[Vessel]] and uncovering layers of [[Intent]]. Because powerful Soulbound are capable of destroying the [[Shades of Urg’naut]], [[Shera]] maintains a small army of them and has expressed a need for more combat-capable members. Their strength is such that awakened weapons have even assaulted the [[Dead Mother]] in a manner resembling an army of Soulbound.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Soulbound]] are volatile individuals.<ref name="ee-shadow-03-of-killers-and-kings-c4">''Of Killers and Kings'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Soulbound]] unleashed their powers in the streets of the [[Imperial Palace]].<ref name="ee-shadow-03-of-killers-and-kings-c8">''Of Killers and Kings'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The challenge of a [[Soulbound]] is to uncover the layers of [[Intent]] and plumb the depths of their [[Vessel]].<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
@@ -133,8 +128,7 @@
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Soulbinding]] is a process where people can come out successfully [[Soulbound]].<ref name="ee-shadow-03-of-killers-and-kings-c22" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] has a small army of [[Soulbound]].<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Awakened weapons]] assault the [[Dead Mother]] like an army of [[Soulbound]].<ref name="ee-shadow-03-of-killers-and-kings-c26">''Of Killers and Kings'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“Conventional arms seem ineffective, so we mobilized all Soulbound and combat-capable modifications.<ref name="ee-sea-02-of-dawn-and-darkness-c6" />}}

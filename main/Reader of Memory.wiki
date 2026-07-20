@@ -4,19 +4,17 @@
 }}
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] is referred to as a [[Reader of Memory]].<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Kelarac]] addresses [[Calder]] as [[Reader of Memory]].<ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Reader of Memory]] is a title or designation used by [[Kelarac]] to address [[Calder]].<ref name="ee-sea-03-of-kings-and-killers-c17">''Of Kings and Killers'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-03-of-kings-and-killers|“I’m pleased to see you again, Reader of Memory,” Kelarac said.<ref name="ee-sea-03-of-kings-and-killers-c17" />}}

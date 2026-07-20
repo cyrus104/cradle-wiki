@@ -11,8 +11,8 @@
 == Unsouled ==
 {{spoiler|book=cradle-01-unsouled|The term Unsouled describes an individual who lacks any affinity to their spirit and possesses no [[madra]]. Within the hierarchy of practitioners, being Unsouled is a rank or type held by [[Lindon]], representing someone who has started two steps behind others. At the [[Foundation stage]], this status functions as a specific level of power that prevents an individual from practicing [[sacred arts]]. Due to the nature of this condition, Unsouled individuals are not allowed to marry or have families to prevent passing on their deformity. Despite these limitations, an Unsouled can still rise in power by utilizing the resources of a prestigious school of [[sacred arts]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|[[Unsouled]] is a term used to describe an individual who has no affinity to their spirit.<ref name="cradle-01-unsouled-c1">''Unsouled'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|An [[Unsouled]] at the [[Foundation stage]] is a level of power.<ref name="cradle-01-unsouled-c3">''Unsouled'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|An [[Unsouled]] cannot practice [[sacred arts]] and may never have a family of his own to avoid passing on their deformity.<ref name="cradle-01-unsouled-c4">''Unsouled'', chapter 4</ref>}}</li>
@@ -22,66 +22,58 @@
 <li>{{spoiler|book=cradle-01-unsouled|An [[Unsouled]] is a rank or type of practitioner that [[Lindon]] holds.<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|An [[Unsouled]] can rise using the resources of a prestigious school of [[sacred arts]].<ref name="cradle-01-unsouled-c18">''Unsouled'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Unsouled]] is a term used to describe someone who started two steps behind.<ref name="cradle-01-unsouled-c20">''Unsouled'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|No one is [[Unsouled]].<ref name="cradle-02-soulsmith-c2">''Soulsmith'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|An [[Unsouled]] is a status or stage of being.<ref name="cradle-02-soulsmith-c4">''Soulsmith'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Unsouled]] is a status or classification within the [[Wei clan]].<ref name="cradle-02-soulsmith-c6">''Soulsmith'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The bowl test is used to designate someone as [[Unsouled]].<ref name="cradle-02-soulsmith-c13">''Soulsmith'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] is an [[Unsouled]].<ref name="cradle-03-blackflame-c3">''Blackflame'', chapter 3</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Unsouled]] is a status or classification that [[Kelsa]]'s clan elders used to blame [[Lindon]] for.<ref name="cradle-07-uncrowned-c1">''Uncrowned'', chapter 1</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|In [[Sacred Valley]], the word for '[[Empty]]' is '[[Unsouled]]'.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|An [[Unsouled]] can wear a badge made from [[wintersteel]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Unsouled]] is a symbol in the old language.<ref name="cradle-09-bloodline-c7">''Bloodline'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Unsouled]] is a title used to address [[Lindon]].<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Elders]] tend not to meet with [[Unsouled]].<ref name="cradle-09-bloodline-c11" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Unsouled]] is a state or identity [[Lindon]] once held.<ref name="cradle-12-waybound-c2">''Waybound'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Unsouled]] are destined to be crushed beneath the [[Dreadgod]]'s feet.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Lindon]] feels powerless like an [[Unsouled]].<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Wei Jin Sairus]] addresses [[Lindon]] as [[Unsouled]].<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Lindon]] warns that anyone who calls him '[[Unsouled]]' dies.<ref name="cradle-13-threshold-c14" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-01-unsouled|“There is no affinity to his spirit,” the First Elder says at last, and those close enough to hear gasp. “He is empty. Unsouled.”<ref name="cradle-01-unsouled-c1" />}}

@@ -7,28 +7,25 @@
 {{spoiler|book=cradle-11-dreadgod|Lords represent a tier of power within the hierarchy of advancement, situated above Underlords and below [[Sages]] or [[Heralds]]. This realm is characterized by the ability to perform miraculous feats when under significant pressure, though [[Sages]] are specifically responsible for mastering the control of these miracles. Progression through this stage requires significant dedication, as individuals must refine their training for years to condense and fill their souls with [[soulfire]]. Unlike the [[Gold stage]], which can be bypassed through wealth, reaching the [[Lord realm]] requires genuine effort and cannot be simply purchased. The hierarchy of Lords includes several sub-ranks, such as Underlords—who may possess varying levels of quality like [[Truegold]] or [[Highgold]]—as well as [[Overlords]] and Archlords. Archlords are considered the peak of traditional soulsmithing, producing the highest form of [[soulfire]]. Some highly advanced Archlords possess [[Remnants]] so potent they appear physically solid. Lords serve various essential societal and military roles, including managing populations, defending territorial claims, overseeing refugees, and harvesting [[natural treasures]]. In combat, they are utilized in diverse capacities: some act as ground troops, while others observe from floating mounts or clouds. Certain specialized individuals, such as [[Silverlords]], have been known to use coordinated chanting and runes to tap into the energy of other worlds. Additionally, the [[Lord realm]] is relevant to [[Soulsmiths]] who possess the ability to directly manipulate willpower.}}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Pride]] states that the [[Akura]] family needs [[Lords]] more than anything.<ref name="cradle-08-wintersteel-c5">''Wintersteel'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lords]] can do miraculous things when under stress.<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|A dozen [[Lords]] were watching the fight from clouds or floating mounts.<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Reigan Shen]] needs to get the [[Lords]] out of [[Cradle]].<ref name="cradle-10-reaper-c27">''Reaper'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Emala]] brought lesser [[Lords]] to help with her siege when she was a [[Sage]].<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Sha Relliar]] stood guard with a contingent of [[Lords]] and [[Ladies]].<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

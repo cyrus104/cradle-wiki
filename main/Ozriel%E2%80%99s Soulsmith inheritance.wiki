@@ -6,12 +6,11 @@
 }}
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Ozriel]]'s [[Soulsmith inheritance]] is a potential prize.<ref name="cradle-10-reaper-c20">''Reaper'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Ozriel’s Soulsmith inheritance]] is something [[Lindon]] wishes he had taken.<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -11,8 +11,8 @@
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|The Burning Cloak is an [[Enforcer technique]] utilized by [[Blackflame]] disciples. After attempting to form the ability, [[Lindon]] successfully ignited it and used the technique alongside [[Orthos]]. This method produces a distinct black-and-red light while providing bursts of strength and explosive speed. [[Lindon]] even flared the technique to facilitate a leap.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Burning Cloak]] is a technique name.<ref name="cradle-03-blackflame-c12">''Blackflame'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] uses the [[Burning Cloak]] technique.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Burning Cloak]] technique provides explosive speed and bursts of strength.<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}</li>
@@ -22,23 +22,21 @@
 <li>{{spoiler|book=cradle-03-blackflame|The [[Burning Cloak]] produces black-and-red light.<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Burning Cloak]] is a technique [[Lindon]] tried to form.<ref name="cradle-03-blackflame-c18" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] ignited the [[Burning Cloak]].<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Lindon]] no longer has the speed of the [[Burning Cloak]].<ref name="cradle-04-skysworn-c6">''Skysworn'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Burning Cloak]] is a technique that creates a black-and-red haze.<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Lindon]] moves in bursts of speed while under the [[Burning Cloak]].<ref name="cradle-04-skysworn-c17">''Skysworn'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|The Burning Cloak is a technique fueled by [[Blackflame madra]] that manifests around [[Lindon]] when he taps his core. During combat, the effect can surge in intensity, though it is something [[Lindon]] must eventually recover after use. He relies on the cloak to close gaps with his opponents, even finding ways to apply its underlying principles to his pure core. While the cloak's effects can be dampened by water or specific auras, [[Lindon]] has successfully utilized a Burning Cloak-empowered pull to heave [[Harmony]] from his feet.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Burning Cloak]] is a technique or effect that springs to [[life]] around [[Lindon]] when he taps his [[Blackflame core]].<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]]'s [[Burning Cloak]] surged during the fight.<ref name="cradle-05-ghostwater-c3" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Burning Cloak]] is something [[Lindon]] needs to recover.<ref name="cradle-05-ghostwater-c5">''Ghostwater'', chapter 5</ref>}}</li>
@@ -47,22 +45,20 @@
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] applies the principles of the [[Burning Cloak]] to his pure core.<ref name="cradle-05-ghostwater-c13">''Ghostwater'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Burning Cloak]]'s [[aura]] and water can dampen its effects.<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] uses a [[Burning Cloak]]-empowered pull to heave [[Harmony]] from his feet.<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Burning Cloak]] covers the user in transparent black-and-red flames.<ref name="cradle-06-underlord-c2">''Underlord'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Burning Cloak]] sprung up in the air around [[Lindon]].<ref name="cradle-06-underlord-c9">''Underlord'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|The Burning Cloak manifests as a flame of black and red that outlines the user's body. [[Lindon]] utilizes this technique to power his movements and close the distance against his opponents. During combat, he cycles the ability and can even focus the cloak around his [[Forged Blackflame claws]]. While [[Lindon]] employs this power, [[Naian]] demonstrates a version of the Burning Cloak that appears thicker and wilder than his own.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Burning Cloak]] is a flame of black and red surrounding the body.<ref name="cradle-07-uncrowned-c3">''Uncrowned'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] used the [[Burning Cloak]] to get close to his opponent.<ref name="cradle-07-uncrowned-c6">''Uncrowned'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] cycles for the [[Burning Cloak]].<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}</li>
@@ -70,61 +66,54 @@
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Burning Cloak]] outlines a person in black and red.<ref name="cradle-07-uncrowned-c20">''Uncrowned'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Burning Cloak]] powers [[Lindon]]'s movements.<ref name="cradle-07-uncrowned-c20" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|A focused [[Burning Cloak]] surrounds [[Lindon]]'s [[Forged Blackflame claws]].<ref name="cradle-07-uncrowned-c20" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Burning Cloak]] can ignite.<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Burning Cloak]] provides explosive strength.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The [[Burning Cloak]] blasts [[Lindon]] onward when he uses the [[Path of Black Flame]].<ref name="cradle-09-bloodline-c7">''Bloodline'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|The Burning Cloak is a state that can be utilized by [[Orthos]]. After an echo fades, the phenomenon manifests around [[Lindon]]. Once active, [[Lindon]] is able to dash forward while enveloped in this state. Additionally, [[Blue]] is capable of running with the same speed provided by the Burning Cloak.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Orthos]] can use the [[Burning Cloak]].<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Burning Cloak]] is a state [[Lindon]] enters.<ref name="cradle-10-reaper-c16">''Reaper'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Burning Cloak]] appeared around [[Lindon]] after the echo faded.<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] dashed forward with the [[Burning Cloak]].<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Blue]] runs with the speed of the [[Burning Cloak]].<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] called the [[Burning Cloak]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Burning Cloak]] is a haze of red and black light that burns around the [[dragon]].<ref name="cradle-11-dreadgod-c13">''Dreadgod'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] used the [[Burning Cloak]] to intercept an attack before [[Orthos]] was hit.<ref name="cradle-12-waybound-c19">''Waybound'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Burning Cloak]] is a technique that manifests as a rough, violent black-and-red flame.<ref name="cradle-12-waybound-c19" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Lindon]] has the explosive speed of the [[Burning Cloak]].<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Burning Cloak]] is a technique [[Pride]] uses to force [[Orthos]]'s response.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Burning Cloak]] is a technique used by [[Orthos]].<ref name="cradle-13-threshold-c11">''Threshold: Stories from Cradle'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

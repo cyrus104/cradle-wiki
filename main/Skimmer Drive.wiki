@@ -4,13 +4,12 @@
 }}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Skimmer Drive]] is a state-of-the-art propulsion system that resembles a twisted knot of metal tubes.<ref name="lh-01-the-captain-c30">''The Captain'', chapter 30</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Skimmer Drive]] is an object the narrator is attending to.<ref name="lh-01-the-captain-c30" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Skimmer Drive]] is a device that uses [[Aether]] and can fail.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

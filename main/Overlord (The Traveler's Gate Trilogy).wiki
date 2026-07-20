@@ -14,8 +14,8 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|The Overlord is a powerful being and a member of a class of entities known to children. This figure holds prisoners of war and possesses a level of strength that local villagers are unable to resist. While the [[Myrians]] have risen to stand against this power, the Overlord has previously received various requests for parley and maintains a Master of Household. After personally taking [[Leah]], the Overlord became the subject of [[Leah]]'s intent to discuss certain matters. Ultimately, [[Simon]] succeeded in killing the Overlord.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Leah]] intends to speak with the Overlord regarding certain matters.<ref name="tg-01-house-of-blades-c2">''House of Blades'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The Overlord is a figure who holds prisoners of war.<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The Overlord is a power that villagers cannot stand up to.<ref name="tg-01-house-of-blades-c5">''House of Blades'', chapter 5</ref>}}</li>
@@ -25,18 +25,16 @@
 <li>{{spoiler|book=tg-01-house-of-blades|The Overlord is a figure the [[Myrians]] are standing against.<ref name="tg-01-house-of-blades-c17">''House of Blades'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The Overlord personally took [[Leah]].<ref name="tg-01-house-of-blades-c17" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Simon]] killed an Overlord.<ref name="tg-01-house-of-blades-c22">''House of Blades'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The Overlord is dead.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|Each Overlord guards one [[Hanging Tree]].<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The Overlord is in an alliance with the [[Grandmasters]] and his [[Travelers]].<ref name="tg-02-crimson-vault-c16">''The Crimson Vault'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|An Overlord is a title for someone serving the throne of [[Damasca]].<ref name="tg-02-crimson-vault-c18">''The Crimson Vault'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|“I must speak with the Overlord regarding these matters,” Leah continued.<ref name="tg-01-house-of-blades-c2" />}}

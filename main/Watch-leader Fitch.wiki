@@ -7,12 +7,11 @@
 }}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Watch-leader Fitch]] has gills on the sides of his neck.<ref name="ee-sea-01-of-sea-and-shadow-c2">''Of Sea and Shadow'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Fitch is a Watch-leader.<ref name="ee-sea-01-of-sea-and-shadow-c2" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -9,36 +9,32 @@
 {{spoiler|book=cradle-10-reaper|[[Enforcer]] techniques are a fundamental category of combat abilities used by practitioners to enhance their physical capabilities or manipulate [[madra]]. These techniques are categorized into several types, including full-body techniques, which can cover a user in translucent or colored light to provide armor, increased speed, or enhanced strength. Some full-body applications are highly specialized, such as those that reinforce a user's skeleton to provide stability or those that act as an impenetrable bulwark. Other variations include spiritual techniques used for internal [[madra]] manipulation or sensory purposes, and weapon-based techniques that can expand the size, length, or speed of a tool. [[Enforcer]] attack techniques are specialized maneuvers that focus the power of a technique into a single motion. While these attacks provide more potency than standard full-body applications, they are often more cumbersome and can leave the user vulnerable to retaliation. These attacks may overlap with [[Striker techniques]], which are characterized by a clear input and output of power. Mastery of these abilities is achieved through repetitive practice under various conditions to improve efficiency. While [[Enforcer]] techniques are powerful, they rely on the user's [[madra]] reserves; once a user's energy is depleted or their channels are imbalanced, the technique may flicker, become uneven, or fail entirely. Additionally, certain specialized tools or abilities can be used to disrupt the formation of these techniques.}}
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Enforcer techniques]] provide full-body enhancement.<ref name="cradle-06-underlord-c11">''Underlord'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Enforcer techniques]] consist of five basic categories.<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Enforcer]] attack techniques are individual attacks that enhance the effect of a single motion.<ref name="cradle-07-uncrowned-c4" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Enforcer]] attack techniques carry more power than full-body techniques but can be clumsier and leave the user open for counterattack.<ref name="cradle-07-uncrowned-c4" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Altavian Arelius]] specializes in [[Enforcer techniques]].<ref name="cradle-07-uncrowned-c17">''Uncrowned'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Pride]] was cycling two different [[Enforcer techniques]] at once.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon's body]] handled the strain of [[Enforcer techniques]] unscathed.<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Jai Long]] practices weapon [[Enforcer techniques]].<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

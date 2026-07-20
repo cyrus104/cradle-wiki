@@ -5,14 +5,13 @@
 }}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|[[Lokk]] is a disciple of the [[First Fisher]].<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Lokk]] is a [[Highgold]].<ref name="cradle-02-soulsmith-c15" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Lokk]] is a member of the [[Fishers]].<ref name="cradle-02-soulsmith-c15" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Lokk]] uses a pair of [[steel]] [[Fisher's]] hooks in battle.<ref name="cradle-02-soulsmith-c15" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-02-soulsmith|“I happen to have a disciple. He's Highgold himself, like you are, and he's more than happy to stand for a traditional duel. Aren't you, Lokk?”<ref name="cradle-02-soulsmith-c15" />}}

@@ -7,22 +7,20 @@
 {{spoiler|book=cradle-06-underlord|[[Spirit Well]] water is a highly valuable, vivid blue liquid that functions as a powerful spiritual enhancer. Described as tasting sweet, it is significantly more expensive than the water from the [[Life Well]] and is much larger in scale than the [[Dream Well]], resembling a pond rather than a traditional well. The substance is used to promote soul growth, stimulate recovery, and increase the density of [[madra]]. [[Consuming]] it can provide enough energy to refill cores and channels or even push a [[Highgold]] practitioner toward advancement. Beyond direct consumption, the water can be used to recharge constructs like the [[Heaven's Drop]], causing them to glow more intensely and emit powerful energy. It is a coveted resource that can be used to nourish the spirit and push a practitioner closer to reaching the [[Truegold]] stage.}}
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The water from the [[Spirit Well]] is sweet and acts as a high-grade [[madra]]-refining agent.<ref name="cradle-05-ghostwater-c12">''Ghostwater'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|Drinking from the [[Spirit Well]] rinses the spirit, refills the core, and refines [[madra]].<ref name="cradle-05-ghostwater-c12" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|Drinking [[Spirit Well water]] makes each revolution of [[madra]] produce twice the result for half the effort.<ref name="cradle-05-ghostwater-c13">''Ghostwater'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Dross]] has a vial of [[Spirit Well water]].<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Spirit Well water]] is a spirit-enhancing water.<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Spirit Well water]] can be used with [[Heaven's Drop]].<ref name="cradle-06-underlord-c8" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-06-underlord|“Some kind of, oh, let’s say, spirit-enhancing water…”<ref name="cradle-06-underlord-c8" />}}

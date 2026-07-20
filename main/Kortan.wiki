@@ -6,12 +6,11 @@
 }}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Kortan]] is the closest village to [[Myria]] and is most of a day's walk away.<ref name="tg-01-house-of-blades-c2">''House of Blades'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Kortan]] is a location that people might try to travel to.<ref name="tg-01-house-of-blades-c3">''House of Blades'', chapter 3</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|“We talked about going to Kortan,” Alin continued, "but it’s far enough away that we'not sure some of the people here will make it on foot, in the middle of the night with no supplies."<ref name="tg-01-house-of-blades-c3" />}}

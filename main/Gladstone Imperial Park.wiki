@@ -6,12 +6,11 @@
 }}
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Gladstone Imperial Park]] is located across from the residence [[Maxwell]]'s family has owned for generations.<ref name="ee-shadow-01-of-shadow-and-sea-c1">''Of Shadow and Sea'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Gladstone Park is a location near where [[Rudeus Maxwell]]'s home was found.<ref name="ee-shadow-01-of-shadow-and-sea-c3">''Of Shadow and Sea'', chapter 3</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

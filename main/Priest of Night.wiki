@@ -12,16 +12,15 @@
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|The Priest of Night was responsible for an attempted bombing that ultimately resulted in the destruction of [[Starhammer]]'s home. This individual was also linked to discussions regarding the potential redemption of [[Starhammer]], a figure who eventually mentioned the Priest by name. Despite having plans that were somehow discovered by [[Starhammer]]'s savior, the Priest of Night met their end at the hands of a warrior-rabbit.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The [[Priest of Night]] was killed by a warrior-rabbit.<ref name="lh-02-the-engineer-c1">''The Engineer'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Priest of Night]] had plans that [[Starhammer]]'s savior somehow knew about.<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Priest of Night]] is a person mentioned in relation to [[Starhammer]]'s potential redemption.<ref name="lh-02-the-engineer-c15">''The Engineer'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Priest of Night]] is mentioned by [[Starhammer]].<ref name="lh-02-the-engineer-c40">''The Engineer'', chapter 40</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Priest of Night]] was involved in an attempted bombing of [[Starhammer]]'s home.<ref name="lh-02-the-engineer-c42">''The Engineer'', chapter 42</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Priest of Night]] blew up [[Starhammer]]'s home.<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|“…then the Priest of Night blew up your home.”<ref name="lh-02-the-engineer-c46" />}}

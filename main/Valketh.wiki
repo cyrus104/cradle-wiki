@@ -5,14 +5,13 @@
 }}
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Valketh]] is the [[Mist Sage]] and was formerly of [[House Wylan]].<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Valketh]] tested [[Reigan Shen]]'s aptitude and suggested he would eventually advance to [[Sage]].<ref name="cradle-13-threshold-c1" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Valketh]]'s eyes fill with dark mist.<ref name="cradle-13-threshold-c1" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Valketh]] is a [[Mist Sage]] with the base strength of an [[Archlord]].<ref name="cradle-13-threshold-c1" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

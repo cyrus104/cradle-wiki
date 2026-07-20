@@ -11,22 +11,20 @@
 {{spoiler|book=cradle-12-waybound|Noroloth is an ancient black dragon Herald and the son of an emperor. Historically, he was involved in a bitter rivalry with a [[Sage]] who used runes; after the [[Sage]] poisoned his eldest son to prevent him from producing more offspring, Noroloth retaliated by burning her [[library]]. His castle was later damaged during a conflict with a [[Monarch]] intruder, though the interior remained partially preserved by protective [[scripts]]. In his current state, Noroloth exists as a [[Remnant]], appearing as a large black-and-red spirit. Though he has experienced madness, his spirit remains active and capable of interacting with others, such as [[Lindon]]. As a [[Remnant]], he has demonstrated the ability to control explosive forces within caverns and has offered assistance or instruction regarding the [[Path of Black Flame]].}}
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Noroloth]] was a [[Herald]] grandson of [[Natarianath]].<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Noroloth]] is a [[Remnant]] whose spirit is imprisoned within a script.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Noroloth]] is a black [[dragon]] prince.<ref name="cradle-11-dreadgod-c19" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Noroloth]]'s spirit can be hauled out bodily if [[Lindon]] tears open space.<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Noroloth]] is the [[Remnant]] of an ancient black dragon Herald.<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Noroloth]]'s tail dissolves to smoke.<ref name="cradle-12-waybound-c3" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -13,17 +13,16 @@
 {{spoiler|book=cradle-10-reaper|The Angler of the [[Crystal Halls]], also known as [[Iri]], is a powerful and self-interested collector who resides in the [[Crystal Halls]]. Her home is an expansive, magnificent palace carved from a massive diamond that resembles a pair of wings and glitters under its nearby star. The halls themselves are characterized by flowing blue crystal that covers the floors, walls, and ceilings in masterwork sculptures. As a collector, she seeks out valuable artifacts, including items stolen from [[Abidan]] [[Iterations]]. Her known arsenal includes six weapons taken from the [[Abidan]], and she has been noted for possessing an invisibility cloak that she personally wove during her time as a mortal. She is considered a rival to [[Zakariel]] the [[Fox]]. The Angler is known for her unpredictable and elusive nature; she uses her vessel's presence to navigate randomly through [[Iterations]] to evade detection by the Spiders. She has also been observed interacting with other powerful entities, such as [[the Mad King]], though she often displays a bored or childlike demeanor during these encounters.}}
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The Angler has stolen six weapons from [[Abidan]] [[Iterations]].<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|The Angler of the [[Crystal Halls]] is a target located within [[Iteration]] 002 [[Haven]]. As an enemy of the [[Abidan]], this entity is being hunted by [[Makiel]]. The Angler wields a black scythe that serves as an artful combination of twelve prototype scythes forged by [[Makiel]]. While potentially responsible for the elimination of [[Iteration 943]], the entity is considered predictable, safe, and entirely self-interested.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The Angler of the [[Crystal Halls]] is a target found in [[Iteration]] 002 [[Haven]].<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Makiel]] is hunting for the Angler.<ref name="cradle-07-uncrowned-c2" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The Angler of the [[Crystal Halls]] is a target.<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
@@ -31,22 +30,19 @@
 <li>{{spoiler|book=cradle-07-uncrowned|The Angler possesses a black scythe that is an artful blend of twelve prototype scythes forged by [[Makiel]].<ref name="cradle-07-uncrowned-c18" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The Angler was potentially responsible for eliminating [[Iteration 943]].<ref name="cradle-07-uncrowned-c18" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The Angler is entirely self-interested, predictable, and safe.<ref name="cradle-07-uncrowned-c18" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The Angler is a person [[Daruman]] traded with.<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The Angler attempted to steal a horn from a [[dragon]] at the [[Heartbeat Star]].<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

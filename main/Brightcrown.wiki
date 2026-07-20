@@ -4,14 +4,13 @@
 }}
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Brightcrown]] healers are [[sacred artists]] who attempt to conserve [[madra]].<ref name="cradle-06-underlord-c12">''Underlord'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|Each member of the [[Brightcrown]] family has a floating golden crown over their heads.<ref name="cradle-06-underlord-c12" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The Brightcrowns control organized medicine.<ref name="cradle-06-underlord-c12" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|Brightcrowns can possess the [[Goldsign]].<ref name="cradle-06-underlord-c12" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

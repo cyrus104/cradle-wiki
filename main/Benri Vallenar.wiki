@@ -18,8 +18,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|Benri Vallenar is a silver-eyed [[Archmage]] and a member of the [[Vallenar family]] who serves as the President of the [[Vallenar Corporation]]. A wizard with an impressive barrel chest, short silver hair, and a goatee, he wields a staff and a [[Mirror of Silence]]. While observing the ruins of an [[Iron Legion]] ritual room, he channeled a spell more powerful than any he had cast in centuries. Despite being the son of a man capable of wrestling immense amounts of [[Aether]], Benri faced grave danger when he released his unique magic to the control of the [[Legion]] king. During his encounter with the [[Iron King]], the man capable of generating colorless copies of himself and duplicating guns or shield generators was revealed to be the true Benri Vallenar.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">22</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">22</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Benri Vallenar]] is the President of the [[Vallenar Corporation]] and a silver-eyed [[Archmage]].<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Benri Vallenar]] is a man who channeled a greater spell than any he had ever cast in centuries.<ref name="lh-01-the-captain-c2">''The Captain'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Benri is the father of Varic.<ref name="lh-01-the-captain-c2" />}}</li>
@@ -42,34 +42,31 @@
 <li>{{spoiler|book=lh-01-the-captain|[[Benri Vallenar]] is in the presence of the [[Iron King]].<ref name="lh-01-the-captain-c42">''The Captain'', chapter 42</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Benri is capable of copying guns and shield generators.<ref name="lh-01-the-captain-c43">''The Captain'', chapter 43</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Benri can generate colorless copies of himself.<ref name="lh-01-the-captain-c43" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Benri Vallenar]] has dark skin and silver eyes and hair.<ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Benri Vallenar is a silver-haired man who serves as the father to the narrator. Having applied to an organization, he maintains a lifestyle defined by his professional commitments. He often works late into the night, viewing his entire existence as an extension of his labor. During certain interactions, he has been known to gesture toward [[Horizon]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Benri Vallenar]] is the father of the narrator.<ref name="lh-03-the-knight-c15">''The Knight'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Benri Vallenar]] has silver hair.<ref name="lh-03-the-knight-c15" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Benri gestured to [[Horizon]].<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Benri Vallenar]] works late and considers his life an extension of his work.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Benri is a character who applied to an organization.<ref name="lh-03-the-knight-c45" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Benri Vallenar, the President of the [[Vallenar Corporation]] and an [[Archmage]], is a clone who has previously undergone long-term stasis. While serving as a member of the [[Vallenar crew]], he experienced a bad premonition and received a recording involving a conversation with [[Nila]]. Throughout these events, he utilized an optical implant and worked at a console to analyze a data core while managing various possibilities. Despite surviving a direct conversation with the [[Iron King]], he felt an unsatisfied smugness regarding a recent victory that he could not claim credit for. As the original version of himself, Benri possesses [[Aethertech]] enhancements that allow his clones to leave their bodies, and he is the father of the galaxy's greatest mortal spellcaster.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">28</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">28</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Benri Vallenar]] is a clone.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Benri Vallenar]] is President of the [[Vallenar Corporation]].<ref name="lh-04-the-pilot-c2" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Benri is a character who expresses difficulty in extending trust to unknown entities.<ref name="lh-04-the-pilot-c2" />}}</li>
@@ -98,8 +95,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|Benri is a Vallenar.<ref name="lh-04-the-pilot-c39" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Benri's clones can leave a body due to [[Aethertech]] enhancements.<ref name="lh-04-the-pilot-c39" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Benri has been in long-term stasis.<ref name="lh-04-the-pilot-c39" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“Your…son? Is he working with the company again?”<ref name="lh-01-the-captain-c3" />}}

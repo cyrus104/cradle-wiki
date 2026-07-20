@@ -7,27 +7,24 @@
 {{spoiler|book=lh-03-the-knight|[[Iron Legion]] [[Pawns]] are grotesque, humanoid abominations produced by the [[Iron Legion]]. They are constructed from a combination of organic flesh and mechanical components, often utilizing leftover materials from the creation of other [[Legion]] entities. Physically, they have been described as resembling four-limbed [[spiders]] composed of corpses and machinery, sometimes featuring a humanoid head that emerges from a metallic shell. Due to their twisted appearance, encountering them can cause intense, paralyzing revulsion in many individuals, requiring specialized combat training to manage the psychological shock. They serve as standard infantry for the [[Legion]] and are frequently found in large numbers within [[Iron Hives]] or as crews on short-range boarding devices known as [[Penetrators]]. The [[Legion]]'s primary objective is to assimilate all matter into its collective, and those defeated by the [[Legion]] risk being converted into [[Pawns]] themselves.}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Captain]] previously used plasma bolts against the [[Iron Legion]] [[Pawns]].<ref name="lh-01-the-captain-c13">''The Captain'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Iron Legion]] [[Pawns]] are colorless.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Iron]] [[Pawns]] are entities that can be killed with bare hands.<ref name="lh-02-the-engineer-c32">''The Engineer'', chapter 32</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Iron]] [[Pawns]] are soldiers of the [[Iron Legion]].<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Iron Legion]] [[Pawns]] have a shocking stench.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|"Send Omega," I said, as I put a bullet through an Iron Pawn with one hand and sealed a Reaver to the ceiling with the other.<ref name="lh-03-the-knight-c4" />}}

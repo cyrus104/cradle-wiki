@@ -6,12 +6,11 @@
 }}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Hunter ships]] are wedge-shaped vessels covered in an insectoid carapace.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Last Horizon]]'s blue shots hit a Hunter-ship.<ref name="lh-01-the-captain-c9">''The Captain'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

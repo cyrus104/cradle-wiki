@@ -7,12 +7,11 @@
 }}
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Head of the Alchemist’s Guild]] can produce canisters of alchemical solutions.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Head of the [[Alchemist's Guild]] wears glasses and sits on a stool.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

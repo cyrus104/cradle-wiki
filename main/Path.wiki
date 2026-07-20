@@ -7,41 +7,36 @@
 {{spoiler|book=cradle-11-dreadgod|A Path is a specialized journey taken by practitioners of the [[sacred arts]] to gain power and achieve comprehension. While there are countless individual [[Paths]]—such as the [[Path of the White Fox]], the [[Path of the Endless Sword]], or the [[Path of Black Flame]]—sages suggest they can all be distilled into a single goal: self-improvement. Some practitioners follow ancient instructions, while others, like [[Lindon]], must forge their own unique Path through personal resolve and desire. A Path can be a foundational part of an individual's identity, providing the techniques and [[madra]] necessary for advancement through different stages of power. [[Paths]] vary significantly in their nature and utility. Some are combat-oriented, such as the 'slaughter Paths' of blood and [[sword]], while others focus on utility or coordination, like the [[Path of Ten Thousand Dreams]] which allows for the sharing of memories and thoughts. Certain [[Paths]] are highly specialized, such as the [[Raging Sky]], which balances multiple elements like wind and lightning, or the [[Path of the Eightfold Spear]], which functions as a collective bond between members of an empire. A Path is often viewed as a lifelong pursuit that has no true end, as complete comprehension remains an unattainable goal even after studying for the duration of the universe.}}
 
 == Unsouled ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|Practicing one's [[Path]] is difficult.<ref name="cradle-01-unsouled-c20">''Unsouled'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|Anyone on a [[Path]] can cycle [[pure madra]].<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|A practitioner needs resolve to push through obstacles in their [[Path]].<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|According to [[Yerin's master]], no [[Path]] is wide enough for two.<ref name="cradle-02-soulsmith-c20">''Soulsmith'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|A [[Path]] is a chosen way of power.<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yerin]] must remain focused on her [[Path]].<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|Individuals have their own [[Path]].<ref name="cradle-11-dreadgod-c14">''Dreadgod'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-02-soulsmith|“I’ll admit that’s been my experience,” Yerin allowed, “but my master used to say that no Path is wide enough for two.”<ref name="cradle-02-soulsmith-c20" />}}

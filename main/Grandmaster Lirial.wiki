@@ -13,22 +13,20 @@
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Grandmaster [[Lirial]] serves as the mysterious leader of the [[Lirial Travelers]]. This Grandmaster appears as a figure wrapped in silver and speaks with a voice resembling a toneless buzz. Acting as a potential source of interference on the [[Lirial]] side, [[Lirial]] utilizes a crystal lens to observe [[Alin]] and his sisters.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Grandmaster Lirial]] is a silver-wrapped figure whose voice sounds like a toneless buzz.<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Lirial]] is a Grandmaster.<ref name="tg-02-crimson-vault-c6" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Grandmaster Lirial]] is the mysterious leader of the [[Lirial Travelers]].<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Grandmaster Lirial]] is a potential source of interference on the [[Lirial]] side.<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Grandmaster Lirial]] uses a crystal lens to observe [[Alin]] and his sisters.<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Grandmaster Lirial]] believed [[Leah]] was a scared natural [[Traveler]] from the villages.<ref name="tg-03-city-of-light-c4">''City of Light'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|"I suspect Grandmaster Lirial or one of her lieutenants has created interference on the Lirial side."<ref name="tg-02-crimson-vault-c15" />}}

@@ -9,20 +9,19 @@
 {{spoiler|book=lh-04-the-pilot|The Aethril are a species characterized by pale blue skin and hair that shimmers like starlight. They possess a natural, direct ability to perceive the flow of magic within the [[Aether]], a sensory capability not shared by other species. While they are traditionally powerful magic users and adept wizards—including Archmages specializing in [[elementalism]], sealing, or crystal magic—they are generally physically weaker than other races, making them less suited for physical combat arts, though rare exceptions exist. Their traditional spellcasting is identified by delicate webs of silver and starlight symbols. The Aethril are members of the [[Galactic Union]], though they have historically maintained a limited territorial expansion while exercising significant influence across the galaxy. They are highly skilled in creating organic machines, such as synapse nodes grown in multi-dimensional gardens, and have a history of close cooperation with humans in the development of [[Aethertech]]. Their home world is a place where magic and art are deeply integrated, with even their museums being feats of Aetheric achievement. Some individuals within the species are identified as [[Progenitors]], and certain members of the race have even been known to reinforce others against the mental instabilities of [[Subspace]].}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Aethril]] is a type of being that can be mistaken for having silver hair and eyes.<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Aethril]] are a people who resemble frail humans with pale blue skin and starlight hair.<ref name="lh-01-the-captain-c12">''The Captain'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Aethril]] grow synapse nodes in multi-dimensional gardens.<ref name="lh-01-the-captain-c35">''The Captain'', chapter 35</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Aethril]] are part of the [[Union]].<ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|The Aethril are a species of beings or substances whose home world consists entirely of structures sculpted from magic. This group, which includes the [[Fateweaver]], possesses the ability to use plants for the purpose of terraforming. They are also credited as the originators of the [[Temporal Prism]], and it is suggested that Progenitor Aethril may be capable of assuming human form.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The [[Aethril]] continued talking throughout the video.<ref name="lh-02-the-engineer-c1">''The Engineer'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Progenitor [[Aethril]] may take human form.<ref name="lh-02-the-engineer-c4">''The Engineer'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Aethril]] is a race or group that includes [[Fateweaver]].<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}</li>
@@ -30,28 +29,25 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[Aethril]] are beings or entities that use plants for terraforming.<ref name="lh-02-the-engineer-c29">''The Engineer'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Aethril]] is a type of being or substance.<ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Aethril]] are a species whose home world has everything sculpted from magic.<ref name="lh-02-the-engineer-c55">''The Engineer'', chapter 55</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The Aethril are one of the five species of intelligent beings inhabiting the galaxy. Characterized by powder blue skin and hair that glistens like stars, members of this species possess the ability to see magic directly. This unique perception allows them to view Aethril, a specific substance, through the [[Visiri]] third eye. Furthermore, the Aethril have left behind a spell for others to find.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Aethril]] is a substance that can be seen by the [[Visiri]] third eye.<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Aethril]] is a species with powder blue skin and hair that glistens like stars.<ref name="lh-03-the-knight-c2">''The Knight'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Aethril]] are one of the five species of intelligent beings in the galaxy.<ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Aethril]] left behind a spell.<ref name="lh-03-the-knight-c11">''The Knight'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Aethril]] can see magic directly.<ref name="lh-03-the-knight-c28">''The Knight'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Progenitors]] are associated with the [[Aethril]].<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -14,8 +14,8 @@
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Cirian of the [[Titans]] is a four-star combatant who utilizes both [[Fox]] and [[Wolf]] techniques, holding two stars as a [[Fox]] and one star as a [[Wolf]]. As a squad leader possessing a [[Presence]], he holds the view that [[Ozriel]]'s actions are pure evil. Despite having distant family residing in [[Threshold]], he submitted a report that contained no mention of the location.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Cirian]] is a four-star [[Titan]] and squad leader.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Cirian]] views [[Ozriel]]'s actions as pure evil.<ref name="cradle-13-threshold-c7" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Cirian]] has distant family living in [[Threshold]].<ref name="cradle-13-threshold-c7" />}}</li>
@@ -25,8 +25,7 @@
 <li>{{spoiler|book=cradle-13-threshold|[[Cirian]] is a combatant who uses [[Wolf]] techniques and Fox techniques.<ref name="cradle-13-threshold-c7" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Cirian]] identifies himself as [[Cirian]] of the [[Titans]].<ref name="cradle-13-threshold-c7" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Cirian]] submitted a report that omitted any mention of [[Threshold]].<ref name="cradle-13-threshold-c7" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

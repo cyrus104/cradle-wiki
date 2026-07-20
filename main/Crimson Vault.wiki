@@ -9,17 +9,16 @@
 {{spoiler|book=tg-03-city-of-light|The Crimson [[Vault]], also known as Ragnarus, is a unique [[Territory]] that serves as the exclusive domain of the [[Kings of Damasca]]. Access to this realm is restricted by bloodline, as only those of the royal lineage possess the ability to open its [[Gates]]. Within this world, powerful weapons are stored on marble shelves, though these items often come with significant consequences. For example, a seal established by the first [[King of Damasca]] requires an annual blood sacrifice to maintain security. The physical entrance to the [[Vault]] is characterized by a rough stone cave containing silver double doors. These doors are decorated with the detailed portrait of a long-deceased, one-eyed, bearded king and are flanked by two torches that emit an unnatural crimson light. Once inside, the interior features a long marble hallway or gallery with shelving for weapons and is illuminated by the same scarlet light. [[Travelers]] can only open a Gate to the Crimson [[Vault]] from within the primary world, not from other [[Territories]]. Furthermore, movement through the [[Vault]] is restricted; any traveler entering the Crimson [[Vault]] can only exit into the capital of [[Damasca]], specifically the palace in [[Cana]]. While the realm is a source of formidable weaponry, it has also been associated with destructive forces and gruesome elements, such as the bloody [[Tree]] of Ragnarus.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|The [[Crimson Vault]] is another name for Ragnarus.<ref name="tg-01-house-of-blades-c14">''House of Blades'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|The Crimson [[Vault]] serves as the origin of the red stone embedded in [[King]] [[Zakareth's eye]] and is illuminated by unnatural scarlet torches. While the prophecy of the Rising Sun foretells the end of its reign, the location is accessed through a specific Gate that can only be opened within the world rather than the [[Territories]]. This site, which resembles a massive cave featuring silver doors and two red-burning torches, contains various fragments. Although [[Leah]]'s appointment as [[Successor]] was sworn in its presence before she departed from her father, the [[vault]]'s silver doors were eventually discovered cracked open. [[Talos]] later managed to open a Gate to the [[vault]] by utilizing red light.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Crimson Vault]] is the source of the red stone used in [[King]] [[Zakareth's eye]].<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Crimson Vault]] is lit by unnatural scarlet torches.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The reign of the [[Crimson Vault]] is coming to an end according to the prophecy of the Rising Sun.<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}</li>
@@ -32,14 +31,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Crimson Vault]] resembles a huge cave with two red-burning torches and a silver door.<ref name="tg-02-crimson-vault-c22" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Crimson Vault]] has silver doors.<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Crimson Vault]] has silver doors that were found cracked open.<ref name="tg-02-crimson-vault-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|The Crimson [[Vault]] is an ancient, dangerous territory consisting of red rock that appears soaked in blood. Forbidden by [[Elysia]] and rarely visited by the [[Eldest]], this location serves as a gateway to Ragnarus and houses silver doors carved with the face of a one-eyed king. Within its halls, rows of weapons rest on marble shelves, and it serves as a place where blades can be sealed or where the [[Lightning Spear]] was once kept. While [[Zakareth]] departed the [[vault]] to find his palace in ruins, [[Indirial]] was pulled inside by a band of ice, only to have his strength scattered by the [[vault]]'s power. The site remains a place of mystery and potential enemies, featuring scarlet light chains that burst from its depths and a connection to a red stone mentioned by the [[Eldest]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">19</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The [[Crimson Vault]] is a place the [[Eldest]] has not visited recently.<ref name="tg-03-city-of-light-c1">''City of Light'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Zakareth]] left the [[Crimson Vault]] to find his palace in ruins.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The door to the [[Crimson Vault]] leads to Ragnarus.<ref name="tg-03-city-of-light-c3">''City of Light'', chapter 3</ref>}}</li>
@@ -59,8 +57,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|The [[Crimson Vault]] contains rows of weapons on marble shelves.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Crimson Vault]] is a location where blades can be sealed.<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Eldest]] mentioned the [[Crimson Vault]] in connection to a red stone.<ref name="tg-03-city-of-light-c25" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|“The prophecy of the Rising Sun has already borne fruit. The reign of the Crimson Vault has almost come to an end.”<ref name="tg-02-crimson-vault-c6" />}}

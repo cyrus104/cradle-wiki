@@ -9,18 +9,17 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|Ach'magut, also known as the [[Overseer]], is a [[Great Elder]] characterized by an insatiable hunger for information. Described as a custodian of thought and a guardian of knowledge, this entity seeks to understand and control all things by consuming data. Ach'magut possesses an immense, vast [[library]] and is noted for having a physical form that includes tentacles and many eyes. The entity's communication transcends standard sound, instead delivering direct injections of intent that can feel like prophecies or inescapable destinies. Historically, Ach'magut is a figure of significant influence; the [[Greenwardens]] were originally established in the seventh century to oppose the worship of this entity. While there are rumors that Ach'magut is imprisoned beneath [[Silverreach]], the entity has been described as dead, though questions remain regarding whether it has revived or is operating according to a long-term plan laid out millennia ago. Ach'magut's foresight is considered nearly perfect, capable of calculating minute variations in the future and issuing prophecies that shape the lives of others, such as predicting the rise of a specific ruler or identifying individuals like "the Killer." The entity also commands [[Inquisitors]], who act only under its direction.}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Ach'magut]] is a figure whose worship the [[Greenwardens]] were meant to counteract.<ref name="ee-sea-01-of-sea-and-shadow-c4">''Of Sea and Shadow'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Ach’magut seeks knowledge at any cost.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Ach'magut is a [[Great Elder]] known as the [[Overseer]], the Father of Knowledge, and the [[Lord]] of a [[Thousand Eyes]]. Though deceased, this entity exists as an ancient dream and a world unto itself, comprised of a mass of limbs, eyes, tendrils, ears, and appendages. This being is rumored to be an imprisoned [[Elder]] sealed beneath [[Silverreach]], where its presence can be felt as an oppressive force. Ach'magut possesses a single human-shaped eye with a hypnotic, poisonous blue iris and utilizes tentacles to analyze physical compositions, pasts, and emotions. Communicating through a language of [[Intent]], the entity feasts on humanity's collected knowledge and provides recommendations for heirs while accurately predicting future paths. Its followers, known as [[Inquisitors]], praise the dead lord for sending new brothers and sisters.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">26</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">26</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Ach’magut is the [[Overseer]].<ref name="ee-sea-02-of-dawn-and-darkness-c3">''Of Dawn and Darkness'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Ach’magut is the Father of Knowledge.<ref name="ee-sea-02-of-dawn-and-darkness-c3" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Ach’magut is the [[Lord]] of a [[Thousand Eyes]].<ref name="ee-sea-02-of-dawn-and-darkness-c3" />}}</li>
@@ -47,14 +46,13 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Ach’magut communicates through a language of [[Intent]].<ref name="ee-sea-02-of-dawn-and-darkness-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Ach’magut has one giant eye.<ref name="ee-sea-02-of-dawn-and-darkness-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Ach’magut provides recommendations for heirs.<ref name="ee-sea-02-of-dawn-and-darkness-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A [[Great Elder]] whose spawn are the spider-like [[Inquisitors]], Ach'magut began to stir in the town of [[Silverreach]] four years ago. Acting as a parasite that leeches onto worlds to deconstruct every speck of data, the entity seeks to learn everything possible by taking things apart to see how they work. Known as the [[Overseer]], Ach'magut possesses an eternal appetite that can never be sated and views the world as a game board where people are merely game pieces. This entity communicates through direct injections of [[Intent]] and intends to remain on the world for another ten thousand years to pursue the future.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Ach'magut]] is a parasite that leeches onto worlds to learn everything he can before moving on.<ref name="ee-shadow-02-of-darkness-and-dawn-c7">''Of Darkness and Dawn'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Ach'magut]] is not above taking things apart to see how they work.<ref name="ee-shadow-02-of-darkness-and-dawn-c7" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Ach'magut]] will not be finished with the world for another ten thousand years.<ref name="ee-shadow-02-of-darkness-and-dawn-c7" />}}</li>
@@ -68,14 +66,13 @@
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Ach'magut]] refers to [[Emperor (Elder Empire)|the Emperor]] as a former slave.<ref name="ee-shadow-02-of-darkness-and-dawn-c18">''Of Darkness and Dawn'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Ach'magut]] communicates via direct injections of [[Intent]].<ref name="ee-shadow-02-of-darkness-and-dawn-c18" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Ach'magut]] views the world as a game board and people as game pieces.<ref name="ee-shadow-02-of-darkness-and-dawn-c18" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Ach'magut is an [[Elder]] who possesses infinite knowledge and may have been the architect of a specific prophecy. Driven by a particular plan, this entity orchestrated the creation of the [[crack in the sky]] and previously encountered [[Emperor (Elder Empire)|the Emperor]] several years ago. Ach'magut projected a powerful force of will toward [[Calder]], providing him with an image of himself wearing [[Emperor (Elder Empire)|the Emperor]]'s gold crown. Through promises that [[Calder]] would rule and be addressed as [[Emperor (Elder Empire)|the Emperor]] of the World, Ach'magut eventually allowed both [[Calder]] and [[Kelarac]] to depart while in possession of knowledge.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Ach'magut]] has a prophecy.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Ach'magut]] has a plan.<ref name="ee-sea-03-of-kings-and-killers-c2" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Ach’magut gave [[Calder]] an image of himself wearing [[Emperor (Elder Empire)|the Emperor]]'s gold crown.<ref name="ee-sea-03-of-kings-and-killers-c5">''Of Kings and Killers'', chapter 5</ref>}}</li>
@@ -87,17 +84,15 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Ach’magut let [[Calder]] and [[Kelarac]] leave their presence with knowledge.<ref name="ee-sea-03-of-kings-and-killers-c19" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Ach’magut planned the creation of the [[crack in the sky]].<ref name="ee-sea-03-of-kings-and-killers-c19" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Emperor]] dealt with Ach’magut a few years ago.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Ach’magut is a character mentioned by Esty.<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Am’haranai]] once took contracts from Ach’magut.<ref name="ee-shadow-03-of-killers-and-kings-c7">''Of Killers and Kings'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Ach’magut’s prophecy called [[Shera]] 'the Killer'.<ref name="ee-shadow-03-of-killers-and-kings-c26">''Of Killers and Kings'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“The Overseer.”

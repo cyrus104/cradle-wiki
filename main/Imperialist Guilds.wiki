@@ -9,37 +9,33 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The Imperialist [[Guilds]] are a political alliance of organizations within the [[Aurelian Empire]] that support the authority of the throne. This coalition is composed of the [[Magisters]], the [[Blackwatch]], the [[Imperial Guard]], and the [[Navigators]]. While they possess significant military strength—comparable to any other group except for the [[Champions]]—they lack the economic foundation held by the [[Independent Guilds]]. The [[Imperialists]] are often characterized by their desire to maintain imperial rule, though they have faced accusations of attempting to install a new [[Emperor (Elder Empire)|Emperor]] or even orchestrating the death of the previous one following an [[Elder]] attack. This political maneuvering has led to widespread civil unrest, including food shortages and violence between different [[Guilds]]. The [[Imperial Guard]], a key component of this alliance, is notable for its members' red-and-black uniforms and their use of alchemical [[Kameira enhancements]]. These augmentations, which involve replacing body parts with supernatural elements, grant the Guard unique powers and create a permanent bond to the [[Guild]]. The alliance's stability is currently threatened by internal tensions, such as a leadership vacancy within the [[Magisters]], and external pressures from the [[Independent Guilds]] and various regional governors seeking autonomy.}}
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|There are four [[Imperialist Guilds]].<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Imperialist Guilds]] are gathering for an attack.<ref name="ee-sea-02-of-dawn-and-darkness-c18">''Of Dawn and Darkness'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Imperialist Guilds]] have seized on the assassination of one of their number to launch an attack.<ref name="ee-shadow-02-of-darkness-and-dawn-c17">''Of Darkness and Dawn'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Imperialist Guilds]] named [[Calder]] as the [[Steward]].<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Imperialist Guilds]] make a grand procession.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] is representing the [[Imperialist Guilds]].<ref name="ee-sea-03-of-kings-and-killers-c6" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|A meeting is scheduled with the [[Imperialist Guilds]] in a week.<ref name="ee-shadow-03-of-killers-and-kings-c4">''Of Killers and Kings'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Imperialist Guilds]] include the [[Blackwatch]] and the [[Navigators]].<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Imperialist Guilds]] hold major contracts in the [[Capital]].<ref name="ee-shadow-03-of-killers-and-kings-c10">''Of Killers and Kings'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

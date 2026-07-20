@@ -11,8 +11,8 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|Bel Calem is a city characterized by stone walls standing roughly twelve feet high and houses constructed from wood, stone, pale brick, or precious metals. Serving as the seat of the [[Overlord]], this location is the place of origin for [[Leah]], who eventually commands [[Yakir]] to take her back there for a stay lasting several weeks. The city is also noted by [[Cormac]] and serves as a destination that [[Alin]] wishes to reach. Currently, the [[Myrians]] are traveling toward Bel Calem.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Bel Calem]] is the place [[Leah]] came from.<ref name="tg-01-house-of-blades-c2">''House of Blades'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Bel Calem]] is a location [[Leah]] commands [[Yakir]] to take her to.<ref name="tg-01-house-of-blades-c2" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Bel Calem]] is the [[Overlord]]'s seat.<ref name="tg-01-house-of-blades-c3">''House of Blades'', chapter 3</ref>}}</li>
@@ -23,30 +23,27 @@
 <li>{{spoiler|book=tg-01-house-of-blades|[[Bel Calem]] is a city with stone walls approximately twelve feet tall.<ref name="tg-01-house-of-blades-c17">''House of Blades'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Bel Calem]] is a city.<ref name="tg-01-house-of-blades-c17" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Bel Calem]] is a city where the houses are made of pale brick, wood, stone, or precious metals.<ref name="tg-01-house-of-blades-c18">''House of Blades'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Bel Calem serves as the home of [[Adrienne]] Lamarkis Daiasus and can be reached by traveling through [[Naraka]]. The location is situated a four day's journey from [[Enosh]] via land routes. During his travels, [[Kai]] conducted business within the area. Additionally, it is a place where ash resulting from the destruction of the [[Incarnation]] could be scattered.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Bel Calem]] is the home of [[Adrienne]] Lamarkis Daiasus.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Bel Calem]] is a location reachable through [[Naraka]].<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Kai]] had business in [[Bel Calem]].<ref name="tg-02-crimson-vault-c18">''The Crimson Vault'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Bel Calem]] is a four day's journey from [[Enosh]] over land.<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|Ash from the [[Incarnation]]'s destruction could be scattered to [[Bel Calem]].<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Bel Calem]] was torn to pieces by the [[Naraka Incarnation]].<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Bel Calem]] is a location where [[Malachi]] has an office.<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Bel Calem]] is a kingdom/place comparable to [[Myria]].<ref name="tg-03-city-of-light-c16">''City of Light'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|“You will take me to Bel Calem,” Leah commanded.<ref name="tg-01-house-of-blades-c2" />}}

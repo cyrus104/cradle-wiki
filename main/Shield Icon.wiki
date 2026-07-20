@@ -11,8 +11,8 @@
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|The Shield [[Icon]] first emitted a discordant note before providing protection to [[Yerin]]. As [[Ziel]] listened to its song, he clung to the icon, which eventually sang within his heart and showed approval for a death that would safeguard others. Although it possesses no inherent connection to spatial authority, the icon's hardiness covered [[Mercy]] and reinforced barriers for [[Ziel]]. Ultimately, the Shield [[Icon]] prevented [[Ziel]] from being destroyed during his battle with his [[Remnant]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Shield Icon]] produced a discordant note.<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Shield Icon]] provides protection to [[Yerin]].<ref name="cradle-12-waybound-c16">''Waybound'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Ziel]] listened to the song of the [[Shield Icon]].<ref name="cradle-12-waybound-c16" />}}</li>
@@ -23,21 +23,19 @@
 <li>{{spoiler|book=cradle-12-waybound|The hardiness of the [[Shield Icon]] covers [[Mercy]].<ref name="cradle-12-waybound-c26">''Waybound'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Shield Icon]] prevented [[Ziel]] from being destroyed during the fight with his [[Remnant]].<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Shield Icon]] reinforced barriers for [[Ziel]].<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|The Shield [[Icon]] emits a continuous singing sound that remains a constant presence within [[Ziel]]'s mind. This song gradually increases in volume, becoming an annoyance to [[Ziel]] as it grows louder. Beyond its auditory effect, the icon's protective properties can be utilized to keep various forces locked in place.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The [[Shield Icon]] sang to [[Ziel]].<ref name="cradle-13-threshold-c11">''Threshold: Stories from Cradle'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Shield Icon]] produces a singing sound that [[Ziel]] finds annoying.<ref name="cradle-13-threshold-c11" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The song of the [[Shield Icon]] is a constant presence in [[Ziel]]'s mind.<ref name="cradle-13-threshold-c11" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Shield Icon]] has a song that grows in volume.<ref name="cradle-13-threshold-c11" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The protection of the [[Shield Icon]] can be used to keep forces locked in.<ref name="cradle-13-threshold-c11" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

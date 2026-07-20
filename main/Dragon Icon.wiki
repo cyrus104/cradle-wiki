@@ -9,17 +9,16 @@
 {{spoiler|book=cradle-13-threshold|An [[Icon]] serves as a manifestation of a powerful concept, where an individual's effectiveness is determined by how well they embody that specific idea. The Dragon [[Icon]] represents a unique form of authority that can be integrated into various techniques, such as paths of black [[dragon]]-fire or [[blood madra]] constructs. This authority provides strength that can bypass the standard laws of reality and is characterized by a sense of supreme arrogance and the certainty inherent to higher beings. The visual representation of the [[Icon]] can vary, appearing as a dark, twisting serpentine image in the sky or a realistic black [[dragon]] covering a ceiling. It is capable of resonating with other symbols, such as the [[Strength Icon]], and its presence can be felt through a distinct internal song.}}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Northstrider]] can manifest the authority of the [[Dragon Icon]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|The Dragon [[Icon]] is an icon carrying the authority of [[Northstrider]] that manifests as a realistic, long, serpentine black [[dragon]]. During combat, it appeared behind a technique to add its authority to a [[Path]] of black [[dragon]]-fire while resonating with the [[Strength Icon]]. This icon provides [[Lindon]] with stolen authority that rages through him, sings a song within his mind, and grants him strength that defies the rules of the world. While it lacks authority over healing, its power can assist [[Mercy]] and allowed [[Orthos]] to shoot [[dragon]]'s breath. When [[Lindon]] glared at [[Reigan Shen]], his gaze possessed the combined intensity of both the Dragon and Void [[Icons]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Dragon Icon]] resonates with the [[Strength Icon]].<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Dragon Icon]] appeared behind the technique.<ref name="cradle-12-waybound-c11" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The authority of the [[Dragon Icon]] was added onto a [[Path]] of black [[dragon]]-fire.<ref name="cradle-12-waybound-c11" />}}</li>
@@ -33,16 +32,14 @@
 <li>{{spoiler|book=cradle-12-waybound|The [[Dragon Icon]] provides [[Lindon]] with strength that defies the rules of the world.<ref name="cradle-12-waybound-c19" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Dragon Icon]] did not form because [[Lindon]] reaffirmed his authority over the space.<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The strength of the [[Dragon Icon]] can help [[Mercy]].<ref name="cradle-12-waybound-c26">''Waybound'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The [[Dragon Icon]] has a song that grows louder as [[Northstrider]] taps into his [[dragon]]-based confidence.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Strength Icon]] and [[Dragon Icon]] were bound to the same purpose.<ref name="cradle-13-threshold-c4" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

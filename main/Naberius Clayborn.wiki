@@ -17,8 +17,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|Naberius Clayborn, a half-heritage [[Guild]] Chronicler and former [[Imperial]] Palace treasurer known as the Witness, traveled with a map and compass while providing navigation for [[Calder]]. During an expedition to find the Heart, he experienced awe toward the object and was briefly protected by [[Tristania]] before shooting her in the back of the head. Although he was a candidate for the throne and predicted to be the next Emperor, Naberius was later taken into custody by the [[Consultants]], only to escape by using his [[Intent]] to break his ropes. He eventually followed a whispered song to an abandoned meadow, where he used his [[Intent]] on the [[Heart of Nakothi]] and was seen dancing with it. Ultimately, Naberius's mind was eroded by the Heart, resulting in his death.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">54</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">54</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Naberius Clayborn]] is a [[Guild]] Chronicler and former keeper of the [[Imperial Palace treasury]].<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Naberius is the Chronicler.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Naberius was the Chronicler in charge of financial records in the [[Imperial]] Palace.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
@@ -73,14 +73,13 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] had an assignment for Naberius.<ref name="ee-sea-01-of-sea-and-shadow-c25" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Naberius Clayborn]] is dead.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Naberius Clayborn]]'s mind was eroded by the [[Heart of Nakothi]].<ref name="ee-sea-01-of-sea-and-shadow-c28" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|The tall Naberius Clayborn hired a [[Navigator]] and crew to sail him and his partner toward [[Nakothi’s island]]. Upon reaching his destination, he worked to cut the [[Heart of Nakothi]] free and cradled the object in his arms. Driven by a covetous desire for the Heart, he sought to bond with it to achieve immortality. Following these events, Naberius was recovered by [[Navigator]] Captain [[Calder]] [[Marten]] while aboard the ship.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Witness is a type of person that requires a team to kill.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Naberius Clayborn]] has hired a [[Navigator]] to sail him and his partner to [[Nakothi’s island]].<ref name="ee-shadow-01-of-shadow-and-sea-c4" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Naberius Clayborn]] has a hired [[Navigator]] crew.<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref>}}</li>
@@ -93,33 +92,29 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Naberius Clayborn]] can bond with the [[Heart of Nakothi]] for immortality.<ref name="ee-shadow-01-of-shadow-and-sea-c19">''Of Shadow and Sea'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Naberius Clayborn]] is mentioned in relation to the Heart.<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Naberius Clayborn]] was recovered by [[Navigator]] Captain [[Calder]] [[Marten]].<ref name="ee-shadow-01-of-shadow-and-sea-c26" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Naberius has wax-sealed memories.<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Witness in charge of [[Imperial]] finance is associated with candles.<ref name="ee-sea-02-of-dawn-and-darkness-c4" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Naberius is a person who would not have accepted the title of Emperor.<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The peace accords were penned by the hand of a Witness.<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Witnesses come in pairs consisting of a [[Silent One]] and a Chronicler.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Shera]] failed to kill [[Naberius Clayborn]].<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Witness report included [[Estyr]] accusing [[Calder]] of being enthralled.<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“I do not refer to your crew,” the Witness said grimly.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}

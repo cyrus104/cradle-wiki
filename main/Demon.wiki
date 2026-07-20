@@ -6,12 +6,11 @@
 }}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|A demon in [[Latari Forest]] is said to catch innocent people and cut them up.<ref name="tg-01-house-of-blades-c1">''House of Blades'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The [[Demon]] is a rumored entity in the [[Latari Forest]].<ref name="tg-01-house-of-blades-c5">''House of Blades'', chapter 5</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

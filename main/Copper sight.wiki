@@ -9,70 +9,62 @@
 {{spoiler|book=cradle-12-waybound|[[Copper]] sight is a sensory capability associated with the [[Copper stage]] of progression. It allows an individual to perceive the world through the lens of [[aura]], making various types of energy visible as distinct colors and patterns. For example, wind [[aura]] may appear as vivid green, [[earth aura]] can look like glowing golden lightning or yellow oceans, and [[life]] [[aura]] often manifests as green. This vision also enables the perception of madra channels within a person's body and allows for the detection of specific elemental flows, such as fire or [[dream aura]]. A primary function of [[Copper]] sight is to facilitate the cycling of [[vital aura]] from the environment into [[madra]]. While it provides a significant advantage in understanding one's surroundings—such as identifying the presence of dangerous energies or specific types of [[aura]]—it can also be overwhelming. In environments with extremely high concentrations of power, the visual input can be blinding or physically distressing. Beyond natural progression, sight can also be enhanced or manipulated through the use of specialized tools like goggles, lenses, or scripted devices.}}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|[[Copper sight]] allows [[Lindon]] to see [[aura]].<ref name="cradle-02-soulsmith-c4">''Soulsmith'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Copper sight]] is a way of seeing that makes the [[Transcendent Ruins]] look ominous.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Copper sight]] allows the user to see [[aura]] as colored light.<ref name="cradle-03-blackflame-c3">''Blackflame'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] attempted to open his [[Copper sight]].<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Copper sight]] is a technique [[Lindon]] uses to sense things.<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|Pai Ren has a [[Copper sight]] that he can close.<ref name="cradle-04-skysworn-c8">''Skysworn'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] can use [[Copper sight]].<ref name="cradle-05-ghostwater-c6">''Ghostwater'', chapter 6</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|[[Copper]] sight is a sensory ability that allows the user to perceive ribbons of color representing [[life]], earth, and wind. While this sight can be opened, doing so within the [[Night Wheel Valley]] causes physical pain. During his time in this region, [[Lindon]] found that the [[aura]] was too powerful to permit him from opening the sight, though he later observed [[the Emperor]]'s [[aura]] burning a pale green through it. Ultimately, [[Lindon]] is unable to access this ability in his current location.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Lindon]] uses [[Copper sight]] to see ribbons of color representing wind, earth, and [[life]].<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Copper sight]] can be opened but causes pain in the [[Night Wheel Valley]].<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Lindon]] did not open his [[Copper sight]] because the [[aura]] was too strong.<ref name="cradle-06-underlord-c12">''Underlord'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|In [[Lindon]]'s [[Copper sight]], [[the Emperor]]'s [[aura]] burned a pale green.<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Copper sight]] is a sensory ability.<ref name="cradle-06-underlord-c18">''Underlord'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Lindon]] cannot open his [[Copper sight]] in the current location.<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] uses [[Copper sight]] to see clouds of fire and destruction aura.<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Kerani]] can use a technique called [[Copper sight]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|In [[Copper sight]], wind [[aura]] appears as a strong, vivid green.<ref name="cradle-12-waybound-c2">''Waybound'', chapter 2</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

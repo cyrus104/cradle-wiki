@@ -11,8 +11,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Candle Bay]] [[Imperial]] Prison serves as the holding facility for [[Calder Marten's father]]. Although the prison has previously turned [[Calder]] away, he eventually finds himself positioned on the rocks beneath the structure. Inside, the facility features a small and cramped reception room decorated almost entirely in white. After [[Jerri]] enters the prison, the site is violently torn open by the [[Elderspawn]]. In the aftermath of this destruction, [[Calder Marten]] successfully breaks his father out of the prison.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]]'s father is locked in [[Candle Bay Imperial Prison]].<ref name="ee-sea-01-of-sea-and-shadow-c6">''Of Sea and Shadow'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Candle Bay Imperial Prison]] is an [[Imperial]] Prison.<ref name="ee-sea-01-of-sea-and-shadow-c10">''Of Sea and Shadow'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Candle Bay Imperial Prison]] is a location that has turned [[Calder]] away.<ref name="ee-sea-01-of-sea-and-shadow-c13">''Of Sea and Shadow'', chapter 13</ref>}}</li>
@@ -21,29 +21,25 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] found himself on the rocks beneath [[Candle Bay Imperial Prison]].<ref name="ee-sea-01-of-sea-and-shadow-c21" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Candle Bay Imperial Prison]] was torn open by the [[Elderspawn]].<ref name="ee-sea-01-of-sea-and-shadow-c24">''Of Sea and Shadow'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder Marten]] broke his father out of the [[Candle Bay Imperial Prison]].<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Candle Bay Imperial Prison]] is a location where [[Fletcher]] served as warden.<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Candle Bay Imperial Prison]] is in ruins.<ref name="ee-sea-02-of-dawn-and-darkness-c5">''Of Dawn and Darkness'', chapter 5</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Candle Bay Imperial Prison]] has just reopened.<ref name="ee-sea-03-of-kings-and-killers-c1">''Of Kings and Killers'', chapter 1</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-03-of-kings-and-killers|“Candle Bay Imperial Prison has just reopened.”<ref name="ee-sea-03-of-kings-and-killers-c1" />}}

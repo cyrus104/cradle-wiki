@@ -4,13 +4,12 @@
 }}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Sundown Pavilion]] is a four-story restaurant in [[Ninecloud City]] lit by red-and-orange constructs.<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] had a reservation at the [[Sundown Pavilion]].<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Sundown Pavilion]] is a location where [[Yerin]] saw herself across the table from [[Lindon]].<ref name="cradle-08-wintersteel-c20">''Wintersteel'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

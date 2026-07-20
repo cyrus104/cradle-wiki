@@ -7,18 +7,16 @@
 }}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|A [[Helgard Traveler]] wears a thick fur-lined coat, a long beard, and a string of sharpened bones around his neck.<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Helgard Traveler]] is a type of traveler.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|"A Helgard Traveler—unmistakable with his thick fur-lined coat, his long beard, and the string of sharpened bones he wore around his neck—placed one gloved hand on Alin's shoulder."<ref name="tg-02-crimson-vault-c15" />}}

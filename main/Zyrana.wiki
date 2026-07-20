@@ -5,13 +5,12 @@
 }}
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Zyrana]] is a second-generation [[Perfected]].<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Zyrana]] is a [[Perfected]] combatant.<ref name="lh-03-the-knight-c36" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Zyrana]] can activate a [[Subspace Rupture]].<ref name="lh-03-the-knight-c36" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

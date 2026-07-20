@@ -11,22 +11,20 @@
 {{spoiler|book=tg-03-city-of-light|Shai is the youngest sister of [[Alin]]. At fourteen years old, she is characterized by a frequently bored or flat expression that often masks her intense interest in her surroundings. She possesses a curious nature, frequently exploring [[Enosh]] to touch and examine various objects, and has demonstrated an interest in mechanics by dismantling clockwork. She is known to collect diverse trinkets, such as glass bottles, twine, and wind-up toys. Shai has also shown a penchant for storytelling, including accounts of her infiltration into the [[Tartarus Travelers]]' barracks. While she once appeared to be a regular inhabitant of [[Enosh]], she eventually becomes an [[Elysian Traveler]]. In this role, she wears a white-and-gold uniform and demonstrates the ability to open a [[Gate to Elysia]].}}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Shai]] is [[Alin]]'s youngest sister and is fourteen years old.<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Shai]] is a character who has a pile of clockwork.<ref name="tg-02-crimson-vault-c5" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Shai]] is a companion of [[Alin]].<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Shai]] is [[Alin]]'s little sister and wields strips of [[Violet Light]] like whips.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Shai]] is potentially an [[Elysian Traveler]].<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Shai]] wears a white-and-gold uniform.<ref name="tg-03-city-of-light-c28">''City of Light'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|Even Shai piped up. “Too proud,” she submitted, from the floor next to her pile of clockwork.<ref name="tg-02-crimson-vault-c5" />}}

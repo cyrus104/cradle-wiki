@@ -9,58 +9,52 @@
 {{spoiler|book=cradle-13-threshold|The term Phoenix refers to several distinct entities within the world. One is a title held by [[Suriel]], a Sixth [[Judge]] of the [[Abidan Court]]. As a Phoenix, she serves as a vital bridge between other [[Judges]] and possesses the power to restore order by mending things back to their previous states. Her role is centered on healing and preserving the universe, though this position can be lost if a Phoenix is destroyed. Another entity is the [[Bleeding Phoenix]], a [[Dreadgod]] characterized by its massive size and association with [[blood madra]]. This creature is known for its ability to regenerate; it disperses [[Blood Shadows]] across the world to gather power and eventually reconstructs its body. It possesses a hunger-driven nature, often using bloodspawn to hunt and feed. The [[Bleeding Phoenix]] can manifest in various forms, ranging from a mountain-sized mass of liquid red to a smaller, more deceptive human-like figure. Additionally, the term is used to describe wild birds that are considered [[natural treasures]] by fire artists due to their fiery appearance and songs. In some contexts, the Phoenix is also depicted as a sacred beast in artistic murals.}}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|[[Suriel]]'s predecessor is known as the [[Phoenix]].<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[The Phoenix]] is choking out [[Yerin's perception]].<ref name="cradle-04-skysworn-c17">''Skysworn'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|Phoenixes are birds that can be found in the wild.<ref name="cradle-06-underlord-c3">''Underlord'', chapter 3</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[The Phoenix]] is an advancement or concept related to reaching [[Monarch]].<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[The Phoenix]] is a sibling to the [[Titan]].<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The people were moving toward the [[Phoenix]].<ref name="cradle-09-bloodline-c17" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[The Phoenix]] is looking for [[Yerin]].<ref name="cradle-09-bloodline-c17" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[The Phoenix]] uses wind [[aura]] to catch itself in the sky.<ref name="cradle-09-bloodline-c17" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[The Phoenix]] is a being whose location is taken into account by the [[Dreadgods]].<ref name="cradle-10-reaper-c5">''Reaper'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|A [[Phoenix]] was involved in recent events.<ref name="cradle-10-reaper-c5" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[The Phoenix]] is made of liquid [[blood madra]].<ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Suriel]] is the [[Phoenix]].<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|[[The Phoenix]] is a biological entity and a location that causes significant headaches for [[Heralds]], an existence that [[Yerin]] holds a grudge against. Described by the [[Sage of Red Faith]] as a fat mutant swollen with power, this being possesses the authority of a [[Sage]] and causes distress within the [[Hall]]. Its presence affects the [[Emissaries]] of [[Redmoon Hall]], leading to expectations that it will destroy everyone at its location. While it may have sent a chunk of itself, the entity known as [[Suriel]] is capable of performing the work of a squad of lesser Phoenixes.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Yerin]] holds a grudge against the [[Phoenix]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[The Phoenix]] is a location that causes headaches for [[Heralds]].<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Blood Sage]] claims he can protect [[Yerin]] from the [[Phoenix]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
@@ -71,35 +65,32 @@
 <li>{{spoiler|book=cradle-11-dreadgod|[[The Phoenix]] is expected to destroy everyone at the location.<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[The Phoenix]] may have sent a chunk of itself.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Suriel]] can do the work of a squad of lesser Phoenixes.<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|[[The Phoenix]] manifests as a minor hunger aspect within [[Yerin]]'s [[blood madra]]. While [[Yerin]] had been holding out for the entity, it eventually makes its presence known through combat. During a confrontation, the Phoenix utilizes a technique consisting of a hammer-blow of force and [[blood madra]]. It further attacks [[Lindon]] by sending a flurry of needles toward him and releasing a cloud of red poison.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Yerin]]'s [[blood madra]] has a minor hunger aspect from the [[Phoenix]].<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Yerin]] was holding out for the [[Phoenix]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[The Phoenix]] uses a hammer-blow of blood and [[force madra]] technique.<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[The Phoenix]] sends a flurry of needles at [[Lindon]].<ref name="cradle-12-waybound-c27" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[The Phoenix]] released a cloud of red poison.<ref name="cradle-12-waybound-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|[[The Phoenix]] possesses the power to restore things to their former states and can be summoned to establish new rules or dismantle incorrect ones. While the entity would cooperate with [[the Mad King]] for the purpose of healing a world, its actions caused [[Yerin Arelius]] to lose her home. Amidst the wreckage left behind, people waited for their one Phoenix. Ultimately, the attack by the creature resulted in a memorial spire made of polished black stone.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|Phoenixes can restore things to how they were before.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Phoenixes can be called to write new rules or break wrong ones.<ref name="cradle-13-threshold-c4" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[The Phoenix]] would cooperate with [[the Mad King]] to heal a world.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The people in the wreckage are waiting for their one [[Phoenix]].<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[The Phoenix]] attack resulted in a memorial spire of polished black stone.<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[The Phoenix]] caused [[Yerin Arelius]] to lose her home.<ref name="cradle-13-threshold-c13" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-10-reaper|"In fairness, I didn’t know about the Phoenix either."<ref name="cradle-10-reaper-c5" />}}

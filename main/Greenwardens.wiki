@@ -9,59 +9,53 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The Greenwardens are one of the four [[Independent Guilds]] within the [[Empire]], alongside the alchemists, [[Consultants]], and the [[Luminian Order]]. While some historical accounts suggest they were established in the eighth century as the Brothers of Peace to combat weaponized [[alchemy]] and the worship of [[Othaghor]], other records claim they were founded in the seventh century as the Sisters of Peace to oppose the worship of Ach’magut. Despite their status as an influential guild, they are considered among the weakest in terms of available capital and political influence. The guild is characterized by its members' connection to the [[Soulbound]], possessing abilities such as healing wounds and restoring blighted crops. Members are easily identified by the living green vines that wrap around their bodies, a feature worn as a badge of honor. The Greenwardens work closely with [[Kameira]], training these creatures and occasionally using them in their duties; they have even been known to manage dangerous beasts like the [[Cinderbeast]]. Their roles include maintaining conservatories for rare plants and [[Kameira]], as well as constructing complex environments like miniature forests. While they are often viewed as non-partisan or peaceful, they have been known to sabotage the hunting parties of other guilds and have recently begun restricting enemy guild members from their territories.}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Greenwardens]] were founded to counteract weaponized [[alchemy]] and the worship of [[Othaghor]] (or [[Ach'magut]]).<ref name="ee-sea-01-of-sea-and-shadow-c4">''Of Sea and Shadow'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Greenwardens]] authored a manifesto regarding [[Kameira]] and [[Intent]].<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Greenwardens]] are a group that employs [[Masons]].<ref name="ee-shadow-01-of-shadow-and-sea-c4" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Greenwardens]] sabotage [[Kameira]] hunting parties.<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Greenwardens]] crest is the Emerald.<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Greenwardens]] closed their chapter house.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Greenwardens]] are part of the Independent alliance.<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Greenwardens]] are described as too weak and too quiet.<ref name="ee-sea-02-of-dawn-and-darkness-c8" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Greenwardens]] call certain rain-catching plants 'jungle teacups'.<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Greenwardens]] constructed a miniature forest in weeks.<ref name="ee-shadow-02-of-darkness-and-dawn-c14">''Of Darkness and Dawn'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Greenwardens]] are a group [[Calder]] mentions.<ref name="ee-shadow-02-of-darkness-and-dawn-c15">''Of Darkness and Dawn'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Greenwardens]] are one of the four [[Independent Guilds]].<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Greenwardens]] are an Independent [[Guild]] whose members are wrapped in living green-leafed vines.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Greenwardens]] are largely harmless without their trained [[Kameira]].<ref name="ee-sea-03-of-kings-and-killers-c7">''Of Kings and Killers'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Greenwardens]] have [[Kameira]] expertise.<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Greenwardens]] are for peace.<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Greenwardens]] are led by [[Tomas Stillwell]].<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Greenwardens]] are a group clustering behind a barrier.<ref name="ee-shadow-03-of-killers-and-kings-c8">''Of Killers and Kings'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Ayana]] was tending to a dying Greenwarden.<ref name="ee-shadow-03-of-killers-and-kings-c8" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“...Greenwardens closed up their chapter house.<ref name="ee-sea-02-of-dawn-and-darkness-c6" />}}

@@ -7,11 +7,10 @@
 }}
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Hordefather]] is a title held by [[Othaghor]].<ref name="ee-shadow-03-of-killers-and-kings-c7">''Of Killers and Kings'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-03-of-killers-and-kings|“I represent the will of Othaghor, the Hordefather,” he said, his voice sounding as though his throat had been wracked by the same disease as his face.<ref name="ee-shadow-03-of-killers-and-kings-c7" />}}

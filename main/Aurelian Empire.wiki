@@ -9,55 +9,49 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Aurelian]] [[Empire]] was a vast, unified global dominion characterized by the standardization of the [[Imperial language]] and a central authority held by an [[Emperor (Elder Empire)|Emperor]]. [[The Empire]]'s identity was represented by a golden shield crest featuring a sun and crescent moon, an emblem also found on its official red carpets and the white lacquered armor of its guards. Historically, the [[Empire]] was established through significant feats of power and supported by various [[Guilds]], which acted as its foundational architects and counselors. [[The Emperor]] possessed immense power, including the ability to use a global network of receptors connected to a throne known as the [[Optasia]] to monitor and counter threats like the [[Great Elders]] from a distance. This authority was so absolute that it could override the will of ordinary people. Following the death of [[Emperor (Elder Empire)|the Emperor]], the realm entered a period of instability known as the [[Long Mourning]], marked by riots and fragmentation. While some sought to restore a single ruler to maintain unity, others believed the [[Empire]] could not survive without an [[Emperor (Elder Empire)|Emperor]]. This period saw the rise of [[Regents]] and a movement toward regional autonomy, with different territories like [[Izyria]], [[Erinin]], and the Heartlands beginning to act as separate entities. Eventually, the [[Regents]] declared the end of the [[Empire]], transitioning toward a new government called the [[Aurelian Alliance]]. Despite this shift, many still viewed the unified [[Empire]] as an ideal, and certain factions worked to preserve its legacy or return a leader to the throne.}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Being in charge of the [[Aurelian Empire]] makes one vulnerable to corruption.<ref name="ee-sea-01-of-sea-and-shadow-c16">''Of Sea and Shadow'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Aurelian Empire]] uses a moon-in-sun symbol.<ref name="ee-sea-01-of-sea-and-shadow-c20">''Of Sea and Shadow'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder Marten]] is a loyal citizen of the [[Aurelian Empire]].<ref name="ee-sea-01-of-sea-and-shadow-c20" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Aurelian Empire]] contains a [[Capital]] where [[Emperor (Elder Empire)|the Emperor]] lives in a palace that is one-fifth of the city's size.<ref name="ee-shadow-01-of-shadow-and-sea-c5">''Of Shadow and Sea'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Am’haranai]] operate within the [[Aurelian Empire]].<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Aurelian Empire]] is ruled by [[Emperor (Elder Empire)|the Emperor]].<ref name="ee-shadow-01-of-shadow-and-sea-c7">''Of Shadow and Sea'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Aurelian Empire]]'s existence is tied to the [[Guilds]].<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Aurelian Empire]] contains various [[Guilds]].<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|There can be no [[Aurelian Empire]] without an [[Emperor (Elder Empire)|Emperor]].<ref name="ee-shadow-02-of-darkness-and-dawn-c1">''Of Darkness and Dawn'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Aurelian Empire]] is the empire where [[Calder Marten]] serves as [[Imperial Steward]].<ref name="ee-shadow-02-of-darkness-and-dawn-c13">''Of Darkness and Dawn'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[The Emperor]] established the [[Aurelian Empire]].<ref name="ee-shadow-02-of-darkness-and-dawn-c18">''Of Darkness and Dawn'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] was the second human being to sit on the throne of the [[Aurelian Empire]].<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Aurelian Empire]] was declared ended by the three [[Regents]].<ref name="ee-sea-03-of-kings-and-killers-c26">''Of Kings and Killers'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Regents]] and the [[Guilds]] are both part of the [[Aurelian Empire]].<ref name="ee-shadow-03-of-killers-and-kings-c11">''Of Killers and Kings'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Aurelian Empire]] is the entity [[Trip]] refers to when speaking with an [[Imperial Guard]].<ref name="ee-shadow-03-of-killers-and-kings-c12">''Of Killers and Kings'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-03-of-killers-and-kings|“We’re the Aurelian Empire. Isn’t it a the same for you?”<ref name="ee-shadow-03-of-killers-and-kings-c12" />}}

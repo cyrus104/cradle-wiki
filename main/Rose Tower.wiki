@@ -9,20 +9,19 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|Located on the eastern side of the Palace complex next to the perimeter wall, the [[Rose]] Tower is a seven-story rectangular structure featuring smooth white plaster and tiered red roofing. It is one of several similar towers situated along the edges of the Palace. The building's design includes arrow-slits on various floors and roof openings intended for marksmen. While the tower is part of the [[Imperial Palace]] grounds, its security involves both [[Imperial]] soldiers and [[Luminian Knights]] from the [[Independent Guilds]]. The ground floor has been used to house various [[Guild]] members and blue-white stone boxes etched with knight imagery. The uppermost room is a large square space that typically contains furniture and plants, though it can be cleared to feature painted circles on the floor for formal negotiations. The tower is a historic landmark, and a replica of it exists within the [[Consultants]]' [[Garden]].}}
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Rose Tower]] is located on the eastern side of the Palace complex, next to the wall, and is two miles away.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Rose Tower]] is seven stories tall with smooth white plaster sides and tiered red tiles on the roof.<ref name="ee-sea-03-of-kings-and-killers-c6" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Rose Tower]] is a location guarded by Luminians and [[Imperial Guard]].<ref name="ee-sea-03-of-kings-and-killers-c6" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Rose Tower]] is being attacked.<ref name="ee-sea-03-of-kings-and-killers-c7">''Of Kings and Killers'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Rose]] Tower is a seven-story rectangular structure featuring white walls and serves as the location for an upcoming meeting. Situated at a base where [[Estyr Six]] stands, the tower is accessed via an archway and contains a large square room furnished with a long table and chairs. To ensure security, the [[Consultants]] secured various exits around the perimeter of the building. During a battle between [[Estyr]] and two [[Guild Heads]], the top of the tower shook, after which [[Shera]] and [[Meia]] exited the premises.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The meeting is set to take place in the [[Rose Tower]].<ref name="ee-shadow-03-of-killers-and-kings-c4">''Of Killers and Kings'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Consultants]] secured exits around the [[Rose Tower]].<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Rose Tower]] is seven stories tall and rectangular with white walls.<ref name="ee-shadow-03-of-killers-and-kings-c6" />}}</li>
@@ -32,8 +31,7 @@
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Rose Tower]] is located at the base of which [[Shera]] peered.<ref name="ee-shadow-03-of-killers-and-kings-c8">''Of Killers and Kings'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The top of the [[Rose Tower]] shook during the battle between [[Estyr]] and two [[Guild Heads]].<ref name="ee-shadow-03-of-killers-and-kings-c8" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] and [[Meia]] walk out of the [[Rose Tower]].<ref name="ee-shadow-03-of-killers-and-kings-c8" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

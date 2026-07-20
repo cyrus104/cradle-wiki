@@ -13,15 +13,14 @@
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Zeth Baker is a highly talented Worldweaver. He utilizes the specialized ability of [[Pattern Construction]] to perform his craft. By employing a [[Pattern]], he is able to overlay reality with his power.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|Zeth is a Worldweaver.<ref name="cradle-13-threshold-c5">''Threshold: Stories from Cradle'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Zeth's full name is [[Zeth Baker]].<ref name="cradle-13-threshold-c5" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Zeth Baker]] is a talented Worldweaver.<ref name="cradle-13-threshold-c5" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Zeth uses a [[Pattern]] to overlay reality.<ref name="cradle-13-threshold-c5" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Zeth possesses [[Pattern Construction]].<ref name="cradle-13-threshold-c5" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

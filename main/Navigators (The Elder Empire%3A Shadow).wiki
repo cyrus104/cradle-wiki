@@ -7,29 +7,26 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The Navigators are a prominent [[Guild]] within the [[Elder Empire]], serving as foundational architects and shepherds of its people. They possess highly guarded secrets and are known for their unique ability to master the [[Aion Sea]] through specialized vessels called [[Vessels]]. These ships are distinct in appearance, often featuring blue fins or components like an [[Elder eye]] on the mast. To function as a [[Vessel]], a ship must be awakened and constructed with parts of an [[Elder]] or [[Kameira]], which allows the vessel to guide its captain through the hazards of the deep [[Aion]]. A defining characteristic of this [[Guild]] is that its members are [[Soulbound]], meaning they share a deep connection with their ships. This bond allows a captain to control the vessel as if it were part of their own body, though the ship also serves to guide the captain. Most [[Navigator ships]] are small in scale, operated by a single [[Soulbound]] individual and a minimal crew. Despite their specialized role, the [[Guild]] is powerful enough to hold the [[Imperial]] Palace or participate in political shifts, such as when a [[Navigator captain]] successfully claimed the position of Emperor.}}
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Navigators have the ability to control their ships.<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Navigators are unable to help the yellow-haired [[Consultant]] friend.<ref name="ee-shadow-01-of-shadow-and-sea-c27">''Of Shadow and Sea'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The Navigators have attempted to awaken the [[Optasia]].<ref name="ee-shadow-02-of-darkness-and-dawn-c13">''Of Darkness and Dawn'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The Navigators are one of the groups expected to attack [[Gray Island]].<ref name="ee-shadow-02-of-darkness-and-dawn-c17">''Of Darkness and Dawn'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The Heads of the Navigators signed a letter of personal regret.<ref name="ee-shadow-02-of-darkness-and-dawn-c17" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Navigators revealed pistols.<ref name="ee-shadow-03-of-killers-and-kings-c8">''Of Killers and Kings'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Navigators' [[Guilds]] are supporting a false Emperor.<ref name="ee-shadow-03-of-killers-and-kings-c18">''Of Killers and Kings'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -11,8 +11,8 @@
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|The Hanging [[Tree]] is a blood-red Ragnarus sapling with crimson leaves that writhes with hunger and serves as a site for sacrifices. As an artifact of Ragnarus, these trees must remain in contact with the earth to seal away [[Incarnations]], meaning their destruction would allow such entities to escape. While the first nine trees were planted by ancestors and handed down through generations, [[King]] [[Zakareth]] planted a tenth tree and intends to defend it. Although [[Grandmaster Naraka]] attempted to incinerate the tree and [[Alin]]'s mission targeted its destruction, the [[Grandmasters]] failed to destroy even one. The tree remains a target for strikes in [[Cana]], though [[Tamara]] has since carried a seed to the Hanging [[Tree]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Hanging Tree]] is a blood-red sapling that writhes with hunger and has crimson leaves.<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Hanging Tree]] is a force that [[Naraka]] was in the forest to sabotage.<ref name="tg-02-crimson-vault-c1" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Hanging Tree]] is used for sacrifices.<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
@@ -31,14 +31,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[King]] [[Zakareth]] planted a tenth [[Hanging Tree]].<ref name="tg-02-crimson-vault-c22" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Tamara]] carries a seed to the [[Hanging Tree]].<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The Hanging [[Trees]] have been handed down for generations.<ref name="tg-02-crimson-vault-c25">''The Crimson Vault'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|Once located in the dungeon beneath the palace, the remnants of [[Cana]]'s Hanging [[Tree]] were eventually discovered at the bottom of a floor hole. These trees serve as a system for sealing [[Incarnations]], though they were never intended to function against [[Queen]] [[Cynara]]'s kind. While an ancient [[Incarnation]] remained sealed beneath the tree for more than three centuries, the process of sealing requires a cost of blood and can result in the trees failing individuals like [[Simon]]. Beyond their sealing capabilities, Hanging [[Trees]] possess the ability to feed on people to drain their power, and they can use crimson branches to swarm and devour targets.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The remnants of [[Cana]]'s [[Hanging Tree]] were found at the bottom of a hole in the floor.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Cana]] once had a [[Hanging Tree]] in the dungeon beneath the palace.<ref name="tg-03-city-of-light-c2" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The Hanging [[Trees]] failed [[Simon]].<ref name="tg-03-city-of-light-c3">''City of Light'', chapter 3</ref>}}</li>
@@ -51,8 +50,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[Leah]] thought about who could be sealed beneath [[Cana]]'s [[Hanging Tree]].<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The Hanging [[Trees]] were not meant to work on [[Queen]] [[Cynara]]'s kind.<ref name="tg-03-city-of-light-c24" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Hanging Tree]] can swarm and devour targets with crimson branches.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-03-city-of-light|"One result of that bargain was the Hanging Trees, which can seal Incarnations at the cost of blood."<ref name="tg-03-city-of-light-c10" />}}

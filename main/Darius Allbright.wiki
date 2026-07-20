@@ -15,8 +15,8 @@
 == Of Darkness and Dawn ==
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Darius Allbright serves as a Captain of the [[Knights of the White Sun]] and a [[Knight-Adjunct]], carrying a [[sword]] and utilizing an [[Awakened pen]] that leaves permanent ink upon his skin. The grandson of [[Jameson Allbright]], he is considered Elder-touched due to an [[Elder curse]] that Maxeus attempted to banish years prior. This condition, caused by a run-in with [[Elderspawn]], has left him with an Elder-shadowed condition and a face that is nothing more than a flat plane of black void. While he often wears silvery armor, his gear eventually becomes blackened and charred.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Darius Allbright]] is a Captain of the [[Knights of the White Sun]].<ref name="ee-shadow-02-of-darkness-and-dawn-c6">''Of Darkness and Dawn'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Darius Allbright]] uses an [[Awakened pen]] that leaves permanent ink on his skin.<ref name="ee-shadow-02-of-darkness-and-dawn-c6" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Darius carries a [[sword]].<ref name="ee-shadow-02-of-darkness-and-dawn-c6" />}}</li>
@@ -34,21 +34,19 @@
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Darius is an ally of the female character (implied to be [[Shera]]) whom she barely knows.<ref name="ee-shadow-02-of-darkness-and-dawn-c11" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Darius has an Elder-shadowed condition caused by a run-in with [[Elderspawn]].<ref name="ee-shadow-02-of-darkness-and-dawn-c19">''Of Darkness and Dawn'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Darius' armor is blackened or charred.<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Darius Allbright]] is the grandson of [[Jameson Allbright]] and wears an armored body with a hooded face.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|Initially, Darius Allbright supported a proposed peace agreement between the various [[Guilds]]. He reflected on his grandfather's difficult tenure as a [[Guild]] Head before his physical form was catastrophically altered when a black circle of nothingness replaced his face. As the cold winds of [[Urg’naut]] approached, Darius heard whispers from the void and assisted the [[Luminian Order]] in coordinating a city evacuation. Ultimately, his body was seized by a [[Great Elder]] to serve as a host for [[Urg’naut]], leaving a spawn of the entity wrapped around his face while [[Shera]] stood mere inches from his chest.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Allbright is onboard with a deal for peace between the [[Guilds]].<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Darius Allbright]]'s face is replaced by a black circle of nothingness.<ref name="ee-shadow-03-of-killers-and-kings-c4">''Of Killers and Kings'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Darius Allbright]]'s grandfather struggled under the title of [[Guild]] Head.<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
@@ -58,8 +56,7 @@
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Darius Allbright]]'s body is used by a [[Great Elder]].<ref name="ee-shadow-03-of-killers-and-kings-c23" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Darius is the host for Urg'naut.<ref name="ee-shadow-03-of-killers-and-kings-c23" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] was an inch from Darius' chest.<ref name="ee-shadow-03-of-killers-and-kings-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|"Excuse my haste, Knight-Adjunct, but your grandfather wishes to see you immediately."<ref name="ee-shadow-02-of-darkness-and-dawn-c8" />}}

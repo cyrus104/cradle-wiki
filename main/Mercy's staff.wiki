@@ -4,26 +4,23 @@
 }}
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Mercy's staff]] has a [[dragon]]'s head that snarls and has violet lights for eyes.<ref name="cradle-04-skysworn-c15">''Skysworn'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Mercy]] has a staff made of polished black roots with a [[dragon]] head top.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Mercy]] possesses a braided black staff.<ref name="cradle-06-underlord-c2">''Underlord'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Mercy]] used her staff like a walking stick.<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

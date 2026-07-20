@@ -18,8 +18,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|As the [[World Spirit of The Last Horizon]], Horizon is a horned entity bound to ensure her crew's safety. She manages simulation levels and provides tests, even initiating a digital competition to select her crew by transferring consciousness into virtual spaces. This adaptive spirit can manifest as a humanoid avatar, multiple projections, or a two-toned blue and red hologram, often appearing with seven-pointed eyes and a maniacal smile. Beyond her role as a guide, she is the spirit of a sleek, hawk-like vessel equipped with advanced weaponry such as plasma bolts and subspace turrets. Through her pinnacle magic, which utilizes spells born from memories of past lives, she can control thousands of eyes and hands to provide combat support.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">58</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">58</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Horizon]] is the [[World Spirit of The Last Horizon]].<ref name="lh-01-the-captain-c8">''The Captain'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Horizon]] is a character who has horns.<ref name="lh-01-the-captain-c8" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Horizon]] is bound to convey her crew in safety.<ref name="lh-01-the-captain-c8" />}}</li>
@@ -78,14 +78,13 @@
 <li>{{spoiler|book=lh-01-the-captain|The narrator has been battling to control [[Horizon]]'s magic.<ref name="lh-01-the-captain-c46">''The Captain'', chapter 46</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Horizon]] exists in a four-colored [[construct]] of a body.<ref name="lh-01-the-captain-c47">''The Captain'', chapter 47</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Horizon]]'s world has a sky that resembles stars.<ref name="lh-01-the-captain-c48">''The Captain'', chapter 48</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|Horizon is the sentient consciousness and [[World Spirit]] of the ship known as [[The Last Horizon]], a [[Zenith Device]] created through the combined efforts of magic and fabricators. As a wizard captain and spirit, this entity maintains the ship's structure, communicates via audio implants, and can project a six-colored body or manifest thousands of hands. Horizon utilizes [[Aethertech]] gifts to empower drones, print [[Nova-Bots]] from various elements, and maintain invincible shielding. While she can teleport individuals to safety and cooperate with [[Omega]] to access the [[Subline]], her existence is tied to her [[Captain]], as she will go dormant upon their death. A sister to [[Shadow Ark]], Horizon possesses a treasure [[vault]] and has expressed a preference for being scuttled rather than sharing her [[Captain]] with her sibling.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">53</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">53</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Horizon]] is an entity capable of adjusting the ship's structure and projecting holograms.<ref name="lh-02-the-engineer-c2">''The Engineer'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Horizon]] refers to the ship [[The Last Horizon]].<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Horizon]] is the entity or AI responsible for holding [[The Last Horizon]] together.<ref name="lh-02-the-engineer-c9">''The Engineer'', chapter 9</ref>}}</li>
@@ -139,14 +138,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[Horizon]] possesses a treasure [[vault]].<ref name="lh-02-the-engineer-c55">''The Engineer'', chapter 55</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Horizon]] is the sister of [[Shadow Ark]].<ref name="lh-02-the-engineer-c55" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Horizon]] claims she would rather be scuttled and burned than share her [[Captain]] with [[Shadow Ark]].<ref name="lh-02-the-engineer-c55" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Horizon is the [[World Spirit]] of the [[Zenith]] Starship and a member of the crew that manages teleportation systems, provides briefings, and communicates with the narrator. This entity manifests as a woman in a flowing dress with seven-pointed stars in her eyes and gnarled, immaterial horns that can sink into a person's skull. As a ship capable of piloting itself and sharing the burden of spellcasting, Horizon can detect biological attacks, weaken magical scans, and use shields to block sound. Throughout her history as a hero of [[The Last Horizon]], she has driven [[Hesh’ellik]] away from the galaxy and can be found as a statue in various rooms or as a voice within the walls. During critical moments, she can flicker into holographic existence, claim the bridge, and assist in transporting pilots out of the [[Divine Titan]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">38</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">38</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Horizon]] is a crew that the narrator belongs to.<ref name="lh-03-the-knight-c3">''The Knight'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Horizon]] provides briefings and manages teleportation systems.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Horizon]] is an entity the narrator can communicate with.<ref name="lh-03-the-knight-c4" />}}</li>
@@ -185,14 +183,13 @@
 <li>{{spoiler|book=lh-03-the-knight|[[Horizon]] claims the bridge.<ref name="lh-03-the-knight-c43">''The Knight'', chapter 43</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Horizon]] is capable of transporting the pilot out of the [[Divine Titan]] with their assistance.<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Benri]] has a connection to [[Horizon]].<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Horizon is a holographic entity and the namesake starship that controls [[The Last Horizon]], often manifesting as a woman with gnarled, twisted-root horns and seven-pointed stars in her eyes. Communicating through the ship's walls or via video transmissions, she manages the vessel's internal layout and uses advanced sensors to reveal secrets like the hollowness of the [[Grand Hive]]. Throughout her service, she has collected planetary gemstones, found trophies of the [[Iron King]]'s defeat, and demonstrated immense power by manifesting magical items or teleporting individuals across systems. Though she can pilot the ship from any location and possesses a voice capable of cutting through restrictions, she has faced moments of being reported gone or distracted. Ultimately, Horizon serves as a commander and companion who can see more than any starship in history when her [[Pilot]] and [[Engineer]] combine their powers with her own.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">64</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">64</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Horizon]] is a holographic entity with gnarled tree-branch horns and seven-pointed stars in her eyes.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Horizon]] can transport the narrator away.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Captain]] signaled their processor to call [[Horizon]].<ref name="lh-04-the-pilot-c4" />}}</li>
@@ -257,8 +254,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|The narrator cannot swear on behalf of [[Horizon]].<ref name="lh-04-the-pilot-c48" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Horizon]] is a pilot for [[The Last Horizon]].<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The narrator attempts to contact [[Horizon]].<ref name="lh-04-the-pilot-c49" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|The projection of Horizon slumped and sighed. "I can repair myself. It is the materials I lack."<ref name="lh-01-the-captain-c35" />}}

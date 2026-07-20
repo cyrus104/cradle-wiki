@@ -7,11 +7,10 @@
 }}
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[The Iron]] can feel the ground shaking.<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-09-bloodline|Lindon crouched next to the Iron, speaking into his ear. “Do you feel the ground shaking?”<ref name="cradle-09-bloodline-c11" />}}

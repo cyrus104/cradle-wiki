@@ -7,33 +7,29 @@
 {{spoiler|book=ee-sea-03-of-kings-and-killers|An [[Awakened]] object is an inanimate item that has undergone a mysterious and poorly understood transformation through a process known as [[Awakening]]. This procedure involves blending the [[Intent]] of the object itself, the person performing the [[Awakening]] (a [[Reader]]), and the owner. The process grants the item a rudimentary level of awareness or consciousness, which is directly tied to its original purpose and collected [[Intent]]. While these objects can demonstrate a degree of independence or even act on their own impulses, they are not true replacements for living beings. During [[Awakening]], an object's physical appearance and structure may be permanently altered to better reflect its nature or power. However, once this transformation occurs, the object's shape is fixed; it cannot be reshaped again, nor can it absorb any new [[Intent]]. This means that an [[Awakened]] object is essentially locked in its current state. A significant application of this process is the creation of [[Soulbound]], individuals who are bound to a specific [[Awakened]] object, often referred to as a [[Vessel]]. This bond allows the [[Soulbound]] to draw upon the item's stored power, such as the abilities of an [[Elder]] or a [[Kameira]]. Because these [[Vessels]] are the source of a [[Soulbound]]'s strength, identifying and potentially destroying them is a critical tactic in combat.}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|An [[Awakened object]] cannot gain new [[Intent]] but can use the [[Intent]] it has already collected.<ref name="ee-sea-01-of-sea-and-shadow-c13">''Of Sea and Shadow'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Even the brightest minds in the [[Empire]] know very little about the nature of [[Awakened objects]].<ref name="ee-sea-01-of-sea-and-shadow-c15">''Of Sea and Shadow'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A [[Vessel]] is an [[Awakened object]].<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|An [[Awakened object]] can only change shape once, during the [[Awakening]] process.<ref name="ee-sea-02-of-dawn-and-darkness-c7">''Of Dawn and Darkness'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Awakened objects]] are unique items, such as [[Navigator ships]].<ref name="ee-sea-03-of-kings-and-killers-c8">''Of Kings and Killers'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -11,8 +11,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Consultants]] are a group of blond individuals who can be hired for various tasks. They specialize in using guerrilla tactics and hiding to launch attacks, often utilizing thrown blades to stop their targets. Within this organization, [[Calder Marten's mother]] serves as the right hand. During his journey, a Consultant was expected to reveal a secret entrance to [[Calder]], though he eventually used the power of the [[Emperor's crown]] to drive the group away.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Consultants]] are a group that uses guerrilla tactics and hides to attack.<ref name="ee-sea-01-of-sea-and-shadow-c11">''Of Sea and Shadow'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Consultants]] are capable of throwing blades to stop targets.<ref name="ee-sea-01-of-sea-and-shadow-c12">''Of Sea and Shadow'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Consultants]] are a group that can be hired.<ref name="ee-sea-01-of-sea-and-shadow-c18">''Of Sea and Shadow'', chapter 18</ref>}}</li>
@@ -20,14 +20,13 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Consultant]] is expected to show [[Calder]] a secret entrance.<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder Marten]] drove [[Consultants]] away with the power of the [[Emperor's crown]].<ref name="ee-sea-01-of-sea-and-shadow-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Consultant]] is a blond individual.<ref name="ee-sea-01-of-sea-and-shadow-c25">''Of Sea and Shadow'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Consultants]] are a diverse group of professionals, including [[Kerian]], who specialize in equipment maintenance. While they treat the words of their temporary clients as absolute law, their ultimate allegiance is to [[Emperor (Elder Empire)|the Emperor]], whom they frequently serve or defend. Some members of this order are capable of flying across craters while dressed in black clothing. During her training to join the profession, [[Meia]] killed a Consultant by crushing its skull. The role is highly sought after by individuals like [[Shera]], who was once defended on [[Nakothi’s island]] by a yellow-haired Consultant friend.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Consultants]] are a group that [[Kerian]] belongs to.<ref name="ee-shadow-01-of-shadow-and-sea-c1">''Of Shadow and Sea'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Consultants]] provide maintenance for equipment.<ref name="ee-shadow-01-of-shadow-and-sea-c3">''Of Shadow and Sea'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|There are many different kinds of [[Consultants]].<ref name="ee-shadow-01-of-shadow-and-sea-c3" />}}</li>
@@ -40,47 +39,42 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Consultants]] serve the [[Empire]].<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Consultants]] are often around [[Emperor (Elder Empire)|the Emperor]], either working for him or defending him.<ref name="ee-shadow-01-of-shadow-and-sea-c27">''Of Shadow and Sea'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Shera]] has a yellow-haired [[Consultant]] friend who defended her on [[Nakothi’s island]].<ref name="ee-shadow-01-of-shadow-and-sea-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Lucan]] is a [[Consultant]] who previously attempted to sabotage the [[Optasia]].<ref name="ee-sea-02-of-dawn-and-darkness-c16">''Of Dawn and Darkness'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Consultant]] called [[Shera]].<ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Consultants]] follow orders from the [[Architects]], clients, and [[Emperor (Elder Empire)|the Emperor]].<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Standard [[Consultant]] procedure is to group up and share information.<ref name="ee-shadow-02-of-darkness-and-dawn-c16">''Of Darkness and Dawn'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Consultants]] were prepared for war on the [[Gray Island]].<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|If the [[Consultants]] have taken over, they would not keep [[Meia]] alive if the Killer is their [[Guild Head]].<ref name="ee-sea-03-of-kings-and-killers-c19">''Of Kings and Killers'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Consultant]] marches side-by-side with [[Estyr Six]].<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Consultant]] is a [[Guild]]-based group composed of the [[Gardeners]] and [[Shepherds]] orders. These individuals serve as guides for others navigating through the mist, frequently working together in teams to perform their duties. As a matter of conduct, members of this group do not shout. [[Meia]] recognizes her own responsibilities through the lens of her duty as a Consultant.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Consultant]] is a group consisting of the [[Gardeners]] and [[Shepherds]] orders.<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Consultants]] do not shout.<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Consultants]] are individuals who guide others through the mist.<ref name="ee-shadow-03-of-killers-and-kings-c8">''Of Killers and Kings'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Consultants]] often work in teams.<ref name="ee-shadow-03-of-killers-and-kings-c15">''Of Killers and Kings'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Consultants]] are members of a [[Guild]].<ref name="ee-shadow-03-of-killers-and-kings-c17">''Of Killers and Kings'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Meia]] views her duty as a [[Consultant]].<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“And her right hand is your mother,” the Consultant finished.<ref name="ee-sea-01-of-sea-and-shadow-c20" />}}

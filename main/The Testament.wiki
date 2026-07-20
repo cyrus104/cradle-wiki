@@ -11,8 +11,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|The Testament is a dark green [[Awakened]] ship featuring green-veined sails made of membranous skin that resemble bat wings. [[Captain]] [[Calder Marten]] repaired the vessel using three hundred planks of wood, and he kept tools disguised as materials hidden in his carriage while working at the ship's scaffolding-covered work site. This fast [[Navigator vessel]], which serves as a [[Blackwatch]] ship, is designed to be pulled by an [[Elderspawn]] and contains cabins, cannons, and a hold filled with cargo. While [[Urzaia Woodsman]] serves as the official cook for the crew and prisoners, the ship also functions as a potential escape option that is expected to make landfall soon.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">29</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">29</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Testament]] is a ship with sails made of membranous green skin that resemble bat's wings.<ref name="ee-sea-01-of-sea-and-shadow-c1">''Of Sea and Shadow'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Testament]] is a ship that [[Calder Marten]] repaired using three hundred planks of wood.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Testament]] is a ship.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
@@ -42,23 +42,21 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Testament]] is a destination or entity mentioned by [[Calder]].<ref name="ee-sea-01-of-sea-and-shadow-c27">''Of Sea and Shadow'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Testament]] is a structure equipped with cannons.<ref name="ee-sea-01-of-sea-and-shadow-c27" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Testament]] is a vessel that carries crewmen and prisoners.<ref name="ee-sea-01-of-sea-and-shadow-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Testament]] is a place where [[Shera]] spends her first night.<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Testament]] is a vessel that docks at the docks.<ref name="ee-shadow-01-of-shadow-and-sea-c19">''Of Shadow and Sea'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Testament]] is a location that [[Gardeners]] could depopulate.<ref name="ee-shadow-01-of-shadow-and-sea-c27">''Of Shadow and Sea'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Testament is a sailing vessel owned by [[Calder Marten]] that [[Emperor (Elder Empire)|the Emperor]] has invested thousands of [[goldmarks]] into. After [[Calder]] unsuccessfully attempted to tip the object, the group eventually took possession of the ship, which was stuffed full of salvaged cargo. Thirteen people used the vessel to leave [[Silverreach]], including [[Petal]], though its crew was later taken prisoner by the [[Sleepless]]. [[Calder]] uses [[Reading]] to keep the ship held together, intending to use it as a means of flight that can even sneak an [[Inquisitor]] aboard. This constantly moving boat features a railing and remains a construction that [[Jorin]] possesses the power to sink.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Testament]] is an object [[Calder]] tried to tip.<ref name="ee-sea-02-of-dawn-and-darkness-c2">''Of Dawn and Darkness'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The group has taken [[The Testament]].<ref name="ee-sea-02-of-dawn-and-darkness-c3">''Of Dawn and Darkness'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Testament]] is a ship that is currently stuffed to the brim with salvaged cargo.<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
@@ -77,24 +75,22 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Testament]] has a railing.<ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Testament]] is a force that can be capsized like a crashing wave.<ref name="ee-sea-02-of-dawn-and-darkness-c23">''Of Dawn and Darkness'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Testament]] is a vessel with sails.<ref name="ee-sea-02-of-dawn-and-darkness-c24">''Of Dawn and Darkness'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[The Testament]] has a crew of at least three members.<ref name="ee-shadow-02-of-darkness-and-dawn-c15">''Of Darkness and Dawn'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Shera]] faced the entire crew of [[The Testament]].<ref name="ee-shadow-02-of-darkness-and-dawn-c17">''Of Darkness and Dawn'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[The Testament]] is a ship leading the [[Navigators]].<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[The Testament]] has green-veined sails and chains attached to an [[Elder]] monstrosity.<ref name="ee-shadow-02-of-darkness-and-dawn-c22" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|The Testament is a vessel that remains prohibited for any [[Soulbound]] to carry into a meeting room. While [[Foster]] maintains a cabin aboard the ship, he attempts to bring the vessel close to shore where waves lap against its half-wrecked hull. After being picked up by the ship in the shallow Aion, a group plans to board the craft near the harbor. The arrival of the ship is viewed as a godsend, especially as it emits a pure light from its deck and responds to the presence of [[Calder]]. Although the ship contains only a crew and no passengers, it serves as a location where people can look up toward its structure.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">16</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">16</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Testament]] is an item that a [[Soulbound]] cannot bring into a meeting room.<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] ran back to [[The Testament]].<ref name="ee-sea-03-of-kings-and-killers-c5">''Of Kings and Killers'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] wears clothes similar to what he would wear aboard [[The Testament]].<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
@@ -111,18 +107,16 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Testament]] is a ship in the fleet that has no passengers, only crew.<ref name="ee-sea-03-of-kings-and-killers-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Testament]] is a location where people can look up.<ref name="ee-sea-03-of-kings-and-killers-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Testament]] is a ship that was half a wreck.<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Calder Marten]] might have worn clothes appropriate for a ship's deck aboard [[The Testament]].<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Testament]] is tied to a monster.<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] and [[Calder]] first met on [[The Testament]].<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Testament]] is being pulled forward by an [[Elder]] creature below the ocean's surface.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“Over long distances, The Testament is the fastest ship in the Guild.<ref name="ee-sea-01-of-sea-and-shadow-c14" />}}

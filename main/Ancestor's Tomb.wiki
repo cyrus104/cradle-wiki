@@ -11,8 +11,8 @@
 == Unsouled ==
 {{spoiler|book=cradle-01-unsouled|Predating the [[Heaven's Glory]] School by unknown centuries, the Ancestor's [[Tomb]] is a massive square mausoleum supported by vast pillars. The structure features deep, ancient [[scripts]] designed to gather [[vital aura]] and is decorated with murals of four gigantic beasts locked in battle located above the entrance and on the ceiling. As [[Lindon]] and [[Yerin]] streak toward this site of past battles, a sudden collapse occurs after [[Yerin]] slices one of the pillars. The destruction is punctuated by [[Lindon]]'s scream echoing through every corner of the tomb, leaving [[Anses]] to pick through the resulting ruins.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|The [[Ancestor's Tomb]] predates the [[Heaven's Glory]] School by unknown centuries.<ref name="cradle-01-unsouled-c18">''Unsouled'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Ancestor's Tomb]] is a square mausoleum standing on vast pillars.<ref name="cradle-01-unsouled-c18" />}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|A mural of four gigantic beasts locked in battle is above the entrance to the [[Ancestor's Tomb]].<ref name="cradle-01-unsouled-c18" />}}</li>
@@ -24,56 +24,50 @@
 <li>{{spoiler|book=cradle-01-unsouled|[[Lindon]]'s scream shook every corner of the [[Ancestor's Tomb]].<ref name="cradle-01-unsouled-c20">''Unsouled'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Ancestor's Tomb]] collapsed after [[Yerin]] sliced a pillar.<ref name="cradle-01-unsouled-c20" />}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Anses]] picks through the ruins of the Ancestor’s [[Tomb]].<ref name="cradle-01-unsouled-c20" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Ancestor's Tomb]] contains a picture similar to the door.<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The Ancestor’s [[Tomb]] is a mausoleum-like structure in [[Sacred Valley]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Ancestor's Tomb]] is a location surrounded by snow in [[Sacred Valley]].<ref name="cradle-08-wintersteel-c1" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The Ancestor’s [[Tomb]] is a blocky behemoth on titanic pillars.<ref name="cradle-08-wintersteel-c1" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
 {{spoiler|book=cradle-09-bloodline|The Ancestor's [[Tomb]] is a location situated along a specific travel route and is secured by a protective script. Although the structure survived an attack by the [[Wandering Titan]], it sustained damage including a cracked pillar and a caved-in roof. The interior of the tomb consists of a wide-open space lined with various pillars. At its entrance, a mural depicting the four [[Dreadgods]] can be found.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The route passes the [[Ancestor's Tomb]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The Ancestor’s [[Tomb]] is protected by a script.<ref name="cradle-09-bloodline-c6" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The Ancestor’s [[Tomb]] survived the [[Wandering Titan]]’s attack.<ref name="cradle-09-bloodline-c22">''Bloodline'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The Ancestor’s [[Tomb]] has a caved-in roof and one cracked pillar.<ref name="cradle-09-bloodline-c22" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The inside of the Ancestor’s [[Tomb]] is a wide-open space lined with pillars.<ref name="cradle-09-bloodline-c22" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The entrance to the Ancestor’s [[Tomb]] contains a mural of the four Dreadgods.<ref name="cradle-09-bloodline-c22" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] is in the Ancestor’s [[Tomb]].<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The Ancestor’s [[Tomb]] was marked by a four-part symbol.<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The Ancestor’s [[Tomb]] is a structure added to seal and control [[labyrinth]] exits.<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] entered the [[labyrinth]] through the Ancestor’s [[Tomb]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The Ancestor’s [[Tomb]] contains a stone door that [[Lindon]] approached.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The Ancestor’s [[Tomb]] is located just outside the former site of the [[Heaven’s Glory School]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

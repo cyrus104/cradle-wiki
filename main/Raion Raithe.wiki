@@ -21,8 +21,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|Raion Raithe is a [[Visiri]] mage and [[Titan Knight]] characterized by his scarlet skin, white hair, and three eyes, including a golden eye on his forehead. A former member of the [[Titan Force]] and current [[Knight of The Last Horizon]], this elite combatant has spent much of his career killing monsters and dissecting moon-sized insectoid creatures. As the sole living master of the Aetheric [[sword]] art [[Dance of a Burning World]], he utilizes a red [[force-blade]] and crimson energy to fight, often appearing as a red flash surrounded by a burning [[aura]]. During his service, he piloted a [[Divine Titan]] mech, though he struggled with mental seals and lost control of the machine when it was on the verge of destruction. Now a member of the crew on the bridge of [[The Last Horizon]], Raion continues to serve as a skilled warrior and friend to the narrator.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">59</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">59</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|Raion is a character with bright red skin and a golden eye in his forehead.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Raion has three eyes.<ref name="lh-01-the-captain-c10" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Raion Raithe]] is a fighter with scarlet skin, a third eye of brilliant gold, and white hair.<ref name="lh-01-the-captain-c13">''The Captain'', chapter 13</ref>}}</li>
@@ -82,14 +82,13 @@
 <li>{{spoiler|book=lh-01-the-captain|Raion's [[Divine Titan]] is a mech that was cracked and on the verge of destruction.<ref name="lh-01-the-captain-c45" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Raion Raithe]] is a member of the [[Titan Force]].<ref name="lh-01-the-captain-c47">''The Captain'', chapter 47</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Raion believes the [[Iron King]] is dead.<ref name="lh-01-the-captain-c48">''The Captain'', chapter 48</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|A red-skinned [[Visiri man]] with white hair and a golden third eye, Raion Raithe is a [[Knight of The Last Horizon]] and a former member of the [[Titan Force]]. During his service, he utilized his [[Combat Art]] to engage a slipwraith and physically hold two decks of his ship together, even demonstrating the ability to call [[Divine Titans]] while within [[Subspace]]. After tearing [[Starhammer]] apart and dividing an [[Undermaker]] ship with a sheet of fire, the skilled [[Combat Artist]] emerged onto the surface of [[Nyron Seven]]. Following various battles against [[Advocates]] and a mission to save his best friend, Raion remains focused on defeating the [[D’Niss Swarm]]-[[Queen]] [[Esh’kinaar]] and will not rest until the narrator is free.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">39</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">39</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|Raion is a crew member who can perform physical exercises at high speeds.<ref name="lh-02-the-engineer-c2">''The Engineer'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Raion Raithe]] is a [[Knight of The Last Horizon]].<ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Raion Raithe]] is a [[Visiri man]] with red skin and white hair.<ref name="lh-02-the-engineer-c3" />}}</li>
@@ -129,14 +128,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|Raion will not rest until the narrator is free.<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Raion Raithe]] battles in the sky with [[Advocates]].<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Raion is fighting [[Starhammer]].<ref name="lh-02-the-engineer-c53">''The Engineer'', chapter 53</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Raion Raithe is an immensely talented original [[Titan Knight]] and the [[Captain of the Titan Knights]] who pilots the [[Red Divine Titan]]. Despite being exiled from his family, he serves as a mentor to [[Omega]] and conducts tests for [[The Last Horizon]], such as evaluating Shyrax. While performing diplomatic work on [[Visiria]], he was forced to evacuate during the [[D’Niss invasion]]. During combat, Raion utilizes his [[Combat Art]], the [[Dance of a Burning World]], alongside a [[force-blade]] and a crimson flame shield. Though he was nearly lost to [[Hesh’ellik]] and required significant time to recover, he continues to fight alongside the narrator as a [[Red]] Knight.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">56</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">56</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|Raion is a [[Titan Knight]].<ref name="lh-03-the-knight-c2">''The Knight'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Raion bolted down the hallway.<ref name="lh-03-the-knight-c2" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Raion is someone [[Omega]] takes lessons from regarding having faith in friends.<ref name="lh-03-the-knight-c3">''The Knight'', chapter 3</ref>}}</li>
@@ -193,14 +191,13 @@
 <li>{{spoiler|book=lh-03-the-knight|Raion is a [[Red]] Knight.<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Raion uses a [[force-blade]] and a shield of crimson flame.<ref name="lh-03-the-knight-c44" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Raion has a private constellation of stars.<ref name="lh-03-the-knight-c44" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Raion Raithe is a scarlet-skinned, three-eyed ally of [[Omega]] who accompanies the narrator and has grown more capable since his battle with the [[Iron King]]. During a mission, he promised to locate missing components and utilized a mech to manage the ship's shields by supplementing them with crimson energy, even as he tended to a damaged [[Divine Titan]] covered in golden veins. While wearing an armored uniform and white gloves, he piloted the [[Red]] [[Titan]] and later attempted to persuade [[Horizon]] to allow his return to the fight. Following a recent return from [[Shadow Ark]], Raion found himself fighting Aila's daughter after his mech was disabled. Though he is not currently aboard the ship, the Captain anticipates his imminent arrival, noting that Raion is a person who follows his own sense of righteousness and once made a request that led Varic to spare Ryzer's life.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">27</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">27</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|Raion is a three-eyed individual who accompanies the narrator.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The narrator suspects [[Rellask]] has 'seen too much Raion' in him.<ref name="lh-04-the-pilot-c7">''The Pilot'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Raion puts his fists on his hips.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}</li>
@@ -228,8 +225,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|Raion is an ally of [[Omega]].<ref name="lh-04-the-pilot-c47" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Raion would not conquer planets.<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Raion was trying to persuade [[Horizon]] to let him back into the fight.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“It’s always good to have a mage aboard, though.”<ref name="lh-01-the-captain-c14" />}}

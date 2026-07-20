@@ -19,8 +19,8 @@
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Ryzer Raithe is the diplomat of the [[Raithe family]] and the brother of [[Raion]]. Residing in a luxurious villa on the edge of a sea on the planet [[Visiria]], he is characterized by his pale gold third eye and thinning white hair. During discussions regarding the possibility of war with [[Visiria]], Ryzer assisted [[Raion]] in securing an audience with [[Senator Cyclon]]. As an individual accompanying [[Raion]], Ryzer proves to be in his element while conducting meetings.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Ryzer Raithe]] is a shorter, softer version of his brother with thinning white hair and a pale gold third eye.<ref name="lh-03-the-knight-c13">''The Knight'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Ryzer Raithe]]'s home is a luxurious villa on the edge of a sea on the planet [[Visiria]].<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The narrator spoke to Ryzer about being willing to go to war with [[Visiria]].<ref name="lh-03-the-knight-c14" />}}</li>
@@ -28,15 +28,13 @@
 <li>{{spoiler|book=lh-03-the-knight|[[Ryzer Raithe]] is the diplomat of the [[Raithe family]].<ref name="lh-03-the-knight-c25">''The Knight'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Ryzer Raithe]] is [[Raion]]'s brother.<ref name="lh-03-the-knight-c25" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Ryzer is an individual accompanying [[Raion]] who is in his element during meetings.<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Ryzer Raithe]] is a person whom the [[Director]] of [[Planetary Security]] suggested taking into custody.<ref name="lh-04-the-pilot-c27">''The Pilot'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“Senator Cyclon!” Raion announced. “Ryzer worked hard to get me an audience.”<ref name="lh-03-the-knight-c17" />}}

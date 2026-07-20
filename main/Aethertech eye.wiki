@@ -7,28 +7,25 @@
 {{spoiler|book=lh-04-the-pilot|[[Aethertech]] eyes are advanced optical implants or technological components that function as sophisticated visual processors. These devices can emit various colors of light, most commonly orange, red, blue, or pink, and are sometimes integrated into artificial skin. They serve a wide range of high-level functions, including scanning environments for threats, projecting holographic data, and viewing information across spectrums invisible to standard human sight. Some users utilize these eyes to perceive the future path of waves, look into subspace, or track energy concentrations. While some models are considered old or standard, others represent masterwork technology capable of outperforming typical hardware through a combination of superior design and user skill. The eyes can also be used for piloting or receiving video streams directly into the user's vision, though environmental factors can occasionally cause interference with these transmissions.}}
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Omega]] possesses an [[Aethertech eye]] that blazes orange.<ref name="lh-02-the-engineer-c9">''The Engineer'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|An [[Aethertech eye]] can flare orange.<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Omega]] possesses an [[Aethertech eye]] used for peering through gun sights.<ref name="lh-03-the-knight-c3">''The Knight'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Omega]] possesses an [[Aethertech eye]].<ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila]] possesses [[Aethertech]] eyes used for scanning.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|An [[Aethertech eye]] is a gleaming orange ocular enhancement.<ref name="lh-04-the-pilot-c1" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

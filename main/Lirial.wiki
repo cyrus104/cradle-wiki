@@ -9,20 +9,19 @@
 {{spoiler|book=tg-03-city-of-light|Lirial is a [[Territory]] characterized by its gray plains and clear skies, though it features twelve shifting moons that dictate the movement of subtle forces. It is not a combat-oriented realm; instead, its historical role involves serving as watchful sentinels and scouts for the [[Elysian]] [[Travelers]]. The powers associated with Lirial focus on protection, revelation, and the gathering and preservation of information rather than destruction. [[Travelers]] from this [[Territory]] utilize various crystal artifacts, such as discs, orbs, lenses, and teardrop-shaped recording stones, to observe distant events or communicate. A unique restriction for [[Lirial Travelers]] is that summoned objects, such as a crystal ball, must remain in their original location within a sanctum to be successfully called. [[Traveling]] through Lirial is a complex process that requires precise calculations based on the patterns of its twelve moons, and the location of Lirial [[Gates]] shifts according to these lunar movements. [[Travelers]] may also utilize a personal [[Source]], a crystal linked to their [[essence]] that stores and converts energy to power Lirial devices. Additionally, the name Lirial refers to an entity or persona that can manifest as a figure made of white crystal and silver wire, capable of opening [[Gates]] or utilizing light-based abilities.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Lirial]] is a [[Territory]] that reveals, protects, and preserves.<ref name="tg-01-house-of-blades-c2">''House of Blades'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Lirial]] has gray plains and a sky with a dozen moons that shift in patterns.<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Lirial]] is a power that [[Leah]] can call upon through her bracelet.<ref name="tg-01-house-of-blades-c14">''House of Blades'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Lirial]] is a place where the crystal disc resides.<ref name="tg-01-house-of-blades-c21">''House of Blades'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Lirial is a [[Territory]] characterized by a clear sky and rare weather patterns, overseen by twelve shifting moons. This location serves as a place where power can be stored and summoned through the use of specific devices, and it is notably not a combat-oriented region. [[Leah's Source]] is situated within this territory, which can be accessed via a crystal bracelet. Despite the passage of time, Lirial remains a standing location.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Lirial]] is a place where power can be stored and called upon via devices.<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Lirial]] is a [[Territory]].<ref name="tg-02-crimson-vault-c3" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Leah's Source]] is located in [[Lirial]].<ref name="tg-02-crimson-vault-c3" />}}</li>
@@ -31,14 +30,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Lirial]] is not a combat-oriented [[Territory]].<ref name="tg-02-crimson-vault-c8" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Lirial]] is a location or entity that can be reached through a crystal bracelet.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Lirial]] is a location that still stands.<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|Lirial is a woman composed of white crystal and silver wire who manifests as a trio of stars whirling within a halo. As a territory containing the [[Crystal Fields]] and various desolate parts, she is an entity associated with the recording crystal and maintains a connection to [[Leah]]. Though unsuited for battle, this [[Incarnation]] displays both curiosity and resentment while examining a levitating javelin adorned with silver-white crystals. After [[Leah]] banished a scrying lens back to her, the [[Elysian Incarnation]] recruited seven [[Lirial Travelers]] and sent Lirial ahead to prepare the way. During a confrontation, Lirial raised her hands toward the far side of a building and utilized a star-net technique to attack [[Leah]] with white light and crystals.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Lirial]] will likely find a [[library]] and start reading.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Lirial]] is a [[Territory]] containing the [[Crystal Fields]].<ref name="tg-03-city-of-light-c4">''City of Light'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Lirial]] is an entity associated with the recording crystal.<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}</li>
@@ -56,8 +54,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[Lirial]] is a trio of stars whirling around in a halo.<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Lirial]] wore a dress of silver wire.<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Lirial]] used a star-net technique to attack [[Leah]] with crystals and white light.<ref name="tg-03-city-of-light-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|“I know. At least we’re sure Helgard and Lirial still stand.”<ref name="tg-02-crimson-vault-c23" />}}

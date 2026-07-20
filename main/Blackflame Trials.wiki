@@ -11,31 +11,28 @@
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|Located beneath the temple, the [[Blackflame]] [[Trials]] are composed of three distinct challenges designed for [[Rulers]], Strikers, and [[Enforcer techniques]]. Upon entering the trials, the participant's script is sealed behind them. These tests may involve assessments of foot speed, and the exit to the area is protected by an [[aura]] barrier. Notably, the sound produced by the [[Goldsign]] during the [[Endless Sword]] technique resembles the gong used within the trials.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Blackflame Trials]] consist of three separate trials: one for [[Enforcer technique]], one for [[Striker technique]], and one for [[Rulers]].<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|Entering the [[Blackflame Trials]] seals the script behind the participant.<ref name="cradle-03-blackflame-c11" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Blackflame Trials]] are located below the temple.<ref name="cradle-03-blackflame-c12">''Blackflame'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Blackflame Trials]] might test foot speed.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Blackflame Trials]] have an exit covered by an [[aura]] barrier.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The ringing of the [[Goldsign]] during the [[Endless Sword]] technique sounds like the gong from the [[Blackflame Trials]].<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|Running the [[Blackflame Trials]] alone is extremely expensive.<ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Blackflame Trials]] were a training experience for [[Yerin]].<ref name="cradle-04-skysworn-c15">''Skysworn'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Blackflame Trials]] are an event [[Yerin]] remembers.<ref name="cradle-06-underlord-c3">''Underlord'', chapter 3</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

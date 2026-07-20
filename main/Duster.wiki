@@ -10,24 +10,22 @@
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Duster is an alias used by [[Dalton Foster]], a man over seventy years old with gray hair, a beard, and two pairs of spectacles. Though he frequently forgets his false name, he is a skilled former gunsmith capable of assembling pistols or muskets that function in damp conditions. He carries a wide leather belt outfitted with numerous pockets and small tools, which gives him the appearance of a leatherworker. While he identifies as a [[Reader]], he notes that his abilities do not include significant fire magic. He has previously lived in the [[Capital]] and was traveling through [[Silverreach]].}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Duster]] is the false name used by [[Dalton Foster]].<ref name="ee-sea-01-of-sea-and-shadow-c7">''Of Sea and Shadow'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Duster is an elderly gunsmith characterized by a wild mane of gray hair and a thick, nest-like beard. As a [[Reader]] and the [[Vessel]] of a [[Soulbound]] craftsman, he possesses unique capabilities. During his confrontation with an [[Inquisitor]], he utilizes fire as a weapon.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Duster]] is an old man with a wild mane of gray hair and a nest of a beard.<ref name="ee-sea-02-of-dawn-and-darkness-c13">''Of Dawn and Darkness'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Duster]] is a [[Reader]].<ref name="ee-sea-02-of-dawn-and-darkness-c13" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Duster]] is an old gunsmith.<ref name="ee-sea-02-of-dawn-and-darkness-c13" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Duster]] is the [[Vessel]] of a [[Soulbound]] craftsman.<ref name="ee-sea-02-of-dawn-and-darkness-c13" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Duster]] is a character who uses fire against an [[Inquisitor]].<ref name="ee-sea-02-of-dawn-and-darkness-c13" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“Duster,” he said pointedly. Foster had a history of forgetting his false name.<ref name="ee-sea-01-of-sea-and-shadow-c7" />}}

@@ -6,11 +6,10 @@
 }}
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|One can become a [[Traveler of Elysia]] through training via compatibility tests or by being born to it.<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-03-city-of-light|Back then, there were two ways to become a Traveler of Elysia,” Rhalia continued. “You could be trained to do it, if you met the compatibility tests. Or, sometimes, you were born to it.<ref name="tg-03-city-of-light-c10" />}}

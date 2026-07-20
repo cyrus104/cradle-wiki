@@ -9,38 +9,35 @@
 {{spoiler|book=cradle-11-dreadgod|Black [[dragons]] were once the dominant rulers of their continent, possessing power that far exceeded even the [[Akura]] family. Historically, they held authority over gold [[dragons]], who served as a subordinate class beneath them. While their bloodline has been largely eradicated and their former influence diminished, they remain a significant presence through scattered descendants, remnants, and relics found throughout the continent. Their legacy includes willpower trials and unclaimed treasures that can offer immense power to heirs, though such inheritance carries the risk of overwhelming the individual's own identity. Physically, these [[dragons]] are described as massive, serpentine beings with black bodies, large wings, and powerful claws. Their eyes are characterized by dark voids containing fiery rings or red circles. They are beings of destruction, possessing a primal and savage form of [[madra]] that serves as the source for the [[Path of Black Flame]]. This energy is highly destructive and can be channeled into a specialized [[dragon]]'s breath. Despite their reputation for destruction, they were known to possess a sense of pride and honor that prevented them from engaging in shameful acts like the senseless slaughter of villages. In modern times, they are associated with the [[Blackflame Empire]] and appear in various forms, including tournament contestants such as a prisoner or fighters like [[Naian Blackflame]].}}
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The [[aura]] around [[Ekeri]]'s wound was black and red, indicating black [[dragons]].<ref name="cradle-05-ghostwater-c10">''Ghostwater'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|A member of Sophara's team, the black [[dragon]] possesses a long, snake-like body equipped with massive claws and two huge wings. Its eyes resemble those of [[Orthos]], appearing as solid darkness containing two fiery rings. This creature radiates the power of destruction and is capable of breathing a bar of darkness filled with red sparks.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The black [[dragon]] is part of Sophara's team.<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The black [[dragon]] has a long, snake-like body, two huge wings, and massive claws.<ref name="cradle-07-uncrowned-c14" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The black [[dragon]]'s eyes are like [[Orthos]]'—solid darkness with two fiery rings.<ref name="cradle-07-uncrowned-c14" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The black [[dragon]] breathes a bar of darkness with red sparks.<ref name="cradle-07-uncrowned-c14" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The black [[dragon]] radiates the power of destruction.<ref name="cradle-07-uncrowned-c14" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|The black [[dragons]] serve as the proud kings of the continent. For hundreds of years, a [[Herald Remnant]] belonging to one of these [[dragons]] remained frozen in time within a castle. During the events at [[Shatterspine Castle]], where several black [[dragons]] were present, one such [[dragon]] with shimmering red scales erupted from the basement. While inside the castle, the [[dragons]] were overtaken by dream madra.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|A black [[dragon]]'s [[Herald Remnant]] has been frozen in time for hundreds of years in a castle.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Black dragons]] are the kings of the continent and are very proud.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|A black [[dragon]] has red shimmering scales.<ref name="cradle-11-dreadgod-c10" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|A black [[dragon]] erupted from the basement of [[Shatterspine Castle]].<ref name="cradle-11-dreadgod-c13">''Dreadgod'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|There are black [[dragons]] in the castle.<ref name="cradle-11-dreadgod-c13" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Dream [[madra]] was taking over the black [[dragons]] in the castle.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

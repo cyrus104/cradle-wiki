@@ -7,34 +7,30 @@
 {{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] is a legendary starship characterized by its organic, bird-of-prey appearance. Measuring between four hundred and five hundred yards in length, the vessel features smooth metal hull plates that can glow in various colors such as blue-green, purple, or green. While some view the ship as a myth, it is regarded by others as a premier example of starship engineering. It possesses powerful [[Aethertech]] weaponry comparable to massive dreadnoughts despite its smaller size. Legendary and potentially exaggerated capabilities attributed to the ship include the ability to terraform entire systems, [[construct]] colonies instantly, freeze planetary motion, pierce planets, and transport crew across the galaxy without using [[Subspace]]. It is also rumored to be a single [[Zenith Device]] containing enchantments from multiple [[Archmagi]], an astral [[dragon]], and three [[World Spirits]]. The ship is inhabited by a [[World Spirit]] known as [[Horizon]], who can manifest physically or as a multi-colored holographic entity. [[Horizon]] serves as the vessel's consciousness and can interact with the crew through magic. The ship's history includes defeating a world-core entity and retrieving a rogue rover from a nightmare realm. Various individuals have been associated with the vessel, including a rumored Captain named [[Varic Vallenar]], an [[Engineer]], and a [[Pilot]].}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The narrator's mantle has a protective enchantment.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The narrator wears a mantle.<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The mantle bleeds into the psychic realm to provide mental defense.<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The narrator has layered extra protection onto their new mantle.<ref name="lh-02-the-engineer-c41">''The Engineer'', chapter 41</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Varic]] possesses a mantle that protects him from certain harms.<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The narrator's mantle provides protection from flames and smoke.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

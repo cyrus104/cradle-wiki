@@ -14,8 +14,8 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|Gilad is a genius [[Traveler]] hailing from the free city of [[Enosh]]. He possesses a [[Naraka brand]] on his right palm, which is marked by a red symbol that leaves streaks of light in the air as he moves. Through his unique abilities, he can summon fire from the sky and perform a technique that generates an almost-invisible ripple from his hand. As a [[Traveler]], he maintains significant bonds to two different [[Territories]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Gilad]] is a [[Traveler]] from the free city of [[Enosh]].<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Gilad]] has a red symbol on his palm that leaves streaks of light in the air.<ref name="tg-01-house-of-blades-c4" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Gilad]] can summon fire from the sky.<ref name="tg-01-house-of-blades-c4" />}}</li>
@@ -23,14 +23,13 @@
 <li>{{spoiler|book=tg-01-house-of-blades|[[Gilad]] is a genius.<ref name="tg-01-house-of-blades-c16" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Gilad]]'s right palm carries his [[Naraka brand]].<ref name="tg-01-house-of-blades-c16" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Gilad]] can perform a technique that creates an almost-invisible ripple from his hand.<ref name="tg-01-house-of-blades-c16" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|The [[Traveler]] Gilad, who wields a long-handled brand, was discovered lying unconscious on the grass outside [[Elysia]]. During his journey, he infiltrated a [[Damascan]] outpost in [[Naraka]] and successfully opened a Gate to return to his own world. While attempting a [[Helgard]] summons, he was cut off mid-chant, yet he still managed to singlehandedly overpower a squad of [[Travelers]] sent by [[Damasca]] along with the Itasas Tribesmen. Utilizing his abilities, he can summon a bright orange fireball composed of screaming faces, and he was later seen standing behind [[Alin]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Gilad]] singlehandedly overpowered the Itasas Tribesmen and a squad of [[Travelers]] sent by [[Damasca]].<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Gilad]] infiltrated a [[Damascan]] outpost in [[Naraka]] and opened a Gate to travel back to their world.<ref name="tg-02-crimson-vault-c10" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Gilad]] can summon a bright orange fireball made of screaming faces.<ref name="tg-02-crimson-vault-c10" />}}</li>
@@ -40,8 +39,7 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Gilad]] is a character who was lying unconscious on the grass outside [[Elysia]].<ref name="tg-02-crimson-vault-c11" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Gilad]] is a person who uses a long-handled brand.<ref name="tg-02-crimson-vault-c19">''The Crimson Vault'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Gilad]] is a [[Traveler]].<ref name="tg-02-crimson-vault-c21">''The Crimson Vault'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|"They don't call me a genius for nothing, I guess."<ref name="tg-01-house-of-blades-c16" />}}

@@ -9,23 +9,21 @@
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|Born from the power of the [[Weeping Dragon]], the Storm [[Core]] is an impossible treasure that manifests as a sapphire-like sphere the size of [[Reigan Shen]]'s torso. This artifact emits a beam of blue energy and contains crackling lightning within its form. The core's immense power even gave rise to a natural spirit shaped like a massive stormcloud with two thick, arm-like limbs. Historically, the object was positioned upon an altar that now serves as the resting place for the [[Blood Core]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The [[Storm Core]] is an impossible treasure born from the [[Weeping Dragon]]'s power.<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Storm Core]] is a shining sphere the size of [[Reigan Shen]]'s torso that looks like a sapphire and emits a beam of blue energy.<ref name="cradle-10-reaper-c7" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|Lightning crackles inside the [[Storm Core]].<ref name="cradle-10-reaper-c7" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Storm Core]]'s power formed a natural spirit in the shape of a huge stormcloud with two limbs resembling thick arms.<ref name="cradle-10-reaper-c7" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Storm Core]] was previously placed on the altar where the [[Blood Core]] is now being placed.<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Storm Core]] is an artifact placed on an altar.<ref name="cradle-10-reaper-c8" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Storm Core]] is located deeper in the [[labyrinth]] and powers [[Samara]]’s ring.<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

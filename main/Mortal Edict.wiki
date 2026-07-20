@@ -7,21 +7,19 @@
 {{spoiler|book=lh-04-the-pilot|Mortal [[Edict]] is a powerful entity characterized by the magic of death, representing the unavoidable and certain end of all things. She serves as a force against stagnation and aims to bring an end to those who are immortal. Her power is immense, far exceeding the capabilities of weaponry like the [[Zenith Cannon]], which was modeled after her own abilities. In combat, she can manifest in a star form featuring a multicolored or rainbow-colored sun. While she has demonstrated intense aggression and a desire to fight, she has also shown moments of fascination with technology and can be influenced by the presence of others.}}
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Mortal Edict]] is something for which someone qualified must be found.<ref name="lh-03-the-knight-c23">''The Knight'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Mortal Edict]] is sitting on [[Sola]]'s lap.<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Mortal Edict]]'s form is a rainbow star.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Mortal Edict]] is a weapon with immense capability.<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]] has lost his [[Mortal Edict]].<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

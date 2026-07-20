@@ -9,39 +9,35 @@
 {{spoiler|book=cradle-13-threshold|Archlords represent a high tier of power within the hierarchy of [[sacred artists]], positioned above Underlords and [[Overlords]] but below [[Heralds]] and [[Monarchs]]. Reaching this stage requires a specific revelation centered on the concept of the future, whereas lower stages focus on the past or present. While most individuals in this realm do not achieve the specialized title of [[Sage]], [[Sages]] are considered to be at the peak of the Archlord level. The transition from an Archlord to a [[Herald]] is often achieved through sheer brute force, though many practitioners remain stuck at the Archlord stage due to a lack of guidance on how to advance further. In terms of combat and influence, Archlords are formidable; they possess immense spiritual pressure, can produce advanced [[soulfire]], and are capable of utilizing powerful sacred instruments. Their presence is significant in large-scale conflicts, as war-bands often include at least one Archlord. Some highly advanced Archlords possess [[Remnants]] so potent they appear physically real, and others have achieved levels of power that allow them to resist the influence of powerful entities. While they are incredibly resilient and can withstand significant damage, they remain vulnerable to those at higher stages of advancement.}}
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Archlord]] is a rank or level of item/person above [[Overlord]].<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|Archlords are the most advanced subjects in the [[library]].<ref name="cradle-05-ghostwater-c13">''Ghostwater'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|An [[Archlord]]'s memories are difficult for those not advanced enough to tolerate.<ref name="cradle-05-ghostwater-c13" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The mission would be suicidal if they had an [[Archlord]].<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|Archlords conduct mental tests including reaction speed, memory, force of will, and resistance to incursion.<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|An Archlord represents a level of power greater than [[Gold]], though the true nature of entities like [[Heralds]] and [[Monarchs]] remains a secret to those below this stage. Achieving this rank requires meditating on the future, and while [[Ziel]] reached this level at a young age, others like Sophara face the risk of permanent advancement failure. Practitioners must build a solid foundation before developing authority, as stable connections to the [[Sword Icon]] or early authority are rare. Reaching the peak of Archlord through traditional means is necessary to become a true [[Herald]], at which point the distinctions between [[sacred artists]] and beasts vanish. While Archlords are ineligible for tournaments and may not interfere with an [[Underlord]], their immense strength is evident when [[Eithan]]'s power covered an entire tower.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">22</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">22</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The black [[dragon]] is deduced to be equivalent to an [[Archlord]].<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|An [[Archlord]] is a level of power or entity type.<ref name="cradle-08-wintersteel-c3" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Archlords are more powerful than [[Gold]].<ref name="cradle-08-wintersteel-c3" />}}</li>
@@ -64,42 +60,39 @@
 <li>{{spoiler|book=cradle-08-wintersteel|To become a true [[Herald]], one must advance to the peak of [[Archlord]] in the traditional way.<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Archlords gather [[Golds]] in front of a tall, scripted stone during emergencies.<ref name="cradle-08-wintersteel-c26" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Eithan]]'s [[Archlord]] power covered the entire tower.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
 {{spoiler|book=cradle-09-bloodline|The title of Archlord is held by [[Ziel]], a rank that signifies enough power for some individuals to depart [[Cradle]] through their own strength. For [[Dross]], reaching the level of Archlord represents a potential solution to his ongoing problems. [[Eithan]] also holds this title, having utilized [[soulfire]] to reinforce his Archlord body. Meanwhile, [[Yerin]]'s current instability may be attributed to her failure to achieve the Archlord rank first.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|Some Archlords can leave [[Cradle]] by their own power.<ref name="cradle-09-bloodline-c2">''Bloodline'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Yerin]]'s instability might be because she did not hit [[Archlord]] first.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Eithan]] is an [[Archlord]].<ref name="cradle-09-bloodline-c7">''Bloodline'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Archlord]] is a title used for [[Ziel]].<ref name="cradle-09-bloodline-c13">''Bloodline'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Eithan]] strengthened his [[Archlord]] body with [[soulfire]].<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Advancing to [[Archlord]] would solve [[Dross]]'s problems.<ref name="cradle-09-bloodline-c19" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|The Archlord is a specific rank or entity referenced by [[Eithan]]. Reaching this stage of advancement requires an individual to possess insight into their own future. Those who achieve this level produce the highest form of [[soulfire]], though [[Yerin]] has not yet reached this stage. Historical memories reveal that a group of three Archlords once betrayed one another following the discovery of treasure.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|A memory shows a group of three Archlords who betrayed each other after finding treasure.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|Advancing to [[Archlord]] requires insight into one's future.<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Eithan]] mentions needing to speak with the [[Archlord]].<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Yerin]] has not yet advanced to the [[Archlord]] stage.<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|Archlords produce the highest form of [[soulfire]].<ref name="cradle-10-reaper-c13" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Archlord]] is a rank or entity mentioned by [[Eithan]].<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|The Archlord is a stage of power held by members of the [[dragon]] nobility, such as [[Helethshan]], an [[Everwood]] Archlord composed of angular blue crystal with a [[pyramid]] over his head. These entities possess gemstones that carry their practiced [[madra]] control and focused will, and they are positioned near [[Redmoon]]. During the events at [[Moongrave]], [[Helethshan]] tested the boundary field by hurling fifty trees at the walls, while other Archlords joined together to engage [[Lords]] and [[Ladies]] of their own level. This rank requires an individual to decide who they want to be, a progression achieved by [[Lindon]] after [[Ziel]] had already reached the stage without becoming a peak Archlord.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The gemstones carried an [[Archlord]]'s focused will and practiced [[madra]] control.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Archlord]] is a blue-crystal entity.<ref name="cradle-11-dreadgod-c3" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Archlord]] is covered in angular blue crystal and has a [[pyramid]] over his head.<ref name="cradle-11-dreadgod-c3" />}}</li>
@@ -115,14 +108,13 @@
 <li>{{spoiler|book=cradle-11-dreadgod|[[Archlord]] advancement involves deciding who one wants to be.<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Archlords of [[Moongrave]] can focus attacks on a target.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Archlords were present in [[Mercy]]'s office.<ref name="cradle-11-dreadgod-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|The Archlord represents a powerful advancement level that is determined by the individual rather than the heavens. Those following the [[Path of Seven Pages]] can reach the peak of this stage, a milestone that allows for a clearer sensing of [[Icons]]. While Archlords are formidable figures who may carry massive swords and possess distinct eyes featuring colored circles, they remain subject to authority. For instance, [[Charity]] issues orders to her Archlords, and an Archlord has been known to kneel before [[Northstrider]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Archlord]] is an advancement level.<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Ziel]] expects to reach the peak of [[Archlord]] soon.<ref name="cradle-12-waybound-c4">''Waybound'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|At peak [[Archlord]], one can sense [[Icons]] more clearly.<ref name="cradle-12-waybound-c7">''Waybound'', chapter 7</ref>}}</li>
@@ -133,15 +125,13 @@
 <li>{{spoiler|book=cradle-12-waybound|The [[Archlord]] carries a massive [[sword]].<ref name="cradle-12-waybound-c15">''Waybound'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|Archlords can have black eyes with circles of bright red or blue eyes with circles of white.<ref name="cradle-12-waybound-c17">''Waybound'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|An [[Archlord]] kneels before [[Northstrider]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Archlord]] is a level of strength that the [[Mist Sage]] possesses at her base.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-07-uncrowned|“Now we come to the mental tests,” the Archlord continued. “Reaction speed, memory, force of will, and resistance to incursion.”<ref name="cradle-07-uncrowned-c2" />}}

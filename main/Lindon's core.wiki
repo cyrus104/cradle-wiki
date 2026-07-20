@@ -7,35 +7,31 @@
 {{spoiler|book=cradle-09-bloodline|[[Lindon]]'s core is the physical manifestation of his soul, located just below his navel where all lines of [[madra]] connect. It is often visualized as a rolling sphere of blue-white light. The core serves as the central point for his spiritual strength and [[madra]], though its quality and density are key indicators of his advancement. While most individuals possess a single core, [[Lindon]] is unique in possessing two cores, one of which is notably weaker than the other. As [[Lindon]] progresses through different stages of cultivation, his core undergoes transformations. He has transitioned from a [[Copper]] core to an [[Iron core]] through a process of condensation and refinement, which also results in the transformation of his physical body. He also possesses a [[Blackflame core]] and a pure core, the latter of which provides him with high-quality [[madra]] that can be used for specialized techniques and [[Soulsmithing]]. The loss or destruction of the core is considered a catastrophic event, potentially leaving an individual unable to use [[scripts]] or remnants and effectively stripping them of their spiritual capabilities.}}
 
 == Unsouled ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|[[Lindon's core]] is located just beneath the navel and is where all lines of [[madra]] connect.<ref name="cradle-01-unsouled-c3">''Unsouled'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Lindon]] visualizes his core as a rolling ball of blue-white light.<ref name="cradle-01-unsouled-c3" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|[[Lindon's core]] was swollen with energy and ready to advance into [[Iron]].<ref name="cradle-02-soulsmith-c16">''Soulsmith'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Lindon]] has a [[Copper]] core.<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Lindon]] has an [[Iron core]].<ref name="cradle-02-soulsmith-c18" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]]'s pure core was stained a deeper blue by the [[Sylvan Riverseed]].<ref name="cradle-08-wintersteel-c18">''Wintersteel'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Lindon]]'s pure core was mostly full.<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

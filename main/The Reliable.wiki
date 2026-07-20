@@ -9,16 +9,15 @@
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|The Reliable is a [[Navigator]] ship commanded by [[Captain Tommison]]. Resembling an animated, floating conch shell, the vessel is shaped like a giant shell. There are indications that the ship's crew may be located within the tower.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Reliable]] is a ship commanded by [[Captain Tommison]].<ref name="ee-sea-03-of-kings-and-killers-c5">''Of Kings and Killers'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Reliable]] is described as looking like a floating, animated conch shell.<ref name="ee-sea-03-of-kings-and-killers-c5" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Reliable]] is a [[Navigator]] ship that looks like a giant conch shell.<ref name="ee-sea-03-of-kings-and-killers-c8">''Of Kings and Killers'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Reliable]] is a ship.<ref name="ee-sea-03-of-kings-and-killers-c8" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Reliable]] is a ship whose crew may be in the tower.<ref name="ee-sea-03-of-kings-and-killers-c10">''Of Kings and Killers'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Reliable]] is a crew or ship.<ref name="ee-sea-03-of-kings-and-killers-c10" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

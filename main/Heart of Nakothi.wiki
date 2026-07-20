@@ -11,8 +11,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Heart]] of [[Nakothi]] is a vile artifact belonging to the [[Dead Mother]] that functions as an organ capable of squirting gray-green blood. This singing object can be bonded with, though it possesses the power to erode the mind and pry at a [[Reader]]'s senses. While many seek the [[Heart]] to crown or bind a new [[Emperor (Elder Empire)|Emperor]], the current [[Emperor (Elder Empire)|Emperor]] managed to keep the artifact at bay for over fifteen hundred years. During recent events, the [[Chronicler]] was seen clutching the [[Heart]], which had grown stronger since its last sighting by [[Calder]]. Although the [[Consultants]] intended to destroy the object, [[Naberius Clayborn]] raised it into the air before its influence eroded his mind, eventually leading to [[Shera]] taking possession of it.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Heart of Nakothi]] is the heart of the [[Dead Mother]].<ref name="ee-sea-01-of-sea-and-shadow-c9">''Of Sea and Shadow'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Heart of Nakothi]] is an object used to raise or bind an [[Emperor (Elder Empire)|Emperor]].<ref name="ee-sea-01-of-sea-and-shadow-c9" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Chronicler]] was clutching the [[Heart of Nakothi]].<ref name="ee-sea-01-of-sea-and-shadow-c11">''Of Sea and Shadow'', chapter 11</ref>}}</li>
@@ -28,14 +28,13 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Heart of Nakothi]] is a vile organ that erodes the mind and pries at [[Reader’s senses]].<ref name="ee-sea-01-of-sea-and-shadow-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Shera]] took the [[Heart of Nakothi]].<ref name="ee-sea-01-of-sea-and-shadow-c25">''Of Sea and Shadow'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Heart of Nakothi]] eroded [[Naberius]]' mind.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Heart]] of [[Nakothi]] is a fist-sized, pulsing mass characterized by its sickly gray color and green veins that pump sludge. While [[Emperor (Elder Empire)|the Emperor]] has used this still-beating organ for centuries to achieve immortality, the [[Blackwatch]] has actively hunted the object. During a mission to retrieve or destroy it, [[Shera]] and [[Meia]] encounter [[Watchmen]] digging at the [[Heart]] as it is being cut free from its bonds. Held by [[Calder Marten]], the object laughs with distant malice and croons whispered messages to those nearby. Although it can be restrained by invested rags or kept in a pewter cage, destroying the [[Heart]] without draining its power risks releasing [[Nakothi]]'s will and potentially killing or resurrecting everyone on the [[island]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">25</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">25</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Heart of Nakothi]] is described as a gray heart with veins of green that pumps sludge.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Blackwatch]] is hunting for the [[Heart of Nakothi]].<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Heart of Nakothi]] is an object [[Shera]] wants to keep buried.<ref name="ee-shadow-01-of-shadow-and-sea-c6" />}}</li>
@@ -61,27 +60,25 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nakothi]]'s [[Heart]] can be bound with rags that are invested to restrain power.<ref name="ee-shadow-01-of-shadow-and-sea-c19" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Emperor]] clutches the [[Heart of Nakothi]].<ref name="ee-shadow-01-of-shadow-and-sea-c20">''Of Shadow and Sea'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Heart of Nakothi]] is an object on the [[island]].<ref name="ee-shadow-01-of-shadow-and-sea-c21">''Of Shadow and Sea'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Heart]] of [[Nakothi]] was first described by [[Jerri]] as a comparison for a mass of gray-green flesh. During the events of the story, [[Calder]] threw the object into the sea before later delivering it. Ultimately, the [[Heart]] was utilized in a debacle and served as a component in the construction of the organism created by [[Kelarac]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Heart of Nakothi]] is a concept or object that [[Jerri]] compares a mass of gray-green flesh to.<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] threw [[Nakothi]]’s [[Heart]] into the sea.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Nakothi]]'s [[Heart]] was used to build the organism [[Kelarac]] created.<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Heart of Nakothi]] was involved in a debacle.<ref name="ee-sea-02-of-dawn-and-darkness-c8" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Heart of Nakothi]] is an object that [[Calder]] delivered.<ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Although the [[Consultants]] have been aware of the [[Heart]] of [[Nakothi]] for many years, the entity unexpectedly vanished. This mysterious object possesses a voice similar to [[Syphren]]'s and croons a terrible song while whispering of its desire to be reborn. [[Calder Marten]] eventually assisted in unearthing a second [[Heart]] of [[Nakothi]], which serves as a component capable of resurrecting [[Emperor (Elder Empire)|the Emperor]] through the power of the [[Dead Mother]]. However, there remains a danger that [[Emperor (Elder Empire)|the Emperor]] might lose himself to the influence of the [[Heart]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Consultants]] have known about the [[Heart of Nakothi]] for years.<ref name="ee-shadow-02-of-darkness-and-dawn-c3">''Of Darkness and Dawn'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Heart of Nakothi]] has vanished.<ref name="ee-shadow-02-of-darkness-and-dawn-c4">''Of Darkness and Dawn'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[The Emperor]] might lose himself to the [[Heart of Nakothi]].<ref name="ee-shadow-02-of-darkness-and-dawn-c5">''Of Darkness and Dawn'', chapter 5</ref>}}</li>
@@ -89,25 +86,22 @@
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Calder Marten]] helped unearth the second [[Heart of Nakothi]].<ref name="ee-shadow-02-of-darkness-and-dawn-c13">''Of Darkness and Dawn'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Nakothi]]'s [[Heart]] is a component that can bring [[Emperor (Elder Empire)|the Emperor]] back to [[life]] via the [[Dead Mother]]'s power.<ref name="ee-shadow-02-of-darkness-and-dawn-c14">''Of Darkness and Dawn'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Heart of Nakothi]] is an entity that croons a terrible song and whispers to be reborn.<ref name="ee-shadow-02-of-darkness-and-dawn-c20">''Of Darkness and Dawn'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Emperor]] used a [[Heart of Nakothi]] to maintain his [[life]].<ref name="ee-sea-03-of-kings-and-killers-c19">''Of Kings and Killers'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Heart of Nakothi]] might be speaking through [[Emperor (Elder Empire)|the Emperor]].<ref name="ee-shadow-03-of-killers-and-kings-c13">''Of Killers and Kings'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Heart of Nakothi]] was stabbed.<ref name="ee-shadow-03-of-killers-and-kings-c19">''Of Killers and Kings'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera's shears]] hold [[Elder Intent]] from the [[Heart of Nakothi]].<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Heart of Nakothi]] is a lump of gray-green flesh.<ref name="ee-shadow-03-of-killers-and-kings-c26">''Of Killers and Kings'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|"Another Heart of Nakothi. We can’t very well raise a mortal man Emperor, can we?"<ref name="ee-sea-01-of-sea-and-shadow-c9" />}}

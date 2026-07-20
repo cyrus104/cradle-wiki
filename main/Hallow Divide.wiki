@@ -14,8 +14,8 @@
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|As a defensive [[Combat Art]] used by [[Omega’s daughter]], Hallow [[Divide]] is a weapon held by [[Aila Escalon]] that projects circular shields. This [[Zenith Device]], also known as the [[Zenith Blade]], has buried [[World Spirits]] and exists in a state where other copies have disappeared. The entity manifests as a character projecting an orange digital face, declaring that strong [[Aether]] benefits the health of the galaxy and potentially possessing the power to sever contracts. While it serves as a territory where [[Horizon]] champions fight, [[Aila Escalon]] also utilizes it as a devastating technique to stop Shyrax's attack by creating a cage of orange slashes. This [[Combat Art]] may also have the capability to sustain other [[Combat Arts]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">14</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Hallow Divide]] is a weapon held by [[Aila Escalon]].<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Hallow Divide]] is a defensive [[Combat Art]] used by [[Omega’s daughter]].<ref name="lh-04-the-pilot-c14" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Hallow Divide]] projects circular shields around [[Aila]].<ref name="lh-04-the-pilot-c14" />}}</li>
@@ -30,8 +30,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Hallow Divide]] may be able to sustain [[Combat Arts]].<ref name="lh-04-the-pilot-c44" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Hallow Divide]] is a technique that can stop Shyrax's attack.<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Hallow Divide]] is a technique used by [[Aila Escalon]] to create a cage of orange slashes.<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“A strong Aether is good for the health of the galaxy,” Hallow Divide declared.<ref name="lh-04-the-pilot-c23" />}}

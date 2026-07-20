@@ -4,14 +4,13 @@
 }}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Azure Moon Reigns]] is a technique that combines a [[Forger]] and [[Ruler technique]].<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Azure Moon Reigns]] is a [[Ruler technique]] that pushes against water in the body to slow and make the target clumsy.<ref name="cradle-08-wintersteel-c16" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Azure Moon Reigns]] is a technique that gathers [[water aura]] and [[madra]] into a floating blue light.<ref name="cradle-08-wintersteel-c16" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Azure Moon Reigns]] is a technique used by Sophara that creates a sphere of sapphire [[madra]] and [[aura]].<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

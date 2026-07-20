@@ -7,29 +7,26 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The Heartlands represent the birthplace of humanity and a specific territory once ruled by [[Nakothi]]. The region is inhabited by Heartlanders, a people characterized by dark or black skin, and they are intended to govern their own lands independently. While the area has experienced periods of violent chaos, it has also seen eras of uneasy peace and equilibrium. The territory is situated within the larger [[Empire]], though it has lacked a [[Regent]] at certain times, leading to concerns regarding potential anarchy. Historically, [[Nakothi]] utilized the region for human corpses rather than living inhabitants.}}
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Heartland]] is a location.<ref name="ee-shadow-01-of-shadow-and-sea-c5">''Of Shadow and Sea'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Heartlands was once [[Nakothi's territory]] and is the birthplace of humanity.<ref name="ee-shadow-01-of-shadow-and-sea-c16">''Of Shadow and Sea'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Heartlanders rule the [[Heartland]].<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The Heartlands currently has no [[Regent]].<ref name="ee-shadow-02-of-darkness-and-dawn-c4">''Of Darkness and Dawn'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The Heartlands is a region where [[Lucan]]'s disguise originated.<ref name="ee-shadow-02-of-darkness-and-dawn-c7">''Of Darkness and Dawn'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Heartland]] is a location mentioned by the old man.<ref name="ee-shadow-02-of-darkness-and-dawn-c7" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Heartlands experienced violent chaos before settling into an unsteady equilibrium.<ref name="ee-shadow-03-of-killers-and-kings-c9">''Of Killers and Kings'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

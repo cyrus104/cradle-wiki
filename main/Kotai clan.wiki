@@ -7,27 +7,24 @@
 {{spoiler|book=cradle-06-underlord|The [[Kotai]] clan is a prominent and great clan within the [[Empire]], frequently appearing alongside the [[Naru clan]] as one of the most common names among [[sacred artists]]. Members of this clan are characterized by their gray skin and often utilize stone-based abilities, such as the massive stone elephants that bear their emblem or specialized limbs made from stone-[[madra]] [[Remnants]]. The clan holds significant responsibilities, including manning the defensive wall along the [[Trackless Sea]] to protect against ocean tribes and managing various duties such as patrolling borders, executing criminals, and returning runaways from the [[Stonedeep Mines]]. Notable figures include [[Kotai Shou]], a grizzled veteran and former sea captain with a stone-[[madra]] limb, and [[Kotai Taien]]. The clan's leadership includes an [[Underlord]] who possesses a stone gauntlet for a hand.}}
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Kotai clan]] has not yet made a statement.<ref name="cradle-03-blackflame-c3">''Blackflame'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Renfei]] fought with the [[Kotai clan]].<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|The [[Kotai clan]] is a great clan.<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Kotai clan]] is a major clan.<ref name="cradle-04-skysworn-c14" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Kotai clan]] has massive stone elephants draped with their emblem.<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

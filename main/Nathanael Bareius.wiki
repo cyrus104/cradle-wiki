@@ -16,44 +16,40 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|Nathanael Bareius, also known as [[Naberius Clayborn]] or [[Lord]] Bareius, is a prominent and immensely wealthy figure within the [[Aurelian Empire]]. He serves as the [[Guild]] Head of [[Kanatalia]] and is a leader within the [[Alchemist's Guild]]. Described as a polished, bookish man with dark, wavy hair and thick-rimmed glasses, he often presents himself with a theatrical or business-like demeanor, frequently wearing high-quality, tailored suits. His background includes heritage from both [[Erin]] and [[Vandenyas]]. As a powerful political and economic player, Bareius is noted for his extensive global business connections and his tendency to prioritize profit and stability over personal sentiment. He is a master negotiator who has been described as a snake-like figure, often using his wealth and private security forces to navigate conflicts. While some view him as a mythic figure of immense influence, others see him as untrustworthy. His role in the empire is significant enough that he has been discussed as a potential candidate for the throne, though his survival and true intentions remain subjects of contention among various [[Guild]] leaders and officials.}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Nathanael Bareius]] is a source of [[Shiftapple Ninety-six]].<ref name="ee-sea-01-of-sea-and-shadow-c2">''Of Sea and Shadow'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Nathanael Bareius]] will do everything he can to avoid a war.<ref name="ee-sea-01-of-sea-and-shadow-c14">''Of Sea and Shadow'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Nathanael Bareius]] is a person whose term for a mood was used.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Nathanael Bareius]] is a potential leader of the [[Aurelian Empire]].<ref name="ee-sea-01-of-sea-and-shadow-c28" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nathanael Bareius]] is the [[Guild]] Head of [[Kanatalia]].<ref name="ee-shadow-01-of-shadow-and-sea-c7">''Of Shadow and Sea'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Lord]] Bareius gave [[Meia]] a canister with a pink cap.<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nathanael Bareius]] is the [[Head of the Alchemist’s Guild]] and the richest man in the world.<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Nathanael Bareius]] is a person whose handiwork [[Meia]] is familiar with.<ref name="ee-sea-02-of-dawn-and-darkness-c2">''Of Dawn and Darkness'', chapter 2</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Nathanael Bareius]] was considered the father of Bliss.<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Bareius is an alchemist.<ref name="ee-shadow-02-of-darkness-and-dawn-c21" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Nathanael Bareius is a bespectacled alchemist from [[Kanatalia]] who serves as the [[Guild]] Head of the [[Alchemists]]. Recognized as the richest man in the world, he funds alchemical endeavors and owns various printing-houses. During a meeting, he may utilize a proxy, though he is also seen present and shuffling through papers. While Bareius has issued orders to [[Rina]] and claimed to be the father of Bliss, she does not consider him her father. Despite knowing that Bliss is the Head of the [[Blackwatch]], he avoids harming her because she is difficult to replace, even though she remains someone who can seek revenge against him.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Bareius is an alchemist who may send a proxy to the meeting.<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Nathanael Bareius]] is from [[Kanatalia]].<ref name="ee-sea-03-of-kings-and-killers-c4" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Bareius is funding the alchemists.<ref name="ee-sea-03-of-kings-and-killers-c5">''Of Kings and Killers'', chapter 5</ref>}}</li>
@@ -69,14 +65,13 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Nathanael Bareius]] is someone Bliss can seek revenge on.<ref name="ee-sea-03-of-kings-and-killers-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Nathanael Bareius]] is Bliss's father.<ref name="ee-sea-03-of-kings-and-killers-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Bliss does not consider [[Nathanael Bareius]] to be her father.<ref name="ee-sea-03-of-kings-and-killers-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|Nathanael Bareius is a bookish [[Guild]] Head with slicked-back hair and thick-rimmed glasses who possesses immense wealth, earning him a reputation as the richest man in the world. While he expressed hesitation regarding a peace deal between the [[Guilds]], he maintained his power through hundreds of global business contacts and ownership of various printing-houses. As a member of [[Estyr]]'s group, he stood to the leader's right and chose to pull his alchemists away from the [[Champions]]. During a period when he was under the influence of an augmentation potion, he even intervened to wave [[Shera]] back from falling. Despite his status as a powerful equal to [[Shera]] and a potential sponsor for Yala, he remained a man of nervous energy who maintained paranoid levels of protection against assassination. Ultimately, his actions and associations led [[Shera]] to suspect him of conspiring with Jyrine and [[Calder]] [[Marten]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">20</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">20</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Bareius is hesitant about a deal for peace between the [[Guilds]].<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Bareius is unlikely to disarm regardless of what he says.<ref name="ee-shadow-03-of-killers-and-kings-c4">''Of Killers and Kings'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Nathanael Bareius]] is a bookish man with slicked-back hair and thick-rimmed glasses.<ref name="ee-shadow-03-of-killers-and-kings-c4" />}}</li>
@@ -97,8 +92,7 @@
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Bareius walked to the edge of the deck of [[The Final Solution]].<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Bareius has protections against assassination that have reached paranoid levels.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Bareius is a person [[Shera]] suspected of conspiring with [[Calder]] [[Marten]] and Jyrine.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|“I no longer recognize Nathanael Bareius as my father,” Bliss said, and her voice had grown cold.<ref name="ee-shadow-02-of-darkness-and-dawn-c21" />}}

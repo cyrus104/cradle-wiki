@@ -4,19 +4,17 @@
 }}
 
 == Unsouled ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|The [[Jade stage]] is a level of [[sacred artist]].<ref name="cradle-01-unsouled-c2">''Unsouled'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Jade]] is a stage of advancement.<ref name="cradle-01-unsouled-c3">''Unsouled'', chapter 3</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The [[Jade stage]] is weaker than the [[Gold stage]].<ref name="cradle-09-bloodline-c8">''Bloodline'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-09-bloodline|"I don’t think you understand how much stronger they are than the Jades than I’m not sure I understand."<ref name="cradle-09-bloodline-c8" />}}

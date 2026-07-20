@@ -7,33 +7,29 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The Guilds are a collection of ten influential organizations that serve as the primary pillars of the [[Empire]]. Historically, these groups have functioned as a private governing force that manages the world through their specialized expertise, often maintaining an outdated imperial system to preserve their own power. While they are seen by some as essential for stability, others view them as self-serving entities that prioritize profit or political control over the needs of the people. The Guilds are divided into various categories, including independent groups such as the [[Alchemists]], [[Consultants]], [[Greenwardens]], and the [[Luminian Order]], alongside others like the [[Magisters]], [[Champions]], [[Navigators]], [[Blackwatch]], and [[Witnesses]]. Some Guilds, such as the [[Consultants]], are known for producing highly standardized members, while others, like the [[Greenwardens]] (formerly the Sisters of Peace), possess unique abilities such as healing and crop restoration. Certain organizations, including the [[Imperial Guard]], the [[Blackwatch]], and the [[Consultants]], utilize a system where leadership is tied to [[Soulbound]] individuals who bond with specific historical vessels. Despite their immense influence and wealth, the Guilds face modern challenges, including internal hierarchy disputes, political shifts following the death of [[Emperor (Elder Empire)|the Emperor]], and external threats from groups like the [[Sleepless]] cabal and the [[Great Elders]].}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|There are ten [[Guilds]].<ref name="ee-sea-01-of-sea-and-shadow-c4">''Of Sea and Shadow'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[The Emperor]] has given training over to members of the [[Guilds]].<ref name="ee-shadow-02-of-darkness-and-dawn-c12">''Of Darkness and Dawn'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|There is a game being played between the [[Guilds]].<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Guilds]] include Independent [[Guild]] members.<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Guilds]] are to be established as independent entities.<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

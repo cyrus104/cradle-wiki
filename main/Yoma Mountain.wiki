@@ -7,29 +7,26 @@
 {{spoiler|book=cradle-10-reaper|[[Yoma]] Mountain, also known as Mount [[Yoma]], is one of the four holy peaks that border [[Sacred Valley]]. Located to the north of the valley, its slopes are largely covered in purple orus trees for most of the year. The [[Fallen Leaf School]] occupies this mountain, utilizing the fruit from these trees to create various products and specialized elixirs for their students. The school also manages the [[Nethergate]], a massive thirty-meter-high entrance carved with a [[Dreadgod]] image that provides access to the largest hub of the [[labyrinth]] located beneath [[Sacred Valley]]. This entrance opens once every decade, allowing elders to collect treasures from the upper levels of the maze. Recent events have seen the orus trees on the mountain begin to wither, and stone spires erupted from the peak following the placement of a [[Titan Core]] in the north.}}
 
 == Unsouled ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|[[Yoma Mountain]] is a location near where snowfoxes are hunted.<ref name="cradle-01-unsouled-c2">''Unsouled'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|A [[Remnant]] was encountered on the slopes of Mount [[Yoma]].<ref name="cradle-01-unsouled-c4">''Unsouled'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Eithan]] points toward [[Yoma Mountain]].<ref name="cradle-09-bloodline-c7">''Bloodline'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Yoma Mountain]] is a location where exiles have escaped to the hills at its base.<ref name="cradle-09-bloodline-c7" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Yoma Mountain]] has purple slopes.<ref name="cradle-09-bloodline-c16">''Bloodline'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Titan]] walked north, stopped at Mount [[Yoma]], and then headed east.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The orus trees on Mount [[Yoma]] have started to wither.<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

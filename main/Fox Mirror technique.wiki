@@ -4,13 +4,12 @@
 }}
 
 == Unsouled ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|The [[Fox Mirror technique]] allows a user to craft illusions as precise as a mirror's reflection.<ref name="cradle-01-unsouled-c4">''Unsouled'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Fox Mirror technique]] allows [[White Fox Forgers]] to create illusionary copies of exact appearance but no real substance.<ref name="cradle-01-unsouled-c7">''Unsouled'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Fox Mirror technique]] is used by [[Wei clan]] Forgers to create highly detailed illusionary copies.<ref name="cradle-01-unsouled-c9">''Unsouled'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

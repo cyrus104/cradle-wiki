@@ -6,14 +6,13 @@
 }}
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Processor]] spoke about compartmentalization and recruitment batches.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Processor]] is skilled at breaking into systems.<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Processor]] lamented that they were not made to work together.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Processor]] questions why the [[Aether]] awakened them if they cannot work together.<ref name="lh-04-the-pilot-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“Compartmentalization, as I said,” the Processor responded.<ref name="lh-04-the-pilot-c2" />}}

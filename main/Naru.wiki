@@ -4,20 +4,18 @@
 }}
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Naru]] have admonished the [[Jai clan]] for their actions.<ref name="cradle-03-blackflame-c3">''Blackflame'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Naru]] took over the empire fifty years ago.<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Naru family]] has a [[Path of Grasping Sky]].<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|The [[Naru]] are one of the major clans.<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

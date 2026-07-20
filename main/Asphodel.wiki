@@ -9,18 +9,17 @@
 {{spoiler|book=tg-03-city-of-light|Asphodel is a territory associated with specific [[Travelers]] and possesses unique environmental characteristics. It is home to the legendary [[Midnight Fields]], which contain various colorful flowers that can act as predators; specifically, yellow blossoms cause paralysis, purple ones induce sleep, and red ones are lethal. The region is also characterized by its mists, which can cause insanity or severe damage to a person's mind and spirit. [[Travelers]] hailing from Asphodel are known for their calm demeanor, as they must remain unemotional to prevent their territory from turning against them. Some [[Asphodel Travelers]] serve as mist-binders, capable of summoning the region's mists to perform tasks such as [[binding]]. The [[Asphodel Incarnation]] is a notable figure among these [[Travelers]], possessing the ability to manipulate information and appearing with mist flowing like a cape. This individual is also associated with plant-like imagery, such as clothing made of petals and the ability to rest within large, blooming flowers.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Asphodel]] attacks the mind and the spirit.<ref name="tg-01-house-of-blades-c1">''House of Blades'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Asphodel]] is a [[Territory]].<ref name="tg-01-house-of-blades-c14">''House of Blades'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Asphodel is a location defined by its association with a glowing mist, which was once summoned by the entity itself. Within this realm, [[Travelers]] are identified by their white masks and traditional mist-gray robes. The setting served as the site for [[Cynara]]'s trial and provided a space where [[Talos]] could be questioned. Because it feeds on the emotions of its targets, Asphodel is considered an ideal environment for subduing [[Endross]]. However, the region was recently marked by tragedy following the death of [[Grandmaster Asphodel]] in battle the previous week.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Asphodel]] is associated with a glowing mist.<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Asphodel Travelers]] wear traditional mist-gray robes and white masks.<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Asphodel]] summoned a glowing mist.<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}</li>
@@ -28,14 +27,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Asphodel]] is suited for subduing [[Endross]] because it feeds on the target's emotions.<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Asphodel]] is a place where [[Talos]] could be questioned.<ref name="tg-02-crimson-vault-c16">''The Crimson Vault'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Grandmaster Asphodel]] was killed in battle the previous week.<ref name="tg-02-crimson-vault-c22">''The Crimson Vault'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|Asphodel is a Grandmaster who remained unspiked upon the city gates. This entity seeks to grow and spread by pursuing wild emotional energy, eventually leading to the infection of various schools. While Asphodel contains formidable guardians and provides obtainable crops, it has also seen the [[Elysian Incarnation]] recruit forty-two [[Asphodel Travelers]]. The entity is noted in the mentions of [[Indirial]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Asphodel]] will spread and grow and seek the wild energy of emotion.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Asphodel]] contains formidable guardians.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Asphodel]] is one of the [[Grandmasters]] who was not spiked on the city gates.<ref name="tg-03-city-of-light-c9">''City of Light'', chapter 9</ref>}}</li>
@@ -43,8 +41,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|The [[Elysian Incarnation]] has recruited forty-two [[Asphodel Travelers]].<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|Crops can be obtained from [[Asphodel]].<ref name="tg-03-city-of-light-c18">''City of Light'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Indirial]] mentions [[Asphodel]].<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|"But Asphodel attacks the mind. The spirit."<ref name="tg-01-house-of-blades-c1" />}}

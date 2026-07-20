@@ -6,12 +6,11 @@
 }}
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Laraena]] is an [[Archmage of ice elementalism]].<ref name="lh-03-the-knight-c2">''The Knight'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|There exists a concept of an [[Archmage of ice elementalism]].<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

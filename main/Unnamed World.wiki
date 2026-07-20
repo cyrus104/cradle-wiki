@@ -4,13 +4,12 @@
 }}
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The [[Unnamed World]] is the place outside of the [[Territories]].<ref name="tg-03-city-of-light-c18">''City of Light'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|An [[Incarnation]] in the [[Unnamed World]] is like a hawk pushed into a river.<ref name="tg-03-city-of-light-c19">''City of Light'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Seed]] must be planted in the [[Unnamed World]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

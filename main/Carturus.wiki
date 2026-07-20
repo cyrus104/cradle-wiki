@@ -11,8 +11,8 @@
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|Carturus is a frozen ocean planet characterized by a thick layer of ice and serves as a prison for the Advocates. After [[Doctor Nova]] was taken to this world, it became a primary destination on the flight path for the crew of [[The Last Horizon]]. As the ship traveled toward the system, the team worked to determine if they had reached teleporter range of the distant location. Although the lightning rabbit is not native to this environment, a battle involving [[Starhammer]] eventually took place on the planet's surface.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Carturus]] is a frozen ocean planet with a layer of thick ice.<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] was taken to [[Carturus]].<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Carturus]] is a frozen world where the Advocates keep their prisoners.<ref name="lh-02-the-engineer-c8" />}}</li>
@@ -22,8 +22,7 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[Carturus]] is a destination for the team's flight path.<ref name="lh-02-the-engineer-c10" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The lightning rabbit is not native to [[Carturus]].<ref name="lh-02-the-engineer-c14">''The Engineer'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|A battle occurred on [[Carturus]] involving [[Starhammer]].<ref name="lh-02-the-engineer-c40">''The Engineer'', chapter 40</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|“...are we in teleporter range of Carturus?”<ref name="lh-02-the-engineer-c10" />}}

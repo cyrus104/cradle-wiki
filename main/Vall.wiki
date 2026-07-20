@@ -5,14 +5,13 @@
 }}
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Vall]] is a three-star [[Titan]], a [[Spider]], and a [[Ghost]] in [[Cirian]]'s squad.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Vall]] scans for traces of her prey.<ref name="cradle-13-threshold-c7" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Vall]] uses shields of blue light for close combat.<ref name="cradle-13-threshold-c7" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Vall]] is a member of the [[Second Division]].<ref name="cradle-13-threshold-c7" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -11,8 +11,8 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|[[The Nye]] are shadow-folk inhabiting [[Valinhall]] who serve as the keepers of [[the House]]. Composed of layers of black cloth and pale moonlight that flows like blood, these beings wear black robes and move with a grace that is both silent and swift. They utilize black chains to strangle outsiders and test those who seek them with rage, though they cannot be killed by swords and view such wounds as badges of honor. Bound to their home, [[the Nye]] do not leave [[the House]] and possess an [[essence]] capable of slowing time. They are known to craft thin leather shoes and can walk unseen or run lightly through their domain.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[The Nye]] are shadow-folk described as humanoids made of cloth and shadow who attempt to strangle outsiders with chains.<ref name="tg-01-house-of-blades-c7">''House of Blades'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[The Nye]] serve as the keepers of [[the House]].<ref name="tg-01-house-of-blades-c7" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[The Nye]] craft thin leather shoes.<ref name="tg-01-house-of-blades-c8">''House of Blades'', chapter 8</ref>}}</li>
@@ -28,14 +28,13 @@
 <li>{{spoiler|book=tg-01-house-of-blades|[[The Nye]] are bound to [[the House]] and cannot stay out of it for too long.<ref name="tg-01-house-of-blades-c18" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[The Nye]] do not leave their home.<ref name="tg-01-house-of-blades-c18" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[The Nye]] possess an [[essence]] that can slow time.<ref name="tg-01-house-of-blades-c18" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|[[The Nye]] are beings composed of shadows and clothing that possess an [[essence]] of moonlight used to accelerate [[Indirial]]. Residing in [[Valinhall]], these entities appear as men wearing black clothes and hooded cloaks, though they often resemble bundles of cloth brought to [[life]]. Led by an [[Eldest]], the group typically performs armory duties such as repairing weapons with a forge and returning swords to their racks in the entry hall. During an encounter, one member used cold metal to constrict [[Simon]]'s throat, revealing a characteristic cold breath. Ultimately, [[the Nye]] collapse back into mere shadows and moonlight [[essence]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[The Nye]] are a group associated with moonlight [[essence]].<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Indirial]] is accelerated by the power of [[the Nye]].<ref name="tg-02-crimson-vault-c1" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[The Nye]] are people in [[Valinhall]] who use a forge to repair weapons.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
@@ -49,14 +48,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[The Nye]] collapse into shadows and moonlight [[essence]].<ref name="tg-02-crimson-vault-c11">''The Crimson Vault'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|A [[Nye]] used a length of cold metal to draw tight around [[Simon]]'s throat.<ref name="tg-02-crimson-vault-c19">''The Crimson Vault'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[The Nye]] possess a cold breath.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|[[The Nye]] are a powerful group of beings that exist as shadowy forms capable of swarming like ants. These entities possess the ability to materialize seemingly out of nowhere and can communicate with or manipulate intelligent guardians. During an attack on the inhabitants of [[Valinhall]] intended to test their alertness, [[the Nye]] lost their grip on their chains. Despite their presence in various locations, they remain a group that [[Valin]] has never been able to understand.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[The Nye]] have significant power.<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[The Nye]] attack inhabitants of [[Valinhall]] to test their alertness.<ref name="tg-03-city-of-light-c13">''City of Light'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[The Nye]] lost their grip on their chains during the attack.<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
@@ -65,8 +63,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[The Nye]] are shadowy forms that can swarm like ants.<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[The Nye]] can manipulate and communicate with intelligent guardians.<ref name="tg-03-city-of-light-c21" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[The Nye]] is a group or entity present in the room.<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|“We simply test you,” the Nye said. “You seek us with rage in your heart, try to find us in our homes.”<ref name="tg-01-house-of-blades-c8" />}}

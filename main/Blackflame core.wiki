@@ -11,37 +11,33 @@
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|[[Lindon]] possesses a [[Blackflame]] core that rotates slowly and without direction, moving in rhythm with his breathing. During his journey, the core is eventually reduced to nothing more than a single smoldering red-and-black ember. When [[Lindon]] attempts to draw upon the power of his [[Blackflame]] core, he finds that it has become entirely empty.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Blackflame core]] rotates slowly without direction in rhythm with [[Lindon]]'s breath.<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] possesses a [[Blackflame core]].<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]]'s [[Blackflame core]] is reduced to a single smoldering red-and-black ember.<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]]'s [[Blackflame core]] is empty.<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] tried to draw on his [[Blackflame core]].<ref name="cradle-03-blackflame-c18" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] refilled his [[Blackflame core]].<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] is approaching the limit of his [[Blackflame core]].<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] pulls [[madra]] into his [[Blackflame core]].<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]]'s [[Blackflame core]] was virtually untouched.<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

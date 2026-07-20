@@ -18,21 +18,20 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|Mell D-One-Twenty-Five is a location situated within [[Union space]]. The entity associated with this name maintains a [[workshop]] filled with diverse robotic creations and is typically seen wearing a dusty lab coat. This individual also utilizes a console strapped to her wrist and once received a rejection message from [[The Last Horizon]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|Mell is a character who has a [[workshop]] containing various robotic creations.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Mell is a character who wears a dusty lab coat.<ref name="lh-01-the-captain-c12">''The Captain'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Mell has a console strapped to her wrist.<ref name="lh-01-the-captain-c12" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Mell received a rejection message from [[The Last Horizon]].<ref name="lh-01-the-captain-c15">''The Captain'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Mell is a location within [[Union space]].<ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|Mell D-One-Twenty-Five, an [[Aether Technician]] also known as [[Doctor Nova]], was cloned in a lab from the DNA of four human technicians. While she previously used a decoy bot to evade capture, she was eventually kidnapped by [[Queen Shyrax]] and held in an [[Advocate prison]] cell. As the creator of [[Starhammer]], she designed him to be her protector and built his [[Temporal Field]]. Now serving as the [[Engineer]] for [[The Last Horizon]], Mell utilizes goggles to monitor [[Nova-Bots]] and operates various ship systems. Throughout her service, she has used a helmet to transfer her consciousness into a robot and has even manifested from blue light at the helm of a shuttle.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">64</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">64</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|Doctor Mell is at a location that can be reached after recruiting the [[Commander]].<ref name="lh-02-the-engineer-c2">''The Engineer'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Mell uses glasses to display the status of her lab and surrounding [[Nova-Bots]].<ref name="lh-02-the-engineer-c6">''The Engineer'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Doctor Mell is currently in an [[Advocate prison]].<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
@@ -97,14 +96,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|Mell was teleported to a nearby shuttle.<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Mell has proof regarding [[Starhammer]]'s secret.<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Mell is grieving for [[Starhammer]].<ref name="lh-02-the-engineer-c53">''The Engineer'', chapter 53</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Known popularly as [[Doctor Nova]], Mell D-One-Twenty-Five is a wizard who wears a white lab coat and text-scrolling glasses. After providing [[Nova-Bots]] to [[the Queen]], she prepared to clear out her hotel room before departing her planet. As a crew member of [[The Last Horizon]], she has served as company for [[Horizon]] and was once considered as a candidate to be brought to the [[Titan Forge]]. During her service, she utilized [[Nova-Bots]], held the [[Zenith Cannon]], and previously engaged in combat against [[Starhammer]]. Although she lacks the ability to recognize magical portents, she manages medical [[Aethertech]] via a console in her room and has even cowered behind two large [[Nova-Bots]] during conflict. Following an impact that knocked her unconscious, she later demanded that Raion explain his fighting methods.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">19</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|Mell is a person who wears a white lab coat popularized as [[Doctor Nova]].<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Mell brushes her coat off with her hands.<ref name="lh-03-the-knight-c4" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Mell intends to clear out her hotel room before leaving the planet.<ref name="lh-03-the-knight-c4" />}}</li>
@@ -124,14 +122,13 @@
 <li>{{spoiler|book=lh-03-the-knight|Mell called her Nova-Bot pilots.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Mell is a character who was knocked unconscious during an impact.<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Mell shouted at Raion to explain how his fighting works after the fight.<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Mell D-One-Twenty-Five is a human technician and master [[Aether]] [[Engineer]] with an android gift who serves as a crew member aboard [[The Last Horizon]]. While her physical body remains on the ship's bridge, she pilots bots and utilizes indistinguishable decoy-bots, once even tackling [[Doctor Oladyne]] into a wall to serve as a distraction. Throughout her duties, she manages consoles and gemstones, insists on [[vault]] security, and coordinates groups of [[Nova-Bots]] to assist with repairs or to collect samples from [[Omega]]'s body. Mell spends much of her time assembling [[Nova-Bots]], installing data cores, and focusing on personal research projects. Her recent activities included instructing the ship to fabricate a nondescript shuttle and attempting to activate the [[Temporal Field]], though she was subsequently restrained in a cot and strapped to a table beneath a helmet before falling comatose in her quarters.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">32</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">32</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Mell D-One-Twenty-Five]] is a human Technician with an android gift.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Mell pilots a bot and has a real body located on the bridge of [[The Last Horizon]].<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Mell tackled [[Doctor Oladyne]] into a wall as a decoy-bot.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
@@ -164,8 +161,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|Mell was restrained in a cot.<ref name="lh-04-the-pilot-c46" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Mell was strapped to a table beneath a helmet.<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Mell was comatose in her own quarters.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|Not that kind of Technician. I don’t break into things… Mell pulled out a case and cracked it open. “…I make the ones who do.”<ref name="lh-02-the-engineer-c11" />}}

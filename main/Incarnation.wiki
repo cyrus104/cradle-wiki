@@ -9,18 +9,17 @@
 {{spoiler|book=tg-03-city-of-light|An Incarnation is a being that has become the physical embodiment of its specific [[Territory]]'s [[essence]] and power. This transformation occurs when a [[Traveler]] draws an excessive amount of their [[Territory]]'s energy into themselves, upsetting the natural balance. Once this process is complete, the individual is no longer human and becomes a fundamental force of nature, similar to gravity or heat. [[Incarnations]] possess immense, nearly limitless power and access to the abilities of their respective Houses. However, they are inherently tied to their home worlds; if they remain in a foreign realm for too long, the environment begins to warp and reshape itself to mirror their [[Territory]]. This phenomenon can lead to an Incarnation becoming trapped within their own world as they are absorbed into its fabric. While some view them as noble creatures, others see them as dangerous, rabid beasts that must be chained or sealed away to prevent destruction. Maintaining these seals often requires gruesome blood sacrifices to the [[Trees]] of Ragnarus. The transition into an Incarnation is a volatile period where the individual's will is temporarily lost to an overwhelming compulsion to act according to their [[Territory]]'s nature, making them extremely unpredictable and dangerous. While some [[Incarnations]] may retain their personality or embody specific virtues, they are fundamentally defined by the nature of the world they represent.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|If the chains cover a person's body, it leads to [[Incarnation]].<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Simon]] wishes to avoid risking [[Incarnation]].<ref name="tg-01-house-of-blades-c18">''House of Blades'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|An Incarnation is a force of nature, similar to gravity or heat, that serves as an embodiment of its [[Territory]]'s power and nature. This entity is a part of [[Valinhall]] that can warp reality to reform the world into its own [[Territory]], though entering such a space results in being trapped. Arising when a [[Traveler]] loses control due to black chain-marks, an Incarnation can summon monster armies and has previously attacked the [[Damascans]]. During a battle within the corridors of a house, this combatant wielded a flame-headed hammer against [[Simon]]. While [[Alin]] doubted his ability to assist against such full power, [[Simon]] required a mask to face the entity, knowing that if the chains fully wrapped around his neck, he would reach Incarnation.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Incarnations]] can warp the world around them to reform reality into their [[Territory]].<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Incarnations]] are kept enslaved by a system that pays lives to maintain it.<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Incarnation]] is the process where a [[Traveler]] loses control of their power due to being covered by black chain-marks.<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
@@ -39,14 +38,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Incarnation]] was battling [[Simon]].<ref name="tg-02-crimson-vault-c22">''The Crimson Vault'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Alin]] was unsure of his ability to help against the full power of an [[Incarnation]].<ref name="tg-02-crimson-vault-c22" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Incarnation]] possesses a flame-headed hammer.<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|An Incarnation is a creature that occurs when a [[Traveler]] draws excessive power from their [[Territory]], a transformation considered a death sentence. These entities are exceptions to many rules and are characterized by dark chains upon their skin and eyes where darkness bleeds into the whites. While they can be killed or sealed, an Incarnation does not return after death, but instead leaves the way free for another to take its place. [[Alin]] is an Incarnation, and it has been noted that [[Zakareth]] could see the benefits of such a state. During the events in [[the House]], an Incarnation composed of clockwork components beneath its armor caused widespread destruction. Additionally, the [[Ornheim Incarnation]] utilized summoned golems to combat [[Kathrin]] and [[Andra]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Zakareth]] could see the benefits of [[Incarnation]].<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Alin]] is an [[Incarnation]].<ref name="tg-03-city-of-light-c2" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Simon]]'s mission is to fight an [[Incarnation]].<ref name="tg-03-city-of-light-c3">''City of Light'', chapter 3</ref>}}</li>
@@ -62,8 +60,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[Indirial]] was seen fighting what may or may not have been an [[Incarnation]] before he vanished.<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|Being transformed into an [[Incarnation]] is considered a death sentence.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Ornheim Incarnation]] summoned golems to fight [[Kathrin]] and [[Andra]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|Do not let the chains cover your body,” he said. “What? Why?” Simon asked, shaken. The chains were already up past his elbows; how much longer did he have? “What will happen if they do?” “Incarnation,” Kai responded.<ref name="tg-01-house-of-blades-c13" />}}

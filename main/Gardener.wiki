@@ -11,8 +11,8 @@
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Within the [[Guild]], a Gardener is an apprentice role or title that can be sent after specific targets. [[Kerian]] serves as the sole Gardener on the mission, though the title is also held by [[Meia]] and was first claimed by an [[Am’haranai]] who predates the current line of assassin blades. These individuals are never unarmed, typically utilizing shears to prune only necessary branches. While a single Gardener is considered more powerful than [[Shera]], the subject's disposition is noted as unsuitable for an ideal practitioner of the role.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is the only [[Gardener]] on the mission.<ref name="ee-shadow-01-of-shadow-and-sea-c1">''Of Shadow and Sea'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Gardener]] is a role or title held by [[Kerian]].<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Shera]] has no chance against one [[Gardener]].<ref name="ee-shadow-01-of-shadow-and-sea-c4" />}}</li>
@@ -26,22 +26,20 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Lucan]]'s smile is described as the smile of a [[Gardener]].<ref name="ee-shadow-01-of-shadow-and-sea-c18">''Of Shadow and Sea'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Gardener]] uses shears.<ref name="ee-shadow-01-of-shadow-and-sea-c23">''Of Shadow and Sea'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The subject's disposition is unsuitable for an ideal [[Gardener]].<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Meia]] stated she would never have seen a [[Gardener]].<ref name="ee-sea-02-of-dawn-and-darkness-c10">''Of Dawn and Darkness'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Lucan]] is a [[Gardener]].<ref name="ee-sea-02-of-dawn-and-darkness-c16">''Of Dawn and Darkness'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Gardeners]] are a specialized group of [[Consultant assassins]], which includes the member [[Shera]], who utilize ancient bronze daggers known as shears. Their rigorous training curriculum intentionally avoids philosophy and teaches them the discipline to remain unstimulated and motionless for several hours. During their service, members have been known to engage in physical feats such as throwing [[Lucan]] for months at a time. More recently, the group has been withdrawn from their usual duties to focus on defending the [[island]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Gardeners]] are a type of [[Consultant]] assassin who use 'shears', which are ancient bronze daggers.<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Lucan]] was thrown by a [[Gardener]] for months.<ref name="ee-shadow-02-of-darkness-and-dawn-c4">''Of Darkness and Dawn'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Gardeners]] are a group that includes [[Shera]].<ref name="ee-shadow-02-of-darkness-and-dawn-c4" />}}</li>
@@ -49,22 +47,20 @@
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Shera]] is addressed as a [[Gardener]].<ref name="ee-shadow-02-of-darkness-and-dawn-c14">''Of Darkness and Dawn'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Gardeners]] have a curriculum that does not encourage philosophy.<ref name="ee-shadow-02-of-darkness-and-dawn-c15">''Of Darkness and Dawn'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Gardeners]] were being withdrawn to defend the [[island]].<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] refers to a group called the [[Gardeners]] in relation to sealing the building.<ref name="ee-sea-03-of-kings-and-killers-c15">''Of Kings and Killers'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Gardener]] vanished.<ref name="ee-sea-03-of-kings-and-killers-c15" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|During a recent gathering, it was noted that only one true Gardener was present among the group. [[Shera]] displayed traits of the affiliation by thinking like a Gardener and even utilizing one of their classic jokes. While [[Lucan]] has demonstrated the work ethic of any Gardener over the past two years, [[Zhen]] expressed that he felt no need to provide information to such an individual. Within this context, the Gardener serves as a specific type of mission or affiliation that utilizes specialized weapons designed to immobilize targets. The chaos escalated when a rogue Gardener released an alchemical gas charge into the basement.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|There was only one true [[Gardener]] among the group tonight.<ref name="ee-shadow-03-of-killers-and-kings-c5">''Of Killers and Kings'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] uses a classic [[Gardener]] joke.<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] was thinking like a [[Gardener]].<ref name="ee-shadow-03-of-killers-and-kings-c8">''Of Killers and Kings'', chapter 8</ref>}}</li>
@@ -73,8 +69,7 @@
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Gardener]] is a type of mission or affiliation.<ref name="ee-shadow-03-of-killers-and-kings-c15">''Of Killers and Kings'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Gardener]] weapons are used to immobilize people.<ref name="ee-shadow-03-of-killers-and-kings-c15" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|A rogue [[Gardener]] dropped an alchemical gas charge into the basement.<ref name="ee-shadow-03-of-killers-and-kings-c19">''Of Killers and Kings'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“Gardener Meia. Have you sworn Gardener Shera to secrecy?”<ref name="ee-shadow-01-of-shadow-and-sea-c10" />}}

@@ -16,8 +16,8 @@
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Albedon Pegarthus serves as the current [[Champion]] of the [[Prime Arena]] and fights as a representative for his influential uncle, [[Senator Pegarthus]]. A warrior characterized by white hair and a red scalp, he wields an orange [[force-blade]] of large proportions. In combat, Albedon utilizes the [[Eraser Blade]] [[Combat Art]], though he is a fighter who eventually made a mistake.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Albedon Pegarthus]] is the current [[Champion]] of the [[Prime Arena]].<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Albedon Pegarthus]] is the nephew of an influential Senator.<ref name="lh-03-the-knight-c26" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Albedon Pegarthus]] is a fighter representing [[Senator Pegarthus]].<ref name="lh-03-the-knight-c27">''The Knight'', chapter 27</ref>}}</li>
@@ -26,8 +26,7 @@
 <li>{{spoiler|book=lh-03-the-knight|[[Albedon Pegarthus]] uses an orange [[force-blade]].<ref name="lh-03-the-knight-c27" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Albedon uses a large [[force-blade]].<ref name="lh-03-the-knight-c29">''The Knight'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Albedon is a fighter who made a mistake.<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

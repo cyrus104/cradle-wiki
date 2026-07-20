@@ -5,13 +5,12 @@
 }}
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Burning Swan]] is [[Kerani]]'s personal bound fire spirit.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Burning Swan]] is an artifact that can vibrate in its case and attempt to extend fiery wings.<ref name="cradle-11-dreadgod-c3" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Burning Swan]] is a creature or entity that [[Kerani]] commanded to attack.<ref name="cradle-11-dreadgod-c3" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

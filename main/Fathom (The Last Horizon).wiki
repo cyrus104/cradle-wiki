@@ -9,18 +9,17 @@
 {{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] is an extraordinary starship characterized by its organic appearance and dark metal plating that emits a blue-green or magical glow at its seams. Measuring at least five hundred yards in length, the vessel is shaped similarly to a diving predatory bird. Unlike standard starships that show signs of wear or manufacturing limitations, the interior of this ship is flawlessly constructed. The vessel possesses immense power and advanced weaponry capable of piercing enemy engines with green energy or cutting through defenses like a blade. It functions as more than just a craft, as it has a Captain who also serves as its caster and is capable of awakening to face significant threats. The ship has been observed positioned at the edge of the [[Dornoth system]] and has engaged in combat within the [[Fathom system]], where it faced planetary defenses and various fleets.}}
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|Fathom is a major system that the [[Swarm-Queen]] might feed on.<ref name="lh-03-the-knight-c34">''The Knight'', chapter 34</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The Captain plans to take the fight to Fathom.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Fathom is a moon and the human home world that serves as the capital of the [[Galactic Union]]. Known as the Heart of the Galaxy, this ancient center of culture and economy is home to twelve sprawling megacities and maintains populations across every planet in its system. While [[Planetary Security]] operates there, the world is also a [[World Spirit]] with an avatar and projection that serves as the concentrated heart of [[Solstice]]'s power. After [[Varic]] attempted to track [[Benri]] to the planet, [[Benri]] eventually docked there, only to witness starships lifting into the air during an attack launched by the narrator's side. This conflict left [[Benri]] horrified by the events on the planet, which is defended by a Planetary Defense [[Force]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">31</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">31</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|Fathom is the human home world.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Fathom is a location where [[Planetary Security]] operates.<ref name="lh-04-the-pilot-c2" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Varic]] attempted to track [[Benri]] to Fathom.<ref name="lh-04-the-pilot-c5">''The Pilot'', chapter 5</ref>}}</li>
@@ -52,8 +51,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|Fathom is a [[World Spirit]] that the planet's [[World Spirit]] addressed by name.<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Fathom has a projection.<ref name="lh-04-the-pilot-c48" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Fathom is the capital of the [[Galactic Union]] and the heart of the galaxy.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“As soon as we can leave, make an excuse and get us out of here. We’re returning to Fathom.”<ref name="lh-04-the-pilot-c18" />}}

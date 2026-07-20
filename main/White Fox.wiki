@@ -12,36 +12,32 @@
 * **[[Rulers]]:** Rather than manipulating their own energy, [[Rulers]] use their [[madra]] to influence [[vital aura]]. They can employ the [[Fox Dream]] technique to trap enemies within a mental cage. Additionally, specialized boundary formations can be constructed using seven banners to gather light- and dream-aspect [[aura]] for training or obfuscation. The [[Path]] is also noted for its effectiveness in long-distance communication across [[Wei territory]].}}
 
 == Unsouled ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|The [[White Fox]] is a [[madra]] formed from [[aura]] of light and dreams.<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[White Fox]] [[madra]] is unrestrained and tricks the senses by its nature.<ref name="cradle-01-unsouled-c6" />}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[White Fox]] [[madra]] can be used to create a coordinated masterpiece.<ref name="cradle-01-unsouled-c8">''Unsouled'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|Wei Shi [[Kelsa]] uses [[White Fox]] [[madra]].<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[White Fox]] [[madra]] is a type of [[madra]].<ref name="cradle-09-bloodline-c8">''Bloodline'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] uses [[White Fox]] [[madra]].<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|A decoy in [[Kelsa]]'s bed feeds on [[White Fox]] [[madra]].<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[White Fox]] [[madra]] is used by [[Kelsa]].<ref name="cradle-13-threshold-c8" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

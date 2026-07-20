@@ -11,8 +11,8 @@
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|The Consume technique is a method that allows a user to bypass the need for traditional advancement resources by converting enemies into spiritual elixirs. [[Lindon]] identifies this technique as a potential way to feed [[Dross]] and hopes to successfully implement its principles into his own development. Once integrated into his arm, the technique functions as a way for [[Lindon]] to steal power from others. He eventually utilizes this ability to suck the strength away from the [[Remnant]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Consume]] technique allows a user to no longer need advancement resources by using enemies instead.<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Consume]] is a technique [[Lindon]] could master to feed [[Dross]].<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The principles of the original [[Consume]] technique help [[Lindon]]'s development process.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
@@ -22,36 +22,32 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Consume]] is a technique used by [[Lindon]].<ref name="cradle-08-wintersteel-c18">''Wintersteel'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Consume]] technique is in [[Lindon]]'s arm.<ref name="cradle-08-wintersteel-c23">''Wintersteel'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] used the [[Consume]] technique to suck away strength from the [[Remnant]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] uses the [[Consume]] technique on the [[Wandering Titan]].<ref name="cradle-09-bloodline-c20">''Bloodline'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] attempted to use his [[Consume]] technique on [[Reigan Shen]]'s attack.<ref name="cradle-10-reaper-c16">''Reaper'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Consume]] technique is a basic use of [[hunger madra]] that acts like a fire binding to burn things.<ref name="cradle-10-reaper-c20">''Reaper'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] began to [[Consume]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|As a basic technique, Consume was first utilized by [[Lindon]] at the beginning of his journey. This method is associated with [[Northstrider]] and can be employed to weaken a [[dragon]]'s breath, such as when [[Lindon]] began consuming scales from a [[dragon]]'s lip. The technique also serves to retrieve memories from within the [[labyrinth]]. Furthermore, [[Lindon]] used Consume to maintain his energy levels by absorbing the attacks of his enemies.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] used the [[Consume]] technique when he first started.<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Consume]] is a technique associated with [[Northstrider]].<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] began to [[Consume]] scales from the [[dragon]]'s lip.<ref name="cradle-12-waybound-c19">''Waybound'', chapter 19</ref>}}</li>
@@ -59,8 +55,7 @@
 <li>{{spoiler|book=cradle-12-waybound|[[Consume]] is a technique used to retrieve memories from the [[labyrinth]].<ref name="cradle-12-waybound-c24">''Waybound'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] kept his energy up by [[Consuming]] the attacks from his enemies.<ref name="cradle-12-waybound-c28">''Waybound'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Consume]] is a basic technique.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -9,31 +9,28 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|Furman serves as an assistant and servant to the alchemist [[Bareius]]. In this capacity, he performs various administrative and logistical duties, such as managing velvet bags of silver and gold coins, taking notes on a clipboard while standing behind [[Bareius]]'s chair, and preparing rooms. He is also responsible for providing signals during meetings and executing specific plans designed to distract or sideline [[Champions]]. While he often appears as a subordinate who chuckles uncomfortably or follows orders, he has demonstrated the ability to act decisively, such as when he pushed [[Bareius]] to the deck of a ship and later attempted to escape via a dive into the water.}}
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Furman]] is [[Bareius]]'s servant.<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Furman]] is an alchemist who looks exactly like [[Bareius]].<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|Furman serves as an assistant to [[Nathanael Bareius]]. Alongside [[Bareius]], he takes on the responsibility of leading the alchemists. It is eventually revealed that Furman is actually a duplicate of [[Bareius]] and holds the status of a [[Mason]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Furman]] is an assistant.<ref name="ee-shadow-03-of-killers-and-kings-c4">''Of Killers and Kings'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Furman]] leads the alchemists alongside [[Bareius]].<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Furman]] is an assistant to [[Nathanael Bareius]].<ref name="ee-shadow-03-of-killers-and-kings-c6" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Furman]] is [[Bareius]]'s duplicate.<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Furman]] is a [[Mason]].<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -12,24 +12,22 @@
 {{spoiler|book=lh-04-the-pilot|Lutoch Terelle, also known as Lutoch, is an intelligence professional for the [[Galactic Union]]. She has served for a decade as the Chief Predictive Data Analyst, a role that involves managing vast amounts of galactic information to help shape the future. In this capacity, she organizes data from a wide network and feeds it into the [[Zenith Processor]]. While her official duties involve sorting reports, she also utilizes a specialized processor that she inherited alongside her position. Known as the Oracle of the [[Solstice]], Lutoch often works while floating in a sensory deprivation tank to process information. Despite her expertise, she has expressed desire for a full bond with the [[Zenith Processor]] to better protect herself against mental magic. During her service, she has been associated with [[Union Intelligence]] and has worked alongside figures such as [[Archmage]] [[Kerathin]].}}
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Lutoch Terelle]] is the [[Galactic Union]]’s Chief Predictive Data Analyst and is unofficially known as the [[Oracle of Solstice]].<ref name="lh-02-the-engineer-c55">''The Engineer'', chapter 55</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|As a member of [[Union Intelligence]], Lutoch Terelle emerged from a sensory deprivation tank. Serving as the Oracle of the [[Solstice]], Lutoch held the responsibility of sorting through data to feed into the [[Zenith Processor]]. During these events, Lutoch also observed [[Aila Escalon]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Lutoch Terelle]] is the Oracle of the [[Solstice]].<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Lutoch Terelle]]'s role was to sort through data and feed it into the [[Zenith Processor]].<ref name="lh-04-the-pilot-c34">''The Pilot'', chapter 34</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Lutoch Terelle]] is a character who emerged from a sensory deprivation tank.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Lutoch Terelle]] is a member of [[Union Intelligence]].<ref name="lh-04-the-pilot-c43" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Lutoch watched [[Aila Escalon]].<ref name="lh-04-the-pilot-c43" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“Archmage Kerathin, I’m Lutoch Terelle of Union Intelligence.<ref name="lh-04-the-pilot-c43" />}}

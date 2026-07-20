@@ -15,8 +15,8 @@
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|While all others vanished from beneath the Hanging [[Trees]], the [[Avernus]] [[Incarnation]] remained as the sole presence. This entity possesses a human woman's face characterized by raptor eyes and four mismatched, colored wings. In place of fingernails, the creature has talons and maintains the ability to engage in intelligible conversation. Beyond its physical form, the [[Incarnation]] holds the power to perceive fragments of the future, offering advice that has been compared to that of [[Queen]] [[Cynara]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The [[Avernus Incarnation]] was the only one not missing from under the Hanging [[Trees]].<ref name="tg-03-city-of-light-c4">''City of Light'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Incarnation]] of [[Avernus]] has a face like a human woman with bird-of-prey eyes and four colored wings.<ref name="tg-03-city-of-light-c18">''City of Light'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Avernus Incarnation]] has talons instead of fingernails.<ref name="tg-03-city-of-light-c18" />}}</li>
@@ -25,8 +25,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|The [[Avernus Incarnation]] has mismatched wings.<ref name="tg-03-city-of-light-c19" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Avernus Incarnation]] is capable of carrying on intelligible conversations.<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Leah]] compares [[Queen]] [[Cynara]]'s advice to the [[Avernus Incarnation]]'s advice.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

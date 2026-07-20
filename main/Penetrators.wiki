@@ -6,12 +6,11 @@
 }}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Penetrators]] are short-range boarding devices used by the [[Iron Legion]].<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Each Penetrator comes standard with a crew of twenty-four [[Pawns]], one Sentry, one [[Shepherd]], and optionally a [[Reaver]].<ref name="lh-01-the-captain-c10" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

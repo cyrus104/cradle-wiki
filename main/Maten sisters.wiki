@@ -5,13 +5,12 @@
 }}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Maten sisters]] use [[Ruler techniques]] to strip logs.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Maten sisters]] are members of [[Lindon]]'s team who do not talk much to anyone but each other.<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Maten sisters]] avoided capture and are safe.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -15,8 +15,8 @@
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|Once a [[Sage]], Emala eventually ascended to become the [[Monarch]] known as the [[Rune Queen]]. She wielded [[madra]] through a [[Grand Oath Array]] composed of runes derived from ancient script. During the [[Dread War]], Emala died and utilized her power to leave behind various script-circles and pieces of her array. In her final act, she broke apart one of these arrays to maintain a seal around [[Shatterspine Castle]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Emala]] was the [[Rune Queen]].<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Emala]] died in the [[Dread War]].<ref name="cradle-11-dreadgod-c5" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Emala]] left pieces of her [[Grand Oath Array]] behind.<ref name="cradle-11-dreadgod-c5" />}}</li>
@@ -27,8 +27,7 @@
 <li>{{spoiler|book=cradle-11-dreadgod|[[Emala]] was once a [[Sage]].<ref name="cradle-11-dreadgod-c10" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Emala]] was a [[Monarch]] who left behind script-circles.<ref name="cradle-11-dreadgod-c13">''Dreadgod'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Emala]] has [[madra]].<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-11-dreadgod|"Good, you found more of Emala’s madra than I expected.<ref name="cradle-11-dreadgod-c19" />}}

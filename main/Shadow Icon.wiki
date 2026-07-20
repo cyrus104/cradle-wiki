@@ -7,27 +7,24 @@
 {{spoiler|book=cradle-12-waybound|[[The Shadow]] [[Icon]] is a conceptual symbol or power that represents specific ideals and defines an individual's path. It has been associated with the core principles of a mother's [[life]] and is linked to the spirit of the [[Netherworld Empress]]. In terms of its manifestation, it can appear as a symbol or be reflected through the depth of [[shadow madra]]. The [[Icon]] is part of a broader group of similar entities, which also include the [[Strength]], [[Bow]], and Crown [[Icons]].}}
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The [[Shadow Icon]] is more connected to [[Fate]] than [[Northstrider]]'s means.<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Malice]] has command of the [[Shadow Icon]].<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|Attacks from [[Malice]] carry echoes of the [[Shadow Icon]].<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Shadow Icon]] is reflected in the spirit of the [[Netherworld Empress]].<ref name="cradle-12-waybound-c26">''Waybound'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Shadow Icon]] was one of the ideals [[Malice]] strove for.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

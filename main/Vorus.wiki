@@ -5,14 +5,13 @@
 }}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Vorus]] is an expert in [[Imperial]] history.<ref name="ee-sea-01-of-sea-and-shadow-c6">''Of Sea and Shadow'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Vorus]] gave [[Calder]] a stern glare.<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Vorus]] is [[Jyrine]]'s chaperone.<ref name="ee-sea-01-of-sea-and-shadow-c10">''Of Sea and Shadow'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Vorus]] is a person known to [[Calder]].<ref name="ee-sea-01-of-sea-and-shadow-c19">''Of Sea and Shadow'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“Of course, that’s more Vorus’ area of expertise than mine, isn’t it?”<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}

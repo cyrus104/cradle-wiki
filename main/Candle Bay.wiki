@@ -11,8 +11,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|Candle Bay is a harbor located directly adjacent to the [[Aion Sea]]. The waters of this location present a danger where ships could potentially sink, and the bay is visible from the window of [[Rojric]]'s prison cell. The area is patrolled by staff tasked with investigating prison breaks. During his journey, [[Calder]] jumped into the bay and used the location to abandon his contingency tools.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Candle Bay]] is a harbor.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Candle Bay]] is a location where the ship could potentially sink.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Candle Bay]] is a location.<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref>}}</li>
@@ -21,32 +21,28 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Candle Bay]] is directly connected to the [[Aion Sea]].<ref name="ee-sea-01-of-sea-and-shadow-c21">''Of Sea and Shadow'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] jumps into [[Candle Bay]].<ref name="ee-sea-01-of-sea-and-shadow-c21" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Candle Bay]] is a location where [[Calder]] abandoned contingency tools.<ref name="ee-sea-01-of-sea-and-shadow-c24">''Of Sea and Shadow'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Kelarac]] made a bargain to escape [[Candle Bay]].<ref name="ee-sea-02-of-dawn-and-darkness-c3">''Of Dawn and Darkness'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] steered his ship toward [[Candle Bay]].<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Candle Bay]] is a location where the [[Lyathatan]] arrived.<ref name="ee-sea-03-of-kings-and-killers-c16">''Of Kings and Killers'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Candle Bay]] was close to the group.<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Candle Bay]] is a location where fish are caught.<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|An armored [[Estyr Six]] flew over to [[Candle Bay]].<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“He made a bargain to escape Candle Bay,” she went on, when the voices went silent.<ref name="ee-sea-02-of-dawn-and-darkness-c3" />}}

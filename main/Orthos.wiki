@@ -19,8 +19,8 @@
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|Orthos is a nearly three-hundred-year-old [[dragon]]-turtle and sacred beast who served as a liaison between the [[Arelius family]] and the imperial [[Blackflame]] line. Despite having survived three hundred winters and the fall of the Blackflames, the [[Truegold]]-level entity suffered from spiritual damage in his channels and a buildup of [[Blackflame madra]] that overwhelmed his mind. After receiving elixirs made from [[Riverseed]] power, the wounded beast's spirit improved, though he remained a hulking, armored creature with skin like leather that oozed dark blood. Following a contract made with [[Lindon]], the spirit of the turtle began to follow him and communicate through their bond.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">36</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">36</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Orthos]] was a liaison between the Arelius and the imperial [[Blackflame family]].<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Orthos]]'s [[madra]] overwhelmed his mind after overusing his power.<ref name="cradle-03-blackflame-c10" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Orthos]] is a sacred beast.<ref name="cradle-03-blackflame-c10" />}}</li>
@@ -57,14 +57,13 @@
 <li>{{spoiler|book=cradle-03-blackflame|[[Orthos]] communicates through a contract.<ref name="cradle-03-blackflame-c20">''Blackflame'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Orthos]] is a spirit that follows [[Lindon]].<ref name="cradle-03-blackflame-c20" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Orthos]] is an Arelius turtle.<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
 {{spoiler|book=cradle-04-skysworn|Orthos is a massive, black, leathery turtle and sacred beast that serves as the guardian of the [[Arelius family]]. As [[Lindon]]'s contracted partner, this [[Truegold]]-level creature possesses black eyes with red circles and a shell that smolders with dragonfire, emitting both smoke and a dull red light. Although the beast identifies as a [[dragon]] and feeds on fear, it is capable of withdrawing into its shell or extending its neck to crash through webs. During the course, [[Lindon]] rides Orthos, a beast that cycles [[Blackflame]] and possesses a core of rolling rage. While the creature cannot speak, it can breathe fire, snarl, and even consume items such as tapestry and pottery fragments.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">30</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">30</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Orthos]] has black eyes with circles of red.<ref name="cradle-04-skysworn-c3">''Skysworn'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Orthos]]'s shell emits a dull red light and smoke.<ref name="cradle-04-skysworn-c3" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Orthos]] is a sacred beast and a turtle.<ref name="cradle-04-skysworn-c3" />}}</li>
@@ -95,14 +94,13 @@
 <li>{{spoiler|book=cradle-04-skysworn|[[Orthos]] cannot speak.<ref name="cradle-04-skysworn-c17" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Orthos]] is a creature that can extend its neck from a shell.<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Orthos]] is present and eating fragments of pottery.<ref name="cradle-04-skysworn-c18" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|Orthos is a [[Truegold]]-level turtle characterized by a deep red shell that stands as high as a horse's back and black eyes containing rings of red. This creature can release flares of [[Blackflame madra]], launch [[dragon]]'s breath, and whip its tail, though a recent battle left his shell cracked and his spirit throbbing with deep pain. While unconscious and weak, he communicated with [[Lindon]] through a direct spiritual line to provide training on the [[Path of Black Flame]] and instructions on converting [[aura]] into [[madra]]. After his spirit was cleansed and improved by the [[Spirit Well]], Orthos remained near [[Lindon]] to provide him with power. Now standing one step away from breaking through to [[Underlord]], the turtle can retreat inside his shell and command others.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">30</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">30</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Orthos]] is a turtle with black eyes containing rings of red.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Orthos]] growled loudly enough to make the sand shake.<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Orthos]] can launch [[dragon]]'s breath.<ref name="cradle-05-ghostwater-c3" />}}</li>
@@ -133,14 +131,13 @@
 <li>{{spoiler|book=cradle-05-ghostwater|[[Orthos]] is a creature that can whip its tail.<ref name="cradle-05-ghostwater-c18" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Orthos]]'s [[Burning Cloak]] is dying.<ref name="cradle-05-ghostwater-c18" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Orthos]] is a turtle that can retreat inside its shell and command others.<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|While stationed on the deck with [[Lindon]] and [[Mercy]], the broad black turtle known as Orthos roared during the [[Truegold]] advance. This entity, who smolders with [[Blackflame]] and can blow smoke or breathe black-and-red fire, even bit off techniques and stomped on a fleeing man. As a smoldering red presence existing within [[Lindon]]'s soul, Orthos observed that [[Skysworn armor]] left the head unprotected. Although he could use water from the [[Life Well]], Orthos eventually rumbled in response to [[Eithan]] before departing for several years. His absence caused [[Lindon]] significant distress and fear of permanent loss, as the creature who identifies himself as Orthos had already been gone for a month.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">22</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">22</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Little Blue]] clings to the top of [[Orthos]]' head.<ref name="cradle-06-underlord-c2">''Underlord'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Orthos]] roared during the [[Truegold]] advance.<ref name="cradle-06-underlord-c3">''Underlord'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Orthos]] has black-and-red [[dragon]] breath.<ref name="cradle-06-underlord-c3" />}}</li>
@@ -163,35 +160,32 @@
 <li>{{spoiler|book=cradle-06-underlord|[[Orthos]] is gone.<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Orthos]] identifies himself as [[Orthos]].<ref name="cradle-06-underlord-c22" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Orthos]] comes from [[Lindon]].<ref name="cradle-06-underlord-c22" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|A sacred turtle and descendant of the [[Blackflame Empire]]'s black [[dragons]], Orthos once held the rank of [[Truegold]] before the era of [[Kelsa]]'s grandparents. Since his arrival, however, his power has steadily leaked away until he reached no higher than a [[Jade]]. His eyes bear a striking resemblance to those of the black [[dragons]] from his lineage. Following treatment involving [[Lindon]]'s [[pure madra]] and [[Little Blue]], Orthos was briefly restored to his former self.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Orthos]] is a sacred turtle and a descendant of the black [[dragons]] of the [[Blackflame Empire]].<ref name="cradle-07-uncrowned-c1">''Uncrowned'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Orthos]]'s power has leaked away since his arrival and he is currently no higher than a [[Jade]].<ref name="cradle-07-uncrowned-c1" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Orthos]] was a [[Truegold]] before [[Kelsa]]'s grandparents were born.<ref name="cradle-07-uncrowned-c1" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The black [[dragon]]'s eyes are compared to [[Orthos]]'.<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Orthos]] was briefly returned to himself after treatment from [[Little Blue]] and [[Lindon]]'s [[pure madra]].<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Orthos]] is a creature that can shove wooden beams with one foreleg.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Orthos]] is a character who hates waiting for no reason.<ref name="cradle-08-wintersteel-c28" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
 {{spoiler|book=cradle-09-bloodline|Located in the western [[Blackflame Empire]], Orthos is a turtle who once spent time in [[Sacred Valley]] sharing stories about [[Lindon]] and [[sacred artists]]. Initially appearing as an indistinct lump within [[Lindon]]'s mind, the [[Underlord]] eventually resided at the [[Fallen Leaf School]] among the exiles. This creature, capable of producing earthquake-like sounds and stretching his head to reach tables, observed the existence of two [[Dreadgods]] and led [[Lindon]]'s family into a fortress. While eating firewood and wooden chests, Orthos used treasures from [[Lindon's void key]] to advance, causing his presence in [[Lindon]]'s spirit to grow brighter and stronger. Now a struggling creature held by the [[Titan]], Orthos possesses a shell that emits smoke and can expand his size by filling his body with [[soulfire]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">24</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">24</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Orthos]] is a turtle located in the western [[Blackflame Empire]].<ref name="cradle-09-bloodline-c5">''Bloodline'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Orthos]] is an indistinct lump in the back of [[Lindon]]'s mind.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Orthos]] has spent time in [[Sacred Valley]].<ref name="cradle-09-bloodline-c7">''Bloodline'', chapter 7</ref>}}</li>
@@ -216,14 +210,13 @@
 <li>{{spoiler|book=cradle-09-bloodline|[[Orthos]] is a turtle whose body fills with [[soulfire]] to expand his size.<ref name="cradle-09-bloodline-c20">''Bloodline'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Orthos]] is an [[Underlord]].<ref name="cradle-09-bloodline-c20" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Orthos]] is a struggling creature being held by the [[Titan]].<ref name="cradle-09-bloodline-c20" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|Once a hill-sized flaming turtle, the [[Lord]] spirit Orthos underwent a transformation that left him as a tiny red-and-black turtle with glowing red plates and black, pebbly skin. While accompanying [[Lindon]] and [[Yerin]], this weak spirit often stayed within the [[Dawn Sky Palace]] or perched upon [[Lindon]]'s shoulder, where he would eat hammers and plants. Despite being too injured to assist in an abandoned laboratory, Orthos later helped [[Lindon]] with a wall under [[Eithan]]'s orders and demonstrated the ability to transfer his power. He proved his utility by using [[soulfire]] to influence mind [[aura]] and blow away [[dream aura]] near the [[Nethergate]]. Ultimately, [[Lindon]] was forced to leave him behind, and Orthos was later found among the captives held by [[Mercy]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">35</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">35</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Orthos]] is a spirit that is currently weak.<ref name="cradle-10-reaper-c5">''Reaper'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Orthos]] is a flaming turtle the size of a hill.<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Orthos]] is a [[Lord]].<ref name="cradle-10-reaper-c6" />}}</li>
@@ -259,14 +252,13 @@
 <li>{{spoiler|book=cradle-10-reaper|[[Orthos]] was being held by [[Mercy]].<ref name="cradle-10-reaper-c24" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Orthos]] felt shock.<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Orthos]] grumbled to [[Eithan]].<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|An [[Archlord]] hailing from Serpent’s [[Grave]], the turtle Orthos serves as a companion to [[Lindon]] and [[Ziel]]. While he possesses the ability to absorb constructs and ignite the [[Burning Cloak]], his proximity to [[Lindon]] places him in danger from the [[Dreadgod]]. Seeking to claim his inheritance by finding his ancestors' tomb, this confident being is one of six entities threatened by the [[Silent King]]. Orthos eventually becomes buried beneath [[Shatterspine Castle]] alongside [[Ziel]], where he maintains a collection of [[Remnants]] including one [[Archlord]] black [[dragon]], a [[Herald]], and various other subordinates.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">16</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">16</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Orthos]] is not safe from the [[Dreadgod]] because he is close to [[Lindon]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Orthos]] is one of the six beings threatened by the [[Silent King]].<ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Orthos]] eats apples.<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
@@ -283,14 +275,13 @@
 <li>{{spoiler|book=cradle-11-dreadgod|[[Orthos]] is a turtle buried under [[Shatterspine Castle]] with [[Ziel]].<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Orthos]] chuckled at the [[Remnant]].<ref name="cradle-11-dreadgod-c19" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Orthos]] has one [[Archlord]] black [[dragon]] [[Remnant]], two [[Overlords]], six Underlords, fifteen [[Golds]], and one [[Herald]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|After entering a pocket world through a doorway, the four-footed turtle Orthos accompanied [[Lindon]] and [[Little Blue]] while carrying a [[void key]]. During training, the smoke-snorting creature provided encouragement but collapsed after being reeling from the impact of foreign willpower. Orthos eventually reached the peak of [[Overlord]] and trained in [[Ghostwind Hall]] before being sealed away to train alongside [[Little Blue]]. Having ascended to the rank of [[Archlord]], Orthos transformed into a human with wrinkled black skin, gray hair, and black-and-red eyes. As a newborn [[Herald]] bound to the [[Dreadgods]], he fought alongside [[Lindon]] against the [[Weeping Dragon]], utilizing [[soulfire]], [[life]] and blood [[aura]], and [[dragon]]'s breath infused with the Void and Dragon [[Icons]]. In later events, he used [[Blackflame claws]] to crush techniques and assisted [[Lindon]] by drawing from his cores.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">45</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">45</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Orthos]] entered the pocket world through a doorway.<ref name="cradle-12-waybound-c2">''Waybound'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Orthos]] carries a [[void key]] for [[Little Blue]].<ref name="cradle-12-waybound-c2" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Orthos]] is a turtle that can snort smoke.<ref name="cradle-12-waybound-c2" />}}</li>
@@ -336,14 +327,13 @@
 <li>{{spoiler|book=cradle-12-waybound|[[Orthos]] rumbled and chewed a handful of gravel.<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Orthos]] can snort smoke from his nose.<ref name="cradle-12-waybound-c36" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Orthos]] flanks [[Lindon]].<ref name="cradle-12-waybound-c36" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Orthos is an elder [[dragon]] and [[Dreadgod]] characterized by leathery skin, gray-winged hair, and dark eyes containing rings of red. This barrier [[island]] [[dragon]]-turtle travels with [[Ziel]] and [[Carmine]], often residing in a shell on [[Ziel]]'s shoulder or growing large enough to match [[G-42]]. During missions, the creature can call down tornadoes of black fire, blow jets of flame, and land amidst pulses of black-and-red fire. Orthos is capable of shifting into a human form as a black-skinned man with gray hair and has even brought a clutch of [[dragon]] eggs to accompany the group. While [[Pride]] was advised not to listen to this entity, Orthos has contributed to the journey by suggesting the world be named [[Windfall]] after their former ship.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">22</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">22</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Orthos]] has leathery skin and gray-winged hair.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Orthos]]'s eyes are dark orbs with rings of red.<ref name="cradle-13-threshold-c10" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Orthos]] is a [[Dreadgod]].<ref name="cradle-13-threshold-c10" />}}</li>
@@ -366,8 +356,7 @@
 <li>{{spoiler|book=cradle-13-threshold|[[Orthos]] brought a clutch of [[dragon]] eggs.<ref name="cradle-13-threshold-c12" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Orthos]] told [[Dross]] not to make up words.<ref name="cradle-13-threshold-c12" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Orthos]] suggested naming the world [[Windfall]] after their former ship.<ref name="cradle-13-threshold-c12" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-03-blackflame|"Long before my time as Patriarch, Orthos served as a liaison between the Arelius and the imperial Blackflame family."<ref name="cradle-03-blackflame-c10" />}}

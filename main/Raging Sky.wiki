@@ -6,11 +6,10 @@
 }}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Path]] of the [[Raging Sky]] harvests water, wind, and lightning [[aura]] in balance.<ref name="cradle-08-wintersteel-c11">''Wintersteel'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|Path: Raging Sky. Most “storm” Paths are really only lightning Paths, but the Path of the Raging Sky harvests water, wind, and lightning aura in balance with one another.<ref name="cradle-08-wintersteel-c11" />}}

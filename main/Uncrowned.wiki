@@ -9,31 +9,29 @@
 {{spoiler|book=cradle-08-wintersteel|The Uncrowned [[King]] tournament is a prestigious competition organized by the surviving [[Monarchs]] and great families to cultivate a new generation of powerful leaders. Originally established following the [[Dread War]] to pool resources and raise future [[Monarchs]], the event serves as a demonstration of military strength for clans like the [[Akura]] to deter potential aggressors and maintain the respect of other great families. The tournament is open to young [[sacred artists]] up to the age of thirty-five, specifically targeting those at the [[Underlord]] stage. Participants must navigate multiple rounds of elimination, including single-elimination duels, to reach the final eight. The top eight competitors are honored as Uncrowned and receive a permanent, unique spiritual mark known as the [[Broken Crown]]. This divine treasure acts as an indelible signature that identifies them as elite warriors and agents of their respective [[Monarchs]]. Beyond this recognition, the Uncrowned receive personal instruction from a [[Sage]]. The tournament's highest achievers—the top four finishers—receive significant rewards, including seven hand-picked gifts from the other participating teams. Historically, those who reach the top four have gone on to achieve elite ranks such as [[Sage]] or [[Herald]]. While the competition is a path to greatness, it carries strict rules, such as prohibiting those who have reached the [[Archlord]] or [[Herald]] stages from competing.}}
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The top eight fighters in the tournament receive the mark of the [[Uncrowned]], a unique tattoo of a broken crown that anchors to the spirit.<ref name="cradle-06-underlord-c12">''Underlord'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|The Uncrowned is a tournament structured around a series of single-elimination duels. Participants compete through various stages, where winning a round earns them the right to become one of the Uncrowned. The competition eventually narrows down to eight individuals honored from the final elimination round. Ultimately, the final selection round reveals the true Uncrowned Kings.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Uncrowned]] are those who reach the top eight in the tournament.<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Uncrowned]] are eight individuals honored from the final elimination round.<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The final selection round reveals the true [[Uncrowned]] Kings.<ref name="cradle-07-uncrowned-c18" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Uncrowned]] is a tournament featuring single-elimination duels.<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The tournament determines which eight [[Uncrowned]] are chosen.<ref name="cradle-07-uncrowned-c19" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Winning a round earns the right to become one of the [[Uncrowned]].<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|The Uncrowned is a recognized status and title held by a group of individuals selected through a tournament held in an [[arena]]. As the competition progressed into its fourth round, [[Blacksword]] was virtually guaranteed a spot, while [[Sha Miara]] was also expected to be among the participants. The group is composed of eight members, including two [[Blackflame Underlords]] and three individuals claimed by [[Reigan Shen]]. During the fifth round, increased security caused the competitors to be separated, though they remain permitted to interact outside of their matches. While eliminated competitors were kept aboard the [[Akura]] cloudship, only the Uncrowned and their sponsors are allowed access to the waiting rooms behind the arenas.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Uncrowned]] is an upcoming event.<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sha Miara]] was expected to be among the [[Uncrowned]].<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Two of the eight [[Uncrowned]] are going to be [[Blackflame Underlords]].<ref name="cradle-08-wintersteel-c4" />}}</li>
@@ -51,8 +49,7 @@
 <li>{{spoiler|book=cradle-08-wintersteel|Only the [[Uncrowned]] and their sponsors are allowed in the waiting rooms behind the arenas.<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Reigan Shen]] claimed responsibility for three of the eight [[Uncrowned]].<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Four enemy [[Uncrowned]] were behind [[Lindon]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|Lindon caught the word “Uncrowned” whispered from several directions.<ref name="cradle-08-wintersteel-c6" />}}

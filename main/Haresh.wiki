@@ -12,15 +12,14 @@
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Haresh is a non-human, red-skinned old man who serves as an [[Arbiter]]. Known specifically as the [[Arbiter]] of Betrayal, he carries a long noose crafted from ash. This ash-gray rope serves as a defining tool of his station.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Haresh]] is the [[Arbiter]] of Betrayal.<ref name="tg-02-crimson-vault-c22">''The Crimson Vault'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Haresh]] is a red-skinned old man who is not human.<ref name="tg-02-crimson-vault-c22" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Haresh]] has a long gray noose made of ash.<ref name="tg-02-crimson-vault-c22" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Haresh]] is an [[Arbiter]].<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Haresh]] uses an ash-gray rope.<ref name="tg-02-crimson-vault-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|“Your Majesty, meet Haresh, Arbiter of Betrayal.<ref name="tg-02-crimson-vault-c22" />}}

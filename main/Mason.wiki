@@ -11,8 +11,8 @@
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|As members of a [[Guild]], [[Masons]] utilize various uniforms and disguises to perform their specialized work. This group includes trainees, servants, and individuals who wear aprons, as well as a team composed of twelve sailor [[Masons]] and fourteen combat-trained [[Masons]]. Working for the [[Greenwardens]], one Mason was responsible for training [[Kameira]] and assisted by hauling [[Shera]] onto the back of a Waverider-mounted companion. In addition to cleaning up after battles alongside [[Shepherds]], [[Masons]] have also operated undercover within the [[Navigator’s Guild]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Masons]] rely on disguises for their work.<ref name="ee-shadow-01-of-shadow-and-sea-c1">''Of Shadow and Sea'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Masons]] are part of the group that cleans up after battles alongside [[Shepherds]].<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A [[Mason]] is a character who works for the [[Greenwardens]] and was training [[Kameira]].<ref name="ee-shadow-01-of-shadow-and-sea-c4" />}}</li>
@@ -25,26 +25,23 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Masons]] are a group that includes trainees.<ref name="ee-shadow-01-of-shadow-and-sea-c13">''Of Shadow and Sea'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|There are [[Mason]] servants.<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A [[Mason]] wore an apron.<ref name="ee-shadow-01-of-shadow-and-sea-c26" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Masons]] are a group that includes guards.<ref name="ee-shadow-02-of-darkness-and-dawn-c19">''Of Darkness and Dawn'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Masons]] are a group of people armed with guns.<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|A Palace maid, who is a [[Mason]], left a ladder down for [[Shera]].<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Mason]] led the way through the hallway.<ref name="ee-shadow-03-of-killers-and-kings-c14" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|A stranger was identified as a [[Mason]] by his lack of a black uniform.<ref name="ee-shadow-03-of-killers-and-kings-c15">''Of Killers and Kings'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|A [[Mason]] attempted to attack [[Shera]].<ref name="ee-shadow-03-of-killers-and-kings-c15" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“The full team,” Meia explained, “consists of thirty-three Shepherds, fourteen combat-trained Masons, a dozen sailor Masons to crew the ship, and us.<ref name="ee-shadow-01-of-shadow-and-sea-c10" />}}

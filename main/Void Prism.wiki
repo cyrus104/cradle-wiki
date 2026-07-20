@@ -17,8 +17,8 @@
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|The Void Prism is a [[Zenith Processor]] and [[Zenith Device]] that can manifest as a technique consisting of yellow sparks from a holo-projector. This entity, also known by the name used by one of [[Horizon]]'s brothers, can appear as a swirl of yellow light resembling a double helix or shift into various forms, including a humanoid shape and a snake made of sparks. Capable of solving [[Subspace]] communication problems and taking over various devices, the Void Prism uses [[pathfinding magic]] and can analyze spells to find countermeasures. As Shyrax's partner, the character uses sharp sensors to navigate and communicates privately with [[Lutoch Terelle]] through mental voices. During a ritual, the Void Prism shimmered above a host tank and projected a map of the galaxy before appearing as an urgent hologram through a wrist console.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">34</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">34</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] is the [[Zenith Processor]].<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] is a name used by one of [[Horizon]]'s brothers and is also a [[Zenith Processor]].<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] is a technique that manifests as a cluster of yellow sparks from a holo-projector.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
@@ -53,8 +53,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] is represented by a hologram.<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] is a character who spoke urgently to the Captain.<ref name="lh-04-the-pilot-c48" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Prism projects himself through a wrist console.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“We’re dealing with Void Prism,” Shadow Ark said. “His sensors are always very sharp, but our one advantage is that he won’t be around in person. At least, as long as we’re in transit.”<ref name="lh-04-the-pilot-c18" />}}

@@ -15,36 +15,32 @@
 {{spoiler|book=cradle-13-threshold|[[King]] [[Dakata]], also known as [[King]] [[Seishen Dakata]], is the ruler of the [[Seishen Kingdom]]. A powerful warrior who unified his realm through personal combat, he possesses a massive, sturdy build reminiscent of an aging bear and is often seen wearing gray [[Forged]] armor. He wields a large [[sword]] and a heavy metal shield decorated with a lion's face, and he is capable of utilizing a [[Thousand-Mile Cloud]] for travel. [[Dakata]] has fathered two sons: the first prince, [[Kiro]], and the second prince, [[Daji]]. Throughout his reign, he has navigated complex political relationships with the [[Akura clan]], at times acting with great respect and submissiveness toward their [[Sages]] to demonstrate his kingdom's worth, while at other times expressing deep frustration regarding the [[Akura]]'s influence. His leadership has been tested by internal and external pressures, including a coup attempt, the death of his eldest son, and accusations of conspiracy involving his younger son. Despite these challenges, he has demonstrated significant resilience and a desire to protect the future of his kingdom and its remaining heir.}}
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[King Dakata]] is the father of [[Seishen Daji]].<ref name="cradle-06-underlord-c16">''Underlord'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[King Dakata]] is part of the [[Seishen Kingdom]].<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[King Dakata]] has a son.<ref name="cradle-06-underlord-c21" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[King Dakata]] flew out to meet the [[Akura]] family.<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[King]] [[Seishen Dakata]] is an older man built like a noble bear.<ref name="cradle-09-bloodline-c3">''Bloodline'', chapter 3</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[King Dakata]] is the [[King]] of the [[Seishen Kingdom]].<ref name="cradle-13-threshold-c9">''Threshold: Stories from Cradle'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[King Dakata]] is an [[Overlord]].<ref name="cradle-13-threshold-c9" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[King Dakata]] cycles strength into his spirit from the [[vital aura]].<ref name="cradle-13-threshold-c9" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-06-underlord|“My son! What have you done with my son?”<ref name="cradle-06-underlord-c21" />}}

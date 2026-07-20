@@ -9,17 +9,16 @@
 {{spoiler|book=tg-03-city-of-light|[[Incarnations]] are powerful, noble entities that function as forces of nature. However, remaining in the physical world for extended periods causes them to lose their sanity, making them behave like violent, rabid animals. The [[Endross]] [[Incarnation]] is a specific type of this entity, characterized by being fueled by rage. This nature makes them particularly susceptible to the territory of [[Asphodel]], which can subdue them by feeding on their emotions. In terms of appearance and behavior, an [[Endross]] [[Incarnation]] may possess wings made of dark stormclouds, eyes that glow like lightning, and limbs that emit electrical energy. They are known to act as natural disasters, causing widespread destruction to the land and its inhabitants. Historically, individuals have attempted to transform into these beings to achieve demigod status; for example, one traveler successfully became an [[Incarnation]] after the previous one was defeated. While they are often unpredictable and destructive, some have been observed displaying unusual restraint or erratic behavior during confrontations.}}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|An [[Endross Incarnation]] is fueled by rage.<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|After the second [[Endross]] [[Incarnation]] vanished and fell silent, [[Leah]] grew fearful that his violent moods could lead to the destruction of various outposts. Appearing as a man wreathed in blue-white lightning, he descended upon crowds while performing displays of light and sound. He later hovered over the [[Damascan camp]] using wings made of stormclouds, embodying the nature of an [[Incarnation]] by tearing through land and people like a natural disaster. This entity was ultimately part of a setup involving [[King Zakareth the Sixth]], participating in a staged contest against him. During the ensuing battle, the [[Endross]] [[Incarnation]] served as the sole [[Incarnation]] present, launching attacks from his wings of lightning and cloud.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The second [[Endross Incarnation]] has gone quiet/vanished.<ref name="tg-03-city-of-light-c4">''City of Light'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Leah]] fears the [[Endross Incarnation]] because he might destroy outposts in a violent mood.<ref name="tg-03-city-of-light-c19">''City of Light'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Endross Incarnation]] is a man blazing with blue-white lightning.<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
@@ -30,8 +29,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|The [[Endross Incarnation]] was part of a setup involving [[King]] [[Zakareth]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Endross Incarnation]] attacks on wings of cloud and lightning.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The only [[Incarnation]] on the battlefield was the [[Endross Incarnation]].<ref name="tg-03-city-of-light-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

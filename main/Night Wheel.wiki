@@ -4,13 +4,12 @@
 }}
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Night Wheel]] has a swirling purple center.<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Night Wheel]] is overhead.<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Night Wheel]] spins slowly overhead in the valley.<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

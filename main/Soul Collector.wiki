@@ -11,33 +11,30 @@
 {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Kelarac]], known as the Soul Collector, is a highly respected [[Great Elder]] who exists in myth and legend. He is characterized as a shrewd and dangerous bargainer whose deals frequently result in misfortune for the other party, often requiring extreme desperation or intelligence to survive. While his title suggests an interest in souls, [[Kelarac]] clarifies that he prefers the name because it implies total ownership over humans—including their bodies, minds, and service. He views himself as a collector of whole objects rather than fragments. Physically, he is described as wearing a metal blindfold and various pieces of jewelry, sometimes appearing with a distorted face. He is believed to be sealed at the bottom of the ocean, and sailors often reference him in that context. [[Kelarac]] possesses the ability to summon treasures and move objects, and he has been known to grant gifts or wishes in exchange for specific items or service.}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Soul Collector]] is someone people can have a link to.<ref name="ee-sea-01-of-sea-and-shadow-c22">''Of Sea and Shadow'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Soul Collector]] is a being that stepped out from a [[void]].<ref name="ee-sea-02-of-dawn-and-darkness-c12">''Of Dawn and Darkness'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Soul Collector]] is a character who wanted something to do with a [[Consultant]] assassin.<ref name="ee-sea-02-of-dawn-and-darkness-c12" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Kelarac]], who is widely known as the Soul Collector, possesses the ability to grant wishes provided that a person follows a compass. During an encounter, he watched [[Calder]] with an unreadable expression while [[Jerri]] established a personal connection with him. [[Bliss]] suspected that the Soul Collector's actions were intended to catch [[Kelarac]] off-guard. Ultimately, he prepared himself to spend the final remnants of his collection.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Soul Collector]] can grant wishes in exchange for following a compass.<ref name="ee-sea-03-of-kings-and-killers-c11">''Of Kings and Killers'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Soul Collector]] watched [[Calder]] unreadably.<ref name="ee-sea-03-of-kings-and-killers-c19">''Of Kings and Killers'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jerri]] made a personal connection with the [[Soul Collector]].<ref name="ee-sea-03-of-kings-and-killers-c19" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Kelarac]] is known as the [[Soul Collector]].<ref name="ee-sea-03-of-kings-and-killers-c20">''Of Kings and Killers'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Soul Collector]] is someone [[Bliss]] suspects wanted to catch [[Kelarac]] off-guard.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Soul Collector]] is ready to spend the last of his collection.<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

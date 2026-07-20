@@ -6,13 +6,12 @@
 }}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|Juvari is a short woman of the [[Silent Servants]] and the chosen of [[Reigan Shen]].<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Kenvata Nasuma Juvari]] is a short woman in a plain white robe who belongs to the [[Silent Servants]].<ref name="cradle-08-wintersteel-c6" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Juvari would have had two white haloes.<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|“Kenvata Nasuma Juvari of the Silent Servants, chosen of Reigan Shen, you face Sophara of the gold dragons, chosen of the Dragon King!”<ref name="cradle-08-wintersteel-c6" />}}

@@ -7,12 +7,11 @@
 }}
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Rosegold Emperor]] may not wait on the [[Dreadgods]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Rosegold Emperor]] has provided assistance.<ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-11-dreadgod|“Yes! I mean, we would be most grateful, and we will not forget the Rosegold Emperor’s assistance.”<ref name="cradle-11-dreadgod-c4" />}}

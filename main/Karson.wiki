@@ -5,13 +5,12 @@
 }}
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Karson]]'s parents and older sister were killed in riots following [[Emperor (Elder Empire)|the Emperor]]'s death five years ago.<ref name="ee-sea-03-of-kings-and-killers-c1">''Of Kings and Killers'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Karson]] practiced with a [[sword]] for three hours a day for four years.<ref name="ee-sea-03-of-kings-and-killers-c1" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Karson]] was attacked by a shadow that burrowed into his thoughts.<ref name="ee-sea-03-of-kings-and-killers-c1" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-03-of-kings-and-killers|“A spawn of Urg’naut,” Calder Marten explained. “It burrowed itself into your thoughts.<ref name="ee-sea-03-of-kings-and-killers-c1" />}}

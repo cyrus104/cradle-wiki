@@ -16,21 +16,20 @@
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|Sopharanatoth is a [[dragon]] belonging to the gold bloodline. Her appearance is notably unique, possessing a face that remains almost entirely human aside from her eyes and patches of scales upon her cheeks. She is further distinguished from other gold [[dragons]] by the presence of her [[soulfire]]. Additionally, she is known for her shrieking laughter.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Sopharanatoth]] is a [[dragon]] of the gold bloodline.<ref name="cradle-05-ghostwater-c10">''Ghostwater'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|Sophara's [[soulfire]] sets her apart from other gold [[dragons]].<ref name="cradle-05-ghostwater-c10" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|Sophara's face is almost entirely human except for her eyes and patches of scales on her cheeks.<ref name="cradle-05-ghostwater-c10" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Sopharanatoth]] is a [[dragon]].<ref name="cradle-05-ghostwater-c17">''Ghostwater'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Sopharanatoth]] has shrieking laughter.<ref name="cradle-05-ghostwater-c17" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|Sopharanatoth is a sacred gold [[dragon]] and a chosen of [[Seshethkunaaz]] who follows the [[Path of the Flowing Flame]]. As an [[Underlord]] and leader of her gold dragon team, she engaged in combat with [[Yerin]] and [[Mercy]] following the death of her younger sister. During the tenth test, she secured first place in the tournament, showcasing a spirit so powerful that [[Lindon]] suspected she might be an [[Overlord]]. While competing, the dragon-girl utilized a floating disc to resist [[Striker techniques]] and unleashed tides of golden flame, though her supply of ghostwater was limited to a single drop. Throughout the events, she maintained a human form marked by golden scales on her cheeks and hands before eventually falling to her knees.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">33</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">33</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth]] is a gold [[dragon]] with the power of an [[Underlord]].<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth]] follows the [[Path of the Flowing Flame]].<ref name="cradle-07-uncrowned-c8" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth]] is a sacred beast.<ref name="cradle-07-uncrowned-c8" />}}</li>
@@ -64,14 +63,13 @@
 <li>{{spoiler|book=cradle-07-uncrowned|Sophara holds a bottled elixir.<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] has been running mental battles against Sophara.<ref name="cradle-07-uncrowned-c19" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Sophara fell to her knees.<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|Sopharanatoth is a [[dragon]] of the gold [[dragons]] and one of the two most favored competitors in a tournament prepared by her kind. During her preparation, she attempted advancement while coiled within eight [[natural treasures]], an effort that resulted in fear and pain. Having utilized various elixirs and a [[Madra Engine]] to process blood and life essence, she successfully advanced to the rank of [[Overlord]]. As a combatant in the tournament finals, she utilized an [[Archlord weapon]] and various techniques to defeat opponents such as [[Akura Malice]]’s daughter, [[Brother Aekin]], and [[Yerin]]. Despite her prowess, her spirit eventually began unraveling, leading to a confrontation where she moved from the [[arena]] to an assassination attempt against [[Mercy]] and [[Lindon]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">62</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">62</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|Sophara is a fighter in the competition.<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth]] is one of the two most favored to win the competition.<ref name="cradle-08-wintersteel-c2" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Sophara is attempting advancement while coiled in a circle of eight [[natural treasures]].<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
@@ -134,39 +132,34 @@
 <li>{{spoiler|book=cradle-08-wintersteel|Sophara used [[Quickriver]] to pour [[madra]] into a [[binding]].<ref name="cradle-08-wintersteel-c28" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Sophara went from the [[arena]] to an assassination attempt on [[Mercy]] and [[Lindon]].<ref name="cradle-08-wintersteel-c28" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] stood over a hopeless Sophara.<ref name="cradle-08-wintersteel-c28" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|Sophara fought outside [[Sky's Edge]].<ref name="cradle-09-bloodline-c2">''Bloodline'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Sophara possesses a [[void key]].<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Sophara had a [[void key]] and a [[Heaven’s Torch]].<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The [[Dawn Sky Palace]] was stolen from Sophara.<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The gold [[dragons]] pumped [[Sopharanatoth]] as full as they dared, causing critical instability in her spirit.<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|Sophara's body was still warm outside.<ref name="cradle-13-threshold-c3">''Threshold: Stories from Cradle'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Lindon]] was supposed to fight Sophara.<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-07-uncrowned|You are already done," her aura-born voice said.<ref name="cradle-07-uncrowned-c8" />}}

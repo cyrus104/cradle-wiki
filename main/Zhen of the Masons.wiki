@@ -16,8 +16,8 @@
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|As the owner of the [[House of the Masons]], Zhen served as a teacher to [[Shera]]. During their time together, the mustachioed instructor would lift [[Shera]] into the air by her armpits and teach her to project confidence even when she lacked knowledge on a subject. Later, Zhen was found waiting in a room alongside [[Kerian]] and [[Tyril]]. A fighter who carries two [[steel]] knives, Zhen eventually inquired about the next course of action.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Zhen of the Masons]] was a teacher to [[Shera]].<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Zhen lifted [[Shera]] into the air by her armpits.<ref name="ee-shadow-01-of-shadow-and-sea-c5">''Of Shadow and Sea'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Zhen has a mustache.<ref name="ee-shadow-01-of-shadow-and-sea-c5" />}}</li>
@@ -27,23 +27,21 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Zhen carries two [[steel]] knives.<ref name="ee-shadow-01-of-shadow-and-sea-c13" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Zhen is a fighter using knives.<ref name="ee-shadow-01-of-shadow-and-sea-c15">''Of Shadow and Sea'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Zhen asked what to do next.<ref name="ee-shadow-01-of-shadow-and-sea-c15" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Lucan]] trained with Zhen before [[Meia]] reached the island.<ref name="ee-shadow-02-of-darkness-and-dawn-c7">''Of Darkness and Dawn'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Zhen has a house with racks containing dresses.<ref name="ee-shadow-02-of-darkness-and-dawn-c18">''Of Darkness and Dawn'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Zhen has nothing to destroy the Heart.<ref name="ee-shadow-02-of-darkness-and-dawn-c20">''Of Darkness and Dawn'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|An elderly member of the [[Masons]], Zhen maintains a home fortified with various alarms, potential entrances, and decoys designed to act as traps. Within the basement of this residence, several coffins are kept in storage. During an encounter with [[Lucan]], Zhen questioned whether the man had successfully located his objective. In a moment of conflict, Zhen utilized a soup bowl to serve as a shield.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Zhen asked [[Lucan]] if he found what he came for.<ref name="ee-shadow-03-of-killers-and-kings-c9">''Of Killers and Kings'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Zhen is an old [[Mason]].<ref name="ee-shadow-03-of-killers-and-kings-c9" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Zhen has a basement containing coffins.<ref name="ee-shadow-03-of-killers-and-kings-c11">''Of Killers and Kings'', chapter 11</ref>}}</li>
@@ -51,8 +49,7 @@
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Zhen has a house with decoys and traps.<ref name="ee-shadow-03-of-killers-and-kings-c15">''Of Killers and Kings'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Zhen has a home with potential entrances and alarms.<ref name="ee-shadow-03-of-killers-and-kings-c15" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Zhen uses a soup bowl as a shield.<ref name="ee-shadow-03-of-killers-and-kings-c15" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-03-of-killers-and-kings|“Did you find what you came for?” Zhen asked, seemingly disinterested.<ref name="ee-shadow-03-of-killers-and-kings-c9" />}}

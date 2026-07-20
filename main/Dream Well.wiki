@@ -11,8 +11,8 @@
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|The Dream Well is a location featuring clear, purple-tinted water designed to eliminate mental fatigue and boost focus in humans. Associated with a motto regarding the invigoration of movers and thinkers, its waters can be used for training purposes. [[Consuming]] the water can smooth out consciousness, improve sleep quality, and enhance reaction speed. During recent events, [[Lindon]] drank from the well, while its water was also used to improve the mental state of [[Orthos]]. Additionally, [[Dross]] spent a significant amount of time within the Dream Well.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Dream Well]] is a well containing clear water tinted purple that radiates focus and determination.<ref name="cradle-05-ghostwater-c6">''Ghostwater'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Dream Well]] is designed to boost focus and eliminate mental fatigue in humans.<ref name="cradle-05-ghostwater-c6" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Dream Well]] is a location associated with the motto 'Invigorating power to keep those motivated movers moving and those tired thinkers thinking.'<ref name="cradle-05-ghostwater-c6" />}}</li>
@@ -22,15 +22,13 @@
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Dream Well water]] improved [[Orthos]]' mental state.<ref name="cradle-05-ghostwater-c9" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|the [[Dream Well]] improves reaction speed and focus.<ref name="cradle-05-ghostwater-c10">''Ghostwater'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Dross]] spent a long time in the [[Dream Well]].<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Lindon]] found [[Dross]] in the [[Dream Well]].<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-05-ghostwater|“That was one of the mottos I was working on for the Dream Well, what do you think?”<ref name="cradle-05-ghostwater-c6" />}}

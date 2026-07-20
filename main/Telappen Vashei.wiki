@@ -6,20 +6,18 @@
 }}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|President Vashei was the President of the [[Galactic Union]] a little over a hundred years ago.<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Telappen Vashei]] was President of the [[Galactic Union]].<ref name="lh-01-the-captain-c40" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Telappen Vashei]] was a stern but kind human woman.<ref name="lh-04-the-pilot-c41">''The Pilot'', chapter 41</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Telappen Vashei]] had iron-gray hair.<ref name="lh-04-the-pilot-c41" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

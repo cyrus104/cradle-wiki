@@ -11,25 +11,23 @@
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|[[Tartarus]] [[steel]] is a mirror-bright material used to forge [[Indirial]]'s war-hammer. This nearly unbreakable substance serves as a specialized blade material and is utilized to craft summoning keys for [[Tartarus Travelers]]. Additionally, the metal is employed to create a soldier's shining [[sword]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Tartarus steel]] is a material used to make [[Indirial]]'s war-hammer.<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Tartarus steel]] is all but unbreakable.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Tartarus steel]] is used to make summoning keys for [[Tartarus Travelers]].<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Tartarus steel]] is a type of blade material.<ref name="tg-02-crimson-vault-c11">''The Crimson Vault'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Tartarus steel]] is mirror-bright.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Tartarus steel]] is used to make a soldier's shining [[sword]].<ref name="tg-02-crimson-vault-c20" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Tartarus steel]] is a material used to cover a giant.<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Indirial]] is working with a pile of [[Tartarus steel]].<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Erastes]] holds a [[Tartarus steel]] infantry [[sword]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

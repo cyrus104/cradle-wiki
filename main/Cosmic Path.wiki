@@ -9,43 +9,39 @@
 {{spoiler|book=lh-04-the-pilot|The Cosmic [[Path]] is the most advanced spell within the discipline of navigational magic. It functions by requesting a route from the [[Aether]] to a known destination, manifesting as a glowing golden river or road that stretches through space. While it is highly specialized for the high-speed navigation of starships across different star systems, it is considered the pinnacle of [[pathfinding magic]]. The spell provides a precise guide to a destination, though it can be interrupted if the route becomes impassable or is intentionally severed. It has been used to guide vessels through complex galactic territories and can even be utilized in ritualistic contexts to assist in the positioning of magical manifestations across a planet.}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Cosmic Path]] is a pinnacle spell of navigational magic used for precise starship navigation at high speeds in space.<ref name="lh-01-the-captain-c7">''The Captain'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Cosmic Path]] is a spell used to reach a specific destination.<ref name="lh-01-the-captain-c42">''The Captain'', chapter 42</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Captain]] cast the [[Cosmic Path]].<ref name="lh-01-the-captain-c48">''The Captain'', chapter 48</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The [[Cosmic Path]] is the pinnacle spell of the [[Captain]]'s navigational magic.<ref name="lh-02-the-engineer-c26">''The Engineer'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Cosmic Path]] is a spell that emits golden light.<ref name="lh-02-the-engineer-c27">''The Engineer'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Cosmic Path]] is a magic spell that creates golden [[Aetheric symbols]].<ref name="lh-02-the-engineer-c28">''The Engineer'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The Cosmic [[Path]] is a concept and a specialized spell capable of reaching through [[Subspace]]. When activated by the narrator, this route manifests as an unbroken golden road cutting through the darkness. The process involves using a specific chant while flying, though the resulting path remains a spell that can be severed or cut off.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Cosmic Path]] is a concept or path that can reach through [[Subspace]].<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The narrator has the [[Cosmic Path]] active.<ref name="lh-03-the-knight-c15">''The Knight'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Cosmic Path]] is a route that appears as an unbroken golden road in the darkness.<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Cosmic Path]] is a spell that can be severed or cut off.<ref name="lh-03-the-knight-c16" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Cosmic Path]] is a chant used while flying.<ref name="lh-03-the-knight-c16" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Cosmic Path]] is something [[Omega]] should follow if it returns.<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Cosmic Path]] is a spell that allows for navigating out of a system.<ref name="lh-04-the-pilot-c29" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

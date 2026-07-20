@@ -9,35 +9,32 @@
 {{spoiler|book=tg-03-city-of-light|The Latari Forest is a vast woodland area located near the village of [[Myria]] and the road to [[Enosh]]. While some travelers find its interior cool and damp, others associate it with danger; local legends speak of a demon within the woods that attacks and mutilates people. The forest is also known to be a place where [[bandits]] may operate, though some believe the resident demon prevents such activity. At its southeastern edge lies [[Orgrith Cave]], a location that corrupts the surrounding environment, turning the land into a desolate area of blackened grass, sandy soil, and stone-like tree trunks. A central and significant feature of the forest is a powerful force or prison sealed at its heart by the [[Damascans]]. To maintain this seal, nine lives are sacrificed annually. This central location is home to a [[Hanging Tree]], which has been linked to the [[Incarnations]] and the potential for widespread bloodshed if destroyed. The forest's center has also been described as a glade containing a marble mausoleum that houses [[Lysander]]’s [[Tree]], which is protected by blood-colored, thorny tendrils. The forest serves as a significant landmark for various groups, including [[Travelers]] and those seeking to protect or release the ancient powers contained within its depths.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Latari Forest]] is a location where villagers tell stories about a demon.<ref name="tg-01-house-of-blades-c1">''House of Blades'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The [[Latari Forest]] is where the encounter takes place.<ref name="tg-01-house-of-blades-c5">''House of Blades'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The wagons have stopped at the northwestern edge of the [[Latari Forest]].<ref name="tg-01-house-of-blades-c14">''House of Blades'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Simon]]'s father was killed at the edge of the [[Latari Forest]].<ref name="tg-01-house-of-blades-c23">''House of Blades'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Situated near the road to [[Enosh]], the Latari Forest lies in close proximity to the village of [[Myria]]. It is a place where [[Indirial]] once witnessed an illusion of [[Nerissa]]. At the heart of the woods lies a central clearing containing the [[Hanging Tree]]. This central location also serves as the site of the [[Valinhall Incarnation]]'s grave and was visited by [[Kai]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Latari Forest]] is located near the road to [[Enosh]].<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Latari Forest]] is a location where [[Indirial]] saw an illusion of [[Nerissa]].<ref name="tg-02-crimson-vault-c1" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Myria]] is a village near the [[Latari Forest]].<ref name="tg-02-crimson-vault-c1" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Kai]] is in a clearing at the center of [[Latari Forest]].<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Hanging Tree]] is located at the center of [[Latari Forest]].<ref name="tg-02-crimson-vault-c4" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Valinhall Incarnation]]'s grave is located at the center of the [[Latari Forest]].<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Kai]]'s trips into the [[Latari Forest]] kept him sane.<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|"The Valinhall Incarnation travels in a straight line from his grave at the center of the Latari Forest to his destination."<ref name="tg-02-crimson-vault-c8" />}}

@@ -16,8 +16,8 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The Emperor was the long-lived founder and ruler of the [[Aurelian Empire]], a figure credited with establishing human civilization and providing stability against the [[Great Elders]]. For nearly two millennia, he maintained his life and power by [[binding]] himself to a [[Heart of Nakothi]], an artifact derived from a [[Great Elder]]. His rule was characterized by immense personal power and the use of the [[Optasia]], a specialized [[throne]] and global receptor network that allowed him to amplify his [[Reading]] abilities to monitor and counter Elder threats across the world. While he was viewed by many as a symbol of civilization and protection, others perceived him as a distant, potentially corruptible figure who had become more like an Elder than a human. He was known to be capable of extreme ruthlessness, personally executing threats and managing [[The Empire{{!}}the Empire]] with an [[Iron{{!}}iron]] will. Following his death—which some believe he allowed to happen to prevent the [[Elders]] from possessing a single point of absolute [[Authority{{!}}authority]]—[[The Empire{{!}}the Empire]] entered a period of fragmentation and chaos known as the [[Long Mourning]]. His legacy remains central to the political landscape, as various factions struggle to decide whether to raise a new leader or allow the world to govern itself.}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">19</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Emperor has been dead for over five years.<ref name="ee-sea-01-of-sea-and-shadow-c1">''Of Sea and Shadow'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Emperor is deceased.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Emperor is a Reader with overwhelming powers.<ref name="ee-sea-01-of-sea-and-shadow-c4">''Of Sea and Shadow'', chapter 4</ref>}}</li>
@@ -37,12 +37,11 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Holding the Heart can make a case for the [[Imperial Throne{{!}}Emperor’s throne]].<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Emperor is described as being so removed from humanity that he might as well be [[Elderspawn]].<ref name="ee-sea-01-of-sea-and-shadow-c26">''Of Sea and Shadow'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Emperor ordered [[Alsa Grayweather]] to be kept in [[Guild]] custody.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">40</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">40</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Emperor compensated [[Ulrich Fletcher]] for his lost business.<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The client is [[Emperor (Elder Empire){{!}}the Emperor]].<ref name="ee-shadow-01-of-shadow-and-sea-c2" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Emperor signed the release for [[Baldezar Kern]] to take the field.<ref name="ee-shadow-01-of-shadow-and-sea-c3">''Of Shadow and Sea'', chapter 3</ref>}}</li>
@@ -83,12 +82,11 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Emperor believes the subject's disposition is unsuitable for a [[Gardener]].<ref name="ee-shadow-01-of-shadow-and-sea-c24" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Emperor states the subject is empathetic, clear-headed, has a strong moral compass, and questions everything.<ref name="ee-shadow-01-of-shadow-and-sea-c24" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Emperor put the former Watchman to sleep and left him there.<ref name="ee-shadow-01-of-shadow-and-sea-c27">''Of Shadow and Sea'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">21</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">21</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The characters discuss the need for an Emperor.<ref name="ee-sea-02-of-dawn-and-darkness-c2">''Of Dawn and Darkness'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Emperor spared [[Calder]] from execution.<ref name="ee-sea-02-of-dawn-and-darkness-c3">''Of Dawn and Darkness'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Emperor used the [[Optasia]] to control amplification devices and use his [[Intent]] anywhere instantly.<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
@@ -110,12 +108,11 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Emperor is issuing orders to search for suspicious vessels.<ref name="ee-sea-02-of-dawn-and-darkness-c21">''Of Dawn and Darkness'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Emperor is a figurehead with absolute power to indulge his whims.<ref name="ee-sea-02-of-dawn-and-darkness-c23">''Of Dawn and Darkness'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Emperor has no official duties.<ref name="ee-sea-02-of-dawn-and-darkness-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">43</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">43</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The Emperor was murdered.<ref name="ee-shadow-02-of-darkness-and-dawn-c1">''Of Darkness and Dawn'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The Emperor believes no [[sacrifice]] is too great to prevent the rise of the [[Elders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c3">''Of Darkness and Dawn'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Shera]] has fought [[Emperor (Elder Empire){{!}}the Emperor]] in the heart of the [[dead island]].<ref name="ee-shadow-02-of-darkness-and-dawn-c3" />}}</li>
@@ -159,12 +156,11 @@
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The Emperor is a figure who would be unable to follow the group through the mist.<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The Emperor is weakening and requires more personal attention for tasks.<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|There is a baby Emperor that needs to be finished.<ref name="ee-shadow-02-of-darkness-and-dawn-c22" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">24</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">24</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Emperor has powers that can be referenced by [[Imperial relics]].<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Emperor protected everyone from the [[Elders]] and has lived for over two thousand years.<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Emperor had a desire for [[safe]], peaceful sleep that invested his bed with [[Intent]].<ref name="ee-sea-03-of-kings-and-killers-c4" />}}</li>
@@ -189,12 +185,11 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Emperor's persona as [[Sadesthenes]] was the self-educated son of a wine merchant.<ref name="ee-sea-03-of-kings-and-killers-c25" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Emperor and [[Calder]] woke in the same body.<ref name="ee-sea-03-of-kings-and-killers-c25" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Emperor's echo is a force to be reckoned with.<ref name="ee-sea-03-of-kings-and-killers-c25" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">30</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">30</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] killed [[Emperor (Elder Empire){{!}}the Emperor]] for the Independent cause.<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Emperor was once called Liberator by the people he saved.<ref name="ee-shadow-03-of-killers-and-kings-c3">''Of Killers and Kings'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Emperor is currently injured with a possible cracked rib, minor cuts, bruises, and a broken foot.<ref name="ee-shadow-03-of-killers-and-kings-c3" />}}</li>
@@ -225,8 +220,7 @@
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Emperor stated that before the [[Elders]], all men are allies.<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Emperor taught [[Shera]] precautionary tales about those who dealt with [[Kelarac]].<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Emperor told [[Shera]] she needed to be ruthless.<ref name="ee-shadow-03-of-killers-and-kings-c26">''Of Killers and Kings'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“Nobody wants to be the Emperor?” Calder spat out.<ref name="ee-sea-01-of-sea-and-shadow-c14" />}}

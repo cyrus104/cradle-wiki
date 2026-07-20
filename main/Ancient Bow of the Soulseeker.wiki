@@ -9,17 +9,16 @@
 {{spoiler|book=cradle-12-waybound|The Ancient [[Bow]] of the Soulseeker, also known as [[Eclipse]] and the Sacred [[Bow]] of the Soulseeker, is a powerful weapon capable of instantly killing a [[Monarch]]. It is characterized by its amethyst beams and the ability to fire massive volleys of [[Forged]] arrows, such as a barrage of a thousand amethyst projectiles. The weapon is described as being made from the material of a [[Dreadgod]], specifically utilizing its [[binding]] to create arrows. While it is an incredibly potent tool, the weapon possesses a significant spiritual pressure that can be difficult for a user to manage within their [[soulspace]]. It is considered a unique item composed of irreplaceable parts, and it was intended to be a weapon for [[Mercy]] to master as she grows in power. The bow is distinct from the [[Silent King]] [[Bow]], which is a separate [[Dreadgod weapon]] crafted from the body of the [[Silent King]].}}
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Eclipse]] is the [[Ancient Bow of the Soulseeker]].<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|The [[Silent King]] [[Bow]] is a unique, white-striped [[Dreadgod weapon]] constructed from irreplaceable components. This heavy metaphysical tool, which possesses the ability to copy arrows and snarls within [[dream aura]], serves as one of [[Lindon]]'s weapons despite being an extra burden for him to hold. Although the oracle codex depicted [[Northstrider]] hiding the bow, [[Lindon]] eventually withdrew the item and considered its use. Because it is the most powerful object [[Lindon]] can feasibly transfer as a prize, he ultimately chose to leave the weapon with [[Mercy]], who had previously controlled it. The bow's immense authority was even evident in the cracks found within [[Mercy]]'s madra channels.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">16</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">16</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Silent King]] [[Bow]] is feared by [[Reigan Shen]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Silent King]] [[Bow]] is one of [[Lindon]]'s weapons.<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|Holding the [[Silent King]] [[Bow]] is an extra burden for [[Lindon]].<ref name="cradle-12-waybound-c9" />}}</li>
@@ -36,8 +35,7 @@
 <li>{{spoiler|book=cradle-12-waybound|The cracks in [[Mercy]]'s madra channels carried authority from the [[Silent King]] [[Bow]].<ref name="cradle-12-waybound-c21" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Mercy]] had previously controlled the [[Silent King]] [[Bow]].<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] left the [[Silent King]] [[Bow]] with [[Mercy]].<ref name="cradle-12-waybound-c28">''Waybound'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

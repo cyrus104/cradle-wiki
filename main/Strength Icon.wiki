@@ -9,31 +9,28 @@
 {{spoiler|book=cradle-13-threshold|The [[Strength]] [[Icon]], also known as the [[Fist Icon]] or the [[Symbol of Bodily Power]], is a manifestation of a profound conceptual reality. As an [[Icon]], it serves as a symbol of a greater concept that individuals can contact to achieve the status of a [[Sage]]. The specific [[Icon]] an individual manifests is determined by their current [[madra]] and a core concept that has defined their identity since childhood. Possessing the authority of this [[Icon]] allows a user to exert power on a conceptual level, enabling them to bend the physical laws of the world in ways similar to [[Monarchs]] or [[Heralds]]. It can provide immense physical empowerment, such as augmenting a punch with infinite power or granting the ability to sense everything in one's immediate vicinity. The [[Icon]] can also resonate with other manifestations, such as the [[Dragon Icon]]. While having many [[Icons]] increases a person's versatility, the effectiveness of an [[Icon]] is tied to how deeply a user can reflect its meaning and represent its concept.}}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Strength Icon]] is also known as the [[Fist Icon]] or the [[Symbol of Bodily Power]].<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Northstrider]] can manifest the authority of the [[Strength Icon]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Strength Icon]] provides authority.<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Strength Icon]] is an object manifested by a [[Monarch]].<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Strength Icon]] is carried by the body of the [[Netherworld Empress]].<ref name="cradle-12-waybound-c26">''Waybound'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Strength Icon]] was one of the ideals [[Malice]] strove for.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Northstrider]] uses a [[Strength Icon]] to feel things.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Northstrider]] sensed the echo of the [[Strength Icon]].<ref name="cradle-13-threshold-c4" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Strength Icon]] resonated with the [[Dragon Icon]] during [[Northstrider]]'s working.<ref name="cradle-13-threshold-c4" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

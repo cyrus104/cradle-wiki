@@ -11,24 +11,22 @@
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Inquisitors are spider-like beings associated with Ach’magut. Characterized by multiple eyes that cover every angle, these entities typically function as observers. During an encounter in a southern [[Izyrian]] hive, they were cornered and revealed their practice of taking groups of prisoners on a daily basis.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Inquisitors]] were cornered in a hive in southern [[Izyria]].<ref name="ee-sea-02-of-dawn-and-darkness-c11">''Of Dawn and Darkness'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Inquisitors]] typically act as observers.<ref name="ee-sea-02-of-dawn-and-darkness-c11" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Inquisitors]] are spider-like beings.<ref name="ee-sea-02-of-dawn-and-darkness-c13">''Of Dawn and Darkness'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Inquisitors]] take groups of prisoners each day.<ref name="ee-sea-02-of-dawn-and-darkness-c13" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Inquisitors]] are associated with Ach’magut.<ref name="ee-sea-02-of-dawn-and-darkness-c13" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Inquisitors]] have multiple eyes covering every angle.<ref name="ee-sea-02-of-dawn-and-darkness-c13" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Ach'magut]]'s spawn are called [[Inquisitors]] and they look like [[spiders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c5">''Of Darkness and Dawn'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Inquisitors]] are described as having spider-like legs and watching from the walls and ceiling through waving stalks.<ref name="ee-shadow-02-of-darkness-and-dawn-c16">''Of Darkness and Dawn'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

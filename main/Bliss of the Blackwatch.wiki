@@ -18,8 +18,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|Bliss is a superior within the [[Blackwatch]] and serves as the [[Guild]] Head, though [[Calder]] [[Marten]] once feared encountering her and believed she was dead. Characterized by pale skin, white-blond hair, and a long black coat adorned with silver [[Blackwatch]] Crest buttons, she carries a [[Spear of Tharlos]]. When her eyes open after being briefly closed, they shine with a pale light. During discussions regarding the new Emperor, Bliss remains present and expresses her conviction that a world lacking an Emperor would face grave danger. While participating in these matters, she was noted to be fixated on a small butterfly made of blown glass.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Bliss is an individual [[Calder]] [[Marten]] was afraid of running into.<ref name="ee-sea-01-of-sea-and-shadow-c9">''Of Sea and Shadow'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Bliss possesses a [[Spear of Tharlos]].<ref name="ee-sea-01-of-sea-and-shadow-c10">''Of Sea and Shadow'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Bliss is the [[Guild]] Head.<ref name="ee-sea-01-of-sea-and-shadow-c13">''Of Sea and Shadow'', chapter 13</ref>}}</li>
@@ -33,21 +33,19 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Bliss believes a world without an Emperor would be in grave danger.<ref name="ee-sea-01-of-sea-and-shadow-c20">''Of Sea and Shadow'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Bliss was fixated on a tiny butterfly of blown glass.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Bliss is present during the discussion about the new Emperor.<ref name="ee-sea-01-of-sea-and-shadow-c28" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Bliss is the Head of the [[Blackwatch Guild]].<ref name="ee-shadow-01-of-shadow-and-sea-c15">''Of Shadow and Sea'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Bliss is a pale-haired woman wearing a [[Blackwatch coat]] who serves as a commanding [[Guild]] member aboard the ship known as [[The Testament]]. While navigating the vessel, she has demonstrated an ability to hide herself behind casks and assisted [[Calder]] by identifying that the eyes on the [[Navigator]]'s ship were merely painted. During discussions with [[Calder]] regarding the [[Optasia]], she eventually took on the responsibility of supervising the ship's repairs. Notably, Bliss possesses an immunity to the power of [[Tyrfang]] and maintains the capability to remove Jorin from combat.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Bliss is a character on [[The Testament]].<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Bliss is a character who can hide herself behind casks on the ship.<ref name="ee-sea-02-of-dawn-and-darkness-c4" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Bliss is a character who helped [[Calder]] identify that the eyes on the [[Navigator]]'s ship were painted.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
@@ -57,27 +55,25 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Bliss supervised the repair of the [[Optasia]].<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Bliss is a woman with pale hair and wears a [[Blackwatch coat]].<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Bliss is a person who could help remove Jorin from the fight.<ref name="ee-sea-02-of-dawn-and-darkness-c20" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|As a member of the [[Blackwatch]], Bliss serves as a [[Guild]] Head. While performing guard duty, Bliss utilized rough-forged iron spikes as weapons. During this period, the official sent an urgent message through the Watchman.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Bliss sent an urgent message via the Watchman.<ref name="ee-shadow-02-of-darkness-and-dawn-c5">''Of Darkness and Dawn'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Bliss is on guard duty.<ref name="ee-shadow-02-of-darkness-and-dawn-c13">''Of Darkness and Dawn'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Bliss is of the [[Blackwatch]].<ref name="ee-shadow-02-of-darkness-and-dawn-c19">''Of Darkness and Dawn'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Bliss of the Blackwatch]] is a [[Guild]] Head.<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Bliss uses rough-forged iron spikes as weapons.<ref name="ee-shadow-02-of-darkness-and-dawn-c21" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Bliss, the daughter of [[Nathanael Bareius]], is a notoriously unpredictable individual who carries a bone of Tharlos and possesses a [[Soulbound Vessel]]. After being named Steward, she reported that the last escaping [[Consultants]] were transporting an object and later interacted with [[Calder]] and Cheska to help [[Calder]] utilize the [[Optasia]] safely. While held in cell #4162B, she was poisoned with a substance that inhibited her cognitive functions, though she can cleanse her blood and change her location. Following a nightmare, Bliss was seen among figures ascending into the void and eventually sought refuge in the rigging of [[The Testament]]. Wearing a [[Blackwatch coat]], she remains tucked away in the ship's rigging with the intent to seek revenge against her father.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">25</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">25</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Bliss has a bone of Tharlos in her pocket.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Bliss is a person who might be hiding in a closet.<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Bliss is notoriously unpredictable.<ref name="ee-sea-03-of-kings-and-killers-c4" />}}</li>
@@ -103,21 +99,19 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Bliss is the daughter of [[Nathanael Bareius]].<ref name="ee-sea-03-of-kings-and-killers-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Bliss intends to get revenge on [[Nathanael Bareius]].<ref name="ee-sea-03-of-kings-and-killers-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Bliss stayed curled up in the rigging of [[The Testament]].<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|Known for being notoriously unreliable, Bliss of the [[Blackwatch]] carries a black iron spike. During certain periods, there are even suggestions that the individual should be removed. Clad in a [[Blackwatch coat]], Bliss also possesses a spear made of yellowed bone.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Bliss is considered notoriously unreliable.<ref name="ee-shadow-03-of-killers-and-kings-c4">''Of Killers and Kings'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Bliss possesses a black iron spike.<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|There is a suggestion to remove Bliss.<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bliss of the Blackwatch]] wears a [[Blackwatch coat]].<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Bliss possesses a spear of yellowed bone.<ref name="ee-shadow-03-of-killers-and-kings-c24" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|Bliss finally looked up, adding, “I’d like it if he were sane, but I will work with what I can get.”<ref name="ee-sea-01-of-sea-and-shadow-c28" />}}

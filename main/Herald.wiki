@@ -11,8 +11,8 @@
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|A Herald is a specific type of beast whose true nature remains a secret to anyone below the rank of [[Archlord]]. These entities, such as [[Xorrus]], possess bodies that are unified with their spirits and can shift between physical and spiritual forms. This unique power allows a Herald to pit the full strength of their will against an opponent. While [[Fury]] remains vigilant for their appearance, the threat of a Herald is significant, as seen when the [[dragon]]'s Herald had not yet descended from above to annihilate them. Furthermore, excessive killing of cultists carries the risk of drawing the attention of such an enemy.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|A [[Herald]] is a type of beast/entity.<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The nature of [[Heralds]] is a secret for anyone below [[Archlord]].<ref name="cradle-08-wintersteel-c3" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|A [[Herald]] can pit the full might of their spirit and will against another.<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
@@ -23,24 +23,22 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Fury]] watches for [[Heralds]].<ref name="cradle-08-wintersteel-c24">''Wintersteel'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|A [[Herald]]'s spirit and body are one.<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|A [[Herald]]'s power allows their body to shift between spiritual and physical forms.<ref name="cradle-08-wintersteel-c26" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Mercy]] is associated with a tiny [[Herald]].<ref name="cradle-09-bloodline-c5">''Bloodline'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|A stable [[Herald]] would not be affected as much by the suppression field as [[Yerin]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Being a [[Herald]] is described as a bumpy path full of sharp rocks.<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|A [[Herald]] is a type of being that [[Lindon]] was uncertain how the [[Empty Palm]] would affect.<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|The rank of Herald is characterized by a unique relationship between the body and spirit, as seen in [[Yerin]]. Achieving this advancement allows [[Lindon]] to become a [[Monarch]], though it is widely believed that only those at the [[Sage]] or Herald level possess the power to survive and manipulate a [[labyrinth]]'s workings. [[Heralds]] exert significant spiritual pressure and can deploy techniques that obscure spiritual perception, such as the black-and-white copies of past experts. These entities, including [[Reigan Shen]], can move with such speed that they appear as a blur while weaving through projectiles. Furthermore, a Herald's [[Remnant]] is a specific type of [[Remnant]] capable of being tempered in [[Archlord soulfire]], and their spiritual presence can be immense, feeling like multiple [[Heralds]] stitched together.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|As a [[Herald]], [[Yerin]]'s body and spirit have a unique relationship.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|Advancing to [[Herald]] will make [[Lindon]] a [[Monarch]].<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|No one below [[Sage]] or [[Herald]] is believed to have the ability to survive and alter the [[labyrinth]]'s workings.<ref name="cradle-10-reaper-c9">''Reaper'', chapter 9</ref>}}</li>
@@ -52,14 +50,13 @@
 <li>{{spoiler|book=cradle-10-reaper|A [[Herald]] can appear as a black-and-white copy of an expert from the past.<ref name="cradle-10-reaper-c20" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Herald]] is capable of weaving through arrows with speed that appears as a blur.<ref name="cradle-10-reaper-c20" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Reigan Shen]] was a [[Herald]].<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|A Herald is a specific stage of advancement and a member of the [[Eight]]-Man [[Empire]]. While [[Heralds]] are expected to possess greater physical strength than [[Sages]] and can travel via portals, [[Ziel]] viewed his own status as more of a Herald than a [[Sage]]. These beings possess bodies as tough as an [[Archlord]]'s and remain invulnerable to any forces lacking will, yet they can still be pushed back by [[Sages]]. During the conflict, a newborn Herald manifested on the deck of [[Redmoon Hall]], and a single Herald was seen walking into [[Malice]]'s strongholds. Additionally, the techniques used by the [[King's army]] are described as being collectively similar to a Herald.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|A [[Herald]] of the [[Eight]]-Man [[Empire]] is a member of that group.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Herald]] is a stage of advancement.<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Ziel]] viewed himself as more of a [[Herald]] than a [[Sage]].<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
@@ -71,14 +68,13 @@
 <li>{{spoiler|book=cradle-11-dreadgod|A newborn [[Herald]] appears on the deck of [[Redmoon Hall]].<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[King's army]] techniques are collectively like a [[Herald]].<ref name="cradle-11-dreadgod-c18">''Dreadgod'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|A [[Herald]] walked into [[Malice]]'s strongholds.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|The rank of Herald represents a significant advancement goal for [[Little Blue]] and a potential path for [[Mercy]]. Achieving this state requires spirits to form themselves into a physical body, a process aided by the [[Twin Dragon Rejuvenation Pill]] which helps Archlords synchronize their spirit and body. While the [[Path of Seven Pages]] prepares a spirit for this transition, the seventh page of the Book is specifically meant to be mastered once one has reached the rank. This stage of power is formidable, as evidenced by [[Yerin]] killing a Herald and the general difficulty involved in capturing an average one. During certain events, [[Orthos]] and [[Little Blue]] emerged as a new [[Sage]] and Herald respectively.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Little Blue]]'s eventual advancement goal is to reach [[Herald]].<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Herald]] is a potential path or rank for [[Mercy]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Path of Seven Pages]] prepares the spirit for [[Herald]].<ref name="cradle-12-waybound-c7">''Waybound'', chapter 7</ref>}}</li>
@@ -91,8 +87,7 @@
 <li>{{spoiler|book=cradle-12-waybound|The seventh page of the Book is meant to be mastered when one is a [[Herald]].<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The energy in the page is meant to take one to [[Herald]].<ref name="cradle-12-waybound-c25" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|It is hard to capture an average [[Herald]].<ref name="cradle-12-waybound-c26">''Waybound'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-09-bloodline|“Last chance? You think they’ll haul you back from spending time with the youngest Sage and some kind of tiny Herald?<ref name="cradle-09-bloodline-c5" />}}

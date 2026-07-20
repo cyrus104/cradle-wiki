@@ -7,21 +7,19 @@
 {{spoiler|book=cradle-09-bloodline|The Purelake is a large, sapphire-colored body of water located south of a [[pyramid]] within the [[Desolate Wilds]]. It is distinguished from the surrounding landscape by its extreme clarity and lack of corruption, serving as a vital source of drinkable water in an area where such resources are otherwise scarce for miles. The lake is associated with the [[Purelake Temple]], which recently underwent rapid expansion through the work of [[sacred artists]]. The water is known to be subject to sudden, violent disturbances, such as intense trembling and large waves that can endanger boats. Additionally, the term is associated with specialized remnants of [[sacred artists]] who possessed the ability to manifest water from atmospheric [[aura]].}}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Purelake]] is a source of drinkable water.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Purelake]] is a body of water where [[Fishers]] work.<ref name="cradle-02-soulsmith-c5" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Purelake]] may have [[Soulsmiths]] skilled enough to build constructs that create water from [[madra]].<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Purelake]] is a glimmering sapphire in the [[Desolate Wilds]].<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The [[Purelake]] is a pool of crystalline water that nourishes most of the wilds.<ref name="cradle-09-bloodline-c16">''Bloodline'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-02-soulsmith|“Ah, forgive me. There’s no drinkable water for a dozen miles outside the Purelake.<ref name="cradle-02-soulsmith-c5" />}}

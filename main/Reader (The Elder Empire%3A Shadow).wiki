@@ -14,8 +14,8 @@
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Readers]] are a specific type of individual capable of sensing and manipulating human [[Intent]], a discipline that allows them to [[Awaken]] objects. Through the use of specialized [[Reader senses]] and touch, they can determine information from items, though bringing out an object's full potential requires significant strength and focus. These individuals excel at various tasks such as investigating crimes, crafting tools, creating weapons, and performing subtle sabotage. While some [[Readers]] may lay curses for hire and the most talented are defined as [[Chroniclers]], they remain distinct from others like [[Shera]]. Ultimately, their unique abilities make them vital for specific needs, such as when a prisoner requests testing or when [[Emperor (Elder Empire)|the Emperor]] seeks one who meets certain age criteria.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Readers]] are a type of individual, with some being able to lay curses for hire.<ref name="ee-shadow-01-of-shadow-and-sea-c1">''Of Shadow and Sea'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Chroniclers]] are talented [[Readers]] by definition.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The prisoner requests a Reader to test him.<ref name="ee-shadow-01-of-shadow-and-sea-c5">''Of Shadow and Sea'', chapter 5</ref>}}</li>
@@ -29,14 +29,13 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Reader can feel the power of [[Nakothi's song]] directly with their senses.<ref name="ee-shadow-01-of-shadow-and-sea-c15">''Of Shadow and Sea'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Reader is a person who can [[Awaken]] an object.<ref name="ee-shadow-01-of-shadow-and-sea-c19">''Of Shadow and Sea'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Emperor]] needs a Reader that meets several criteria, including age.<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Readers]] are a specialized group of individuals capable of influencing the course of weapons through their unique powers. While they possess certain advantages and sensitivities, they are bound by specific rules regarding their abilities and often find that their visions lack sufficient detail. These individuals can perceive strong emotions and pick up visions from stored [[Intent]], though they possess very little [[Intent]] of their own to manipulate. This power causes the Reader's mind to expand and swirl upon the mists, making them significantly more powerful than standard prisoners. One of the [[Architects]] is a Reader, and they represent the specific target [[Shera]] seeks with her blade.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A Reader is a type of individual with specific powers that [[Shera]] can target with her blade.<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A Reader is much more powerful than the prisoners [[Shera]] killed.<ref name="ee-shadow-02-of-darkness-and-dawn-c2" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Readers]] have very little [[Intent]] to manipulate.<ref name="ee-shadow-02-of-darkness-and-dawn-c3">''Of Darkness and Dawn'', chapter 3</ref>}}</li>
@@ -50,18 +49,16 @@
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Shera]]'s target is a Reader.<ref name="ee-shadow-02-of-darkness-and-dawn-c19" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Being a Reader causes the mind to expand and swirl on the mists.<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A Reader would not be able to uncover Rudeus's connection to the [[Consultants]] after his blacks are burned.<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Readers]] are a group that includes [[Lucan]].<ref name="ee-shadow-03-of-killers-and-kings-c17">''Of Killers and Kings'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Loreli]] uses her Reader's awareness to sense through the water.<ref name="ee-shadow-03-of-killers-and-kings-c18">''Of Killers and Kings'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Readers]] are found among the [[Architects]] at [[Shera]]'s meeting.<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|A Reader was searching for [[Loreli]] close by.<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“I’ve done nothing! Committed no crime! Let me stand trial, I beg you, and I will prove my innocence!” ... “Get a Reader! Test me!”<ref name="ee-shadow-01-of-shadow-and-sea-c5" />}}

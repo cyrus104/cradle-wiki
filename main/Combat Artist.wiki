@@ -9,45 +9,41 @@
 {{spoiler|book=lh-04-the-pilot|Combat Artists are specialized fighters who utilize [[Combat Arts]], which involve channeling [[Aether]] to empower their physical strikes or conjured weapons. These arts are distinct from traditional magic spells, as both disciplines require intense concentration and resonance with the [[Aether]]; attempting to use them simultaneously can cause a combatant to interfere with their own abilities. While [[Combat Arts]] are not meant for long-term sustainment, they can be used to enhance defense, manipulate projectiles, or deliver devastating offensive blows capable of destroying heavy machinery. Combat Artists vary significantly in species, strength, and combat style. While some are humans who may use [[Aethertech]] augmentations or specialized equipment like beaded necklaces to facilitate their arts, others belong to species such as the [[Visiri]], [[Karoshan]], or [[Lagomorphs]]. Some Combat Artists specialize in melee combat with swords, while others master arts used in conjunction with firearms. In terms of threat level, highly skilled practitioners can be classified as destroyer-class threats. Despite their power, Combat Artists often face limitations regarding physical stamina and can be vulnerable to opponents who identify gaps in their technique or pace. Their roles range from [[arena]] competitors and ship security specialists to disaster relief workers and elite frontline soldiers.}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The narrator casts a spell at the [[Combat Artist]].<ref name="lh-01-the-captain-c13">''The Captain'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Combat Artist]] is a destroyer-class threat in combat.<ref name="lh-01-the-captain-c13" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Combat Artists are high-level magic users.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|Watching a single [[Combat Artist]] fight an entire crowd does not look like it does in [[Subline]] films.<ref name="lh-02-the-engineer-c11">''The Engineer'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The rabbit is a [[Combat Artist]].<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|A [[Combat Artist]] can be nine feet tall and [[Karoshan]].<ref name="lh-02-the-engineer-c13">''The Engineer'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Combat Artist is a specialized fighting role and skill possessed by [[Kyri Prest]]. These experienced combatants are defined by their use of intentional movements during battle. As a rule, those who hold this role avoid facing mages within the ring. During their engagement with [[Varic]], Combat Artists utilized devastating blows to attack him.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Combat Artist]] is a skill possessed by [[Kyri Prest]].<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|A [[Combat Artist]] is a type of fighter or role.<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Combat Artists are experienced individuals characterized by intentional movements.<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Combat Artists are fighters who avoid facing mages in the ring.<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Combat Artists attacked [[Varic]] with devastating blows.<ref name="lh-03-the-knight-c30" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|There are at least fifty Combat Artists on the planet where [[Aila]] is located.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Combat Artists of the [[Lagomorph Contract]] are muscled individuals who take point in combat.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Lutoch]] is not a [[Combat Artist]].<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Combat Artists are personnel prepared for boarders.<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

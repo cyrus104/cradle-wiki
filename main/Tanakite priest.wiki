@@ -5,13 +5,12 @@
 }}
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|Full Tanakite priests are all [[Worldweavers]].<ref name="cradle-13-threshold-c5">''Threshold: Stories from Cradle'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|A [[Tanakite priest]] can transform his arm into a spider's leg.<ref name="cradle-13-threshold-c5" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Tanakite priests carry ritual knives.<ref name="cradle-13-threshold-c5" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

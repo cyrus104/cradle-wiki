@@ -10,21 +10,19 @@
 {{spoiler|book=cradle-05-ghostwater|Chon Ma is the highest-ranking [[Underlord]] within the [[Blackflame Empire]]. A physically imposing man described as having a bear-like build, he engages in aerial combat by running across black clouds that form beneath his feet. In battle, he wields two black one-handed hammers and is capable of fighting amidst storms. During combat against members of [[Redmoon Hall]], he has demonstrated both vulnerability to precise strikes and a tendency to deliver speeches regarding honor even while wounded.}}
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Chon Ma]] is the number-one [[Underlord]] in the [[Blackflame Empire]] and head of the [[Cloud Hammer School]].<ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Chon Ma]] scowls beneath a cloud.<ref name="cradle-04-skysworn-c11" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Chon Ma]] is a bear of a man.<ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Chon Ma]] is a [[Cloud Hammer]] [[Underlord]].<ref name="cradle-05-ghostwater-c7" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Chon Ma]] was bleeding from a cut on his face.<ref name="cradle-05-ghostwater-c7" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-04-skysworn|“Then we only have to deal with the Dreadgod,” Chon Ma said, still scowling beneath his cloud.<ref name="cradle-04-skysworn-c11" />}}

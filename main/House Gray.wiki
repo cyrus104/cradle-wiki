@@ -9,8 +9,8 @@
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|[[House]] Gray is a noble house formed from the remaining fragments of various destroyed families and factions. Led by a [[Sage]], the group includes [[Reigan Shen]], who intends to guide the house to victory in the [[Uncrowned King]] tournament. The house provides support to [[Tiberian]] during these events. In anticipation of a potential win, [[Valketh]] promises that the house will be in debt to [[Reigan Shen]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[House Gray]] is a new [[House]] composed of fragments of destroyed factions and families.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[House Gray]] is led by a [[Sage]].<ref name="cradle-13-threshold-c1" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[House Gray]] is a group that [[Reigan Shen]] intends to lead to victory in the [[Uncrowned King]] tournament.<ref name="cradle-13-threshold-c1" />}}</li>
@@ -18,8 +18,7 @@
 <li>{{spoiler|book=cradle-13-threshold|[[House Gray]] supports [[Tiberian]].<ref name="cradle-13-threshold-c1" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[House Gray]] is a house that [[Valketh]] promises will be in debt to Reigan if he wins.<ref name="cradle-13-threshold-c1" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[House Gray]] is a noble house.<ref name="cradle-13-threshold-c1" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

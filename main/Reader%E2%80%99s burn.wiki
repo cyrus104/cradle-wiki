@@ -7,28 +7,25 @@
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Reader]]'s burn is a physical and mental affliction experienced by individuals known as [[Readers]] when they push their innate abilities beyond their natural limits. The condition typically manifests as a severe, persistent headache that can feel like intense pressure or internal movement within the skull. In some instances, it may cause temporary vision impairment or physical sensations such as intense heat in the limbs. While some [[Readers]] attempt to avoid this state to remain functional, others may experience it as a byproduct of interacting with powerful external forces, such as the visions of an [[Emperor (Elder Empire)|Emperor]]. The severity and duration of the affliction can vary; for some, it may last for months, while for others, it serves as a warning sign that they are approaching their personal capacity.}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Reader’s burn]] is a condition caused by pushing oneself too hard.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Someone could be felt even through the Reader's burn.<ref name="ee-sea-01-of-sea-and-shadow-c24">''Of Sea and Shadow'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Reader]]'s burn is something that can last for months.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] needs to avoid [[Reader’s burn]].<ref name="ee-sea-02-of-dawn-and-darkness-c6" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Reader]]'s burn is a condition [[Calder]] experienced.<ref name="ee-sea-02-of-dawn-and-darkness-c10">''Of Dawn and Darkness'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Reader]]'s burn is a sensation of the head being crushed and feeling like a worm is burrowing inside.<ref name="ee-shadow-02-of-darkness-and-dawn-c18">''Of Darkness and Dawn'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

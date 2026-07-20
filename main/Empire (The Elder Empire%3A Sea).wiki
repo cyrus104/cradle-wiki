@@ -11,8 +11,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|For five years, the Empire has been maintained by a group of four [[Regents]]. During this time, the government officially registered every [[Soulbound]] located on the continent and conducted extensive travel throughout its territories. While the Empire is currently led by a ruler of Elderspawned descent, it maintains a profound hatred for the [[Elders]]. To defend against threats, the [[Blackwatch]] is tasked with studying these [[Elders]]. Ultimately, the Empire faces the existential risk of its civilization disappearing if it lacks proper direction.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Empire]] has been held together for five years by four [[Regents]].<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Empire]] officially registered all [[Soulbound]] on the continent.<ref name="ee-sea-01-of-sea-and-shadow-c5">''Of Sea and Shadow'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The characters have traveled throughout the Empire.<ref name="ee-sea-01-of-sea-and-shadow-c6">''Of Sea and Shadow'', chapter 6</ref>}}</li>
@@ -20,34 +20,31 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Empire]] holds a deep hatred for the [[Elders]].<ref name="ee-sea-01-of-sea-and-shadow-c9">''Of Sea and Shadow'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Empire]] is ruled by an Elderspawned ruler.<ref name="ee-sea-01-of-sea-and-shadow-c15">''Of Sea and Shadow'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Empire]] is at risk of civilization disappearing if no one directs it.<ref name="ee-sea-01-of-sea-and-shadow-c16">''Of Sea and Shadow'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Empire]] functions as a governing body, though certain villages feel excluded from its reach. Internal instability threatens the state as a lack of cooperation between various [[Guilds]] puts the entire structure at risk of collapse. While [[Calder]]'s crew shows a willingness to defy this political entity, the Empire's loyal [[Guilds]] remain committed to protecting the people. Ultimately, [[Calder]] intends to steer the direction of the Empire's politics.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Empire]] is at risk of falling apart due to a lack of cooperation between [[Guilds]].<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Empire]] is a governing body that some villages feel they are not truly part of.<ref name="ee-sea-02-of-dawn-and-darkness-c9">''Of Dawn and Darkness'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]]'s crew was willing to defy the Empire.<ref name="ee-sea-02-of-dawn-and-darkness-c12">''Of Dawn and Darkness'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The loyal [[Guilds]] of the Empire will protect the people.<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Empire]] is a political entity that [[Calder]] intends to steer.<ref name="ee-sea-02-of-dawn-and-darkness-c23">''Of Dawn and Darkness'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Identified by the moon-in-sun emblem, the Empire is a political entity referenced during [[Cheska]]'s accounts. The stability of the realm would be enhanced by the return of the crown, and it is suggested that being ruled by a leader with a human lifespan would provide further benefits. Ultimately, the various forces of the Empire appeared to maintain control over their affairs.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Empire]]'s emblem is the moon-in-sun.<ref name="ee-sea-03-of-kings-and-killers-c5">''Of Kings and Killers'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Empire]] is a political entity mentioned by [[Cheska]].<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Empire]] would benefit from the return of the crown.<ref name="ee-sea-03-of-kings-and-killers-c12">''Of Kings and Killers'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Being ruled by someone of human lifespan would benefit the Empire.<ref name="ee-sea-03-of-kings-and-killers-c19">''Of Kings and Killers'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The forces of the Empire appeared to have things well in hand.<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“You two have been all over the Empire, haven’t you?”<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}

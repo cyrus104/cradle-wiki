@@ -11,8 +11,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The [[Subspace]] [[Drive]] is a starship component consisting of a large, twisting, and semi-transparent tube that allows a vessel to enter [[Subspace]]. While routing power to the device can cause an instant rupture and [[binding]]-spells are capable of striking it, the drive can also be delayed from a distance. Although the narrator's ship lacks this technology, the Last [[Horizon]] utilizes one. Without a [[Pilot]], [[Horizon]] is limited to her default drive, but the addition of a [[Pilot]] allows the device to evolve and regain its legendary heights. Through this evolution, the [[Subspace]] [[Drive]] can be restored to a state of peace and order.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Subspace Drive]] is a device used to enter [[Subspace]].<ref name="lh-01-the-captain-c7">''The Captain'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Routing power to the [[Subspace Drive]] causes an instant [[Drive rupture]].<ref name="lh-01-the-captain-c7" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The narrator's ship lacks a [[Subspace Drive]].<ref name="lh-01-the-captain-c8">''The Captain'', chapter 8</ref>}}</li>
@@ -25,14 +25,13 @@
 <li>{{spoiler|book=lh-01-the-captain|The [[Subspace Drive]] can be restored to peace and order.<ref name="lh-01-the-captain-c38" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Horizon]]'s [[Subspace Drive]] has regained its legendary heights with the addition of a [[Pilot]].<ref name="lh-01-the-captain-c41">''The Captain'', chapter 41</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Last Horizon]] utilizes a [[Subspace Drive]].<ref name="lh-01-the-captain-c42">''The Captain'', chapter 42</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|As a key component of the envisioned fleet, [[Subspace Drives]] are utilized by vessels such as the [[Starhammer]], though its internal version is less efficient than that of a true starship. On [[The Last Horizon]], the drive operates incorrectly and faces a mere fourteen percent chance of reaching [[Subspace]] without rupturing. This specific unit requires repairs, especially given that the drive can trigger warning alarms during operation. Furthermore, using a drive to dive into [[Subspace]] within a planetary atmosphere is difficult for large ships and causes surrounding matter to be pulled along with the vessel.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The [[Subspace Drive]] on [[The Last Horizon]] has a fourteen percent chance of reaching [[Subspace]] without rupture.<ref name="lh-02-the-engineer-c2">''The Engineer'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Starhammer]] has an internal [[Subspace Drive]] that is less efficient than a real starship's.<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Diving into [[Subspace]] within a planet's atmosphere is difficult for large ships.<ref name="lh-02-the-engineer-c15">''The Engineer'', chapter 15</ref>}}</li>
@@ -42,30 +41,27 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[Subspace Drives]] are a component of the envisioned fleet.<ref name="lh-02-the-engineer-c24">''The Engineer'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Horizon]]'s [[Subspace Drive]] needs to be repaired.<ref name="lh-02-the-engineer-c30">''The Engineer'', chapter 30</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Subspace Drive]] can trigger warning alarms.<ref name="lh-02-the-engineer-c47">''The Engineer'', chapter 47</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Subspace Drive]] is something the narrator prepares.<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Subspace Drive]] supports micro-dives.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The narrator triggered their [[Subspace Drive]] to emerge.<ref name="lh-03-the-knight-c42">''The Knight'', chapter 42</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|A [[Subspace]] [[Drive]] is a mechanism utilized to facilitate travel through subspace. During the events involving the [[Vallenar]] ship, the drive was employed to undock and begin a departure. Within the [[Karoshan]] facility, isolated cores of these drives exist with the potential to rupture should a dimensional breach occur. The crew also relied on a [[Subspace]] [[Drive]] to execute a retreat. However, it was noted that the drive would fail if [[Omega]] tried to travel an excessive distance through the [[Subspace lock]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|A [[Subspace Drive]] is used for subspace travel.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Vallenar]] ship uses a [[Subspace Drive]] to undock and depart.<ref name="lh-04-the-pilot-c12">''The Pilot'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Karoshan]] facility contains isolated [[Subspace Drive]] cores that can rupture in case of a dimensional breach.<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The crew used a [[Subspace Drive]] to retreat.<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Subspace Drive]] would fail if [[Omega]] attempted to travel too far through the [[Subspace lock]].<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|"Says here that we have about a fourteen percent chance of reaching Subspace without an immediate Drive rupture."<ref name="lh-02-the-engineer-c2" />}}

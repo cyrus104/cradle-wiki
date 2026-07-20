@@ -17,8 +17,8 @@
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|An [[Uncrowned]] of [[Abyssal Palace]], Brother Aekin arrived wearing hooded [[sacred artist]]’s robes and a stone mask featuring a single glowing yellow eye. Having undergone early training under [[Maraan]], he utilized an endurance-based [[Path]] modeled after the [[Wandering Titan]]. During a tournament, he served as Ziel's rematch opponent and became the target of Ziel's brief rampage. Although [[Lindon]] believed he could defeat him, Aekin was unable to handle the same opponents faced by [[Lindon]]. Ultimately, he competed against Sophara and was obliterated by her after using his [[Enforcer technique]] to take on the aspect of the [[Wandering Titan]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">14</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Brother Aekin]] is from [[Abyssal Palace]] and wears hooded [[sacred artist]]’s robes.<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Maraan]] oversaw the early training of [[Brother Aekin]].<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Brother Aekin]] could not handle the opponents [[Lindon]] faced.<ref name="cradle-08-wintersteel-c14" />}}</li>
@@ -33,8 +33,7 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Brother Aekin]] competed against Sophara.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Brother Aekin]] used his [[Enforcer technique]] to take on the aspect of the [[Wandering Titan]].<ref name="cradle-08-wintersteel-c27" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Brother Aekin]] is an [[Uncrowned]] of [[Abyssal Palace]].<ref name="cradle-08-wintersteel-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -7,11 +7,10 @@
 }}
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Chryleia]] is a [[Herald]] who refined a pill for [[Emriss Silentborn]].<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-07-uncrowned|"My Herald Chryleia refined this herself, from fruits and flowers gathered throughout the world as well as a drop of my own sap."<ref name="cradle-07-uncrowned-c19" />}}

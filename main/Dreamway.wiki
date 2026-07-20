@@ -7,27 +7,24 @@
 {{spoiler|book=cradle-12-waybound|The Dreamway is a massive, interconnected [[library]] of [[dream tablets]] created by [[Emriss Silentborn]] after she achieved the rank of [[Herald]]. It functions as a vast repository of knowledge and serves as an expansive collection of ever-changing fictional worlds intended to provide entertainment and inspiration for artists. The facility is located at the heart of a massive men'hla tree, which is one of the oldest in existence. While it acts as a fountain of knowledge that is open to everyone during the day, access is not universal; most people outside of [[Everwood]] cannot use it freely. Instead, information is typically transmitted to major ruling [[Monarch factions]], who then distribute it to smaller groups. The Dreamway also allows Emriss to enter the dreams of individuals across the world to provide instruction and share knowledge. Although it contains security measures, these are primarily designed to prevent unauthorized access by children or vandals rather than to stop significant threats.}}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|Emriss crafted the [[Dreamway]] upon reaching [[Herald]].<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Dreamway]] is a place containing much knowledge and acts like a large dream tablet library.<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Not everyone in the world has access to the [[Dreamway]].<ref name="cradle-11-dreadgod-c22" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Dreamway]] is used for messages.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Yerin]]'s message was sent through the [[Dreamway]].<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

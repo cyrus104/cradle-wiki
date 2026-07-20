@@ -15,8 +15,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|A Reader is a classification of power and skill used to verify objects through reading impressions or to explain how messages were written. These individuals, who are often perceived as superhuman by laymen, can sense [[Intent]] through the air and possess the ability to cancel it out. During the process of [[investing]] objects, they hold an inherent advantage by sensing changes and altering their [[Intent]] accordingly. While the [[Blackwatch Guild]] maintains a position for [[Readers]], they are also sought after by the [[Guild]] of [[Navigators]]. Notable [[Readers]] include [[Naberius]], [[Calder]], and [[Lucan]], as well as the highly skilled [[Chronicler]]. However, certain individuals such as [[Jyrine]], [[Andel]], and [[Jerri]] do not possess this ability, and the [[Heart of Nakothi]] is known to pry at a Reader's senses.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">20</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">20</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A Reader is someone [[Jyrine]] mentions might be able to explain how a message was written.<ref name="ee-sea-01-of-sea-and-shadow-c1">''Of Sea and Shadow'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A Reader is a person capable of verifying objects through reading impressions.<ref name="ee-sea-01-of-sea-and-shadow-c2">''Of Sea and Shadow'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A Reader is required to check belongings for suspicious items.<ref name="ee-sea-01-of-sea-and-shadow-c2" />}}</li>
@@ -37,14 +37,13 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Lucan]] is a Reader.<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Heart of Nakothi]] pries at [[Reader’s senses]].<ref name="ee-sea-01-of-sea-and-shadow-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A Reader has the ability to cancel out [[Intent]].<ref name="ee-sea-01-of-sea-and-shadow-c26">''Of Sea and Shadow'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|A Reader is an individual capable of performing the act of [[Reading]], a process that allows them to sense [[Intent]]. By utilizing the [[Optasia]] to magnify their natural talents, these individuals can experience vivid visions of distant locations. They possess the ability to investigate the history of an artifact or uncover the truth behind a crime. During certain events, a Reader from the [[Imperial Prisons]] was utilized to test the [[Optasia]], and some practitioners even follow the custom of blinding themselves to achieve a clearer sense of [[Intent]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A Reader is someone who can use the [[Optasia]] to magnify their talents.<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Readers]] can experience vivid visions of other places.<ref name="ee-sea-02-of-dawn-and-darkness-c4" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A Reader is someone who can perform Readings to sense [[Intent]].<ref name="ee-sea-02-of-dawn-and-darkness-c11">''Of Dawn and Darkness'', chapter 11</ref>}}</li>
@@ -52,14 +51,13 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A Reader can investigate the truth of a crime or the history of an artifact.<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A Reader from the [[Imperial Prisons]] was used to test the [[Optasia]].<ref name="ee-sea-02-of-dawn-and-darkness-c18">''Of Dawn and Darkness'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Some [[Readers]] practice a custom of blinding themselves to sense [[Intent]] more clearly.<ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|To operate at the same level as the [[Regents]], a Reader with an understanding of full capabilities is required. While [[Tyria]] does not hold this status, the Reader serves as one of the three essential sources of [[Intent]] during the [[Awakening]] process. Such an individual is tasked with verifying [[Calder]]'s identity, though they are trained to avoid looking at the [[Elders]], particularly through a looking-glass. During these interactions, [[Calder]] relies on intuition rather than his Reader powers to sense [[Loreli]]'s intentions. Furthermore, a Reader remains vulnerable to deception if an individual successfully controls their [[Intent]] to conceal memories.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|A Reader is needed who understands full capabilities and can operate on the level of the [[Regents]].<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Tyria]] is not a Reader.<ref name="ee-sea-03-of-kings-and-killers-c15">''Of Kings and Killers'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|No Reader in their right mind would examine the manacles closely.<ref name="ee-sea-03-of-kings-and-killers-c16">''Of Kings and Killers'', chapter 16</ref>}}</li>
@@ -68,8 +66,7 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Readers]] are taught not to look at the [[Elders]], especially with a looking-glass.<ref name="ee-sea-03-of-kings-and-killers-c21">''Of Kings and Killers'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] senses [[Loreli]]'s intentions through intuition rather than his power as a Reader.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|A Reader can be deceived by controlling one's [[Intent]] to hide memories.<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“This is Guild business, Calder. Certainly, we can always use more Readers, but we haven’t fallen so low as to recruit...men as young as yourself.”<ref name="ee-sea-01-of-sea-and-shadow-c8" />}}

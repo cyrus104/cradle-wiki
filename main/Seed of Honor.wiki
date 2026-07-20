@@ -6,12 +6,11 @@
 }}
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Seed of Honor]] is a bronze monument in [[Moongrave]] representing [[Malice]] founding the city.<ref name="cradle-11-dreadgod-c8">''Dreadgod'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Seed of Honor]] is a bronze monument of [[Malice]] pulling back a bow that resembles [[Suu]].<ref name="cradle-11-dreadgod-c8" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

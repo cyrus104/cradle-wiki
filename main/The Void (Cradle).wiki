@@ -9,40 +9,37 @@
 {{spoiler|book=cradle-13-threshold|The Void is a vast, chaotic expanse of nothingness and nonexistence that exists outside the [[Way]]. It is characterized by an inherent hostility toward existence, acting as a force of subtraction that seeks to unmake and consume anything within it. Rather than being purely dark, the Void is filled with swirling, colorful fragments representing pieces of destroyed worlds that drift through the abyss. This environment is home to [[Fiends]]—creatures warped by its influence—and void beasts that actively tear at the strands of order to draw more of reality into the darkness. The Void is also associated with [[pure madra]] known as [[Emptiness]], which possesses the property of diluting other elements by replacing them. Within this space, individuals may utilize void keys to access storage or travel, and certain powerful entities, such as the [[Void Sage]], possess a connection to the [[Void Icon]]. This [[Icon]] represents fundamental concepts of hunger, emptiness, and annihilation, providing authority over the power to remove or consume. While the Void can be a place of absolute emptiness and spiritual death, it also serves as a medium for certain powerful beings to manifest their authority or store objects.}}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The void was a reflection of [[Lindon]].<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|Ships use portals to travel through the Void.<ref name="cradle-09-bloodline-c1">''Bloodline'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The Void is a place one can open a hole into.<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Emptying a vessel is within the concept of the Void.<ref name="cradle-09-bloodline-c9" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Galaxies crumble into the Void.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|The Void exists as a source of crackling darkness that has the power to distort the [[Way]]. It is a realm where words are capable of spreading and echoing throughout its expanse. Situated between the [[Way]] and the Void is the location known as [[Fathom]]. This dimension quivers in fear of [[the Mad King]], who once tore open a hole to reach it.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The Void is a source of crackling darkness that distorts the [[Way]].<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The Void is a place where words can spread and echo.<ref name="cradle-10-reaper-c15" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Fathom]] is located between the [[Way]] and the Void.<ref name="cradle-10-reaper-c15" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[The Mad King]] tore open a hole to the Void.<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The Void quivers in fear of [[the Mad King]].<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|The Void is a dark space that can be reached through portals or via a tear in the world. When such a portal exists, twisted force can explode outward from the location where it once resided. This realm is characterized by a distinct coldness and serves as a place where bodies are strewn. Furthermore, the Void is a concept linked to insights that result in the summoning of [[Fiends]], containing nameless creatures that even [[Red Faith]] would prefer to toss his soul to rather than face.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|Bodies are strewn into the Void.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The Void is a dark space that can be accessed via portals.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The Void is a place that can be reached through a tear in the world.<ref name="cradle-11-dreadgod-c6" />}}</li>
@@ -50,35 +47,32 @@
 <li>{{spoiler|book=cradle-11-dreadgod|The Void is a concept related to insights that lead to the summoning of [[Fiends]].<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Red Faith]] would rather toss his soul to the nameless creatures in the Void.<ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The Void is associated with coldness.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|The Void exists as a realm located beyond the parting of space. Within this expanse, pieces of dead worlds drift through the darkness contained in balls of light. This environment possesses a destructive nature, attempting to unmake and break down any existing beings it encounters. While the Void presses in close during this iteration, its influence is such that one might actually be thankful for it when arriving in a [[United Realm]]. Furthermore, the authority of the Void can even be found contained within a [[dragon]]'s breath.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The Void is a place beyond the parting of space.<ref name="cradle-12-waybound-c1">''Waybound'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[dragon]]'s breath contained [[Void authority]].<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The Void contains pieces of dead worlds floating in balls of light.<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The Void attempts to break down existing beings and unmake them.<ref name="cradle-12-waybound-c18" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The Void is something one might thank for ending up in a [[United Realm]].<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The Void presses in close in this iteration.<ref name="cradle-12-waybound-c38">''Waybound'', chapter 38</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|The Void exists as a hostile emptiness located outside of the cosmos. This influence possesses the ability to affect unstable Pioneer worlds, and its madness is reflected in the [[Wolf]]'s grin rather than the order of the [[Way]]. Within this realm, sight is not considered [[Jek'nan]]'s sharpest sense. Despite its nature, raw matter remains available within the Void.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The Void is an influence that can affect unstable Pioneer worlds.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Wolf]]'s grin belongs more to the madness of the Void than the order of the [[Way]].<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The Void is a hostile emptiness outside of the cosmos.<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Sight is not [[Jek'nan]]'s sharpest sense in the Void.<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|There was raw matter available in the Void.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

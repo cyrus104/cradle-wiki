@@ -14,25 +14,23 @@
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|As the third and final [[High Councilor]], Tyril is a figure of significant political standing. He is known to produce a blade that resembles a short [[sword]] and functions as a fighter utilizing a knife. During one instance, he was observed leaning against a wall while catching his breath. Later, he was seen napping in his chair.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tyril]] is a [[High Councilor]].<ref name="ee-shadow-01-of-shadow-and-sea-c13">''Of Shadow and Sea'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tyril]] produces a blade that resembles a short [[sword]].<ref name="ee-shadow-01-of-shadow-and-sea-c13" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tyril]] is a fighter using a knife.<ref name="ee-shadow-01-of-shadow-and-sea-c15">''Of Shadow and Sea'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tyril]] was leaning against a wall catching his breath.<ref name="ee-shadow-01-of-shadow-and-sea-c15" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tyril]] is the third and final [[High Councilor]].<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tyril]] was napping in his chair.<ref name="ee-shadow-01-of-shadow-and-sea-c26" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Tyril]] wore black without a shroud over his face.<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Tyril]] is the High [[Shepherd]].<ref name="ee-shadow-03-of-killers-and-kings-c21">''Of Killers and Kings'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Tyril]] physically dragged [[Yala]] off.<ref name="ee-shadow-03-of-killers-and-kings-c21" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

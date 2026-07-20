@@ -15,39 +15,35 @@
 {{spoiler|book=cradle-13-threshold|Telariel, also known as the [[Spider]], is a prominent member of the [[Abidan Court]] and serves as one of its seven [[Judges]]. He holds an exceptionally demanding role, acting as the primary coordinator for all [[Abidan]] communications while simultaneously performing scouting duties to detect potential invasions. Because of these extensive responsibilities, he is noted as being the busiest of the [[Judges]]. Telariel operates by spinning invisible webs throughout the universe to maintain order and manage connections across the [[Iterations]]. His influence is significant enough that he can manipulate cosmic events, such as misaligning the engines of an entire fleet of warships to cause them to explode. He is described as a cultured and prim individual who often utilizes a cane and wears glasses. While he avoids direct physical combat, preferring to manage large-scale efforts from his spire, he maintains a watchful eye over the universe and can use threads of order to intervene in the actions of others. [[Ozmanthus]] was eventually named as his successor.}}
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Telariel]], the [[Spider]], is a [[Judge]] who coordinates communications for all the [[Abidan]].<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|Known as the [[Spider]], Telariel serves as a [[Judge]] who manages communication through the [[Way]]. In this capacity, the entity is responsible for coordinating [[Abidan]] efforts across all fronts. Within the [[Third Division]], Telariel previously held a position that was eventually passed to [[Ozmanthus]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Telariel]] is known as the [[Spider]] and is a [[Judge]].<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Telariel]] is currently coordinating [[Abidan]] efforts on all fronts.<ref name="cradle-10-reaper-c3" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus]] was the successor to [[Telariel]] in the [[Third Division]].<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Telariel]] is the [[Spider]].<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Telariel]] handles communication through the [[Way]].<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Telariel]] is the [[Spider]] and has a spire marked with eight stylized legs.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Telariel]] the [[Spider]] is one of the seven [[Judges]] and is described as being very busy.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Telariel]] is one of the [[Judges]].<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

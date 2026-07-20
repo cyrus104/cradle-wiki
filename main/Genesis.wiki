@@ -9,38 +9,34 @@
 {{spoiler|book=cradle-13-threshold|Genesis is a specialized, two-headed [[Soulsmithing]] hammer crafted by [[Lindon]]. Designed to advance his abilities in the art of [[Soulsmithing]], the tool serves to focus and bind his powers during the creation process. The hammer features two distinct heads: one side is used for purification by channeling [[pure madra]], while the other can be used to channel [[Blackflame]]. As [[Lindon]] uses the tool to forge various [[Dreadgod]] weapons, Genesis grows both physically and metaphysically heavier, exhibiting a sense of eagerness as it is utilized.}}
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Genesis]] is a name [[Lindon]] chooses for his hammer.<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] spun [[Genesis]] in one hand.<ref name="cradle-10-reaper-c19" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Genesis]] is [[Lindon]]'s newly crafted [[Soulsmithing]] hammer.<ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Genesis]] is a two-headed hammer that is small enough to fit in one hand.<ref name="cradle-11-dreadgod-c4" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Genesis]] was made to bind [[Lindon]]'s powers together and focus them on creation.<ref name="cradle-11-dreadgod-c4" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Genesis]] is [[Lindon]]'s double-headed hammer.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] summoned [[Genesis]] from his void space and switched it to the [[pure madra]] side to repair [[Netherclaw]].<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Genesis]] is a two-headed hammer that grows stronger with every [[Dreadgod weapon]] made.<ref name="cradle-12-waybound-c34">''Waybound'', chapter 34</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] uses a weapon called [[Genesis]].<ref name="cradle-12-waybound-c34" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Genesis]] is [[Lindon]]'s hammer, featuring one side smoldering with [[Blackflame]] and the other shining blue-white.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-10-reaper|“Genesis,” Lindon said firmly, to cut off the discussion beginning around him.<ref name="cradle-10-reaper-c19" />}}

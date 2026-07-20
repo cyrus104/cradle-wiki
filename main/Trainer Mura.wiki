@@ -14,16 +14,15 @@
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Trainer Mura is a tall, powerful woman distinguished by her dark purple hair. As a trainer who utilizes [[Presence]] to guide her students, she works to rescue individuals from wreckage. While she can fold possibilities into existence to create temporary copies of herself, only her original body requires sustenance.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Trainer Mura]] is a tall and powerful woman with dark purple hair.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Trainer Mura]]'s copies are temporary entities folded into existence from possibilities.<ref name="cradle-13-threshold-c10" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Trainer Mura]]'s original body is the only one that needs to eat.<ref name="cradle-13-threshold-c10" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Trainer Mura]] is a trainer who uses [[Presence]] to guide students.<ref name="cradle-13-threshold-c10" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Mura is a Trainer.<ref name="cradle-13-threshold-c10" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Trainer Mura]] is rescuing people from wreckage.<ref name="cradle-13-threshold-c10" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

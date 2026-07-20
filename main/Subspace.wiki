@@ -11,8 +11,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|Subspace is an isolated pocket dimension and a multicolored twist of reality where targets of the [[Absolute Burial]] spell are sent. This extra-dimensional medium serves as a vital means for long-distance transportation, though it is a region where prediction fails to work precisely and astral megafauna stalk the area. While ships can dive into this state to evade enemies or avoid annihilation, they must use sealing magic to remain protected and can be prevented from sinking into the dimension by mundane materials. The bridge of [[The Last Horizon]] is located within this space, which allows for the manifestation of turrets and the materialization of [[Omega]]. Ultimately, Subspace acts as a strategic gateway for attacking the [[Grand Hive]], provided one enters from outside the [[Iron King]]'s awareness, and it was powerful enough to draw half of the [[Grand Hive]] into its depths.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">27</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">27</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Subspace]] is an isolated pocket where targets of the [[Absolute Burial]] spell are sent.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Karoshan ships]] can dive into [[Subspace]].<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The mountain was sealed in [[Subspace]].<ref name="lh-01-the-captain-c8">''The Captain'', chapter 8</ref>}}</li>
@@ -40,14 +40,13 @@
 <li>{{spoiler|book=lh-01-the-captain|[[Subspace]] is a dimension or area that characters can enter.<ref name="lh-01-the-captain-c42" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Subspace]] is a place or state that creatures can flee into.<ref name="lh-01-the-captain-c44">''The Captain'', chapter 44</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Half of the [[Grand Hive]] was drawn into [[Subspace]].<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|Subspace is a multicolored river of chaos used by fleets as a method of travel, though it can distort sound and cause madness in organic [[life]]. While the [[Lichborn heavy shuttle]] once traveled through this medium, [[Starhammer]] was forced to exit the dimension early to avoid carrying unprotected civilians into its unpredictable depths. The realm is dangerous enough that it can cause mortals to warp and twist in strange dimensions, and the [[Shadow Ark]] eventually imploded into its chaotic expanse. Beyond its physical dangers, calling [[Divine Titans]] within Subspace is a tricky endeavor, and interference from the dimension has even rendered footage of [[Varic]] inconclusive. Even [[Omega]] utilizes this state for utility, employing Subspace storage to hold his gun.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Subspace]] is a state or dimension that [[Starhammer]] must avoid entering while carrying unprotected civilians.<ref name="lh-02-the-engineer-c1">''The Engineer'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Subspace]] is a location or state where calling [[Divine Titans]] is tricky.<ref name="lh-02-the-engineer-c9">''The Engineer'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Subspace]] is a medium through which the [[Lichborn heavy shuttle]] traveled.<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}</li>
@@ -61,14 +60,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[Omega]] uses [[Subspace]] storage to hold his gun.<ref name="lh-02-the-engineer-c50">''The Engineer'', chapter 50</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Subspace]] interference caused inconclusive footage of [[Varic]].<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Subspace]] can cause mortals to warp and twist in strange dimensions.<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Subspace serves as a dimension and method of travel that can be accessed through ruptures or blooming warps in outer space. While it functions as a storage location for [[Omega]]'s guns and entire fleets, the realm contains a cold, hungry [[void]] that can be blocked or used to send entities off-course. During their journey, the crew makes it their objective to reach this dimension, eventually diving into it via a command to the ship. Within this realm, magical soldier ants emerge on shimmering wings, and it is a place from which the [[Green Knight]]'s [[Divine Titan]] can fall. The [[D’Niss]] utilize Subspace for movement, and it is a medium through which certain spells can reach, as well as a location where [[Javik]] can summon a two-handed cannon.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Subspace]] is a place where [[Omega]] stores his guns.<ref name="lh-03-the-knight-c3">''The Knight'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Subspace]] is a medium or dimension that certain spells can reach through.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Subspace]] is a location where entities can be attacked and sent off-course.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
@@ -86,14 +84,13 @@
 <li>{{spoiler|book=lh-03-the-knight|[[Soldier]] ants emerge from [[Subspace]] on shimmering magical wings.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Raion]] was believed to be in [[Subspace]].<ref name="lh-03-the-knight-c42">''The Knight'', chapter 42</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[D’Niss]] used a method of [[Subspace]] travel to move.<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Subspace is an inherently unstable dimension or state of reality that serves as a unique fold for isolation. While its surface consists of pure darkness, rainbow colors shine through cracks in the shadows and patterns of yellow lights can be viewed via helmet feeds. This dark pocket allows [[Aila]] to pull items from its depths, while [[Omega]] can drop into the dimension to evade telekinesis. Although the [[Aether Core]] preserves enough magic for use within this realm, Subspace contains sanity-shattering depths where nameless abominations originate. The dimension is used by ships to wait for drive stabilization, though certain enemies can pass through it as individuals and the [[Captain]] possesses the ability to lock people inside.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">26</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">26</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila]] can pull items from [[Subspace]].<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]] can drop into [[Subspace]] to avoid telekinesis.<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila]]'s clones used [[Subspace]] to dive into.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
@@ -120,8 +117,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Subspace]] can be viewed through a feed routed into a helmet.<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Subspace]] contains patterns of yellow lights.<ref name="lh-04-the-pilot-c46" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]] might bolt into [[Subspace]].<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|“Shouldn’t take me more than a couple hours to get us back in Subspace.”<ref name="lh-02-the-engineer-c19" />}}

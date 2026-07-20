@@ -18,8 +18,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder Marten]], the son of [[Rojric]] and [[Alsa]], is a [[Reader]] and [[Soulbound]] who operates under the alias of an ancient craftsman. As the captain of [[The Testament]], he is a highly trained duelist and a man capable of focusing his [[Intent]], though he struggles with navigation. During his journey, Calder interacts with the [[Imperial Guard]] and [[Foster]] following a previous arrest and trial, eventually making a bargain with [[Kelarac]] that leaves him wearing the mark of the entity. He utilizes his blood to bind his [[Intent]] to a raft and to help create his ship, which he plans to guide using an [[Elder]] creature from the [[Aion]]. While navigating the seas, Calder observes a crater and eventually spots red sails and alchemical flames upon the ocean.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">53</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">53</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] is the son of [[Rojric]].<ref name="ee-sea-01-of-sea-and-shadow-c2">''Of Sea and Shadow'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]]'s alias is an ancient craftsman.<ref name="ee-sea-01-of-sea-and-shadow-c2" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] is the protagonist of the chapter.<ref name="ee-sea-01-of-sea-and-shadow-c2" />}}</li>
@@ -73,24 +73,22 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] is a character who has a pain in his leg.<ref name="ee-sea-01-of-sea-and-shadow-c27">''Of Sea and Shadow'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] arrived at the prisons just as the ground caved in.<ref name="ee-sea-01-of-sea-and-shadow-c27" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] spotted the red sails and bright alchemical flames on the ocean.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Calder]] was incapacitated by a needle in his arm.<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Calder]] is part of a crew that arrived at the crater.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Calder]] is kneeling by [[Urzaia]] instead of seeking shelter.<ref name="ee-shadow-01-of-shadow-and-sea-c25">''Of Shadow and Sea'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Calder]] possesses a pet [[Elderspawn]].<ref name="ee-shadow-01-of-shadow-and-sea-c25" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|After being released unharmed, the flame-colored haired Calder assisted in the construction of his ship, [[The Testament]]. While navigating toward the [[Capital]] and avoiding harbor-guns, he suffered from a pounding head before being startled by [[General Teach]]. Dressed in [[Imperial]] clothing, [[Emperor (Elder Empire)|the Emperor]] and [[Imperial Steward]] attended a meeting with Maxeus and [[Teach]] in the courtyard outside the [[Emperor's quarters]]. Following an interrogation of [[Urzaia]], Calder awoke aboard his ship suffering from [[Reader]]'s burn and later underwent medical recovery in a copper bathtub filled with noxious green sludge. During an escape attempt, he gathered his men even as [[The Testament]] was stopped by the [[Lyathatan's chains]]. While steering the ship and using [[Intent]] to [[Read]] the [[Lyathatan]], he observed a battle through a [[spyglass]] before being mysteriously transported to a towering [[library]]. Ultimately, Calder was expelled from the [[Blackwatch]] and banished to the [[Navigators]] after his father was executed.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">38</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">38</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] has been released unharmed.<ref name="ee-sea-02-of-dawn-and-darkness-c3">''Of Dawn and Darkness'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] participated in the construction of [[The Testament]].<ref name="ee-sea-02-of-dawn-and-darkness-c5">''Of Dawn and Darkness'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] is a character who wondered how to approach the [[Capital]] without alerting harbor-guns.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
@@ -129,22 +127,20 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] was banished to the [[Navigators]].<ref name="ee-sea-02-of-dawn-and-darkness-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]]'s father was executed.<ref name="ee-sea-02-of-dawn-and-darkness-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] recognized the type of ship used by the [[Consultants]].<ref name="ee-sea-02-of-dawn-and-darkness-c24">''Of Dawn and Darkness'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Calder]] can stop the [[Consultants]] with a word.<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Calder]] is pursuing [[Shera]] personally now that the [[Veil]] is lifted.<ref name="ee-shadow-02-of-darkness-and-dawn-c21" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|As [[Emperor (Elder Empire)|the Emperor]] and nominal head of his faction, Calder serves as a [[Steward]] who possesses the ability to use his mark to read and destroy [[Elderspawn]]. During negotiations involving [[Estyr Six]], he experienced a paralysis of thought caused by overwhelming [[Intent]], though he later learned to use the [[Emperor's crown]] to reinforce his own power. While participating in discussions behind a barricade, Calder planned to act as bait for the [[Consultants]] and eventually donned [[Emperor's armor]] to oversee a crowd of ten thousand people. After steering the [[Lyathatan]] with [[Intent]], Calder suffered a fatal sucking wound to his back and died in a [[Capital mansion]]. Following this, he experienced a transformation where his body became a vessel for [[Kelarac]] and was eventually enhanced by [[Petal]] into a new form. Ultimately, Calder sat upon the throne of the [[Aurelian Empire]] as the second human to do so, sharing a body with [[Emperor (Elder Empire)|the Emperor]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">71</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">71</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] is [[Emperor (Elder Empire)|the Emperor]].<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] has an [[Elder]] chained to his ship.<ref name="ee-sea-03-of-kings-and-killers-c2" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] bartered with [[Kelarac]] for the [[sword]] he wears.<ref name="ee-sea-03-of-kings-and-killers-c2" />}}</li>
@@ -216,14 +212,13 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] sat on the throne of the [[Aurelian Empire]] as the second human being to do so.<ref name="ee-sea-03-of-kings-and-killers-c25" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] and [[Emperor (Elder Empire)|the Emperor]] woke in the same body.<ref name="ee-sea-03-of-kings-and-killers-c25" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Kelarac]] expressed a desire to keep [[Calder]] and the crew as toys.<ref name="ee-sea-03-of-kings-and-killers-c26">''Of Kings and Killers'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|Once known as the false Emperor, Calder has worn the old clothes and armor of the true ruler. During his time on the [[Gray Island]], he faced the [[Handmaiden]] and encountered the [[Great Elders]], receiving a mark from one of them while sustaining a reddish burn scar on his arm. As an armored man equipped with a black glass visor, he wielded a [[sword]] that shone orange beneath silver clouds and delivered a speech at [[Emperor (Elder Empire)|the Emperor]]'s Stage. Following a desperate charge at [[Kelarac]], he was left wounded, exhausted, and burned across his body on the deck. He now observes the [[Dead Mother]] as she walks.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Calder]] may wear the [[Emperor’s old clothes]].<ref name="ee-shadow-03-of-killers-and-kings-c4">''Of Killers and Kings'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Calder]] has faced down the [[Handmaiden]] on the [[Gray Island]].<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Calder]] has seen the [[Great Elders]].<ref name="ee-shadow-03-of-killers-and-kings-c6" />}}</li>
@@ -239,8 +234,7 @@
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Calder]] rushed at [[Kelarac]].<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Calder]] was wounded, exhausted, and burned all over on the deck.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Calder]] is watching the [[Dead Mother]] walk.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“You’re carrying steel. You know how to use it?”<ref name="ee-sea-01-of-sea-and-shadow-c8" />}}

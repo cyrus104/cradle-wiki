@@ -11,17 +11,16 @@
 {{spoiler|book=cradle-08-wintersteel|Blacksword is a powerful combatant characterized by his use of a large, two-handed blade that appears bright red rather than black. He utilizes a [[Blood Shadow]] to augment his attacks, providing additional reach and power through lashes and beams of [[madra]] that can manifest as falling daggers. During combat, he demonstrates high mobility by running through the air using light ripples beneath his feet. His fighting style is physically demanding, and he has been known to push himself to the point of extreme spiritual strain. He was a participant in previous combat rounds, providing enough data for [[Dross]] to create a detailed model of his capabilities.}}
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Blacksword]] is of [[Redmoon Hall]] and a chosen of [[Reigan Shen]].<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|As a member of [[Redmoon Hall]], Blacksword engages in combat wielding a massive, two-handed blade of bright red. He keeps this weapon sheathed within his [[Blood Shadow]] and utilizes a [[Striker technique]] during his fighting. While he is capable of running through midair by creating ripples of light beneath his feet, he finds himself running low on [[madra]] during his match. Throughout the encounter, [[Dross]] maintains a predictive model to track Blacksword's movements.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Blacksword]] is a member of [[Redmoon Hall]].<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Blacksword]] wields a huge, two-handed bright red blade.<ref name="cradle-08-wintersteel-c6" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Blacksword]]'s [[sword]] is sheathed in his [[Blood Shadow]].<ref name="cradle-08-wintersteel-c6" />}}</li>
@@ -29,8 +28,7 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Blacksword]] uses a [[Striker technique]].<ref name="cradle-08-wintersteel-c6" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Dross]] has a predictive model for [[Blacksword]].<ref name="cradle-08-wintersteel-c6" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Blacksword]] was running low on [[madra]] during his match.<ref name="cradle-08-wintersteel-c6" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

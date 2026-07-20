@@ -9,20 +9,19 @@
 {{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Imperial]] Palace is a massive, incredibly opulent complex located within the Capital, occupying nearly one-fifth of the city's area. Often described as a city in its own right, it houses tens of thousands of inhabitants and staff members. The palace serves as the seat of power for the [[Empire]], featuring significant structures such as an audience hall, a private armory, and [[Emperor (Elder Empire)|the Emperor]]'s personal quarters. It also contains [[Emperor (Elder Empire)|the Emperor]]'s Stage, a three-story building used by the ruler or their representatives to speak to large crowds in the palace courtyard. One of the most important features is the throne room, which contains a seat representing the [[Empire]] and serves as a visual tribute to the [[Elder War]]. While [[Emperor (Elder Empire)|the Emperor]]'s true throne was actually a device called the [[Optasia]] used to amplify [[Reading]] and respond to [[Great Elders]], the palace remains the central hub for imperial administration and finance. Following [[Emperor (Elder Empire)|the Emperor]]'s death, the palace has faced instability, including battles with [[Elderspawn]] that left physical damage and instances where control of the grounds was lost to [[Elder]] influence.}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Imperial]] Palace is where the Chronicler in charge of finance works.<ref name="ee-sea-01-of-sea-and-shadow-c1">''Of Sea and Shadow'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Naberius]] was the Chronicler in charge of financial records in the [[Imperial]] Palace.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Naberius]] previously served in the [[Imperial]] Palace.<ref name="ee-sea-01-of-sea-and-shadow-c12">''Of Sea and Shadow'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The chapter house reception room is as well-appointed as the [[Imperial]] Palace.<ref name="ee-sea-01-of-sea-and-shadow-c20">''Of Sea and Shadow'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Imperial]] Palace is a massive complex that functions like its own city, housing the [[Emperor's personal rooms]] and armory. [[Calder]] and his crew traveled toward the site, which serves as a location from which [[Calder]] and [[Jerri]] were released. While [[Calder]] currently resides within the palace and feels at home there, the complex has recently been subject to attacks. The [[Optasia]] is only visible from this location, and a search of the grounds yielded no trace of [[Meia]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Imperial]] Palace contains the [[Emperor's personal rooms]].<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] and his crew headed toward the [[Imperial]] Palace.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] and others travel to the [[Imperial]] Palace.<ref name="ee-sea-02-of-dawn-and-darkness-c6" />}}</li>
@@ -34,14 +33,13 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A search of the [[Imperial]] Palace revealed no trace of [[Meia]].<ref name="ee-sea-02-of-dawn-and-darkness-c18">''Of Dawn and Darkness'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Imperial]] Palace is a massive complex that functions like its own city.<ref name="ee-sea-02-of-dawn-and-darkness-c18" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Imperial]] Palace contains the [[Emperor's personal armory]].<ref name="ee-sea-02-of-dawn-and-darkness-c18" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Imperial]] Palace is a massive complex of red-tiled roofs that occupies nearly twenty percent of the Capital and contains various dungeons. After [[Calder]] returned to the site, he was kept under observation within the grounds where a procession eventually took place. The palace houses [[Emperor (Elder Empire)|the Emperor]]'s Stage and serves as a location where any [[Elderspawn]] attempting to crash through the walls would be annihilated. Following a battle and [[Calder]]'s march toward the complex, the palace fell, leaving its flagstones spotted with the blood of [[Baldezar Kern]]. While [[Kelarac]] had previously imprisoned [[Jerri]] within its walls, the [[Independents]] may have taken control of the palace after it fell following [[Calder]]'s death.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Imperial]] Palace has dungeons.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] returned to the [[Imperial]] Palace.<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The procession takes place within the [[Imperial]] Palace complex.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
@@ -57,8 +55,7 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jerri]] was imprisoned in the [[Imperial]] Palace by [[Kelarac]].<ref name="ee-sea-03-of-kings-and-killers-c19">''Of Kings and Killers'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Imperial]] Palace is a location where any [[Elderspawn]] attempting to crash through the walls by force would be annihilated.<ref name="ee-sea-03-of-kings-and-killers-c19" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Imperial]] Palace is a location that [[Calder]] marched toward.<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

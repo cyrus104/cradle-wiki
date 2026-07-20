@@ -11,8 +11,8 @@
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|A [[Penance]] arrow once slammed into an [[Abidan panel]] of blue light, vanishing only to be replaced by a volley of bone arrows. This projectile later thundered through space and [[Fate]] toward [[Reigan Shen]]. During a later engagement, [[Lindon]] nocked one of these arrows, which was then accelerated by a circle of force and time. The weapon is known to cause a sensation of death upon contact, such as when its power numbed [[Ziel]]'s hand. Furthermore, the touch of a [[Penance]] arrow scrapes at the user's own lifeline.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|A [[Penance arrow]] slammed into the [[Abidan panel]] of blue light.<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Penance arrow]] vanished but was replaced by a volley of bone arrows.<ref name="cradle-12-waybound-c9" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Penance arrow]] thundered through space and [[Fate]] at [[Reigan Shen]].<ref name="cradle-12-waybound-c9" />}}</li>
@@ -21,8 +21,7 @@
 <li>{{spoiler|book=cradle-12-waybound|The power of the [[Penance arrow]] numbed [[Ziel]]'s hand.<ref name="cradle-12-waybound-c20" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Penance arrow]] was accelerated by a circle of force and time.<ref name="cradle-12-waybound-c20" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The touch of a [[Penance arrow]] scrapes at the user's lifeline.<ref name="cradle-12-waybound-c28">''Waybound'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

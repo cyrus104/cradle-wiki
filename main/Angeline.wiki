@@ -11,17 +11,16 @@
 {{spoiler|book=tg-03-city-of-light|Angeline is a character who communicates through speech and mental messaging. She provides various forms of commentary, ranging from blunt warnings and grim instructions to more loftily delivered observations. Her interactions include offering opinions on the honesty of others, expressing disapproval of certain behaviors, and relaying questions or information to others. She has also been observed physically assisting characters, such as carrying an injured individual on her back.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Angeline]] is the name of one of the dolls [[Kai]] addresses.<ref name="tg-01-house-of-blades-c7">''House of Blades'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|While traveling with [[Simon]], Angeline maintains a connection with him through mental communication. She takes the form of a doll featuring straight blond hair and a black dress, which is carried by [[Kai]]. Operating from within the depths of [[Simon]]'s mind, she provides commentary on [[Denner]] and utilizes her experience with liars to navigate their situation. Ultimately, she sends a message to [[Simon]] warning him to be prepared to run.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Angeline]] is currently with [[Simon]].<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Angeline]] communicates with [[Simon]].<ref name="tg-02-crimson-vault-c7">''The Crimson Vault'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Angeline]] is a blond doll in a black dress carried by [[Kai]].<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
@@ -31,17 +30,15 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Angeline]] is a character who comments on [[Denner]].<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Angeline]] sent a message to [[Simon]] to be prepared to run.<ref name="tg-02-crimson-vault-c13">''The Crimson Vault'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Angeline]] has experience with liars.<ref name="tg-02-crimson-vault-c13" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Angeline]] can work through problems with the Wanderer.<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Angeline]] was carrying [[Lilia]] on her back.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Angeline]] is someone [[Simon]] could have chosen to go with.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|“Denner is very responsible. Unless he finished his task already of course.”<ref name="tg-02-crimson-vault-c12" />}}

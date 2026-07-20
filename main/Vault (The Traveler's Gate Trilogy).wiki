@@ -7,21 +7,19 @@
 {{spoiler|book=tg-03-city-of-light|The [[Crimson Vault]] is a unique [[Territory]] known as Ragnarus that functions primarily as a space designed to kill other [[Travelers]]. It is characterized by its distinct red lighting, featuring scarlet torches and portals edged in bright red light. Access to the Vault's interior is guarded by silver double doors decorated with carvings of an ancient, one-eyed king. Entering the Vault proper requires a specific ritual, such as pressing blood against these doors. While a Gate to the [[Crimson Vault]] can be opened within the primary world, it cannot be accessed from within other Territories. Furthermore, travel through Ragnarus is unidirectional; for instance, entering the Vault can lead to an exit in [[Cana]], but returning would require traveling through [[Lirial]]. The environment itself is associated with unsettling sounds like tapping, scratching, or howling wind. The Vault also contains various gatecrawlers—specialized devices or entities, such as a black gauntlet or specific weapons, that possess the ability to manipulate or reopen [[Gates]].}}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The Vault has silver doors.<ref name="tg-02-crimson-vault-c22">''The Crimson Vault'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The Vault holds nothing that allows seeing supernaturally far.<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Leah]] has almost unrestricted access to the Vault.<ref name="tg-03-city-of-light-c21" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The Vault was sealed by the Elysians.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Simon]] tells someone to seal themselves in the Vault.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-03-city-of-light|“Seal yourself in the Vault,” Simon said.<ref name="tg-03-city-of-light-c27" />}}

@@ -20,8 +20,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|Known as the [[Grave Hound]], Omega is a famous galactic assassin and saboteur who has lived for at least one hundred and fifty standard years. Appearing as a forty-year-old man with dark hair, short beard, and an orange [[Aethertech]] prosthetic eye embedded in a [[steel]] frame, he possesses an [[Aethertech body]] and an internal [[Subspace Drive]]. He can dissolve his form into a gray mass to move through or store matter in [[Subspace]], allowing him to regenerate from ooze using a limited stockpile of mass. After escaping a ship's prison by using a colorless copy of himself, the prisoner was eventually relocated to a new holding facility. During his exploits, he has used an enchantment-breaking gun that fires energy-trailing bullets capable of piercing starship armor, and he has even been known to devour others to drag them through [[Subspace]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">39</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">39</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Omega]] is a being capable of dissolving his body into a gray mass and moving through [[Subspace]].<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Omega]]'s human form appears to be a forty-year-old man with dark hair and a short beard.<ref name="lh-01-the-captain-c10" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Omega]] has an [[Aethertech]] prosthetic left eye that shines orange.<ref name="lh-01-the-captain-c10" />}}</li>
@@ -61,14 +61,13 @@
 <li>{{spoiler|book=lh-01-the-captain|[[Omega]] can take a human form.<ref name="lh-01-the-captain-c46" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Omega]] was hiding in the shadows during the encounter.<ref name="lh-01-the-captain-c47">''The Captain'', chapter 47</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Omega]] used an enchantment-breaking gun that flashed orange.<ref name="lh-01-the-captain-c48">''The Captain'', chapter 48</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|Omega is an immortal, chaotic yet rational crew member and pilot who serves on the [[Zenith]] Starship under a contract bound by magic. Formerly kept in a [[vault]] jar and known as a hired murderer for the [[Escalon Company]], this ooze-man possesses [[Aethertech]] modifications fused to his flesh and can morph his dark gray biomass into human-like forms, mouths, or even weapons. While he has previously hijacked vessels and attacked [[Varic Vallenar]], he is currently restricted against murder by his contract and seeks to disable [[Solstice]]. Throughout his service, Omega utilizes various abilities such as folding into himself to vanish, communicating through feeds, and using his orange [[Aethertech eye]] to scan his surroundings.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">41</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">41</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Omega]] is a crew member who is described as chaotic and rational.<ref name="lh-02-the-engineer-c2">''The Engineer'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Omega]] is the [[Pilot]] of the crew and wants to defeat [[Solstice]].<ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Omega]] is a character capable of pushing [[Aethertech]] beyond its limits.<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
@@ -110,14 +109,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[Omega]] is an ooze-man.<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Omega]] can use lasers to remove cuffs.<ref name="lh-02-the-engineer-c52" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Omega]] can ooze into wounds.<ref name="lh-02-the-engineer-c54">''The Engineer'', chapter 54</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|[[Omal]], known as Omega, is an experienced man with at least a century of expertise who serves as a crew member aboard [[The Last Horizon]]. Utilizing [[Aethertech]] eyes and guns stored within a [[Subspace inventory]], he communicates via [[Subline]] connection and operates various ship systems including the [[Pilot]] console, scanners, and the [[Subspace Drive]]. His body is partially composed of a dark gray ooze that allows him to partially liquefy, slither away, and sprout eyes from fifteen tendrils. During an away team mission on enemy ships, he was partially destroyed with only his top-right quarter remaining intact, yet he later demonstrated the ability to evade debris and enemy fire while moving through a worm's body. Clad in an orange-and-white [[Titan Knight]] combat suit, he interacts with the [[Captain]] and can be heard chuckling in half a dozen different voices.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">34</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">34</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Omega]] is a crew member who communicates via [[Subline]] connection.<ref name="lh-03-the-knight-c3">''The Knight'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Omega]] uses a unique [[Subspace warp]] to travel.<ref name="lh-03-the-knight-c3" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Omega]] is a crew member who uses [[Aethertech]] eyes and guns.<ref name="lh-03-the-knight-c3" />}}</li>
@@ -152,14 +150,13 @@
 <li>{{spoiler|book=lh-03-the-knight|[[Omega]] wears an orange-and-white uniform which is the combat suit of the [[Titan Knights]].<ref name="lh-03-the-knight-c42">''The Knight'', chapter 42</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Omega]] refers to the narrator as [[Captain]].<ref name="lh-03-the-knight-c42" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Omega]] is an entity that the narrator interacts with.<ref name="lh-03-the-knight-c43">''The Knight'', chapter 43</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|An assassin for hire from the [[Zykaros system]], Omega is a combatant who utilizes an optical implant and [[Aethertech]] to function. Known as the [[Grave Hound]] and the founder of Escalon, he is a shapeshifting entity capable of manifesting as black ooze or a human form by using dark goo to hold himself in place. As the [[Pilot]] of [[The Last Horizon]] and the [[World Spirit]], he can manipulate subspace to store his mass, pull weapons from another dimension, and even enhance a ship's thrusters. Despite being the father of [[Aila Escalon]] and grandfather to [[Jak]], he has fought his own daughter and possesses a clone of her. Throughout his various assignments for [[Benri Vallenar]], he has demonstrated extreme regenerative abilities, allowing him to reconstitute himself after being shot or even surviving an explosion by wrapping himself in a missile.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">62</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">62</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]] is a combatant who uses an optical implant to provide feeds.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]] was standing over a bloody body.<ref name="lh-04-the-pilot-c3" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]] has a mouth that forms on a tendril extending from his shoulder.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
@@ -222,8 +219,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]] is a character who would find it hilarious if he died for the ruin of his own home planet.<ref name="lh-04-the-pilot-c48" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]] previously stated that a stronger contract eats a weaker contract.<ref name="lh-04-the-pilot-c48" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]] was gone.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“Good evening, Black Syndicate lady. I’m the Grave Hound.”<ref name="lh-01-the-captain-c10" />}}

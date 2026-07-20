@@ -5,14 +5,13 @@
 }}
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Aelora]] uses crystal magic.<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Aelora]] has a white-armored forearm with a sleek, white console.<ref name="lh-03-the-knight-c12" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Aelora]] is a member of the [[Titan Knights]] and is described as the [[White Knight]].<ref name="lh-03-the-knight-c20">''The Knight'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Aelora]]'s magic is used to devise a magical weapon.<ref name="lh-03-the-knight-c20" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

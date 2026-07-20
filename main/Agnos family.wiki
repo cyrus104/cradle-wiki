@@ -7,29 +7,26 @@
 {{spoiler|book=tg-03-city-of-light|The [[Agnos]] family is a [[Damascan]] lineage characterized by blond hair and tanned skin. The family consists of parents [[Caius]] and [[Olissa]], along with their two children, [[Andra]] and [[Lycus]]. [[Caius]] is a muscular blacksmith who wears a leather apron, while [[Olissa]] works in a [[workshop]], often covered in soot and wearing goggles. Their daughter [[Andra]] is a fourteen-year-old [[Traveler]], noted for her determination and skill with a short, black-spotted blade. Her younger brother [[Lycus]] is approximately ten or eleven years old and possesses a serious temperament. The family has a long history, having been involved in specific activities for three and a half centuries. They have close ties to [[Erastes]], an old soldier who intended to live with them upon his retirement. At various points, the family has faced significant danger from [[Damascan soldiers]] and has been relocated to [[Valinhall]] by [[Simon]].}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|The [[Agnos family]] has a caravan.<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The [[Agnos family]] is preparing to leave the camp.<ref name="tg-01-house-of-blades-c14">''House of Blades'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The [[Agnos family]] wailed when [[Simon]] summoned [[Azura]].<ref name="tg-01-house-of-blades-c15">''House of Blades'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Simon]] worried he may have sent the [[Agnos family]] into even worse danger.<ref name="tg-01-house-of-blades-c15" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Erastes]] intended to move in with the [[Agnos family]] upon retirement.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] had barely seen any of the [[Agnos family]] since his arrival.<ref name="tg-02-crimson-vault-c14">''The Crimson Vault'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The [[Agnos family]] waits inside a room.<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

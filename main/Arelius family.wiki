@@ -11,8 +11,8 @@
 == Soulsmith ==
 {{spoiler|book=cradle-02-soulsmith|The Arelius family is a faction hailing from the [[Empire]] that possesses an [[Underlord]]. While traveling toward the [[Ruins]], they are expected to arrive soon under the guidance of their heir, [[Eithan]]. As they approach, the family is identified by their black crescent moon symbol displayed on their banners.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Arelius family]] is a faction from the [[Empire]].<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Arelius family]] has an [[Underlord]].<ref name="cradle-02-soulsmith-c8">''Soulsmith'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Arelius family]] is on their way.<ref name="cradle-02-soulsmith-c9">''Soulsmith'', chapter 9</ref>}}</li>
@@ -22,14 +22,13 @@
 <li>{{spoiler|book=cradle-02-soulsmith|Arelius is a person [[Ragahn]] mentions.<ref name="cradle-02-soulsmith-c15" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Eithan]] is the heir to the [[Arelius family]].<ref name="cradle-02-soulsmith-c19">''Soulsmith'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Arelius family]]'s symbol is a black crescent moon.<ref name="cradle-02-soulsmith-c20">''Soulsmith'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|The honorable Arelius family is a major servant group that employs hundreds of thousands of people and remains subject only to the empire's great clans. Identified by dark blue, white, and black colors, they fly their banners on cloudships and utilize branch heads to manage their vast affairs, which are largely handled by [[Eithan]]. Members of the family possess specialized bloodline powers to detect threats and identify maintenance needs, as well as the ability to see and hear through [[aura]] and [[madra]]. While [[Lindon]] has joined the family as a servant rather than a subject, he works alongside other members like [[Cassias]] to manage various duties. The family is responsible for defending the [[Blackflame Trials]] course and maintains a descendant of the ancient [[dragons]] sealed within a city cave, though they currently face sabotage from the [[Jai clan]] targeting their street crews.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">35</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">35</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Arelius family]] is noted for having honor.<ref name="cradle-03-blackflame-c2">''Blackflame'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] claims to have no voice in the [[Arelius family]].<ref name="cradle-03-blackflame-c2" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] has joined the [[Arelius family]].<ref name="cradle-03-blackflame-c3">''Blackflame'', chapter 3</ref>}}</li>
@@ -65,14 +64,13 @@
 <li>{{spoiler|book=cradle-03-blackflame|The [[Arelius family]] is a point of interest for [[Suriel]].<ref name="cradle-03-blackflame-c21" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Orthos]] is an Arelius turtle.<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Naru Huan]] planned to visit the [[Arelius family]] personally.<ref name="cradle-03-blackflame-c22" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
 {{spoiler|book=cradle-04-skysworn|Ranked as the premier major family within the [[Empire]], the Arelius family is a lineage of Underlords that maintains the cloudship [[Sky's Mercy]]. While members typically possess powerful spiritual perception for scouting, certain individuals within the bloodline rely on physical senses instead. The family is protected by their guardian, [[Orthos]], and utilizes wax seals marked with ancient characters and a crescent symbol to transmit messages. Despite their status and the potential for members to reach [[Highgold]] by age twenty-five, they have recently lost territory to bloodspawn. Their prominence is further highlighted by the expectation that they will eventually replace the [[Jai clan]] among the great clans.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Jai Daishou]] stole a severed head from a servant of the [[Arelius family]].<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Jai Daishou]] intends to steer the [[Deepwalker Ape]] toward the [[Arelius family]].<ref name="cradle-04-skysworn-c1" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|An Arelius sees things using physical senses rather than spiritual perception.<ref name="cradle-04-skysworn-c1" />}}</li>
@@ -90,28 +88,26 @@
 <li>{{spoiler|book=cradle-04-skysworn|The [[Arelius family]] is expected to replace the [[Jai clan]] in the ranks of the great clans.<ref name="cradle-04-skysworn-c13" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Arelius family]] has lost territory to bloodspawn.<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Arelius family]] uses wax seals marked with a crescent symbol and ancient characters to send messages.<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|The Arelius family maintains various administrative centers and possesses a unique bloodline ability. Despite their status, the family lacks the wealth required to afford meat comparable to that of the [[Silverfang Carp]]. Their financial standing is such that a single [[void key]] holds a value equivalent to half of the entire family. Members of this lineage include [[Eithan]], and individuals such as [[Longhook]] recognize them by their family name.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Arelius family]] has administrative centers.<ref name="cradle-05-ghostwater-c4">''Ghostwater'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Arelius family]] could not afford meat of the quality found in [[Silverfang Carp]].<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|A [[void key]] is worth as much as half of the [[Arelius family]].<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Eithan]] is an Arelius.<ref name="cradle-05-ghostwater-c14">''Ghostwater'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Longhook]] addresses Arelius.<ref name="cradle-05-ghostwater-c14" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Arelius bloodline]] has a specific ability.<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|The Arelius family maintains control over the cleaning crews and maintenance workers throughout the [[Empire]], supported by small contingents of servants. While they have yet to rise to their full potential in the west, members such as the refiner [[Lezaar]] serve the clan. During a period when [[Eithan]] was potentially working for them, a servant wearing Arelius colors delivered food to him. Although [[Lindon]] and his companions intended to make contact with the family, the clan was preoccupied with mourning the loss of their [[Monarch]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Lindon]] and his companions intended to contact the [[Arelius family]].<ref name="cradle-06-underlord-c2">''Underlord'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Arelius family]] has yet to rise to its place in the west.<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Lezaar]] is a refiner of the [[Arelius family]].<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
@@ -120,76 +116,68 @@
 <li>{{spoiler|book=cradle-06-underlord|The [[Arelius family]] commands the cleaning crews and maintenance workers across the [[Empire]].<ref name="cradle-06-underlord-c12">''Underlord'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|A servant delivered food to [[Eithan]] in Arelius colors.<ref name="cradle-06-underlord-c12" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The Arelius clan is in mourning over the loss of their [[Monarch]].<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|An Arelius clan [[Underlord]] guided [[Lindon]]'s development of a [[pure madra]] [[Path]].<ref name="cradle-07-uncrowned-c3">''Uncrowned'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[House Arelius]] is located on the [[Rosegold continent]].<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The Arelius teams do not clap for the [[Monarch]].<ref name="cradle-07-uncrowned-c11">''Uncrowned'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|The Arelius family is a lineage whose members possess such high capabilities that [[Yerin]] underwent specialized perception training specifically to match their level. Their presence is noted by [[Yan Shoumei]], and the family later demonstrated their connection to [[Yerin]] by sending her a gift. Following an order from the [[Blood Sage]], the family was instructed to relocate. The identity of the clan is visually represented by the dark blue color found on the base of their cloudship.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yerin's perception]] training was intended to help her keep up with an Arelius.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Arelius family]] is mentioned by [[Yan Shoumei]].<ref name="cradle-08-wintersteel-c11">''Wintersteel'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Arelius family]] sent a gift to [[Yerin]].<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Blood Sage]] ordered Arelius to move.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The dark blue color of the cloudship's base represents the [[Arelius family]].<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The [[Arelius family]] has a crest.<ref name="cradle-09-bloodline-c16">''Bloodline'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Arelius family]] had pushed the [[Jai clan]] out of the [[Empire]].<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The Arelius clan uses a moon crest as their symbol.<ref name="cradle-09-bloodline-c22">''Bloodline'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|The influence of the Arelius clan is felt primarily through the actions of [[Eithan]], whose clothing prominently displays the family's symbol. While some members of [[Lindon]]'s team carry the Arelius name, they are only part of the clan in name alone. During his journey, [[Lindon]] even questions whether the clan was responsible for the construction of the [[labyrinth]]. Additionally, the family name is mentioned in connection to [[Reigan Shen]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|Two members of [[Lindon]]'s team are only part of the Arelius clan in name.<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The Arelius presence is felt through [[Eithan]]'s actions.<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Eithan]]'s clothes bear the Arelius clan symbol.<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] questions if the Arelius clan built the [[labyrinth]].<ref name="cradle-10-reaper-c10" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|Arelius is mentioned in relation to [[Reigan Shen]].<ref name="cradle-10-reaper-c20">''Reaper'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Arelius family]] founder was the interdimensional god of death.<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Cassias Arelius]] is an Arelius.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Arelius family]] is involved in a distant clash on the [[Rosegold continent]].<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|Arelius troops are involved in the battlefield.<ref name="cradle-12-waybound-c15">''Waybound'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The Arelius clan has made a home among ruins and half-standing walls.<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The Arelius clan is a blond and smug group.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-02-soulsmith|"In no more than a month, their Underlord will take all prizes from us, and we will be left with only scraps."<ref name="cradle-02-soulsmith-c8" />}}

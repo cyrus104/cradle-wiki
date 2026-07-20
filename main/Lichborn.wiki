@@ -11,8 +11,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The Lichborn are a people hailing from their own homeworld, characterized by gray skin and eyes that shine with green light. These individuals possess specific marks within their eyes and are considered almost universally beautiful by human standards. While they find a sense of home in hostile hellscapes, the Lichborn are currently engaged in a war against the Karoshans. Beyond the people themselves, the name also refers to a system that exports thought-conduction alloys.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Lichborn]] people have gray skin and eyes that shine with green light.<ref name="lh-01-the-captain-c5">''The Captain'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Lichborn]] find hostile hellscapes to be home.<ref name="lh-01-the-captain-c8">''The Captain'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The opponent in the fighter was an older [[Lichborn]] man.<ref name="lh-01-the-captain-c11">''The Captain'', chapter 11</ref>}}</li>
@@ -23,14 +23,13 @@
 <li>{{spoiler|book=lh-01-the-captain|The [[Lichborn]] are at war with the Karoshans.<ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Lichborn]] is a homeworld.<ref name="lh-01-the-captain-c44">''The Captain'', chapter 44</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Sola]] possesses the eyes of a healthy [[Lichborn]].<ref name="lh-01-the-captain-c44" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|The Lichborn are a group of people who have been engaged in a generational war against [[Karosha]]. Within this race, [[Moonmaster]] possesses Lichborn heritage as a half-Lichborn. During his journey, [[Starhammer]] contemplates the possibility that his savior belongs to this group. The Lichborn are represented by a woman clad in [[Aethertech armor]], though a Lichborn man was also present during the encounter.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The [[Lichborn]] have been at war with [[Karosha]] for generations.<ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Moonmaster]] is a half-[[Lichborn]].<ref name="lh-02-the-engineer-c6">''The Engineer'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Lichborn]] is a heritage or race that [[Moonmaster]] possesses.<ref name="lh-02-the-engineer-c6" />}}</li>
@@ -38,14 +37,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[Lichborn]] are a group of people.<ref name="lh-02-the-engineer-c13">''The Engineer'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Lichborn]] is a woman wearing [[Aethertech armor]].<ref name="lh-02-the-engineer-c14">''The Engineer'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|A [[Lichborn]] man was present during the encounter.<ref name="lh-02-the-engineer-c43">''The Engineer'', chapter 43</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The Lichborn are one of the five species of intelligent beings found throughout the galaxy. Characterized by their black hair and gray skin, members of this race possess the unique ability to survive specific levels of damage. Their presence is noted in various cultural depictions, including statues of [[arena]] fighters. On one occasion, a [[Lichborn woman]] arrived at a landing site while a holographic screen displayed a royal drama involving her kind.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Lichborn]] is a species or type of person with gray skin and black hair.<ref name="lh-03-the-knight-c2">''The Knight'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Lichborn]] are one of the five species of intelligent beings in the galaxy.<ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|A [[Lichborn woman]] arrives at the landing site.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
@@ -53,14 +51,13 @@
 <li>{{spoiler|book=lh-03-the-knight|[[Lichborn]] is a type of being or race.<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Lichborn]] are among the types of people depicted in [[arena]] fighter statues.<ref name="lh-03-the-knight-c25">''The Knight'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|A [[Lichborn]] royal drama was being displayed on a holographic screen.<ref name="lh-03-the-knight-c28">''The Knight'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|The Lichborn are a species characterized by their near-flawless appearance and gray skin. Originating from their homeworld on [[Dornoth IV]], they have expanded their reach by initiating mining operations within the [[Grand Hive]]. As a group capable of manufacturing both ships and [[life]]-pods, their fleet can travel anywhere via subspace warp. This group, which includes individuals such as [[Nera Jesh]] and a gray-streaked woman seen in the hangar, possesses a history of utilizing power armor. While they are capable of encircling others in anger, certain members like [[Sola]] possess distinct green eyes.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Lichborn]] have their homeworld on [[Dornoth IV]].<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Lichborn]] have begun mining operations in the [[Grand Hive]].<ref name="lh-04-the-pilot-c10" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Lichborn]] are a fleet that emerged from a [[Subspace warp]].<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}</li>
@@ -72,8 +69,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|The [[Lichborn]] have a history of power armor.<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Lichborn]] are a species with gray skin and near-flawless looks.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Lichborn]] can be angry and encircle others.<ref name="lh-04-the-pilot-c37" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

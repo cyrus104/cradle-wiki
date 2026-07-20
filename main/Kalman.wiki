@@ -9,29 +9,26 @@
 {{spoiler|book=tg-03-city-of-light|Kalman is a man who travels by cart with his wife and son, [[Simon]]. During their travels, he has encountered supernatural phenomena, such as glowing spirits and potential work by [[Travelers]]. While managing a donkey and a cart containing supplies like salt and paper, Kalman has faced significant physical danger, including an encounter with a large, fiery insect-like monster. Despite suffering intense pain and injury during such conflicts, he has demonstrated remarkable resilience. He is the father of [[Simon]], who is frequently referred to by various figures as the son of Kalman.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Kalman]] is [[Simon]]'s father.<ref name="tg-01-house-of-blades-c1">''House of Blades'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Kalman]] is severely burned by a fiery monster wasp.<ref name="tg-01-house-of-blades-c1" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Kalman]] vanished from the [[Latari Forest]].<ref name="tg-01-house-of-blades-c5">''House of Blades'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Simon]] is the son of [[Kalman]].<ref name="tg-01-house-of-blades-c16">''House of Blades'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Eldest]] [[Nye]] refers to [[Simon]] as the son of [[Kalman]].<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The son of [[Kalman]] wishes to challenge the graveyard.<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Kalman]] has a son.<ref name="tg-03-city-of-light-c16">''City of Light'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|“Watch them kill your daughter, son of Kalman, and tell me how much protection they deserve.”<ref name="tg-01-house-of-blades-c16" />}}

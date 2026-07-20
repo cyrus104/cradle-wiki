@@ -6,14 +6,13 @@
 }}
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega’s daughter]] protects herself with [[Hallow Divide]].<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Sola]] tried to use scanners to predict [[Omega’s daughter]].<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]]'s daughter was engulfed in golden fire.<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Copies of [[Omega]]'s daughter are cornering [[Horizon]].<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|Sola turned her visor to Mell. “I tried to use my new scanners to predict Omega’s daughter.<ref name="lh-04-the-pilot-c32" />}}

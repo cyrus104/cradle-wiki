@@ -16,8 +16,8 @@
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|As the remaining [[Underlady]] of [[House Arelius]], Veris Arelius serves as an [[Underlord]] who fights in honor of the late [[Tiberian Arelius]]. This yellow-haired woman with blue eyes, whose hair is styled in a braid, utilizes lightning-based techniques in combat. She is the cousin of [[Eithan]] and often communicates through a disembodied voice.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Veris Arelius]] is the remaining [[Underlady]] of [[House Arelius]].<ref name="cradle-07-uncrowned-c17">''Uncrowned'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Veris Arelius]] has blue eyes and yellow hair tied into a braid.<ref name="cradle-07-uncrowned-c17" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Veris Arelius]] fights for the late [[Tiberian Arelius]].<ref name="cradle-07-uncrowned-c17" />}}</li>
@@ -26,15 +26,13 @@
 <li>{{spoiler|book=cradle-07-uncrowned|Veris is an [[Underlord]].<ref name="cradle-07-uncrowned-c17" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Veris Arelius]] is [[Eithan]]'s cousin.<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Veris Arelius]] communicates via a disembodied voice.<ref name="cradle-07-uncrowned-c19" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Veris Arelius]] is a member of the [[Arelius family]].<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-07-uncrowned|"Cousin Veris, a pleasure to see you again."<ref name="cradle-07-uncrowned-c19" />}}

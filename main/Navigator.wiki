@@ -15,39 +15,35 @@
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Navigators]] are known to possess their own ships and guard their secrets with even greater intensity than the [[Champions]]. During a journey alongside [[Naberius]] and [[Tristania]], one such Navigator accompanied the group. While these individuals typically undertake officially sanctioned missions, a Navigator eventually approached the party while wearing the [[Emperor's crown]] and carrying an [[Awakened sword]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Navigators]] possess ships.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Navigators]] protect their secrets more closely than the [[Champions]].<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A [[Navigator]] came down with [[Naberius]] and [[Tristania]].<ref name="ee-shadow-01-of-shadow-and-sea-c10" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Navigators]] go on officially sanctioned missions.<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Navigator]] walks toward the group wearing an [[Awakened sword]] and the [[Emperor's crown]].<ref name="ee-shadow-01-of-shadow-and-sea-c25">''Of Shadow and Sea'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Navigators]] are capable of steering ships and finding destinations.<ref name="ee-sea-02-of-dawn-and-darkness-c5">''Of Dawn and Darkness'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Navigators]] carry personal instructions from [[Emperor (Elder Empire)|the Emperor]] and possess the [[Imperial Seal]].<ref name="ee-sea-02-of-dawn-and-darkness-c9">''Of Dawn and Darkness'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Meia]] is a [[Navigator]].<ref name="ee-sea-02-of-dawn-and-darkness-c10">''Of Dawn and Darkness'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] is a [[Navigator]].<ref name="ee-sea-03-of-kings-and-killers-c10">''Of Kings and Killers'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Navigators]] can be booked for trips.<ref name="ee-shadow-03-of-killers-and-kings-c12">''Of Killers and Kings'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Navigator]] questioned a plan as stupid.<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-03-of-killers-and-kings|“What stupid plan is this?” the Navigator asked.<ref name="ee-shadow-03-of-killers-and-kings-c24" />}}

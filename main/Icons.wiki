@@ -6,12 +6,11 @@
 }}
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Heralds]] can still hear [[Icons]] even if it is difficult to hear subtler powers.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|Some powerful spirits use [[Icons]] as a form of introduction.<ref name="cradle-12-waybound-c29" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

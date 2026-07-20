@@ -9,22 +9,20 @@
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nakothi]]'s song exists as a constant, loud undercurrent that can be felt directly through the senses of a [[Reader]]. The melody resonates between [[Shera]]'s left-hand knife and the [[Heart]], eventually rising to a deafening crescendo. Beyond its volume, the song croons various messages to those who listen.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nakothi's song]] resonates between the [[Heart]] and [[Shera]]'s left-hand knife.<ref name="ee-shadow-01-of-shadow-and-sea-c13">''Of Shadow and Sea'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The song of [[Nakothi]] rose to a deafening crescendo.<ref name="ee-shadow-01-of-shadow-and-sea-c13" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nakothi's song]] is a constant undercurrent that can be felt directly with a [[Reader]]'s senses.<ref name="ee-shadow-01-of-shadow-and-sea-c15">''Of Shadow and Sea'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nakothi's song]] is not quiet.<ref name="ee-shadow-01-of-shadow-and-sea-c15" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nakothi]]’s song croons messages to the listener.<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Nakothi's song]] croons to children to be remade.<ref name="ee-shadow-03-of-killers-and-kings-c26">''Of Killers and Kings'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“You are cold, the Heart crooned. You are weak, you are sick. Let me make you strong, let me take away your pain...<ref name="ee-shadow-01-of-shadow-and-sea-c17" />}}

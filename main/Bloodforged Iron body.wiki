@@ -9,20 +9,19 @@
 {{spoiler|book=cradle-12-waybound|The Bloodforged [[Iron body]], also known as the Bloodforged body, is a specific type of [[Iron]]-level physical transformation. While it is highly effective at resisting toxins, diseases, and corrosive substances, its primary function is rapid physical regeneration. It can instantly replace lost flesh or repair broken bones and internal injuries, even when facing devastating attacks from powerful entities. However, this restorative capability comes at a significant cost: the body consumes vast amounts of [[madra]] to fuel its healing processes. This constant drain can leave a user feeling hollow, powerless, or completely exhausted after combat. Because it siphons energy so aggressively to mend wounds, the body can effectively cripple its host by depleting their spiritual reserves.}}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Bloodforged Iron body]] uses the user's spirit to accelerate the body's ability to restore and protect itself.<ref name="cradle-02-soulsmith-c16">''Soulsmith'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|Creating the [[Bloodforged Iron body]] requires being bitten by a [[sandviper]] and drinking its blood.<ref name="cradle-02-soulsmith-c16" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Bloodforged Iron body]] is something [[Eithan]] has only read about.<ref name="cradle-02-soulsmith-c16" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Bloodforged Iron body]] is used by [[Sandvipers]] to combat their own toxins.<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|[[Lindon]] possesses a Bloodforged [[Iron body]], a specialized type of body capable of fueling recovery through the use of [[madra]]. While this body can call upon [[madra]] from the core to heal fatigue and was believed by [[Eithan]] to be necessary for handling the [[Blackflame]] [[Path]], it is tailor-made to resist corrosive breakdown at the cost of burning through [[madra]] quickly. The body leeches the user's core whenever they are wounded, draining [[Blackflame madra]] to facilitate healing. This process allowed [[Lindon]] to ignore the pain of a silver arrow piercing his thigh and prevented venom from spreading through his veins, though the body could not keep up with a spear as thick as his wrist.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Bloodforged Iron body]] calls [[madra]] from the core to heal fatigue.<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]]'s [[Bloodforged Iron body]] requires too much [[madra]] to sustain.<ref name="cradle-03-blackflame-c7">''Blackflame'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Bloodforged Iron body]] is a type of body that can fuel recovery with [[madra]].<ref name="cradle-03-blackflame-c7" />}}</li>
@@ -34,55 +33,48 @@
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]]'s Bloodforged body allows him to ignore the pain of a silver arrow piercing his thigh.<ref name="cradle-03-blackflame-c14" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]]'s [[Bloodforged Iron body]] cannot keep up with a spear thick as his wrist.<ref name="cradle-03-blackflame-c15">''Blackflame'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Bloodforged Iron body]] prevented venom from crawling through [[Lindon]]'s veins.<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|The [[Bloodforged Iron body]] requires [[madra]] for restoration.<ref name="cradle-04-skysworn-c6">''Skysworn'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Lindon]]'s [[Bloodforged Iron body]] has healed him so far.<ref name="cradle-04-skysworn-c17">''Skysworn'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Bloodforged Iron body]] was meant to protect against poison.<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]]'s [[Bloodforged Iron body]] takes longer to heal after channeling [[Blackflame]] for too long.<ref name="cradle-05-ghostwater-c9" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Lindon]]'s [[Bloodforged Iron body]] feeds on [[madra]].<ref name="cradle-06-underlord-c18">''Underlord'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]]'s [[Bloodforged Iron body]] runs better on [[pure madra]].<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Divine Treasure]] makes the [[madra]] funneled into a [[Bloodforged Iron body]] a hundred times more efficient.<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]]'s [[Bloodforged Iron body]] runs with stolen power.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]]'s [[Bloodforged Iron body]] helped process blood essence and heal his wounds.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]]'s lost flesh was replaced by his [[Bloodforged Iron body]].<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The hunger arm was powering [[Lindon]]'s [[Bloodforged Iron body]].<ref name="cradle-12-waybound-c30" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

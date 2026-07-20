@@ -7,12 +7,11 @@
 }}
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Witch of Kaseri]] is a manipulator of the Void and an accomplished practitioner of her world's energy system.<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Witch of Kaseri]] attempted to subvert the [[Mad King's fragment]] using chaotic authority.<ref name="cradle-12-waybound-c18" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

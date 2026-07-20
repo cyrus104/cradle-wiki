@@ -12,15 +12,14 @@
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|Hailing from the town of [[Nyala]], Yzara is a traveler who stands six-and-a-half feet tall. She carries a two-handed claymore upon her back and wears a golden [[Champion badge]] on her chest. Due to adaptations from being a [[Champion]], her eyesight is overly sensitive, requiring her to wear a blindfold over her eyes.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Yzara]] is a traveler who uses a blindfold over her eyes because her eyesight is too sensitive due to [[Champion]] adaptations.<ref name="ee-shadow-03-of-killers-and-kings-c12">''Of Killers and Kings'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Yzara]] is a six-and-a-half-foot-tall blindfolded woman.<ref name="ee-shadow-03-of-killers-and-kings-c12" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Yzara]] carries a two-handed claymore on her back.<ref name="ee-shadow-03-of-killers-and-kings-c12" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Yzara]] wears a golden [[Champion badge]] on her chest.<ref name="ee-shadow-03-of-killers-and-kings-c12" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Yzara]] is from the town of [[Nyala]].<ref name="ee-shadow-03-of-killers-and-kings-c12" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

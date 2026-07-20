@@ -4,19 +4,17 @@
 }}
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[The Device]] grows larger as it drifts out through the hull of the battleship.<ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Device]] is an obsidian-jewel object that hovers over [[Starhammer]]'s shoulder.<ref name="lh-02-the-engineer-c42">''The Engineer'', chapter 42</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[The Device]] is an entity that responds to the hilt of the [[Zenith Blade]].<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

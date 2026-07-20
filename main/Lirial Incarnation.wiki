@@ -15,8 +15,8 @@
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|As the crystal [[Incarnation]] of [[Lirial]], this entity manifests as a featureless white crystal statue wrapped in silver wire. While positioned behind [[Zakareth]] at the gates of [[Cana]], the figure utilized a crystal leg to deliver a stone-hard kick to [[Indirial]]. During combat, she held a crystal lens in her left hand and launched white bolts that [[Simon]] deflected with his blade. After attacking [[Leah]]'s crystal shield, the entity demonstrated a vulnerability by shattering into three pieces like thin glass upon striking cobblestones.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The [[Lirial Incarnation]] is a featureless statue made of white crystal wrapped in silver wire.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Lirial]] is the [[Incarnation]] of [[Lirial]].<ref name="tg-03-city-of-light-c11" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Lirial Incarnation]] was behind [[Zakareth]] at the gates of [[Cana]].<ref name="tg-03-city-of-light-c15">''City of Light'', chapter 15</ref>}}</li>
@@ -27,8 +27,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|The [[Lirial Incarnation]] is a crystal [[Incarnation]].<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Lirial Incarnation]] attacked [[Leah]]'s crystal shield.<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Lirial Incarnation]] can shatter into three pieces like thin glass upon hitting cobblestones.<ref name="tg-03-city-of-light-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-03-city-of-light|“Give me your secrets, Incarnation of Lirial,” he said softly.<ref name="tg-03-city-of-light-c11" />}}

@@ -9,65 +9,57 @@
 {{spoiler|book=cradle-12-waybound|The Steelborn [[Iron body]] is a specialized type of physical foundation achieved during the advancement to the [[Iron]] realm. It is characterized by its immense capacity for physical power, which becomes particularly dominant once a user reaches the [[Underlord]] stage. This specific body type is known for its ability to grow and sharpen in effectiveness as the user progresses through higher stages of cultivation. It functions by drawing [[madra]] into the muscles and skin to fuel explosive strength, such as enabling high-speed movement or massive physical strikes. However, it is not primarily designed for protection; users must continuously supply it with [[madra]] to maintain their physical integrity and prevent injury. While it provides overwhelming strength that can rival or exceed other specialized bodies, its heavy reliance on [[madra]] consumption means it can drain a user's reserves rapidly during intense combat.}}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Steelborn body]] is an [[Iron body]] that provides immense brute strength once the user reaches [[Underlord]].<ref name="cradle-02-soulsmith-c16">''Soulsmith'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The Steelborn [[Iron body]] is a type of body [[Enforcement]] technique.<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The Steelborn [[Iron body]] is a technique [[Yerin]] draws on.<ref name="cradle-05-ghostwater-c17">''Ghostwater'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|Steelborn [[Iron body]] is a physical enhancement used by [[Yerin]].<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The Steelborn [[Iron body]] is a physical attribute of [[Yerin]] that provides overwhelming strength at the [[Underlord]] stage.<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Yerin]] flows [[madra]] through her Steelborn [[Iron body]].<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Yerin]] has a Steelborn [[Iron body]].<ref name="cradle-07-uncrowned-c20">''Uncrowned'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yerin]] uses her Steelborn [[Iron body]] to kick off with great power.<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Ruby]] developed a copy of [[Yerin]]'s Steelborn [[Iron body]].<ref name="cradle-08-wintersteel-c22">''Wintersteel'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yerin]] sent [[madra]] into her Steelborn [[Iron body]].<ref name="cradle-08-wintersteel-c22" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Yerin]] can cycle her [[madra]] to her Steelborn [[Iron body]].<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The Steelborn [[Iron body]] gives [[Yerin]] great capacity for strength compared to other [[Heralds]].<ref name="cradle-12-waybound-c8">''Waybound'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Yerin]] pushed her Steelborn [[Iron body]] to its limits.<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

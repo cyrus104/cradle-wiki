@@ -7,21 +7,19 @@
 {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Awakened]] objects are items that have undergone a transformation process performed by [[Readers]]. This procedure alters the physical appearance and properties of an object, often granting it enhanced powers or new abilities that it did not previously possess. The [[Awakening]] process involves a combination of [[Intent]] from the object itself, its owner, and the Reader performing the task; success is more probable when the item holds significance for both the owner and the Reader. While [[Awakening]] can create aesthetically striking or powerful tools, it carries risks, such as mechanical failure if the parts change shape in ways that conflict with one another. Once an object has been [[Awakened]], it is locked into a single form and can no longer absorb further [[Intent]] or undergo the process again. These objects often exhibit a degree of self-awareness or independence, with their level of consciousness tied to the object's original [[Intent]]. They may demonstrate autonomous behavior or possess senses that connect to a user's [[Intent]], though they are not replacements for living humans. In the context of [[Soulbound]] individuals, an [[Awakened object]] serves as a [[Vessel]] that provides them with specific abilities. Because these [[Vessels]] are the source of a [[Soulbound]]'s power, they are critical targets in combat; destroying or securing the [[Vessel]] can neutralize the [[Soulbound]].}}
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Readers]] can [[Awaken]] objects, which changes their physical appearance and increases their powers.<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Awakened objects]] cannot be invested further or [[Awakened]] again.<ref name="ee-shadow-01-of-shadow-and-sea-c17" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Awakened objects]] can be powerful and somewhat self-aware.<ref name="ee-shadow-01-of-shadow-and-sea-c23">''Of Shadow and Sea'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Some alchemists bear glowing, exotic artifacts that look like [[Awakened objects]].<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Awakened objects]] are complex to [[Read]].<ref name="ee-sea-03-of-kings-and-killers-c18">''Of Kings and Killers'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

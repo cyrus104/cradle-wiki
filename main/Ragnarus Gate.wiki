@@ -9,26 +9,24 @@
 {{spoiler|book=tg-03-city-of-light|The Ragnarus Gate, also known as the Gate to the [[Crimson Vault]], is a red-bordered portal that serves as an entrance to the Ragnarus [[Territory]]. These gates can be opened within the mundane world, though they cannot be opened while in the [[Territories]]. A [[gate]] typically leads to a cave outside of the [[Crimson Vault]], which is guarded by silver doors featuring the image of a one-eyed, bearded king. While travelers can enter the [[Crimson Vault]] from various locations, exiting through a Ragnarus Gate is restricted to a single direction: the royal palace in [[Cana]], specifically near the [[Hanging Tree]]. Access to these gates is highly limited; according to an ancient pact, only [[Leah]] and her two sisters possess the ability to open them. Beyond transportation, the gates serve a defensive role, as guards are stationed to intercept any uninvited native creatures that might emerge from the portal. The [[gate]] is characterized by a swirling, red-edged appearance and can be used to travel vast distances in mere minutes.}}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|A [[Ragnarus Gate]] leads straight into the middle of the royal palace in [[Cana]].<ref name="tg-02-crimson-vault-c16">''The Crimson Vault'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|There is a Gate to Ragnarus.<ref name="tg-02-crimson-vault-c21">''The Crimson Vault'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Alin]] steps off a blue pedestal away from the [[Ragnarus Gate]].<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|The Ragnarus Gate is a specific type of gateway. Within the royal palace, an ordinary version of this [[gate]] features red borders and serves as an exit point. During certain events, the [[gate]] was observed hanging open behind [[Zakareth]], and he was later seen standing beside a massive instance of the structure.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The [[Ragnarus Gate]] hung open behind [[Zakareth]].<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Ragnarus Gate]] is a location.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|A [[Ragnarus Gate]] is a type of [[gate]].<ref name="tg-03-city-of-light-c17">''City of Light'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|An ordinary red-bordered Gate to Ragnarus opened leading out into the royal palace.<ref name="tg-03-city-of-light-c17" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[King]] [[Zakareth]] stands next to a huge [[Ragnarus Gate]].<ref name="tg-03-city-of-light-c20">''City of Light'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -9,20 +9,19 @@
 {{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] is a powerful entity characterized as both a [[Zenith]] Starship and a floating city. It possesses legendary capabilities, including the ability to terraform environments, [[construct]] entire fleets, and utilize teleportation magic. This magical capacity allows for the movement of entire planets across the galaxy, a feat that serves as both a tactical advantage and a potential tool for planetary destruction. The vessel is heavily armed with diverse weaponry, such as particle beams, proton bombs, plasma cannons, and seeker missiles, capable of leveling cities. While its primary mandate is to ensure galactic security and protect civilization from various threats, including corrupt government elements, its reputation is polarizing. Various factions view it as a herald of disaster and a source of terror that brings destruction to the [[Free Worlds]] and the [[Union]]. Despite these conflicting perceptions, its core purpose is to explore the galaxy, prevent stagnation, and maintain peace. The entity operates with its own crew, including an [[Engineer]], and maintains a focus on the broader safety of the galaxy rather than the preservation of specific political unions.}}
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|Planetary [[Security]] is an organization that [[Advocates]] assist.<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Planetary [[Security]] automatically transmits warnings to [[Advocate]] ships.<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Planetary [[Security]] is scared of [[Omega]].<ref name="lh-02-the-engineer-c22">''The Engineer'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Planetary [[Security]] forces are sometimes insufficient to handle certain villains' weapons.<ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|As an entity located on Fathom, Planetary [[Security]] maintains control over the planet's airspace. Supported by the [[Magic Tower]], the organization manages a database and handles the issuance of docking passes. While they previously waved militia starships through the orbital cordon, they received an alert simultaneously with [[Sola]]. This event ultimately led to a state of panic for Planetary [[Security]] on Fathom.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|Planetary [[Security]] is an entity on Fathom.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Planetary [[Security]] controls the air.<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Planetary [[Security]] is supported by the [[Magic Tower]].<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
@@ -31,8 +30,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|Planetary [[Security]] issues docking passes.<ref name="lh-04-the-pilot-c42">''The Pilot'', chapter 42</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Planetary [[Security]] received an alert at the same time as [[Sola]].<ref name="lh-04-the-pilot-c42" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Planetary [[Security]] panicked on Fathom.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“Should we put in a call to Planetary Security?”<ref name="lh-04-the-pilot-c2" />}}

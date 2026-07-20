@@ -13,17 +13,16 @@
 {{spoiler|book=lh-04-the-pilot|Divine [[Titans]] are powerful, massive combat machines that serve as essential weapons for fighting threats like the D'Niss. These masterpieces of engineering are designed to amplify a pilot's innate abilities, though they lack the adaptive systems found in [[Zenith Devices]]. To summon one, a pilot must use a specific spoken incantation that functions much like a spell; while the full phrase can be used, it requires intense concentration that leaves the user unable to focus on other tasks. Operating a [[Divine Titan]] is complex and carries significant risks. Pilots must maintain high levels of compatibility and teamwork to use them effectively, and some units require external assistance from a [[Captain]] to be controlled. If a [[Titan]] becomes unstable—such as when one was contaminated by the blood of a solar dragon—it can go on a rampage, potentially causing massive destruction to entire colonies. These machines come in various colors and configurations, including a pristine green model equipped with multiple integrated weapons and a scarlet unit marked by golden veins. While they are vital for protecting the innocent, their use is often a last resort due to the danger it poses to the pilot and the surrounding environment.}}
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Divine Titans]] can be called while inside [[Subspace]].<ref name="lh-02-the-engineer-c9">''The Engineer'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The Divine [[Titans]] are a group of five powerful entities originally invented and built by [[Doctor Janbell Cryce]]. These summoned beings are piloted by combatants and possess the unique ability to convey [[Combat Arts]]. Despite their immense strength, the Divine [[Titans]] are constrained by a limited energy capacity.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Doctor Janbell Cryce]] is the inventor of the [[Divine Titans]].<ref name="lh-03-the-knight-c2">''The Knight'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Doctor Cryce]] invented and built the [[Divine Titans]].<ref name="lh-03-the-knight-c10">''The Knight'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Divine Titans]] are piloted by combatants.<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}</li>
@@ -32,17 +31,15 @@
 <li>{{spoiler|book=lh-03-the-knight|[[Divine Titans]] are entities that can be summoned.<ref name="lh-03-the-knight-c31">''The Knight'', chapter 31</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Divine Titans]] are powerful entities.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Divine Titans]] have a limited energy capacity.<ref name="lh-03-the-knight-c42">''The Knight'', chapter 42</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|Two [[Divine Titans]] emerged to support the [[Zenith]] Starship.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Red]] and green [[Divine Titans]] are fighting in the distance.<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Divine Titans]] are kept in a hangar.<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“We are restricted by the energy capacity of the Divine Titans,” Shyrax noted.<ref name="lh-03-the-knight-c42" />}}

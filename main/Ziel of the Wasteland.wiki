@@ -19,8 +19,8 @@
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|Ziel of the [[Wasteland]] is a horned man who departed [[Ghostwater]] and is known for waiting on the sidelines to find an advantage. While under the protection of the [[Beast King]], his body became ravaged by a toxic, venomous green energy. This man possesses emerald horns and a long white beard, and he is recognized as an expert in revising [[Foundation]] theory. In combat, he utilizes a hammer, employing an [[Enforcer technique]] to manage the weapon's significant weight.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|Ziel is a horned boy from the [[Wasteland]] known to wait on the sidelines for an advantage.<ref name="cradle-05-ghostwater-c4">''Ghostwater'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Ziel of the Wasteland]] is a person who departed [[Ghostwater]].<ref name="cradle-05-ghostwater-c4" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|Ziel is known as [[Ziel of the Wasteland]].<ref name="cradle-05-ghostwater-c12">''Ghostwater'', chapter 12</ref>}}</li>
@@ -33,21 +33,19 @@
 <li>{{spoiler|book=cradle-05-ghostwater|Ziel is a man with emerald horns.<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|Ziel uses a hammer.<ref name="cradle-05-ghostwater-c15" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|Ziel uses an [[Enforcer technique]] to handle his hammer's weight.<ref name="cradle-05-ghostwater-c15" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|Ziel spoke of pills that could advance a person to the peak of [[Truegold]] in minutes.<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|Once a celebrated genius of the [[Iceflower]] continent, Ziel was previously recognized as a [[Truegold]]. During the last [[Uncrowned King]] tournament, he competed as an [[Underlord]] before being mutilated by the leader of the [[Stormcaller cult]]. This encounter left his body ravaged by poison and his spirit damaged, leaving him a haggard man in a tattered gray cloak with green horns. Though [[Lindon]] suspects he may have once reached the rank of Overlord or [[Archlord]], Ziel is now known as a chosen of the Wastelands.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|Ziel is a young-looking but haggard man in a tattered gray cloak with green horns.<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Ziel was previously considered a [[Truegold]].<ref name="cradle-07-uncrowned-c10" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Ziel's spirit is damaged.<ref name="cradle-07-uncrowned-c10" />}}</li>
@@ -57,14 +55,13 @@
 <li>{{spoiler|book=cradle-07-uncrowned|Ziel was an [[Underlord]] in the last [[Uncrowned King]] tournament.<ref name="cradle-07-uncrowned-c15" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Ziel's body was ravaged by poison.<ref name="cradle-07-uncrowned-c15" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Ziel is a chosen of the Wastelands.<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|A member of the [[Dawnwing Sect]] and a chosen of [[Northstrider]], Ziel is a [[Soulsmith]] and skilled scriptor who practices a variation of the [[Path of the Dawn Oath]]. Representing [[Northstrider]] in the [[Uncrowned]] tournament, this combatant wears a gray cloak and carries a massive two-handed warhammer alongside faintly glowing green horns. During the matches, Ziel utilizes the [[Enforcer]] and [[Forging]] techniques to create circles, displaying a spiritual pressure that resembles a [[Truegold]] despite being an [[Underlord]]. Although [[Eithan]] is able to funnel advancement resources to the fighter, Ziel eventually faces elimination from the tournament. This participant, who holds a lifelong oath to [[House Arelius]] and had previously given up on himself, remains a mystery following a past rampage against [[Brother Aekin]] caused by spiritual injury.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|Ziel is a member of the [[Dawnwing Sect]] and a chosen of [[Northstrider]].<ref name="cradle-08-wintersteel-c5">''Wintersteel'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Ziel is an opponent in the tournament who wears a gray cloak and carries a massive two-handed warhammer.<ref name="cradle-08-wintersteel-c5" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Ziel has short green horns that glow faintly.<ref name="cradle-08-wintersteel-c5" />}}</li>
@@ -82,14 +79,13 @@
 <li>{{spoiler|book=cradle-08-wintersteel|Ziel has an oath to [[House Arelius]] for life.<ref name="cradle-08-wintersteel-c15" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Ziel was eliminated from the matches.<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Ziel is a mystery and once had a brief rampage against [[Brother Aekin]] before succumbing to spiritual injury.<ref name="cradle-08-wintersteel-c18">''Wintersteel'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
 {{spoiler|book=cradle-09-bloodline|A former [[Archlord]] and leader of the [[Dawnwing Sect]], Ziel possesses a cloud fortress situated adjacent to [[Lindon]]'s. After being recruited by [[Eithan]], Ziel linked his fortress to [[Lindon]]'s while questioning if [[Remnants]] form in the Valley. Although he is an [[Uncrowned]] of the [[Uncrowned King]] tournament and a chosen of [[Northstrider]], his spirit is currently restricted, reducing his strength to that of a [[Jade]]. While representing the [[Akura clan]] and the [[Sage of Twin Stars]], he was assigned to the [[Kazan clan]] and traveled to the base of [[Mount Samara]] with them. Following a period of unnatural focus that left him feeling fear, Ziel used a [[Thousand-Mile Cloud]] to travel south and began recovering from spiritual wounds through a [[Pure Storm Baptism]] performed by [[Eithan]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">30</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">30</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|Ziel owns a cloud fortress next to [[Lindon]]'s.<ref name="cradle-09-bloodline-c4">''Bloodline'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Ziel stood next to [[Lindon]].<ref name="cradle-09-bloodline-c5">''Bloodline'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Ziel is a character who can fall asleep instantly by a pond.<ref name="cradle-09-bloodline-c5" />}}</li>
@@ -120,14 +116,13 @@
 <li>{{spoiler|book=cradle-09-bloodline|Ziel used a [[Thousand-Mile Cloud]] to travel south.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Ziel is recovering from spiritual wounds using the benefits of the [[Pure Storm Baptism]].<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Eithan]] performed the Baptism on Ziel using [[soulfire]].<ref name="cradle-09-bloodline-c21" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|Ziel of the [[Wasteland]] resides in a house within an unnamed cloud fortress protected by encryption circles, foundational [[scripts]], and protective [[scripts]]. A person whose spirit has been uncomfortable for years, he is a thrice-forged [[soulfire]] practitioner who has undergone the [[Pure Storm Baptism]] and fought a [[Dreadgod]]. While recovering from the suppression field around [[Sacred Valley]], he was sought out by the [[Sect of Twin Stars]], where he holds the title Master of the Training [[Hall]]. During a confrontation in a [[labyrinth]], Ziel utilized a massive [[steel]] hammer driven by [[Forged]] [[scripts]] and emerald runes to conjure force barriers and match against [[Lindon]]'s trident. Although he suffered severe burns across half of his body during combat, he later recovered and questioned [[Eithan]] regarding the path to becoming a [[Sage]] and his reporting requirements to the [[Abidan]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">47</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">47</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|Ziel has an unnamed cloud fortress.<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|Ziel is recovering.<ref name="cradle-10-reaper-c2" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|Ziel is a person whose spirit has been uncomfortable for years.<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
@@ -175,14 +170,13 @@
 <li>{{spoiler|book=cradle-10-reaper|Ziel asked [[Eithan]] how to get to [[Sage]].<ref name="cradle-10-reaper-c26" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|Ziel is a character who questions [[Eithan]]'s reporting requirements to the [[Abidan]].<ref name="cradle-10-reaper-c27">''Reaper'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|Ziel stated that they have stared into the abyss and lived to tell the tale.<ref name="cradle-10-reaper-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|An [[Archlord]] who formerly led the [[Dawnwing Sect]], Ziel is a companion to [[Lindon]] and [[Orthos]]. The son of an advanced [[sacred artist]], he bonded his father's [[Remnant]] and utilizes a massive hammer and silver shield stored within a [[void key]]. During his travels near [[Windfall]], he uses spiritual perception to examine the ground and employs emerald [[scripts]] to surround his limbs and weapons. While working alongside [[Orthos]] to move debris, he utilizes forged [[scripts]] to manipulate momentum or launch himself. Following a flight down a dark hallway, Ziel ends up slumped and buried under the wreckage of [[Shatterspine Castle]] while observing a [[Remnant]]. He eventually assists [[Lindon]] by providing instructions on how to operate an ancient script.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">29</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">29</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|Ziel is nearby [[Windfall]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|A buried elixir exists that would increase advancement for anyone on a force Path, perfect for Ziel.<ref name="cradle-11-dreadgod-c3" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Ziel is able to examine images from different sides.<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
@@ -212,14 +206,13 @@
 <li>{{spoiler|book=cradle-11-dreadgod|Ziel is observing the [[Remnant]].<ref name="cradle-11-dreadgod-c19" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Ziel has a spirit that [[Lindon]] can feel.<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Ziel is assisting [[Lindon]] by providing instructions on the operation of an ancient script.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|After entering a pocket world, the green-horned Ziel joined [[Lindon]]'s group and began resonating with an [[Icon]]. While pushing toward the peak of [[Archlord]], he operated arrays, laid [[scripts]], and used silver and green runes to protect his allies. During a battle against the [[Sage of Calling Storms]], Ziel fought with an empty core and used the Stone Anchor to hold himself together before advancing to become a newly unstable [[Sage]]. Now known as the [[Shield Sage]], he utilizes his defensive [[Path]] and emerald runes to battle through hostile storms and block threats like the [[Weeping Dragon]]. Despite his many scars and a [[jade]] [[Remnant]], he possesses the power of a [[Monarch]] and continues to use various techniques and elixirs as he attempts to advance to [[Herald]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">81</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">81</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|Ziel entered the pocket world.<ref name="cradle-12-waybound-c2">''Waybound'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|Ziel has green horns and can peek through the [[Soulforge]] portal.<ref name="cradle-12-waybound-c2" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|Ziel has begun to resonate with an [[Icon]].<ref name="cradle-12-waybound-c2" />}}</li>
@@ -301,14 +294,13 @@
 <li>{{spoiler|book=cradle-12-waybound|Ziel is a character who can transport himself inside vessels.<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|Ziel has black, armored boots.<ref name="cradle-12-waybound-c36" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|Ziel was present during [[Lindon]]'s reunion.<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Chosen for his ability to provide long-term solutions to crises, Ziel is a member of the [[Reaper Division]] who possesses the authority of a [[Sage]]. While traveling under a provided cover identity, he utilizes the [[Path of the Dawn Oath]] and employs illusions, veils, runes, and script-circles to channel force. Despite having a limited amount of [[madra]] compared to his true power, the individual who has endured the agony of a ravaged spirit uses makeshift shields and scavenged technology to navigate his missions. During one such journey, he returned home covered in the greenish blood of a split worm from the Void. Throughout his service, Ziel has worked to prevent misconceptions regarding others, such as when [[Yerin]] performed his work to stop people from believing she was a spider goddess.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">20</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">20</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|Ziel is chosen to solve crises with long-term solutions.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Ziel is mentioned as someone who would have protected people while doing what was wanted.<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Ziel is a member of the [[Reaper Division]].<ref name="cradle-13-threshold-c11">''Threshold: Stories from Cradle'', chapter 11</ref>}}</li>
@@ -329,8 +321,7 @@
 <li>{{spoiler|book=cradle-13-threshold|Ziel was covered in greenish blood from a split worm in the Void.<ref name="cradle-13-threshold-c12" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Ziel stated that [[Iteration]] names are determined by a committee of [[Ghosts]].<ref name="cradle-13-threshold-c12" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Yerin]] performed Ziel work to prevent people from believing she was a spider goddess.<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-09-bloodline|"Do Remnants form in there?" It was Ziel who answered.<ref name="cradle-09-bloodline-c6" />}}

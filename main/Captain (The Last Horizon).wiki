@@ -15,22 +15,21 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|Serving as the leader of the crew aboard [[The Last Horizon]], the Captain undergoes several rounds of examination. During a critical moment, they direct the crew to awaken the ship's power core, an action acknowledged by [[Horizon]], who addresses them by their title. Having been accepted as the Captain of the [[Zenith]] Starship, they serve as the narrator of these events.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The Captain is undergoing various rounds of examination.<ref name="lh-01-the-captain-c13">''The Captain'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The Captain directs the crew and awakens the ship's power core.<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Horizon]] addresses the narrator as Captain.<ref name="lh-01-the-captain-c16" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The Captain is the leader of the crew on [[The Last Horizon]].<ref name="lh-01-the-captain-c21">''The Captain'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The protagonist has been accepted as the Captain of the [[Zenith]] Starship.<ref name="lh-01-the-captain-c21" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The Captain is the narrator of the chapter.<ref name="lh-01-the-captain-c48">''The Captain'', chapter 48</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|On the vessel [[The Last Horizon]], the Captain holds a role that carries a different significance than is typical. Serving as a provisional crew member, the Captain has previously failed their crews in past lives and was advised by Shyrax to select a new crew. After the [[Horizon]] re-fabricated his clothing, he began wearing a white exercise outfit featuring blue-green highlights and a seven-pointed star on the chest. During an anticipated ambush, he prepared the battlefield for the coming conflict. His survival is critical to the ship, as his death would cause the [[Horizon]] to enter a dormant state.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The position of Captain on [[The Last Horizon]] has a different significance than usual.<ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The Captain is a provisional crew member.<ref name="lh-02-the-engineer-c30">''The Engineer'', chapter 30</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The Captain wears a white exercise outfit with blue-green highlights and a seven-pointed star on the chest after [[Horizon]] re-fabricates his clothes.<ref name="lh-02-the-engineer-c32">''The Engineer'', chapter 32</ref>}}</li>
@@ -38,31 +37,28 @@
 <li>{{spoiler|book=lh-02-the-engineer|The Captain has failed their crew in previous lives.<ref name="lh-02-the-engineer-c39" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The Captain anticipated the ambush and prepared the battlefield.<ref name="lh-02-the-engineer-c39" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The death of the Captain would cause [[Horizon]] to go dormant.<ref name="lh-02-the-engineer-c48">''The Engineer'', chapter 48</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The narrator is addressed as Captain by Shyrax.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The narrator is the Captain of the [[Zenith]] Starship.<ref name="lh-03-the-knight-c11">''The Knight'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Raion]] addresses the narrator as Captain.<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Horizon]] addresses [[Varic]] as Captain.<ref name="lh-03-the-knight-c28">''The Knight'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Clad in a mantle and hood, the Captain is distinguished by eyes that blaze with a silver light. During their encounters, they wield a magical staff capable of being stored within crystal. The Captain's presence is marked by a volatile temperament, even issuing threats to initiate war against the [[Galactic Union]]. Throughout these events, they remain a central figure addressed directly by the narrator.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The Captain has eyes that blaze silver and wears a hood and mantle.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The Captain threatens to go to war with the [[Galactic Union]].<ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The Captain uses magic and has a staff.<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The Captain uses a staff that can be stored in crystal.<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The narrator is addressing a Captain.<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|“Now, to the worst of all. Captain.” ... I must recommend you choose a new crew.<ref name="lh-02-the-engineer-c39" />}}

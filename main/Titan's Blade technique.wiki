@@ -6,12 +6,11 @@
 }}
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Titan's Blade technique]] can be used to forge blades to a massive size.<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Titan's Blade technique]] expands the size of a [[sword]] tenfold.<ref name="cradle-06-underlord-c20">''Underlord'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

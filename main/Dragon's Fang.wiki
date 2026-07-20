@@ -11,8 +11,8 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|The Dragon's Fangs are swords forged by the Wanderer and bestowed upon the twelve original soldiers of the [[Dragon Army]]. Although thirteen such weapons were originally created, only four remain active in the current era. These blades possess the unique ability to be summoned by a wielder who has earned their respect. During his trials, which are designed to test the physical strength required to wield such a weapon, [[Simon]] carries an undersized replica from the [[Valinhall armory]]. His proficiency is demonstrated when he slices through [[Erastes]]' bonds with an ease comparable to using a true Dragon's [[Fang]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|A [[Dragon's Fang]] is a [[sword]] forged by the Wanderer and given to each of the twelve original soldiers of the [[Dragon Army]].<ref name="tg-01-house-of-blades-c9">''House of Blades'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|Only four of the thirteen swords (Dragon's Fangs) remain in use.<ref name="tg-01-house-of-blades-c9" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|Only four of the thirteen Dragon's Fangs are currently active.<ref name="tg-01-house-of-blades-c10">''House of Blades'', chapter 10</ref>}}</li>
@@ -20,14 +20,13 @@
 <li>{{spoiler|book=tg-01-house-of-blades|[[Simon]] carries an undersized replica of a [[Dragon's Fang]] from the [[Valinhall armory]].<ref name="tg-01-house-of-blades-c11">''House of Blades'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The trial is intended to ensure physical strength for one of the Dragon’s Fangs.<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Simon]] sliced [[Erastes]]' bonds as easily as he could have with a Dragon’s [[Fang]].<ref name="tg-01-house-of-blades-c15">''House of Blades'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|[[Forged]] by the Wanderer from [[Tartarus steel]], Dragon's Fangs are gracefully curving swords that serve as lost artifacts. These weapons are used by various individuals, including [[Kai]], [[Indirial]], [[Denner]], [[Simon]], and the Wanderer, while [[Andra]] wears one buckled to her belt. A Dragon's [[Fang]] can assist in opening a Gate, facilitate easier travel to [[the House]], and is a weapon that only a chosen daughter can bear. When these swords clash, they produce an ear-shattering noise, and the thirteenth blade in existence has a designated heir.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The battle-axe [[Kai]] used is not a [[Dragon's Fang]].<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|Dragon’s Fangs are gracefully curving swords forged by the Wanderer.<ref name="tg-02-crimson-vault-c2" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The Dragon’s Fangs are made of [[Tartarus steel]].<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
@@ -46,14 +45,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|Dragon’s Fangs are lost artifacts.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Andra]] wears a Dragon’s [[Fang]] buckled onto a belt.<ref name="tg-02-crimson-vault-c20" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|A Dragon’s [[Fang]] is a weapon.<ref name="tg-02-crimson-vault-c20" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|A Dragon's [[Fang]] is a classification of [[Mithra]] weapon used by [[Valinhall Travelers]], consisting of thirteen [[Valinhall]]-forged swords that feature a smooth vein of gold running down the flat of the blade. These sentient blades are capable of cutting through stone walls, chains, and trees, and they possess the power to penetrate an [[Incarnation]]'s rib cage or push through polished armor. While [[Simon]] once found the weapon too heavy to lift, he eventually used his own Dragon's [[Fang]] to strike [[Asphodel]]'s neck. Other notable examples include [[Andra]]'s ink-spotted blade, [[Valin]] the Wanderer's gold-and-silver weapon, and the mirror-bright [[sword]] held by [[Erastes]]. Throughout these events, various individuals such as [[Indirial]], [[Kai]], and [[Kathrin]] possess or interact with these artifacts, some of which were even taken hostage.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">29</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">29</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Dragon's Fang]] is a type of weapon or classification for [[Mithra]].<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Ilana]] avoided the point of the Dragon’s [[Fang]].<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Valinhall Travelers]] use [[Dragon's Fang]] swords.<ref name="tg-03-city-of-light-c13">''City of Light'', chapter 13</ref>}}</li>
@@ -83,8 +81,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|The Dragon's Fangs are capable of thinking for themselves.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The Dragon's Fangs were taken hostage.<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Dragon's Fang]] is an artifact held by [[Kathrin]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|"They are keys to the House, forged by the Wanderer himself and presented to the twelve original soldiers of the Dragon Army."<ref name="tg-01-house-of-blades-c9" />}}

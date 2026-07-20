@@ -5,13 +5,12 @@
 }}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|An [[Asphodel Traveler]] is a gray-robed individual with a face covered in scars.<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Asphodel Travelers]] must stay calm or their own [[Territory]] will turn on them.<ref name="tg-02-crimson-vault-c1" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The death of the [[Asphodel Traveler]] released a woman from the grip of the mist.<ref name="tg-02-crimson-vault-c1" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

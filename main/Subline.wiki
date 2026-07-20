@@ -11,8 +11,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The Subline serves as a local planetary broadcast system and communication network used for identity registries, news articles, and various reports. Within the simulation, it functions as a virtual environment filled with cross-chatter between ships, though reception is unavailable once inside the simulation. While it acts as a connection for both the narrator and [[Horizon]], its signals can be blocked by a moon or may be entirely absent in certain sectors. Beyond its role as an information source, the Subline is utilized by guards for communication and can even be used by individuals like [[Sola]] to contact the narrator via a call.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">20</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">20</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Subline]] provides reports.<ref name="lh-01-the-captain-c4">''The Captain'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Subline]] is a communication channel.<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Subline]] is a network used for news articles and identity registry.<ref name="lh-01-the-captain-c6" />}}</li>
@@ -33,14 +33,13 @@
 <li>{{spoiler|book=lh-01-the-captain|The [[Subline]] is a local communication network.<ref name="lh-01-the-captain-c32">''The Captain'', chapter 32</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|There is no [[Subline]] in the current sector.<ref name="lh-01-the-captain-c39">''The Captain'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Subline]] is a type of feed or connection used for broadcasts.<ref name="lh-01-the-captain-c44">''The Captain'', chapter 44</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|The Subline serves as a multi-faceted network used for communication, recognition, and searching for names or information. This searchable database functions as a platform for digital games, immersive experiences, and holographic articles, though it can also be used to eavesdrop on calls or expose secrets. As a level of access and a type of connection used in [[Subspace]], it allows [[Advocates]] to be seen and connects to [[Union]] relays. During a conflict involving [[Lichborn ships]], the local Subline encoded transmissions, and [[Starhammer]] later utilized these communications to contact the fleet. Within this network, which is accessible via console in local colonies, it is said that the galaxy possesses four corners.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Subline]] is a network used for recognition and communication.<ref name="lh-02-the-engineer-c1">''The Engineer'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Subline]] is a level of access.<ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Subline]] is a place where [[Advocates]] are seen.<ref name="lh-02-the-engineer-c6">''The Engineer'', chapter 6</ref>}}</li>
@@ -59,14 +58,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|The [[Subline]] is a platform used to search for names and information.<ref name="lh-02-the-engineer-c44">''The Engineer'', chapter 44</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Subline]] is a place where secrets can be exposed.<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The overseer in [[Ironville]] reads holographic [[Subline]] articles.<ref name="lh-02-the-engineer-c55">''The Engineer'', chapter 55</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The Subline serves as a vast network that provides a feed for watching events occurring across the galaxy and acts as a general platform where footage can be posted. While it functions as a communication system for the [[Titan Knights]] and allows crew members to connect with one another, the location itself is described as having nothing good. This platform can allow conspiracy theories to proliferate and represents a group that cares about the reputation of the [[Titan Force]]. Although isolated planets can lose contact with their nearest Subline, the network is currently catching up to the [[Visiria]] System.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Subline]] provides a feed for watching events across the galaxy.<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Subline]] is a connection used for communication between crew members.<ref name="lh-03-the-knight-c3">''The Knight'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Subline]] is a location described as having nothing good.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
@@ -76,14 +74,13 @@
 <li>{{spoiler|book=lh-03-the-knight|The [[Subline]] is a group that would care about the reputation of the [[Titan Force]].<ref name="lh-03-the-knight-c31">''The Knight'', chapter 31</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Subline]] is a platform where conspiracy theories can proliferate.<ref name="lh-03-the-knight-c34">''The Knight'', chapter 34</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Subline]] is catching up to the [[Visiria]] System.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|The Subline serves as a collection of publicly available reports and profiles that includes various criminal records. This platform functions as a communication method for the [[Zenith Processor]] and provides specific instructions for synthesizing gemstones. While [[Omal]] utilized the resource to research different treatments, the Subline also acts as a space where executions are broadcast live. The platform hosts discussions regarding [[Sola]] and features the sad stories of various volunteers.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Sublines]] are publicly available reports or profiles.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Subline]] provides instructions for synthesizing gemstones.<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Omal]] used the [[Subline]] to research treatments.<ref name="lh-04-the-pilot-c13">''The Pilot'', chapter 13</ref>}}</li>
@@ -92,8 +89,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|The volunteers are described as sad stories on the [[Subline]].<ref name="lh-04-the-pilot-c27">''The Pilot'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Subline]] is a platform where things are being said about [[Sola]].<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Subline]] contains criminal records.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|On the Subline, it’s often said that the galaxy has “four corners.”<ref name="lh-02-the-engineer-c34" />}}

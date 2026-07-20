@@ -9,16 +9,15 @@
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The [[World Spirit]] of [[Visiria]] is a beefy entity that serves as the physical embodiment of pure fury. This being manifests as a muscular [[Visiri]] warrior possessing skin the color of fresh blood and six distinct fists. Its three eyes burn with the intensity of captured suns, while its body is clad in glistening bronze armor. In combat, the spirit wields titanic thunderbolts, hurling lightning in shades of red, green, blue, and white.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[World Spirit of Visiria]] is described as beefy.<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[World Spirit of Visiria]] is the physical embodiment of pure fury.<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[World Spirit of Visiria]] takes the form of a muscular [[Visiri]] warrior with skin the color of fresh blood and six fists.<ref name="lh-03-the-knight-c40" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[World Spirit of Visiria]] has three eyes that burn like captured suns.<ref name="lh-03-the-knight-c40" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[World Spirit of Visiria]] wears glistening bronze armor and wields titanic thunderbolts.<ref name="lh-03-the-knight-c40" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[World Spirit of Visiria]] hurls lightning bolts of red, green, blue, and white.<ref name="lh-03-the-knight-c40" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

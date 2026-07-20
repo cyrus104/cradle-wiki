@@ -11,8 +11,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Children]] of [[Nakothi]] are a group of [[Elderspawn]] stitched together from human corpses that [[Calder]] finds largely unfamiliar. Driven by a mindless hunger, these entities seek to force the living into a deadly remaking. They have been observed swimming around the [[Aion]] and have launched attacks against the camp located on the [[island]]. Guided by the call of their [[Handmaiden]], the group is summoned to battle by her command.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Children of Nakothi]] have been attacking the camp on the [[island]].<ref name="ee-sea-01-of-sea-and-shadow-c11">''Of Sea and Shadow'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Children of Nakothi]] are a group surrounding [[Tristania]].<ref name="ee-sea-01-of-sea-and-shadow-c12">''Of Sea and Shadow'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Children of Nakothi]] are a group that [[Calder]] is not very familiar with.<ref name="ee-sea-01-of-sea-and-shadow-c12" />}}</li>
@@ -22,14 +22,13 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Children of Nakothi]] are guided by the call of the [[Handmaiden]].<ref name="ee-sea-01-of-sea-and-shadow-c27">''Of Sea and Shadow'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Children of Nakothi]] possess a mindless hunger.<ref name="ee-sea-01-of-sea-and-shadow-c27" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Children of Nakothi]] have been spotted swimming around the [[Aion]].<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Children]] of [[Nakothi]] are deformed shapes formed when the power of [[Nakothi]] embeds itself into human remains. These creatures, often composed of various human parts, were created from ancient bodies by the [[Heart]]. During a fight, they arrived to stream around [[Naberius]] and eventually gathered in the crater surrounding the [[arena]] to launch an attack. As they swarmed around the [[Handmaiden]], [[Meia]] intervened to rescue the [[Watchmen]] from their grasp, even as it was signaled that more were coming.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Children of Nakothi]] are creatures born when [[Nakothi]]’s power embeds itself in human remains.<ref name="ee-shadow-01-of-shadow-and-sea-c11">''Of Shadow and Sea'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Children of Nakothi]] stream around [[Naberius]].<ref name="ee-shadow-01-of-shadow-and-sea-c11" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Children of Nakothi]] are deformed shapes shared by the dead.<ref name="ee-shadow-01-of-shadow-and-sea-c15">''Of Shadow and Sea'', chapter 15</ref>}}</li>
@@ -40,23 +39,20 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Children of Nakothi]] swarm around the [[Handmaiden]].<ref name="ee-shadow-01-of-shadow-and-sea-c25">''Of Shadow and Sea'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Children of Nakothi]] gathered in the crater around the [[arena]] to attack.<ref name="ee-shadow-01-of-shadow-and-sea-c25" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Meia]] rescued [[Watchmen]] from the [[Children of Nakothi]].<ref name="ee-shadow-01-of-shadow-and-sea-c27">''Of Shadow and Sea'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|When the [[Children of Nakothi]] take a city, it is defiled.<ref name="ee-sea-02-of-dawn-and-darkness-c13">''Of Dawn and Darkness'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Children of Nakothi]] are enemies [[Shera]] has fought face-to-face.<ref name="ee-shadow-02-of-darkness-and-dawn-c5">''Of Darkness and Dawn'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Children of Nakothi]] can be fought by a man with an invested [[sword]].<ref name="ee-shadow-02-of-darkness-and-dawn-c18">''Of Darkness and Dawn'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“Ever since we set up camp on this island, we’ve been under constant attack from the Children of Nakothi.”<ref name="ee-sea-01-of-sea-and-shadow-c11" />}}

@@ -9,46 +9,41 @@
 {{spoiler|book=cradle-12-waybound|The Stellar [[Spear]] is a highly coveted weapon located within the [[Transcendent Ruins]], a site that attracts significant attention due to its ability to draw [[aura]] from the surrounding area and its collection of powerful ancient secrets. It is considered a prize capable of elevating an entire faction to celestial status. Many seek the weapon for its potential to facilitate advancement beyond the [[Truegold]] stage, a transition that allows an individual to rise from the earth to the heavens. For certain individuals, such as [[Jai Long]], possessing the spear offers a method of advancement through the slaughter of specific clan members and the harvesting of their [[Remnants]]. The Stellar [[Spear]] is also the name of a specific [[Path]] used by the [[Jai clan]], a once-barbaric faction from the [[Desolate Wilds]] that became a dominant force through light-aspected combat techniques. This [[Path]] includes various specialized abilities, such as the [[Star Lance]] [[Striker technique]] and the [[Star]]’s Edge [[Enforcer technique]]. While a version of this [[Path]] exists, it is noted that it branched off from the more potent original [[Path of the Broken Star]]. The clan's techniques often manifest as twisting lines of starlight or bright, needle-like bursts of light.}}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|[[Stellar Spear]] is a technique.<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|The Stellar [[Spear]] is a discipline that branches from the [[Path of the Broken Star]]. This path utilizes [[madra]] that is as sharp as an axe and white as snow, incorporating the [[Star's Edge]] technique. Although used by [[Jai Daishou]], the path is notable for containing no [[Ruler techniques]] and lacks any [[Ruler techniques]] suited for battle.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Stellar Spear madra]] is white as snow and sharp as an axe.<ref name="cradle-03-blackflame-c4">''Blackflame'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Stellar Spear]] is a path or discipline that includes the [[Star's Edge]] technique.<ref name="cradle-03-blackflame-c4" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Path of the Stellar Spear]] is a [[Path]] that branches from the [[Path of the Broken Star]].<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Stellar Spear]] lacks [[Ruler techniques]] suited for battle.<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Stellar Spear]] is a [[madra]] technique used by [[Jai Daishou]].<ref name="cradle-03-blackflame-c20">''Blackflame'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Path of the Stellar Spear]] contains no [[Ruler techniques]].<ref name="cradle-03-blackflame-c20" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Stellar Spear]] is a type of [[madra]].<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The [[Stellar Spear]] is an [[aura]] chamber.<ref name="cradle-10-reaper-c11">''Reaper'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Jai Chen]]'s [[Path]] includes [[Stellar Spear]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -6,12 +6,11 @@
 }}
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Visiria Subline]] is a location where public opinion can be improved.<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|It is difficult to get a signal from the Visirian [[Subline]].<ref name="lh-03-the-knight-c28">''The Knight'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

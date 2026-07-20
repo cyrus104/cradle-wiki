@@ -7,23 +7,21 @@
 {{spoiler|book=lh-04-the-pilot|The Pilot is a specialized role within fleet operations that serves several critical functions. Beyond the standard task of operating vessels, the Pilot is essential for enhancing navigation and the capabilities of a [[Subspace Drive]]. While some individuals act as pilots for specific fighters, shuttles, or heavily armed warships, the role is also depicted as a significant position within larger entities like [[Horizon]]. In certain contexts, the Pilot is represented by a symbolic figure seated behind an ancient ship's wheel beneath a wormhole. The position is subject to safety protocols that prohibit firing upon registered pilots, and the role can be filled by various individuals, including civilians, corporate employees, or trained mentors. The loss of a Pilot can have significant consequences for a vessel's command structure.}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Pilot]]'s gifts evolve the ship's navigation and [[Subspace Drive]].<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|A [[Pilot]] can provide enhancements to scanners.<ref name="lh-01-the-captain-c39">''The Captain'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Pilot]] is a role within [[The Last Horizon]] associated with the [[stone tablet]] of the [[Pilot]].<ref name="lh-01-the-captain-c41">''The Captain'', chapter 41</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Pilot]] has a contract that prevents him from acting directly against other crew members.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Pilot]] carved his way out of an encirclement.<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Captain]] refers to [[Omega]] as [[Pilot]].<ref name="lh-04-the-pilot-c40">''The Pilot'', chapter 40</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|A [[Pilot]] is required to escape [[Zykaros]] in time.<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“Show me what you’ve got, Pilot,” I said.<ref name="lh-04-the-pilot-c40" />}}

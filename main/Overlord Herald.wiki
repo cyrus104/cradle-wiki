@@ -6,11 +6,10 @@
 }}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Northstrider]] states that there has never been an [[Overlord Herald]] until [[Yerin]].<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|There is no such thing as an Overlord Herald,” Northstrider said. His stony face quirked into a small smile. “Until now.<ref name="cradle-08-wintersteel-c26" />}}

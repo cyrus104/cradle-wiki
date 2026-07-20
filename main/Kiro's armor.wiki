@@ -4,14 +4,13 @@
 }}
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Kiro's armor]] is [[Soulsmith]] work with bright silver or dull yellow visible through the seams.<ref name="cradle-06-underlord-c18">''Underlord'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Kiro's armor]] has outer plates of gray [[madra]] that are cracked and split, revealing silver and gold beneath.<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Kiro's armor]] contains a [[Forged]] barrier and uses [[Enforced]] strength and speed.<ref name="cradle-06-underlord-c19" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Kiro's armor]] uses a [[Ruler attack]] with its own guidance [[construct]].<ref name="cradle-06-underlord-c19" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

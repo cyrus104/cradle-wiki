@@ -11,8 +11,8 @@
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|The [[Blue]] [[Light]] manifests as luminous, sapphire-like tendrils and tentacles that erupt from the ground with a thickness comparable to tree trunks. These translucent appendages possess the ability to bind targets and drain their strength, though they can also keep individuals unconscious without causing death. While the entity is a voice that has begged for mercy following the death of [[Helgard]], it also challenged [[Alin]] by claiming his desires were not rooted in justice. Now, [[Alin]] can summon a coil of the [[Blue]] [[Light]], which has challenged him to attempt a rescue.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The [[Blue Light]] begged for mercy when [[Alin]] killed [[Helgard]].<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Blue Light]] manifests as translucent sapphire-like tendrils from the ground.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Blue Light]] consists of sapphire tendrils that can bind and drain strength.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
@@ -23,8 +23,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|The [[Blue Light]] pointed out that [[Alin]]'s desire was not justice.<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Alin]] can summon a coil of [[Blue Light]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Blue Light]] tells [[Alin]] to save him if he can.<ref name="tg-03-city-of-light-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -4,14 +4,13 @@
 }}
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Yerin]] unleashed the [[Reaper’s Sword]].<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Yerin]] performs a slash known as the [[Reaper’s Sword]].<ref name="cradle-12-waybound-c20">''Waybound'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|Every [[Reaper’s Sword]] technique reduces the lifespan of the weapon.<ref name="cradle-12-waybound-c20" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Yerin]] took the stance for the [[Reaper’s Sword]].<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -7,12 +7,11 @@
 }}
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Senator Cyclon]] is a senator.<ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Senator Cyclon]] is a senator being challenged by [[Varic]].<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“I challenge Senators Gorgol and Cyclon at once,” Varic said.<ref name="lh-03-the-knight-c30" />}}

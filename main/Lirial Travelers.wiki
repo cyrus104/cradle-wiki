@@ -4,13 +4,12 @@
 }}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Lirial Travelers]] have a stormy history with the [[Damascan]] throne.<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Lirial Travelers]]' powers focus on gathering and preserving information rather than destruction.<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Lirial Travelers]] are restricted to summoning items from their sanctum only when they are outside the [[Territory]].<ref name="tg-02-crimson-vault-c8" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

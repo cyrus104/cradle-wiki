@@ -5,13 +5,12 @@
 }}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Edina]] is [[Simon's mother]].<ref name="tg-01-house-of-blades-c1">''House of Blades'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Edina]] is married to [[Kalman]].<ref name="tg-01-house-of-blades-c1" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Edina]] turned insane.<ref name="tg-01-house-of-blades-c5">''House of Blades'', chapter 5</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -9,20 +9,19 @@
 {{spoiler|book=tg-03-city-of-light|Damasca is a unified nation that has been ruled by a royal bloodline for over three and a half centuries. The kingdom's prosperity is driven by its unique connection to various [[Territories]], which allow the nation to secure its borders, transport goods, and access resources like food and tea without traditional infrastructure. The monarchy maintains control through the use of Hanging [[Trees]] and a specialized territory known as Ragnarus, also called the [[Crimson Vault]]. Access to Ragnarus is restricted to those of royal descent, and maintaining the seal on a destructive force within that territory requires an annual blood sacrifice. While some view the kingdom's methods as tyrannical or cruel, the ruling family has historically claimed these actions are necessary to protect the world. The [[Damascan]] military is noted for its legendary soldiers, who serve as extensions of the monarch's will. The nation has faced significant conflict with entities such as [[Enosh]] and [[Valinhall]], and its leadership includes figures like [[King Zakareth the Sixth]] and various [[Overlords]].}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|Nobles of [[Damasca]] supposedly keep slaves.<ref name="tg-01-house-of-blades-c5">''House of Blades'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Damasca]] is a place ruled by [[Overlords]].<ref name="tg-01-house-of-blades-c6">''House of Blades'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Alin]] wants someone to stand with him against [[Damasca]].<ref name="tg-01-house-of-blades-c16">''House of Blades'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Alin]] intended to fight [[Damasca]].<ref name="tg-01-house-of-blades-c20">''House of Blades'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Damasca is a kingdom identified by its red and gold royal colors that has maintained a reign for three and a half centuries. Ruled by a tyrant king, the nation is characterized by an unnatural blight, the use of bloody [[Trees]], and the practice of human sacrifice. For three hundred years, the kingdom has imprisoned [[Incarnations]] in underground chains where they are whipped and beaten. Following the death of [[Overlord Malachi]], Damasca prepared for war, utilizing its control over [[Naraka]]'s travel routes and its many [[Travelers]] to organize military actions. As the kingdom became a target for destruction by Grandmaster teams, [[Leah]] stood second in line for the throne while [[Indirial]] and others utilized a map of the nation to navigate its conflicts.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">25</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">25</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Damasca]] is a kingdom with royal colors of red and gold.<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|There is a war against [[Damasca]].<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Damasca]] is described as having an unnatural blight and practicing human sacrifice.<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}</li>
@@ -48,14 +47,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Alin]] does not want [[Simon]] to be kidnapped by [[Damasca]].<ref name="tg-02-crimson-vault-c22">''The Crimson Vault'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Damasca]] is a nation with a map being used by [[Indirial]] and [[Leah]].<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Naraka]] wants to avoid [[Alin]] being loyal to [[Damasca]].<ref name="tg-02-crimson-vault-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|Originally formed into a unified nation by [[Queen]] [[Cynara]], Damasca is a young country that previously endured attacks from the [[Elysian Incarnation]]. Although [[Grandmaster Helgard]] disputes the nation's divine right to control the [[Territories]], the land has flourished for three and a half centuries under the rule of [[Leah]]'s family. While [[Leah]] serves as the current [[Queen]] and perceives no threat to her realm, [[Zakareth]] has emerged to claim the title of [[King]]. Notably, Damasca is a territory that does not fall under the authority of Feiora's orders.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Damasca]] has a royal line that has reigned for three centuries.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Grandmaster Helgard]] believes [[Damasca]] has no divine right to control the [[Territories]].<ref name="tg-03-city-of-light-c2" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Leah]] sees no threat to [[Damasca]].<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}</li>
@@ -65,8 +63,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[Damasca]] has prospered and flourished under [[Leah]]'s family for three-and-a-half centuries.<ref name="tg-03-city-of-light-c18" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Zakareth]] claims to be the [[King of Damasca]].<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Queen]] [[Cynara]] formed [[Damasca]] into a unified nation.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|"Someone who will stand with me against Damasca, even when no one else does."<ref name="tg-01-house-of-blades-c16" />}}

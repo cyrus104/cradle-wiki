@@ -4,14 +4,13 @@
 }}
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The [[Blood Core]] is kept in a prison that looks identical to the one used for the [[Storm Core]].<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Blood Core]] sends a crimson pillar of light up to the ceiling.<ref name="cradle-10-reaper-c8" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Reigan Shen]] possesses a [[Blood Core]] that is overpowering its silver container.<ref name="cradle-10-reaper-c8" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Blood Core]] is a huge red sphere.<ref name="cradle-10-reaper-c8" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

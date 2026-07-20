@@ -6,12 +6,11 @@
 }}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Gold District]] is a section of [[Elysia]] where buildings are made of gold and gold-colored stone.<ref name="tg-02-crimson-vault-c13">''The Crimson Vault'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|Armies of white and gold march from the [[Gold District]].<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

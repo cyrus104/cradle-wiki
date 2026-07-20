@@ -9,42 +9,37 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Handmaidens]] of [[Nakothi]] are terrifying, highly intelligent creatures serving the [[Great Elder]] known as the [[Dead Mother]]. Described in classical [[Imperial]] history as nightmares composed of flesh, they possess a thin frame but are often titanic in scale, with some standing taller than the largest trees. Their physical forms are grotesque and unnatural; one such entity was described as a massive, hideous woman with tentacles instead of legs and a head consisting of a shifting mass of madness and pulp. They are characterized by grasping, human-like hands that grow from their undulating tentacles. Unlike the mindless [[Children of Nakothi]], who are often made from warped human remains and act as drones, the [[Handmaidens]] possess a cruel intellect. They historically functioned as overseers or managers, supervising the collection of human parts for [[Nakothi]]'s purposes. In combat, they act as leaders, directing the swarms of [[Nakothi]]'s children like a shepherdess tending to a flock. They are immensely powerful, capable of physically tearing apart massive structures like [[arena]] roofs with their strength. While certain specialized weapons can destroy lower-ranking spawn, they are difficult to combat, and even an [[Awakened blade]] is noted as being unable to slay a [[Handmaiden]].}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Handmaidens of Nakothi]] are creatures described as tapestries of flesh and nightmare.<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Handmaiden]] of [[Nakothi]] tore off the roof.<ref name="ee-sea-01-of-sea-and-shadow-c25">''Of Sea and Shadow'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Shera]] killed one of [[Nakothi]]'s [[Handmaidens]].<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Stabbing the [[Handmaiden]] of [[Nakothi]] caused a surge of power that rendered [[Shera]] unconscious.<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] collapsed the [[Veil]] during a battle against [[Nakothi]]'s [[Handmaiden]].<ref name="ee-shadow-02-of-darkness-and-dawn-c2" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Nakothi]]’s [[Handmaiden]] generated destruction that helped [[Jerri]] break out of the [[Gray Island]].<ref name="ee-sea-03-of-kings-and-killers-c19">''Of Kings and Killers'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|An [[Awakened blade]] cannot slay a [[Handmaiden]] of [[Nakothi]].<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Nakothi]]'s dread [[Handmaidens]] were devouring [[Emperor (Elder Empire)|the Emperor]]'s daughter's army.<ref name="ee-shadow-03-of-killers-and-kings-c3">''Of Killers and Kings'', chapter 3</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

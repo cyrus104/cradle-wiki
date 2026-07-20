@@ -9,15 +9,14 @@
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|The [[Bow]] of the [[Silent King]] is a weapon characterized by its white hide and black stripes, featuring an invisible string. Created specifically for [[Mercy]], the artifact possesses a profound authority capable of warping thoughts, dreams, and perceptions. Beyond its physical properties, the bow harbors a hunger for knowledge and a persistent desire to consume minds.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Bow of the Silent King]] is covered in white hide and has black stripes.<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Bow of the Silent King]] has an invisible string.<ref name="cradle-12-waybound-c5" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Bow of the Silent King]]'s authority can warp perception, dreams, and thoughts.<ref name="cradle-12-waybound-c5" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Bow of the Silent King]] has a hunger for knowledge and a desire to consume minds.<ref name="cradle-12-waybound-c5" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Bow of the Silent King]] was made for [[Mercy]].<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

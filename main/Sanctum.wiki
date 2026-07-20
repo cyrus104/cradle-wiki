@@ -9,54 +9,49 @@
 {{spoiler|book=cradle-13-threshold|Sanctum is a highly secure world and the headquarters for the [[Abidan]] organization. It serves as one of their primary bastions against chaos, intended to be quarantined and protected even if the broader system fails. The central planet of this iteration is characterized by a massive, planet-spanning city that appears silver and gold from space, with small cultivated gardens interspersed to maintain ecological balance. The world is noted for its extreme stability and powerful natural laws, which provide a level of security even greater than other major worlds. The [[Abidan]] maintain several key facilities within Sanctum, including the headquarters for various divisions like the [[Phoenix Division]]. A major landmark is the [[Hall of Judgment]], a massive golden tower situated on an artificial hill that serves as a symbol of security and authority. This complex is also where members of the [[Court of Seven]] convene to make significant decisions. Additionally, an industrial-style station known as the [[Grave]] orbits the central planet. While Sanctum has historically been considered one of the safest locations in creation, it is not entirely immune to threats, as ancient protections are required to defend against powerful invaders.}}
 
 == Unsouled ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|[[Sanctum]] is a place that can fall to corruption.<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Sanctum]] is a location to which [[Suriel]] can banish her weapon.<ref name="cradle-01-unsouled-c6" />}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Sanctum]] is an important world.<ref name="cradle-01-unsouled-c20">''Unsouled'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Sanctum]] is the headquarters of the [[Abidan]].<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Sanctum]] requires jurisdictional overlaps between [[Judges]] to be well documented.<ref name="cradle-03-blackflame-c13" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Sanctum]] is a place where [[Ozmanthus Arelius]] lived as a pacifist monk.<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Sanctum]] has powerful and ancient protections.<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Sanctum]] contains a treasure [[vault]] of another world.<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Sanctum]] is a central planet covered by one city.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Razael]]'s power was enough to crack [[Sanctum]] in half.<ref name="cradle-11-dreadgod-c1" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Sanctum]] is a location containing the [[Hall of Judgment]].<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Sanctum]] is a world that [[Fury]] called [[Sanctum]].<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The planet of [[Sanctum]] has oceans as blue as [[Cradle]]'s and continents covered in silver and gold.<ref name="cradle-12-waybound-c37" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Sanctum]] is a planet located below the [[Grave]].<ref name="cradle-12-waybound-c37" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Sanctum is a golden, planet-spanning city that serves as the central world located beneath [[The Grave]]. As an [[Abidan]]-settled [[Iteration]], this stable world possesses natural laws and defenses that carry greater weight than those of other worlds. [[The Grave]] floats directly above Sanctum, while the [[Threshold]] acts as the primary line of defense against potential [[Vroshir]] incursions. Situated near the [[Iteration]] currently being visited, Sanctum also serves as the home for the [[Phoenix Division]] headquarters.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Sanctum]] is a golden, planet-spanning city.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Sanctum]] is a stable world with greater weight to its natural laws and defenses than other worlds.<ref name="cradle-13-threshold-c4" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Sanctum]] is the central world located below [[The Grave]].<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
@@ -65,8 +60,7 @@
 <li>{{spoiler|book=cradle-13-threshold|[[Threshold]] is the first line of defense between [[Sanctum]] and would-be [[Vroshir]].<ref name="cradle-13-threshold-c7" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Sanctum]] is a location near the [[Iteration]] being visited.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Sanctum]] is the location of [[Phoenix Division]] headquarters.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-13-threshold|The Grave was a mass of steel and stone hanging in orbit above the central world of Sanctum, and it was built with an aesthetic that she could charitably call “industrial.”<ref name="cradle-13-threshold-c6" />}}

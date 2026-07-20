@@ -9,31 +9,29 @@
 {{spoiler|book=cradle-12-waybound|[[Sylvan]] [[Riverseeds]] are natural spirits that emerge in environments where [[vital aura]] is perfectly balanced. Unlike [[Remnants]], which result from the death of a [[sacred artist]], these beings are born from accumulated [[aura]]. They are characterized by their gentle and adaptable nature, possessing the ability to work with almost any aspect of power. This flexibility makes them highly versatile; they can be utilized as weapons, guides, power sources, elixirs, or even guardians. Due to this utility, they are considered extremely valuable treasures and can be used as high-end raw materials in [[Soulsmithing]]. A [[Sylvan]] [[Riverseed]] typically manifests as a small, humanoid entity made of flowing blue madra that mimics the appearance of water. They possess a level of intelligence and can communicate through various means, including sounds like chimes or peeps, gestures, and even the transmission of mental impressions. While they are capable of expressing complex emotions such as worry or frustration, their growth and survival depend on being nurtured with [[pure madra]]. If they are not properly fed or if their environment lacks sufficient energy, they can become pale, translucent, and physically weak.}}
 
 == Unsouled ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|The [[Sylvan Riverseed]] is the seed of a nascent [[Sylvan]] with water and other unidentified aspects.<ref name="cradle-01-unsouled-c14">''Unsouled'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Sylvan Riverseed]] is a rare little blue-flame spirit in a glass enclosure.<ref name="cradle-01-unsouled-c19">''Unsouled'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Soulsmith ==
 {{spoiler|book=cradle-02-soulsmith|The [[Sylvan]] [[Riverseed]] is a humanoid [[Remnant]] composed of flowing blue waves of [[madra]] that imitates the appearance of water. Though it was previously believed to possess a water aspect and was intended for an individual with [[pure madra]], [[Lindon]] successfully obtained the entity from the [[Heaven's Glory]] School. Following its acquisition, the creature can be seen playing within a tank.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Sylvan Riverseed]] is a humanoid [[Remnant]] the size of a finger made of flowing blue waves.<ref name="cradle-02-soulsmith-c13">''Soulsmith'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Sylvan Riverseed]] is made of [[madra]] imitating water.<ref name="cradle-02-soulsmith-c13" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Lindon]] obtained the [[Sylvan Riverseed]] from the [[Heaven's Glory]] School.<ref name="cradle-02-soulsmith-c13" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Sylvan Riverseed]] is an entity that was thought to have a water aspect and was intended for someone with [[pure madra]].<ref name="cradle-02-soulsmith-c13" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Sylvan Riverseed]] is a creature playing in a tank.<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|Born from accumulated [[vital aura]] in a location of perfect balance and extreme strength, the [[Sylvan]] [[Riverseed]] is a natural spirit. [[Lindon]] and [[Yerin]] acquired this entity, which was previously a translucent bright blue doll but transformed into a deep azure woman with long hair and a dress. [[Lindon]] carries the spirit in a scripted glass case that contains a flaw allowing it to be opened. While [[Lindon]] once attempted to use the spirit to heal [[Orthos]], she has since become a companion that can hop onto his shoulder. The entity can be fed [[madra]] coins that dissolve upon contact and possesses the ability to pour liquid blue through madra channels to soothe them.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Sylvan Riverseed]] is kept in a glass case.<ref name="cradle-03-blackflame-c2">''Blackflame'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Sylvan]] [[Riverseeds]] are natural spirits born of accumulated [[vital aura]].<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Sylvan]] [[Riverseeds]] form in places where [[aura]] is extremely strong and in perfect balance.<ref name="cradle-03-blackflame-c10" />}}</li>
@@ -47,70 +45,62 @@
 <li>{{spoiler|book=cradle-03-blackflame|The [[Sylvan Riverseed]] can pour liquid blue through madra channels to soothe them.<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Sylvan Riverseed]] is a creature that can hop onto [[Lindon]]'s shoulder.<ref name="cradle-03-blackflame-c20">''Blackflame'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Sylvan Riverseed]] is a creature that can sit on a shoulder.<ref name="cradle-03-blackflame-c20" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Sylvan Riverseed]]'s touch rebalanced and purified a girl's madra channels.<ref name="cradle-04-skysworn-c6">''Skysworn'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Sylvan Riverseed]] has a glass case containing a tiny [[island]].<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Sylvan Riverseed's power]] can cleanse madra channels.<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|Known as [[Little Blue]], the [[Sylvan]] [[Riverseed]] is a spirit that [[Lindon]] carries upon his shoulder. When [[Lindon]] intends to retrieve the item from his pack, it emits a long, slow tone reminiscent of a flute. The spirit once directed a worried look toward [[Orthos]]. To sustain the entity, [[Lindon]] feeds it using his pure core.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Little Blue]] is the [[Sylvan Riverseed]].<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Sylvan Riverseed]] is an item [[Lindon]] intends to pull from his pack.<ref name="cradle-05-ghostwater-c2" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Sylvan Riverseed]] makes a long, slow tone that sounds like a flute.<ref name="cradle-05-ghostwater-c6">''Ghostwater'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Sylvan Riverseed]] gives [[Orthos]] a worried look.<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Sylvan Riverseed]] is a spirit that [[Lindon]] feeds with his pure core.<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] carries a [[Sylvan Riverseed]] on his shoulder.<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Sylvan Riverseed]] is a creature that can be kept in a [[void key]].<ref name="cradle-07-uncrowned-c3">''Uncrowned'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sylvan Riverseed]] is a type of creature.<ref name="cradle-07-uncrowned-c5">''Uncrowned'', chapter 5</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sylvan]] [[Riverseeds]] are found in an ancient forest glade.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Sylvan Riverseed]] provides power to [[Lindon]].<ref name="cradle-08-wintersteel-c18">''Wintersteel'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|Unintelligent [[Sylvan]] [[Riverseeds]] can be used in [[Soulsmithing]].<ref name="cradle-09-bloodline-c5">''Bloodline'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Sylvan]] [[Riverseeds]] are plants that can dance on a person's face.<ref name="cradle-09-bloodline-c5" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon's Sylvan Riverseed]] has power similar to his own.<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Sylvan]] [[Riverseeds]] are forming by the pond.<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Sylvan Riverseed]] is in human form and is contract-bound to [[Lindon]].<ref name="cradle-12-waybound-c26">''Waybound'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-05-ghostwater|“Tell me what's happening,” Lindon demanded of Dross, lowering the Sylvan Riverseed from his shoulder.<ref name="cradle-05-ghostwater-c15" />}}

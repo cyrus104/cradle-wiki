@@ -9,8 +9,8 @@
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The Seven Calamities are a category of powerful threats or events that includes the entity [[Sel’miroth]] and a fat beetle as its seventh member. Although most of these entities eventually departed from the universe, three surviving members were discovered within the same system as [[Esh’kinaar]]. Following these events, the final member of the group resonated through the [[Aether]] with a song of triumph.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Seven Calamities]] are a group of entities, the seventh of which is a fat beetle.<ref name="lh-03-the-knight-c7">''The Knight'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Seven Calamities]] are a group of entities that mostly left the universe.<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Seven Calamities]] is a group that includes [[Sel’miroth]].<ref name="lh-03-the-knight-c16" />}}</li>
@@ -18,8 +18,7 @@
 <li>{{spoiler|book=lh-03-the-knight|Three surviving members of the [[Seven Calamities]] were found in the system where [[Esh’kinaar]] was located.<ref name="lh-03-the-knight-c34">''The Knight'', chapter 34</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Seven Calamities]] are powerful entities.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The last of the [[Seven Calamities]] resonated through the [[Aether]] in a song of triumph.<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

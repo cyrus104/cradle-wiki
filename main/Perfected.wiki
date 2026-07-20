@@ -9,17 +9,16 @@
 {{spoiler|book=lh-04-the-pilot|[[The Perfected]] are a specialized group of individuals, often described as abominations, who are created through intensive research and horrific processes. Their creation involves the sacrifice of hundreds or even thousands of people, as power is stripped from many Karoshans to fuel the transformation. This process has a low survival rate and results in beings that are physically superior to natural Karoshans, possessing greater strength, speed, and more effective musculature. Physically, they may exhibit differences such as being slimmer or possessing long reptilian tails and sharper teeth. These entities serve as highly competent combatants and specialists, with specific designations such as Duelist, Gunner, Marksman, and Sniper. They are capable of utilizing advanced [[Combat Arts]] and high-grade [[Aethertech]], including sophisticated personal shields and specialized weaponry. [[The Perfected]] are also known to operate dreadnoughts, such as the Dragon's Edge, and maintain research outposts. Their current objectives include investigating [[Subspace]] to further their own self-improvement and attempting to create a [[Karoshan]] [[Iron King]]. They are considered a significant threat by [[Union]] intelligence and various galactic factions.}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[The Perfected]] are powerful entities that can be dispatched to a location.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|[[The Perfected]] are a specific type of [[Karoshan]] distinguished by their long reptilian tails and teeth that are sharper than those of the average member of their species. Historically, they were among the various groups encountered by [[Starhammer]] during his period of conquest. These beings view battlefields as mere playgrounds and are rumored to include a leader commanding the [[King Regent]]'s ships. As enemies that Shyrax will lead a crew to oppose, they represent a threat for which the crew is not yet prepared to face in a showdown.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[The Perfected]] are enemies that the crew will follow Shyrax against.<ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Perfected]] was one of the groups [[Starhammer]] fought during his conquest.<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The crew is not yet prepared for a showdown against [[the Perfected]].<ref name="lh-02-the-engineer-c19">''The Engineer'', chapter 19</ref>}}</li>
@@ -27,14 +26,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[The Perfected]] are a type of [[Karoshan]] that possess long reptilian tails.<ref name="lh-02-the-engineer-c35">''The Engineer'', chapter 35</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Perfected]] are a group whose members possess sharper teeth than the average [[Karoshan]].<ref name="lh-02-the-engineer-c35" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Perfected]] view battlefields as playgrounds.<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Originating from [[Karoshan]] genetic engineering research, [[the Perfected]] are individuals produced through a creation process that requires sacrificing hundreds or thousands of Karoshans and carries a low survival rate. These casters, who possess the ability to escape into subspace, are associated with [[Felrex]] and are being built by him as an army. This group is suspected of being responsible for subspace blockades, yet a fleet of their black ships was permitted to pass through a gap in the Shyrax blockade. Having made a bid for control of the galaxy, [[the Perfected]] are considered one of the true enemies and are expected to arrive from [[Karosha]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">14</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[The Perfected]] were created by [[Karoshan]] research in genetic engineering.<ref name="lh-03-the-knight-c10">''The Knight'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Perfected]] have a single suicide agent.<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Perfected]] are a potential group responsible for subspace blockades.<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref>}}</li>
@@ -49,14 +47,13 @@
 <li>{{spoiler|book=lh-03-the-knight|[[The Perfected]] are casters that can escape into [[Subspace]].<ref name="lh-03-the-knight-c38">''The Knight'', chapter 38</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Perfected]] are an army being built by [[King Regent]] [[Felrex]].<ref name="lh-03-the-knight-c38" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Perfected]] are an enemy group associated with [[Karosha]].<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|[[The Perfected]] are an artificially created subspecies that functions as a ruling caste and is led by [[King Regent]] [[Felrex]]. Described as a blight on the galaxy, this group becomes a target for [[Tythalia]]'s recommended military action and Shyrax's resources. Shyrax specifically aims to destroy a Perfected outpost and kill its members, though the [[Zenith Cannon]] ultimately settles for only one of them. While being Perfected provides increased ability and support, the group remains a primary enemy that may face direct confrontation. Following these events, [[Benri Vallenar]] is assigned to continue research into the subspecies.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[The Perfected]] is a group that [[Tythalia]] recommends moving against.<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Perfected]] are a group led by [[King Regent]] [[Felrex]] described as a blight on the galaxy.<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Shyrax's target involves crushing a [[Perfected]] outpost and killing any [[Perfected]].<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref>}}</li>
@@ -66,8 +63,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|The enemy might approach [[the Perfected]] directly.<ref name="lh-04-the-pilot-c35">''The Pilot'', chapter 35</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Perfected]] are an enemy or target of Shyrax's resources.<ref name="lh-04-the-pilot-c36">''The Pilot'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Being [[Perfected]] allows for gathering support and increased ability.<ref name="lh-04-the-pilot-c36" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“Could be the Perfected, although we’re a long way out of their territory.<ref name="lh-03-the-knight-c16" />}}

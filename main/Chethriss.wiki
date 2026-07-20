@@ -5,13 +5,12 @@
 }}
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Chethriss]] is a [[Perfected]] known as [[the Perfected]] Blade.<ref name="lh-03-the-knight-c37">''The Knight'', chapter 37</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Chethriss]] has dark [[emerald]] skin and neon green hair-cables.<ref name="lh-03-the-knight-c37" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Chethriss]] wields a sapphire [[force-blade]].<ref name="lh-03-the-knight-c37" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

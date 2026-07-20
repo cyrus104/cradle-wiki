@@ -12,15 +12,14 @@
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|Alden Zaius is an [[Overlord]] characterized by his rough and scarred skin. His appearance is marked by a unique [[Goldsign]] consisting of red spikes that drape over his head like hair. In combat, he utilizes [[soulfire]] and commands a [[Blood Shadow]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Alden Zaius]] is an [[Overlord]].<ref name="cradle-11-dreadgod-c9">''Dreadgod'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Alden Zaius]] has scarred and rough skin.<ref name="cradle-11-dreadgod-c9" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Alden Zaius]] possesses a [[Goldsign]] made of red spikes that cover his head like hair.<ref name="cradle-11-dreadgod-c9" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Alden Zaius]] has a [[Blood Shadow]].<ref name="cradle-11-dreadgod-c9" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Alden Zaius]] uses [[soulfire]].<ref name="cradle-11-dreadgod-c9" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

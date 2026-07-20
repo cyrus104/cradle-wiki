@@ -14,21 +14,20 @@
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|[[The Void]] [[Sage]] exists as a presence capable of manifesting through [[Lindon]]. During his development, [[Lindon]]'s technique eventually fuses with the authority held by this entity. [[Dross]] later acknowledges this connection by addressing [[Lindon]] as the Void [[Sage]]. While it has been established that [[Reigan Shen]] does not hold this title, there is a possibility that the Void [[Sage]] may take control of the [[labyrinth]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The [[Void Sage]] is a presence that can manifest through [[Lindon]].<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]]'s technique fuses with the authority of the [[Void Sage]].<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Dross]] addresses [[Lindon]] as [[Void Sage]].<ref name="cradle-10-reaper-c20">''Reaper'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Reigan Shen]] is not a [[Void Sage]].<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Void Sage]] may take over the [[labyrinth]].<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|[[Wei Shi Lindon Arelius]] holds the title and authority of the Void [[Sage]], a position that ensures no one can dictate his actions. During the confrontation with the [[Dreadgod]], he utilized a method to elevate [[Yerin]] so she could strike the creature, eventually commanding it to consume. This display of power caused the [[Dreadgod]] to abandon its pursuit of him as a prize. Following these events, the Void [[Sage]] traveled to reunite with [[Yerin]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] has authority as the [[Void Sage]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|No one is going to tell the [[Void Sage]] what to do.<ref name="cradle-11-dreadgod-c3" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Void Sage]] is a title or authority held by [[Lindon]].<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
@@ -38,24 +37,21 @@
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Void Sage]] is traveling to meet [[Yerin]].<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|A [[Void Sage]] was behind [[Lindon]].<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Void Sage]] is [[Wei Shi Lindon Arelius]].<ref name="cradle-11-dreadgod-c22" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|Wei Shi [[Kelsa]] is the sister of the [[Void Sage]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|People wanted to borrow the protection of the [[Void Sage]].<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Void Sage]] believes [[Reigan Shen’s Remnant]] was holding onto their inheritance.<ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Kelsa]] is the sister of the [[Void Sage]].<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-12-waybound|“Wei Shi Kelsa, sister of the Void, speaks with his voice.<ref name="cradle-12-waybound-c6" />}}

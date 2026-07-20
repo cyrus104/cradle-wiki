@@ -12,23 +12,21 @@
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|As a girl serving as the [[Bait]] in killing operations, Mari was shot in the chest by [[Maxwell]]. Following this injury, her body was found slumped against a cage. Although she played the role of the [[Bait]], she would have preferred that the man in the apron be left alive. Eventually, her corpse was seen by [[Shera]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Mari]] is a girl who serves as the [[Bait]] in killing operations.<ref name="ee-shadow-01-of-shadow-and-sea-c1">''Of Shadow and Sea'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Mari]] is a character who was shot in the chest by [[Maxwell]].<ref name="ee-shadow-01-of-shadow-and-sea-c1" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Mari]]'s body was slumped against a cage.<ref name="ee-shadow-01-of-shadow-and-sea-c1" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Mari]] played the [[Bait]].<ref name="ee-shadow-01-of-shadow-and-sea-c3">''Of Shadow and Sea'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Mari]] would have wanted the man in the apron to be left alive.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Mari]] is a character whose corpse is seen by [[Shera]].<ref name="ee-shadow-01-of-shadow-and-sea-c7">''Of Shadow and Sea'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Mari]] is a friend of [[Shera]].<ref name="ee-shadow-02-of-darkness-and-dawn-c20">''Of Darkness and Dawn'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

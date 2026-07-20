@@ -18,8 +18,8 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|Malachi Daiasus is an Overlord who serves as a faithful slave to [[King Zakareth the Sixth]], managing a corner of the [[Damascan Kingdom]] that includes [[Myria village]]. Known as a distant but just ruler, this vain man wears the [[Ragnarus mask]] and specific colors, often sporting a crimson half-mask that sticks to his face. His authority is enforced by soldiers and officers who act as raiders, dragging people away and taking captives like [[Leah]] from their villages. Malachi is responsible for the annual sacrifice, a process involving nine people, and possesses the power to summon flaming orange orbs and wolfhound-sized fire ants. Despite his status, he bears a [[Naraka brand]] as a shining red mark on his palm. His reign ended on midsummer's eve when he was killed by [[Alin]], leaving behind a legacy responsible for the deaths of at least a dozen Myrian villagers.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">36</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">36</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|Overlord [[Malachi]] has official soldiers who are raiders.<ref name="tg-01-house-of-blades-c2">''House of Blades'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Malachi]]'s soldiers attacked the village gate.<ref name="tg-01-house-of-blades-c2" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Malachi]] is an Overlord.<ref name="tg-01-house-of-blades-c2" />}}</li>
@@ -56,14 +56,13 @@
 <li>{{spoiler|book=tg-01-house-of-blades|[[Malachi]] is the lord over the lands where [[Simon]] is located.<ref name="tg-01-house-of-blades-c22">''House of Blades'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Malachi]] Daiasus was responsible for the deaths of at least a dozen Myrian villagers and is dead.<ref name="tg-01-house-of-blades-c23">''House of Blades'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Malachi]] died on midsummer's eve.<ref name="tg-01-house-of-blades-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|An Overlord and a [[Traveler]] of [[Naraka]], Malachi once granted [[Erastes]] permission to retire while utilizing a mask to summon immense power from his [[Territory]]. Following a raid on [[Myria]], he held [[Leah]] captive in his tower for several weeks, though she later claimed she was never in any actual danger. Malachi eventually engaged in combat with [[Simon]], who played a role in his defeat at the hands of [[Alin]]. The Overlord died one month prior to the council, an event so significant that [[Alin]] threatened to inflict a similar [[fate]] upon [[Grandmaster Naraka]] should his sisters be harmed.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Malachi]] gave [[Erastes]] permission to retire.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|Overlord [[Malachi]] wore a mask that allowed him to call terrifying amounts of power from his [[Territory]].<ref name="tg-02-crimson-vault-c2" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Malachi]] is dead.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
@@ -77,16 +76,14 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] played a role in the death of Overlord [[Malachi]].<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Leah]] claims she was never in danger from [[Malachi]].<ref name="tg-02-crimson-vault-c13">''The Crimson Vault'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Alin]] threatens that if anything happens to his sisters, he will make [[Grandmaster Naraka]] suffer the same [[fate]] as Overlord [[Malachi]].<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Malachi]] is an Overlord with a home in [[Bel Calem]].<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Malachi]] used the shattered mask for years.<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|“My apologies, Highness, but I am here on the orders of Overlord Malachi.”<ref name="tg-01-house-of-blades-c2" />}}

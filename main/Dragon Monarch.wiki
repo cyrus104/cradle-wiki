@@ -11,33 +11,29 @@
 {{spoiler|book=cradle-13-threshold|The Dragon [[Monarch]], known as [[Seshethkunaaz]], is the [[King]] of Dragons and ruler of the eastern [[Ashwind continent]]. He leads a coalition consisting of both gold and green [[dragons]]. Although he possesses an immense presence that can be felt like a restrained earthquake, he often appears in the form of a human boy with tanned skin, dark hair, and golden eyes. He is characterized by his disdain for human civilization and its preference for the weak over the strong, though he holds an admiration for humans. While [[dragons]] are often viewed as destructive beings, [[Seshethkunaaz]] has been known to show approval for [[sacred artists]] and has offered his treasuries as rewards. He maintains a desert [[vault]] that serves as a repository for [[dragon]] hoards and is supported by subordinates such as [[Xorrus]], the Desert-bringer.}}
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Xorrus]] is the left hand of the [[Dragon Monarch]].<ref name="cradle-07-uncrowned-c9">''Uncrowned'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|If [[Yerin]] loses, [[Penance]] goes to the Dragon or Lion [[Monarchs]].<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Dragon Monarch]] considers tricks to be beneath his dignity.<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Dragon Monarch]] has a shifting desert [[vault]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The [[Dragon Monarch]] possesses a technique involving sandstorms with authority over space.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -4,13 +4,12 @@
 }}
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Alin]] can channel [[Red]] determination.<ref name="tg-03-city-of-light-c12">''City of Light'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Alin]] can fill himself with [[Red]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Red]] argues that going through the Gate would be like dying.<ref name="tg-03-city-of-light-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

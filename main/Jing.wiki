@@ -15,27 +15,25 @@
 {{spoiler|book=cradle-06-underlord|[[Naru]] Jing is a prominent member of the [[Naru clan]], an influential family that serves as the primary administrators for the [[Blackflame Empire]]. Recognized as a standout talent among the clan's younger generation, she is married to [[Naru Cassias Arelius]]. Her physical appearance includes [[emerald]] green wings and a prosthetic orange-yellow wing made of [[madra]], alongside an artificial eye of the same color. She possesses the [[Goldsign]] of the [[Path of Grasping Sky]] and is capable of utilizing wind madra to create barriers or intercept projectiles. During periods of conflict, she has taken an active role in defense, managing wounded personnel and communicating with her father, a significant leader within the clan. She is also a mother to a three-year-old son.}}
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Jing]] is a person [[Cassias]] intends to follow to the top of the Truegolds.<ref name="cradle-03-blackflame-c7">''Blackflame'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Eithan]] has cleared a way to marry [[Jing]].<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Jing]] is a person [[Cassias]] was looking for.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Naru]] [[Jing]] is the star of the [[Naru clan]]’s young generation.<ref name="cradle-03-blackflame-c17" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Naru]] [[Jing]] has one eye and one wing replaced with glowing orange [[Remnant]] prosthetics.<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|Formerly the top-ranked [[Highgold]] within the [[Empire]], [[Naru]] Jing is the wife of [[Cassias]]. She utilizes wind madra and possesses several unique physical augmentations, including an artificial left eye crafted from a [[Remnant]] and a prosthetic orange-yellow wing produced by [[Soulsmiths]]. Her right wing displays an [[emerald]] green [[Goldsign]] of the [[Path of Grasping Sky]]. During a confrontation, [[Eithan]] addressed both her and [[Cassias]] directly. Later, she was observed positioned at a railing while firing shots at enemies in the distance.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Naru]] [[Jing]] is the wife of [[Cassias]].<ref name="cradle-06-underlord-c11">''Underlord'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Naru]] [[Jing]]'s right wing has an [[emerald]] green [[Goldsign]] of the [[Path of Grasping Sky]].<ref name="cradle-06-underlord-c11" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Naru]] [[Jing]] has a prosthetic orange-yellow wing made of [[madra]] created by [[Soulsmiths]].<ref name="cradle-06-underlord-c11" />}}</li>
@@ -44,8 +42,7 @@
 <li>{{spoiler|book=cradle-06-underlord|[[Naru]] [[Jing]] was formerly the top-ranked [[Highgold]] in the [[Empire]].<ref name="cradle-06-underlord-c11" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Eithan]] spoke words to [[Cassias]] and [[Naru]] [[Jing]].<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Naru]] [[Jing]] was standing at the railing taking shots at distant enemies.<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

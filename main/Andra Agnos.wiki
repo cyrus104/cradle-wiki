@@ -18,8 +18,8 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|Thirteen-year-old Andra [[Agnos]] lives behind a mushroom-cap door with her sibling, [[Lycus]]. While trapped in a cave for nearly an entire day alongside [[Simon]], she was eventually discovered curled up on a rock promontory situated above the rock-worms. After being rescued by [[Simon]], she attempted to prevent him from killing [[Erastes]], a man she had known her entire life. Although she possesses the [[sword]], Andra lacks the other gifts and is currently only able to open her bath, garden, and bedroom. She eventually brought five healthy sons and daughters to [[the Nye]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|Andra is a sibling of [[Lycus]].<ref name="tg-01-house-of-blades-c11">''House of Blades'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|Andra is thirteen years old.<ref name="tg-01-house-of-blades-c11" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|Andra and [[Lycus]] were trapped in a cave for almost a whole day.<ref name="tg-01-house-of-blades-c11" />}}</li>
@@ -33,27 +33,25 @@
 <li>{{spoiler|book=tg-01-house-of-blades|[[Andra Agnos]] has the [[sword]] but none of the other gifts.<ref name="tg-01-house-of-blades-c18">''House of Blades'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Andra Agnos]] can currently only open her bedroom, the garden, and the bath.<ref name="tg-01-house-of-blades-c18" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|Andra brought five healthy sons and daughters to [[the Nye]].<ref name="tg-01-house-of-blades-c18" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Andra [[Agnos]] is a woman characterized by her long blond hair and a tendency to become easily excited over minor matters. During an ordeal in [[Orgrith Cave]], her life was saved by [[Simon]]. Later, while working in the [[workshop]], she struggled with an inability to make a particular task function correctly. She was eventually seen waving to [[Simon]] from a hallway before she disappeared into a bedroom.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|Andra has a tendency to get excited over small things.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] saved [[Andra Agnos]]' life in [[Orgrith Cave]].<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Andra Agnos]] waved to [[Simon]] from down a hallway before vanishing into a bedroom.<ref name="tg-02-crimson-vault-c14">''The Crimson Vault'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|Andra is unable to make something work in the [[workshop]].<ref name="tg-02-crimson-vault-c14" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|Andra has long blond hair.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|The daughter of Olissa and Caius, Andra [[Agnos]] is a young blond [[Valinhall]] [[Traveler]] and the sister of [[Lycus]]. Marked by chain-shaped patterns on her arms, she carries a lightly curved blade and is associated with the Dragon's Fangs. During an attack by the [[Tartarus Incarnation]], she ran forward to assist in the fight using the [[sword]] [[Seijan]]. Later, as part of a group tasked with separating enemies, she followed orders from [[Simon]] to combat the golems of the [[Ornheim Incarnation]] with her black-spotted [[sword]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">21</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">21</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|Andra is the daughter of Olissa.<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Andra Agnos]] is the youngest [[Valinhall]] [[Traveler]] and the daughter of Olissa and Caius.<ref name="tg-03-city-of-light-c8">''City of Light'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|Andra suggested that it would escape.<ref name="tg-03-city-of-light-c8" />}}</li>
@@ -75,8 +73,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[Simon]] gives orders to Andra.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|Andra is a blond girl with a black-spotted [[sword]].<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|Andra fought the [[Ornheim Incarnation]]'s golems.<ref name="tg-03-city-of-light-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|“It’s almost been a whole day,” Andra whispered.<ref name="tg-01-house-of-blades-c11" />}}

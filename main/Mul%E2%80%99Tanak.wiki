@@ -12,8 +12,8 @@
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Mul’Tanak is the [[Spider Goddess]] of Blood and War, a deity whose name combines the prefix for female gods with a term meaning swords unending. Represented by an idol of a black-bladed spider, she is known to favor blades and blood. The goddess descended in human form, appearing with crimson eyes, black-armored hands, and a black carapace. Her physical form also features scarlet-stained [[steel]] legs and six bladed arms extending from her back. The [[Tanakites]] believe that their sudden acquisition of power is a direct gift from her.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Mul’Tanak]] is the [[Spider Goddess]] of Blood and War.<ref name="cradle-13-threshold-c5">''Threshold: Stories from Cradle'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Mul’Tanak]] is a goddess with an idol depicted as a black-bladed spider.<ref name="cradle-13-threshold-c5" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Tanakites]] claim their sudden power is a gift from [[Mul’Tanak]].<ref name="cradle-13-threshold-c5" />}}</li>
@@ -24,8 +24,7 @@
 <li>{{spoiler|book=cradle-13-threshold|[[Mul’Tanak]] has six bladed arms on her back.<ref name="cradle-13-threshold-c5" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Mul’Tanak]] has crimson eyes.<ref name="cradle-13-threshold-c5" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Mul’Tanak]] has black-armored hands.<ref name="cradle-13-threshold-c5" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -9,8 +9,8 @@
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|The Madra Engine is a [[Divine Treasure]] composed of [[dead matter]] consisting of [[pure madra]]. This blue crystal nest of tubes functions as a [[construct]] that settles into the center of madra channels to surround and contain the core. After [[Charity]] sunk the device into [[Yerin]]'s midsection, it began converting [[life]] and blood essence into [[madra]] at an accelerated rate. The engine successfully recovered [[Yerin]]'s [[madra]] and continues to restore it whenever she breathes.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Madra Engine]] is a [[Divine Treasure]] made of [[dead matter]] of [[pure madra]].<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Madra Engine]] converts [[life]] and blood essence to [[madra]] faster.<ref name="cradle-08-wintersteel-c19" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Madra Engine]] is a blue crystal nest of tubes.<ref name="cradle-08-wintersteel-c20">''Wintersteel'', chapter 20</ref>}}</li>
@@ -18,8 +18,7 @@
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Madra Engine]] is a [[construct]] that settles into the center of madra channels, surrounding and containing the core.<ref name="cradle-08-wintersteel-c20" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Madra Engine]] restores [[Yerin]]'s [[madra]] when she breathes.<ref name="cradle-08-wintersteel-c22">''Wintersteel'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Madra Engine]] recovered [[Yerin]]’s [[madra]].<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|“It’s a Madra Engine,” Charity said, before Yerin could ask. “A Divine Treasure of great value, using as it does dead matter of pure madra.”<ref name="cradle-08-wintersteel-c19" />}}

@@ -9,20 +9,19 @@
 {{spoiler|book=tg-03-city-of-light|[[Valinhall]] [[Travelers]] are a rare and dwindling group of individuals associated with the [[Valinhall]] [[Territory]]. Unlike [[Travelers]] from other regions who summon external creatures, weapons, or elemental magic to fight, those of [[Valinhall]] draw power into themselves to enhance their own abilities. This unique connection makes them exceptionally proficient in physical combat and allows them to neutralize the magical summons of opposing [[Travelers]]. Because of this specialization, they are often viewed as a force dedicated to hunting other [[Travelers]] and are sometimes referred to as the [[Dragon Army]]. The history of these [[Travelers]] is tied to [[Valin]], also known as the Wanderer, who arrived in [[the House]] of [[Valinhall]] and eventually claimed it, naming it after himself. He used his knowledge to create a gateway between worlds. [[The Territory]] itself is believed to have been created through the experiments of [[Damasca]], though [[Valin]] eventually turned its power against him. While many [[Travelers]] were lost during this conflict, a small number remain. The relationship between the [[Territory]] and its users is defined by an exchange of power that requires a [[Founder]] to maintain balance. Currently, the surviving [[Travelers]] are scattered and few in number.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|There are other [[Valinhall Travelers]].<ref name="tg-01-house-of-blades-c6">''House of Blades'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|A [[Valinhall]] [[Traveler]] summons power into themselves rather than summoning powers from outside themselves.<ref name="tg-01-house-of-blades-c9">''House of Blades'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Valinhall Travelers]] excel in combat with other [[Territories]].<ref name="tg-01-house-of-blades-c22">''House of Blades'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|A [[Valinhall]] [[Traveler]] summoned a ten-foot long [[sword]] and had chains of shadow on his arms.<ref name="tg-01-house-of-blades-c23">''House of Blades'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|[[Valinhall]] [[Travelers]] are a rare type of [[Traveler]] whose [[Territory]] was created rather than born. Described as twisted abominations, these individuals exist for the purpose of killing real [[Travelers]] and are becoming increasingly scarce. [[Simon]] is a white-haired swordsman among them, distinguished by a black gauntlet on his left hand and arm marks resembling links of a shadow chain. While [[Simon]] faces hostile glances from [[Grandmaster Naraka]], he is also sought out by others of his kind, including [[Indirial]]. These travelers, which include three others, have specific duties to perform and are destined to face the Wanderer once again.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">16</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">16</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] is a [[Valinhall]] [[Traveler]].<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Valinhall Travelers]] are a rare breed whose [[Territory]] was created rather than born.<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Valinhall Travelers]] are described as a twisted abomination whose purpose is to kill real [[Travelers]].<ref name="tg-02-crimson-vault-c5" />}}</li>
@@ -39,14 +38,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|There are three other [[Valinhall Travelers]].<ref name="tg-02-crimson-vault-c19">''The Crimson Vault'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Indirial]] is a [[Valinhall]] [[Traveler]].<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Talos]] referred to the [[Valinhall Travelers]].<ref name="tg-02-crimson-vault-c22">''The Crimson Vault'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|[[Valinhall]] [[Travelers]] are a type of entity or power capable of bringing down an [[Incarnation]], and they are identified by black chain-shaped marks on their hands, arms, or collars. While the group includes individuals such as [[Andra Agnos]], [[Simon]], [[Kathrin]], [[Denner]], and [[Caela]], a graveyard holds the remains of eight deceased members. During recent events, two [[Travelers]] passed through a door to assist [[Leah]], who keeps them around and required a pair for her mission. One such traveler accompanied the [[Successor]] and appeared as a cloaked man wielding a cracked [[sword]], a blade that can be summoned from [[the House]] while in the outside world. As [[Valinhall]] prepares to add masks to its arsenal, [[Zakareth]] has identified the destruction or recruitment of these [[Travelers]] as his first step.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">16</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">16</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|A team of [[Valinhall Travelers]] could bring down an [[Incarnation]].<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The graves in the graveyard belong to eight dead [[Valinhall Travelers]].<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Valinhall]] will soon have masks among its weapons.<ref name="tg-03-city-of-light-c8">''City of Light'', chapter 8</ref>}}</li>
@@ -63,8 +61,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|The [[Valinhall Travelers]] include [[Simon]], [[Andra]], [[Kathrin]], [[Denner]], and [[Caela]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Leah]] keeps [[Valinhall Travelers]] around.<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Valinhall]] has [[Travelers]].<ref name="tg-03-city-of-light-c28">''City of Light'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|“Simon,” Leah said, “how did you become a Valinhall Traveler?”<ref name="tg-02-crimson-vault-c6" />}}

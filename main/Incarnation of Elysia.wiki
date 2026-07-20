@@ -12,15 +12,14 @@
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|[[Alin]] serves as the [[Incarnation]] of [[Elysia]], a being possessing enough power to match the blue giant. Due to her [[Territory]], she is characterized by an honesty that borders on being too blunt. [[Feiora Torannus]] once witnessed the [[Incarnation]] limping away, and it is known that the [[King]] has already formulated plans regarding her existence.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Alin]] is the [[Incarnation of Elysia]].<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Incarnation of Elysia]] is a figure that [[Feiora Torannus]] observed limping away.<ref name="tg-03-city-of-light-c15">''City of Light'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Incarnation of Elysia]] was honest to a fault due to her [[Territory]].<ref name="tg-03-city-of-light-c19">''City of Light'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[King]] has planned for the [[Incarnation of Elysia]].<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Incarnation of Elysia]] is a being that could match the blue giant.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

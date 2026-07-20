@@ -19,8 +19,8 @@
 == Soulsmith ==
 {{spoiler|book=cradle-02-soulsmith|[[Fisher]] Gesha is a [[Highgold]] [[Soulsmith]] and an elder who possesses a soft heart. While working in the foundry, she utilizes a curved goldsteel blade and a goldsteel hook alongside various spider constructs. For nearly two weeks, she oversaw [[Lindon]], whom she referred to as Wei Shi [[Lindon]], and expressed disappointment regarding his inability to forge. Gesha's unique physiology includes mechanical spider legs in place of feet, which allow her to drift. During the events at the foundry, one of her spider constructs was responsible for attacking [[Yerin]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|[[Fisher Gesha]] is a [[Soulsmith]].<ref name="cradle-02-soulsmith-c9">''Soulsmith'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|Gesha is a [[Soulsmith]].<ref name="cradle-02-soulsmith-c9" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|Gesha has a soft heart.<ref name="cradle-02-soulsmith-c9" />}}</li>
@@ -39,14 +39,13 @@
 <li>{{spoiler|book=cradle-02-soulsmith|[[Fisher Gesha]] is an elder who can drift on spider's legs.<ref name="cradle-02-soulsmith-c19">''Soulsmith'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|Gesha is a [[Highgold]] [[Soulsmith]].<ref name="cradle-02-soulsmith-c19" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The spider that attacked [[Yerin]] was one of Gesha's constructs.<ref name="cradle-02-soulsmith-c20">''Soulsmith'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|[[Fisher]] Gesha is a [[Highgold]] [[sacred artist]] and member of the [[Fisher sect]] who possesses gray hair and eight mechanical [[Forged]] legs. This four-foot-tall old woman, who moves using a [[drudge]] and speaks with a raspy voice, operates her own foundry. As a [[Soulsmith]], she tutored [[Lindon]] and examined the constructs of the [[Thousand-Mile Cloud]] alongside him and [[Eithan]]. During her training sessions, she utilized dummies for practical experience and wielded a goldsteel-plated fishhook as a weapon. Her [[madra]], which can be purple in color, allows her to pull objects together, such as when she used it to shut heavy doors.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Fisher Gesha]] is a [[sacred artist]] with gray hair and eight legs of mechanical [[Forged madra]].<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|Gesha is a [[Fisher]] and a [[Highgold]].<ref name="cradle-03-blackflame-c1" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|Gesha is a [[Highgold]].<ref name="cradle-03-blackflame-c1" />}}</li>
@@ -65,14 +64,13 @@
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] forged scales for [[Fisher Gesha]].<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Fisher Gesha]] is a person who has not noticed [[Lindon]] feeding his pet [[Sylvan]].<ref name="cradle-03-blackflame-c10" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|Gesha used purple madra to pull heavy doors shut.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
 {{spoiler|book=cradle-04-skysworn|[[Fisher]] Gesha is a [[Highgold]] [[Soulsmith]] from the [[Desolate Wilds]] who possesses gray hair and long purple spider legs as part of her [[drudge]]. Brought by [[Eithan]] for her unique talents, she assisted [[Lindon]] in his preparations for a duel and noted that he had trained intensely for an entire year. While setting up a camp using [[Remnant]] parts, she utilized her purple madra to manipulate objects, lash lines to debris, and throw webs of light. After following [[Renfei]], she was assigned to an apprentice room in the foundry alongside [[Lindon]], a person she has traveled with previously, where she makes use of a hook.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">14</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Fisher Gesha]] is a [[Highgold]] [[Soulsmith]] from the [[Desolate Wilds]].<ref name="cradle-04-skysworn-c3">''Skysworn'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Fisher Gesha]] has long purple spider legs as part of her [[drudge]].<ref name="cradle-04-skysworn-c3" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Fisher Gesha]] helped prepare [[Lindon]] for the duel.<ref name="cradle-04-skysworn-c3" />}}</li>
@@ -87,27 +85,25 @@
 <li>{{spoiler|book=cradle-04-skysworn|[[Fisher Gesha]] and [[Lindon]] were assigned to an apprentice room in the foundry.<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Fisher Gesha]] uses a hook.<ref name="cradle-04-skysworn-c12" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Fisher Gesha]] is a person [[Lindon]] has traveled with.<ref name="cradle-04-skysworn-c12" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|[[Fisher]] Gesha is a shrunken old woman characterized by her gray hair, which she wears tied up in a bun. During her work, she uses a ring to tap against the metal of a cannon and observes that the [[Song of Falling Ash]] [[binding]] is nearly falling apart. Having developed plans for a compound launcher construct, she advises that such constructs should be extracted and rebuilt piece by piece.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Fisher Gesha]] is a shrunken old woman with gray hair tied up into a bun.<ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Fisher Gesha]] is a character who uses a ring to tap on the metal of a cannon.<ref name="cradle-05-ghostwater-c7" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|Gesha is a character who developed plans for a compound launcher construct.<ref name="cradle-05-ghostwater-c7" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|Gesha noted that the [[Song of Falling Ash]] [[binding]] was nearly falling apart.<ref name="cradle-05-ghostwater-c7" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Fisher Gesha]] is a person who would advise extracting and rebuilding constructs piece by piece.<ref name="cradle-05-ghostwater-c8">''Ghostwater'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|A business owner and dreadbeast hunter of the [[Desolate Wilds]], the wrinkled-faced [[Fisher]] Gesha initially hosted a group for a meal prepared for her family. While studying [[Skysworn armor]] alongside [[Lindon]], she utilized her [[Truegold]]-level strength and [[Forged madra]] to facilitate the setup of a new barn. This structure eventually became a mobile [[Soulsmith foundry]], featuring massive purple spider legs that allowed the vessel to roam throughout the [[Blackflame]] camp.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Fisher Gesha]] is cooking for her family and has invited the group over.<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Fisher Gesha]] is studying [[Skysworn armor]] with [[Lindon]].<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Fisher Gesha]] has the strength of a [[Truegold]] and possesses purple spider-legs of [[Forged madra]].<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
@@ -117,31 +113,27 @@
 <li>{{spoiler|book=cradle-06-underlord|[[Fisher Gesha]]'s mobile [[Soulsmith foundry]] roamed the [[Blackflame]] camp.<ref name="cradle-06-underlord-c14" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|Gesha is a person with a wrinkled face.<ref name="cradle-06-underlord-c14" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|Gesha is a hunter of [[dreadbeasts]] in the [[Desolate Wilds]].<ref name="cradle-06-underlord-c14" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] once studied old notes with [[Fisher Gesha]].<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Fisher Gesha]] is a [[Sage]] who offered her [[life]] to atone for her actions.<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Fisher Gesha]] reacted poorly to being summoned.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Fisher Gesha]] has [[Soulsmithing]] facilities in tunnels.<ref name="cradle-12-waybound-c6" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|Gesha asked [[Seisha]] to work on a welcoming display for the [[Seven-Year Festival]].<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-03-blackflame|Lindon let out a sigh of relief. “Of course,” Lindon said, thinking of the scales he had Forged for Fisher Gesha.<ref name="cradle-03-blackflame-c10" />}}

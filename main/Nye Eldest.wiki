@@ -14,30 +14,27 @@
 {{spoiler|book=tg-03-city-of-light|[[The Nye]] [[Eldest]], also known as the [[Eldest]] [[Nye]] or Old [[Nye]], is the leader of [[the Nye]], a race of humanoid entities composed entirely of shadow and cloth rather than flesh. While most [[Nye]] are identical in appearance, the [[Eldest]] is distinguished by his great age, appearing hunched and wearing a faded, storm-gray robe with exceptionally long, voluminous sleeves that hide his hands. He moves with a gliding motion as if he lacks feet, and his voice is described as raspy or grating, similar to a death rattle or the sound of wind through sheets. The [[Eldest]] serves as a keeper and guardian within [[the House]], possessing abilities that exceed those of his kind, such as enhanced sight and the capacity to move through walls. He holds a title that is passed down to a successor upon his death. Historically, [[the Nye]] have been bound to their territory, and the [[Eldest]] maintains a deep connection to [[the House]]'s past, including the era of the Wanderer and the original [[binding]] of the [[Territory]]. He is characterized by his loyalty to a master, whom he serves with great devotion, and he possesses the power to manipulate or communicate with other guardians. Despite his ancient and sometimes intimidating presence, he has shown a willingness to assist humans, such as by opening long-sealed workshops or offering his help to those he deems worthy.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|An elder [[Nye]] exists who appears aged, with a worn and faded outer robe.<ref name="tg-01-house-of-blades-c8">''House of Blades'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The old [[Nye]] has the ability to know information like [[Simon]]'s father's name without being told.<ref name="tg-01-house-of-blades-c8" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The [[Nye Eldest]] can produce a blue-white cloud of light from his hood.<ref name="tg-01-house-of-blades-c9">''House of Blades'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Nye Eldest]] once gave [[Simon]] a black box.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Eldest]] [[Nye]] is a member of [[the Nye]] family.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Eldest]] [[Nye]] said he won't attune the mask.<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The [[Eldest]] [[Nye]] restored an [[Incarnation]]'s body to [[Valinhall]] and made him an extension of the [[Territory]].<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Eldest]] [[Nye]] claims to still have a task for the person he restored.<ref name="tg-03-city-of-light-c5" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|“There is little I cannot find out, son of Kalman, if I have a mind to know it. And a reason.”<ref name="tg-01-house-of-blades-c8" />}}

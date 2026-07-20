@@ -5,14 +5,13 @@
 }}
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Gunder]] is a man who works on maintenance robots.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Gunder]] is not a mage or a student of the [[Magic Tower]].<ref name="lh-04-the-pilot-c37" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Gunder]] possesses a plasma pistol.<ref name="lh-04-the-pilot-c37" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Gunder]] is a man who is not a magic guy.<ref name="lh-04-the-pilot-c37" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|“Not a magic guy myself, but I got the sense they wanted anything they could grab.”<ref name="lh-04-the-pilot-c37" />}}

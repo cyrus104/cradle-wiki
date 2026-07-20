@@ -11,8 +11,8 @@
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Cana serves as the capital city of [[Damasca]] and a significant realm that houses the Royal Palace and the [[Hanging Tree]]. Located southeast of the current battlefield, the city is under the command of [[Talos]]. Following a meeting in [[the House]], [[Denner]] and [[Indirial]] returned to Cana with [[Simon]]. Although an attack on the city was being planned by the [[Grandmasters]], who desired to see it burn, the [[Incarnation]] has since sealed Cana so that there is no way in or out.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The Royal Palace is located in [[Cana]].<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Cana]] is the capital city of [[Damasca]].<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Cana]] is a capital city.<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
@@ -28,14 +28,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Cana]] is a city containing a [[Tree]].<ref name="tg-02-crimson-vault-c23" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|There is no way in or out of [[Cana]] because the [[Incarnation]] has it sealed up tight.<ref name="tg-02-crimson-vault-c25">''The Crimson Vault'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Cana]] is a location commanded by [[Talos]].<ref name="tg-02-crimson-vault-c25" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|Cana serves as the [[Damascan]] capital, a city characterized by its stone walls and massive metal doors set into stone. For six months, the location was sealed beneath a crimson dome of light that turned its sky scarlet, and during this time, the [[Overlord of Cana]] borrowed personnel from Feiora. While [[Rhalia]] and [[Cynara]] engaged in combat within the streets, rumors suggested that [[Incarnations]] might be gathering there. Although the city can be reached via a Gate, various groups have avoided the area since its barrier fell. Currently, [[King]] [[Zakareth]] stands upon the city's walls, claiming to be securing the site despite the fact that the top of the fortifications lies in ruins.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">20</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">20</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Cana]] is a city.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Cana]] is the [[Damascan]] capital and has been sealed within a barrier of crimson power for six months.<ref name="tg-03-city-of-light-c4">''City of Light'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Overlord of Cana]] borrowed some of Feiora's personnel.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
@@ -56,8 +55,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|The stone walls of [[Cana]] are visible miles away from the tent.<ref name="tg-03-city-of-light-c22" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Cana]] has walls.<ref name="tg-03-city-of-light-c23">''City of Light'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The top of [[Cana]]'s wall is in ruins.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|“We would see Cana burn,” Grandmaster Endross said.<ref name="tg-02-crimson-vault-c12" />}}

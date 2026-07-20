@@ -19,8 +19,8 @@
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|Charity is an [[Akura]] aunt who maintains a strict intolerance for cheating. As a [[Sage]] distinguished by her purple eyes, she holds a position of authority within the clan. Following [[Mercy]]'s advancement, the young woman is required to report directly to Charity to arrange for transport.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Charity]] is an [[Akura]] aunt.<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Charity]] does not tolerate cheating.<ref name="cradle-06-underlord-c7">''Underlord'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Charity]] is a [[Sage]] with purple eyes.<ref name="cradle-06-underlord-c13">''Underlord'', chapter 13</ref>}}</li>
@@ -28,14 +28,13 @@
 <li>{{spoiler|book=cradle-06-underlord|[[Mercy]] must report to [[Charity]] for transport after advancing.<ref name="cradle-06-underlord-c20" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Charity]] is a [[Sage]].<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Charity]] has purple eyes.<ref name="cradle-06-underlord-c21" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|An [[Archlady]] and acquaintance of [[Lindon]], Charity provides close combat training programs for [[Coppers]] that cover defensive techniques, weaponry, and movement. Her living [[Forger technique]] utilizes silver-and-purple owls crafted from her unique blend of shadow and dream madra, a substance that causes [[Dross]] headaches. While wearing [[sacred arts]] robes, she observes the [[arena]] from her mansion on the [[Akura]] floating mountain, where she watches [[Lindon]] on a display and provides him with scales. Throughout the events, she expresses concern for team safety, gives [[Lindon]] a transmission construct, and observes [[Yerin]] blindfolding herself. Charity remains astonished by the fighting and even speculates that the [[dragon]] girl might eventually become a [[Sage]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Charity]] is [[Lindon]]'s acquaintance/peer.<ref name="cradle-07-uncrowned-c3">''Uncrowned'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Charity]] provides training programs for [[Coppers]] in close combat.<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Charity]] took [[Lindon]] through examples of movement, weapon, and defensive techniques.<ref name="cradle-07-uncrowned-c4" />}}</li>
@@ -54,14 +53,13 @@
 <li>{{spoiler|book=cradle-07-uncrowned|[[Charity]] possesses [[madra]] that causes [[Dross]] headaches.<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Charity]] was astonished by the fight.<ref name="cradle-07-uncrowned-c20">''Uncrowned'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Charity]] is someone [[Lindon]] does not want to look in the eye right now.<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|A member of the [[Akura head family]] and the daughter of [[Akura Fury]], Charity is an [[Overlady]] [[Sage]] who maintains a storehouse at [[Night Wheel Valley]]. During the [[Uncrowned ceremony]], she floated behind [[Mercy]] and utilized her sixth technique, the [[Dream of Darkness]], to widen a pool of shadow beneath them. While in [[Moongrave]], she provided [[Yerin]] with access to tournament records and trapped her within a boundary field to perform a spiritual scan. Charity also investigated [[Yan Shoumei]]'s [[Blood Shadow]], noting that such combat serves as excellent willpower training, and she eventually restrained [[Min Shuei]]. Alongside [[Min Shuei]], Charity was tasked with directly handling [[Lindon]]'s training.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">28</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">28</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Charity]] is a member of the [[Akura head family]].<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Charity]] floated behind [[Mercy]] during the [[Uncrowned ceremony]].<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Charity]] stood behind [[Mercy]] with an owl on her shoulder.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
@@ -90,14 +88,13 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Charity]] restrained [[Min Shuei]].<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Charity]] is an [[Overlady]].<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Charity]] stated that fighting a [[Blood Shadow]] is the best willpower training.<ref name="cradle-08-wintersteel-c26" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
 {{spoiler|book=cradle-09-bloodline|As the [[Sage of the Silver Heart]], Charity maintained a masked expression while managing [[Lindon]]'s points and engaging in a private, unheard exchange with [[Uncle Fury]]. To facilitate an exit for [[Lindon]] and [[Yerin]], she utilized a [[void key]] to expand the [[Sky’s Edge gate]] into a wide screen of darkness. During this process, she wielded three sacred instruments—a silver sickle, a [[steel]] shield bearing a grinning monstrous face, and a [[liquid steel]] tool of concealment—while using an owl to communicate. Charity further utilized purple-and-silver madra shields to protect a fleet of ships and traveled via a column of darkness. After providing essential information to [[Lindon]] and [[Dross]], she demonstrated her ability to open portals and animate techniques, though she had never directly commanded [[Dreadgods]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Charity]] is the [[Sage of the Silver Heart]].<ref name="cradle-09-bloodline-c2">''Bloodline'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Charity]]'s face was a mask.<ref name="cradle-09-bloodline-c3">''Bloodline'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Charity]] is taking care of [[Lindon]]'s points.<ref name="cradle-09-bloodline-c3" />}}</li>
@@ -116,22 +113,20 @@
 <li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] would have to thank [[Charity]] upon their return.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Charity]] has opened portals and brought techniques to [[life]].<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Charity]] had not commanded [[Dreadgods]] directly.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Charity]] is one of the two remaining pillars of the [[Akura]] family with [[Malice]].<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Charity]] is [[Akura Malice]]'s granddaughter.<ref name="cradle-10-reaper-c9">''Reaper'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|A member of the head family who is over a hundred and fifty years old, Charity reached the [[Archlord]] stage at a relatively young age before becoming a [[Sage]]. Although she has never attempted to advance to [[Monarch]], she swore an oath to [[Akura Malice]] to keep the connection between [[Dreadgods]] and [[Monarchs]] secret. While watching [[Moongrave]] from across the city, she took [[Mercy]] to the location and eventually intervened to assist [[Lindon]] during a [[Titan]]'s attack. A specialist in mental [[Enforcer techniques]], she utilizes the [[Will-Heart Resonance]] technique from her Book and carries a vibrating sickle. During combat, she can use a silver flash from [[Min Shuei]]'s soul to cleanse techniques while her spiritual perception sweeps over the city.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Charity]] watches the city of [[Moongrave]] from across the city.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Charity]] is a member of the head family.<ref name="cradle-11-dreadgod-c12">''Dreadgod'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Charity]] has never attempted to advance to [[Monarch]].<ref name="cradle-11-dreadgod-c12" />}}</li>
@@ -145,14 +140,13 @@
 <li>{{spoiler|book=cradle-11-dreadgod|[[Charity]] specializes in mental [[Enforcer techniques]].<ref name="cradle-11-dreadgod-c18">''Dreadgod'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Charity]] carries a vibrating sickle.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Charity]] took [[Mercy]] to [[Moongrave]].<ref name="cradle-11-dreadgod-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|As a lesser [[sacred artist]], Charity maintains a connection to the [[Heart Icon]], though she initially struggled to withstand even a single strike from the [[Dreadgod weapon]]. After successfully awakening the [[Heart Icon]], she demonstrated techniques specifically suited for the role of a jailer, including the ability to overcome mental enhancements through the use of script formation within a cell. During a confrontation involving shadow swords, she appeared to be performing well before ultimately betraying [[Malice]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Charity]] is a lesser [[sacred artist]].<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Charity]] has a connection to the [[Heart Icon]].<ref name="cradle-12-waybound-c10" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Charity]] is hard-pressed to deal with a single attack from the [[Dreadgod weapon]].<ref name="cradle-12-waybound-c10" />}}</li>
@@ -161,16 +155,14 @@
 <li>{{spoiler|book=cradle-12-waybound|[[Charity]] can overcome mental enhancements with the aid of script formation in a cell.<ref name="cradle-12-waybound-c26" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Charity]] seemed all right during the fight against shadow swords.<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Malice]] was betrayed by [[Charity]].<ref name="cradle-12-waybound-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Charity]] is in charge of the [[Ashwind continent]].<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Charity]] has a territory.<ref name="cradle-13-threshold-c13" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-07-uncrowned|“We have reason to worry for the safety of our teams,” Charity said.<ref name="cradle-07-uncrowned-c9" />}}

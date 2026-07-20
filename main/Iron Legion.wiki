@@ -11,8 +11,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|[[The Iron]] [[Legion]] is an enemy military force composed of a swarm of abominations consisting of machines forcibly fused with living beings. Operating from [[Hives]], this group utilizes various technologies including hunter-ships, drop-pods, and short-range boarding devices known as [[Penetrators]] to conduct aggressive attacks. While they have functioned without a leader by mindlessly devouring and replicating following the destruction of their [[King]], they also utilize Bishops for control and possess a drive to make everything part of the [[Legion]]. Their massive fleets, which include thousand-yard battleships made of half-metal and half-flesh, can enter systems from [[Subspace]] to invade territories and colonies. Currently, the [[Legion]] has caused significant damage to [[The Last Horizon]] and continues to push aggressively into [[Galactic Union]] territory.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">55</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">55</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Iron Legion]] is a swarm of abominations consisting of machines forcibly fused with living beings.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Iron Legion]] had a ritual room in the [[Hive]].<ref name="lh-01-the-captain-c3" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|A ritual was intended to raise a new [[King of the Iron Legion]].<ref name="lh-01-the-captain-c3" />}}</li>
@@ -68,14 +68,13 @@
 <li>{{spoiler|book=lh-01-the-captain|The [[Iron Legion]] is a group that the characters are engaged in a crusade against.<ref name="lh-01-the-captain-c44" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Iron King]] maintains a link to the [[Iron Legion]].<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Captain]] requested the destruction of the [[Iron Legion]].<ref name="lh-01-the-captain-c48">''The Captain'', chapter 48</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|Following the recent destruction of their [[Grand Hive]], the [[Iron]] [[Legion]] emerged as a priority concern for the [[High Council of the Advocates]]. This group, which had previously been fought by [[Starhammer]] during his conquest, utilizes Bishops capable of deploying various spells, viruses, and parasites, while also turning [[Contrasaurs]] into Behemoths. During their campaign, the [[Legion]] cut through [[Jak]]'s system fleet and deployed a hundred thousand [[Pawns]] from a [[Hive]] that resembles a moon at night. Despite their ability to outnumber the narrator's forces and their full strength facing down [[The Last Horizon]], the [[Legion]] eventually fell after being targeted by [[Sola]] and fought by [[Varic]]'s crew.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The [[Iron Legion]]'s [[Grand Hive]] was recently destroyed.<ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Iron Legion]] was one of the groups [[Starhammer]] fought during his conquest.<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Iron Legion]] is a priority concern for the [[High Council of the Advocates]].<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}</li>
@@ -91,14 +90,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|The [[Iron Legion]] is a group that [[Varic]]'s crew fought against.<ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Iron Legion]]'s full force faced down [[The Last Horizon]].<ref name="lh-02-the-engineer-c33" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Iron Legion]] is mentioned in comparison to the magical defenses being used.<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Spanning across the galaxy, the [[Iron]] [[Legion]] is a group of straightforward villains that spreads like a virus without regard for witnesses. Engaged in conflict with the Karoshans, they were responsible for an ambush that resulted in [[Kyri Prest]] losing her arm. While the narrator and [[Raion]]'s crew both fought against them, the [[Legion]] was eventually cleared from the [[Lesser Karoshan system]] and became the subject of a hunt. Though they are known for creating new weapons, their power is such that [[Neth’terith]]'s swarm could become a threat comparable to them, and they were even summoned by [[Starhammer]] to create an [[Iron King]]. To combat them, the [[D’Niss]] employ different tactics.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Iron Legion]] is a group responsible for an ambush that cost [[Kyri Prest]] her arm.<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Iron Legion]] is in conflict with the Karoshans.<ref name="lh-03-the-knight-c1" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Iron Legion]] is a group that [[Neth’terith]]'s swarm could become a threat comparable to.<ref name="lh-03-the-knight-c2">''The Knight'', chapter 2</ref>}}</li>
@@ -112,14 +110,13 @@
 <li>{{spoiler|book=lh-03-the-knight|[[Raion]]'s crew fought the [[Iron Legion]].<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Iron Legion]] is a group that the [[D’Niss]] use different tactics against.<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Iron Legion]] makes new weapons.<ref name="lh-03-the-knight-c43">''The Knight'', chapter 43</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|[[The Iron]] [[Legion]] is an entity that creates objects from twisted [[steel]] and iron, potentially utilizing the conquest of planets to further its service. This group has been engaged in ongoing conflicts with the [[Galactic Union]] for centuries, and their technology has been discovered within biological remains and shipments aboard the [[Vallenar]]. The [[Legion]] utilizes experimental subjects and has left behind victims across various worlds, including the landmass of [[Fathom]]. Because of their dangerous nature and history of taking individuals like the [[Captain]]'s father, figures such as [[Sola]] have conducted mercenary missions and utilized contacts to track their movements. While the [[Legion]] remains ready to serve, groups like the [[Fallen Sword]] are dedicated to their destruction.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">19</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|Speculation suggests [[The Last Horizon]] may be conquering planets in service to the [[Iron Legion]].<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Processor]] does not approve of the [[Iron Legion]]'s goals or methods.<ref name="lh-04-the-pilot-c2" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Captain]]'s father was taken by the [[Iron Legion]].<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
@@ -139,8 +136,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|The [[Iron Legion]] creates things made of twisted iron and [[steel]].<ref name="lh-04-the-pilot-c39" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Several planets along the [[Iron Legion]] report withdrawals.<ref name="lh-04-the-pilot-c40">''The Pilot'', chapter 40</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Sola]] wants to stop the [[Iron Legion]].<ref name="lh-04-the-pilot-c42">''The Pilot'', chapter 42</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“Now let’s get the Iron Legion off us,” I said.<ref name="lh-01-the-captain-c16" />}}

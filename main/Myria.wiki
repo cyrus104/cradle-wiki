@@ -11,8 +11,8 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|Located on flat, sandy plains near a desert and the northwestern edge of the [[Latari Forest]], Myria is a riding-accessible village. The settlement is encircled by head-high wooden walls made of sharp sticks and features a north [[gate]]. Though it currently exists as scorched ruins, the village is surrounded by rocky bluffs and sits near an entrance to [[Orgrith Cave]] large enough to hold half of its population. Myria serves as the origin for [[Alin]]'s party and was intended to be the destination for [[Simon]]'s group, representing a place to which people can be returned.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">14</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Myria]] is a place that can be reached by riding.<ref name="tg-01-house-of-blades-c1">''House of Blades'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Myria]] is a village encircled by head-high wooden walls made of sharp sticks.<ref name="tg-01-house-of-blades-c2">''House of Blades'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The village of [[Myria]] is located near a desert.<ref name="tg-01-house-of-blades-c2" />}}</li>
@@ -27,14 +27,13 @@
 <li>{{spoiler|book=tg-01-house-of-blades|[[Myria]] is a place from which [[Alin]]'s party originates.<ref name="tg-01-house-of-blades-c17">''House of Blades'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Myria]] is a destination the people can be taken back to.<ref name="tg-01-house-of-blades-c17" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Myria]] is a destination [[Simon]]'s group intended to reach.<ref name="tg-01-house-of-blades-c22">''House of Blades'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Located near the [[Latari Forest]], Myria is a village protected by gates and watchmen. [[Alin]] previously entered the settlement through the [[Naraka Gate]], where he once used a simple cot, and [[Leah]] spent several years residing there. While [[Simon]] intended to liberate his friends from the village, he remained no different to [[Leah]] than he was to [[Alin]] or other locals. The village eventually faced devastation when it was raided by the [[Damascan army]] and attacked by an [[Endross Traveler]]. During these conflicts, battles between [[Naraka creatures]] and residents of the [[City of Light]] echoed through the area as a [[Naraka Incarnation]] fought upon its sands.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Myria]] is a village near the [[Latari Forest]].<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] intended to free his friends from [[Myria]].<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Myria]] is a village.<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}</li>
@@ -47,17 +46,15 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Myria]] is a village that was raided by [[Damascans]] and attacked by an [[Endross Traveler]].<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The battles between the [[City of Light]] residents and [[Naraka creatures]] echo in the village of [[Myria]].<ref name="tg-02-crimson-vault-c24" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Naraka Incarnation]] fought on the sand of [[Myria]].<ref name="tg-02-crimson-vault-c24" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Myria]] was burned by the [[Naraka Incarnation]].<ref name="tg-03-city-of-light-c4">''City of Light'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|A girl [[Simon]] sees reminds him of [[Myria]].<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Myria]] is a location where [[Alin]] once opened the [[Gates]] to [[Elysia]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|“Okay then,” Simon said, as soon as Alin and his hound had left. “You two can get everybody back to Myria on your own, can’t you?”<ref name="tg-01-house-of-blades-c17" />}}

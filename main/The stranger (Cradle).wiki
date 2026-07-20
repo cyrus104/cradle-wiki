@@ -5,13 +5,12 @@
 }}
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The stranger is a young man with a [[Remnant prosthetic]] right arm made of white light.<ref name="cradle-05-ghostwater-c1">''Ghostwater'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The stranger wears a pin with a green cloud emblem of the [[Skysworn]].<ref name="cradle-05-ghostwater-c1" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The stranger's [[madra]] is described as being like a pure, untainted spring.<ref name="cradle-05-ghostwater-c1" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

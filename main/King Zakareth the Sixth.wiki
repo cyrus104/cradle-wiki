@@ -17,17 +17,16 @@
 {{spoiler|book=tg-03-city-of-light|King [[Zakareth]] the Sixth is the ruler of [[Damasca]] and [[Cana]], holding titles such as [[Lord]] of the Morning and Evening [[Star]]. A powerful warrior in his sixties with gray hair and a muscular build, he is known for wearing black and gold armor reinforced by rubies from [[Ornheim]]. His appearance is distinguished by a tall, peaked black-and-gold crown set with a large [[ruby]] and a unique ocular feature: while his right eye is blue, his left eye was replaced by a glowing red stone from the [[Crimson Vault]]. He frequently carries a spear and a large black shield in combat. As the [[Incarnation of Ragnarus]], [[Zakareth]] possesses the ability to perceive scarlet potential within living beings. His reign has been marked by long-standing preparations for war and the sacrifice of many lives to protect his people from [[Incarnations]]. However, his actions have also drawn significant condemnation; he has been accused of murdering [[Kai]], corrupting [[Indirial]], and declaring war on [[the House]]. His leadership is characterized by an absolute, commanding presence and a belief in directing power toward specific purposes. Currently, he faces challenges regarding his succession, with [[Leah]] and [[Talos]] identified as his potential heirs, amidst a period of global instability involving the [[Incarnations]] and the rising threat of [[Enosh]].}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Zakareth]] the Sixth is the Morning and Evening [[Star]] of the [[Damascan Kingdom]].<ref name="tg-01-house-of-blades-c19">''House of Blades'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|[[Zakareth]] the Sixth maintains his rule upon the throne of [[Damasca]], having previously served as the [[Damascan]] [[Successor]]. As the father of [[Talos]], His Majesty has appointed [[Leah]] to be his official successor. A warrior-king supported by the full might of Ragnarus, he carries a large black shield and a gold-headed spear while clad in [[ruby]]-decorated black and gold armor. He wears a tall, spiked crown of matching colors featuring a single [[ruby]] above his forehead. Although legends claim the [[King of Damasca]] possesses a red eye capable of seeing spirits, hearts, or the future, [[Zakareth]] wears a black eyepatch over one eye, leaving him with only one good eye.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Zakareth]] the Sixth remains on the throne of [[Damasca]].<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Zakareth]] the Sixth is His Majesty.<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Zakareth]] the Sixth is the father of [[Talos]].<ref name="tg-02-crimson-vault-c15" />}}</li>
@@ -39,18 +38,16 @@
 <li>{{spoiler|book=tg-02-crimson-vault|Legends say the [[King of Damasca]] has a red eye that can see hearts, spirits, or the future.<ref name="tg-02-crimson-vault-c22" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[King Zakareth the Sixth]] has one good eye and wears a black eyepatch over the other.<ref name="tg-02-crimson-vault-c22" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[King Zakareth the Sixth]] is supported by the full might of Ragnarus.<ref name="tg-02-crimson-vault-c22" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[King Zakareth the Sixth]] is a ruler [[Leah]] must deal with.<ref name="tg-03-city-of-light-c18">''City of Light'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[King Zakareth the Sixth]] is the [[Incarnation of Ragnarus]].<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Zakareth]] the Sixth is accused of murdering [[Kai]] and corrupting [[Indirial]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[King Zakareth the Sixth]] has skin with gold-and-[[ruby]] designs and a rolling fireball of crimson for a stone eye.<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|“Zakareth the Sixth remains on the throne.”<ref name="tg-02-crimson-vault-c4" />}}

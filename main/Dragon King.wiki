@@ -12,34 +12,31 @@
 {{spoiler|book=cradle-12-waybound|[[Seshethkunaaz]], known as the Dragon [[King]], is the monarch of the eastern [[Ashwind continent]]. He typically manifests in the form of a human boy with tanned skin, dark hair, sandy hair, and golden eyes, often wearing a brown cloak. While he holds an admiration for humanity, he harbors a deep disdain for human civilization due to its societal structures that prioritize the weak over the strong. He is characterized by a sense of draconic pride and arrogance, viewing his kind as superior beings. His power is immense; even a glance at him can trigger a sense of danger, and his spirit possesses the strength of an [[Underlord]]. He has subordinates including [[Xorrus]], known as the Desert-bringer, and [[Garrylondryth]], the [[Rootfather]], who served as his right hand. The Dragon [[King]] can project his authority and spirit through a [[Totem]], which can manifest as a golden serpent or a crown of power. He is also associated with the [[Weeping Dragon]], a powerful entity that has grown more cunning and strong following the deaths of other kings.}}
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Dragon King]] may take what he wants if the [[Akura clan]] appears weak.<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Dragon King]] conducts raids to the north.<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Dragon King]] is gaining influence.<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Dragon King]] flies over his throne.<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|Driven by a fierce desire to protect his future champion, the Dragon [[King]] remains deeply dissatisfied with how the contest has unfolded. During a confrontation with [[Malice]], his willpower manifests as a gust of sand shaped like a snarling serpent. Despite the escalating threat posed by this battle, he does not intend to advance further.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Dragon King]] will do anything to protect his future champion.<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Dragon King]] is dissatisfied with the turn of events in the contest.<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Dragon King]]'s willpower is contained in a gust of sand shaped like a snarling serpent.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Dragon King]] was fighting [[Malice]].<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Dragon King]] did not intend to advance despite the threat.<ref name="cradle-08-wintersteel-c28" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Herald]] [[sacred beasts]] have become scarce since the fall of the [[Dragon King]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|"I suppose the Dragon King doesn’t intend to advance. There was a chance he would, given the threat."<ref name="cradle-08-wintersteel-c28" />}}

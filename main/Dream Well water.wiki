@@ -4,13 +4,12 @@
 }}
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Orthos]] and [[Lindon]] were sustained by the [[Dream Well water]].<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] drinks a vial of [[Dream Well water]].<ref name="cradle-05-ghostwater-c13">''Ghostwater'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Little Blue]] lands on a jar filled with [[Dream Well water]].<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

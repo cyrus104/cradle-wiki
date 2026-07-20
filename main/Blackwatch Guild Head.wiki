@@ -16,45 +16,40 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Blackwatch Guild]] Head is a terrifying young woman characterized by her long, silver-toned blond hair. While she can be seen drinking tea, she is often dressed in a long black coat adorned with silver buttons. As the leader of her organization, she is known to issue various whims.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Guild]] Head is a young woman with long blond hair that is almost silver.<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Guild]] Head wears a long black coat with silver buttons.<ref name="ee-sea-01-of-sea-and-shadow-c8" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Blackwatch Guild Head]] is a woman who drinks tea.<ref name="ee-sea-01-of-sea-and-shadow-c8" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Guild]] Head of the [[Blackwatch]] is a terrifying woman.<ref name="ee-sea-01-of-sea-and-shadow-c9">''Of Sea and Shadow'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Blackwatch]] has a [[Guild]] Head who issues whims.<ref name="ee-sea-01-of-sea-and-shadow-c10">''Of Sea and Shadow'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Guild]] Head supervises the [[Blackwatch Guild]].<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[The Guild]] Head met with [[Regent]] [[Loreli]].<ref name="ee-shadow-02-of-darkness-and-dawn-c6">''Of Darkness and Dawn'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[The Guild]] Head has an iron gaze.<ref name="ee-shadow-02-of-darkness-and-dawn-c14">''Of Darkness and Dawn'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A [[Guild]] Head fought a [[Regent]].<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|A [[Guild]] Head is a position of influence.<ref name="ee-sea-03-of-kings-and-killers-c21">''Of Kings and Killers'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Guild]] Head was gone along with the [[Champions]].<ref name="ee-shadow-03-of-killers-and-kings-c18">''Of Killers and Kings'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

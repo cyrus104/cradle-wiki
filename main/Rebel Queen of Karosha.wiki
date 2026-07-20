@@ -5,13 +5,12 @@
 }}
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The narrator has allied themselves with the [[Rebel Queen of Karosha]].<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Rebel Queen of Karosha]] is mentioned by [[Benri]].<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Raion]]'s crew took up with the [[Rebel Queen of Karosha]].<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

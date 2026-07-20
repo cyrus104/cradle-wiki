@@ -4,20 +4,18 @@
 }}
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Garden is a vast underground chamber where the [[Gardeners]] reside.<ref name="ee-shadow-01-of-shadow-and-sea-c7">''Of Shadow and Sea'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Garden is a location where [[Ayana]]'s whistle echoed.<ref name="ee-shadow-01-of-shadow-and-sea-c7" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Garden is a location with subterranean gates.<ref name="ee-shadow-01-of-shadow-and-sea-c7" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Shera]]'s training in the Garden focused on entering and exiting common structures.<ref name="ee-shadow-02-of-darkness-and-dawn-c16">''Of Darkness and Dawn'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

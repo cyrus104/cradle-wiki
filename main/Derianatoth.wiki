@@ -5,14 +5,13 @@
 }}
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Derianatoth]] is a [[dragon]] with a feminine voice.<ref name="cradle-05-ghostwater-c17">''Ghostwater'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Derianatoth]] is a [[Highgold]] [[dragon]].<ref name="cradle-05-ghostwater-c17" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Derianatoth]] was webbed up by [[Mercy]].<ref name="cradle-05-ghostwater-c17" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Derianatoth]] was set to hunt by the [[Monarch]].<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-05-ghostwater|“Humans,” she said in a feminine voice, her speech surprisingly clear.<ref name="cradle-05-ghostwater-c17" />}}

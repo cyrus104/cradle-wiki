@@ -4,20 +4,18 @@
 }}
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Nightworm Venom]] technique eats into armor and corrupts it.<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Nightworm Venom]] is a technique from [[Mercy]]'s third page.<ref name="cradle-08-wintersteel-c5">''Wintersteel'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Nightworm Venom]] is a [[Striker technique]] used by [[Mercy]].<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Nightworm Venom]] is a technique used to spray venom.<ref name="cradle-08-wintersteel-c16" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

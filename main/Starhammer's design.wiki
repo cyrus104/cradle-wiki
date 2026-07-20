@@ -6,11 +6,10 @@
 }}
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Starhammer]] was designed by [[Mell]] with a protective impulse that synergized with his core personality.<ref name="lh-02-the-engineer-c41">''The Engineer'', chapter 41</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|“I didn’t program any…affection into him. Just a protective impulse, which synergized with his core personality.<ref name="lh-02-the-engineer-c41" />}}

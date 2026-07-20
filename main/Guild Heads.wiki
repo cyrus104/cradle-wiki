@@ -9,31 +9,28 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Guild]] Heads are the high-ranking leaders of the various [[Guilds]] that sustain the [[Aurelian Empire]]. These positions are highly respected and well-compensated, representing a pinnacle of achievement for many members. The role often involves significant political interaction with other [[Guilds]] and can require the ability to bond with a specific [[Vessel]], such as a historical weapon. In some organizations, like the [[Blackwatch]], the leader is personally responsible for carrying out executions. The power and influence of a [[Guild Head]] can vary; some possess immense strength, such as the ability to kill with a simple touch, while others may serve specialized roles like the [[Chronicler]] or [[Silent One]] within the [[Witness' Guild]]. While some leaders are elected, others may be appointed by individuals who distrust their respective Councils. The stability of the [[Empire]] is closely tied to these leaders, as they are tasked with protecting their people from threats like the [[Elders]]. However, the position carries risks, as leaders who fail to manage their [[Guilds]] may face sudden and violent removal.}}
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|There are three [[Guild Heads]] onboard the ship.<ref name="ee-sea-02-of-dawn-and-darkness-c2">''Of Dawn and Darkness'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The presence of three [[Guild Heads]] in the [[Capital]] causes a stir.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Guild Heads]] arrived on [[Calder's ship]].<ref name="ee-sea-02-of-dawn-and-darkness-c6" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Some [[Guild Heads]] are only elected if they can bond to a particular [[Vessel]].<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Guild Heads]] are entities that must be fought through.<ref name="ee-shadow-02-of-darkness-and-dawn-c22" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Guild Heads]] stayed to witness the fight.<ref name="ee-shadow-03-of-killers-and-kings-c8">''Of Killers and Kings'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The meeting consisted only of [[Guild Heads]].<ref name="ee-shadow-03-of-killers-and-kings-c10">''Of Killers and Kings'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Guild Heads]] have opinions on how to win the upcoming fight.<ref name="ee-shadow-03-of-killers-and-kings-c10" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Emperor]] knows the [[Guild Heads]] personally.<ref name="ee-shadow-03-of-killers-and-kings-c13">''Of Killers and Kings'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“The Guild Heads came in on my ship,” he yelled into the man’s ear.<ref name="ee-sea-02-of-dawn-and-darkness-c6" />}}

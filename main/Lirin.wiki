@@ -10,8 +10,8 @@
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|While his father was lost in thought, Lirin was instructed to place his hand into a bowl and cycle his [[madra]]. Despite worries that the process might cause him pain, he followed the directions while his parents remained concerned for his safety. Upon placing his hand in the bowl, Lirin experienced a reaction from his cores as two forms of power resonated with the energy within. This interaction ultimately produced a blue-white cloud and a sculpture that resembled a frozen tree.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Lirin's father]] was lost in thought.<ref name="cradle-12-waybound-c39">''Waybound'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lirin's father]] instructed him to put his hand into a bowl and cycle his [[madra]].<ref name="cradle-12-waybound-c39" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lirin]] was worried that putting his hand in the bowl might hurt.<ref name="cradle-12-waybound-c39" />}}</li>
@@ -19,8 +19,7 @@
 <li>{{spoiler|book=cradle-12-waybound|When [[Lirin]] put his hand in the bowl, he felt a reaction from his cores.<ref name="cradle-12-waybound-c39" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|Two forms of power from [[Lirin]]'s cores resonated with the energy in the bowl.<ref name="cradle-12-waybound-c39" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lirin]]'s interaction with the bowl produced a blue-white cloud and a sculpture resembling a frozen tree.<ref name="cradle-12-waybound-c39" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

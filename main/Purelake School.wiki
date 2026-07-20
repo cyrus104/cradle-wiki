@@ -6,12 +6,11 @@
 }}
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The disciples of the [[Purelake School]] are numerous in the [[Desolate Wilds]].<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Jai Chen]] will stay with the [[Purelake School]] for a while.<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

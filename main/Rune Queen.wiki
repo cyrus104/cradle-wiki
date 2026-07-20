@@ -15,8 +15,8 @@
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|The Rune [[Queen]] possessed a powerful [[madra]] that could be consumed and vented, though it clashed with [[Ziel]]'s own energy. Her influence was marked by the provision of silver runes and a script containing a [[dragon]] [[Remnant]]. After moving [[Shatterspine Castle]], she eventually left the stronghold and died shortly thereafter.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Rune Queen]] left the castle and died soon after.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Rune Queen]] is dead.<ref name="cradle-11-dreadgod-c13">''Dreadgod'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Rune Queen]] moved [[Shatterspine Castle]] and is now dead.<ref name="cradle-11-dreadgod-c13" />}}</li>
@@ -24,17 +24,15 @@
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Rune Queen]] has a script containing a [[dragon]] [[Remnant]].<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Rune Queen]] possesses [[madra]] that can be consumed and vented.<ref name="cradle-11-dreadgod-c19" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Rune Queen]] provides silver runes.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Ziel]] is experimenting with the [[Rune Queen’s array]].<ref name="cradle-12-waybound-c7">''Waybound'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Rune Queen]]'s authority can alter reality through manipulations of her ancient script.<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Rune Queen]] created the [[Grand Oath Array]].<ref name="cradle-12-waybound-c20">''Waybound'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-11-dreadgod|“We cannot come at the bidding of the Rune Queen,” Orthos said. “She’s dead.”<ref name="cradle-11-dreadgod-c13" />}}

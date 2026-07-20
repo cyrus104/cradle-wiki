@@ -11,8 +11,8 @@
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|Penance is a heavenly weapon and silver-edged black arrowhead that serves as a prize in a tournament where eight people compete for its possession. This weapon, which feels like death and finality, is capable of removing a [[Dreadgod]] and has even prevented [[Seshethkunaaz]] from becoming a [[Remnant]]. While many entities like the [[Akura clan]], [[Reigan Shen]], and various [[dragons]] seek to win it, the item remains beyond the reach of even the [[Monarchs]]. [[Eithan]] may claim the weapon to blackmail [[Reigan Shen]], and its presence as a threat currently forces enemies to follow rules and prevents [[Heralds]] from attacking [[Fury]]. Ultimately, the arrowhead is handed to [[Yerin]] by an [[Abidan]], providing her with a technique that could kill [[Malice]] or Sophara's great-grandfather.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">21</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">21</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Penance]] is a weapon that can be used to remove a [[Dreadgod]].<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Penance]] is a prize that can be obtained in the tournament.<ref name="cradle-08-wintersteel-c2" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth]] will use [[Penance]] on [[Akura Malice]] or [[Northstrider]].<ref name="cradle-08-wintersteel-c2" />}}</li>
@@ -34,31 +34,28 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Penance]] is described as feeling like death and finality.<ref name="cradle-08-wintersteel-c28" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Penance]] is something [[Yerin]] can use.<ref name="cradle-08-wintersteel-c28" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Penance]] prevented [[Seshethkunaaz]] from becoming a [[Remnant]].<ref name="cradle-08-wintersteel-c28" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Penance]] is a weapon that had instantly slain a [[Monarch]].<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Penance]] is an arrowhead of absolute death created by [[Ozmanthus]].<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Penance]] is a prize gifted to [[Yerin]] by the [[Abidan]].<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Penance]] created prototypes.<ref name="cradle-10-reaper-c21">''Reaper'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Penance]] is a [[Monarch-killing weapon]] of [[Ozmanthus]]'s creation.<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|Penance is a unique, single-use arrowhead that served as the prize for the [[Abidan]]'s [[Uncrowned]] [[King]] tournament. When [[Mercy]] unleashed this attack, the projectile actively sought its intended prey and served as a profound test of will for [[Lindon]]. The weapon does not require a bow or physical contact to function, as it operates by deciding who is dead. Even the cracks in [[Mercy]]'s madra channels carried the authority of this absolute decree, which [[Yerin]] eventually utilized to strike down a [[Monarch]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Penance]] is a one-of-a-kind, single-use weapon.<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Penance]] arrows are a test of will for [[Lindon]].<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Penance]] is an arrowhead that was the prize offered by the [[Abidan]] for the [[Uncrowned]] [[King]] tournament.<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
@@ -69,8 +66,7 @@
 <li>{{spoiler|book=cradle-12-waybound|The cracks in [[Mercy]]'s madra channels carried authority from [[Penance]].<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Penance]] is an absolute decree of death used by [[Yerin]] to strike down a [[Monarch]].<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Mercy]] loosed an attack called [[Penance]].<ref name="cradle-12-waybound-c28">''Waybound'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

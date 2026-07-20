@@ -17,8 +17,8 @@
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Aila Escalon is a ten-year-old [[Combat Artist]] with brown hair and a rare [[Aethertech]] affinity, though she required induced artificial aging to grow beyond that age. Possessing a body made almost entirely of high-grade [[Aethertech]] and an internal [[Drive]], she can manifest four hands from her back that melt into dark goo and utilize a [[Zenith Device]] to pull force-blades from [[Subspace]]. During combat, she employs various [[Combat Arts]], such as the [[Hallow Divide]] and the [[Watchtower Stance]], while utilizing eye augmentations to enhance her vision. As a member of [[Solstice]] and the daughter of [[Omega]], she has engaged in massive battles against foes like the [[Red Divine Titan]], Raion, Sola, and [[Horizon]] simultaneously. Even when her body is partially blown apart, her wounds dissolve into black ooze to regenerate via mass stored in [[Subspace]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">49</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">49</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|Aila is a character who possesses an internal [[Drive]].<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Aila's body is almost entirely made of high-grade [[Aethertech]].<ref name="lh-04-the-pilot-c1" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] is a [[Combat Artist]].<ref name="lh-04-the-pilot-c1" />}}</li>
@@ -68,8 +68,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|Aila's wounds dissolve into black ooze and begin to regenerate immediately.<ref name="lh-04-the-pilot-c46" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Aila used the [[Zenith Blade]] for protection.<ref name="lh-04-the-pilot-c46" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Sola had been fighting Aila.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|Unfortunately,” Elios said, “her Aethertech affinity is particularly rare.<ref name="lh-04-the-pilot-c13" />}}

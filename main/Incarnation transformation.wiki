@@ -6,12 +6,11 @@
 }}
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Incarnations]] are most dangerous at the instant they begin their transformation.<ref name="tg-03-city-of-light-c19">''City of Light'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|During transformation, [[Incarnations]] feel an overwhelming compulsion to act according to their [[Territory]].<ref name="tg-03-city-of-light-c19" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

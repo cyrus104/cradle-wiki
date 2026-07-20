@@ -9,53 +9,49 @@
 {{spoiler|book=cradle-13-threshold|The Vroshir are an antagonistic group of world-striding liberators who serve as a primary enemy to the [[Abidan]]. While they lack a unified leadership or shared goals among their members—who often possess conflicting interests and may even be hostile toward one another—they are united by their specific methodology: the liberation of worlds. When discovering a new [[Iteration]], the Vroshir relocate large portions of its population and seize valuable resources, transporting them to massive homeworlds such as [[Amorenthus]] or [[Tal’gullour]]. This process serves to tether these worlds more firmly to the [[Way]], though their incursions often leave behind chaos and instability. Individual Vroshir are exceptionally powerful, with some projected to possess combat capabilities comparable to a [[Judge]]. Their technology and defenses are formidable, utilizing massive fleets, moon-sized guardian beasts, and shields capable of withstanding exploding stars. They are also known to use Void portals to facilitate the transport of captured populations and resources. Historically, the first generation of Vroshir worked for the [[Abidan]], but they eventually turned against them with the intent to dismantle the [[Court of Seven]] and the [[Eledari Pact]]. In recent conflicts, they have been observed targeting strategic sectors, such as [[Sector]] 11, and engaging in large-scale warfare against [[Abidan]] forces across the cosmos.}}
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Vroshir]] are a threat to the [[Iterations]] under [[Abidan protection]].<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|The Vroshir are a group defined by their resistance against the power that rewound the [[Iteration]]. Seeking to expand their influence, they aim to incorporate more worlds into their existing network. During their operations, a Vroshir woman commanded an army composed of ghosts, and the group utilized a bullet infused with their entire will. Currently, the Vroshir are actively conducting an attack against the [[Abidan]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Vroshir]] are a group that resisted the power that rewound the [[Iteration]].<ref name="cradle-06-underlord-c1">''Underlord'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Vroshir]] want to add worlds to their network.<ref name="cradle-06-underlord-c1" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Vroshir]] used a bullet with their entire will.<ref name="cradle-06-underlord-c1" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Vroshir]] woman had an army of ghosts.<ref name="cradle-06-underlord-c1" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Vroshir]] are conducting an attack on the [[Abidan]].<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Vroshir]] is a location containing the stronghold [[Tal’gullour]].<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Vroshir]] are an organization that liberates worlds.<ref name="cradle-07-uncrowned-c18" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Vroshir]] relocate populations to massive [[Vroshir]] Homeworlds.<ref name="cradle-07-uncrowned-c18" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Vroshir]] locked eyes with the [[Abidan]].<ref name="cradle-07-uncrowned-c18" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
 {{spoiler|book=cradle-09-bloodline|The Vroshir are a group of [[bandits]] who conduct raids and cause many deaths while seeking bounties with minimal risk. To protect their ships, they employ protective workings, barriers, and guardian beasts the size of moons. Their warfare relies on the use of fleets and war machines, which has allowed them to regain their momentum.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Vroshir]] used protective workings, barriers, and moon-sized guardian beasts to defend their ships.<ref name="cradle-09-bloodline-c1">''Bloodline'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Vroshir]] are [[bandits]] who seek bounty with minimal risk.<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Vroshir]] use war machines and fleets in their warfare.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Vroshir]] had regained their momentum.<ref name="cradle-09-bloodline-c19" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Vroshir]] are a group that conducts raids and causes many deaths.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|The Vroshir began introducing chaos as they extended their reach to tighten a noose around the [[Abidan]], [[Cradle]], and [[Sector]] 11. During their campaign, they utilized a trap to ambush the Spiders and demonstrated the ability to tear open portals into the Void. While they are capable of reaching into the [[Way]] with a bone-gauntleted hand, the group also acts to save human lives. Despite their ability to sneak into [[Abidan territory]], [[Ozriel]] expects that the Vroshir will not discover his absence for decades.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The [[Vroshir]] are extending their reach and tightening a noose on [[Sector]] 11, [[Cradle]], and the [[Abidan]].<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Vroshir]] are introducing chaos.<ref name="cradle-10-reaper-c3" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Vroshir]] created a trap that ambushed the Spiders.<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
@@ -65,38 +61,34 @@
 <li>{{spoiler|book=cradle-10-reaper|The [[Vroshir]] are a group that tears open portals into the Void.<ref name="cradle-10-reaper-c15" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|A [[Vroshir]] can sneak into [[Abidan territory]].<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Vroshir]] are a group that [[Ozriel]] expects will not discover his absence for decades.<ref name="cradle-10-reaper-c25" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Vroshir]] conducted an intrusion on [[Sanctum]].<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Vroshir]] are an advancing force in various Sectors.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Vroshir]] are an alliance of world-striding liberators who oppose the [[Abidan]].<ref name="cradle-11-dreadgod-c20">''Dreadgod'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Vroshir]] intervention is a suspected cause for interruptions in the [[Way]].<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Vroshir]] has a home-world called [[Tal’gullour]].<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|The Vroshir are a group driven by a desire to claim the contents of various worlds. Rumors suggested they were targeting specific locations, and their history includes the looting or occupation of a thousand worlds. While they cooperated with the [[Abidan]] to establish [[OTEP]], [[Ozriel]] remains a steadfast enemy of the group.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The [[Vroshir]] are a group that people rumored were targeting the location.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Vroshir]] wants the contents of this world.<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Ozriel]] is a steadfast enemy of the [[Vroshir]].<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|A thousand worlds have been looted or occupied by [[Vroshir]].<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Vroshir]] cooperated with the [[Abidan]] to create [[OTEP]].<ref name="cradle-13-threshold-c12" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

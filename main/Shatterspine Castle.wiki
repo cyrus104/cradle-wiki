@@ -11,8 +11,8 @@
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|Resembling the structures found within the [[Wasteland]], Shatterspine Castle is a desert location that fell nearly a millennium ago. Originally moved by the [[Rune Queen]], the site contains a basement beneath its ruins. During a battle, the castle begins to fall apart, leaving portions of it in a state of crumbled stone. Within a dark room at the bottom of these ruins, [[Ziel]] and [[Orthos]] are located.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Shatterspine Castle]] is a place like those in the [[Wasteland]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Shatterspine Castle]] fell almost a thousand years ago.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Shatterspine Castle]] has a basement.<ref name="cradle-11-dreadgod-c13">''Dreadgod'', chapter 13</ref>}}</li>
@@ -21,16 +21,14 @@
 <li>{{spoiler|book=cradle-11-dreadgod|[[Orthos]] and [[Ziel]] are in a dark room of crumbled stone at the bottom of [[Shatterspine Castle]].<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Shatterspine Castle]] is a location where [[Ziel]] is located.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Shatterspine Castle]] is located in a desert.<ref name="cradle-11-dreadgod-c19" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] brought back samples of the [[Rune Queen]]'s [[madra]] from [[Shatterspine Castle]].<ref name="cradle-12-waybound-c4">''Waybound'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] drifted into [[Shatterspine Castle]].<ref name="cradle-12-waybound-c7">''Waybound'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

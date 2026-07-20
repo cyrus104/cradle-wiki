@@ -14,28 +14,26 @@
 {{spoiler|book=lh-04-the-pilot|Teranon is a veteran [[Archmage]] and an elderly half-Aethril characterized by gray, star-speckled hair and skin with a subtle blue tint. He has served as a long-term mentor to [[Benri]] and has been associated with the [[Vallenar Corporation]] for many decades. Within his professional capacity, he possesses significant seniority and expertise in magical disciplines, including the use of divination, telekinesis, and vision-based spells. His responsibilities involve managing magical preparations, overseeing investigation teams, and analyzing data through [[Aetheric symbols]] or specialized magic circles. Teranon has also been involved in addressing serious matters such as potential treaty violations involving [[World Spirits]].}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Teranon]] is a wise man and a longtime [[Archmage]] who was one of [[Benri]]'s mentors.<ref name="lh-01-the-captain-c2">''The Captain'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Teranon]] is a visibly aged half-Aethril with lights that sparkle like stars in his hair.<ref name="lh-01-the-captain-c2" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Teranon]] is a character who interacts with [[Benri]] and [[Varic]].<ref name="lh-01-the-captain-c2" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Teranon]] performs analysis spells.<ref name="lh-01-the-captain-c2" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Teranon]] is a half-Aethril and an advisor to [[Benri Vallenar]].<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Teranon]] is a member of [[Benri]]'s team.<ref name="lh-03-the-knight-c21" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|As a friend and magical mentor to [[Benri]], Teranon serves as an expert in his field rather than a leader. His gray hair possesses a unique sparkle derived from his half-Aethril heritage, and he has the ability to manifest an orange magic circle over his eye to examine data. During a later interaction, [[Benri]] borrowed a spell from him and spoke with Teranon before a call concluded. At this time, Teranon remained unaware of the [[life]]-saving clone measure [[Benri]] had implemented.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] is [[Benri]]'s friend.<ref name="lh-04-the-pilot-c5">''The Pilot'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] was one of [[Benri]]'s magical mentors.<ref name="lh-04-the-pilot-c5" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] is an expert but not a leader.<ref name="lh-04-the-pilot-c5" />}}</li>
@@ -44,8 +42,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Benri]] borrowed a spell from [[Teranon]].<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] spoke to [[Benri]] before the call ended.<ref name="lh-04-the-pilot-c39" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] was unaware of [[Benri]]'s [[life]]-saving clone measure.<ref name="lh-04-the-pilot-c39" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“You think you got him?” Teranon asked bitterly.<ref name="lh-01-the-captain-c2" />}}

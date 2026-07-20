@@ -9,41 +9,37 @@
 {{spoiler|book=lh-04-the-pilot|The [[Dornoth system]] is a significant region within the [[Galactic Union]] and contains several notable celestial bodies. The system's primary inhabitants are the [[Lichborn]], whose culture is reflected in their skeletal-style spacecraft that utilize green light and engines. Dornoth Four serves as the [[Lichborn]] homeworld, supporting a population of approximately one hundred million on the surface and billions more across surrounding space stations. This planet is characterized by a toxic landscape featuring spreading flames that burn hosts from the inside and is frequently cited as one of the most inhospitable inhabited worlds in the galaxy. [[Dornoth III]] is a sister planet covered in purple, featuring heavy orbital infrastructure of metal stations and satellites, though its volcanic activity creates corrosive hazards that threaten these structures. [[Dornoth One]] is another sibling world to the [[Lichborn]] home planet, and [[Dornoth Two]] is subject to storms. The system also contains a heavy shuttle used for transport and orbital defense. Additionally, the region is known for night-diamonds, which are highly valued natural substances.}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The narrator claims not to be a [[Dornoth]] scout.<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Dornoth]] is a swampy landscape.<ref name="lh-01-the-captain-c13">''The Captain'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Dornoth]] is a location where [[Varic]] dumped [[Benri Vallenar]].<ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|Chemical isolation suits are a classic of historical [[Dornoth]].<ref name="lh-03-the-knight-c28">''The Knight'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Dornoth]] is a major system that the [[Swarm-Queen]] might feed on.<ref name="lh-03-the-knight-c34">''The Knight'', chapter 34</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Dornoth serves as a destination for [[Benri]] and [[Nila]], toward which [[Benri]] has ordered a specific course. As the ship travels on this set path, it approaches Dornoth's orbit. This location is known to contain various lockups. Furthermore, the area holds a long and proud history regarding the gift for armor.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Dornoth]] is a destination for [[Benri]] and [[Nila]].<ref name="lh-04-the-pilot-c5">''The Pilot'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Benri]] ordered a course for [[Dornoth]].<ref name="lh-04-the-pilot-c5" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The ship is set on a course for [[Dornoth]].<ref name="lh-04-the-pilot-c9">''The Pilot'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Dornoth]] has an orbit.<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Dornoth]] is a location that contains lockups.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Dornoth]] is a place where the gift for armor has a long and proud history.<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|“You’re lucky I took your call at all after you dumped me on Dornoth.”<ref name="lh-02-the-engineer-c33" />}}

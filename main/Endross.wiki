@@ -11,21 +11,20 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|Endross is a vast desert territory characterized as a blasted wasteland where storms are born. This region experiences daily thunderstorms defined by harsh winds and frequent lightning, though the landscape occasionally features lush jungle oases. The territory is inhabited by [[Travelers]], and members of the Endross are known to wear leather uniforms, such as those worn by a bald man.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Endross]] is a group or type of person whose leather uniform is worn by a bald man.<ref name="tg-01-house-of-blades-c2">''House of Blades'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Endross]] is a place where storms are born and is described as a blasted desert wasteland.<ref name="tg-01-house-of-blades-c3">''House of Blades'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Endross]] is a [[Territory]] described as a vast desert wasteland with occasional lush jungle oases.<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Endross]] is characterized by daily thunderstorms with lightning and harsh wind.<ref name="tg-01-house-of-blades-c4" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Endross]] is a location inhabited by [[Travelers]].<ref name="tg-01-house-of-blades-c7">''House of Blades'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|As one of the four [[Incarnations]] identified by [[Indirial]], Endross holds the rank of Grandmaster. This individual is viewed as dangerously unpredictable and possesses the ability to summon [[Gates]] that resemble rolling thunderstorms. When utilizing their power, storms can be seen swirling around the hands of these [[Travelers]]. Furthermore, Endross is associated with a massive corpse of a flying snake, and their creatures typically regard the kush'da'rosh as the strongest being present.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Endross Travelers]] can summon [[Gates]] that look like rolling thunderstorms.<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Endross]] individuals are considered dangerously unpredictable.<ref name="tg-02-crimson-vault-c7">''The Crimson Vault'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Endross]] is a Grandmaster.<ref name="tg-02-crimson-vault-c7" />}}</li>
@@ -33,14 +32,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Endross Travelers]] have storms swirling around their hands.<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Endross]] is associated with a huge flying snake corpse.<ref name="tg-02-crimson-vault-c21">''The Crimson Vault'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Endross]] is one of the four [[Incarnations]] identified by [[Indirial]].<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|Endross is an unsophisticated beast and a location previously forayed into by [[Simon]]. As one of the [[Grandmasters]] who avoided being spiked at the city gates, this entity is a formidable guardian that once destroyed a mining outpost. The [[Elysian Incarnation]] recruited sixteen [[Endross Travelers]], though the [[Incarnation]] itself previously attempted to kill [[Zakareth]]. Ultimately, Endross kneels to [[King]] [[Zakareth]], revealing wings composed of black stormclouds flashing with heat lightning.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Endross]] will fight.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Endross]] is an unsophisticated beast.<ref name="tg-03-city-of-light-c3">''City of Light'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Endross]] is a place [[Simon]] has forayed into.<ref name="tg-03-city-of-light-c3" />}}</li>
@@ -51,8 +49,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[Endross]] is an [[Incarnation]] who has tried to kill [[Zakareth]].<ref name="tg-03-city-of-light-c19">''City of Light'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Endross Incarnation]] kneels to [[King]] [[Zakareth]].<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Endross]]'s wings are formed of black stormclouds flashing with heat lightning.<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|"Little known facts about the kush'da'rosh," the Grandmaster said. "First, Endross creatures almost always consider it the strongest creature around."<ref name="tg-02-crimson-vault-c11" />}}

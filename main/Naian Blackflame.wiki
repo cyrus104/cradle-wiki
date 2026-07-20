@@ -17,8 +17,8 @@
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|Known as the [[Black Dragon Prisoner]], Naian [[Blackflame]] is a fighter from the [[Blackflame Empire]] and the final descendant of its original royal lineage. Despite his heritage, he lacks the characteristic [[Blackflame]] eyes and remains restrained by scripted chains and a red scripted collar. Though he had anticipated his current circumstances, Naian still manifests a squat, wide orange blade that glows like a sunset from his [[soulspace]] to fight with razor [[steel]]. During the confrontation, [[Fury]] demands that [[Mercy]] crush him within two seconds, an encounter that ultimately allows [[Lindon]] to absorb the original [[Path of Black Flame]] from him.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Black Dragon Prisoner]]'s real name is [[Naian Blackflame]].<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Fury]] wants [[Mercy]] to crush Naian in two seconds.<ref name="cradle-07-uncrowned-c15" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Naian Blackflame]] is shackled with a red scripted collar and scripted chains.<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
@@ -30,17 +30,15 @@
 <li>{{spoiler|book=cradle-07-uncrowned|Naian uses razor [[steel]].<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Naian Blackflame]] was in chains.<ref name="cradle-07-uncrowned-c19" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] absorbed the original [[Path of Black Flame]] from Naian.<ref name="cradle-07-uncrowned-c20">''Uncrowned'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] recently struggled against [[Naian Blackflame]] for control of a [[Ruler technique]].<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Naian Blackflame]]'s blood was sprayed across the floor by Sophara.<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Naian Blackflame]] fought [[Lindon]] in battle.<ref name="cradle-08-wintersteel-c18">''Wintersteel'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-07-uncrowned|“A fighter from the Blackflame Empire versus the last descendant of their original royal family!”<ref name="cradle-07-uncrowned-c16" />}}

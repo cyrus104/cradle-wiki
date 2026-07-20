@@ -16,8 +16,8 @@
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|As a member of the [[Stormcallers]] and a [[Dreadgod cultist]], Calan Archer serves as a sect brother and teammate to [[Therian Nills]]. During an arena battle, he faced [[Yerin]] while meditating in his waiting room, utilizing storm [[madra]] and a [[Thousand-Mile Cloud]] to navigate the combat. Calan demonstrated significant power by using a [[Ruler technique]] to spread a storm, employing [[soulfire]] to repel an [[Archlord]]'s technique, and even drilling through a [[Blood Shadow]]'s hand with a [[Striker technique]]. Throughout his various matches, including a competition against Sophara, he utilized blades to counter the [[Frozen Blade]] technique and conjured a lightning [[dragon]] that fed on a purple lightning spirit. His Goldsigns are characterized by scripted rings of blue-gold lightning, and he possesses seven jade rings.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">21</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">21</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Calan Archer]] is [[Therian Nills]]'s sect brother and team member.<ref name="cradle-08-wintersteel-c5">''Wintersteel'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Calan Archer]] possesses Goldsigns that look like scripted rings of blue-gold lightning.<ref name="cradle-08-wintersteel-c5" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Calan Archer]] is a member of the [[Stormcallers]] and possesses a [[Goldsign]].<ref name="cradle-08-wintersteel-c11">''Wintersteel'', chapter 11</ref>}}</li>
@@ -39,8 +39,7 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Calan Archer]] competed against Sophara.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Calan Archer]] conjured a lightning [[dragon]].<ref name="cradle-08-wintersteel-c27" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Calan Archer]]'s [[dragon]] was feeding on a purple lightning spirit.<ref name="cradle-08-wintersteel-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

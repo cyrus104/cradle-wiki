@@ -11,8 +11,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|Intent is a property carried within the structure of objects, such as wood, copper poles, or doors, which can be improved by lending it to an item over time. This focused purpose can be invested into objects or flowed into materials like wood to issue orders, and it is even used by [[Readers]] as a function for memory storage. While individuals like [[Calder]] and [[Jerri]] can focus their own Intent, others such as [[Naberius Clayborn]] may produce flows of malicious or great Intent. This [[essence]] can be sensed through the air, read from paper to understand a person's emotions and background, or even felt as impressions left on rocks and remains. Ultimately, Intent can manifest in powerful ways, ranging from the ancient, infinite [[essence]] within the [[Heart]] to the absolute authority [[Calder]] exerts when using the [[Emperor's crown]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">34</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">34</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Intent]] is something that can be bound into objects like wood or copper poles.<ref name="ee-sea-01-of-sea-and-shadow-c1">''Of Sea and Shadow'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Intent]] is a concept where lending it to an object over time helps the item perform its job better.<ref name="ee-sea-01-of-sea-and-shadow-c2">''Of Sea and Shadow'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Intent]] is a property that can be held by doors.<ref name="ee-sea-01-of-sea-and-shadow-c2" />}}</li>
@@ -47,14 +47,13 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Intent]] can be released and smothered by others.<ref name="ee-sea-01-of-sea-and-shadow-c26">''Of Sea and Shadow'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] reads the flow of hostile [[Intent]].<ref name="ee-sea-01-of-sea-and-shadow-c27">''Of Sea and Shadow'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Intent]] can cling to remains or rocks.<ref name="ee-sea-01-of-sea-and-shadow-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Intent is a property of focused will possessed by all humans and is utilized subconsciously by everyone. This human quality can be invested into various objects, such as spoons or knives, to enhance their reliability and sharpness. Such investment can even be applied to the Bones of the [[Dead Mother]]'s [[Children]], or packed into weapons like spiked chains. For a [[Reader]], Intent is a force that can be sensed and manipulated, though its use can be harmful. While it can manifest as a palpable weight or even appear blinding in [[Shera]]'s blade, Intent is ultimately a force subject to degradation.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Intent]] is the power of focused will possessed by all humans.<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Intent]] is a property possessed by humans.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Intent]] is used subconsciously by everyone.<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref>}}</li>
@@ -68,14 +67,13 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Intent]] can be used by a [[Reader]] and can be harmful.<ref name="ee-shadow-01-of-shadow-and-sea-c16">''Of Shadow and Sea'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Intent]] is a force that can degrade.<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Intent]] can be invested in objects like a spoon.<ref name="ee-shadow-01-of-shadow-and-sea-c18">''Of Shadow and Sea'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Intent is a powerful force that can leak from weapons, stain objects like an atmospheric presence, and serve as the greatest weapon for a [[Magister]]. While it can be sensed through [[Reading]] or felt when examining an object, attempting to read a situation's Intent carries significant risk. [[Calder]] demonstrates mastery over this power by commanding the [[Lyathatan]], moving his Intent through chains and buildings, and even detecting a hidden wisp of unusual Intent within [[Emperor (Elder Empire)|the Emperor]]'s chambers. This force can be magnified by the [[Optasia]], used to tear ropes through intense concentration, or even sensed more clearly if a [[Reader]] blinds themselves. Ultimately, Intent is recognized as a language used by [[Great Elders]] and can even reveal a person's internal state, such as when [[Lucan]]'s Intent indicated he was at peace and ready to die.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Intent]] can leak out from a weapon.<ref name="ee-sea-02-of-dawn-and-darkness-c2">''Of Dawn and Darkness'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Lyathatan]] possesses [[Intent]].<ref name="ee-sea-02-of-dawn-and-darkness-c2" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] uses [[Intent]] to command the [[Lyathatan]].<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
@@ -93,14 +91,13 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Blinding oneself is believed to help a [[Reader]] sense [[Intent]] more clearly.<ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Intent]] can be felt when attempting to [[Read]] an object.<ref name="ee-sea-02-of-dawn-and-darkness-c23">''Of Dawn and Darkness'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Intent]] is a language used by [[Great Elders]].<ref name="ee-sea-02-of-dawn-and-darkness-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Intent is a projected power or mental state that can be mustered to manipulate objects, exert physical force, or even raise [[Alagaeus]]'s castle. While it functions as a subtle radiation that [[Readers]] can sense, [[Emperor (Elder Empire)|the Emperor]] possesses the unique ability to read Intent within even the flimsiest objects. This versatile force can be used to perceive thoughts, warp [[steel]], break relay connections, or block weapons, though it requires careful control. Practitioners like [[Jorin]] have explored its deep possibilities, and certain individuals such as [[Shera]] can utilize it despite not being [[Readers]]. Beyond its use in creating weapons through investment or casting [[Bastion's Veil]], Intent can be sensed by others like [[Lucan]] and may even be torn from a [[Magister]] by a [[Soulbound]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">22</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">22</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Intent]] is the power used to raise [[Alagaeus]]'s castle.<ref name="ee-shadow-02-of-darkness-and-dawn-c1">''Of Darkness and Dawn'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Intent]] is a power that can be mustered or used to manipulate objects.<ref name="ee-shadow-02-of-darkness-and-dawn-c1" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Shera]] can use her [[Intent]] even though she is not a [[Reader]].<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
@@ -123,14 +120,13 @@
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Intent]] can be used to exert physical force.<ref name="ee-shadow-02-of-darkness-and-dawn-c18">''Of Darkness and Dawn'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|There are rumors among [[Consultants]] about what happens to [[Intent]] after death.<ref name="ee-shadow-02-of-darkness-and-dawn-c20">''Of Darkness and Dawn'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Shera]] casts her [[Intent]] to create [[Bastion's Veil]].<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Intent is a force capable of paralyzing thoughts and can be found within the [[Steward]]'s crown or left behind by the belongings of an [[Emperor (Elder Empire)|Emperor]]. Through a process called Investment, an object's performance improves based on the quantity, focus, and strength of reinforcing Intent, which can be magnified by a network of earthbound devices. While plants only store this force when utilized by a person, it can also manifest as an invisible surge to seal doors and windows or pulse within a [[diamond]]. Intent serves as one of the three sources used in the [[Awakening]] process and can connect to a user through a [[Soulbound Vessel]], though its presence in complex machinery is treated as a collection of parts. The strength of one's Intent determines the division of possession, and while it is a measurable force, it remains more easily quantified than the concept of [[Significance]] used in [[Reading]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">14</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Steward]]'s crown contains [[Intent]].<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Emperor]]'s belongings leave behind a weight and intensity of [[Intent]].<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Intent]] can paralyze thoughts.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
@@ -145,14 +141,13 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Lyathatan]]'s [[Intent]] is a mix of rage, patience, malice, pragmatism, hunger, and desires.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The division of possession depends on the strength of one's [[Intent]].<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Significance]] is a concept in [[Reading]] that is more difficult to quantify than [[Intent]].<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|Intent is a multi-layered property possessed by objects that can attract [[Readers]] and be sensed through taste or other heightened senses. While it can be invested into items such as battering rams or smoke bombs to accomplish amazing feats, breaking through its bindings requires significant power, a feat [[Emperor (Elder Empire)|the Emperor]] achieved against [[Estyr]]. This medium can be radiated and read by certain individuals, such as [[Lucan]] who sensed a weak presence in a black linen bag, or [[Shera]] who uses her own to reach Kelalrac. Although the clash of Intent can cause the air to crackle between powerful figures, it can also serve as a distraction for [[Gardeners]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Breaking through [[Intent]] requires considerable power.<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Intent]] is a medium that can be radiated and read by certain [[Readers]].<ref name="ee-shadow-03-of-killers-and-kings-c3">''Of Killers and Kings'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Emperor]] could break the [[binding]] of [[Estyr]]'s [[Intent]] with his own.<ref name="ee-shadow-03-of-killers-and-kings-c3" />}}</li>
@@ -166,8 +161,7 @@
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Gardeners]] are more effective when not distracted by [[Intent]].<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The air between the [[Great Elder]] and [[Jorin]] crackled with the clash of [[Intent]].<ref name="ee-shadow-03-of-killers-and-kings-c23">''Of Killers and Kings'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] can reach Kelalrac using her [[Intent]].<ref name="ee-shadow-03-of-killers-and-kings-c26">''Of Killers and Kings'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|"Keep your Intent under control, young woman."<ref name="ee-shadow-02-of-darkness-and-dawn-c10" />}}

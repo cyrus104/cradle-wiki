@@ -18,8 +18,8 @@
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|A [[Herald]] who utilizes [[shadow madra]], Fury is a member of the [[Monarch]]'s family and an ancestor of [[Akura Grace]]. During the conflict, Fury caught a massive chunk of stone and was associated with a ship and rainbow light. As a member of the [[Akura]] team, Fury is also identified as both the uncle and older brother of [[Mercy]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Fury]] uses [[shadow madra]].<ref name="cradle-07-uncrowned-c5">''Uncrowned'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Fury]] is a [[Herald]].<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Fury]] is an ancestor of [[Akura Grace]].<ref name="cradle-07-uncrowned-c7" />}}</li>
@@ -28,14 +28,13 @@
 <li>{{spoiler|book=cradle-07-uncrowned|[[Fury]] is associated with a ship and rainbow light.<ref name="cradle-07-uncrowned-c9" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Fury]] is a member of the [[Akura]] team.<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Fury]] is [[Mercy]]'s uncle and older brother.<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|A [[Herald]] of the [[Akura]] family and the son of [[Mercy]], Fury traveled via cloudship with the intention of slowing down the [[Abyssal Palace]]. While stationed at a fortress to prevent attacks, he became pinned in [[Sky's Edge]] by [[Dreadgod cults]] and gold [[dragons]] while facing threats from enemy [[Heralds]]. During this conflict, he was tasked with watching over [[Lindon]]'s team to ensure no [[Herald]] interference occurred. Fury eventually began to ascend to [[Monarch]], utilizing the authority of a [[Sage]] alongside a second source of power. Following his ascension, he received word regarding [[Yerin]]'s transition into a half-[[Herald]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">27</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">27</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Fury]] is the son of [[Mercy]].<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Fury]] is a member of the [[Akura]] family who delayed their departure to watch the fight.<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Mercy]] mentions [[Uncle Fury]].<ref name="cradle-08-wintersteel-c5">''Wintersteel'', chapter 5</ref>}}</li>
@@ -63,39 +62,35 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] instructs [[Dross]] to tell [[Fury]] something.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Fury]] possesses two different sources of authority.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Fury]] received a report about [[Yerin]] becoming a half-[[Herald]].<ref name="cradle-08-wintersteel-c28" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Fury]] has crimson eyes.<ref name="cradle-09-bloodline-c2">''Bloodline'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Fury]] is gone.<ref name="cradle-09-bloodline-c5">''Bloodline'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Fury]] is a person who was unable to breathe due to a simple script.<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Malice]] gave up [[Fury]].<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The cults in [[Sacred Valley]] bear marks from a fight with [[Fury]].<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Fury]] is the son of [[Malice]].<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Fury]]'s ascension allows bringing people along.<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|As the half-brother of [[Pride]], Fury possesses striking features, including eyes that bear a strong resemblance to those of [[Yerin]]. This entity is capable of performing subtle gestures, such as nodding to a glass marble, and has previously torn open a rift. When Fury's hair drifts upward into a point, his eyes glow red, and he is often seen wearing white gauntlets. Additionally, Fury played a role in [[Lindon]]'s journey by recommending [[Wavedancer]] to him.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Fury]] recommended [[Wavedancer]] to [[Lindon]].<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Yerin]]'s eyes are much like [[Fury]]'s.<ref name="cradle-12-waybound-c26">''Waybound'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Fury]] has torn open a rift.<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}</li>
@@ -103,14 +98,13 @@
 <li>{{spoiler|book=cradle-12-waybound|[[Fury]] wears white gauntlets.<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Fury]]'s eyes glow red when his hair drifts up to a point.<ref name="cradle-12-waybound-c37" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Fury]] is [[Pride]]'s half-brother.<ref name="cradle-12-waybound-c37" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|[[Akura Fury]] is an ascended individual and the half-brother of [[Akura Pride]]. As [[Mercy]]'s uncle, he possesses more experience than almost anyone in [[Cradle]] except for certain [[Monarchs]]. He wears [[Abidan]] armor and utilizes [[Wolf Division]] techniques, often appearing as a streak of white while flying. During combat, he uses a white gauntlet to deliver downward punches and gathers [[madra]] with the intent of punching through the planet. His shadowy hair drifts in unseen currents, and he is capable of using his [[Presence]] to transmit his voice directly into [[Mercy]]'s mind.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Fury]] is [[Mercy]]'s uncle.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Fury]]'s armor blurs into a streak of white when he flies.<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Fury]] has ascended.<ref name="cradle-13-threshold-c6" />}}</li>
@@ -123,8 +117,7 @@
 <li>{{spoiler|book=cradle-13-threshold|[[Fury]]'s [[Presence]] can transmit his voice to [[Mercy]]'s mind.<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Fury]] is [[Mercy]]'s uncle.<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Fury]] is [[Akura Pride]]'s half-brother.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|“Stay safe, tell Uncle Fury I’ll see him soon, and I’ll join you as soon as I can, okay?”<ref name="cradle-08-wintersteel-c5" />}}

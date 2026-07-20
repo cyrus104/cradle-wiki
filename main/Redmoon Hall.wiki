@@ -11,8 +11,8 @@
 == Skysworn ==
 {{spoiler|book=cradle-04-skysworn|[[Redmoon]] [[Hall]] is an organization of servants, including ranks such as [[Jade]] and [[Herald]], who attend to the feeding of the [[Bleeding Phoenix]] by sensing its needs through embedded parasites. This group utilizes emissaries and can appear within a week if the [[Phoenix]] is alerted, having already closed Arelius branches in the south. Currently washing over the southern [[Empire]] like a tide, the entity has nested near the border and attracted the attention of the [[Jai Underlord]]. Although [[Yerin]] serves as an emissary for the group, she has no desire to work for them, and the [[Skysworn]] find themselves in direct opposition to this destructible threat. While [[Redmoon]] [[Hall]] is not pursuing [[Lindon]] and [[Yerin]] specifically, the duo remains wary of engaging in battle against them.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">20</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">20</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Redmoon Hall]] is a group of servants that attend to the [[Bleeding Phoenix]]'s feeding.<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|Members of [[Redmoon Hall]] sense the [[Bleeding Phoenix]]'s needs through parasites embedded in their bodies.<ref name="cradle-04-skysworn-c2" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The ranks of [[Redmoon Hall]] include [[Jade]] and [[Herald]].<ref name="cradle-04-skysworn-c2" />}}</li>
@@ -33,14 +33,13 @@
 <li>{{spoiler|book=cradle-04-skysworn|[[Redmoon Hall]] has closed Arelius branches in the south.<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Emissaries]] from [[Redmoon Hall]] have already performed an action [[Lindon]] mentions.<ref name="cradle-04-skysworn-c17">''Skysworn'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Redmoon Hall]] is a group currently in the [[Empire]].<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|[[Redmoon]] [[Hall]] is an organization composed largely of scavengers that maintains territory on the edge of the [[Ghostwater]] portal. The group's emissaries are identifiable by their black-and-red robes, and they have shown interest in the [[Trackless Sea]] after retrieving an item from within [[Ghostwater]]. While [[Eithan]] identifies them as a threat that he intends to mop up, the group is also known for capturing members to compel them into service for the [[Empire]]. During their travels, [[Yerin]] and [[Mercy]] are perceived as members of this group, and [[Yerin]] herself possesses the power of [[Redmoon]] [[Hall]] within her.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Yerin]] possesses the power of [[Redmoon Hall]] inside her.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Redmoon Hall]] is a group that has members who can be captured and compelled to work for the [[Empire]].<ref name="cradle-05-ghostwater-c2" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Redmoon Hall girl]] is present in the clearing.<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}</li>
@@ -53,29 +52,26 @@
 <li>{{spoiler|book=cradle-05-ghostwater|[[Yerin]] and [[Mercy]] are seen as members of [[Redmoon Hall]].<ref name="cradle-05-ghostwater-c14" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Redmoon Hall]] is interested in the [[Trackless Sea]].<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Redmoon Hall]] retrieved something in [[Ghostwater]].<ref name="cradle-05-ghostwater-c19" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Redmoon Hall]] possesses [[Blood Shadows]].<ref name="cradle-06-underlord-c11">''Underlord'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Redmoon Hall]] is a group on the red floor of the [[Dreadgod]] tower.<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Redmoon Hall]] is a location or faction associated with [[Blacksword]].<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|[[Redmoon]] [[Hall]] is a sect that maintains a presence as one of the groups surrounding the valley. The faction is represented by member [[Yan Shoumei]] and includes individuals such as [[Blacksword]]. Their assets include a red-tinged cloudship adorned with the symbol of a [[Bleeding Phoenix]]. Led by an [[Overlady]], the sect utilizes specialized abilities including a crimson bird technique and a method to break down a [[Blood Shadow]] for power.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Redmoon Hall]] is a sect.<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Blacksword]] is from [[Redmoon Hall]].<ref name="cradle-08-wintersteel-c6" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Redmoon Hall]] is a faction represented by [[Yan Shoumei]].<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
@@ -85,34 +81,31 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Redmoon Hall]] has an [[Overlady]].<ref name="cradle-08-wintersteel-c19" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Redmoon Hall]] has a technique to break down a [[Blood Shadow]] for power.<ref name="cradle-08-wintersteel-c21">''Wintersteel'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Redmoon Hall]] is one of the groups surrounding the valley.<ref name="cradle-08-wintersteel-c24">''Wintersteel'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Malice]] hates [[Redmoon Hall]].<ref name="cradle-09-bloodline-c14">''Bloodline'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|[[Redmoon]] [[Hall]] is an organization that utilizes a massive ship as its mobile headquarters. This great vessel can be seen floating beside the northern peak, where it houses an audience hall for its members. The group includes [[Emissary Kahn Mala]], who serves among the [[Emissaries]] of [[Redmoon]] [[Hall]]. These individuals are tasked with guarding the stone door.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Redmoon Hall]] is a group with a mobile headquarters consisting of a massive ship.<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Redmoon Hall]] has an audience hall.<ref name="cradle-10-reaper-c7" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Redmoon Hall]] possesses a great ship that floats beside the northern peak.<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Redmoon Hall]] is a group or organization that [[Emissary Kahn Mala]] belongs to.<ref name="cradle-10-reaper-c21">''Reaper'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Emissaries]] of [[Redmoon Hall]] guard the stone door.<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|Operating from a cloud fortress that leaks cloud madra, [[Redmoon]] [[Hall]] is a group led by both a [[Herald]] and a [[Sage]]. The organization consists of the leader [[Redmoon]] and [[Emissaries]], who are members that have bonded a [[Blood Shadow]]. Although they utilize script formations and [[construct]] networks, the group is not a unified force; instead, it is divided into two halves with conflicting goals regarding the [[Phoenix]]. While members typically avoid conflict between their two leaders, the [[Phoenix]] eventually manifests a small portion of itself onto the group. During a confrontation where [[Reigan Shen]]'s weapons prepared to destroy them, the members of [[Redmoon]] [[Hall]] were seen shrinking back in fear.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Redmoon Hall]] was not present at the battle.<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Redmoon Hall]] is led by a [[Herald]] and a [[Sage]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Redmoon Hall]] is a group that includes the leader [[Redmoon]] and [[Emissaries]].<ref name="cradle-11-dreadgod-c7" />}}</li>
@@ -128,32 +121,29 @@
 <li>{{spoiler|book=cradle-11-dreadgod|[[Redmoon Hall's cloud fortress]] is leaking cloud madra.<ref name="cradle-11-dreadgod-c19" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Reigan Shen]]'s weapons were preparing to destroy [[Redmoon Hall]].<ref name="cradle-11-dreadgod-c19" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The members of [[Redmoon Hall]] are shrinking back in fear.<ref name="cradle-11-dreadgod-c19" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Redmoon Hall]] has a cloudship.<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Kahn Mala]] belongs to [[Redmoon Hall]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Redmoon Hall]] is attached to [[Yerin]].<ref name="cradle-12-waybound-c6" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Redmoon Hall]] remains in the area.<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|[[Redmoon]] [[Hall]] is a group to which [[Yan Shoumei]] belongs. Described as being even more depraved than typical slaughter artists, the organization operates under the protection of the [[Void Sage]]. Both [[Yan Shoumei]] and [[Kahn Mala]] are identified as members of this group.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Yan Shoumei]] has connections in [[Redmoon Hall]].<ref name="cradle-13-threshold-c3">''Threshold: Stories from Cradle'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Redmoon Hall]] is described as being worse than run-of-the-mill slaughter artists.<ref name="cradle-13-threshold-c3" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Redmoon Hall]] is a group that [[Yan Shoumei]] belongs to.<ref name="cradle-13-threshold-c3" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Redmoon Hall]] is under the protection of the [[Void Sage]].<ref name="cradle-13-threshold-c3" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Yan Shoumei]] is from [[Redmoon Hall]].<ref name="cradle-13-threshold-c3" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Kahn Mala]] is from [[Redmoon Hall]].<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|An Overlady from Redmoon Hall called out, “A bit of sport to liven things up. Would you like to play?”<ref name="cradle-08-wintersteel-c19" />}}

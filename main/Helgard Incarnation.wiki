@@ -12,8 +12,8 @@
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|The [[Helgard]] [[Incarnation]] is a being characterized by blue skin, curly white hair, spiral horns, and glacial eyes. This entity is capable of engaging in intelligible conversations, though it once uttered the word 'Ragnarus' in a grating voice. During its appearance at the gates of [[Cana]], it was positioned behind [[Zakareth]] and demonstrated the ability to tear open a Gate amidst swirling red light. In combat, it produced a layer of frost and sustained a strike from [[Simon]]'s blade that passed through its wrist.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The [[Helgard Incarnation]] can tear open a Gate in a flash of swirling red light.<ref name="tg-03-city-of-light-c3">''City of Light'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Helgard Incarnation]] spoke the word 'Ragnarus' with a grating voice.<ref name="tg-03-city-of-light-c3" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Helgard Incarnation]] was behind [[Zakareth]] at the gates of [[Cana]].<ref name="tg-03-city-of-light-c15">''City of Light'', chapter 15</ref>}}</li>
@@ -21,8 +21,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|The [[Helgard Incarnation]] is capable of carrying on intelligible conversations.<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Simon]]'s blade passed through the [[Helgard Incarnation]]’s wrist.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Helgard Incarnation]] created a layer of frost.<ref name="tg-03-city-of-light-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-03-city-of-light|"Ragnarus," she said, her voice grating audibly.<ref name="tg-03-city-of-light-c3" />}}

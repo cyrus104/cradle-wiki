@@ -9,40 +9,36 @@
 {{spoiler|book=ee-sea-03-of-kings-and-killers|The Sandborn Hydra is a type of [[Kameira]], a class of non-human or non-[[Elder]] creatures capable of manipulating the natural world through supernatural means. Native to the [[Izyrian]] desert, this entity possesses a unique [[Intent]] that allows it to manipulate its own weight. In the wild, it can move across sand dunes without leaving a trace or strike with the massive force of a collapsing temple. In human combat, the Hydra serves as a powerful resource for [[Soulbound]] individuals who utilize an [[Awakened object]], known as a [[Vessel]], to harness the creature's abilities. When channeled through a [[Vessel]]—such as a golden hide wrapped around an arm—the Hydra provides the user with enhanced physical strength, increased durability, and the ability to rapidly alter their body weight. This power can manifest as an overwhelming, heavy presence that increases the user's mass to crush enemies. However, using this power can be a volatile experience; for some, the Hydra's predatory fury and anger act as an internal adversary that must be constantly fought and suppressed.}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Sandborn Hydra]] is a [[Vessel]] that provides strength and fury to [[Urzaia]].<ref name="ee-sea-01-of-sea-and-shadow-c17">''Of Sea and Shadow'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Urzaia Woodsman]] draws on the strength of a [[Sandborn Hydra]].<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Alchemists]] claim to offer the power of a Hydra.<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A [[Sandborn Hydra]] possesses great strength and jumping ability.<ref name="ee-shadow-01-of-shadow-and-sea-c11">''Of Shadow and Sea'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Sandborn Hydra]] is a type of [[Kameira]] used by alchemists to enhance [[Meia]]'s strength and durability.<ref name="ee-shadow-01-of-shadow-and-sea-c19">''Of Shadow and Sea'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Sandborn Hydra]] is a type of [[Kameira]].<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A Hydra is a type of [[Kameira]].<ref name="ee-sea-02-of-dawn-and-darkness-c9">''Of Dawn and Darkness'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Sandborn Hydra]] is a [[Kameira]] native to the [[Izyrian]] desert.<ref name="ee-sea-02-of-dawn-and-darkness-c19">''Of Dawn and Darkness'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Sandborn Hydra]] has the [[Intent]] to increase or decrease its own weight.<ref name="ee-sea-02-of-dawn-and-darkness-c19" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The cook wears the golden hide of the [[Sandborn Hydra]].<ref name="ee-sea-03-of-kings-and-killers-c12">''Of Kings and Killers'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Sandborn Hydra]] provides a predatory fury that increases the user's weight and toughness.<ref name="ee-sea-03-of-kings-and-killers-c14">''Of Kings and Killers'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Urzaia]]'s [[Soulbound Vessel]] is the golden hide of a [[Sandborn Hydra]] wrapped around his left arm.<ref name="ee-sea-03-of-kings-and-killers-c18">''Of Kings and Killers'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“We have solutions that will give you the power of a Hydra, the constitution of a Nightwyrm, the fortitude of a Deepstrider...all the natural advantages that the Kameira have over man, they will be yours!<ref name="ee-shadow-01-of-shadow-and-sea-c8" />}}

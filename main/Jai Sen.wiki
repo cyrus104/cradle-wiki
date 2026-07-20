@@ -5,14 +5,13 @@
 }}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|[[Jai Sen]] is a member of the [[Jai clan]].<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Jai Sen]] is a spearman.<ref name="cradle-02-soulsmith-c6">''Soulsmith'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Jai Sen]] has reached the threshold of [[Highgold]].<ref name="cradle-02-soulsmith-c6" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Jai Sen]] told a story about a spear.<ref name="cradle-02-soulsmith-c8">''Soulsmith'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-02-soulsmith|“I am Jai Sen, of the Jai clan whose honor echoes in every corner of the Blackflame Empire.<ref name="cradle-02-soulsmith-c5" />}}

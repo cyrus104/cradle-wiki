@@ -7,8 +7,8 @@
 }}
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|Overlord Feiora wears a dark leather breastplate and hardened leather on her shins and forearms.<ref name="tg-03-city-of-light-c9">''City of Light'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|Feiora is an Overlord who has a raven.<ref name="tg-03-city-of-light-c9" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|Feiora has a [[Territory]].<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}</li>
@@ -17,8 +17,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|Feiora can summon a spear.<ref name="tg-03-city-of-light-c12" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|Feiora has a raven named [[Eugan]].<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|Feiora is someone [[Lycus]] wants to get back to and help.<ref name="tg-03-city-of-light-c14" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

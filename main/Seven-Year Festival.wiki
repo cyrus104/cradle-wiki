@@ -11,8 +11,8 @@
 == Unsouled ==
 {{spoiler|book=cradle-01-unsouled|The Seven-Year [[Festival]] serves as a grand occasion for the clans of [[Sacred Valley]] to compete against one another and demonstrate their collective power. During this year's festivities, the [[Wei clan]] acted as the host for the gathering. Once guests have settled into the event, several important activities take place within a dedicated [[arena]]. [[Kelsa]] participates in this festival by fighting as a representative of her family.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|The [[Seven-Year Festival]] is an event where [[Kelsa]] will fight.<ref name="cradle-01-unsouled-c2">''Unsouled'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Kelsa]] represents her family in the [[Festival]].<ref name="cradle-01-unsouled-c3">''Unsouled'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Seven-Year Festival]] is an event where clans show their power.<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref>}}</li>
@@ -20,24 +20,21 @@
 <li>{{spoiler|book=cradle-01-unsouled|The [[Seven-Year Festival]] is a time when the clans of [[Sacred Valley]] compete against one another.<ref name="cradle-01-unsouled-c8">''Unsouled'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Seven-Year Festival]] includes important events that take place once guests have settled in.<ref name="cradle-01-unsouled-c9">''Unsouled'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Seven-Year Festival]] features an [[arena]].<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The [[Seven-Year Festival]] was an event where the [[Kazan]] and [[Li]] clans marched through the main thoroughfare.<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The last [[Seven-Year Festival]] was fought in an [[arena]] that the [[Titan]] kicked aside.<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Seven-Year Festival]] is happening next year.<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Seven-Year Festival]] is an event hosted by clans.<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-01-unsouled|“We’ll show the other clans our power at the Seven-Year Festival,” Lindon said, angling the conversation around to his point.<ref name="cradle-01-unsouled-c6" />}}

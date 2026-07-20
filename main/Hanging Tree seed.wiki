@@ -4,13 +4,12 @@
 }}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The seed of a [[Hanging Tree]] is an oblong red ball about the size of a walnut.<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|There is a seed to the [[Hanging Tree]].<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Hanging Tree seed]] is one of the only things that can send [[Incarnations]] back to their prison, other than another [[Ragnarus Traveler]] or their own foolishness.<ref name="tg-02-crimson-vault-c24" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|“Where is the seed to the Hanging Tree?”<ref name="tg-02-crimson-vault-c24" />}}

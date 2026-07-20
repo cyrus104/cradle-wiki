@@ -15,8 +15,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|[[The Iron King]] is a ten-foot-tall, highly intelligent cyborg and the fifth such entity created by the [[Iron Legion]]. After being compressed and forced out of reality by the [[Absolute Burial]] spell, his unborn state was sealed within a torpedo and launched into a star. His current birth is being facilitated by a weapon aboard the [[Iron Hive]], though his consciousness was interrupted during the process. This iteration is linked to the [[Legion]] via a network of veins and wires to an unprecedented degree, allowing him to draw upon the processing power of the entire collective. Currently, he remains strapped to a [[steel]] table with exposed organs and open circuits while his birth continues.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">54</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">54</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[The Iron King]] is a ten-foot-tall fusion of man and machine.<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Iron King]] is a being whose birth is being facilitated by a weapon aboard the [[Iron Hive]].<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Iron King]] has led the expansion of the [[Iron Legion]] and killed the narrator in a previous [[life]].<ref name="lh-01-the-captain-c3" />}}</li>
@@ -71,14 +71,13 @@
 <li>{{spoiler|book=lh-01-the-captain|[[The Iron King]] possesses [[Aether]]-disrupting magic in the form of pink flame.<ref name="lh-01-the-captain-c47" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Iron King]] can send out psionic pulses.<ref name="lh-01-the-captain-c47" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Iron King]]'s brain was covered by a glass dome.<ref name="lh-01-the-captain-c48">''The Captain'', chapter 48</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|[[The Iron King]] is a lethal entity capable of killing people and posed a direct threat to the [[Captain]]'s [[life]]. While rumors circulated that one led the [[Iron Legion]], it was eventually killed by the crew, an act for which [[Sola]] earned Units. This specific figure had previously fought [[Horizon]] and spared the narrator's father, though an [[Iron]] [[King]] in control of the entire [[Legion]] was able to capture [[Mell]]'s father. Although [[Omega]] claimed to have taken over the entity, it is noted that an [[Iron]] [[King]] is not currently ready to be born.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[The Iron King]] is a being that protections can be damaged in battle against.<ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|An [[Iron King]] was recently destroyed.<ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|There are rumors of an [[Iron King]] leading the [[Iron Legion]].<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}</li>
@@ -91,14 +90,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[Omega]] claimed to have taken over the [[Iron King]].<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Iron King]] spared the narrator's father.<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|An [[Iron King]] in control of the entire [[Legion]] was able to capture [[Mell]]'s father.<ref name="lh-02-the-engineer-c41">''The Engineer'', chapter 41</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Created through the summoning of the [[Iron Legion]] and [[Esh’kinaar]], the [[Iron]] [[King]] is a powerful being who once attempted to seize control of the galaxy. While he can be searched for on the [[Subline]] or located through [[Varic]]'s magic, he remains a formidable enemy capable of delivering heavy blows. During an encounter with [[Benri]], the [[King]] demonstrated his magical scale and expressed a high opinion of [[Benri]]'s own abilities. Despite having been struck by artillery in the past, the [[Iron]] [[King]] was eventually killed, marking him as a target for which no weapon is considered too deadly.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[The Iron King]] can be searched for on the [[Subline]].<ref name="lh-03-the-knight-c11">''The Knight'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Iron King]] is a figure [[Varic]] can attempt to locate using magic.<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Iron King]] is a being created by summoning [[Esh’kinaar]] and the [[Iron Legion]].<ref name="lh-03-the-knight-c16" />}}</li>
@@ -110,14 +108,13 @@
 <li>{{spoiler|book=lh-03-the-knight|[[The Iron King]] is a target that was previously hit with artillery.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Captain]] has dealt with the [[Iron King]] once before.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Iron King]] holds a high opinion of [[Benri]]'s magic.<ref name="lh-03-the-knight-c45" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|[[The Iron King]] is a mysterious, apocalyptic entity characterized by a metal smile and a flickering, spark-like visible brain. This being previously forced [[Benri Vallenar]] into a magical contract and later engaged in a one-on-one conversation with him, though it was not responsible for the death of the [[Captain]]'s father. While a previous version of the entity was completely destroyed, research found in a data core reveals that [[the Perfected]] were attempting to create such beings. Although the [[Iron Legion]] currently lacks a leader to coordinate its [[Hives]], an [[Iron]] [[King]] has appeared for the first time in centuries, marking it as the final one in the galaxy. Now contained within an [[Aethertech box]], the entity can be granted permission for use by [[Benri Vallenar]] and has declared that its game is not yet over.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[The Iron King]] is a figure mentioned in relation to [[Benri]]'s desire for guards.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Iron King]] is a mysterious entity that previously made [[Benri]] sign a magical contract.<ref name="lh-04-the-pilot-c2" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Iron King]] did not kill the [[Captain]]'s father.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
@@ -135,8 +132,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[The Iron King]] is a figure [[Benri Vallenar]] has had a one-on-one conversation with.<ref name="lh-04-the-pilot-c39" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Iron King]] is contained within an [[Aethertech box]].<ref name="lh-04-the-pilot-c39" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Iron King]] is a being that [[Benri Vallenar]] can give permission to use.<ref name="lh-04-the-pilot-c39" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“Benri Vallenar. We are here to extend an invitation on behalf of the Iron King.”<ref name="lh-01-the-captain-c20" />}}

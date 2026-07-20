@@ -6,12 +6,11 @@
 }}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The narrator is a [[Galactic Union]]-certified [[Archmage of sealing and binding]].<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The protagonist is an [[Archmage]] in sealing and [[binding]] magic.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

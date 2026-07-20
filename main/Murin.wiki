@@ -12,16 +12,15 @@
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|Murin is a raven bound to [[Avernus]] that accompanies [[Leah]]. This bird, which produces a sound like a gurgling purr, possesses the ability to sense and potentially manipulate thoughts. Murin maintains a connection to both [[Leah]] and the [[Territory]]. During their travels, the raven internally judges [[Leah]] as an idiot for her tendency to engage in direct combat.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Murin]] is a raven that makes a sound like a gurgling purr.<ref name="tg-03-city-of-light-c19">''City of Light'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Murin]] is a raven that can sense and possibly manipulate thoughts.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Murin]] is a bird that accompanies [[Leah]].<ref name="tg-03-city-of-light-c24" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Murin]] is a raven bound to [[Avernus]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Murin]] is connected to [[Leah]] and the [[Territory]].<ref name="tg-03-city-of-light-c25" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Murin]] thinks [[Leah]] is an idiot for fighting directly.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

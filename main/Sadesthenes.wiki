@@ -13,8 +13,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|Sadesthenes is a philosopher known for his discourse on wisdom, gold, and the transient nature of all things. His teachings include the belief that a successful person visualizes success instead of failure and the principle that one should prioritize the preservation of [[life]] when in doubt. Regarding conflict, he argued that while fools seek combat, wise men remain at home, a philosophy later quoted by [[Calder]]. His political and strategic insights further suggest that the path toward unity leads inevitably to a single [[Empire]] and that a [[Reader]]'s weapons are found all around them.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Sadesthenes]] is a person who once spoke about wisdom and gold.<ref name="ee-sea-01-of-sea-and-shadow-c1">''Of Sea and Shadow'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Sadesthenes]] is known for the saying: 'The fool seeks out combat, but the wise man stays at home.'<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Sadesthenes]] is a figure whose words regarding governance and war remain true.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
@@ -26,31 +26,28 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Sadesthenes]] once said that a [[Reader]]'s weapons are all around them.<ref name="ee-sea-01-of-sea-and-shadow-c21">''Of Sea and Shadow'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Sadesthenes]] said, 'When in doubt, seek first to preserve [[life]].'<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Sadesthenes]] once said that nothing lasts forever.<ref name="ee-sea-01-of-sea-and-shadow-c26">''Of Sea and Shadow'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Sadesthenes]] was a great historian and philosopher.<ref name="ee-sea-02-of-dawn-and-darkness-c5">''Of Dawn and Darkness'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Sadesthenes]] is a source of wisdom.<ref name="ee-sea-02-of-dawn-and-darkness-c12">''Of Dawn and Darkness'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A contemporary of [[Sadesthenes]] wrote that a man shows weakness when he casts shame on his ancestors.<ref name="ee-sea-02-of-dawn-and-darkness-c15">''Of Dawn and Darkness'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Sadesthenes]] is a classic author.<ref name="ee-sea-02-of-dawn-and-darkness-c16">''Of Dawn and Darkness'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Sadesthenes once observed that the words of a genuine leader are difficult to overlook. He maintained that wisdom involves acting without hesitation when necessity arises and believed that being an [[Emperor (Elder Empire)|Emperor]] required carrying the weight of the entire [[Empire]]. While he argued that a wise person prepares for death without actively planning to die, he also authored the sentiment that mercy is an exceptionally rare virtue among kings and killers.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Sadesthenes]] once wrote that a true leader's words are not easily ignored.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Sadesthenes]] said that a wise man does not hesitate when faced with necessity.<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Sadesthenes]] said, 'To be [[Emperor (Elder Empire)|the Emperor]] is to carry the [[Empire]].'<ref name="ee-sea-03-of-kings-and-killers-c19">''Of Kings and Killers'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Sadesthenes]] said, "The wise man plans for his death, but does not plan to die."<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Sadesthenes]] is the author of the quote 'The quality of mercy is among the rarest of virtues, and rarest of all in killers and kings.'<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|Sadesthenes once said, “The wise man is not blinded by gold, but only a fool turns it down."<ref name="ee-sea-01-of-sea-and-shadow-c1" />}}

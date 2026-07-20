@@ -18,8 +18,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|Varic Vallenar is a human [[Sixfold Archmage]] and former heir to the [[Vallenar Corporation]], characterized by his silver hair and dull silver eyes. After gaining the memories and magical training of five extra lives through a ritual involving the [[Aether]], he became an accomplished elementalist and [[binding]] magic expert who serves as an instructor at the [[Magic Tower]]. A former prize fighter on [[Visiria]], he now operates as a Captain and uses various tools such as the staff [[Eurias]], a Lightcaster, and a [[levitation ring]] to wield his powers. Working on behalf of the [[Vallenar Corporation]] to prevent the rise of a new [[Iron Legion]] King, he intends to save the galaxy and has been recognized as the [[Captain of The Last Horizon]]. Throughout his journey, he utilizes diverse abilities including telekinesis, summoning digital avatar rabbits, and even borrowing magic from a [[World Spirit]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">53</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">53</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|Varic's full name is [[Varic Vallenar]].<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Varic is the son of [[Benri Vallenar]].<ref name="lh-01-the-captain-c2">''The Captain'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Varic gained the results of five extra lives of magical training.<ref name="lh-01-the-captain-c2" />}}</li>
@@ -73,14 +73,13 @@
 <li>{{spoiler|book=lh-01-the-captain|Varic used magic borrowed from a [[World Spirit]].<ref name="lh-01-the-captain-c47">''The Captain'', chapter 47</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Varic uses a staff that spreads life and water.<ref name="lh-01-the-captain-c47" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Varic can create copies of [[Sola]].<ref name="lh-01-the-captain-c47" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|Varic Vallenar is a human [[Archmage]] of the [[Cosmic Path]] and the captain of [[The Last Horizon]], hailing from the family that founded the [[Vallenar Corporation]]. Distinguished by his silver hair and eyes, this [[Archmage]] of [[binding]] possesses unique magic associated with water and sealing signatures. Having previously operated under the name [[Spellbinder]], he once saved [[Starhammer]]'s home and later attempted to seal [[Starhammer]] away, eventually engaging them in combat. Throughout his journey, Varic has faced death five times while attempting to prevent a bad ending, though Shyrax has prevented him from dying. After being attacked by [[Omega]] at the [[Magic Tower]], he was held as a prisoner in a white jumpsuit and orichalcum manacles, eventually regaining his magic despite claiming to only be able to use basic [[Aether manipulation]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">31</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">31</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Varic Vallenar]] is the [[Captain of The Last Horizon]].<ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Varic is an [[Archmage]] of [[binding]].<ref name="lh-02-the-engineer-c4">''The Engineer'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Varic Vallenar]] has silver eyes.<ref name="lh-02-the-engineer-c4" />}}</li>
@@ -112,14 +111,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[Varic Vallenar]] has regained his magic.<ref name="lh-02-the-engineer-c51" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Varic Vallenar]] is wearing orichalcum manacles.<ref name="lh-02-the-engineer-c51" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Varic Vallenar]] claims to only be able to use basic [[Aether manipulation]].<ref name="lh-02-the-engineer-c51" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Varic Vallenar, the son of [[Benri Vallenar]], is a wizard who wears an azure mantle for protection and possesses three eyes, including an ocular implant. Utilizing a wand and incantations, he can cast golden magic circles that reveal the locations of survivors through golden lights. Known to [[Doctor Cryce]] and addressed as Captain Vallenar, his voice once reached [[Sola]] through her helmet. He is [[Raion]]'s best friend from a previous life, and he even broadcasted footage of [[Raion]]'s combat into the galaxy.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|Varic is a hooded figure with silver eyes and a wizard's mantle.<ref name="lh-03-the-knight-c6">''The Knight'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Varic can use incantations to toss golden magic circles.<ref name="lh-03-the-knight-c6" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Varic's golden magic circle allows a user to see gold lights indicating survivors in a colony section.<ref name="lh-03-the-knight-c6" />}}</li>
@@ -137,14 +135,13 @@
 <li>{{spoiler|book=lh-03-the-knight|Varic sent video of [[Raion]]'s fight into the galaxy.<ref name="lh-03-the-knight-c44" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Vallenar is a corporation.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Benri]]'s surname is Vallenar.<ref name="lh-03-the-knight-c45" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Varic Vallenar is the [[Captain of The Last Horizon]] and a formidable [[Archmage]] specializing in sealing and [[binding]] magic. Known for his silver eyes that shine with a cold light, he wears a mantle, an amulet, and carries a Lightcaster. After attempting to track [[Benri]] to Fathom, Vallenar provided lessons and even tried to use a spell to duplicate [[Aila]]'s combat armor and gun. Throughout his career, he has been associated with the [[God’s Eye]] ritual and ordered attacks on the [[Zenith Blade]], leading [[Union]] representatives to decry his actions. Despite being a master of the [[Mirror of Silence]] who can protect minds with spells, he remains a controversial figure who has turned the galaxy against himself.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">29</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">29</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Varic Vallenar]] is the Captain and an [[Archmage of sealing and binding]].<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Varic is someone who has turned the galaxy against himself.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Varic is [[Benri]]'s son and is described as the most formidable wizard in the galaxy.<ref name="lh-04-the-pilot-c2" />}}</li>
@@ -174,8 +171,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] entered Varic's private world.<ref name="lh-04-the-pilot-c43" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Varic placed spells to protect [[Raion]]'s mind.<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Varic might have a spell he hasn't shared.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“Memories,” Varic said, and his voice was dry. “The magic came with memories.”<ref name="lh-01-the-captain-c2" />}}

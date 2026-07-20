@@ -4,14 +4,13 @@
 }}
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Edict]] is an object that was found.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Edict]] is a [[construct]] with a multicolored sun.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Edict]] logged out after screeching in laughter.<ref name="lh-04-the-pilot-c23" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Edict]]'s sun imploded when she logged out.<ref name="lh-04-the-pilot-c23" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

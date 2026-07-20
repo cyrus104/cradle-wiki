@@ -9,28 +9,26 @@
 {{spoiler|book=ee-sea-03-of-kings-and-killers|The Great Ones are immensely powerful, supernatural entities that exist on a level far above other beings. They are associated with the origins of the [[Great Elders]], who are also known as [[Class One Fiends]]. While the [[Great Elders]] travel between worlds via the [[void]] to pursue individual objectives—such as knowledge, change, or absolute nothingness—the Great Ones appear to exert a broader influence over the world and its order. They have been known to communicate through dreams and can personally intervene in significant matters, such as the arrangement of an imperial reign. Some individuals even carry physical fragments of a Great One. Though they are described as alien and indescribably strong, they are also characterized by a sense of cosmic justice or necessity, often ensuring that bargains are honored and that theft is not permitted.}}
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Sleepless]] must consult the [[Great Ones]].<ref name="ee-sea-02-of-dawn-and-darkness-c3">''Of Dawn and Darkness'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Servants of the [[Great Ones]] must be able to tolerate the dark.<ref name="ee-sea-02-of-dawn-and-darkness-c10">''Of Dawn and Darkness'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A new [[Emperor (Elder Empire)|Emperor]]'s reign was arranged by the [[Great Ones]].<ref name="ee-sea-02-of-dawn-and-darkness-c12">''Of Dawn and Darkness'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Great Ones]] set up an attack that scarred the sky.<ref name="ee-sea-02-of-dawn-and-darkness-c12" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|The Great Ones have a history of communication with mortals, having once spoken directly to [[Jyrine]]. More recently, they have reached out to [[Jerri]] through dreams, and the Great One currently awaits a response from her. To ensure their work is completed, these entities may inhabit human bodies. While the Great One intends to break the chains, this entity ultimately ended a long time ago.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Great One once spoke to [[Jyrine]].<ref name="ee-sea-03-of-kings-and-killers-c3">''Of Kings and Killers'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Great Ones]] speak to [[Jerri]] through dreams.<ref name="ee-sea-03-of-kings-and-killers-c19">''Of Kings and Killers'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Great Ones]] may inhabit human bodies to complete their work.<ref name="ee-sea-03-of-kings-and-killers-c20">''Of Kings and Killers'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Great One is waiting for [[Jerri]]'s response.<ref name="ee-sea-03-of-kings-and-killers-c20" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Great One will break the chains.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Great One ended a long time ago.<ref name="ee-sea-03-of-kings-and-killers-c26">''Of Kings and Killers'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“It is not our decision. We must consult the Great Ones.”<ref name="ee-sea-02-of-dawn-and-darkness-c3" />}}

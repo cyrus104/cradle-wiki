@@ -4,13 +4,12 @@
 }}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Heart-Piercer Fruit]] comes from a tree that blooms once a year in [[Ninecloud City]].<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Consuming]] the [[Heart-Piercer Fruit]] provides the lifespan of an [[Archlord]] as an [[Underlord]].<ref name="cradle-08-wintersteel-c19" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Heart-Piercer Fruit]] has made [[Yerin]]'s lifeline thicker.<ref name="cradle-08-wintersteel-c20">''Wintersteel'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|“It comes from one tree that blooms once a year in a single garden in Ninecloud City.<ref name="cradle-08-wintersteel-c19" />}}

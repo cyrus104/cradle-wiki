@@ -10,39 +10,35 @@
 {{spoiler|book=cradle-13-threshold|The [[Mad King]] is a powerful [[Vroshir]] and a former [[Executor]] who has become one of the most significant enemies of the [[Abidan]]. A legendary conqueror and imperialist, he is known for his ruthless nature and a reputation as a glory-seeking innovator. He possesses the ability to wage war alone, having used techniques capable of destroying cities and forests, and is even feared by the Void. In combat, he has been seen wielding a dark Scythe and a bone [[sword]] that carries the weight of many slaughtered worlds. Despite his immense power, which allows him to challenge the pillars of Heaven and threaten entire [[Iterations]], he is in a physically declining state. His madra channels are heavily scarred and his lifeline is weakened, suggesting long-term damage to his body. He has even managed to create a [[veil]] that hides his existence from the [[Way]]. Because he hosts an entity capable of killing [[Judges]] and has found ways to bypass [[Sector Control]], he is considered a Class One threat. He harbors a deep hatred for the [[Abidan]] and seeks their total destruction.}}
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[The Mad King]] hosts an entity that has killed [[Judges]] before.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|The [[Mad King]] exists as a memory, recording, or imprint left upon the [[Way]]. He wields a [[scythe]] and harbors a deep hatred for the [[Abidan]]. His eyes resemble two red suns, possessing a gaze capable of seeing across both time and space.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[The Mad King]] hates the [[Abidan]].<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[The Mad King]] wields a Scythe.<ref name="cradle-07-uncrowned-c18" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[The Mad King]]'s eyes are like two red suns.<ref name="cradle-07-uncrowned-c18" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[The Mad King]]'s gaze can see across time and space.<ref name="cradle-07-uncrowned-c18" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[The Mad King]]'s presence is a memory, recording, or imprint left on the [[Way]].<ref name="cradle-07-uncrowned-c18" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[The Mad King]] clashed swords with [[Razael]].<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[The Mad King]] was a former [[Executor]] recruited by the [[Abidan]].<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[The Mad King]] wore bone armor and had red eyes.<ref name="cradle-13-threshold-c10" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

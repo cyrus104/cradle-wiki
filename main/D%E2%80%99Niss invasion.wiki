@@ -4,13 +4,12 @@
 }}
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[D’Niss]] invaded [[Visiria]] one week prior to the current events.<ref name="lh-04-the-pilot-c11">''The Pilot'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The D'Niss invasion is a recent disaster in the galaxy.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Some in [[Visiria]] credited [[The Last Horizon]] with driving off the [[D’Niss invasion]].<ref name="lh-04-the-pilot-c34">''The Pilot'', chapter 34</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

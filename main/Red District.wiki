@@ -7,21 +7,19 @@
 {{spoiler|book=tg-03-city-of-light|The [[Red]] District is one of the nine colored sectors within the [[City of Light]]. Its entrance is distinguished by a door that is notably wider than all other district entrances, appearing designed to accommodate the passage of wagons. Within this area, the urban layout is characterized by a highly organized structure consisting of perfect squares.}}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Red District]] door is the widest and appears built for wagons.<ref name="tg-02-crimson-vault-c13">''The Crimson Vault'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Alin]] has not opened the door to the [[Red District]].<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The [[Red District]] is a district in [[Elysia]].<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Tartarus]] could not fight his way through the [[Red District]].<ref name="tg-03-city-of-light-c9">''City of Light'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Red District]] is organized in perfect squares.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -9,28 +9,26 @@
 {{spoiler|book=lh-03-the-knight|The [[Titan]] [[Knights]], also known as the [[Knights of the Titan Force]], were a group of galactic defenders tasked with protecting the universe from various monsters. Their most significant achievement was successfully repelling the [[D’Niss Swarm]], an insectoid threat led by a queen capable of consuming stars. While official reports stated the group retired after completing their mission, different timelines suggest they met more tragic ends. During their peak popularity, the [[Knights]] were highly celebrated figures known for their flashy presence and effective media promotion. Each [[Knight]] operates a [[Divine Titan]], which are highly advanced [[Aethertech]] machines that possess their own unique personalities and levels of consciousness. These pilots, such as the [[Red]], [[Blue]], [[Green]], and Yellow [[Knights]], work together in coordinated combat to face massive threats. The role of a [[Knight]] involves high-level responsibilities, including managing ship security and utilizing [[Combat Arts]]. The connection between a pilot and their [[Titan]] is profound, often serving as a vital source of strength during crises. However, these machines can be dangerous; for instance, a [[Titan]] can go on a rampage if its pilot is overwhelmed, particularly if the machine has been influenced by external forces like solar dragon blood.}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Titan Knights]] took care of the [[D’Niss]].<ref name="lh-01-the-captain-c5">''The Captain'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Titan Knights]] are a group that people can be fans of.<ref name="lh-01-the-captain-c14">''The Captain'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Raion]] was the leader of the [[Titan Knights]].<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Titan Knights]] officially completed their mission by driving off the [[D’Niss Swarm]].<ref name="lh-01-the-captain-c30">''The Captain'', chapter 30</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Titan Knights]] are potential targets for [[Starhammer]].<ref name="lh-02-the-engineer-c41">''The Engineer'', chapter 41</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Javik]] and [[Undermaker]] are former [[Titan Knights]].<ref name="lh-02-the-engineer-c44">''The Engineer'', chapter 44</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Formed specifically to combat the [[D’Niss]], the [[Titan]] [[Knights]] are a group of five individuals that includes [[Raion]]. These galactic guardians once enjoyed immense popularity during their heyday, though they have fared worse in this current [[life]] than in the narrator's memories. The group utilizes a training room filled with mechanical enemies to prepare, and [[Varic Vallenar]] was eventually welcomed into their ranks. Following an address by Shyrax, it is anticipated that a new generation of [[Titan]] [[Knights]] will be produced.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Titan Knights]] are a group of five individuals including [[Raion]].<ref name="lh-03-the-knight-c2">''The Knight'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Titan Knights]] serve as guardians of the galaxy.<ref name="lh-03-the-knight-c7">''The Knight'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Varic Vallenar]] is welcomed to the [[Titan Knights]].<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
@@ -41,8 +39,7 @@
 <li>{{spoiler|book=lh-03-the-knight|The [[Titan Knights]] were extremely popular in their heyday.<ref name="lh-03-the-knight-c34">''The Knight'', chapter 34</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|A new generation of [[Titan Knights]] will be produced.<ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Shyrax addresses the [[Titan Knights]].<ref name="lh-03-the-knight-c43">''The Knight'', chapter 43</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

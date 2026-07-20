@@ -11,8 +11,8 @@
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|[[Forged]] by [[Valin]] the Wanderer as his finest work, Mithra is a golden [[Dragon's Fang]] featuring a silver-and-gold blade with a central core of gold. Originally wielded by the Wanderer, this thirteenth [[Dragon's Fang]] eventually chose its own heir and was later discovered by a squad of [[Damascan soldiers]]. The weapon is currently held by [[Kai]] and can only be wielded by those possessing the power of [[Valinhall]], such as the [[Valinhall Incarnation]]. During a confrontation, the [[sword]] turned aside [[Simon]] and [[Azura]], forcing [[Simon]] to knock the blade away during their fight.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Mithra]] is the thirteenth Dragon’s [[Fang]] and was forged by [[Valin]] the Wanderer.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Mithra]] can only be wielded by someone with the power of [[Valinhall]].<ref name="tg-02-crimson-vault-c4" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Mithra]] is a [[sword]] held by [[Kai]].<ref name="tg-02-crimson-vault-c4" />}}</li>
@@ -26,14 +26,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Mithra]] turns [[Simon]] and [[Azura]] aside.<ref name="tg-02-crimson-vault-c21">''The Crimson Vault'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] had to knock [[Mithra]] aside during the fight.<ref name="tg-02-crimson-vault-c21" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Mithra]] is a blade used by the [[Valinhall Incarnation]].<ref name="tg-02-crimson-vault-c21" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|Mithra is the name of the Wanderer's blade, a gold-lined [[Dragon's Fang]] [[sword]] wielded by [[Kai]]. While within [[the House]], [[Kai]] possesses the ability to banish the weapon, which is capable of communicating emotions to its wielder. After [[Kai]] laid the blade upon the ground, it was revealed that the [[sword]] was once held by the [[Eldest]] [[Nye]]. Eventually, [[Simon]] came to hold and summon Mithra, though the weapon remained quiet during this time. Feeling both eager and resigned, the [[sword]] was used by [[Simon]] to strike [[King]] [[Zakareth]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Mithra]] is the name of the Wanderer's blade.<ref name="tg-03-city-of-light-c1">''City of Light'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Mithra]] is a gold-lined [[Dragon's Fang]] [[sword]] used by [[Kai]].<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Mithra]] is a [[sword]] that [[Kai]] can banish within [[the House]].<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
@@ -47,8 +46,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[Mithra]] felt resigned and eager.<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Simon]] uses [[Mithra]] to strike [[King]] [[Zakareth]].<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Simon]] has a [[Mithra]].<ref name="tg-03-city-of-light-c28">''City of Light'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|“Beautiful,” he whispered. “Truly the Master’s finest work.<ref name="tg-02-crimson-vault-c4" />}}

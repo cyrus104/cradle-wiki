@@ -11,8 +11,8 @@
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|Resembling a pond that is at least ten times the size of the [[Dream Well]], the Spirit Well is an endless spring of power with water as blue as a summer sky. This destination serves as a training site for [[Lindon]] and offers miraculous properties that aid advancement, increase [[madra]] density, and promote soul growth. While a single sip can restore [[madra]] and even guide the power of [[Orthos]], a single cup costs a fortune. Although the well failed to work for [[Ziel]] during his journey toward it, the oracle was successfully raised to [[Truegold]] thanks to its influence.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Spirit Well]] is blue as a summer sky.<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Spirit Well]] promotes growth in the soul and increases [[madra]] density.<ref name="cradle-05-ghostwater-c9" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Spirit Well]] is a destination that can restore [[madra]] with a single sip.<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
@@ -25,15 +25,13 @@
 <li>{{spoiler|book=cradle-05-ghostwater|A single cup from the [[Spirit Well]] cost a fortune.<ref name="cradle-05-ghostwater-c15" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Spirit Well]] contains water that guides [[Orthos]]' power.<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The oracle was raised to [[Truegold]] thanks to his [[Spirit Well]].<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Lindon]] has cycled the power of the [[Spirit Well]] to [[Dross]] before.<ref name="cradle-06-underlord-c11">''Underlord'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -7,27 +7,24 @@
 {{spoiler|book=cradle-13-threshold|[[The Hounds]] are a division within the [[Abidan]] organization. They possess observational authority and the ability to predict or decide future outcomes, though their predictive capabilities can be limited by factors like smoke, haze, or individuals who regularly deviate from [[Fate]]. While they are currently stretched thin due to a larger conflict, they are capable of providing analytical reports and breakdowns of potential events. The division is associated with the [[Makiel]], who holds the responsibility of deciding the future. Hounds are considered more troublesome to deal with than the [[Wolf Division]], as they possess specific means of detection.}}
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[The Hounds]] could not read the futures of [[Executors]] because they diverged from [[Fate]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Hounds]] formed up around [[Oversight]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Kiuran]] belongs to the [[Hounds]].<ref name="cradle-12-waybound-c31">''Waybound'', chapter 31</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[The Hounds]] are an order led by [[Kiuran]].<ref name="cradle-12-waybound-c31" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[The Hounds]] are a source for the items shown on the screen.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-12-waybound|“You almost found yourself trapped between worlds,” Kiuran of the Hounds said to Yerin.<ref name="cradle-12-waybound-c31" />}}

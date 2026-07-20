@@ -7,35 +7,31 @@
 {{spoiler|book=cradle-12-waybound|The Kazan are an aggressive and formidable clan known for their martial culture and imposing presence. They often arrive with massive armies that cause the ground to tremble, signaled by the sound of many trumpets and banners featuring Stone Dogs. The clan is characterized by a pervasive culture of wearing armor; every member, from children to adults, wears protective gear such as mail, plates, or shields. Their distinctive badges are significantly larger than those of the [[Wei clan]], with adults often wearing large plates of iron or copper over their chests. Members of the clan follow specific paths, such as the [[Path of the Mountain’s Heart]], which allows certain individuals like Forgers to manifest constructs such as heavy bricks or crushing weapons from [[madra]]. The clan is led by a Patriarch, described as a stocky, bearded man who wears chainmail and a bear's pelt. The Kazan maintain strong territorial defenses consisting of large brick walls reinforced with [[scripts]] and bronze gates. Historically, the clan has been known to raid both the Wei and [[Li]] clans. They are perceived by others as potentially deceptive and arrogant, though they are also capable of acting in good faith when negotiating.}}
 
 == Unsouled ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|The [[Kazan]] are a group the [[Wei clan]] is negotiating trade rights with.<ref name="cradle-01-unsouled-c3">''Unsouled'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Kazan]] are identified by armor and a red sash, with banners bearing three stone dogs.<ref name="cradle-01-unsouled-c8">''Unsouled'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Jades]] from [[Kazan]] gathered on the stage.<ref name="cradle-01-unsouled-c10">''Unsouled'', chapter 10</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Kazan]] raid both the Wei and the [[Li]] in [[Sacred Valley]].<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Kazan]] is associated with a deception mentioned by the Patriarch.<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Kazan]] are a clan with members present in the area.<ref name="cradle-09-bloodline-c15">''Bloodline'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Kazan]] were supposed to host the [[Seven-Year Festival]] this year.<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -11,8 +11,8 @@
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|Sky's Edge serves as the destination for the [[Akura expedition]] and a location that [[Charity]] must visit periodically, though she cannot transport people there on her own. Characterized by a powerful ice [[aura]] and strong [[earth aura]], the area contains a fortress raised by the [[Seishen king]] and ruined homes marked by a visible stone hand. As the [[Akura]] cloudship approached, the [[Abyssal Palace]] moved to hover over the location, which also became a site where people face [[dragons]] on the battlefield. During the events of the story, [[Lindon]] stayed there for his first night, and later, [[Fury]] and others found themselves pinned within the area. The site is also known for containing prizes and crates filled with items from enemies or a mine.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">23</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">23</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sky's Edge]] is the location where the [[Akura expedition]] is arriving.<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sky's Edge]] is a location [[Charity]] must visit periodically.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sky's Edge]] is a location of powerful ice [[aura]].<ref name="cradle-08-wintersteel-c9" />}}</li>
@@ -36,14 +36,13 @@
 <li>{{spoiler|book=cradle-08-wintersteel|Sky’s Edge is a location where [[Xorrus]] gave a sigh.<ref name="cradle-08-wintersteel-c26" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sky's Edge]] is a location located a few miles away from where an [[Icon]] was manifested.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Crates taken from Sky’s Edge contained items from a mine or from enemies.<ref name="cradle-08-wintersteel-c28" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
 {{spoiler|book=cradle-09-bloodline|Sky's Edge was a seaside town that was reached via a portal and served as the site of a battle involving Sophara and [[Lindon]]. During the conflict, [[Charity]] expanded the town's [[gate]] into a wide screen of darkness, and the settlement was ultimately destroyed. Following its destruction, the [[Wandering Titan]] took a stride that crossed the space where the town had once been located. The titan was later seen sleeping in the bay outside Sky's Edge before eventually marching eastward from the area.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Sky's Edge]] is a location where Sophara fought.<ref name="cradle-09-bloodline-c2">''Bloodline'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] contributed to the cause during the fight for Sky’s Edge.<ref name="cradle-09-bloodline-c2" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Sky’s Edge is a location reached via a portal.<ref name="cradle-09-bloodline-c2" />}}</li>
@@ -52,15 +51,13 @@
 <li>{{spoiler|book=cradle-09-bloodline|The [[Wandering Titan]] took a stride that crossed the space where Sky’s Edge once stood.<ref name="cradle-09-bloodline-c4" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Wandering Titan]] was seen sleeping in the bay outside Sky’s Edge.<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Wandering Titan]] marched eastward from [[Sky's Edge]].<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Sky's Edge]] is a location [[Yan Shoumei]] escaped from.<ref name="cradle-13-threshold-c3">''Threshold: Stories from Cradle'', chapter 3</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|“While the weather in Sky’s Edge is no threat to an Underlord, we are arriving at a location of powerful ice aura, so dress accordingly, she said.<ref name="cradle-08-wintersteel-c9" />}}

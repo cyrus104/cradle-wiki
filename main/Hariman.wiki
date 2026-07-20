@@ -14,30 +14,27 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|Hariman is a talking book characterized by its distinct red-and-gold [[binding]]. The entity features a gold-painted face on its cover that possesses the ability to come to [[life]]. [[Traveling]] alongside [[Denner]], Hariman serves as the companion and namesake of the traveler's sentient volume.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Hariman]] is a talking book with red-and-gold [[binding]].<ref name="tg-01-house-of-blades-c10">''House of Blades'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Hariman]] has a face painted in gold on its cover that can come to [[life]].<ref name="tg-01-house-of-blades-c10" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Hariman]] is a red-and-gold book.<ref name="tg-01-house-of-blades-c11">''House of Blades'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Hariman]] is traveling with [[Denner]].<ref name="tg-01-house-of-blades-c11" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Hariman]] is the name of [[Denner]]’s talking book.<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Hariman]] is a huge red-and-gold book that [[Denner]] carries.<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Hariman]] is a book that introduces [[Indirial]] to [[Simon]].<ref name="tg-02-crimson-vault-c9" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Hariman]] is a huge book bound in red-and-gold that serves as [[Denner]]'s advisor.<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

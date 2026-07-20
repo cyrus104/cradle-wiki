@@ -7,29 +7,26 @@
 {{spoiler|book=cradle-13-threshold|[[The Fox]] Mirror is a versatile [[Forger technique]] belonging to the [[Path of the White Fox]]. It functions by creating convincing, though physically fragile, illusions that can be used for various tactical purposes. Users can employ the technique to project decoys, such as a fake wall or an image of themselves sleeping, to distract or mislead enemies. Advanced applications allow for complete invisibility by concealing a person's spiritual presence and subtly directing the attention of others away from them. While these illusions lack substantial physical mass, they can be combined with other abilities, such as creating a reinforced shield disguised by an illusion of smoke. Because the technique relies on [[White Fox]] [[madra]], its effectiveness often depends on the skill and specialization of the practitioner.}}
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The [[Fox Mirror]] is a technique used by [[Lindon]].<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] uses the [[Fox Mirror technique]] to create an illusion.<ref name="cradle-09-bloodline-c12" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]]'s technique was like the [[Fox Mirror]] from the [[Path of the White Fox]].<ref name="cradle-11-dreadgod-c16">''Dreadgod'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Fox Mirror]] is a technique [[Kelsa]] uses to create a fake wall.<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The [[Fox Mirror]] is a [[construct]] that can turn someone invisible.<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Fox Mirror]] is a versatile technique used to craft fragile illusions.<ref name="cradle-13-threshold-c8" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Fox Mirror]] was used by [[Wei Jin Sairus]] to attempt to sneak away invisibly.<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -9,37 +9,33 @@
 {{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Guild]] of [[Magisters]] is one of the [[Imperialist Guilds]] within the [[Aurelian Empire]], categorized alongside groups like the [[Blackwatch]] and the [[Navigators]]. While many of its members are scholars and researchers, the organization is also known to employ assassins and has been accused of using them to target [[Regents]]. [[The Guild]]'s power is derived from the use of staves that channel natural forces—such as those from plants, [[Elders]], or [[Kameira]]—and the application of human [[Intent]]. This ability allows [[Magisters]] to perform significant feats, including growing forests or creating dust storms, though using [[Intent]] directly against [[Elder]]-related threats can be fatal to the user. [[The Guild]]'s history is influenced by the philosophies of [[Jorin Maze-walker]], also known as [[Curse-breaker]]. Members are typically identified by their distinct robes and staves. Historically, the [[Guild]] has been involved in testing flying devices for the [[Empire]]. Following the death of its leader, [[Mekendi Maxeus]], the [[Guild]] has remained without a formal Head, potentially waiting for the outcome of ongoing inter-guild conflicts to determine its next leader. The organization is noted for its ability to create highly specialized items, such as boxes designed to be nearly invisible to the senses of a [[Reader]].}}
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Magister]]’s [[Guild]] contains an ancient research journal.<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Magister]]'s [[Guild crest]] is an Open Book.<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Magister]]’s [[Guild]] is an organization that vouches for the veracity of [[Readers]] and keeps them under scrutiny.<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Mekendi Maxeus]] was the Head of the [[Magister]]'s [[Guild]].<ref name="ee-sea-02-of-dawn-and-darkness-c14" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jorin Maze-walker]]'s philosophies were instrumental in the creation of the [[Magister]]’s [[Guild]].<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Shera]] killed the Head of the [[Magister]]'s [[Guild]].<ref name="ee-shadow-02-of-darkness-and-dawn-c17">''Of Darkness and Dawn'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Magister]]’s [[Guild]] tests flying devices.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Magister]]'s [[Guild]] sent a courier to [[Calder]].<ref name="ee-sea-03-of-kings-and-killers-c13">''Of Kings and Killers'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Guild of Magisters]] is a group that [[Emperor (Elder Empire)|the Emperor]] claims has no authority over his teachings.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

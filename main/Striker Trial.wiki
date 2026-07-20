@@ -4,14 +4,13 @@
 }}
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Striker Trial]] is an open field of scorched, blasted soil.<ref name="cradle-03-blackflame-c15">''Blackflame'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Yerin]] could not destroy the targets in the [[Striker Trial]].<ref name="cradle-03-blackflame-c16">''Blackflame'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Striker Trial]] involves targets and spears.<ref name="cradle-03-blackflame-c16" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Striker Trial]] took ten days to pass.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

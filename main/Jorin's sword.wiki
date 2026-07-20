@@ -7,27 +7,24 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Jorin]]'s [[sword]] is a highly dangerous and corruptive weapon that is typically kept wrapped in multiple layers of cloth or bandages. The blade possesses a necrotic appearance, featuring edges that look like rotting flesh and rust, while its surface is covered in purple miasma and dark channels resembling maggots. When unsheathed, the weapon emits a powerful corrosive aura that can melt stone into black liquid and release waves of darkness upon impact. It is capable of devastatingly powerful attacks, such as turning enemies to dust within a fifty-pace radius or slicing through massive shadows. Beyond its physical destruction, the [[sword]] is known for its ability to devour curses and can influence the minds of those nearby by receding foreign emotions. Despite its destructive nature, [[Jorin]] has used the blade to wound high-ranking figures like [[General Teach]] and to combat the [[Great Elder]], Urg'naut, by carving away chunks of shadow.}}
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Jorin's sword]] is wrapped in bandages.<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jorin's sword]] carries an [[Intent]] of pure death.<ref name="ee-sea-03-of-kings-and-killers-c7">''Of Kings and Killers'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jorin's sword]] was the prototype for [[Teach]]’s [[Tyrfang]].<ref name="ee-sea-03-of-kings-and-killers-c7" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Jorin's sword]] is a weapon of pure destruction that has been fed curses and malicious [[Intent]].<ref name="ee-shadow-03-of-killers-and-kings-c8">''Of Killers and Kings'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Jorin's sword]] can unleash a river of putrid darkness.<ref name="ee-shadow-03-of-killers-and-kings-c23">''Of Killers and Kings'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

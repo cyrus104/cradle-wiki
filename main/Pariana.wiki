@@ -14,25 +14,23 @@
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|A [[Titan]] and an [[Abidan]], Pariana possesses a tall, golden body and projects a distinct [[Presence]]. Clad in white-plated armor, she serves as the designer of the formations. Throughout her existence, her specialty has never been violence.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Pariana]] is a [[Titan]] and an [[Abidan]].<ref name="cradle-06-underlord-c1">''Underlord'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Pariana]]'s specialty has never been violence.<ref name="cradle-06-underlord-c1" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Pariana]] wears white-plated armor.<ref name="cradle-06-underlord-c1" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Pariana]] is the designer of the formations.<ref name="cradle-06-underlord-c1" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Pariana]] has a [[Presence]].<ref name="cradle-06-underlord-c1" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Pariana]] has a tall, golden body.<ref name="cradle-06-underlord-c1" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Pariana]] can [[construct]] containment fields.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Pariana]]'s restrictive symbols include lines in her gold, the pure blue of the [[Way]], and alien pink Silverlord script.<ref name="cradle-13-threshold-c7" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Pariana]] is a member of the [[Second Division]].<ref name="cradle-13-threshold-c7" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-13-threshold|“Constructing containment field!” Pariana reported, spreading her hands.<ref name="cradle-13-threshold-c7" />}}

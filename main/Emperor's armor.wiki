@@ -9,17 +9,16 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Emperor]]'s armor, also known as [[Emperor (Elder Empire)|the Emperor]]'s white armor, is a distinctive suit of protective gear characterized by its smooth, white plates that resemble large eggshells. The armor is joined at the joints with chain and includes a helmet that completely obscures the wearer's face, featuring darkened glass where a visor would typically be. While it appears to be a solid metal statue when worn, the suit is invested so that it possesses almost no weight. A significant feature of the armor is the immense amount of ancient and solid [[Intent]] left behind by [[Emperor (Elder Empire)|the Emperor]], particularly from his time during the [[Elder War]]. This concentrated [[Intent]] provides world-class protection and can defend a wearer's very [[essence]], though it also exerts a powerful presence that can overwhelm those attempting to use their senses near it. The armor was specifically invested by [[Emperor (Elder Empire)|the Emperor]] to preserve and maintain the [[life]] of the person wearing it, though this protection is indiscriminate regarding different types of physical trauma. Historically, the armor served as a symbol of [[Emperor (Elder Empire)|the Emperor]]'s role as the icon of a unified empire and the founder of human civilization. In more recent events, [[Calder]] has utilized the armor to reinforce his status and provide defense during military operations. While it does not enhance physical abilities, its defensive capabilities are substantial enough to withstand intense heat and heavy attacks.}}
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Emperor]]'s white armor provides protective [[Intent]] that defends [[essence]].<ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Once held by the [[Steward]], this priceless treasure is a set of white armor imbued with complex [[Intent]] to protect and preserve [[life]]. While a full set can be seen displayed on a mannequin in the costume gallery, [[Calder]] utilizes the suit for defense and wears it ashore. The armor's protective powers have been vital for survival, keeping both [[Petal]] and [[Calder]] alive while also defending against [[Elderspawn]] bites. Although the suit was not designed for swimming, it remains a powerful tool until it eventually crashes down to the deck plate, piece by piece.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Emperor's armor]] is worn by [[Calder]] for defense.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Emperor's armor]] is imbued with complex [[Intent]] and possesses protective powers.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|A mannequin in the costume gallery wears a full set of [[Emperor (Elder Empire)|the Emperor]]'s white armor.<ref name="ee-sea-03-of-kings-and-killers-c13">''Of Kings and Killers'', chapter 13</ref>}}</li>
@@ -33,21 +32,19 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Emperor]]’s armor is a priceless treasure.<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Emperor's armor]] protects against [[Elderspawn]] bites.<ref name="ee-sea-03-of-kings-and-killers-c24" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Emperor]]’s armor crashes down to the deck plate by plate.<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Calder Marten]] is seen wearing [[Emperor (Elder Empire)|the Emperor]]'s armor from the neck down, though it is eventually revealed that the suit he wore was fake. Following his death, the [[Champions]] strip the armor from his body. Later, [[Calder Marten]] is depicted wearing [[Emperor (Elder Empire)|the Emperor]]'s armor once more. During this time, [[Kelarac]] burns the plates of the armor off of him.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The armor [[Calder]] was wearing turned out to be fake.<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Calder Marten]] wore [[Emperor (Elder Empire)|the Emperor]]’s armor from the neck down.<ref name="ee-shadow-03-of-killers-and-kings-c16">''Of Killers and Kings'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Champions]] stripped [[Calder]]'s body of the [[Emperor's armor]].<ref name="ee-shadow-03-of-killers-and-kings-c18">''Of Killers and Kings'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Calder Marten]] wears [[Emperor (Elder Empire)|the Emperor]]’s armor.<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kelarac]] burns plates of the [[Emperor's armor]] off [[Calder]].<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-03-of-kings-and-killers|“The Emperor’s armor is keeping you alive,” Kelarac said casually, sipping from his goblet again.<ref name="ee-sea-03-of-kings-and-killers-c19" />}}

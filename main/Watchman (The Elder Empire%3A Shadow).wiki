@@ -7,27 +7,24 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Watchmen]] are a group associated with the [[Blackwatch]], an organization identified by the crest of the [[Elder]] Eyes. It is believed that their objective is to produce a succession of replaceable [[Emperors]], allowing for the replacement of any ruler who becomes corrupted by the influence of the [[Elders]]. One specific Watchman is noted for betraying his [[Guild]]; this individual possessed sensitive knowledge regarding [[Emperor (Elder Empire)|the Emperor]]'s longevity, the location of [[Nakothi]]'s death, and the existence of eleven other hearts belonging to the [[Dead Mother]]. This disgraced Watchman and his crew previously attempted to harvest a heart from [[Nakothi]]'s remains on an [[island]] in pursuit of eternal [[life]]. Additionally, [[Watchmen]] have been known to be unable to escape certain cordons or geographic barriers established by external forces.}}
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The prisoner is a former Watchman.<ref name="ee-shadow-01-of-shadow-and-sea-c5">''Of Shadow and Sea'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The former Watchman is a [[Blackwatch traitor]].<ref name="ee-shadow-01-of-shadow-and-sea-c27">''Of Shadow and Sea'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The Watchman works as the [[Guild Head]]'s personal attendant.<ref name="ee-shadow-02-of-darkness-and-dawn-c5">''Of Darkness and Dawn'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The Watchman may have been killed.<ref name="ee-shadow-02-of-darkness-and-dawn-c7">''Of Darkness and Dawn'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Watchman commanded someone to say something else.<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“Never thought I’d hear a former Watchman call out for Nakothi,” Kerian said drily.<ref name="ee-shadow-01-of-shadow-and-sea-c5" />}}

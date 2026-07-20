@@ -17,8 +17,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|A Handmaiden of [[Nakothi]] was summoned, manifesting as a hideous bundle of malice and insanity. This massive creature stands head and shoulders above the [[island]]'s tallest trees and moves by rolling on swarming tentacles. Her physical form consists of a mottled white, blue, and purple torso that is skeletally thin, topped by a head composed of mouths, eyes, waving stalks, and bone cages housing pulsing organs. While her whistle mimics the laughter of the [[Dead Mother]], she remains a target for cannon fire from [[The Testament]] as she utilizes her bony hands and tentacles.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Handmaiden]]'s torso is skeletally thin and mottled white, blue, and purple.<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Handmaiden]]'s head is a chaos of eyes, mouths, waving stalks, and cages of bone containing pulsing organs.<ref name="ee-sea-01-of-sea-and-shadow-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Handmaiden]]'s whistle sounds similar to the [[Dead Mother]]’s laughter.<ref name="ee-sea-01-of-sea-and-shadow-c23" />}}</li>
@@ -28,14 +28,13 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Nakothi]]’s [[Handmaiden]] is described as a bundle of malice and insanity.<ref name="ee-sea-01-of-sea-and-shadow-c25" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Nakothi]]’s [[Handmaiden]] has bony hands and swarming tentacles.<ref name="ee-sea-01-of-sea-and-shadow-c27">''Of Sea and Shadow'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Handmaiden]] is a target of cannon fire from [[The Testament]].<ref name="ee-sea-01-of-sea-and-shadow-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Handmaiden is an [[Elder]] creature standing at least sixty or seventy feet tall, possessing a neck sixty feet in height and a bed of tentacles. This entity, which can cause [[Syphren]] to fall silent, is housed within a chest and directs the [[Children of the Dead Mother]]. Its physical form consists of a vast wall of pale, desiccated skin for a torso and bony, double-jointed arms. The creature's face is composed of a mass grave, a disemboweled corpse, a nest of writhing worms, and a plague-infested heart. Additionally, the Handmaiden demonstrates the ability to manipulate earth by pulling a dome away from an [[arena]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Handmaiden]] is a presence that causes [[Syphren]] to go silent.<ref name="ee-shadow-01-of-shadow-and-sea-c21">''Of Shadow and Sea'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nakothi]]’s [[Handmaiden]] directs the [[Children of the Dead Mother]].<ref name="ee-shadow-01-of-shadow-and-sea-c23">''Of Shadow and Sea'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Handmaiden]] can manipulate earth by pulling a dome of earth away from an [[arena]].<ref name="ee-shadow-01-of-shadow-and-sea-c25">''Of Shadow and Sea'', chapter 25</ref>}}</li>
@@ -45,31 +44,27 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Handmaiden]] is an [[Elder]] creature with a neck sixty feet high and a bed of tentacles.<ref name="ee-shadow-01-of-shadow-and-sea-c25" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Handmaiden]]'s torso is a vast wall of pale and desiccated skin.<ref name="ee-shadow-01-of-shadow-and-sea-c25" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Handmaiden]]'s face contains a nest of writhing worms, a disemboweled corpse, a mass grave, and a plague-infested heart.<ref name="ee-shadow-01-of-shadow-and-sea-c25" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Nakothi]]’s [[Handmaiden]] is a servant of [[Nakothi]].<ref name="ee-sea-02-of-dawn-and-darkness-c12">''Of Dawn and Darkness'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Nakothi]]’s [[Handmaiden]] almost killed [[Calder]] and [[Jerri]].<ref name="ee-sea-02-of-dawn-and-darkness-c12" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Shera]] destroyed a [[Handmaiden]] and drew its [[essence]] inside her.<ref name="ee-sea-02-of-dawn-and-darkness-c12" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Handmaiden]] attacked.<ref name="ee-shadow-02-of-darkness-and-dawn-c4">''Of Darkness and Dawn'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Handmaiden]] attacked the [[Gray Island]].<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-01-of-sea-and-shadow|“One of Nakothi’s Handmaidens. And it was your wife that did the summoning, though you knew that already, didn’t you?<ref name="ee-sea-01-of-sea-and-shadow-c25" />}}

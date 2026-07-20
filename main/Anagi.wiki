@@ -13,24 +13,22 @@
 {{spoiler|book=cradle-13-threshold|Anagi is an [[Archlord]] and the provincial ruler of [[Sailfin Port]], holding jurisdiction over its surrounding territories. Though he is considered a minor authority compared to the more powerful [[Monarch]] families, he possesses significant strength and commands a group known as the [[Flashing Knives]]. He is equipped with a sickle-and-chain weapon and is accompanied by a winged dolphin that hovers near him. Anagi has demonstrated a defiant attitude toward higher authorities, such as [[Sages]], and has even engaged in combat using black flames.}}
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Anagi]] is someone [[Yan Shoumei]] mentions.<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Shoumei]] can have [[Anagi]]'s head on a plate as a reward.<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Anagi is a provincial ruler and an [[Overlord]] who ascended from the rank of [[Archlord]] only one year prior. To perfect his physical form, he underwent three [[soulfire]] baptisms and utilizes blue madra alongside [[Ruler techniques]]. He wields a chain-and-sickle weapon that possesses a blue shine and a [[binding]] imbued with the fury of an ocean storm. While positioning his students for an upcoming invasion, he is seen wounded and with depleted [[madra]], even bursting into black flames. Throughout his actions, his voice is described as warm and slippery like a squirming eel.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">14</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Anagi]] is an [[Overlord]] who was an [[Archlord]] a year ago.<ref name="cradle-13-threshold-c3">''Threshold: Stories from Cradle'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Anagi]] is positioning his students for invasion.<ref name="cradle-13-threshold-c3" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Anagi]] has undergone three [[soulfire]] baptisms to perfect his body.<ref name="cradle-13-threshold-c3" />}}</li>
@@ -45,8 +43,7 @@
 <li>{{spoiler|book=cradle-13-threshold|[[Anagi]] uses a chain-and-sickle weapon.<ref name="cradle-13-threshold-c3" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Anagi]] burst into black flames.<ref name="cradle-13-threshold-c3" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Anagi]] was a powerful [[Archlord]].<ref name="cradle-13-threshold-c3" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-05-ghostwater|“Tell Anagi that he was too late! I have everything I need.”<ref name="cradle-05-ghostwater-c15" />}}

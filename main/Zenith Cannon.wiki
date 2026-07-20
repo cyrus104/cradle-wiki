@@ -11,8 +11,8 @@
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The [[Zenith]] Cannon is one of the seven legendary [[Zenith Devices]] and a highly sought-after weapon that was previously tracked passing through [[Mell]]'s location. Although it manifests as a standard white metal plasma pistol resembling a [[Lightcaster IV]], the object contains an interior of folded space large enough to hold a dreadnought without adding mass. This sentient weapon, which is capable of speaking and conducting quizzes, was donated by the narrator's father and later acquired by [[Benri Vallenar]] as a sacrificial play. While [[Varic]] requires the device and [[Mell]] suggests its retrieval, the cannon has been subject to various hands, including being cradled by [[Omega]] and eventually held by [[Sola]]. Ultimately, [[the Perfected]] managed to acquire the [[Zenith]] Cannon.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">19</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|A device matching the [[Zenith Cannon]] passed through [[Mell]]'s location last year.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is a device the crew is searching for.<ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is one of the seven [[Zenith Devices]].<ref name="lh-03-the-knight-c8" />}}</li>
@@ -32,16 +32,14 @@
 <li>{{spoiler|book=lh-03-the-knight|[[Omega]] has been whispering to the [[Zenith Cannon]].<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Sola]] has the [[Zenith Cannon]] away from [[Omega]].<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Perfected]] had acquired the [[Zenith Cannon]].<ref name="lh-03-the-knight-c37">''The Knight'', chapter 37</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Cannon]] resembles a small multicolored sun with arms like solar flares.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Cannon]] is a weapon that [[Mell]] studied to develop drone firepower.<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|Mell chewed on what I assumed was a piece of gum. “If it were me, I’d want the Zenith Cannon first.<ref name="lh-03-the-knight-c19" />}}

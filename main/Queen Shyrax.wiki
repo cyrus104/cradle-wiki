@@ -19,21 +19,20 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|Driven by an uncompromising pursuit of victory, [[Queen]] Shyrax engaged in a competition for control over [[The Last Horizon]]. During this struggle, she maintained a composed demeanor, leaning back in her seat with her arms folded. She expressed that she was merely awaiting an invitation before returning to her necessary work. Currently, rumors persist that [[the Queen]] and her rebels are operating within this sector.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Queen Shyrax]] pursues victory no matter what.<ref name="lh-01-the-captain-c12">''The Captain'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Shyrax was competing for control of [[The Last Horizon]].<ref name="lh-01-the-captain-c15">''The Captain'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Shyrax folded her arms and leaned back in her seat.<ref name="lh-01-the-captain-c15" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Shyrax stated she awaits her invitation and has work to do.<ref name="lh-01-the-captain-c15" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Queen Shyrax]] and her rebels are rumored to be in this sector.<ref name="lh-01-the-captain-c39">''The Captain'', chapter 39</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|A nine-foot-tall [[Karoshan]] woman with golden eyes and large yellow hands, the exiled [[Rebel Queen]] Shyrax serves as a journeyman Technician possessing the gift of [[Enhancement]]. While commanding her own battlecruiser and fleet, she acted as a crew member and former bodyguard to the [[Captain]] aboard [[The Last Horizon]]. During her service, she utilized telekinesis to don armor, manifested a golden [[dragon]]'s wing for protection, and projected holographic data of [[Advocate ship]] movements. After taking [[Mell]] and potentially entering an agreement with the [[Zenith]] Starship crew, she returned to her fleet to instruct her children with battle maps. Ultimately, she rallied her forces and the Advocates to stand against [[Starhammer]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">38</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">38</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|Shyrax is a [[Karoshan]] woman and the [[Queen of Karosha]].<ref name="lh-02-the-engineer-c2">''The Engineer'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]] is the commander of a personal battlecruiser.<ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Shyrax is a Highness.<ref name="lh-02-the-engineer-c3" />}}</li>
@@ -72,14 +71,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|Shyrax is the [[Rebel Queen]].<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Shyrax uses a wand that glows gold at the tip.<ref name="lh-02-the-engineer-c52" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Shyrax rallied her forces and the Advocates against [[Starhammer]].<ref name="lh-02-the-engineer-c54">''The Engineer'', chapter 54</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|[[Queen Shyrax the Third]] is a [[Captain]] and [[Commander]] who possesses dull bronze skin and gold hair-cables. Clad in ornate black and gold battle armor featuring [[dragon]] designs and hidden shield generators, she carries a wand and a golden [[force-blade]] to wield magic of enhancement and amplification. During combat, she has cut through Karoshans on a bridge and fought against green-skinned [[Perfected]] using blue [[Combat Art]]. Serving as an [[Aether Technician]] on [[Varic]]'s crew and a member of [[The Last Horizon]], she utilizes [[Perfected infiltration]] to monitor targets and focuses enhancement systems on engines. As a tactical authority figure, she provides the crew with scans, shield reports, and information regarding the energy capacity of [[Divine Titans]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">38</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">38</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The narrator needs to check on Shyrax.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Shyrax is a [[Captain]].<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Shyrax is [[Queen Shyrax the Third]].<ref name="lh-03-the-knight-c5" />}}</li>
@@ -118,14 +116,13 @@
 <li>{{spoiler|book=lh-03-the-knight|Shyrax provides scans and tactical information to the crew.<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Shyrax reports on the ship's shields.<ref name="lh-03-the-knight-c44" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Shyrax was seen looking into the distance on monitors.<ref name="lh-03-the-knight-c44" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|As a [[Karoshan]] ruler of the planet [[Basyrryx]], [[Queen]] Shyrax serves as the [[Commander]] of [[The Last Horizon]] and the Guardian of [[Shadow Ark]]. After being betrayed by [[Felrex]] a few years into her reign, she hid her children across the galaxy to protect them from him. Utilizing a variant of draconic magic and an optical implant capable of projecting footage, she manages fleet support systems and monitors sensor data while directing combat via a communicator. During intense battles, the commander—distinguished by her cable braids and a massive bronze fist covered in golden energy—has personally engaged enemies using a wand as thick as a human arm. Following a period of observing the battlefield and exulting in victory, she was eventually seen floating in a debris field amidst pearls of blood before being taken to Medical.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">35</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">35</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|Shyrax can lend [[Technicians]].<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Shyrax rules over the planet [[Basyrryx]].<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Shyrax is the [[Commander]] of [[The Last Horizon]].<ref name="lh-04-the-pilot-c6" />}}</li>
@@ -161,8 +158,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|Shyrax was seen floating in a debris field with pearls of blood.<ref name="lh-04-the-pilot-c47" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Shyrax would die first if the [[Galactic Union]] targeted the [[Karoshan Alliance]].<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Shyrax was in Medical.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“It was my understanding that we were competing for control of The Last Horizon,” she said.<ref name="lh-01-the-captain-c15" />}}

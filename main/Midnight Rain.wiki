@@ -4,14 +4,13 @@
 }}
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Midnight Rain]] is an oversized bow made from petrified wood with the blood of a [[Herald]] [[sword]] artist.<ref name="cradle-13-threshold-c3">''Threshold: Stories from Cradle'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Midnight Rain]]'s [[binding]] comes from an [[Archlord]]-level lizard.<ref name="cradle-13-threshold-c3" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Midnight Rain]] can be used to draw forth a [[Ruler technique]].<ref name="cradle-13-threshold-c3" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Midnight Rain]] is a weapon summoned by [[Yan Shoumei]].<ref name="cradle-13-threshold-c3" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

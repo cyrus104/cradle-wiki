@@ -7,34 +7,30 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Navigator]] fleet is a collection of specialized vessels belonging to the [[Navigators]] [[Guild]], essential for any maritime activity involving or traversing the [[Aion Sea]]. These ships are unique [[Awakened objects]], often characterized by unconventional and strange designs, such as hulls made from giant crab carapaces, conch shells, or metal. While most [[Navigator]] vessels are relatively small and operated by minimal crews, they possess the distinct capability to navigate deep waters that standard ships cannot reach. The fleet's strength and presence have been noted as being comparable to the scale seen during the [[Elder War]]. Beyond their utility for transport and trade, the fleet serves significant political and military roles. [[Navigators]] can provide valuable favors, such as passage to various coastal cities or the delivery of rare goods, which are highly prized by other [[Guilds]]. In times of conflict, the fleet has been used to hold imperial locations and conduct shows of force against groups like the [[Consultants]]. Notable vessels within the fleet include [[The Eternal]], which belongs to the [[Guild Head]], and [[The Testament]]. Despite their importance, the fleet can suffer significant losses in battle, leaving crews depleted and ships damaged.}}
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] captains the fastest ship in the [[Navigator fleet]].<ref name="ee-sea-02-of-dawn-and-darkness-c18">''Of Dawn and Darkness'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Navigator fleet]] has sails that are visible on the horizon.<ref name="ee-shadow-02-of-darkness-and-dawn-c19">''Of Darkness and Dawn'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Navigator fleet]] is bearing down on the [[Elders]].<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Navigator fleet]] was present at the battlefield.<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The ships of the [[Navigator fleet]] are scattered in a raging sea.<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Navigator fleet]] is forming up but is smaller and haggard.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

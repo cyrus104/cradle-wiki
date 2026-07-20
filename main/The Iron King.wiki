@@ -5,14 +5,13 @@
 }}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[The Iron King]] is a leader of the [[Iron Legion]] whose face is made of metal.<ref name="lh-01-the-captain-c28">''The Captain'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Iron King]] has a glass braincase.<ref name="lh-01-the-captain-c28" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Iron King]] has burning eyes.<ref name="lh-01-the-captain-c28" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Iron King]] has a chrome-plated hand.<ref name="lh-01-the-captain-c28" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

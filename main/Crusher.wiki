@@ -16,8 +16,8 @@
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|Crusher is a snarling monster of blood and the [[Blood Shadow]] belonging to [[Yan Shoumei]], though she did not summon this entity. As a [[Blood Shadow]] with power exceeding that of an [[Underlord]], the beast possesses incredible dexterity and leg strength. This strength operates on a conceptual level, allowing Crusher to bend the physical rules of the world much like a [[Monarch]] or [[Herald]]. During combat, the creature proved itself a formidable beast capable of striking [[Yerin]] and tossing [[Ruby]] aside.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Crusher]] is a [[Blood Shadow]] with power beyond an [[Underlord]].<ref name="cradle-08-wintersteel-c21">''Wintersteel'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Crusher]] possesses incredible leg strength and dexterity but lacks a spatial artifact or [[sacred arts]].<ref name="cradle-08-wintersteel-c21" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Crusher]]'s strength is so great that it works on a conceptual level.<ref name="cradle-08-wintersteel-c21" />}}</li>
@@ -27,36 +27,32 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Crusher]] tossed [[Ruby]] aside.<ref name="cradle-08-wintersteel-c22" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yan Shoumei]] did not summon [[Crusher]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Crusher]] is a snarling monster of blood.<ref name="cradle-08-wintersteel-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Crusher]] made a donation that [[Lindon]] used to match [[Yerin]]'s strength.<ref name="cradle-09-bloodline-c4">''Bloodline'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] had once felt a weight of conceptual strength like [[Crusher]].<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] gained strength from draining [[Crusher]].<ref name="cradle-10-reaper-c16">''Reaper'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Crusher]] is an enhanced [[Shadow]] belonging to [[Yan Shoumei]].<ref name="cradle-11-dreadgod-c9">''Dreadgod'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Residing within the depths of [[Yan Shoumei]]'s soul, Crusher is a [[Blood Shadow]] and an old friend to the purple spirit. This entity serves as a companion to [[Yan Shoumei]], acting as someone she can rely upon to undertake various risks. Crusher is composed of more than mere [[madra]], as the being carries stolen willpower and the collective weight of a dozen unique [[sacred beasts]]. Additionally, Crusher possesses a sliver of the [[Strength Icon]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Crusher]] is someone [[Yan Shoumei]] relies on to take risks.<ref name="cradle-13-threshold-c3">''Threshold: Stories from Cradle'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Crusher]] is a [[Blood Shadow]].<ref name="cradle-13-threshold-c3" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Crusher]] is a companion of [[Yan Shoumei]].<ref name="cradle-13-threshold-c3" />}}</li>
@@ -65,8 +61,7 @@
 <li>{{spoiler|book=cradle-13-threshold|[[Crusher]] carries a sliver of the [[Strength Icon]].<ref name="cradle-13-threshold-c3" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Crusher]] is an old friend of the purple spirit.<ref name="cradle-13-threshold-c3" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Crusher]] resides in the depths of [[Yan Shoumei]]'s soul.<ref name="cradle-13-threshold-c3" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

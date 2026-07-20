@@ -11,8 +11,8 @@
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|Sky's [[Mercy]] is a cloudship vessel that serves as the personal flying house for the Patriarch of the [[Arelius family]]. This mobile building functions as a vessel for descent and features various amenities, including a reservoir, six bedrooms, a washroom, and a bar. The interior also contains a training room, a silent chamber for cycling, and a control board used to navigate the ship. Both [[Lindon]] and his companions have traveled aboard this vessel, which [[Cassias]] has previously identified as a vessel.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Sky's Mercy]] is a vessel [[Cassias]] mentions.<ref name="cradle-03-blackflame-c3">''Blackflame'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Sky's Mercy]] is the personal cloudship of the [[Arelius family]] Patriarch.<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Sky's Mercy]] is a cloudship.<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}</li>
@@ -22,16 +22,14 @@
 <li>{{spoiler|book=cradle-03-blackflame|[[Sky's Mercy]] contains six bedrooms, a washroom, a bar, a training room, and a silent chamber for cycling.<ref name="cradle-03-blackflame-c7" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Sky's Mercy]] is a vessel used for descent.<ref name="cradle-03-blackflame-c8">''Blackflame'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Sky's Mercy]] is a vessel that [[Lindon]] and others have traveled on.<ref name="cradle-03-blackflame-c8" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Sky's Mercy]] is a location where [[Lindon]] is currently staying.<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Sky's Mercy]] was wrecked on the side of a mountain.<ref name="cradle-04-skysworn-c8">''Skysworn'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

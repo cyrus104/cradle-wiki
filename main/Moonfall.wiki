@@ -11,8 +11,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|Moonfall is a scorpion-shaped scout frigate owned by the narrator and piloted by [[Varic Vallenar]]. Designed for speed during long [[Subspace]] runs, this starship is equipped with plasma cannons and previously crashed into the [[Iron Hive]]. As a ship's computer, Moonfall utilizes an audio implant interface and speakers to provide internal diagnostics, announcements, and navigational inquiries to the [[Captain]]. During the events of this journey, the vessel's environment was such that the protagonist's clothing was destroyed.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">14</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Moonfall]] is a ship that crashed into the [[Iron Hive]].<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Moonfall]] is a starship equipped with plasma cannons.<ref name="lh-01-the-captain-c3" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Moonfall]] has an audio implant interface for communication.<ref name="lh-01-the-captain-c3" />}}</li>
@@ -27,15 +27,13 @@
 <li>{{spoiler|book=lh-01-the-captain|[[Moonfall]] is a starship.<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The protagonist's clothes were destroyed on [[Moonfall]].<ref name="lh-01-the-captain-c21">''The Captain'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Moonfall]] has plasma cannons.<ref name="lh-01-the-captain-c33">''The Captain'', chapter 33</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Captain]] was previously relying on [[Moonfall]]’s sensors.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|Moonfall’s smooth voice interrupted my thoughts. “Awaiting navigational data. Where would you like to go, Captain?”<ref name="lh-01-the-captain-c3" />}}

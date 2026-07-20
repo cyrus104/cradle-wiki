@@ -7,12 +7,11 @@
 }}
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Rina]] knows that the [[Alchemist's Guild]] is secretly dealing with the [[Magisters]].<ref name="ee-sea-03-of-kings-and-killers-c11">''Of Kings and Killers'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Rina]] burned an envelope after the [[Magister]] left.<ref name="ee-sea-03-of-kings-and-killers-c11" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

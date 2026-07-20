@@ -10,27 +10,24 @@
 {{spoiler|book=tg-03-city-of-light|[[Zakareth]] is the ruler of [[Damasca]] and a [[Traveler]] originating from Ragnarus. His lineage is significant, as only those of his bloodline possess the ability to open the Gate leading to his territory. Historically, the first [[King of Damasca]] utilized his [[Traveler]] abilities to secure the realm by sealing away a dangerous force. [[Zakareth]] has undergone a physical transformation through [[Incarnation]], resulting in skin marked with gold and [[ruby]] patterns, hair containing red or gold strands, a staff topped with a [[ruby]], and one eye replaced by a crimson fireball. In this state, he commands the [[Incarnations]] and seeks to bring [[Enosh]] under his control. Despite facing numerous opponents, including highly trained [[Travelers]] and [[Grandmasters]], he remains confident in his eventual return. His reign has been marked by personal turmoil, including the betrayal of his son and a daughter who was unprepared for her royal responsibilities.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|The men [[Simon]] encountered were acting on orders from the King.<ref name="tg-01-house-of-blades-c5">''House of Blades'', chapter 5</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The King would want to hear the news [[Kai]] has.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The King is being distracted by [[Zakareth]].<ref name="tg-02-crimson-vault-c16">''The Crimson Vault'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The King is dead.<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The King has the ability to seal Dragon's Fangs in the [[Vault]].<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

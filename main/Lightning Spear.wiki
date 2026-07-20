@@ -11,8 +11,8 @@
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|[[Leah]] initially carries the tall Lightning [[Spear]] in her right hand before leaving it to rest against a nearby wall. Although [[Zakareth]]'s daughter had kept the weapon for several weeks, [[King]] [[Zakareth]] eventually wields it to blast through ground and tiles. The spear is a weapon used by [[Zakareth]], though it was also once held in an iron grip by [[Leah's father]]. During a confrontation, the weapon is used to attack [[King]] [[Zakareth]], who manages to catch a spear in his palm. [[Leah]] also demonstrates the ability to pull the Lightning [[Spear]] out of nowhere, and it is noted as a weapon held by [[King Zakareth the Sixth]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Leah]] carries the [[Lightning Spear]] in her right hand.<ref name="tg-03-city-of-light-c9">''City of Light'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Leah]] holds a tall [[Lightning Spear]].<ref name="tg-03-city-of-light-c9" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|A [[Lightning Spear]] is resting against a wall near [[Leah]].<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
@@ -25,8 +25,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|The [[Lightning Spear]] is a weapon used by [[Zakareth]].<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Leah's father]] held the [[Lightning Spear]] in an iron grip.<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Lightning Spear]] was used to attack [[King]] [[Zakareth]].<ref name="tg-03-city-of-light-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -11,43 +11,38 @@
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|As an imperial clan, the [[Naru]] serve as the traditional servants of the [[Blackflame family]] and act as the public face of the [[Blackflame Empire]]. Recognized for their loyalty, members of this group are distinguished by their shining [[emerald]] wings. While the clan is noted in the accounts of [[Cassias]], they maintain strict control over their traditions by only permitting a small number of disciples to undergo the [[Blackflame Trials]] each year.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Naru clan]] are the traditional servants of the [[Blackflame family]] and became the face of the [[Blackflame Empire]].<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Naru clan]] has shining [[emerald]] wings and a loyal reputation.<ref name="cradle-03-blackflame-c1" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Naru clan]] is a group mentioned by [[Cassias]].<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Naru clan]] only permits a handful of disciples to use the [[Blackflame Trials]] each year.<ref name="cradle-03-blackflame-c16">''Blackflame'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Naru]] is an imperial clan.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|The [[Naru clan]] follows the [[Path of Grasping Sky]].<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Naru Huan]] is the Patriarch of the [[Naru clan]].<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Naru clan]] has a headquarters on a hilltop near a shadowy portal.<ref name="cradle-06-underlord-c11">''Underlord'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Naru clan]] is a group.<ref name="cradle-07-uncrowned-c9">''Uncrowned'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

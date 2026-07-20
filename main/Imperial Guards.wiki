@@ -9,28 +9,26 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Imperial Guard]] is a highly numerous and widespread [[Imperial]] [[Guild]] characterized by its intense dedication to protecting [[Emperor (Elder Empire)|the Emperor]]. Known for their extreme alertness and paranoia, they serve as a primary security force throughout the [[Capital]] and the [[Imperial Palace]], patrolling streets, rooftops, and entrances. While some other elite guilds view them with condescension due to their lower entry requirements and tendency to handle mundane tasks like riot control or storehouse patrolling, the Guard is widely recognized for its ability to detect intruders. [[The Guild]]'s existence is fundamentally tied to the presence of an [[Emperor (Elder Empire)|Emperor]]; without one, the organization faces potential collapse. Members of the Guard are easily identified by their red-and-black uniforms, which often feature the [[Aurelian]] Shield crest. A defining characteristic of the [[Guild]] is the use of alchemical processes to integrate [[Kameira]] body parts into their own, resulting in various physical augmentations such as talons, extra limbs, glowing eyes, or specialized sensory organs. These enhancements provide enhanced abilities but also serve to bind members to the [[Guild]]. The organization is led by [[General Jarelys Teach]], a formidable figure who rose to power through combat. Within the [[Guild]], certain individuals known as [[Champions]] are distinguished by their unique armor and specialized weaponry.}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Imperial Guards]] pulled [[Rojric]] back.<ref name="ee-sea-01-of-sea-and-shadow-c2">''Of Sea and Shadow'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Imperial Guards]] are a group of soldiers.<ref name="ee-sea-01-of-sea-and-shadow-c16">''Of Sea and Shadow'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Imperial Guards]] are stationed in the corners of the chamber.<ref name="ee-sea-01-of-sea-and-shadow-c26">''Of Sea and Shadow'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Imperial Guards]] dragged [[Rojric]] [[Marten]]'s body away.<ref name="ee-sea-01-of-sea-and-shadow-c26" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Imperial Guards]] were waiting against the wall.<ref name="ee-shadow-01-of-shadow-and-sea-c14">''Of Shadow and Sea'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Imperial Guards]] have hunting parties that are sabotaged by [[Greenwardens]].<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Equipped with [[Kameira enhancements]], the [[Imperial]] [[Guards]] were observed attacking the [[Elder wall]] with their weapons. Following a confrontation, wounded members of the unit were seen cleaning [[Elderspawn]] gore from the courtyard while others struggled to their feet to call for reinforcements. During this period, the guards tended to the [[Guild Head]] and seized [[Lucan]] at weapon-point. While some guards stationed at the armory possessed six-fingered hands, muscled arms, and crocodile-like teeth, the unit was positioned outside the doors when [[Meia]] vanished. Ultimately, the [[Imperial]] [[Guards]] performed a leap from ships onto the [[Gray Island]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Imperial Guards]] were cutting at the [[Elder wall]] with weapons.<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Wounded [[Imperial Guards]] were cleaning up [[Elderspawn]] gore in the courtyard.<ref name="ee-sea-02-of-dawn-and-darkness-c10">''Of Dawn and Darkness'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Imperial Guards]] tend to the [[Guild Head]].<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref>}}</li>
@@ -40,21 +38,19 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Imperial Guards]] were outside the doors when [[Meia]] disappeared.<ref name="ee-sea-02-of-dawn-and-darkness-c18">''Of Dawn and Darkness'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Imperial Guards]] guarding the armory have crocodile-like teeth, muscled arms, and six-fingered hands.<ref name="ee-sea-02-of-dawn-and-darkness-c18" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Imperial Guards]] leap from ships onto the [[Gray Island]].<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Four [[Imperial Guards]] stood in front of the gates of [[Hightower]].<ref name="ee-shadow-02-of-darkness-and-dawn-c8">''Of Darkness and Dawn'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Clad in black and red uniforms, the [[Imperial]] [[Guards]] possess enhanced senses. During the coronation ceremony, they fill the sky before later escorting [[Calder]]. When [[Calder]] issued a call for assistance, the guards responded and were seen tending to the injured with bandages. While some members stood at the bottom of a ramp, others were observed cowering by the doors. Ultimately, most of the [[Imperial]] [[Guards]] find themselves fighting aboard [[Navigator]] vessels.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Imperial Guards]] wear black and red uniforms.<ref name="ee-sea-03-of-kings-and-killers-c1">''Of Kings and Killers'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Imperial Guards]] have enhanced senses.<ref name="ee-sea-03-of-kings-and-killers-c1" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Imperial Guards]] fill the sky during the coronation.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
@@ -64,16 +60,14 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Imperial Guards]] are standing at the bottom of a ramp.<ref name="ee-sea-03-of-kings-and-killers-c17">''Of Kings and Killers'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Imperial Guards]] were cowering by the doors.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Most [[Imperial Guards]] are fighting on [[Navigator]] vessels.<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Imperial Guards]] wear red-and-black uniforms and have [[Kameira limbs]].<ref name="ee-shadow-03-of-killers-and-kings-c5">''Of Killers and Kings'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Imperial Guards]] were filling the streets below.<ref name="ee-shadow-03-of-killers-and-kings-c16">''Of Killers and Kings'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

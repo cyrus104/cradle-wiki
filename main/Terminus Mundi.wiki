@@ -9,35 +9,32 @@
 {{spoiler|book=lh-04-the-pilot|Terminus Mundi is a form of memory manifestation magic that creates a temporary, pseudo-world. This conjured environment often manifests as an endless expanse of darkness and is composed of various body parts, such as hands and eyes, which are summoned from blue light. These components serve as inhabitants of the spell; for instance, certain eyes can be used to perceive the flow of the [[Aether]]. The magic is not permanent and will eventually crack, crumble, and collapse. Users of this magic can be inducted into its properties, which may grant them enhanced perception.}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Terminus Mundi]] is a spell from a language spoken in the age of [[Horizon]]'s creation.<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Terminus Mundi]] projects darkness that overlaps the real world.<ref name="lh-01-the-captain-c45" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Terminus Mundi]] is an isolated world that can wear down combatants over time.<ref name="lh-01-the-captain-c46">''The Captain'', chapter 46</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Horizon]] claims the [[Captain]] has been inducted into the magic of [[Terminus Mundi]].<ref name="lh-01-the-captain-c48">''The Captain'', chapter 48</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Terminus Mundi]] is a spell that creates a pseudo-world.<ref name="lh-02-the-engineer-c25">''The Engineer'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Terminus Mundi]] is a form of memory manifestation magic.<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Terminus Mundi possesses the ability to manifest multiple hands and more than one pair of [[Aethril eyes]]. These manifested features serve various functions, as its eyes can cast visual illusions while its hands induce paralysis upon contact. During the events of this volume, the entity eventually cracked and crumbled.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Terminus Mundi]] contains more than one pair of [[Aethril eyes]].<ref name="lh-04-the-pilot-c40">''The Pilot'', chapter 40</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Terminus Mundi]] can manifest hands and eyes.<ref name="lh-04-the-pilot-c44">''The Pilot'', chapter 44</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Terminus Mundi]] can manifest an eye that casts visual illusions.<ref name="lh-04-the-pilot-c44" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Terminus Mundi]] can manifest hands that induce paralysis on touch.<ref name="lh-04-the-pilot-c44" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Terminus Mundi]] cracked and crumbled.<ref name="lh-04-the-pilot-c44" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

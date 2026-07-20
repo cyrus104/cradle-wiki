@@ -4,14 +4,13 @@
 }}
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Diamondscale Sea Drakes]] were once kept in captivity by refiners but broke free decades ago and have been breeding in the wild.<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The Diamondscale [[Sea Drake]] has saber-sharp teeth and a light in its throat like a blue furnace.<ref name="cradle-05-ghostwater-c12">''Ghostwater'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The Diamondscale [[Sea Drake]] has mastery of [[water aura]] allowing it to swim through air.<ref name="cradle-05-ghostwater-c12" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Orthos]] and [[Ziel]] eat the corpse of the Diamondscale [[Sea Drake]].<ref name="cradle-05-ghostwater-c13">''Ghostwater'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

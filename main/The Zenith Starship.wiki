@@ -11,8 +11,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The [[Zenith]] Starship is a vessel equipped with protections against magic and possesses unknown, potentially unpredictable capabilities. As an entity that individuals must prove themselves to, it eventually accepts the protagonist as its [[Captain]], housing the vessel's [[Captain]]'s quarters. While the narrator's father seeks to benefit from the ship, the [[Galactic Union]] has requested visual confirmation of its presence. Ultimately, the [[Zenith]] Starship serves as the sole entity capable of informing [[Varic]] that he possesses seven different versions of himself.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[The Zenith Starship]] has protections against magic.<ref name="lh-01-the-captain-c8">''The Captain'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Zenith Starship]] is an entity that individuals prove themselves to.<ref name="lh-01-the-captain-c12">''The Captain'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Zenith Starship]] is the ship where the [[Captain]]'s quarters are located.<ref name="lh-01-the-captain-c21">''The Captain'', chapter 21</ref>}}</li>
@@ -21,14 +21,13 @@
 <li>{{spoiler|book=lh-01-the-captain|[[The Zenith Starship]] is a vessel that the [[Galactic Union]] requested visual confirmation of.<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Zenith Starship]] is a vessel whose capabilities are unknown and potentially unpredictable.<ref name="lh-01-the-captain-c42">''The Captain'', chapter 42</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Zenith Starship]] is the only entity that could tell [[Varic]] he had seven versions of himself.<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|The [[Zenith]] Starship, also known as the Last [[Horizon]], is a legendary vessel located in the [[Advocate]] hangar that possesses magic considered a forbidden secret of the galaxy. This starship features fabricators and a command structure that is open to challenge, while its contracts grant crew members unrestricted access for at least five years. After the [[Captain]] successfully inherited the ship, it was seen cresting a nearby asteroid and has previously defeated an enemy. During its history, the vessel has endured testing by a creature dragging claws across its hull and has been subject to repairs. While [[Mell]] was teleported into the ship and looks forward to taking full advantage of it, [[Starhammer]]—who can personally match the vessel—expected to be detected by its sensors.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">19</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[The Last Horizon]] is a [[Zenith]] Starship.<ref name="lh-02-the-engineer-c2">''The Engineer'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Zenith Starship]] has a command structure that can be challenged for.<ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Zenith Starship]] wishes to know if the crew members have the stuff of heroes.<ref name="lh-02-the-engineer-c4">''The Engineer'', chapter 4</ref>}}</li>
@@ -48,14 +47,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[The Zenith Starship]] has fabricators.<ref name="lh-02-the-engineer-c47">''The Engineer'', chapter 47</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Zenith Starship]] is a vessel whose crew might attempt to rescue [[Varic]].<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Zenith Starship]] is located in the [[Advocate]] hangar.<ref name="lh-02-the-engineer-c53">''The Engineer'', chapter 53</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|After being captured, a bounty was placed upon the [[Zenith]] Starship. The vessel eventually came into the possession of its crew and was utilized by the team led by [[Benri Vallenar]]. Ryzer and [[Raion]] later required the ship to facilitate their return, though it soon came under fire from [[Visiri]] bullets and bolts. During the ensuing conflict, the starship engaged in war at full power for the first time in centuries. Ultimately, the ship provided a way for [[Horizon]] to share the burden of spellcasting.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|There is a bounty for the captured [[Zenith]] Starship.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The crew possesses the [[Zenith]] Starship.<ref name="lh-03-the-knight-c19">''The Knight'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Zenith Starship]] is used by [[Benri Vallenar]]'s team.<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref>}}</li>
@@ -63,14 +61,13 @@
 <li>{{spoiler|book=lh-03-the-knight|[[The Zenith Starship]] is being targeted by [[Visiri]] bullets and bolts.<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Zenith Starship]] went to war at full power for the first time in centuries.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Zenith Starship]] allows [[Horizon]] to share the burden of spellcasting.<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Associated with the [[Rebel Queen]], the [[Zenith]] Starship is a [[Karoshan]] vessel constructed of smooth, dark metal that shines with blue-green hues. Resembling a dark-metal bird, this exploratory transport for heroes serves as a home to certain wizards-in-training and features a prow armed with razor-edged energy. Although it functions as a vessel for heroes, the ship has declared war on the [[Galactic Union]] and can conjure entire armies of ships despite lacking its usual [[Nova-Bots]] and supplementary craft. During a [[Karoshan]] invasion of [[Zykaros]], the ship's form elongated and sharpened into blade-like wings sparking with blue electricity. While it can attempt to seize control from its pilot, the vessel has faced damage from [[Aila]]'s [[Combat Art]] and remains a target that the [[Vallenar Corporation]] may eventually tear down.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">22</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">22</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[The Zenith Starship]] is associated with the [[Rebel Queen]].<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Zenith Starship]] is a ship with devastating power and uncertain allegiance.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Zenith Starship]] is made of smooth, dark metal that shines blue-green.<ref name="lh-04-the-pilot-c2" />}}</li>
@@ -93,8 +90,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[The Zenith Starship]] is a [[Karoshan]] vessel.<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Zenith Starship]] is part of a [[Karoshan fleet]] invading [[Zykaros]].<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Zenith Starship]] elongated and sharpened, with wings like blades that sparked with blue electricity.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“Last Horizon, hold your position. We’d like visual confirmation of the Zenith Starship.”<ref name="lh-01-the-captain-c36" />}}

@@ -11,8 +11,8 @@
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|The [[Eye]] of the Deep is a round, cut sapphire slightly larger than a fist that shimmers like sunlight filtered through water. Carried by [[Renfei]], the jewel possesses the ability to deactivate portals and serves as the key to [[Ghostwater]]. The gem contains a damaged internal [[construct]] and leaks white-and-purple dream madra [[essence]] from a crack, while also projecting a blue light over an indentation in a stone tower. Although [[Lindon]] eventually released the item, [[Dross]] is located within it, and the gem functions as a key to the facility. An [[Eye]] of the Deep is also known to be in the possession of [[Harmony]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Eye of the Deep]] is a sapphire that shimmers like sunlight filtered through water and casts blue illumination.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Eye of the Deep]] is an item carried by [[Renfei]].<ref name="cradle-05-ghostwater-c2" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Renfei]] was gripping the [[Eye of the Deep]] in her left hand.<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}</li>
@@ -28,15 +28,13 @@
 <li>{{spoiler|book=cradle-05-ghostwater|An [[Eye of the Deep]] is a key to the facility.<ref name="cradle-05-ghostwater-c15" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|An [[Eye of the Deep]] is mentioned.<ref name="cradle-05-ghostwater-c15" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Harmony]] possesses an [[Eye of the Deep]].<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Lindon]] combined [[Dross]] with the [[Eye of the Deep]].<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-05-ghostwater|“This is the key to Ghostwater, but it’s losing cohesion.<ref name="cradle-05-ghostwater-c6" />}}

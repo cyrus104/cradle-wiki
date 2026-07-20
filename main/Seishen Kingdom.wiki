@@ -11,8 +11,8 @@
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|Situated beyond the southern jungles, the [[Seishen]] [[Kingdom]] is an elite-class state protected by the [[Akura clan]] and eyes the lands of the [[Blackflame Empire]]. During a conflict with the [[Empire]], the kingdom—led by First Prince [[Kiro]] and an [[Underlady]]—launched a feared broad attack that pushed toward the edge of the portal. This faction, which maintains a castle in [[Night Wheel Valley]] and utilizes [[sacred artists]], has recently minted Underlords and erected defenses on the other side of the portal. While they may possess ward keys for the boundary field and have benefited from [[Charity]]'s garden, [[Mercy]] has accused [[Akura Charity]] of providing them with warnings.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">20</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">20</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Seishen Kingdom]] is one of the two weakest vassal states under the [[Akura clan]]'s protection.<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Seishen Kingdom]] is located beyond the southern jungles and eyes the [[Blackflame Empire]]'s lands.<ref name="cradle-06-underlord-c4" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Seishen Kingdom]] is a kingdom with an elite class.<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}</li>
@@ -33,14 +33,13 @@
 <li>{{spoiler|book=cradle-06-underlord|The [[Seishen Kingdom]] follows the [[Blackflame Empire]]'s ship.<ref name="cradle-06-underlord-c18">''Underlord'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Seishen Kingdom]] is a location where enemies can be sent.<ref name="cradle-06-underlord-c20">''Underlord'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Mercy]] accused [[Akura Charity]] of warning the [[Seishen Kingdom]].<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|The [[Seishen]] [[Kingdom]] is a fortified realm featuring walls draped in its own flags and various hastily built constructions. Within this territory, the home of [[Prince Daji]], [[Soulsmiths]] design constructs while [[Golds]] utilize cloudships for scouting missions. As [[Lindon]] arrives to find prepared rooms and scavenges plates from the kingdom, he carries samples of their armor within his [[soulspace]]. During combat, the kingdom's Underlords fight alongside [[Pride]] and [[Mercy]], though the violence of such encounters can leave an [[Underlord]] lying in pieces on the floor.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] kept samples of armor from the [[Seishen Kingdom]] in his [[soulspace]].<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Seishen Kingdom]]'s flags fly over the fortress wall.<ref name="cradle-08-wintersteel-c9" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Seishen Kingdom]] prepares rooms for [[Lindon]].<ref name="cradle-08-wintersteel-c9" />}}</li>
@@ -54,29 +53,26 @@
 <li>{{spoiler|book=cradle-08-wintersteel|Talking with the [[Seishen Kingdom]] would be uncomfortable for [[Lindon]].<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Pride]] and [[Mercy]] fight side-by-side with the [[Seishen Kingdom]] Underlords.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|A [[Seishen Kingdom]] [[Underlord]] lay in pieces on the floor.<ref name="cradle-08-wintersteel-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Meira]] is the [[Underlady]] of the [[Seishen Kingdom]].<ref name="cradle-09-bloodline-c3">''Bloodline'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Seishen Kingdom]] raised a fortress at the border of [[Sky's Edge]].<ref name="cradle-09-bloodline-c4">''Bloodline'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|The [[Seishen]] [[Kingdom]] is a sovereign nation that faces an uncertain future due to the actions of [[Daji]], who is considered the son of the kingdom. These actions have placed the entire realm in significant danger. Because the [[Seishen]] [[Kingdom]] has no remaining heirs, it is destined to become a vassal country of the [[Akura clan]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The [[Seishen Kingdom]] has no further heirs.<ref name="cradle-13-threshold-c9">''Threshold: Stories from Cradle'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Seishen Kingdom]] is to become a vassal country of the [[Akura clan]].<ref name="cradle-13-threshold-c9" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Daji]] is the son of the [[Seishen Kingdom]].<ref name="cradle-13-threshold-c9" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Daji]]'s actions put the [[Seishen Kingdom]] in danger.<ref name="cradle-13-threshold-c9" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Seishen Kingdom]] is a kingdom.<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-06-underlord|“Congratulations to the Seishen Kingdom,” Charity said. “It seems you have benefited greatly from my garden.”<ref name="cradle-06-underlord-c16" />}}

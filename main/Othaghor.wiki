@@ -11,49 +11,45 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|Originally, the [[Greenwardens]] were established to counteract the worship of Othaghor. This entity is known for its ability to share bodies and contains a desert temple within itself. During the events of the story, [[Calder]] successfully conquered Othaghor's brood along with various unnamed monsters. Eventually, the [[Estyr Six]] managed to reach Othaghor, an entity driven by a desire to preserve [[life]] above all else.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Othaghor]] is a figure whose worship the [[Greenwardens]] were originally meant to counteract.<ref name="ee-sea-01-of-sea-and-shadow-c4">''Of Sea and Shadow'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Othaghor]] is said to share bodies.<ref name="ee-sea-01-of-sea-and-shadow-c6">''Of Sea and Shadow'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] conquered the unnamed monsters of [[Othaghor]] and his brood.<ref name="ee-sea-01-of-sea-and-shadow-c21">''Of Sea and Shadow'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Othaghor]] was reached by the [[Estyr Six]].<ref name="ee-sea-01-of-sea-and-shadow-c26">''Of Sea and Shadow'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Othaghor]] wants to preserve [[life]] above all else.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Othaghor]] contains a desert temple.<ref name="ee-sea-01-of-sea-and-shadow-c28" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Othaghor]] is capable of taking bodies.<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Othaghor]] is a possible deity or symbol worshipped by the [[Sleepless]].<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A voice like [[Othaghor]] bellowed behind [[Meia]].<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Bellowing Horror]] is a spawn of [[Othaghor]].<ref name="ee-sea-02-of-dawn-and-darkness-c3">''Of Dawn and Darkness'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Othaghor]] is dividing people up piece by piece to be devoured.<ref name="ee-sea-02-of-dawn-and-darkness-c18">''Of Dawn and Darkness'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Othaghor]] is a [[Great Elder]].<ref name="ee-shadow-02-of-darkness-and-dawn-c1">''Of Darkness and Dawn'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Othaghor]] is a figure associated with the era of the [[Great Elders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c16">''Of Darkness and Dawn'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Othaghor]] is a frog-faced [[Great Elder]].<ref name="ee-shadow-02-of-darkness-and-dawn-c18">''Of Darkness and Dawn'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Othaghor]] has bizarre amphibian creatures.<ref name="ee-shadow-02-of-darkness-and-dawn-c18" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Othaghor is an unknown entity characterized by endless biology involving constant mutation, consumption, and breeding. This creature possesses a flattened, centipede-like body the size of a large dog, featuring bright green skin, webbed amphibian legs, and three yellow eyes on each side of its head. Its anatomy includes jaws resembling a mix of spider mandibles and fish teeth, ending in a long stinger with a red tip. As a being capable of creating any living creature, Othaghor produces [[Elderspawn]] and other spawn that inhabit the [[island]]. The resulting hordes are feared for their variety of poisons and claws that can pierce minds and rend iron.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Othaghor]] is the size of a large dog and flattened like a centipede with webbed amphibian legs.<ref name="ee-sea-03-of-kings-and-killers-c8">''Of Kings and Killers'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Othaghor]] has bright green skin and three yellow eyes on either side of its head.<ref name="ee-sea-03-of-kings-and-killers-c8" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Othaghor]] has a long red-tipped stinger at the end of its body.<ref name="ee-sea-03-of-kings-and-killers-c8" />}}</li>
@@ -65,16 +61,14 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The hordes of [[Othaghor]] possess claws that can rend iron and pierce minds.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Othaghor]] is an unknown entity.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Othaghor]] is endless biology involving breeding, consumption, and mutation.<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Othaghor]] is a [[Hordefather]].<ref name="ee-shadow-03-of-killers-and-kings-c7">''Of Killers and Kings'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Othaghor]] is something the [[Regents]] might let out for a fistfight.<ref name="ee-shadow-03-of-killers-and-kings-c13">''Of Killers and Kings'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“He carries with him a Bellowing Horror, a spawn of Othaghor that often declares death.”<ref name="ee-sea-02-of-dawn-and-darkness-c3" />}}

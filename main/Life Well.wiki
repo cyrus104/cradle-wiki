@@ -9,22 +9,20 @@
 == Ghostwater ==
 {{spoiler|book=cradle-05-ghostwater|Located near the [[Blackflame Empire]] delegation, the Life Well is a specialized facility capable of bolstering a line of [[life]] [[aura]] and restoring youth. While [[Lindon]] sat against the structure, [[Orthos]] consumed liquid from the well. Following these events, [[Dross]] managed to retain a single vial taken from the site.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Life Well]] is a facility that bolsters the line of [[life]] [[aura]] and can restore youth.<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] sits against the [[Life Well]].<ref name="cradle-05-ghostwater-c15" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Orthos]] drinks from the [[Life Well]].<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Life Well]] is a location near the [[Blackflame Empire]] delegation.<ref name="cradle-05-ghostwater-c16" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Dross]] kept one vial from the [[Life Well]].<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Life Well]] can heal a damaged lifeline.<ref name="cradle-06-underlord-c12">''Underlord'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -9,45 +9,42 @@
 {{spoiler|book=lh-04-the-pilot|Solstice is a powerful and elusive organization that exerts control over the [[Galactic Union]]. Described as a group of [[World Spirits]], it possesses an information network that is significantly larger than any major corporation. While some believe it to be a secret society responsible for orchestrating widespread chaos and engineering conflicts—such as the destruction of ships to force combat or manipulating events to allow the [[Galactic Union]] to appear heroic—others suggest that its existence is more of a shared perception than a formal entity. The organization has been accused of stripping freedom from citizens across numerous worlds, though it is composed of people rather than being a hive-mind. It is considered an extremely difficult enemy to identify or confront due to its formless nature.}}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Solstice]] is an organization mentioned by [[Omega]].<ref name="lh-01-the-captain-c41">''The Captain'', chapter 41</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Solstice]] is a secret organization that controls the [[Galactic Union]].<ref name="lh-01-the-captain-c48">''The Captain'', chapter 48</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|Solstice is an organization that once stood against [[Starhammer]] during his era of conquest. The group maintains a massive information network that far exceeds the scale of any existing corporations. By acting as a shadow power, they effectively puppeteer the [[Galactic Union]]. In an effort to force a confrontation, Solstice even resorted to destroying their own ships. Currently, the entity remains a primary target for [[Omega]], who seeks to defeat them.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Solstice]] is an entity that [[Omega]] wants to defeat.<ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Solstice]] was one of the groups [[Starhammer]] fought during his conquest.<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Solstice]] has an information network that dwarfs any corporations.<ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Solstice]] is an organization that puppeteers the [[Galactic Union]].<ref name="lh-02-the-engineer-c34">''The Engineer'', chapter 34</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Solstice]] blew up their own ships to force a fight.<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Solstice is a formless, specter-like enemy known for stealing the freedom of average citizens across hundreds of different planets. This entity is identified as a target by [[Omega]] and may have been attempting to ensnare the speaker within a web. While information gathered aboard the ship might be relayed back to Solstice, the name also serves as a location where [[Benri]] receives a welcome.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Solstice]] stole freedom from average citizens across hundreds of planets.<ref name="lh-03-the-knight-c15">''The Knight'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Solstice]] may have been trying to catch the speaker in a web.<ref name="lh-03-the-knight-c19">''The Knight'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Information learned on the ship might be sent back to [[Solstice]].<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Solstice]] is a target mentioned by [[Omega]].<ref name="lh-03-the-knight-c22" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Solstice]] is an enemy described as a specter with no form.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Solstice]] is a location where [[Benri]] is being welcomed.<ref name="lh-03-the-knight-c45" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Solstice is a mysterious shadow organization rooted in the [[Galactic Union]] that operates through a high command of [[World Spirits]] who have turned against their mortal population. This entity maintains members everywhere, possessing the power to hire off-the-books crews, order [[Union]] fleets without repercussions, and use human shields or proton bombs to achieve its ends. While the group has functioned as a former employer for [[Omega]] and maintains various unbreakable contracts, they are also recognized as a real threat to [[Galactic Union]] citizens with the ultimate goal of taking over the galaxy. Despite being tracked to the [[Zykaros system]] and having their location identified, Solstice continues to rule from the shadows, even after betraying [[Benri Vallenar]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">61</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">61</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Solstice]] is a location that requires someone from [[Planetary Security]] to operate out of [[Fathom]].<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|A huge man intended to meet [[Solstice]].<ref name="lh-04-the-pilot-c2" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Solstice]] is a group willing to sacrifice their own men and use proton bombs.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
@@ -109,8 +106,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]] regretted never being able to kill [[Solstice]].<ref name="lh-04-the-pilot-c47" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Solstice]] was the subject of a request by [[Omega]].<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The narrator cursed [[Solstice]].<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|“Solstice blew up their own ships. They’re making sure we have to fight.<ref name="lh-02-the-engineer-c36" />}}

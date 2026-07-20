@@ -6,13 +6,12 @@
 }}
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|Emara is the [[Grand Elder]] of [[Heaven’s Glory School]].<ref name="cradle-09-bloodline-c7">''Bloodline'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Grand Elder Emara]] has not held her position for long.<ref name="cradle-09-bloodline-c7" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Grand Elder Emara]] is part of the Heaven’s Glory group.<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

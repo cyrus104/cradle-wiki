@@ -9,84 +9,74 @@
 {{spoiler|book=cradle-13-threshold|[[Blackflame]] City serves as the imperial capital of the [[Blackflame Empire]]. The city is characterized by its black, spiked walls that extend toward the horizon and gates guarded by lizard-like [[Remnants]]. It is a significant location where the empire's most influential figures, along with their staff and servants, gather when summoned by [[the Emperor]]. The city's architecture includes an imperial palace where administrative tasks are conducted and where [[the Emperor]] resides on a throne of gold and [[jade]]. While much of the empire's history is tied to the legacy of black [[dragons]], the city itself has been a site of significant activity, including being the target of powerful [[Blackflame]] techniques and serving as a hub for various clans and officials. The city's defenses are notable, with dark flames capable of incinerating debris before it reaches the ground within the city borders.}}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|[[Blackflame City]] is a location where [[Eithan]]'s clan organizes street sweepers.<ref name="cradle-02-soulsmith-c14">''Soulsmith'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Eithan]] spent his childhood in [[Blackflame City]].<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Yerin]] has never been to [[Blackflame City]].<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Blackflame City]] contains an [[Imperial]] palace.<ref name="cradle-05-ghostwater-c4">''Ghostwater'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
 {{spoiler|book=cradle-06-underlord|As the capital of the [[Empire]], [[Blackflame]] City serves as a central hub for power. By imperial decree, [[the Emperor]] required all significant clans, schools, and sects to travel to the city, specifically summoning only the most influential and powerful entities. Outside the city walls, a [[Blackflame]] camp was established, featuring hundreds of medical tents arranged in long rows. Additionally, the [[Imperial cloudship]] remained stationed just outside the city's perimeter.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Blackflame City]] is the capital of the [[Empire]].<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[The Emperor]] decreed that all important sects, schools, and clans should head to [[Blackflame City]].<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[The Emperor]] called only the strongest and most influential to [[Blackflame City]].<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Blackflame City]] has hundreds of medical tents set in long rows outside its walls.<ref name="cradle-06-underlord-c12">''Underlord'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Blackflame]] camp is located outside the walls of [[Blackflame City]].<ref name="cradle-06-underlord-c14">''Underlord'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Imperial cloudship]] waited just outside the walls of [[Blackflame City]].<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Blackflame City]] is a city with buildings below the training room window.<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Blackflame City]] is a location that [[Yerin]] does not want [[Dreadgods]] to trample.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Blackflame City]] is a location where one can return with wishes granted.<ref name="cradle-08-wintersteel-c11">''Wintersteel'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|Similar failures to [[Ozmanthus]]' work were once kept in [[Blackflame City]].<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Blackflame City]] was evacuated before the [[Wandering Titan]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The group will emerge in [[Blackflame City]].<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|New presences were coming from the direction of [[Blackflame City]].<ref name="cradle-12-waybound-c19">''Waybound'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Blackflame City]] is a reference used by [[Eithan]] regarding the naming of [[Windfall]].<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-03-blackflame|"I spent most of my childhood in Blackflame City,"<ref name="cradle-03-blackflame-c10" />}}

@@ -9,15 +9,14 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The Hunter-ships are a group of five distinct vessels characterized by their silvery, wedge-shaped forms. These ships are encased in a protective carapace that resembles insect shells and can multiply until they appear as silver teeth. Due to their nature, these vessels possess the potential to choke space with plasma.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Hunter-ships]] are silvery wedges covered in shell-like insect carapace.<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|There are five [[Hunter-ships]].<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|There are vessels known as [[Hunter-ships]].<ref name="lh-01-the-captain-c22">''The Captain'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Hunter-ships]] are ships that can multiply and appear as silver teeth.<ref name="lh-01-the-captain-c29">''The Captain'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Hunter-ships]] are vessels that could potentially choke space with plasma.<ref name="lh-01-the-captain-c42">''The Captain'', chapter 42</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

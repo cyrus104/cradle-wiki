@@ -16,8 +16,8 @@
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|Kelarac is a [[Great Elder]] and [[Reader of Memory]] known as the Collector of Souls who resides at the bottom of the sea. As the origin of the [[Lyathatan]], this being is chained to a drowned city beneath the [[Aion]] and possesses a deep, fathomless mind. Kelarac is characterized by dark skin, ringed fingers, jeweled hands, and a gold-capped smile, though his head is shrouded in [[steel]] with a metal band bolted over his eyes to act as a blindfold. Though he is the only [[Great Elder]] without a specific domain, he gathers power from humans by granting wishes in exchange for valuable items. A shrewd bargainer whose deals often doom the other party, Kelarac entered into a bargain with [[Calder]], an event that allowed [[Emperor (Elder Empire)|the Emperor]] to sense his presence upon the man.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">23</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">23</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Kelarac]] is known as the Collector of Souls.<ref name="ee-sea-01-of-sea-and-shadow-c2">''Of Sea and Shadow'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Kelarac]] is said to take souls.<ref name="ee-sea-01-of-sea-and-shadow-c6">''Of Sea and Shadow'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Kelarac]] is a being residing at the bottom of the sea.<ref name="ee-sea-01-of-sea-and-shadow-c7">''Of Sea and Shadow'', chapter 7</ref>}}</li>
@@ -41,23 +41,21 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Kelarac]] has a deep and fathomless mind.<ref name="ee-sea-01-of-sea-and-shadow-c25" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[The Emperor]] senses [[Kelarac]] upon [[Calder]].<ref name="ee-sea-01-of-sea-and-shadow-c26">''Of Sea and Shadow'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Kelarac]] could be said to grant wishes.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kelarac]] is rumored to wait at the bottom of the [[Aion]] alongside [[Nakothi]].<ref name="ee-shadow-01-of-shadow-and-sea-c16">''Of Shadow and Sea'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kelarac]] keeps the souls of those who fall afoul of his deals.<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Gardeners]] would send [[The Testament]] down to [[Kelarac]].<ref name="ee-shadow-01-of-shadow-and-sea-c27">''Of Shadow and Sea'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Once a fashionable [[Heartlander]] characterized by gold teeth and a thin beard, Kelarac is a Great One known as the [[Soul Collector]]. Although he is currently sealed at the bottom of the ocean, he remains free to act and maintains a service tied to the [[Lyathatan]]. Through the use of dreams, he provided [[Calder]] with an [[Awakened blade]] for combat against [[Elderspawn]] and has been associated with the sending of ships. This entity claims to possess knowledge regarding human [[Intent]], the future, and the secrets of worlds and time. Even while submerged, his presence is felt through his will and a visage so distorted that his cheeks appear like a mask stapled to a face.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] has the approval of [[Kelarac]].<ref name="ee-sea-02-of-dawn-and-darkness-c3">''Of Dawn and Darkness'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Kelarac]] is still free to act.<ref name="ee-sea-02-of-dawn-and-darkness-c3" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Kelarac]] is a figure whose service is tied to the [[Lyathatan]].<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
@@ -73,27 +71,25 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jerri]] perceives [[Kelarac]]'s will.<ref name="ee-sea-02-of-dawn-and-darkness-c16" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Kelarac]] was singlehandedly sent a rebel fleet down to [[Kelarac]].<ref name="ee-sea-02-of-dawn-and-darkness-c18">''Of Dawn and Darkness'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Kelarac]] was a fashionable [[Heartlander]] with a thin beard and gold teeth.<ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Kelarac is a figure associated with the ancient era of the [[Great Elders]]. This eyeless being is linked to [[Emperor (Elder Empire)|the Emperor]]'s capacity to [[Read]] and is a creature that could potentially rise from the sea. Looking toward this entity, [[Estyr]] intends to send [[Calder Marten]] down to Kelarac.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kelarac]] is mentioned in relation to [[Emperor (Elder Empire)|the Emperor]]'s ability to [[Read]].<ref name="ee-shadow-02-of-darkness-and-dawn-c12">''Of Darkness and Dawn'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kelarac]] does not have eyes.<ref name="ee-shadow-02-of-darkness-and-dawn-c15">''Of Darkness and Dawn'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kelarac]] is a figure associated with the era of the [[Great Elders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c16">''Of Darkness and Dawn'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kelarac]] is a being that could potentially rise from the sea.<ref name="ee-shadow-02-of-darkness-and-dawn-c19">''Of Darkness and Dawn'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Estyr]] intends to send [[Calder Marten]] down to [[Kelarac]].<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Kelarac is an immense, living ocean creature capable of blotting out the sun and is associated with an [[Elder]]. This entity possesses infinite knowledge and maintains a connection to [[Calder]], having left a warm, six-fingered handprint burned into the man's forearm. Appearing with a shark's head, silvery teeth, and a tower-sized dorsal fin, Kelarac's bronze, craggy body resembles an intricate statue or an ancient stone wall. While wearing a fire-reflecting blindfold, the being projects a powerful force of will and utilizes a mark to sense [[Intent]]. Kelarac is known to keep his bargains and lace his lies with truth, though he has warned [[Calder]] regarding the limitations of the [[Awakened blade]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">33</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">33</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Kelarac]] left a six-fingered handprint burned into [[Calder]]'s forearm.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] has [[Kelarac]]’s warm handprint on his arm.<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Kelarac]] left a handprint on [[Calder]]'s skin.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
@@ -127,14 +123,13 @@
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Kelarac]] has a glossy brown braid.<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Kelarac]] has thin caramel-skinned hands.<ref name="ee-sea-03-of-kings-and-killers-c25" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Kelarac]]'s war is one name for the battle against [[Kelarac]].<ref name="ee-sea-03-of-kings-and-killers-c26">''Of Kings and Killers'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|Kelarac is a shark-like creature with stony skin and a rusted [[steel blindfold]] bolted to his face who has previously been blinded and nailed to the floor of the [[Aion Sea]]. A person who enjoys buying people and marking his favorite slaves, he holds influence over [[Emperor (Elder Empire)|the Emperor]] and maintains control of the [[Empire]]. He is linked to [[Calder Marten]], whom he allegedly enthralled and used as a pawn, and may have even restored the man to [[life]]. As Kelarac approached, he was viewed as a threat requiring [[Soulbound]] to fight, though he remained open to negotiation and the offering of deals. Ultimately, after being devoured from the inside by energy, Kelarac died, leaving his power to live only in [[Shera]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">34</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">34</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kelarac]] likes to buy people.<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kelarac]] was blinded and nailed to the floor of the [[Aion Sea]].<ref name="ee-shadow-03-of-killers-and-kings-c6" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kelarac]] placed a mark on his favorite slaves.<ref name="ee-shadow-03-of-killers-and-kings-c6" />}}</li>
@@ -169,8 +164,7 @@
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kelarac]]'s power lives only in [[Shera]].<ref name="ee-shadow-03-of-killers-and-kings-c26" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kelarac]] has an arsenal of weapons.<ref name="ee-shadow-03-of-killers-and-kings-c26" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kelarac]] is dead.<ref name="ee-shadow-03-of-killers-and-kings-c27">''Of Killers and Kings'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“Kelarac is still free to act,” Jerri said.<ref name="ee-sea-02-of-dawn-and-darkness-c3" />}}

@@ -9,39 +9,36 @@
 {{spoiler|book=tg-03-city-of-light|Ornheim is a territory characterized by its rocky landscape and serves as the origin for various stone-based entities and materials. It is home to [[Travelers]] who possess the ability to summon weapons, beasts, or elemental blasts to aid them in combat. These [[Travelers]] are known for their disciplined and patient nature, often working under an [[Overlord]] to prepare massive armies of golems. These animated constructs are crafted from various stones like granite, obsidian, or flint and are powered by specific heartstones made of carved gems; destroying these gems is the primary method for dismantling them. Ornheim also provides ore used to forge specialized armor that mimics the appearance of gold but offers superior strength and lightness. Additionally, the territory is associated with an [[Incarnation]], a powerful being with skin made of stone that has been sealed beneath the earth for centuries. The [[Incarnation]] is a massive entity capable of significant physical feats and possesses colorful veins running through its body.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Ornheim]] is a [[Territory]].<ref name="tg-01-house-of-blades-c9">''House of Blades'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Ornheim]] is a location containing mounds of bleeding stone.<ref name="tg-01-house-of-blades-c23">''House of Blades'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Ornheim is a rocky territory known for its association with obsidian wolf golems. As one of the four [[Incarnations]] identified by [[Indirial]], this entity was sealed beneath the earth three centuries ago. The location is also significant for providing the ore used in the creation of armor.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Ornheim]] is a location associated with the obsidian wolf golems.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Ornheim]] is an [[Incarnation]].<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Incarnation]] of [[Ornheim]] was sealed beneath the earth three centuries ago.<ref name="tg-02-crimson-vault-c4" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|Ore for the armor was mined from [[Ornheim]].<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Ornheim]] is a [[Territory]] characterized by rocks.<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Ornheim]] is one of the four [[Incarnations]] identified by [[Indirial]].<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|The [[Elysian Incarnation]] recruited twenty-eight travelers from Ornheim. A red Gate provided a potential path into various regions of the entity's home. Standing as a nine or ten foot tall giant composed of white stone, Ornheim raised a red-and-black [[sword]]. The entity then utilized a [[gatecrawler]] to slice its way into [[Elysia]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The [[Elysian Incarnation]] has recruited twenty-eight [[Ornheim Travelers]].<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|A red Gate could lead into parts of [[Ornheim]].<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Ornheim]] is a nine or ten foot tall giant of white stone.<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Ornheim]] raised a red-and-black [[sword]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Ornheim]] used a [[gatecrawler]] to slice his way into [[Elysia]].<ref name="tg-03-city-of-light-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|“That’s four,” he said. “Endross, Ornheim, Naraka…and Ragnarus.”<ref name="tg-02-crimson-vault-c23" />}}

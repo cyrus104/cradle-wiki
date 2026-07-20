@@ -13,17 +13,16 @@
 {{spoiler|book=lh-04-the-pilot|[[King Regent]] Felrex is a ruler who governs from [[Karosha]] and maintains authority through the use of his specialized forces known as [[the Perfected]]. A former family member of Shyrax, Felrex rose to power by gathering support from [[the Perfected]] to betray her. He is characterized by a sense of certainty and pride, often viewing his enemies as insignificant insects while focusing on long-term strategies to reclaim territory. His military strength includes the [[Karoshan fleet]] and advanced technology such as the [[Zenith Cannon]]. Felrex utilizes his [[Perfected]] mages for significant rituals, including divining future possibilities for galactic rule. He maintains a heavily secured laboratory beneath his royal palace on [[Karosha]] and is known to command from the bridge of his dreadnought. While he possesses immense power, he has also been noted to experience states of extreme lethargy.}}
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Felrex]] is the [[King Regent]] of [[Karosha]].<ref name="lh-02-the-engineer-c18">''The Engineer'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|A usurper and a contender for the throne of [[Karosha]], Felrex commands the vast resources of the [[Karoshan Alliance]]. He serves as a [[King Regent]] who receives backing from a high-ranking figure within the [[Galactic Union]]. While he may have orchestrated a trap, he is also considered a possible commander of [[the Perfected]]. Though he possesses the ability to produce more of these beings, Felrex is noted for not ordering his [[Perfected]] into suicidal charges.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Felrex]] is a usurper.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Felrex]] has the resources of the [[Karoshan Alliance]] at his command.<ref name="lh-03-the-knight-c5" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Felrex]] is a contender for the throne of [[Karosha]].<ref name="lh-03-the-knight-c5" />}}</li>
@@ -32,22 +31,20 @@
 <li>{{spoiler|book=lh-03-the-knight|[[Felrex]] is a possible commander of [[the Perfected]].<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Felrex]] would not order his [[Perfected]] into a suicidal charge.<ref name="lh-03-the-knight-c35" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Felrex]] is a character who can produce more [[Perfected]].<ref name="lh-03-the-knight-c38">''The Knight'', chapter 38</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|A former member of Shyrax's family, Felrex was once a [[Perfected]]. He is an entity that [[Veshran]] has maintained independence from, though it is believed that [[Veshran]] would never be able to defeat him. Currently, Felrex requires resources in order to stabilize his systems. He is a figure cited by [[Tythalia]] when discussing the loyalty of colonists, and he is also someone whom Shyrax's children are actively hiding from.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Felrex]] is a figure mentioned by [[Tythalia]] regarding the loyalty of colonists.<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Felrex]] is someone Shyrax's children are hiding from.<ref name="lh-04-the-pilot-c6" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Felrex]] is an entity or group that [[Veshran]] has remained independent from.<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Felrex]] needs resources to stabilize his systems.<ref name="lh-04-the-pilot-c27">''The Pilot'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Felrex]] is a member of Shyrax's family and was a [[Perfected]].<ref name="lh-04-the-pilot-c36">''The Pilot'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Veshran]] would never defeat [[Felrex]].<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“Felrex would never order his Perfected into a suicidal charge.<ref name="lh-03-the-knight-c35" />}}

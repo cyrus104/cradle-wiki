@@ -4,13 +4,12 @@
 }}
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Abyssal Palace]] has collection towers erected over the homes of Sky’s Edge.<ref name="cradle-08-wintersteel-c24">''Wintersteel'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Abyssal Palace collection towers]] are scripted to prevent spiritual detection.<ref name="cradle-08-wintersteel-c24" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Abyssal Palace collection towers]] are intended to collect [[Dreadgod madra]] for their sect.<ref name="cradle-08-wintersteel-c24" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

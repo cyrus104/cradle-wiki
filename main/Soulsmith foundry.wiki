@@ -9,49 +9,43 @@
 {{spoiler|book=cradle-10-reaper|A [[Soulsmith]] foundry serves as the specialized workspace and home for [[Soulsmiths]], craftsmen who manipulate spiritual [[essence]] to create weapons, constructs, and prosthetic limbs. These facilities vary significantly in appearance; while some are simple barns or underground storehouses for volatile materials, others are grand, flashy palaces designed to showcase the artisan's status. A foundry typically contains various specialized tools, such as hammers used to inject willpower into objects or goldsteel-plated implements, and may feature boundary formations to suspend projects during the crafting process. Some advanced foundries also house massive libraries of [[dream tablets]] containing the legacies and techniques of past masters. The environment of a foundry is often filled with the unique byproducts of the craft, such as colorful sparks from severed limbs or massive, mysterious constructs. In highly advanced locations, like the [[Soulforge]], the facility itself acts as a critical component for high-level crafting, providing the necessary tier of existence required to imbue items with the authority and willpower of powerful beings. Because [[Soulsmithing]] involves working with living, unpredictable spiritual components, the foundry is a place of both immense economic value and significant danger.}}
 
 == Soulsmith ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Soulsmith foundry]] is where [[Lindon]] has seen [[Fisher]] customers.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The room [[Lindon]] and his companions entered is a [[Soulsmith]]'s foundry.<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Soulsmith foundry]] is located at the top of the [[Transcendent Ruins]].<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|The [[Soulsmith]]'s foundry is a state-of-the-art facility in [[Stormrock]] used to make and maintain Thousand-Mile Clouds and weapons.<ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Soulsmith]]'s foundry contains a dream tablet library of [[Soulsmith]] legacies.<ref name="cradle-04-skysworn-c10" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Soulsmith foundry]] in the [[Skysworn]]’s tower is advanced enough to support the creation of [[Truegold]] and [[Underlord]] constructs.<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] booked time in the tower’s [[Soulsmith foundry]].<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] plans to add a [[Soulsmith foundry]] to [[Windfall]].<ref name="cradle-09-bloodline-c5">''Bloodline'', chapter 5</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] built a [[Soulsmith foundry]] that is a large, wooden, one-roomed structure resembling a barn.<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-04-skysworn|“Soulsmith's foundry,” she said. “State-of-the-art. All of our Thousand-Mile Clouds and our weapons are made and maintained in there.<ref name="cradle-04-skysworn-c10" />}}

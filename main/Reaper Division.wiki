@@ -9,17 +9,16 @@
 {{spoiler|book=cradle-13-threshold|The [[Reaper]] Division is a specialized branch of the [[Abidan]] established to protect existence by eliminating various threats. Unlike other divisions, this group focuses on intervening in areas where the [[Abidan]] are typically unable to operate. They report directly to [[Ozriel]], who is the eighth [[Judge]] and a member of the [[Court of Seven]]. While they have successfully prevented or stopped the destruction of over one hundred worlds within their first two years, their legitimacy is currently being questioned by the [[Court]]. Some members of the [[Abidan]] view the division as traitors rather than a separate force from the original seven divisions. The group's operations have involved using specialized equipment, such as the [[Reaper]]'s [[Sword]] and the [[Reaper]]'s Scythe, and they have worked to establish their own infrastructure by repurposing existing facilities.}}
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Reaper Division]] was created for the purpose of removing threats to preserve existence.<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|As a newly formed division within the [[Abidan]], the [[Reaper]] Division focuses its efforts on intervening in situations where others are unable to act. Although the group is currently undergoing operations, it remains a division that is disdained by the [[Abidan]] of the [[Wolf Division]]. Despite hanging by a thin thread, the division has already delayed or reversed the destruction of one hundred and forty-one worlds during its first two standard years. Operating with jurisdiction in [[Threshold]], the [[Reaper]] Division's ultimate value is to be established by [[Lindon]]'s victory.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The [[Reaper Division]] focuses on intervening where others cannot.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Reaper Division]] is hanging by a thin thread.<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Reaper Division]] has jurisdiction in [[Threshold]].<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
@@ -29,8 +28,7 @@
 <li>{{spoiler|book=cradle-13-threshold|The [[Reaper Division]] is currently undergoing operations.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Reaper Division]] is a division within the [[Abidan]].<ref name="cradle-13-threshold-c12" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Reaper Division]] has delayed or reversed the destruction of one hundred and forty-one worlds in its first two standard years.<ref name="cradle-13-threshold-c12" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-12-waybound|“...the creation and operation of the Reaper Division,” Suriel continued. “For the purpose of removing threats to preserve existence.<ref name="cradle-12-waybound-c32" />}}

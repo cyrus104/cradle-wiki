@@ -5,14 +5,13 @@
 }}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Seliethin]] is a bluish, hairless, six-eyed creature that can run like an ape.<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Seliethin]] has three sets of eyes: one pair blue, one white, and one green.<ref name="tg-02-crimson-vault-c8" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Seliethin]] has thick, three-fingered hands.<ref name="tg-02-crimson-vault-c8" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Seliethin]] is a blue ape with six eyes.<ref name="tg-02-crimson-vault-c8" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

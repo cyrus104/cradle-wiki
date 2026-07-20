@@ -6,11 +6,10 @@
 }}
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Damaging [[Nakothi]]'s [[Heart]] releases [[Nakothi's Intent]], which results in a horrible death.<ref name="ee-shadow-02-of-darkness-and-dawn-c14">''Of Darkness and Dawn'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|If you do? “Nakothi’s Intent will be released, and you will die a horrible death.<ref name="ee-shadow-02-of-darkness-and-dawn-c14" />}}

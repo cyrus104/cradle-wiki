@@ -5,13 +5,12 @@
 }}
 
 == The Captain ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The King is an unborn, inactive [[Iron King]].<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The King is taller than any human man.<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The King's body contains panels that reveal guns.<ref name="lh-01-the-captain-c45" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

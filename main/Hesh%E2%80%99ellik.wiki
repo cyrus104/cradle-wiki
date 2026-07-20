@@ -12,16 +12,15 @@
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|Known as the Infester, Hesh’ellik was a [[D’Niss]] bug composed of a thousand sections. This entity specialized in fortune magic, utilizing probability manipulation to trigger unlikely disasters against its opponents. During combat, Hesh’ellik would allow time for its spells to take effect before ultimately becoming deceased.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Hesh’ellik]] is known as the Infester.<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Hesh’ellik]] is a [[D’Niss]] that specializes in fortune magic.<ref name="lh-03-the-knight-c35" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Hesh’ellik]] uses probability manipulation to evoke unlikely disasters in its opponents.<ref name="lh-03-the-knight-c35" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Hesh’ellik]] is a bug with a thousand sections.<ref name="lh-03-the-knight-c35" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Hesh’ellik]] is giving a spell time to take effect.<ref name="lh-03-the-knight-c35" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Hesh’ellik]] is deceased.<ref name="lh-03-the-knight-c35" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“Hesh’ellik, the Infester,” Horizon announced, looking down on the footage in disgust.<ref name="lh-03-the-knight-c35" />}}

@@ -5,13 +5,12 @@
 }}
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Wuraia]] is a Worldweaver and an expert in [[Worldweaving]] theory.<ref name="cradle-13-threshold-c5">''Threshold: Stories from Cradle'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Wuraia]] has a [[Pattern]] that makes her act as though she is suspended in water for purposes that benefit her.<ref name="cradle-13-threshold-c5" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Wuraia]] taught [[Zeth]] with infectious enthusiasm.<ref name="cradle-13-threshold-c5" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

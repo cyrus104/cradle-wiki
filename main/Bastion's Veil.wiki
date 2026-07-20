@@ -9,17 +9,16 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion]]'s [[Veil]] is a powerful, supernatural wall of mist or fog that serves as the primary defense for the [[Consultants]] and their home, the [[Gray Island]]. Created by a renowned [[Soulbound]] named [[Bastion]], the [[Veil]] functions as an impenetrable barrier designed to conceal the [[island]] and protect its inhabitants from the detection and influence of [[Elders]]. Beyond mere concealment, the [[Veil]] possesses suppressive qualities that can dampen sight, sound, smell, and [[Intent]], and it has been used to weaken [[Elders]] in combat. The [[Veil]] is powered by an ancient, highly potent [[Awakened]] artifact—a glass container holding silvery-blue mists that serves as [[Bastion]]'s former [[Vessel]]. Control over this source is a responsibility held by the [[Consultant]] [[Guild Head]], requiring a deep, personal connection to the power. While the [[Veil]] is an extraordinary defense capable of repelling most attacks, it can be manipulated or collapsed by those with sufficient power; for instance, releasing the full extent of its mists can cleanse an [[island]] of [[Elderspawn]] but leaves the area exposed for a period while the [[Veil]] recovers. It is not entirely invincible, however, as it can be breached by certain entities or pushed aside by the direct will of a [[Great Elder]].}}
 
 == Of Sea and Shadow ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Soulbound]] has breached [[Bastion's Veil]].<ref name="ee-sea-01-of-sea-and-shadow-c20">''Of Sea and Shadow'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Shadow and Sea ==
 {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Located at the edge of the [[Gray Island]], [[Bastion]]'s [[Veil]] appears as a vast pillar of cloud and an ancient wall of gray mist. This fog behaves as though it is held back by a glass barrier, surrounding a secret bay on its fourth side. While [[Bastion]]’s [[Shadow]] can slide through the mist to reach this hidden area, the [[veil]] also serves as an emergency protocol. When released, the mist acts to cleanse the [[island]] by sweeping all lesser [[Elderspawn]] away, though it eventually vanishes.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Bastion's Veil]] is a wall of fog that acts as if held back by a glass barrier.<ref name="ee-shadow-01-of-shadow-and-sea-c3">''Of Shadow and Sea'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Bastion]]’s [[Veil]] is a feature of the [[Gray Island]] that looks like a vast pillar of cloud.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Bastion]]’s [[Veil]] is a location with an ancient wall of gray mist.<ref name="ee-shadow-01-of-shadow-and-sea-c7">''Of Shadow and Sea'', chapter 7</ref>}}</li>
@@ -29,22 +28,20 @@
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Bastion]]’s [[Veil]] is a mist that can cleanse the [[Gray Island]] of [[Elderspawn]] when released.<ref name="ee-shadow-01-of-shadow-and-sea-c23">''Of Shadow and Sea'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Bastion]]’s [[Veil]] has vanished.<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Bastion's Veil]] is an emergency protocol that sweeps all lesser [[Elderspawn]] off the [[Island]].<ref name="ee-shadow-01-of-shadow-and-sea-c26" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Bastion]]’s [[Veil]] is a wall of mist that usually surrounds the [[Gray Island]].<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Bastion]]’s [[Veil]] is a cloud of mist that can shroud vessels.<ref name="ee-sea-02-of-dawn-and-darkness-c24">''Of Dawn and Darkness'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
 {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Bastion]]'s [[Veil]] is a regenerating phenomenon on [[Gray Island]] that manifests as a supernatural wall of blue-gray mist. This silvery-blue fog serves to protect the [[island]] from the gazes of [[Elders]] and is produced by the most powerful [[Awakened]] artifact held by the [[Consultant]]. Although its purpose was eventually discovered by the enemy, the mist maintains its ability to shroud the land or even collapse inward. During these shifts in the fog, [[Shera]] was seen emerging from the clouds.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Bastion's Veil]] is a supernatural blue-gray wall of fog that usually wraps the [[Island]].<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Bastion's Veil]] protects the [[island]] from the gazes of [[Elders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c2" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Bastion's Veil]] is a wall of mist.<ref name="ee-shadow-02-of-darkness-and-dawn-c3">''Of Darkness and Dawn'', chapter 3</ref>}}</li>
@@ -54,27 +51,25 @@
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The purpose of [[Bastion's Veil]] was figured out by the enemy.<ref name="ee-shadow-02-of-darkness-and-dawn-c19" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Bastion's Veil]] can collapse inward.<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Shera]] emerged from the cloud of [[Bastion's Veil]].<ref name="ee-shadow-02-of-darkness-and-dawn-c21" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Originally, [[Bastion]]'s [[Veil]] served as a protective mist surrounding the [[Consultant]]’s [[island]], an area where the final Guard was eventually pulled. This power possesses a specific [[Intent]] to suppress [[Elders]] and may have been responsible for suppressing [[Kelarac]] during the [[Last Battle of the Empire]]. By the later stages of recent events, the mist has thinned almost to nothing.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Bastion]]’s [[Veil]] is a mist that protected the [[Consultant]]’s [[island]].<ref name="ee-sea-03-of-kings-and-killers-c15">''Of Kings and Killers'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The last Guard was pulled into [[Bastion's Veil]].<ref name="ee-sea-03-of-kings-and-killers-c15" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Bastion]]’s [[Veil]] has thinned almost to nothing.<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Bastion]]’s [[Veil]] has the [[Intent]] to suppress [[Elders]].<ref name="ee-sea-03-of-kings-and-killers-c25" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Bastion]]’s [[Veil]] is a power that may have suppressed [[Kelarac]] during the [[Last Battle of the Empire]].<ref name="ee-sea-03-of-kings-and-killers-c26">''Of Kings and Killers'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Killers and Kings ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion]]'s [[Veil]] is a silver-blue light produced by [[Shera's shear]] that creates clouds of mist capable of muffling voices and hiding people from view. This location, which contains a stone pier and serves as the headquarters for the [[Masons]], is associated with a [[Soulbound Vessel]] and provides peace to [[Shera's soul]]. As the world's greatest protection against [[Elders]], the [[veil]] enforces absolute obedience to the Am'haranai leader and once swallowed the [[Emperor’s Stage]]. [[Shera]] can thicken, dive into, or channel energy into this [[construct]], using its power to see through the mist or even cause it to explode over the [[Imperial Palace]]. Although the [[Guild]] operated for centuries without a [[Soulbound]] tied to the location, [[Shera]] can feed it power or dismiss it using only a fraction of her own strength.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">25</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">25</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion's Veil]] is a location that [[Shera]]'s gray clothes are meant for blending into.<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion's Veil]] is a barrier of fog that can muffle voices.<ref name="ee-shadow-03-of-killers-and-kings-c2" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion]]’s [[Veil]] is a silver-blue light produced by [[Shera's shear]].<ref name="ee-shadow-03-of-killers-and-kings-c2" />}}</li>
@@ -100,8 +95,7 @@
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] feeds power into [[Bastion's Veil]].<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] dismissed [[Bastion]]’s [[Veil]] using a fraction of her power.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kelarac]] can provide protections greater than [[Bastion]]’s [[Veil]].<ref name="ee-shadow-03-of-killers-and-kings-c26">''Of Killers and Kings'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“The wall of mist that’s usually around the island,” Calder replied.<ref name="ee-sea-02-of-dawn-and-darkness-c20" />}}

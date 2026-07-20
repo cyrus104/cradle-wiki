@@ -12,15 +12,14 @@
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|As an apprentice to a [[Monarch]], Dellei Twinfire follows a highly unusual spirit-bonding [[Path]]. This unique ability allows for the seamless switching between a [[Path of light]] and a [[Path of darkness]]. To facilitate these transitions, Dellei utilizes a pure white goldfish to control [[madra]] of light and a black goldfish to manipulate shadows.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Dellei Twinfire]] is the apprentice of a [[Monarch]].<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Dellei Twinfire]] has a strange spirit-bonding [[Path]].<ref name="cradle-13-threshold-c1" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Dellei Twinfire]] uses a pure white goldfish that controls [[madra]] of light.<ref name="cradle-13-threshold-c1" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Dellei Twinfire]] uses a black goldfish that manipulates shadows.<ref name="cradle-13-threshold-c1" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Dellei Twinfire]] can switch between a [[Path of darkness]] and a [[Path of light]].<ref name="cradle-13-threshold-c1" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

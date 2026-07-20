@@ -11,8 +11,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The rank of Archmage is a [[Union]]-certified level of wizardry earned through significant magical feats and specialized knowledge. [[Varic Vallenar]] holds this title, appearing as a dark-skinned human man with silver eyes who carries a wand and wears a blue hooded mantle. As a certified expert in [[binding]] and sealing magic, he possesses the ability to bend the rules of magic and understand the sharing of [[Aetheric patterns]]. During operations, such as those involving a [[Union strike team]], an Archmage utilizes large-scale magic and maintains a profound bond with his staff.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">12</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|An [[Archmage]] is a level of wizardry.<ref name="lh-01-the-captain-c4">''The Captain'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|An [[Archmage]] is a human woman who uses large-scale magic.<ref name="lh-01-the-captain-c12">''The Captain'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Union strike team]] contained at least one [[Archmage]].<ref name="lh-01-the-captain-c13">''The Captain'', chapter 13</ref>}}</li>
@@ -25,25 +25,22 @@
 <li>{{spoiler|book=lh-01-the-captain|An [[Archmage]] is a title earned through significant magical feats.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Varic Vallenar]] holds the rank of [[Archmage]].<ref name="lh-01-the-captain-c37">''The Captain'', chapter 37</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|An [[Archmage]] has a profound bond with his staff.<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|Shyrax possesses a ring containing the ghost of a human [[Archmage]].<ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|An [[Archmage]] can perform miracles when prepared and knowing what is coming.<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Archmage]] is a legendary necromancer.<ref name="lh-03-the-knight-c3">''The Knight'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Archmage]] is a thousand-year-old death mage.<ref name="lh-03-the-knight-c3" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|An [[Archmage]] is a scholar who explores the [[Aether]].<ref name="lh-03-the-knight-c24">''The Knight'', chapter 24</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“Let’s say I had found a way to grant you my power. From this moment on, you’re a full Archmage.<ref name="lh-01-the-captain-c22" />}}

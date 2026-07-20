@@ -4,14 +4,13 @@
 }}
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Harmony's axe]] is a savage-looking axe with a bone haft.<ref name="cradle-06-underlord-c7">''Underlord'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Lindon]] possesses [[Harmony's axe]].<ref name="cradle-06-underlord-c11">''Underlord'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Mercy]] holds [[Harmony's axe]].<ref name="cradle-06-underlord-c13">''Underlord'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Harmony's axe]] is an item held by [[Mercy]].<ref name="cradle-06-underlord-c13" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

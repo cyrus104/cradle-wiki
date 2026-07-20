@@ -11,8 +11,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The Aether is a sentient force and magical medium that can grant a person two lives or bring possible realities into existence. This energy, which may consist of leaks from other worlds, can be manipulated through symbols, natural patterns, or by resonating the meaning of words to manifest spells. While it can be channeled through staves, devices, or even used to conjure water and dark water, the Aether is also affected by an individual's resolve and self-definition. During massive conflicts, the force churns like a stormy sea, yet it can also be used to create protective seals or move individuals through the [[void]]. Ultimately, mages become more powerful as they grow closer to this medium, which can answer requests for magic and control.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">44</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">44</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Aether]] can decide for a person to live two lives.<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Aether]] is a force that twisted the entire sky during the ritual.<ref name="lh-01-the-captain-c2">''The Captain'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Aether]] is a source or medium related to magic.<ref name="lh-01-the-captain-c2" />}}</li>
@@ -57,14 +57,13 @@
 <li>{{spoiler|book=lh-01-the-captain|The [[Aether]] can answer requests for magic and control.<ref name="lh-01-the-captain-c45" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Aether]] can be added to spells to introduce chaos.<ref name="lh-01-the-captain-c46">''The Captain'', chapter 46</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The narrator channeled [[Aether]] through their staff.<ref name="lh-01-the-captain-c46" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|Though often insulted by the Advocates, the Aether is a complex current reflecting the shape of the galaxy that can be manipulated to conjure [[dragons]] or red fire. This substance, which may be dispersed by proprietary alloys and can be thin or nonexistent in certain spaces, serves as the essential support for [[Raion]]'s [[Combat Art]] and is required to operate truth spells. The Aether responds to [[Starhammer]]'s desire for power by providing memories of alternate selves, yet it also acts as a force that can lead people and prevents things from being too easy. While the [[Zenith Device]] bends this function to break the laws of reality, the Aether remains a force that experiences warps and holds the sole knowledge of the outcome of [[Starhammer]]'s battle.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">29</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">29</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The [[Aether]] is a state of being that the Advocates insult.<ref name="lh-02-the-engineer-c1">''The Engineer'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Aether]] can be manipulated to conjure [[dragons]].<ref name="lh-02-the-engineer-c4">''The Engineer'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Aether]] is a substance that can be dispersed by proprietary alloys.<ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref>}}</li>
@@ -94,14 +93,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|The [[Aether]] is required to operate truth spells.<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The narrator uses the [[Aether]] for telekinetic leaps.<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Greth]]'s species is blessed by the [[Aether]].<ref name="lh-02-the-engineer-c55">''The Engineer'', chapter 55</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The Aether serves as a medium through which [[life]] energy is reflected as power and vitality, capable of churning like a stormy sea when magical orders conflict. This force can be heard through sounds like shattering porcelain, can respond to the wishes of [[Raion]], and possesses the power to awaken [[Zenith Devices]] independently. While wizards work with it directly and Archmages explore its depths, Elementalists use the Aether to conjure and control various elements. Although it can bend [[fate]] and resonates with specific objects, the Aether grows weak within the [[Shadow Ark]]. Ultimately, this resource can be read by the narrator and has been used to teach Kyri lessons and prepare the [[Captain]] for upcoming threats.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">20</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">20</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Visiri]] third eye sees [[life]] energy as a reflection of power and vitality through the [[Aether]].<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Aether]] can be churned and frothing like a sea in storm during conflicting magical orders.<ref name="lh-03-the-knight-c3">''The Knight'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Aether]] is a medium through which sounds like shattering porcelain can be heard.<ref name="lh-03-the-knight-c3" />}}</li>
@@ -122,14 +120,13 @@
 <li>{{spoiler|book=lh-03-the-knight|The [[Aether]] is weak inside [[Shadow Ark]].<ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Aether]] was bending against the narrator.<ref name="lh-03-the-knight-c43">''The Knight'', chapter 43</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Aether]] prepared the [[Captain]] for future threats.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|The Aether is a powerful force invoked during the signing of contracts and can be read by specific individuals. It serves as a source of telekinetic force, responds to the anger of figures like the [[Captain]] and Shyrax through magical symbols or golden flames, and can even be used to freeze air or lock ritual items. This entity views individuals through the lens of their stories and actions, which has rendered the daughter of [[Omega]] the only identifiable member of [[Solstice]] to it. Beyond its role in combat arts and spells that require resonance, the Aether has awakened the [[Zenith Devices]] for a potential unified purpose and has been disturbed by an approaching apocalypse, causing it to shift as the narrator was redefined.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">21</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">21</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|Signing the contract involved invoking the [[Aether]].<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Melerius]] claims his prompting comes from the [[Aether]].<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Aether]] can be read by certain individuals.<ref name="lh-04-the-pilot-c7">''The Pilot'', chapter 7</ref>}}</li>
@@ -151,8 +148,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Combat Arts]] and spells both require actions that resonate with the [[Aether]].<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|An approaching apocalyptic event has disturbed the [[Aether]].<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Aether]] shifted as the narrator was redefined.<ref name="lh-04-the-pilot-c48" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“It’s the will of the Aether!” he exclaimed.<ref name="lh-01-the-captain-c14" />}}

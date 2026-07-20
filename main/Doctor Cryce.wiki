@@ -16,8 +16,8 @@
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|A medical professional and master [[Aether Technician]], Doctor [[Cryce]] manages the infrastructure at the [[Titan Forge]] headquarters on the moon. This woman, who is [[Parryl]]'s aunt, possesses Technician gifts that are not applicable to biological modification and features solid gray hair alongside green eyes that glow in the dark. While interacting with [[Jan]] and Kyri, she provides medical information and bio-readings through an audio implant. Utilizing a wrist console, a tablet, and an ocular implant, she maintains her duties while demonstrating trust in [[Raion]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Doctor Cryce]] provides bio-readings and medical information.<ref name="lh-03-the-knight-c7">''The Knight'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Doctor Cryce]] communicates via audio implant.<ref name="lh-03-the-knight-c7" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Doctor Cryce]] is a character who interacts with [[Jan]] and Kyri.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
@@ -36,21 +36,19 @@
 <li>{{spoiler|book=lh-03-the-knight|[[Doctor Cryce]] is a person the narrator knows.<ref name="lh-03-the-knight-c31">''The Knight'', chapter 31</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Doctor Cryce]] is a doctor located on the moon of [[Titan Force headquarters]].<ref name="lh-03-the-knight-c38">''The Knight'', chapter 38</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Doctor Cryce]] is a woman who has trust in [[Raion]].<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|As a doctor, [[Cryce]] provided critical warnings regarding the inherent limitations of their drone technology. After being requested by the [[Captain]], the doctor was assigned to work with [[Raion]]. [[Cryce]] successfully repaired the [[Red]] [[Titan]] and eventually managed to make the [[Red Divine Titan]] fully functional.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Raion]] is tasked to help [[Doctor Cryce]].<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Doctor Cryce]] repaired the [[Red]] [[Titan]].<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Doctor Cryce]] is a doctor who warns about the limitations of their drone.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Doctor Cryce]] is a person the [[Captain]] requests.<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Doctor Cryce]] managed to make the [[Red Divine Titan]] functional.<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“Doctor Cryce, I need readings on the others.”<ref name="lh-03-the-knight-c7" />}}

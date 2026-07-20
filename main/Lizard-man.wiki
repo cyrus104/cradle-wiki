@@ -5,14 +5,13 @@
 }}
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|A lizard-man figure in dark red clothes leaped through [[Simon]]'s window.<ref name="tg-02-crimson-vault-c7">''The Crimson Vault'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The lizard-man has pebbled rust-red skin and a long lizard's tail.<ref name="tg-02-crimson-vault-c7" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The lizard-man's fingers are tipped by long claws.<ref name="tg-02-crimson-vault-c7" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The lizard-man wears ornate, multi-layered red clothes stitched with unknown symbols.<ref name="tg-02-crimson-vault-c7" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

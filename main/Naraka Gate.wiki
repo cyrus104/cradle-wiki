@@ -9,24 +9,22 @@
 {{spoiler|book=tg-03-city-of-light|A [[Naraka]] Gate serves as a portal or opening that connects the primary world to a specific [[Territory]]. These gateways function as fast travel routes between different locations, such as waypoints within [[Naraka]] or connections to other realms like [[Elysia]] and [[Myria]]. Opening a Gate is a difficult process that typically requires significant focus, energy, and time; for instance, it can take nearly a minute to manifest. Certain locations have specific restrictions on where a Gate can be safely opened, as attempting to create one in the wrong spot can be fatal. In some instances, such as when traveling to [[Elysia]], the ability to open a Gate may be limited by environmental factors like the position of the sun. While [[Travelers]] can use these openings to move between worlds, they are not entirely secure. Specialized tools known as gatecrawlers can be used to force a Gate open shortly after it has closed, making them an effective method for pursuing [[Travelers]] into foreign territories. Additionally, certain individuals possess the ability to seal a Gate or its associated waypoints, making them impossible for others to reopen.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|A [[Naraka Gate]] can only be opened at certain points.<ref name="tg-01-house-of-blades-c16">''House of Blades'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Naraka Gate]] is a way to travel into [[Myria]].<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|The [[Naraka]] Gate is a specific location that can be opened. While the [[gate]] was initially held open by two [[Naraka]] [[Travelers]], [[Indirial]] turned toward it as [[Leah]] walked in its direction. Eventually, the [[gate]] opened to release a screaming orange fireball from the depths of the [[Territory]]. Following this event, people were seen scrambling out of the [[gate]] behind [[Grandmaster Naraka]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The [[Naraka Gate]] is held open by two [[Naraka]] [[Travelers]].<ref name="tg-03-city-of-light-c9">''City of Light'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Indirial]] turns to the [[Naraka Gate]].<ref name="tg-03-city-of-light-c9" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Naraka Gate]] is a [[gate]] that can be open.<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}</li>
@@ -34,8 +32,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|The [[Naraka Gate]] is a location.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Naraka Gate]] opens and releases a screaming orange fireball from the [[Territory]]'s depths.<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|People were scrambling out of the [[Naraka Gate]] behind [[Grandmaster Naraka]].<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-03-city-of-light|Leah nodded mutely. "Well, then..." Alin looked directly into the Naraka Gate for the first time, and his face went blank.<ref name="tg-03-city-of-light-c11" />}}

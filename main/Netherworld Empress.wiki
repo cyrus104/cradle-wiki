@@ -14,8 +14,8 @@
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|Adorned in elaborate ceremonial robes and a silver crown, the [[Netherworld]] [[Empress]] possesses dark hair and eyes that shine like cruel amethyst stars. She carries a spear at her side and wields a black bow of darkness, utilizing the sight granted by the [[Bow Icon]]. Her physical form embodies the [[Strength Icon]] and the nobility of the [[Crown Icon]], while her spirit reflects the [[Shadow Icon]]. As she flashed behind [[Malice]], her spiritual pressure weighed heavily upon [[Mercy]]. Ultimately, the [[Empress]] served as the true embodiment of [[Malice]]'s ideals.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Netherworld Empress]] has dark hair and eyes that shine like cruel amethyst stars.<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Netherworld Empress]] wears a crown of silver and elaborate ceremonial robes.<ref name="cradle-12-waybound-c25" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Netherworld Empress]] wields a black bow of darkness and has a spear at her side.<ref name="cradle-12-waybound-c25" />}}</li>
@@ -26,17 +26,15 @@
 <li>{{spoiler|book=cradle-12-waybound|The [[Netherworld Empress]] has the sight of the [[Bow Icon]].<ref name="cradle-12-waybound-c26" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Netherworld Empress]] flashed behind [[Malice]].<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Netherworld Empress]] was the embodiment of [[Malice]]'s ideals.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Mercy]] can summon a projection of the [[Netherworld Empress]].<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The projection of the [[Netherworld Empress]] carries a spear and is clothed in black, white, and violet.<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Netherworld Empress]] uses a bow that transforms into a spear.<ref name="cradle-13-threshold-c6" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

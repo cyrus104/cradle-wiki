@@ -4,19 +4,17 @@
 }}
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Star's Edge]] is an [[Enforcer technique]] in the [[Path of the Stellar Spear]] that reinforces a weapon.<ref name="cradle-03-blackflame-c4">''Blackflame'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Star]]’s Edge is a technique used by [[Jai Long]].<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The [[Star's Edge]] technique sharpens a user's hand with bright white [[sword]]-and-light madra.<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

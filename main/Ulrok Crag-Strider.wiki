@@ -14,15 +14,14 @@
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|A famous poet and philosopher in his homeland, Ulrok Crag-Strider traveled to compete in the [[Ghost-Blade]] tournament. As an [[Uncrowned King]] fighter, he wields a saber during combat. His fighting style utilizes a [[Forger technique]] that incorporates spiraling gray-green madra.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Ulrok Crag-Strider]] is a [[Ghost-Blade]] competitor in the tournament.<ref name="cradle-08-wintersteel-c5">''Wintersteel'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Ulrok Crag-Strider]] is a famous poet and philosopher in his homeland.<ref name="cradle-08-wintersteel-c5" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Ulrok Crag-Strider]] uses a [[Forger technique]] involving spiraling gray-green madra.<ref name="cradle-08-wintersteel-c5" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Ulrok is an [[Uncrowned King]] fighter.<ref name="cradle-08-wintersteel-c5" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Ulrok uses a saber.<ref name="cradle-08-wintersteel-c5" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

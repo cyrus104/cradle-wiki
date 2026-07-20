@@ -16,8 +16,8 @@
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|[[Red]] Faith is a practitioner of [[blood madra]] who has lost his original name. Characterized by pure white hair and skin, he utilizes a diverse combat repertoire including [[Ruler]], [[Enforcer]], and [[Striker techniques]], the latter of which takes on a bird-like aspect. During combat, he employs his claws to successfully breach [[Eithan]]'s armor.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Red Faith]] has pure white skin and hair.<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Red Faith]] has lost his name.<ref name="cradle-08-wintersteel-c7" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Red Faith]] uses [[blood madra]].<ref name="cradle-08-wintersteel-c7" />}}</li>
@@ -26,22 +26,20 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Red Faith]] uses an [[Enforcer technique]].<ref name="cradle-08-wintersteel-c7" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Red Faith]]'s claws breached [[Eithan]]'s armor.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Red Faith]] has claws.<ref name="cradle-08-wintersteel-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Red Faith]] is the [[Sage of Red Faith]].<ref name="cradle-09-bloodline-c14">''Bloodline'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Red Faith]] is described as a cockroach walking like a man.<ref name="cradle-09-bloodline-c14" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|[[Red]] Faith is the mind in his relationship with the [[Herald]] and possesses Goldsigns that resemble trails of blood. Seeking to fuel [[Yerin Arelius]]'s advancement through his experiments, he hunts her by following through space. He utilizes blood and [[aura]] to maintain his calm while pursuing his interests in [[Yerin]]'s unique methods. His presence was eventually sensed within the [[Redmoon Hall]] vessel.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Red Faith]] is interested in [[Yerin Arelius]].<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Red Faith]] has Goldsigns that look like trails of blood.<ref name="cradle-10-reaper-c7" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Red Faith]] can follow through space.<ref name="cradle-10-reaper-c7" />}}</li>
@@ -51,14 +49,13 @@
 <li>{{spoiler|book=cradle-10-reaper|[[Red Faith]] uses blood and [[aura]] to calm himself.<ref name="cradle-10-reaper-c7" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Red Faith]] is sensed within the [[Redmoon Hall]] vessel.<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Red Faith]] is a group interested in [[Yerin]]'s methods.<ref name="cradle-10-reaper-c16">''Reaper'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|After surviving a lightning summoning by a [[Herald]], the [[Blood Sage]] [[Red]] Faith entered into a soul oath that bound him to [[Yerin]]. As a [[Forger]] and researcher of her unique condition, he assisted her by offering guidance on drawing in blood essence. Although he had previously failed an ascension to [[Monarch]], [[Red]] Faith is a long-standing [[Monarch]] who utilizes nine daggers infused with blood and [[sword aura]]. During combat, he employs a launcher construct made from an ancient natural treasure cauldron that releases green and black madra with aspects of death and venom. Despite being a member of [[Redmoon Hall]], he maintains that he is not like [[Redmoon]] and provided protection to the group even as the [[Bleeding Phoenix]] shredded him.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">20</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">20</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|A [[Herald]] was seen summoning lightning against [[Red Faith]].<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Red Faith]] is bound to [[Yerin]] by a soul oath.<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Red Faith]] provided [[Yerin]] with pointers on drawing in blood essence.<ref name="cradle-11-dreadgod-c9">''Dreadgod'', chapter 9</ref>}}</li>
@@ -79,17 +76,15 @@
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Bleeding Phoenix]] shreds [[Red Faith]].<ref name="cradle-11-dreadgod-c17" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Red Faith]]'s combat involves blood and [[sword aura]].<ref name="cradle-11-dreadgod-c17" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Red Faith]] provided protection to the group.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Red Faith]] is dead.<ref name="cradle-12-waybound-c8">''Waybound'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Red Faith]] provides lectures to [[Yerin]].<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Red Faith]] added designs to a concept based on the [[Phoenix]] [[madra]]'s ability to create bloodspawn.<ref name="cradle-12-waybound-c12" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-08-wintersteel|“Break,” he commanded, adding authority to his Ruler technique.<ref name="cradle-08-wintersteel-c7" />}}

@@ -12,15 +12,14 @@
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|Wei Shi [[Lindon]] is a [[Sage]] characterized by black eyes with glowing white irises. His right arm is perpetually bound in scripted bandages that serve to [[veil]] and restrain his power. During the events at the [[arena]], he issued a call for the immediate evacuation of the area.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Wei Grand Elder]] is a [[Sage]].<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Wei Grand Elder]]'s right arm is wrapped in scripted bandages that restrain and [[veil]] power.<ref name="cradle-12-waybound-c35" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Wei Grand Elder]] has black eyes with white irises that seem to glow.<ref name="cradle-12-waybound-c35" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Wei Grand Elder]]'s name is Wei Shi [[Lindon]].<ref name="cradle-12-waybound-c35" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Wei Grand Elder]] called for the evacuation of the [[arena]].<ref name="cradle-12-waybound-c35" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-12-waybound|“Evacuate the arena,” the Wei Grand Elder called.<ref name="cradle-12-waybound-c35" />}}

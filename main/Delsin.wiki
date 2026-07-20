@@ -6,12 +6,11 @@
 }}
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Delsin]] is a gas giant with sparkling [[diamond]] rings.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The moon of [[Delsin]] is visible from the [[Shadow Ark]] launch bay.<ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

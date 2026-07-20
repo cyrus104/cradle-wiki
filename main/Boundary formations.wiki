@@ -7,34 +7,30 @@
 {{spoiler|book=cradle-09-bloodline|Boundary formations are magical structures created by placing specific items, such as banners or flags, in a ring-like configuration to manipulate the [[vital aura]] within an area. The effectiveness of these formations depends heavily on precise placement; if the components are not spaced at equal distances, the formation may fail to activate. The complexity and scale of a boundary are directly linked to the amount of [[madra]] required to operate it, with larger boundaries demanding more intricate setups. These formations serve various tactical and defensive purposes. They can be used to gather specific types of [[aura]]—such as light or dream aspects—to facilitate training in certain [[Paths]] or to confuse opponents with illusory images and sounds. Some boundaries act as security measures, triggering alarms or summoning battle-constructs when the perimeter is breached. Other types are designed to suppress an individual's power, siphon away their strength, or prevent physical objects from passing through. Additionally, boundaries can be used for environmental control, such as holding back water or creating protective barriers of light.}}
 
 == Unsouled ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|[[Boundary formations]] activate the [[vital aura]] in an area to fuel a result when script-circles are evenly placed in a ring.<ref name="cradle-01-unsouled-c15">''Unsouled'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Rulers]] can put down a barrier formation to stop someone from escaping.<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Blackflame ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|A boundary formation was placed around [[Eithan]].<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The boundary formation stops physical objects from passing.<ref name="cradle-03-blackflame-c20">''Blackflame'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The boundary formation is designed to keep out water rather than creatures.<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|A boundary formation can suppress power and agitate [[aura]].<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

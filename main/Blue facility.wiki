@@ -4,13 +4,12 @@
 }}
 
 == The Knight ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[Blue facility]] is a location where [[Doctor Cryce]] and [[Jan]] go.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Blue facility]] is a massive square building with no windows.<ref name="lh-03-the-knight-c9" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The word 'BLUE' is stenciled on the side of the [[Blue facility]].<ref name="lh-03-the-knight-c9" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-03-the-knight|“Now, why don’t the both of you come join me in the Blue facility?”<ref name="lh-03-the-knight-c9" />}}

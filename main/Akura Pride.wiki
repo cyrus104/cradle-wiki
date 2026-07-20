@@ -17,18 +17,17 @@
 {{spoiler|book=cradle-13-threshold|[[Akura]] Pride is a member of the [[Akura clan]], a powerful family known for their mastery of [[shadow madra]]. He is the son of the [[Monarch]] [[Akura Malice]] and the younger brother of the talented [[Akura Mercy]]. Despite being relatively short in stature, Pride possesses a fierce and confrontational personality, often characterized by a perpetual glare and an intense sense of rage or indignation. He is frequently described as being unpopular among his peers within the clan. In terms of combat and role, Pride has served as a leader for an [[Akura backup team]] during competitions. His abilities include the use of [[Enforcer techniques]] and [[shadow madra]], which he can manifest as black tattoos on his skin. He has demonstrated significant resilience, having survived intense combat and grueling training sessions. Pride's motivations are deeply tied to his family; he feels a strong sense of responsibility toward his sister and is driven by the honor of the [[Akura]] name. Later in his development, he accepts a path involving advancement beyond his world, motivated by his connection to [[Mercy]] and a sense of duty.}}
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Mercy's brother]] is named Pride.<ref name="cradle-06-underlord-c13">''Underlord'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|Pride will be informed of [[Mercy]]'s participation in the [[Uncrowned King]] tournament.<ref name="cradle-06-underlord-c20">''Underlord'', chapter 20</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Uncrowned ==
 {{spoiler|book=cradle-07-uncrowned|An [[Akura]] family member and servant, the short and glaring [[Akura]] Pride is an [[Underlord]] who has not yet reached the rank of [[Archlord]]. His [[Goldsign]] consists of swirling black tattoos on his face and neck, and he utilizes [[shadow madra]] through a [[Path]] featuring four techniques used exclusively for [[Enforcer]] combat. During the tournament, he secured twenty-second place and eventually ran ahead to accompany [[Lindon]]. After weathering a tide of fire from Sophara, Pride was left bleeding and panting on the sand beside [[Lindon]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">18</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|Pride has swirling tattoos on his neck and face that serve as his [[Goldsign]].<ref name="cradle-07-uncrowned-c3">''Uncrowned'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Pride has not yet advanced to [[Archlord]].<ref name="cradle-07-uncrowned-c3" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Pride is a member of the [[Akura]] family.<ref name="cradle-07-uncrowned-c3" />}}</li>
@@ -47,14 +46,13 @@
 <li>{{spoiler|book=cradle-07-uncrowned|Pride has black lines on his skin.<ref name="cradle-07-uncrowned-c14" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Pride weathered the tide of fire from Sophara.<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Pride is a character who was panting and bleeding on the sand next to [[Lindon]].<ref name="cradle-07-uncrowned-c15" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Wintersteel ==
 {{spoiler|book=cradle-08-wintersteel|[[Akura]] Pride, the son of a [[Monarch]] and an [[Underlord]] who directs traffic on the docks, shares a connecting room with [[Lindon]] and his sister, [[Akura Mercy]]. As a master of [[Enforcer techniques]] and a member of [[Lindon]]'s team, he works to finish up his acolytes while wearing [[bloodline armor]]. During a conflict, Pride emerges from the shadow of a building only to find himself surrounded by enemies and left in bad shape with a mangled left arm. Despite being caught in an argument with [[Mercy]] near the evacuation portal, he ultimately survives the battle.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|Pride shares a connecting room with [[Lindon]] and [[Mercy]].<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Pride is [[Mercy's brother]] and an [[Underlord]] who directs traffic on the dock.<ref name="cradle-08-wintersteel-c5">''Wintersteel'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Pride is a member of [[Lindon]]'s team.<ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref>}}</li>
@@ -72,31 +70,28 @@
 <li>{{spoiler|book=cradle-08-wintersteel|Pride was one of the people surrounded by enemies.<ref name="cradle-08-wintersteel-c27" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Pride was in bad shape with a mangled left arm.<ref name="cradle-08-wintersteel-c27" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Pride survived the battle.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Bloodline ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|Pride has purple eyes.<ref name="cradle-09-bloodline-c2">''Bloodline'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Pride's Book contains many [[Enforcer techniques]].<ref name="cradle-09-bloodline-c2" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Pride is a person who told [[Mercy]] she doesn't need to be around.<ref name="cradle-09-bloodline-c5">''Bloodline'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Mercy]] fears seeing Pride badly hurt again.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] thinks about how Pride might feel seeing [[Mercy]]'s situation.<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|[[Akura]] Pride is an [[Underlord]] and a [[Soulsmith]] distinguished by purple eyes. This individual possesses a [[Divine Treasure]] in the form of a red-and-silver Book that is wrapped in chains. During an encounter with [[Lindon]], Pride allowed him to catch a glimpse of this Book. As the sibling of [[Malice]], Pride remains available to provide assistance if the situation requires it and was seen positioned at [[Mercy]]'s side.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Akura Pride]] is an [[Underlord]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Akura Pride]] has purple eyes.<ref name="cradle-11-dreadgod-c3" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Pride is an [[Underlord]].<ref name="cradle-11-dreadgod-c3" />}}</li>
@@ -107,14 +102,13 @@
 <li>{{spoiler|book=cradle-11-dreadgod|Pride has a Book.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Pride is a sibling of [[Malice]] who could be called to assist if necessary.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Pride was at [[Mercy]]'s side.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
 {{spoiler|book=cradle-13-threshold|Associated with the name [[Akura]], [[Akura]] Pride was once the target of an assassination attempt involving [[Seishen Daji]]. When [[Lindon]] ascended, he brought Pride along, though the entity was eventually taken by his half-brother, [[Fury]], for training. A three-star [[Wolf]], two-star [[Ghost]], two-star [[Fox]], and one-star [[Titan]], Pride possesses physical parameters that exceed those of the average recruit. He does not engage in combat for amusement and has implied that specific devices within the [[Wolf Division]] require more than just free activation.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Gadrael]]'s build reminds [[Lindon]] of [[Akura Pride]].<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Pride was the target of an assassination attempt involving [[Seishen Daji]].<ref name="cradle-13-threshold-c9">''Threshold: Stories from Cradle'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Akura Pride]] was brought along by [[Lindon]] when he ascended.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
@@ -124,8 +118,7 @@
 <li>{{spoiler|book=cradle-13-threshold|Pride does not fight for amusement.<ref name="cradle-13-threshold-c10" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Akura Pride]] is associated with the name [[Akura]].<ref name="cradle-13-threshold-c10" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Pride implied that certain devices in the [[Wolf Division]] are not free to activate.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-07-uncrowned|"You have quite an attitude for a servant."<ref name="cradle-07-uncrowned-c14" />}}

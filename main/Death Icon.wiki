@@ -9,17 +9,16 @@
 {{spoiler|book=cradle-12-waybound|The [[Death]] [[Icon]] is a powerful manifestation that appeared when the creator of the world's most lethal weaponry killed and subsequently revived himself. It is visually represented as a large symbol depicting a [[scythe]] positioned above the crest of the [[Arelius family]]. This [[Icon]] is associated with death [[madra]], which possesses a pale, spectral green glow and can interact with other objects, such as weaving [[dead matter]] around a trident. The [[Icon]] is linked to the mark of the [[Dreadgods]] and shares a resonant tone with the [[Void Icon]]. It can be commanded to descend upon specific targets and has been observed providing a flat, colorless power that assists in elevating an individual to the rank of [[Monarch]]. Furthermore, the [[Icon]] possesses a form of sentience or will, capable of whispering agreement to its user.}}
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The [[Death Icon]] is an icon manifested by [[Ozmanthus]].<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
 {{spoiler|book=cradle-12-waybound|Upon [[Yerin]]'s command, the [[Death]] [[Icon]] descended upon [[Akura Malice]]. This entity serves to raise [[Yerin]] to the status of [[Monarch]] while exerting influence over the [[Endless Sword]] technique. During its resonance with the [[Final Sword]] technique, it also experienced a resonance with the [[Void Icon]]. Ultimately, the [[Death]] [[Icon]] supports [[Yerin]] and whispers a soft song to her.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">7</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Death Icon]] descended on [[Akura Malice]] at [[Yerin]]'s command.<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Death Icon]] is raising [[Yerin]] to [[Monarch]].<ref name="cradle-12-waybound-c28">''Waybound'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Death Icon]] influences the [[Endless Sword]] technique.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
@@ -27,8 +26,7 @@
 <li>{{spoiler|book=cradle-12-waybound|The [[Void Icon]] resonated with the [[Death Icon]].<ref name="cradle-12-waybound-c30" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Death Icon]] whispered a soft song to [[Yerin]].<ref name="cradle-12-waybound-c31">''Waybound'', chapter 31</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Death Icon]] supports [[Yerin]].<ref name="cradle-12-waybound-c31" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

@@ -11,8 +11,8 @@
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|In [[Elysian]] legend and tradition, the [[Silver]] [[Light]] is a power of wisdom that allows a user to see through skin and into the marrow of a human body. [[Alin]] possesses this power, which he can call upon to search the city or command to spread throughout its streets. While it can function as a screen or provide protection through a bond, the [[Silver]] [[Light]] is also a whispering voice that radiates sadness. During his journey, the entity warns [[Alin]] of people scrambling from the [[Naraka Gate]] and alerts him to something below. Finally, the [[Silver]] [[Light]] points out that the death of [[Zakareth]] does not signify that things were good.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The [[Silver Light]] is a power of wisdom in [[Elysian]] legend and tradition.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Silver Light]] allows a user to see through skin and into the marrow of a human body.<ref name="tg-03-city-of-light-c7" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Silver Light]] said nothing.<ref name="tg-03-city-of-light-c7" />}}</li>
@@ -28,8 +28,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[Alin]] can call [[Silver Light]].<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Alin]] has [[Silver Light]].<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Silver Light]] points out that killing [[Zakareth]] does not mean things were good.<ref name="tg-03-city-of-light-c27" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-03-city-of-light|"Silver Light spun at his command, flashing into every window, through every cracked door."<ref name="tg-03-city-of-light-c10" />}}

@@ -11,8 +11,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The Last [[Horizon]] is a legendary [[Aethertech]] light cruiser, also known as the Chariot of the [[Star]]-Queens, which enabled early humanity's colonization of the stars. This golden vessel, resembling a winged [[pyramid]] with smooth metal plates shaped like a diving bird of prey, is rumored to possess immense powers such as terraforming systems, conjuring copies of itself, and piercing planets. As a [[Zenith Device]] with its own ship's spirit named [[Horizon]], the vessel functions through a symbiotic relationship with a crew of six and requires a [[Captain]] to operate fully. Though it has been used to transport [[Raion]] to the iron mountain and produce an armada's worth of weapons, the ship was severely damaged during a battle against the [[Iron King]]. Ultimately, this starship that can travel through [[Subspace]] and teleport its occupants remains a vessel of heroes that chooses courage over intelligence.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">62</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">62</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[The Last Horizon]] is the original [[Aethertech]] starship.<ref name="lh-01-the-captain-c5">''The Captain'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Last Horizon]] is said to have enabled early humanity's colonization of the stars.<ref name="lh-01-the-captain-c5" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Last Horizon]] is rumored to be able to transport crew members across the galaxy without passing through [[Subspace]].<ref name="lh-01-the-captain-c5" />}}</li>
@@ -75,14 +75,13 @@
 <li>{{spoiler|book=lh-01-the-captain|[[The Last Horizon]]'s deck was scraped clean by a circle of pink-and-orange fire.<ref name="lh-01-the-captain-c45" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Last Horizon]] chooses for courage rather than intelligence.<ref name="lh-01-the-captain-c45" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Last Horizon]] has a bridge.<ref name="lh-01-the-captain-c48">''The Captain'', chapter 48</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|The Last [[Horizon]] is a dark metal starship with smooth plates that shine blue-green at the edges, intended to serve as Shyrax's flagship. This vessel, which utilizes hiding for protection rather than invisibility spells, functions as a group that recruits worthy heroes and judges abilities to determine superiority. The ship possesses mythical abilities such as terraforming, constructing fleets, and providing fabricator technology and schematics. While it features a wide, greenish metal personal weapons laboratory and various scanners and shuttles, the ship eventually becomes damaged after facing the full force of the [[Iron Legion]]. Despite being reduced to a pile of dead metal, the remaining crew of this rogue group came for their captain as the ship rose to face [[Starhammer]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">36</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">36</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[The Last Horizon]] is a ship that identifies itself to Shyrax's vessel.<ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Last Horizon]] is intended to be Shyrax's flagship.<ref name="lh-02-the-engineer-c3" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Last Horizon]] judges abilities to determine superiority.<ref name="lh-02-the-engineer-c4">''The Engineer'', chapter 4</ref>}}</li>
@@ -119,14 +118,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|The remaining crew of [[The Last Horizon]] came for their captain.<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Last Horizon]] rose to face [[Starhammer]].<ref name="lh-02-the-engineer-c54">''The Engineer'', chapter 54</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Last Horizon]] has purple plates.<ref name="lh-02-the-engineer-c54" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The Last [[Horizon]] is a massive starship at least five hundred yards long, constructed with [[Zenith Era alloys]] and shaped like a predatory bird in a dive. This vessel, which is commanded by [[Varic]] and features firepower surpassing that of the [[Divine Titans]], prints organic-looking ships covered in dark metal plates. As a group associated with the hero [[Horizon]] and the source of memory manifestation magic, it includes [[Raion Raithe]], a [[Knight]] who represents the entity in duels. During its journey through [[Alliance space]], the ship was surrounded by [[Visiri]] vessels and targeted by a trap, causing its hallways to tremble from the impact of hits. The ship serves as a location for Shyrax's duties and contains specialized facilities, such as a medical room utilizing healing magic and [[Aethertech]] to treat many patients in a small space.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">35</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">35</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[The Last Horizon]] prints smooth, organic-looking ships covered in dark metal plates that shine blue-green at the seams.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Last Horizon]] is a vessel where Shyrax will attend to her duties.<ref name="lh-03-the-knight-c5" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Last Horizon]] is a group of which [[Raion Raithe]] is a [[Knight]].<ref name="lh-03-the-knight-c6">''The Knight'', chapter 6</ref>}}</li>
@@ -162,14 +160,13 @@
 <li>{{spoiler|book=lh-03-the-knight|[[The Last Horizon]] is a ship [[Raion]] expects Shyrax to return to.<ref name="lh-03-the-knight-c44" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Last Horizon]] has a [[Pilot]] aboard.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Last Horizon]] is a ship that provides spotlight for the Corporation.<ref name="lh-03-the-knight-c45" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|The Last [[Horizon]] is a starship and group known for saving battle victims during the [[Visiria]] relief effort, though opinions regarding them vary. This vessel, which features a bridge where the narrator sits and houses mages in its depths, has engaged in attacking and defending planets against the [[D’Niss]]. While [[Solstice]] seeks to form an alliance with them, the ship has been prevented from following [[Benri]] by both [[Solstice]] and the [[Zenith Processor]]. The crew faces widespread opposition as enemies of the [[Vallenar Corporation]] and the [[Galactic Union]], even as they embark on a dangerous quest involving non-standard, planet-scorching weaponry. Currently engaged in orbital combat, the ship is equipped with a [[Subspace Drive]] and can be used for extractions or emergency teleportation.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">37</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">37</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] is a group that people have varying opinions about in the [[Visiria]] relief effort.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] is a group that helped save victims of a battle.<ref name="lh-04-the-pilot-c1" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] is a group that has been attacking planets and defending them from the [[D’Niss]].<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
@@ -207,8 +204,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]] successfully arrived aboard [[The Last Horizon]].<ref name="lh-04-the-pilot-c47" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] is equipped with a [[Subspace Drive]] and sub-light engines.<ref name="lh-04-the-pilot-c47" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] is a starship with weapons systems.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|"The Zenith Starship, known by its ID The Last Horizon, is the original Aethertech—"<ref name="lh-01-the-captain-c5" />}}

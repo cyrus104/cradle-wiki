@@ -11,35 +11,31 @@
 {{spoiler|book=cradle-13-threshold|The term "Ghost" refers to several distinct entities and groups within the narrative. Most notably, [[Durandiel]] (also known as [[Darandiel]]) is a powerful figure who serves as the manifestation of the [[Slumbering Wraith]]. Appearing as a woman with black hair and a gray dress, she possesses the ability to manipulate reality, collapse warped dimensions, and fold beings into pockets. She is capable of interacting with the fundamental strings of power that govern existence. Another significant entity is the [[Empty Ghost]], a being recognized as a temporary replacement for the [[Silent King]] and identified as the fourth [[Dreadgod]]. Described as a hollow imitation of humanity, this figure is considered an extraordinary threat. In different contexts, the term also describes various spirits and organizations. The [[Ghost Division]] is a group responsible for maintaining the laws of reality and managing worlds that are being born or facing destruction. Members, such as [[Hallister Halloway]], work to sustain coherent existence. Additionally, the term is used for various spectral phenomena, including [[Remnants]], constructs like a blue-colored female spirit, and the [[Ghost-Blades]]. Other manifestations include predatory spirits that hunger for [[life]] or dark phantoms composed of shadow and dreams.}}
 
 == Reaper ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Durandiel]] is [[the Ghost]].<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Eithan]] can wipe powers away with the touch of [[the Ghost]].<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Ghost]] is [[Darandiel]].<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Ozriel]] used the powers of [[the Ghost]] to reinforce reality.<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Ghost]] is evenly matched against the [[Wandering Titan]].<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Ghost]] is a member of the [[Court of Seven]] and is also known as [[Darandiel]].<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The [[Ghost]] deals with worlds on the brink of death or those being born.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

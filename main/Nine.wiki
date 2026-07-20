@@ -10,15 +10,14 @@
 == Of Dawn and Darkness ==
 {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Nine is a weathered, sun-tanned man characterized by dark hair styled in small braids and a leather eyepatch covering his right eye. During this journey, he and [[Eight]] travel without using their true names, though both men wear shirts adorned with a gold crest. A man with a scarred back, Nine was eventually laid upon a bunk inside the cabin.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Nine]] is a sun-tanned, weathered man with dark hair in tiny braids and a leather eyepatch over his right eye.<ref name="ee-sea-02-of-dawn-and-darkness-c5">''Of Dawn and Darkness'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Nine]] and [[Eight]] do not use their real names on this trip.<ref name="ee-sea-02-of-dawn-and-darkness-c5" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Nine]] and [[Eight]] wear a gold crest on their shirts.<ref name="ee-sea-02-of-dawn-and-darkness-c5" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Nine]] is a one-eyed man with a scarred back.<ref name="ee-sea-02-of-dawn-and-darkness-c7">''Of Dawn and Darkness'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Nine]] was laid on a bunk inside the cabin.<ref name="ee-sea-02-of-dawn-and-darkness-c7" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“We’re not supposed to use our real names on this trip.<ref name="ee-sea-02-of-dawn-and-darkness-c5" />}}

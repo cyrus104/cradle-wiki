@@ -11,8 +11,8 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|The Galactic [[Union]] is the largest interplanetary government in civilized space, a political entity led by [[President Vashei]] that maintains a generic corporate appearance. This space-faring organization certifies Archmages, operates destroyers and battleships, and utilizes soldiers, operational squads, and appointed investigation teams to enforce its laws. While the [[Union]] has achieved victories in the [[Evven-Fahr system]] and subdued the [[Hive]], it currently faces an invasion by the [[Iron Legion]] and incursions from the [[Hives]]. Despite being controlled by a secret organization, the [[Union]] refuses to bow to threats even as the [[Iron King]] pushes into its territory and [[Varic Vallenar]] is placed on its execution list.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">32</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">32</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Galactic Union]] certifies Archmages.<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Galactic Union]] is the largest interplanetary government in civilized space.<ref name="lh-01-the-captain-c1" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Galactic Union fleet]] controls one half of the divided system.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
@@ -45,14 +45,13 @@
 <li>{{spoiler|book=lh-01-the-captain|The [[Hives]] are pushing into [[Galactic Union]] territory.<ref name="lh-01-the-captain-c41">''The Captain'', chapter 41</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The Lagomorph commandos wear armor resembling [[Galactic Union]] battle-armor.<ref name="lh-01-the-captain-c46">''The Captain'', chapter 46</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Galactic Union]] is controlled by a secret organization.<ref name="lh-01-the-captain-c48">''The Captain'', chapter 48</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Engineer ==
 {{spoiler|book=lh-02-the-engineer|As one of the four corners of the galaxy, the Galactic [[Union]] is a centralized political entity with [[Fathom]] at its heart and a President in leadership. While its colonies are defined by floating rings of gray metal, the organization's control over space in the [[Thevellian System]] is nominal and its vast territories remain sparsely populated. Although it possesses dreadnoughts and has permitted mixed fleets into its territory, the [[Union]] is actually controlled by the shadow organization [[Solstice]]. During various conflicts, the [[Union]]'s ships have been destroyed or pushed into enemy lines, yet the governing body refuses to recognize spoils of war under galactic law. The entity's influence eventually faced a terminal decline when the Advocates decapitated it.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">17</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Galactic Union]] colonies are characterized by rings of gray metal floating in space.<ref name="lh-02-the-engineer-c1">''The Engineer'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Galactic Union]] has space that is nominally held but sparsely populated.<ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Doctor Mell]] was located in [[Galactic Union]] space when she was captured.<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
@@ -70,14 +69,13 @@
 <li>{{spoiler|book=lh-02-the-engineer|A [[Galactic Union]] battlegroup pushed into the narrator's lines.<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Advocates]] decapitated the [[Galactic Union]].<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Galactic Union]] is a centralized galactic entity with [[Fathom]] at its heart.<ref name="lh-02-the-engineer-c55">''The Engineer'', chapter 55</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Knight ==
 {{spoiler|book=lh-03-the-knight|The Galactic [[Union]] is a hostile entity that maintains military outposts and provides support to [[King Regent]] [[Felrex]]. Historically, the group performed a takeover that forced splinter factions to flee into [[Dark Space]], and they once assembled a fleet alongside the [[Starhammer]] and [[Karoshan Alliance]] to kill the narrator. The [[Union]] utilizes magic to eliminate those who question their policies and has placed bounties on both the narrator and [[Mell]]. During a confrontation, they held up the narrator, though the crew retains the ability to inform them of certain developments. Ultimately, the team must prevent this organization from obtaining [[Zenith]] technology.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Galactic Union]] soldiers share horror stories about [[Karoshan]] soldiers.<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Galactic Union]] maintains a military outpost.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Galactic Union]] has placed a bounty on the narrator and [[Mell]]'s heads.<ref name="lh-03-the-knight-c4" />}}</li>
@@ -89,14 +87,13 @@
 <li>{{spoiler|book=lh-03-the-knight|The [[Galactic Union]] is a group that provides support to [[King Regent]] [[Felrex]].<ref name="lh-03-the-knight-c19">''The Knight'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The crew can inform the [[Galactic Union]].<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Galactic Union]] is described as hostile.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|The Galactic [[Union]] is a group of influential leaders aiming for unity, though the entity is secretly controlled by [[Solstice]] and a criminal organization. This resource-rich group includes institutions like the [[Magic Tower]] and maintains defense satellites, military forces for [[Void Prism]], and a capital located at [[Fathom]]. Tensions rose as the [[Union]] became enemies with the crew of [[The Last Horizon]] and faced a declaration of war from the [[Zenith]] Starship, eventually instigating a civil war that split the galaxy in half. Despite being able to summon reinforcements from across the galaxy, the [[Union]] faced internal corruption and the assassination of its president by [[Omega]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">33</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">33</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Galactic Union]] is a group of influential leaders.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Galactic Union]] is an entity that [[Universal Manufacturing]] aims to influence.<ref name="lh-04-the-pilot-c2" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Galactic Union]] is controlled by a criminal organization.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
@@ -130,8 +127,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]] assassinated the [[Galactic Union]] president.<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Galactic Union]] would set its sights on the [[Karoshan Alliance]].<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Fathom]] is the capital of the [[Galactic Union]].<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-02-the-engineer|“If anyone knew where you were, you’d be facing down the barrels of a Galactic Union dreadnought.<ref name="lh-02-the-engineer-c33" />}}

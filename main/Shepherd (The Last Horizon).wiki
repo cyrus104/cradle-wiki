@@ -9,16 +9,15 @@
 == The Captain ==
 {{spoiler|book=lh-01-the-captain|As part of the standard crew complement for an [[Iron Legion]] Penetrator, a Shepherd serves as a cyborg mage integrated into the [[Legion]]. These hooded figures possess the ability to generate shimmering shields with a simple wave of their hands and maintain control over the local [[Hive]]. Furthermore, individuals can be transformed into [[Shepherds]] by [[Pawns]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">6</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|A Shepherd is part of the standard crew complement for an [[Iron Legion]] Penetrator.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Pawns]] can turn people into [[Shepherds]].<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Shepherds]] are cyborg mages integrated into the [[Legion]].<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Shepherds]] have control over the local [[Hive]].<ref name="lh-01-the-captain-c18" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The Shepherd can generate a shimmering shield with a wave of his hand.<ref name="lh-01-the-captain-c18" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The Shepherd is a hooded figure with a shield.<ref name="lh-01-the-captain-c18" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

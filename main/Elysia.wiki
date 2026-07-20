@@ -11,8 +11,8 @@
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|Known as the [[City of Light]], Elysia serves as the tenth [[Territory]] and is situated beyond a Gate that opens only once daily during daylight hours. The city is characterized by soaring towers, gleaming rooftops, and walls of pale white stone and pure gold that feature swirling patterns and stand at least fifteen paces high. Under a bright, rich golden sky, the landscape consists of gold sections and silver-and-[[diamond]] parapets, creating a realm of gold and rainbows. While the city contains impressive virtues and powers, it is not an ideal location for long-distance traveling. [[Alin]] is able to wrench a bolt of light from the city and can call upon Elysia as an item for power.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">14</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Elysia]] is known as the [[City of Light]].<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Elysia]] is a city located beyond a Gate.<ref name="tg-01-house-of-blades-c7">''House of Blades'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Elysia]] is the tenth [[Territory]].<ref name="tg-01-house-of-blades-c7" />}}</li>
@@ -27,14 +27,13 @@
 <li>{{spoiler|book=tg-01-house-of-blades|[[Alin]] can wrench a bolt of light from [[Elysia]].<ref name="tg-01-house-of-blades-c16" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Elysia]] is an item [[Alin]] can call upon for power.<ref name="tg-01-house-of-blades-c17">''House of Blades'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Elysia]] is a city of gold and rainbows under a golden sun with silver-and-[[diamond]] parapets.<ref name="tg-01-house-of-blades-c21">''House of Blades'', chapter 21</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|As the tenth [[Territory]], Elysia serves as a [[City of Light]] that embodies the enlightened virtues of man and acts as a complement to every other [[Territory]]. Historically, this realm functioned as the guardian of the [[Incarnations]] over three hundred years ago. While its walls are capable of defending against a foreign [[Incarnation]], the [[Territory]] may sometimes lack defenses. [[Alin]] experiences Elysia as a sunny light and is able to reach through space into the location, which once served as a place for [[Grandmaster Naraka]] to receive healing. During his journey, [[Alin]] draws power from the realm and summons a green shield from its [[essence]].}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">11</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Elysia]] is the tenth [[Territory]] and represents the enlightened virtues of man.<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The walls of [[Elysia]] can defend against a foreign [[Incarnation]].<ref name="tg-02-crimson-vault-c10">''The Crimson Vault'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Elysia]] is a sunny light that [[Alin]] feels over his shoulder.<ref name="tg-02-crimson-vault-c10" />}}</li>
@@ -46,14 +45,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Elysia]] was the guardian of the [[Incarnations]] more than three hundred years ago.<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Alin]] can reach through space into [[Elysia]].<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Elysia]] is the complement to each [[Territory]].<ref name="tg-02-crimson-vault-c24" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|Elysia is an ancient, warm [[Territory]] composed of nine colorful districts, including a [[Gold District]], a [[Violet District]], and a small white section. This location is characterized by an eternal sunrise and is protected by an invisible barrier at its Gate, which is subject to specific opening rules. Represented by a symbol of a rising sun behind a downward-pointing winged [[sword]], the city is home to noble citizens and gold-armored, winged warriors. Although it once fought Ragnarus and stands as the only opponent capable of facing [[Zakareth]] and [[Cynara]], it faces a new threat from [[King]] [[Zakareth]], who intends to loot its treasures. As the [[King]] moves against the city, a battle occurs within its bounds, even as [[Incarnations]] seek to eliminate both [[Alin]] and Elysia. Ultimately, returning to this [[City of Light]] means becoming part of its fabric forever, as the [[essence]] of the [[Blue Light]] returns to Elysia upon its dissolution.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">24</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">24</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Elysia]] is the only opponent that can stand against [[Zakareth]] and [[Cynara]].<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Elysia]] is an ancient city built in nine districts.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Elysia]] features an eternal sunrise.<ref name="tg-03-city-of-light-c7" />}}</li>
@@ -78,8 +76,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[Elysia]] has gold-armored, winged warriors.<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|A battle occurred in [[Elysia]].<ref name="tg-03-city-of-light-c28">''City of Light'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Elysia]] is a [[Territory]].<ref name="tg-03-city-of-light-c28" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-03-city-of-light|"Once I returned to the City of Light, he would become a part of its fabric, never to leave again."<ref name="tg-03-city-of-light-c10" />}}

@@ -7,28 +7,25 @@
 {{spoiler|book=tg-03-city-of-light|The Damascans are the people of the nation of [[Damasca]], a kingdom that has been ruled by a royal bloodline for approximately three and a half centuries. The nation's prosperity and security are historically tied to the royal family's ability to manage the Hanging [[Trees]] and the entities sealed beneath them. To maintain a seal on a destructive force, the Damascans have practiced an annual sacrifice of nine lives. While some view the kingdom as tyrannical or cruel, others believe their leaders act with pure intentions to protect the world. Socially, citizens living within the city often possess family names, whereas those residing in remote fringe villages typically use their father's name. The [[Damascan]] military is a significant force, consisting of organized ranks of soldiers and cavalry. These troops have been regarded as legendary extensions of their ruler's will, though they have also been known to flee in the face of overwhelming power. The nation's leadership has included figures such as the first [[Queen]], who unified the country and bound a territory to her bloodline, and various kings and [[Incarnations]]. The current political landscape has been shaped by conflicts with the [[Valinhall]], [[Enosh]], and various [[Incarnations]], including the death of their king.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Damascans]] is an identity the villagers of the current village do not have.<ref name="tg-01-house-of-blades-c2">''House of Blades'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Kai]] observes [[Damascans]] scurrying around a bonfire near [[Orgrith Cave]].<ref name="tg-01-house-of-blades-c11">''House of Blades'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|Villagers might lynch [[Simon]] for helping a family of [[Damascans]] escape.<ref name="tg-01-house-of-blades-c15">''House of Blades'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Damascans]] wear brown and purple uniforms.<ref name="tg-01-house-of-blades-c17">''House of Blades'', chapter 17</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The entire [[Damascan camp]] has been corrupted by the [[Incarnation]]'s presence.<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|The guard is safe from the [[Damascans]].<ref name="tg-03-city-of-light-c9">''City of Light'', chapter 9</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-01-house-of-blades|“The people of this village have no identity as Damascans, and no idea of the sacrifice.<ref name="tg-01-house-of-blades-c2" />}}

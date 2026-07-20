@@ -7,28 +7,25 @@
 {{spoiler|book=ee-sea-03-of-kings-and-killers|A [[Navigator]]'s ship is a unique, one-of-a-kind [[Awakened object]] that serves as the primary vessel for members of the [[Navigator]]'s [[Guild]]. These vessels are highly personal to their captains, often described as being synonymous with a captain's soul. Because of their specialized nature, most [[Navigator ships]] cannot be operated by anyone other than a [[Navigator]]; if a crew is killed by an enemy, the vessel could be run aground as it would be impossible for outsiders to sail. While many ships are part of the official [[Guild]] fleet, there are also [[Navigator]] vessels that belong to other groups, such as the [[Consultants]], who possess their own specialized ships like [[Bastion's Shadow]]. [[Navigator]] vessels are known for their highly unusual and diverse appearances, often featuring strange biological or magical elements. Examples include ships constructed from giant crab carapaces, vessels made of bone, ships shaped like animated conch shells, and others featuring blue fins or gold-edged sails decorated with large snakeskins. Some ships are even identified by distinct features like a twisting or yellowed [[Elder eye]] positioned where a crow's nest would typically be. These ships are capable of traveling the [[Aion]] and do not require lighthouses for guidance, as [[Navigators]] have no need for such coastal lights.}}
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Navigator]]'s ship arrived to assist the group.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Navigator]] ship is a type of vessel.<ref name="ee-sea-02-of-dawn-and-darkness-c21">''Of Dawn and Darkness'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Navigator]]'s ship is near the [[Aion Sea]].<ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Darkness and Dawn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Navigator]]'s ships have strange blue fins rising from every surface.<ref name="ee-shadow-02-of-darkness-and-dawn-c18">''Of Darkness and Dawn'', chapter 18</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Of Kings and Killers ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Navigator ships]] are one-of-a-kind [[Awakened objects]].<ref name="ee-sea-03-of-kings-and-killers-c8">''Of Kings and Killers'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The group is traveling to a crashed [[Navigator]] ship.<ref name="ee-sea-03-of-kings-and-killers-c8" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

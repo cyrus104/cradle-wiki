@@ -17,8 +17,8 @@
 == The Pilot ==
 {{spoiler|book=lh-04-the-pilot|Prince Veshran is a bronze-skinned [[Karoshan]] male with bright, golden hair-cables. As the twin brother of Shyrax, he serves as a political representative in [[the Queen]]'s court and governs a colony located within [[Alliance space]]. Known for being both earnest and strict, he has maintained his independence from [[Felrex]] through strategic alliances and repositioning. Veshran commands a fleet and leads a [[Karoshan legion]], eventually providing people for the crew to protect during their retreat.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">13</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|Veshran is Shyrax's twin brother and governs a colony in [[Alliance space]].<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Veshran has remained independent from [[Felrex]] through repositioning and alliances.<ref name="lh-04-the-pilot-c19" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Prince Veshran]] of [[Karosha]] is a bronze-skinned man with golden hair-cables.<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}</li>
@@ -32,8 +32,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|Veshran has people that the crew needed to cover the retreat of.<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Veshran is a [[Karoshan]] prince.<ref name="lh-04-the-pilot-c36">''The Pilot'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Veshran is a male [[Karoshan]].<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-04-the-pilot|"Sister," said Prince Veshran of Karosha.<ref name="lh-04-the-pilot-c20" />}}

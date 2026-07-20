@@ -7,12 +7,11 @@
 }}
 
 == Of Dawn and Darkness ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Cinderbeast]] was in the stands of the [[arena]].<ref name="ee-sea-02-of-dawn-and-darkness-c19">''Of Dawn and Darkness'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Cinderbeast]] attempted to gore the [[Woodsman]] by bucking its head.<ref name="ee-sea-02-of-dawn-and-darkness-c19" />}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

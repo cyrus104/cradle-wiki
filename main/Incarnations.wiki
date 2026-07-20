@@ -9,19 +9,18 @@
 {{spoiler|book=tg-03-city-of-light|Incarnations are powerful entities that represent the natural [[essence]] and abilities of specific [[Territories]]. They typically originate when a [[Traveler]] draws excessive power from their [[Territory]] into themselves, upsetting the natural balance and causing them to transform. This process turns the individual into an embodiment of their realm's nature, often resulting in a loss of their former self as they become part of the [[Territory]]'s fabric. While some view them with dread as chaotic monsters, they are fundamentally forces of nature that act according to their specific domain's characteristics; for example, an [[Incarnation]] might seek combat, spread emotional energy, or pursue knowledge. Incarnations possess the ability to warp reality around them, reshaping the environment to mirror their home [[Territory]]. Because of this power, they are generally not meant to exist in the [[Unnamed World]] and tend to become trapped within their own [[Territories]]. Historically, the kingdom of [[Damasca]] has maintained security by using a ritual involving blood sacrifices to a specific tree to keep these entities sealed underground. If left unbound, Incarnations can be dangerous, potentially seeking to destroy those who imprisoned them or using their influence to manipulate [[Travelers]] and outposts. However, they are not inherently evil, as their actions are driven by the inherent virtues or traits of the lands they embody.}}
 
 == House of Blades ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">3</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|The [[Trees]] maintain the seal on the [[Incarnations]].<ref name="tg-01-house-of-blades-c14">''House of Blades'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Incarnations]] are entities that can be sealed.<ref name="tg-01-house-of-blades-c14" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The [[Incarnations]] shake their cage and make [[Territories]] tremble.<ref name="tg-01-house-of-blades-c23">''House of Blades'', chapter 23</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == The Crimson Vault ==
 {{spoiler|book=tg-02-crimson-vault|Incarnations are noble, immensely powerful entities that were once imprisoned and are feared as monsters capable of spreading chaos and madness. Described as the rampant power of a [[Traveler]], these beings risk becoming trapped if they remain too long in the [[Territories]] that created them and will descend into madness if they stay in the world for extended periods. Following their release by the people of [[Enosh]], an [[Incarnation]] from [[Valinhall]] escaped to begin a rampage. While [[Alin]] maintains that this group should never have been released, their emergence possesses the potential to unseat the power of [[Talos]]'s father.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">8</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Incarnations]] are entities that were previously imprisoned and are feared as monsters that spread madness and chaos.<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Incarnations]] are noble creatures with incalculable power that go mad if they stay in the world too long.<ref name="tg-02-crimson-vault-c6" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|An [[Incarnation]] from [[Valinhall]] has escaped and is on a rampage.<ref name="tg-02-crimson-vault-c7">''The Crimson Vault'', chapter 7</ref>}}</li>
@@ -30,14 +29,13 @@
 <li>{{spoiler|book=tg-02-crimson-vault|The emergence of the [[Incarnations]] could unseat the power of [[Talos]]'s father.<ref name="tg-02-crimson-vault-c16">''The Crimson Vault'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Incarnations]] are beings that the people of [[Enosh]] released.<ref name="tg-02-crimson-vault-c17">''The Crimson Vault'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Incarnations]] are a group that [[Alin]] believes should not be released.<ref name="tg-02-crimson-vault-c22">''The Crimson Vault'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == City of Light ==
 {{spoiler|book=tg-03-city-of-light|When unbound, Incarnations act according to their inherent nature and are notoriously lacking in self-control. Described as walking natural disasters, some of these entities are little better than monsters that can withstand attacks from [[Travelers]] without even paying attention. At least eight of the original nine were lured into transforming outside of a [[Territory]], leading them to use illusions, phantom noises, and physical abuse to torment [[Indirial]]. While [[Simon]] possesses the ability to stop them from hurting ordinary people, [[Caela]] notes that the Incarnations are not present on the battlefield.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">9</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Incarnations]] act according to their nature when unbound.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Simon]] can stop [[Incarnations]] from hurting ordinary people.<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Incarnations]] are described as walking natural disasters.<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}</li>
@@ -47,8 +45,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[Incarnations]] are notoriously lacking in self-control.<ref name="tg-03-city-of-light-c20">''City of Light'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|Some [[Incarnations]] are little better than monsters.<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Caela]] states that the [[Incarnations]] are not on the battlefield.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notes ==
 <references />

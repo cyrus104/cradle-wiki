@@ -11,8 +11,8 @@
 == Blackflame ==
 {{spoiler|book=cradle-03-blackflame|Serpent's [[Grave]] is a city constructed of [[dragon]]'s bone that sits within an ocean of yellow sand in a snowless desert. Located below the looming [[Shiryu Mountain]], this site served as one of the earliest [[Arelius family]] outposts on the continent and is the place where the [[Path of Black Flame]] was created. The location contains a refinery and has been patrolled by [[Renfei]] and her partner, though it eventually breaks into a war zone. During its history, the city was bathed in white light from an explosion and is a place where [[Stellar Spear madra]] can be found.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">15</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Serpent's Grave]] is a destination the group will arrive at in less than ten hours.<ref name="cradle-03-blackflame-c7">''Blackflame'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|Serpent’s [[Grave]] is a location [[Eithan]] and [[Cassias]] are heading towards.<ref name="cradle-03-blackflame-c7" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Serpent's Grave]] was one of the first outposts of the [[Arelius family]] on this continent.<ref name="cradle-03-blackflame-c8">''Blackflame'', chapter 8</ref>}}</li>
@@ -28,51 +28,46 @@
 <li>{{spoiler|book=cradle-03-blackflame|[[Serpent's Grave]] is breaking into a war zone.<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|Serpent’s [[Grave]] is a location where [[Stellar Spear madra]] is present.<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Renfei]] and her partner patrolled near Serpent’s [[Grave]].<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Skysworn ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">4</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Serpent's Grave]] is a location containing a [[dragon]]'s den.<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Serpent's Grave]] is a location the [[Skysworn]] left before bringing [[Lindon]] to his current room.<ref name="cradle-04-skysworn-c1" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The original [[Ancestor’s Spear]] is locked away in Serpent’s [[Grave]].<ref name="cradle-04-skysworn-c6">''Skysworn'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Serpent's Grave]] is a location that [[Stormrock]] passes over.<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Ghostwater ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Orthos]] could have gone insane in [[Serpent's Grave]].<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Underlord ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|Serpent’s [[Grave]] is a location [[Lindon]] mentions.<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Reaper ==
 {{spoiler|book=cradle-10-reaper|Serpent's [[Grave]] is a city constructed from the ancient bones of giant [[dragons]]. Situated near the headquarters of the [[Twin Star Sect]], the location was once targeted in an attack aided by [[Jai Daishou]]. A caravan of cloudships eventually traveled to the city, where [[Yerin]] made her stay.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">5</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|Serpent’s [[Grave]] is a city that [[Jai Daishou]] once helped to attack.<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The caravan of cloudships traveled to Serpent’s [[Grave]].<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|Serpent’s [[Grave]] is a city built from ancient, giant [[dragon]] bones.<ref name="cradle-10-reaper-c7" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Serpent's Grave]] is a location where [[Yerin]] stays.<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|Serpent’s [[Grave]] is located near the [[Twin Star Sect]] headquarters.<ref name="cradle-10-reaper-c11">''Reaper'', chapter 11</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Dreadgod ==
 {{spoiler|book=cradle-11-dreadgod|Located a long journey from [[Sacred Valley]] by cloudship, Serpent's [[Grave]] is a street-filled territory belonging to the [[Twin Star Sect]]. The area serves as a residence for [[Wei Shi Jaran]] and contains a house owned by the [[Arelius family]], while also acting as a site where remnants of royal black [[dragons]] can be found. Wei Shi [[Seisha]] has been present in the location, and it is defended by Highgolds and Truegolds. During their time there, [[Lindon]] and [[Yerin]] worked together, though [[Lindon]] remained unable to create a portal back to [[Sacred Valley]] from the site.}}
 
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">10</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|Wei Shi [[Seisha]] is in Serpent’s [[Grave]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Serpent's Grave]] is where remnants of royal black [[dragons]] would be found.<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Serpent’s [[Grave]] is a long trip from [[Sacred Valley]] by cloudship.<ref name="cradle-11-dreadgod-c5" />}}</li>
@@ -83,23 +78,20 @@
 <li>{{spoiler|book=cradle-11-dreadgod|Serpent’s [[Grave]] is a location where the [[Arelius family]] has a house.<ref name="cradle-11-dreadgod-c18" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Serpent’s [[Grave]] is a location from which [[Lindon]] cannot yet create a portal to [[Sacred Valley]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] and [[Yerin]] worked together in Serpent’s [[Grave]].<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Waybound ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">2</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The people of Serpent’s [[Grave]] have heard about the [[Empty Ghost]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Serpent's Grave]] is a location that the [[Grave]] might have been named after.<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Threshold: Stories from Cradle ==
-<div class="wv-facts"><div class="wv-facts-head">Sourced facts <span class="wv-facts-count">1</span></div><div class="mw-collapsible mw-collapsed wv-facts-body">
-<ul class="wv-fact-list">
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|Serpent’s [[Grave]] is a location where [[Jai Daishou]] fought.<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}</li>
-</ul>
-</div></div>
+</ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-03-blackflame|"though there was no snow in Serpent's Grave,"<ref name="cradle-03-blackflame-c10" />}}
