@@ -1,19 +1,104 @@
 {{Infobox artifact
-| name = Void key
-| introduced = Uncrowned
+| name = void key
+| introduced = Ghostwater
 }}
 
+''See also: [[void key Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-12-waybound|A void key is a rare and valuable spatial tool used for storage. It functions by providing the holder with access to a private, internal pocket dimension or personal space that remains inaccessible to others unless the key itself is stolen. These keys can vary significantly in size, ranging from objects as small as a picnic basket to openings that appear as large as a barn or a closet door. The internal environment of a void key is often described as complete darkness or an endless, empty abyss, though some versions may be blocked with [[shadow madra]] to prevent others from seeing the contents. While most [[void keys]] are created by [[Sages]], they are considered rare even for powerful individuals like [[Underlord{{!}}Underlords]]. They serve as essential tools for transporting various items, including weapons, specialized equipment, food, [[water]], and even living beings. Some advanced or unique versions can be much larger, more stable, or more complex than standard models. However, using a void key can be difficult in environments where spatial manipulation is restricted, and maintaining the connection to the internal space requires concentration; if a user loses focus, the opening may vanish or even collapse.}}
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|A [[void key]] might contain treasures from [[Akura Malice]].<ref name="cradle-05-ghostwater-c4">''Ghostwater'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|A [[void key]] contains a private space accessible only by the holder.<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Sages]] are the weakest beings capable of creating [[void keys]].<ref name="cradle-05-ghostwater-c11" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] stores Carp steaks in his [[void key]].<ref name="cradle-05-ghostwater-c13">''Ghostwater'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Mercy]] has a [[void key]].<ref name="cradle-05-ghostwater-c14">''Ghostwater'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] has a [[void key]].<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] uses a [[void key]] to access void storage.<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}</li>
+</ul></div>
+
+== Underlord ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-06-underlord|[[Eithan]] can pull a chair from his [[void key]].<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Eithan]] uses a [[void key]] to store and retrieve items.<ref name="cradle-06-underlord-c5" />}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Lindon]] reaches for his [[void key]].<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Mercy]] used a [[void key]] to settle [[Little Blue]].<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|A [[void key]] can be the size of a barn.<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}</li>
+</ul></div>
+
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|Constructs can be stored using a [[void key]].}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] stores items such as restoration pills, firewood, [[water]] jugs, travel rations, a [[steel]] knife, and a travel blanket in his [[void key]].<ref name="cradle-07-uncrowned-c3">''Uncrowned'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|Constructs can be stored using a [[void key]].<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Akura Pride{{!}}Pride]] uses a [[void key]] to unload his belongings.<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
+</ul></div>
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Timaias Adama{{!}}Adama]] does not carry a [[void key]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|A [[void key]] opened in the center of the room.<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Charity]] reaches into a shadowy [[void key]] to pull out a chair.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] can pull items from his [[void key]].<ref name="cradle-08-wintersteel-c9" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|A [[void key]] can be used to contain a [[cloudship]].<ref name="cradle-08-wintersteel-c11">''Wintersteel'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] used a [[void key]] to store his armor plates.<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Mercy]] carries a [[void key]] around her neck.<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Charity]] has a [[void key]].<ref name="cradle-08-wintersteel-c20">''Wintersteel'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon's void key]] slid open.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] plucked a [[void key]] from around [[Sopharanatoth{{!}}Sophara]]'s neck.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
+</ul></div>
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Charity]]'s [[void key]] can produce weapons and shields.}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|[[Akura Charity]] pulled a [[scripted spike]] from a [[void key]].<ref name="cradle-09-bloodline-c3">''Bloodline'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Charity]]'s [[void key]] can produce weapons and shields.<ref name="cradle-09-bloodline-c4">''Bloodline'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] was pinching his [[void key]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[void key]] is a storage space.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] perceived an indentation in space as a sealed [[void key]].<ref name="cradle-09-bloodline-c22">''Bloodline'', chapter 22</ref>}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|[[Yerin]] has a [[void key]] that is not large enough to hold everything.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Ziel of the Wasteland{{!}}Ziel]] uses a [[void key]] for storage.<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] uses a [[void key]] to summon a [[Thousand-Mile Cloud]].<ref name="cradle-10-reaper-c5">''Reaper'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Orthos]] can be kept in [[Lindon's void key]] while flying.<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Yerin]] has a [[void key]] that she can force open.<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
+</ul></div>
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] has scripted boxes in his [[void key]].<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Orthos]] has a [[void key]] dangling from his neck.<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|A [[void key]] can hold items like a hammer and shield.<ref name="cradle-11-dreadgod-c7" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The plans are likely in a restricted [[void key]].<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Mercy]] reached into her [[void key]].<ref name="cradle-11-dreadgod-c12">''Dreadgod'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Kahn Mala]] can use a [[void key]] to retrieve objects.<ref name="cradle-11-dreadgod-c14">''Dreadgod'', chapter 14</ref>}}</li>
+</ul></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Ziel]] intends to keep the [[Sage]]'s [[Remnant]] in his [[void key]].}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[Orthos]] has a [[void key]].<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] tossed [[Penance arrowheads{{!}}Penance arrows]] into his [[void key]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Ziel of the Wasteland{{!}}Ziel]] could not open his [[void key]] while inside the Array.<ref name="cradle-12-waybound-c7">''Waybound'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Yerin]] uses a [[void key]] to release [[Underlord Remnants]].<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|A [[void key]] opened near [[Orthos]].<ref name="cradle-12-waybound-c12" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|A [[void key]] can contain [[Archlord-level natural treasures]].<ref name="cradle-12-waybound-c13">''Waybound'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Ziel of the Wasteland{{!}}Ziel]] intends to keep the [[Sage]]'s [[Remnant]] in his [[void key]].<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Emriss Silentborn{{!}}Emriss]] has a gemstone that feels like a very deep [[void key]].<ref name="cradle-12-waybound-c31">''Waybound'', chapter 31</ref>}}</li>
+</ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=cradle-06-underlord|But what about—" the King began, but a void key the size of a barn opened next to him.<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}
+* {{spoiler|book=cradle-06-underlord|But what about—" the King began, but a void key the size of a barn opened next to him.<ref name="cradle-06-underlord-c21" />}}
 
 == Notes ==
 <references />
@@ -21,13 +106,13 @@
 {{Cradle nav}}
 
 [[Category:Artifacts]]
-[[Category:Uncrowned]]
-[[Category:Bloodline]]
-[[Category:Waybound]]
 [[Category:Ghostwater]]
 [[Category:Underlord]]
+[[Category:Uncrowned]]
 [[Category:Wintersteel]]
+[[Category:Bloodline]]
 [[Category:Reaper]]
 [[Category:Dreadgod]]
+[[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle artifacts]]

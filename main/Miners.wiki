@@ -1,14 +1,29 @@
-{{Expand}}
-
 {{Infobox group
-| name = miners
-| introduced = Soulsmith
+| name = Miners
+| introduced = Of Shadow and Sea
 }}
+
+== Overview ==
+{{spoiler|book=cradle-02-soulsmith|The Miners are a small, specialized order within the [[Consultants]], consisting of only forty-two students. They serve as the organization's archivists, responsible for maintaining and organizing the extensive records that constitute the true wealth of the [[Consultants]]. Because they manage sensitive personnel data for [[Gray Island]], members of this order are bound by strict oaths of secrecy. As part of the [[Consultants' Guild{{!}}Consultant Guild]], they are characterized by a disciplined nature, typically following orders precisely and remaining silent unless required by a contract. While they are one of the four primary orders, they are often overlooked compared to others like the [[Architects]] or [[Masons]].}}
+
+== Of Shadow and Sea ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Miners]] reside in catacombs.<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Miners]] observed that [[Rudeus Maxwell]] was a nobody.<ref name="ee-shadow-01-of-shadow-and-sea-c3">''Of Shadow and Sea'', chapter 3</ref>}}</li>
+</ul></div>
+
+== Of Darkness and Dawn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The final action report was sent to the [[Miners]].<ref name="ee-shadow-02-of-darkness-and-dawn-c17">''Of Darkness and Dawn'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Miners]] had sealed the vaults.<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
+</ul></div>
 
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|[[Miners]] go inside the [[Transcendent Ruins]] to draw scales from the air.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Miners]] go inside the [[Transcendent Ruins]] to draw [[scales]] from the air.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -16,13 +31,12 @@
 
 {{Elder Empire nav}}
 
-{{Cradle nav}}
-
 [[Category:Groups]]
 [[Category:Soulsmith]]
 [[Category:Of Shadow and Sea]]
 [[Category:Of Darkness and Dawn]]
 [[Category:Elder Empire]]
-[[Category:Elder Empire groups]]
 [[Category:Cradle]]
+[[Category:Elder Empire groups]]
 [[Category:Cradle groups]]
+[[Category:Amalgam]]

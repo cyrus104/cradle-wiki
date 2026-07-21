@@ -3,6 +3,9 @@
 | introduced = The Crimson Vault
 }}
 
+== Overview ==
+{{spoiler|book=tg-03-city-of-light|Golems are animated [[constructs]] originating from [[Ornheim]], composed of various materials including [[stone]], metal, flint, shale, granite, and even light. They serve diverse roles as guardians, assassins, soldiers, or patrol units, appearing in many forms such as massive warriors, animals, birds, or even small dog-shaped creatures. Some golems possess highly complex internal mechanisms, like clockwork gears, while others are made of polished obsidian or white [[stone]]. A defining characteristic of these beings is the presence of embedded gemstones, such as amethyst, [[ruby]], topaz, or emerald, which function as heartstones to provide animation and control. These gems are often located in the head or forehead, acting as eyes. To destroy a golem, one can either target and shatter its controlling [[heartstone]] or use brute force to break the physical body so that it can no longer support the gem's animation. While many are mass-produced for armies, unique entities like the [[Ornheim Incarnation]] exist, possessing more lifelike features and immense power.}}
+
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -13,7 +16,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Golems]] are used to add bricks to walls.<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|[[Leah]] is standing behind a wall of golems and [[Travelers]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Leah]] is standing behind a wall of [[Golems{{!}}golems]] and [[Travelers]].<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
 </ul></div>
 
 == Notes ==

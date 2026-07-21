@@ -1,13 +1,18 @@
 {{Infobox character
-| name = the Mad King
+| name = The Mad King
+| aliases = the Mad King
+| abilities = {{spoiler|book=cradle-07-uncrowned|gaze can see across time and space}}
+| titles = {{spoiler|book=cradle-03-blackflame|[[The Mad King]]}}{{spoiler|book=cradle-13-threshold|, [[Executor]]}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Abidan]]}}
+| professions = {{spoiler|book=cradle-13-threshold|[[Executor]]}}
 | appears_in = Cradle
-| introduced = [[Bloodline (novel)|Bloodline]]
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[The Mad King Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|The [[Mad King]] is a powerful [[Vroshir]] and a former [[Executor]] who has become one of the most significant enemies of the [[Abidan]]. A legendary conqueror and imperialist, he is known for his ruthless nature and a reputation as a glory-seeking innovator. He possesses the ability to wage war alone, having used techniques capable of destroying cities and forests, and is even feared by the Void. In combat, he has been seen wielding a dark Scythe and a bone [[sword]] that carries the weight of many slaughtered worlds. Despite his immense power, which allows him to challenge the pillars of Heaven and threaten entire [[Iterations]], he is in a physically declining state. His madra channels are heavily scarred and his lifeline is weakened, suggesting long-term damage to his body. He has even managed to create a [[veil]] that hides his existence from the [[Way]]. Because he hosts an entity capable of killing [[Judges]] and has found ways to bypass [[Sector Control]], he is considered a Class One threat. He harbors a deep hatred for the [[Abidan]] and seeks their total destruction.}}
+{{spoiler|book=cradle-13-threshold|The [[Mad King]] is a powerful [[Vroshir]] and former [[Executor]] who serves as a significant antagonist to the [[Abidan]]. A legendary conqueror and innovator, he is characterized by his ruthless nature toward enemies and his devotion to his people. He resides in a citadel located on the [[fortress]]-world of [[Tal’gullour]], which he loves deeply. The King is a formidable combatant who wields both a dark [[The Scythe{{!}}Scythe]] and a bone [[sword]] that resonates with the sorrow of destroyed worlds. His power is so immense that his mere presence can shatter minds, leading him to live in self-sealed chambers to prevent accidental mass casualties within his [[Iteration]]. His primary motivation is the [[destruction]] of the [[Abidan]], a goal he pursues by testing their response times and foresight through calculated strikes. He has even managed to create a [[veil]] that hides his existence from [[Way{{!}}the Way]], making him a Class One threat. Despite his immense strength, he hosts a dangerous entity that has previously killed [[Judges]] and struggles to maintain control over it. His physical condition is marked by scarred [[madra channels]] and a weakened lifeline, yet he has managed to retain his mental faculties unlike others who suffer from similar afflictions. He is known for spreading chaos through specialized viruses and utilizing subordinates to undermine the foundations of the heavens.}}
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -16,21 +21,25 @@
 </ul></div>
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|The [[Mad King]] exists as a memory, recording, or imprint left upon the [[Way]]. He wields a [[scythe]] and harbors a deep hatred for the [[Abidan]]. His eyes resemble two red suns, possessing a gaze capable of seeing across both time and space.}}
-
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[The Mad King]] hates the [[Abidan]].<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[The Mad King]] wields a Scythe.<ref name="cradle-07-uncrowned-c18" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[The Mad King]] wields a [[The Scythe{{!}}Scythe]].<ref name="cradle-07-uncrowned-c18" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[The Mad King]]'s eyes are like two red suns.<ref name="cradle-07-uncrowned-c18" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[The Mad King]]'s gaze can see across time and space.<ref name="cradle-07-uncrowned-c18" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[The Mad King]]'s presence is a memory, recording, or imprint left on the [[Way]].<ref name="cradle-07-uncrowned-c18" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[The Mad King]]'s presence is a memory, recording, or imprint left on [[Way{{!}}the Way]].<ref name="cradle-07-uncrowned-c18" />}}</li>
 </ul></div>
 
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[The Mad King]] clashed swords with [[Razael]].<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[The Mad King]] left barriers and obstacles in [[Way{{!}}the Way]] and sealed off a [[Sector]].<ref name="cradle-12-waybound-c1">''Waybound'', chapter 1</ref>}}</li>
 </ul></div>
 
 == Threshold: Stories from Cradle ==
@@ -49,8 +58,7 @@
 [[Category:Blackflame]]
 [[Category:Uncrowned]]
 [[Category:Reaper]]
+[[Category:Waybound]]
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Waybound]]
-[[Category:Titled characters]]

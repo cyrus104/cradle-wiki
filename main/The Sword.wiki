@@ -1,14 +1,30 @@
-{{Expand}}
-
 {{Infobox concept
-| name = the Sword
+| name = The Sword
 | introduced = The Captain
 }}
 
+== Overview ==
+{{spoiler|book=lh-04-the-pilot|The term "the Sword" refers to several distinct entities within the narrative. Primarily, it is an alias for [[Sola Kalter]], also known as the [[Fallen Sword]]. An independent operative and member of [[The Last Horizon]], she is recognized for her long-standing campaign against the [[Iron Legion]]. Her effectiveness in combat stems from an exceptional ability to utilize [[Aethertech]] weaponry. Following her death, her body and equipment dissolved into a burning mist. Additionally, the title can refer to specific roles or sentient objects. It is used as a designation for a weapons officer and as a term of endearment or loyalty by [[Horizon]] toward a subordinate. There is also a sentient, floating metal [[sword]] that can communicate via voice, examine individuals, and provide encouragement. In a physical sense, the term describes various high-tech armaments, including force-blades that project light in colors such as gold, red, or white. These weapons range from three-foot laser edges to massive, fire-infused broadswords. Other variations include [[Aethertech]] blades and the [[Zenith Blade]], a silver, hovering weapon that resembles a specific individual's form.}}
+
 == The Captain ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|[[The Sword]] evolves the ship's guns and alternate weapons systems.<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The weapons officer is called [[The Sword{{!}}the Sword]].<ref name="lh-01-the-captain-c16" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[The Sword]] handled the relocation of [[Omega]].<ref name="lh-01-the-captain-c35">''The Captain'', chapter 35</ref>}}</li>
+</ul></div>
+
+== The Engineer ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|The weapons officer is called [[the Sword]].<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The Captain was eating with [[The Sword{{!}}the Sword]] in the mess hall.<ref name="lh-02-the-engineer-c22">''The Engineer'', chapter 22</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax{{!}}Shyrax]] hopes [[The Sword{{!}}the Sword]] will be prepared.<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[The Sword]] suggests chasing [[Aila Escalon{{!}}Aila]].<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -25,4 +41,3 @@
 [[Category:The Pilot]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon concepts]]
-[[Category:Titles]]

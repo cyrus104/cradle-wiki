@@ -3,16 +3,19 @@
 | introduced = House of Blades
 }}
 
+== Overview ==
+{{spoiler|book=tg-02-crimson-vault|The [[Tree]] is a [[Ragnarus artifact]] that serves as a vital component in maintaining the seal on the [[Incarnations]]. Each Overlord possesses one of these trees, and they are all interconnected; feeding one tree provides nourishment to the others. To function, the trees require a [[blood]] [[sacrifice]] consisting of nine people per year, provided at a rate of one person daily until midsummer. This ritualistic feeding is necessary to keep the [[Incarnations]] contained, as the [[destruction]] of any single tree weakens the entire network and brings all [[Incarnations]] closer to escaping. Physically, these entities can vary in appearance, ranging from massive trees with diverse colorful fruits to smaller, [[blood]]-red saplings with crimson leaves and predatory tendencies. They are often characterized by a violent or hungry nature, capable of using thorns, roots, and branches to ensnare or attack individuals. Some are referred to as [[Hanging Tree{{!}}Hanging Trees]], which have been known to physically restrain victims by their limbs. The trees are sentient and reactive, capable of making deafening roars, hissing, or emitting silent screams that cause intense mental and physical agony. While they are typically violently healthy, they can show signs of sickness, such as shriveled or blackened parts, which may indicate restlessness or instability within the [[Ragnarus the Crimson Vault{{!}}Ragnarus]] connection.}}
+
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|[[The Tree]] is related to the sacrifice in Ragnarus and has seemed restless for several years.<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[The Tree]] is related to the [[sacrifice]] in [[Ragnarus the Crimson Vault{{!}}Ragnarus]] and has seemed restless for several years.<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}</li>
 </ul></div>
 
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-02-crimson-vault|The [[Enosh Travelers]] intend to destroy the [[Tree]].<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Enosh Travelers]] intend to destroy [[The Tree{{!}}the Tree]].<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[The Tree]] is something that can be examined by a [[Traveler]].<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 </ul></div>
 
@@ -26,4 +29,3 @@
 [[Category:The Crimson Vault]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate concepts]]
-[[Category:Lifeforms]]

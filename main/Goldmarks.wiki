@@ -1,19 +1,28 @@
-{{Expand}}
-
-{{Infobox artifact
-| name = Goldmarks
-| introduced = Of Shadow and Sea
+{{Infobox concept
+| name = goldmarks
+| introduced = Of Sea and Shadow
 }}
+
+== Overview ==
+{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Goldmarks serve as a high-value currency used for significant financial transactions and major investments. While most people manage their daily costs using standard marks, goldmarks are utilized for monumental expenses, such as the cost of hiring a [[Navigator]] to cross the [[Aion]]. In terms of [[scale]], ten thousand goldmarks is equivalent to one million marks. The value of a single goldmark is substantial; for example, four hundred goldmarks can purchase an original portrait at auction, which is enough to buy a house in many parts of [[The Empire{{!}}the Empire]]. Goldmarks can appear as physical coins or as printed bills. They are also used to represent the influence of various organizations, such as the [[Luminian Order]] and the [[Greenwardens]], in political contexts.}}
+
+== Of Sea and Shadow ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[goldmarks{{!}}Goldmarks]] are used for monumental investments like hiring a [[Navigator]] to sail across the [[Aion]].<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[goldmarks{{!}}Goldmarks]] are a form of currency.<ref name="ee-sea-01-of-sea-and-shadow-c20">''Of Sea and Shadow'', chapter 20</ref>}}</li>
+</ul></div>
 
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Goldmarks]] are a form of currency found in [[Gray Island]] vaults.<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[goldmarks{{!}}Goldmarks]] are a form of currency found in [[Gray Island]] vaults.<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}</li>
 </ul></div>
 
 == Of Dawn and Darkness ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Five [[goldmarks]] can be used to gain entry.<ref name="ee-sea-02-of-dawn-and-darkness-c19">''Of Dawn and Darkness'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Baldesar Kern]] was paid in [[goldmarks]].<ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}</li>
 </ul></div>
 
@@ -22,12 +31,9 @@
 
 {{Elder Empire nav}}
 
-[[Category:Artifacts]]
-[[Category:Of Dawn and Darkness]]
-[[Category:Of Shadow and Sea]]
 [[Category:Concepts]]
 [[Category:Of Sea and Shadow]]
+[[Category:Of Dawn and Darkness]]
+[[Category:Of Shadow and Sea]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire concepts]]
-[[Category:Elder Empire artifacts]]
-[[Category:Currencies]]

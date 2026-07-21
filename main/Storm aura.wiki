@@ -1,4 +1,29 @@
-#REDIRECT [[storm aura]]
+{{Expand}}
+
+{{Infobox madra
+| name = storm aura
+| introduced = Unsouled
+}}
+
+== Overview ==
+{{spoiler|book=cradle-12-waybound|Storm [[aura]] is a powerful and volatile form of energy associated with lightning, [[wind]], and storm-based phenomena. It can manifest as blue serpents encircling a practitioner's limbs or as intense lightning bolts that strike and disrupt flight. This energy is capable of creating massive storm clouds, torrential rain, and fierce winds that can claw at targets. In certain instances, it appears as stark white lightning set against pitch-black clouds or manifests as blue sparks and a corona surrounding a weapon. The [[aura]] is also linked to specialized entities, such as the constructions of the [[Dreadgod]] known as [[storm-dragons]], and can be harnessed or manipulated by powerful figures like the [[Sage of Calling Storms]].}}
+
+== Unsouled ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-01-unsouled|The trespasser used [[storm aura]] to darken the sky.<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[storm aura{{!}}Storm aura]] tore at [[Lindon]].<ref name="cradle-12-waybound-c19">''Waybound'', chapter 19</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Madra]]
 [[Category:Unsouled]]

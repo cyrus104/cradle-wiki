@@ -1,4 +1,24 @@
-#REDIRECT [[ancestral orus tree]]
+{{Expand}}
+
+{{Infobox location
+| name = ancestral orus tree
+| introduced = Unsouled
+}}
+
+== Overview ==
+{{spoiler|book=cradle-01-unsouled|The ancestral [[orus tree]] is a rare and ancient type of plant characterized by purple foliage and gnarled bark. These trees possess an [[aura]] of peace and can exist for centuries, eventually absorbing enough [[vital aura]] to approach a state of ascension. While standard [[orus trees]] produce white fruit that is considered a delicacy due to its unique flavor, the fruit of an [[ancestral tree]] is significantly more powerful. [[Consuming]] this specific fruit provides a person with years' worth of purified [[vital aura]] that can be converted into [[madra]]. In a spiritual form, the fruit appears as glowing [[white madra]], though its physical counterpart may appear shriveled. The fruit has proven vital for survival and the activation of significant abilities, such as a cloud or the [[White Fox boundary formation{{!}}White Fox boundary]].}}
+
+== Unsouled ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-01-unsouled|Fruit from an [[ancestral orus tree]] provides years' worth of purified [[vital aura]] that can be processed into [[madra]].<ref name="cradle-01-unsouled-c2">''Unsouled'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Lindon]] found an [[ancestral orus tree]] that was destroyed.<ref name="cradle-01-unsouled-c3">''Unsouled'', chapter 3</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Locations]]
 [[Category:Unsouled]]

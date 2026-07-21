@@ -1,7 +1,25 @@
-#REDIRECT [[investing]]
+{{Expand}}
+
+{{Infobox concept
+| name = investing
+| introduced = Of Sea and Shadow
+}}
+
+== Overview ==
+{{spoiler|book=ee-sea-01-of-sea-and-shadow|Investing is the process of charging an object with a person's [[Intent]]. This occurs naturally and unavoidably whenever a human uses a tool, such as using a coat for warmth or a brush for grooming. By willing an object to perform its intended function more effectively, the user allows the item to absorb their [[Intent]], which enhances its capabilities. For example, a knife might become much sharper for cutting meat, or glass might gain the strength to withstand heavy hail. Over long periods of use, tools like axes can accumulate a measurable amount of [[Intent]] that makes them excel at their specific tasks. While most people perform this action blindly, specialized individuals known as [[Readers]] can perceive the actual changes made by the [[Intent]]. The process can be complex, sometimes requiring a person to focus their [[Intent]] on multiple components simultaneously, which can cause significant physical strain. If a person focuses too intensely, they risk investing themselves. While some modern perspectives refer to this phenomenon as empowering, the term investing is used to describe the act of lending [[Intent]] to an item.}}
+
+== Of Sea and Shadow ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Charging an object with [[Intent]] is called '[[investing]]'.<ref name="ee-sea-01-of-sea-and-shadow-c4">''Of Sea and Shadow'', chapter 4</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
 
 [[Category:Concepts]]
 [[Category:Of Sea and Shadow]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire concepts]]
-[[Category:Terminology]]

@@ -1,4 +1,30 @@
-#REDIRECT [[liquid steel]]
+{{Infobox madra
+| name = liquid steel
+| introduced = House of Blades
+}}
+
+== Overview ==
+{{spoiler|book=tg-02-crimson-vault|Liquid [[steel]] is a potent substance that can be summoned or drawn upon through [[Valinhall]]. When utilized, it manifests as a rushing, icy sensation that flows through a person's veins and muscles like an ocean torrent. This power provides the user with immense physical strength, increased speed, and a significant reduction in feelings of pain or weakness. The sensation is described as an intense cold that can make limbs feel frozen while simultaneously granting the user enough power to potentially destroy structures with their bare hands. It is often used in conjunction with other essences, such as [[Nye essence]], to enhance combat capabilities. Users must manage this power carefully, as it can be exhausted and requires time to recover after being released.}}
+
+== House of Blades ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-01-house-of-blades|[[liquid steel{{!}}Liquid steel]] flows into [[Simon]].<ref name="tg-01-house-of-blades-c12">''House of Blades'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|A [[skeleton]] brews [[liquid steel]].<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Simon]] must hold onto [[liquid steel]] to follow [[the Nye]].<ref name="tg-01-house-of-blades-c18">''House of Blades'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[liquid steel{{!}}Liquid steel]] can take away pain and weakness.<ref name="tg-01-house-of-blades-c19">''House of Blades'', chapter 19</ref>}}</li>
+</ul></div>
+
+== The Crimson Vault ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] releases his [[liquid steel]] to let it recover.<ref name="tg-02-crimson-vault-c14">''The Crimson Vault'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
 
 [[Category:Madra]]
 [[Category:House of Blades]]

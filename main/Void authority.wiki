@@ -1,14 +1,27 @@
-{{Expand}}
-
 {{Infobox concept
-| name = void authority
-| introduced = Dreadgod
+| name = Void authority
+| introduced = Reaper
 }}
+
+== Overview ==
+{{spoiler|book=cradle-12-waybound|Void [[Authority{{!}}authority]] is a power associated with the [[Void Sage]] and the [[Void Icon]], characterized by themes of emptiness, [[hunger]], nonexistence, and annihilation. Rather than being a force of addition, it is fundamentally the power to subtract, remove, or consume. This [[Authority{{!}}authority]] allows for the negation of specific events, such as reducing wounds to nothingness, and can be used to strip away illusions or temporarily wipe out the power of others. It possesses the ability to warp perception, [[dreams]], and thoughts, even affecting the underlying rules of reality known as [[Way{{!}}the Way]]. When exerted, this [[Authority{{!}}authority]] can manifest as an invisible vortex that leeches color from the world or creates an endless abyss. While it can hide futures or remove obstructions on [[Fate]], it lacks dominion over physical power. The influence of the Void is so potent that it can unravel the threads of order, draw in beings through gravity, and cause even powerful entities like [[Judges]] to feel its pull toward chaos.}}
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] possesses [[Void authority]].<ref name="cradle-10-reaper-c17">''Reaper'', chapter 17</ref>}}</li>
+</ul></div>
 
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]]'s [[Hollow Domain]] is fortified by [[void authority]].<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]]'s [[Hollow Domain]] is fortified by [[Void authority{{!}}void authority]].<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[Void authority]] can darken the sky.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -17,9 +30,8 @@
 {{Cradle nav}}
 
 [[Category:Concepts]]
-[[Category:Dreadgod]]
 [[Category:Reaper]]
+[[Category:Dreadgod]]
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Terminology]]

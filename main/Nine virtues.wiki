@@ -1,7 +1,25 @@
-#REDIRECT [[nine virtues]]
+{{Expand}}
+
+{{Infobox concept
+| name = nine virtues
+| introduced = The Crimson Vault
+}}
+
+== Overview ==
+{{spoiler|book=tg-02-crimson-vault|The nine virtues are the core components of [[Elysia]], a tenth territory representing human enlightenment that was granted access to the world over a millennium ago. These virtues serve as essential qualities required for individuals to safely wield specific powers and access different districts within [[Elysia]]. Each virtue is designed to complement the nature of one of the nine original territories, providing a moral balance to their elemental powers. For example, mercy acts as a necessary counterbalance to the judgmental nature of [[Naraka]], while selflessness serves as a foundational keystone for all virtues. Specific virtues are tied to particular abilities and locations: bravery is required for combat powers in the [[Gold District]], patience is linked to defensive capabilities in the [[Green District]], loyalty grants access to flight and levitation in the [[Orange District]], wisdom is central to the [[Silver District]], and mercy is exemplified in the [[Blue District]]. Additionally, a white virtue related to self-[[sacrifice]] is required to use the weaponry found in [[Ragnarus the Crimson Vault{{!}}Ragnarus]] with proper discipline.}}
+
+== The Crimson Vault ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Elysia]] is organized around [[nine virtues]].<ref name="tg-02-crimson-vault-c13">''The Crimson Vault'', chapter 13</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
 
 [[Category:Concepts]]
 [[Category:The Crimson Vault]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate concepts]]
-[[Category:Religion and cults]]

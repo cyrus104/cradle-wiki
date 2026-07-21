@@ -1,4 +1,28 @@
-#REDIRECT [[orus wood]]
+{{Infobox concept
+| name = orus wood
+| introduced = Unsouled
+}}
+
+== Overview ==
+{{spoiler|book=cradle-09-bloodline|Orus wood is a material derived from the [[orus tree]], a species native to [[Sacred Valley]] characterized by purple leaves and gnarled bark. The wood itself is described as pale, smooth, and often polished. It is used in various construction projects, ranging from simple cabins with hand-carved [[furniture]] to more substantial structures like houses and circular arenas. In some instances, the wood is used for specialized items such as tokens bearing school emblems. The material can also be found in the form of highly concentrated [[spirit-fruit]], which grows on ancient trees that have absorbed [[vital aura]] for centuries. While standard [[orus fruit]] is considered a delicacy due to its flavor, the fruit from [[ancestral trees]] possesses immense spiritual power, capable of providing years' worth of purified [[vital aura]] to those who consume it.}}
+
+== Unsouled ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-01-unsouled|[[orus wood{{!}}Orus wood]] is a material used to build [[Lindon]]'s house.<ref name="cradle-01-unsouled-c2">''Unsouled'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[orus wood{{!}}Orus wood]] is used for unadorned walls.<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}</li>
+</ul></div>
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|Some buildings in [[Heaven's Glory]] are made of pale [[orus wood]].<ref name="cradle-09-bloodline-c13">''Bloodline'', chapter 13</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Concepts]]
 [[Category:Unsouled]]

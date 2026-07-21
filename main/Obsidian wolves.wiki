@@ -1,4 +1,26 @@
-#REDIRECT [[obsidian wolves]]
+{{Expand}}
+
+{{Infobox character
+| name = obsidian wolves
+| aliases = Obsidian wolves
+| appears_in = Traveler's Gate
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
+}}
+
+== Overview ==
+{{spoiler|book=tg-02-crimson-vault|Obsidian wolves are six-legged [[stone]] [[Golems{{!}}golems]] believed to be guardians from [[Ornheim]] that lie dormant in desert sands. These creatures possess bodies composed of polished, smooth obsidian and feature three amethyst heartstones on their faces that function as eyes. Despite being made of [[stone]], they move with a fluid, serpentine grace and operate with the silent, relentless efficiency of a machine rather than making natural animal sounds. In combat, these entities are highly aggressive, attempting to overwhelm targets through coordinated group attacks. They can be destroyed through brute force, which causes their bodies to shatter into sharp black glass shards, though they also possess heartstones that may serve as control mechanisms.}}
+
+== The Crimson Vault ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-02-crimson-vault|The [[obsidian wolves]] are [[Golems{{!}}golems]] and guardians from [[Ornheim]].<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[obsidian wolves{{!}}Obsidian wolves]] have three amethyst eyes.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
 
 [[Category:Characters]]
 [[Category:The Crimson Vault]]

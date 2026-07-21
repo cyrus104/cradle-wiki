@@ -1,31 +1,57 @@
 {{Infobox madra
-| name = Hunger aura
-| introduced = Reaper
+| name = hunger aura
+| introduced = Bloodline
 }}
 
+''See also: [[hunger aura Timeline]]''
+
 == Overview ==
-{{spoiler|book=cradle-12-waybound|Hunger [[aura]], also known as the [[aura]] of blood and hunger, is a non-natural force that functions by indiscriminately consuming energy. It acts as a corrupting influence that weakens all other forms of [[aura]], including those belonging to humans, [[sacred beasts]], natural spirits, and remnants. The presence of this [[aura]] can induce intense feelings of greed, insatiable ambition, and a desperate desire to move forward. It is known to nibble away at power continuously, meaning any energy spent or consumed by hunger-based techniques is lost permanently. While often mistaken for a mere corruption of [[pure madra]], the [[aura]] is actually linked to the presence of [[Monarchs]]; if they were to depart, the [[Dreadgods]] would lose strength. The [[aura]] is closely associated with the [[Dreadgods]], specifically appearing in patterns that empower them, such as when it erupted from the [[Silent King]] to strengthen the others. It is a core component of the [[Bleeding Phoenix]], which blends blood and hunger aspects together. The [[aura]] can manifest in various forms, such as a swirling white and gray energy that resembles a colorless person, or as hunger constructs like fangs. It can also cause physical corruption, such as turning stone into a substance resembling overgrown skin.}}
+{{spoiler|book=cradle-12-waybound|Hunger [[aura]] is an unnatural force characterized by a ravenous, vampiric quality that consumes various forms of energy, including [[madra]], [[aura]], and even physical materials. It is not a natural phenomenon; rather, it is linked to the presence of [[Monarchs]] and serves to empower the [[Dreadgods]]. This [[aura]] acts as a corrupting influence that can weaken or consume everything in its path, including humans, [[sacred beasts]], and natural spirits. When present, it can manifest as a white or gray-colored energy that siphons power from its surroundings, often inducing intense feelings of greed, ambition, and insatiable desire in those exposed to it. The [[aura]] is deeply integrated with the existence of the [[Dreadgods]], serving as a core component of their power. For instance, certain [[Dreadgods]] possess spirits that are perfectly blended with [[hunger]], such as the [[Bleeding Phoenix]], which utilizes a combination of [[blood]] and [[hunger]]. This energy can also manifest through specialized techniques or [[constructs]], such as [[hunger binding{{!}}hunger bindings]] or [[hunger spears]]. Furthermore, the [[aura]] is associated with creatures like [[Bloodspawn{{!}}bloodspawn]] and [[hungry ghouls{{!}}ghouls]], which feed on essence and [[madra]] to sustain themselves or return power to their creators.}}
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|[[Subject One]] was a man warped by [[hunger aura]].<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
+</ul></div>
 
 == Reaper ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The wave of power from [[Sacred Valley]] was a [[hunger aura]].<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[hunger aura]] felt like an endless, gnawing greed for more.<ref name="cradle-10-reaper-c8" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|The power emanating from within the [[labyrinth]] is an all-consuming hunger.<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The power emanating from within [[labyrinth{{!}}the labyrinth]] is an all-consuming [[hunger]].<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[hunger aura]] grinds away a person's [[spirit]].<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[hunger aura]] can suppress spatial artifacts in [[labyrinth{{!}}the labyrinth]].<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[hunger aura{{!}}Hunger aura]] can erode a [[Monarch]]'s [[spirit]].<ref name="cradle-10-reaper-c17">''Reaper'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] suspects a phenomenon in [[labyrinth{{!}}the labyrinth]] is caused by [[hunger aura]].<ref name="cradle-10-reaper-c17" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|A disgusting white [[hunger aura]] can take the shape of a person leeched of color.<ref name="cradle-10-reaper-c18">''Reaper'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[hunger aura]] is eating away at the [[natural treasures]] in the room.<ref name="cradle-10-reaper-c18" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] senses a [[hunger aura]].<ref name="cradle-10-reaper-c18" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[hunger aura]] can make people weak.<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[hunger aura]] can devour mental energy.<ref name="cradle-10-reaper-c20">''Reaper'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[hunger aura]] is thick in [[labyrinth{{!}}the labyrinth]] chamber.<ref name="cradle-10-reaper-c21">''Reaper'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[hunger aura{{!}}Hunger aura]] is not a natural force; it is a corruption of the natural order of [[Cradle]].<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[hunger aura{{!}}Hunger aura]] is a manifestation of ambition and selfish desire created by the presence of the [[Monarchs]].<ref name="cradle-10-reaper-c22" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[hunger aura{{!}}Hunger aura]] corrupts [[Remnants]], natural spirits, [[sacred beasts]], and humans.<ref name="cradle-10-reaper-c22" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[hunger aura]] howled as the [[Script{{!}}script]]-lights flickered.<ref name="cradle-10-reaper-c22" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Reigan Shen]]'s body has been eroded by exposure to [[hunger aura]].<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[hunger aura]] will exceed containment if [[Subject One]] is removed.<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Hunger aura]] exploded from the [[Silent King]]'s corpse and empowered other [[Dreadgods]].<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Hunger aura]] only shows up when [[Monarchs]] stay too long.<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[hunger aura{{!}}Hunger aura]] is entangled with the [[Monarchs]].<ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[hunger aura{{!}}Hunger aura]] exploded from the [[Silent King]]'s corpse and empowered other [[Dreadgods]].<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[hunger aura{{!}}Hunger aura]] only shows up when [[Monarchs]] stay too long.<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
 </ul></div>
 
 == Waybound ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Northstrider]] used an [[aura]] of blood and hunger.<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Hunger aura]] erupted from the [[Weeping Dragon]] upon its death.<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Northstrider]] used an [[hunger aura{{!}}aura of blood and hunger]].<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[hunger aura{{!}}Hunger aura]] erupted from the [[Weeping Dragon]] upon its death.<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[hunger aura{{!}}Hunger aura]] is affecting [[Lindon's body]].<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -37,8 +63,8 @@
 {{Cradle nav}}
 
 [[Category:Madra]]
+[[Category:Bloodline]]
 [[Category:Reaper]]
 [[Category:Dreadgod]]
 [[Category:Waybound]]
-[[Category:Bloodline]]
 [[Category:Cradle]]

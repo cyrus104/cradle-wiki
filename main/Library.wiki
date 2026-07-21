@@ -1,7 +1,26 @@
-#REDIRECT [[library]]
+{{Expand}}
+
+{{Infobox location
+| name = library
+| introduced = House of Blades
+}}
+
+== Overview ==
+{{spoiler|book=tg-01-house-of-blades|The library is a specialized room located within [[the House]], which functions as an entire world containing all beginnings and ends. It is accessible through a door that only unlocks once a specific [[skeleton]] in the basement has been mastered. The space is described as a towering, circular chamber featuring marble walls, columns, and shelving that can stretch over a hundred paces. While some areas of the library contain books and scrolls regarding the nature, origins, and weaknesses of various Territories, other sections consist of long halls lit by crimson torches where weapons are kept on gold-labeled marble shelves. The library is maintained by guardians made of melted wax who wear paper robes; these creatures move with intense focus, working in silence to reorganize collections using a cryptic system. Although the library is situated near a forge, it remains unaffected by the heat. Accessing this area provides the seeker with knowledge, which is considered the library's most significant reward.}}
+
+== House of Blades ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-01-house-of-blades|The door to the [[library]] unlocks once the [[skeleton]] in the basement is mastered.<ref name="tg-01-house-of-blades-c8">''House of Blades'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|The [[library]] is a round, towering room filled with books and scrolls.<ref name="tg-01-house-of-blades-c10">''House of Blades'', chapter 10</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
 
 [[Category:Locations]]
 [[Category:House of Blades]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate locations]]
-[[Category:Structures]]

@@ -3,10 +3,19 @@
 | introduced = Wintersteel
 }}
 
+== Overview ==
+{{spoiler|book=cradle-12-waybound|Royal [[madra]] is a rainbow-colored energy that serves as the unique signature of the [[Ninecloud Court]]. It originated from a spiritual mutation of [[pure madra]] within the Sha bloodline. This powerful energy allows users to manipulate, control, and disrupt the [[madra]] of others, a capability that has been refined through centuries of [[technique]] development. The ability to command the spirits of others is an innate trait present from childhood in those with this [[madra]]. Beyond its combat applications, such as warping space or countering techniques, royal [[madra]] is used to exert [[Authority{{!}}authority]]; for example, certain [[Divine Treasure{{!}}Divine Treasures]] made of this substance can allow a user to lend their political and conceptual command to others. The [[Ninecloud Court]] used this power to establish dominance over both their nation and the continent, which they named after their nine-colored cloud sigil.}}
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Luminous Queen Sha Miara{{!}}Sha Miara]] possesses [[royal madra]].<ref name="cradle-07-uncrowned-c11">''Uncrowned'', chapter 11</ref>}}</li>
+</ul></div>
+
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|[[Royal madra]] can be used to conjure the [[Nine-Light Mirror]].<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[royal madra{{!}}Royal madra]] can be used to conjure the [[Nine-Light Mirror]].<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==
@@ -18,7 +27,7 @@
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Sha Miara]] uses [[royal madra]].<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Luminous Queen Sha Miara{{!}}Sha Miara]] uses [[royal madra]].<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -27,8 +36,8 @@
 {{Cradle nav}}
 
 [[Category:Madra]]
+[[Category:Uncrowned]]
 [[Category:Wintersteel]]
 [[Category:Dreadgod]]
 [[Category:Waybound]]
-[[Category:Uncrowned]]
 [[Category:Cradle]]

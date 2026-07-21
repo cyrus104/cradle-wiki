@@ -1,4 +1,45 @@
-#REDIRECT [[madra]]
+{{Infobox madra
+| name = madra
+| introduced = Unsouled
+}}
+
+''See also: [[madra Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-09-bloodline|Madra is the fundamental raw power of the [[spirit]] and serves as the essential material from which souls are constructed. It is physically centered in a core located just below the navel, where all lines of power connect. This energy can be cycled through the body in loops to provide strength and vitality, though exhausting one's supply of madra can lead to physical weakness and a sense of emptiness. Madra exists in various forms, most notably as [[pure madra]] and through different [[aspects]]. [[pure madra{{!}}Pure madra]] is highly compatible with all other forms but lacks the ability to interact with the physical world; its primary uses are for shaking or attacking the [[spirit]] and activating [[scripts]]. In contrast, madra can take on specific [[aspects]] that allow it to imitate natural elements or concepts, such as fire, earth, [[wind]], [[water]], force, [[blood]], life, [[dreams]], or toxins. These specialized forms are known as [[Paths]]. Madra is used to power various [[constructs]], such as puppets, tools, or weapons, and can be [[Forged]] into stable objects. While [[pure madra]] can technically power any [[construct]], it often dilutes the effectiveness of the specific aspect required. Additionally, powerful individuals may leave behind [[Remnants]]—living forces made entirely of madra—upon their death. Mastery over madra involves using imagination and mental visualization to control its flow and form.}}
+
+== Unsouled ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-01-unsouled|[[madra{{!}}Madra]] is described as the raw power of [[spirit]] and the material from which souls are made.<ref name="cradle-01-unsouled-c1">''Unsouled'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[sacred artists{{!}}Sacred artists]] have a [[madra]]-reinforced constitution.<ref name="cradle-01-unsouled-c3">''Unsouled'', chapter 3</ref>}}</li>
+</ul></div>
+
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|[[madra{{!}}Madra]] is a practitioner's internal power that can be cycled and refined.<ref name="cradle-02-soulsmith-c1">''Soulsmith'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[madra{{!}}Madra]] is a resource that can be exhausted and circulated in limbs.<ref name="cradle-02-soulsmith-c4">''Soulsmith'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[madra{{!}}Madra]] can be pure.<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Blackflame ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-03-blackflame|[[madra{{!}}Madra]] can be used to power [[training course]] circles.<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|Cycling [[aura]] changes the nature of [[madra]] and teaches the core to generate [[madra]] of that aspect.<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|[[madra{{!}}Madra]] is a system that can break and bend physical laws.<ref name="cradle-09-bloodline-c5">''Bloodline'', chapter 5</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Madra]]
 [[Category:Unsouled]]

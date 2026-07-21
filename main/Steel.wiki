@@ -1,4 +1,31 @@
-#REDIRECT [[steel]]
+{{Infobox technique
+| name = steel
+| introduced = The Crimson Vault
+}}
+
+== Overview ==
+{{spoiler|book=tg-03-city-of-light|Steel is a versatile substance and power used in various forms throughout the world. It can be summoned or called by individuals, a process that consumes their internal reserves and can be combined with other essences. When utilized as a power, it can manifest physically to transform skin into [[stone]]-like flesh, create [[chains]], or form massive [[constructs]] such as giants and [[spiders]]. It can also be summoned as weaponry, including large war-hammers or blades. A specific and highly rare variety known as [[Tartarus steel]] is characterized by its mirror-like brightness. This material is nearly indestructible and can easily pierce standard metals, though it can be resisted by other blades made of the same substance. While incredibly durable, its extreme strength means that objects made from it, such as padlocks, might be bypassed by destroying the weaker components they are attached to. Steel also appears in crafted items like masks, which can feature combinations of polished silver-colored metal and dark, wrought-[[Iron{{!}}iron]]-like textures.}}
+
+== The Crimson Vault ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] can call [[steel]] to fill his [[blood]] with strength.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] can call upon his [[steel]].<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|When [[Simon]] calls [[steel]], it feels like liquid cold flowing through his veins and muscles.<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[steel{{!}}Steel]] courses through [[Simon]].<ref name="tg-02-crimson-vault-c19">''The Crimson Vault'', chapter 19</ref>}}</li>
+</ul></div>
+
+== City of Light ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-03-city-of-light|[[Simon]] called [[steel]] and essence to flood through him.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Simon]] releases his [[steel]] to delay the [[chains]] creeping up his neck.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
 
 [[Category:Techniques]]
 [[Category:The Crimson Vault]]

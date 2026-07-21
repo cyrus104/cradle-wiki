@@ -1,8 +1,35 @@
-#REDIRECT [[rain garden]]
+{{Infobox location
+| name = rain garden
+| introduced = The Crimson Vault
+}}
+
+== Overview ==
+{{spoiler|book=tg-03-city-of-light|The rain garden is a significant location within [[Valinhall]] that serves as a frequent meeting area due to its proximity to the front of [[the House]]. It functions as the primary source of [[water]] and nourishment for the residents, featuring a massive fruit tree at its center that produces various exotic fruits. The environment resembles a vast meadow rather than a standard room, characterized by lush greenery, a spring-fed stream, and a low ceiling of clouds that sit only about fifteen feet above the ground. The garden's atmosphere is humid and often rainy, though certain individuals can earn the ability to move through it without being affected by the weather. Navigating the space requires a specific [[technique]] of leading the room rather than merely reacting to its displays. The garden's geography is subject to change, as shifts in other areas can alter which rooms are accessible through it. Additionally, the space contains unique life forms, including creatures that can only exist within its boundaries and herds of three-horned animals.}}
+
+== The Crimson Vault ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-02-crimson-vault|The [[rain garden]] is a location in [[Valinhall]] that residents have dubbed the '[[rain garden]]'.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[rain garden]] contains trees whose tops disappear into the clouds.<ref name="tg-02-crimson-vault-c14">''The Crimson Vault'', chapter 14</ref>}}</li>
+</ul></div>
+
+== City of Light ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-03-city-of-light|The [[rain garden]] is a room that [[Simon]] previously used to enter.<ref name="tg-03-city-of-light-c4">''City of Light'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The [[rain garden]] is a location with a door [[Simon]] shuts.<ref name="tg-03-city-of-light-c16">''City of Light'', chapter 16</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=tg-02-crimson-vault|This was his fourteenth attempt to conquer what he and the other residents of Valinhall had dubbed the “rain garden.”<ref name="tg-02-crimson-vault-c2" />}}
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
 
 [[Category:Locations]]
 [[Category:The Crimson Vault]]
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate locations]]
-[[Category:Structures]]

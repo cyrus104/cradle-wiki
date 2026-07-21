@@ -1,9 +1,18 @@
 {{Expand}}
 
 {{Infobox technique
-| name = spiritual sight
-| introduced = Skysworn
+| name = Spiritual sight
+| introduced = Soulsmith
 }}
+
+== Overview ==
+{{spoiler|book=cradle-04-skysworn|Spiritual sight is a method of perception that evolves alongside an individual's progression through different stages. At the [[Copper]] level, this ability allows for the observation of auras, which can appear as glowing clouds or colored halos around objects. As an individual reaches the [[Jade stage]], their [[spirit]] develops a heightened sense that transcends physical limitations. This advanced perception allows them to sense things beyond the reach of normal sight or hearing, such as the presence of powerful entities or the movement of energy. Unlike physical vision, spiritual sight focuses on the nature of [[madra]] rather than physical matter; consequently, it can detect energy through solid obstacles like walls, though it may ignore the physical objects themselves. This sensory experience can vary significantly depending on the user's bloodline or specific circumstances, sometimes manifesting as a way to perceive colors and energies that are invisible to the mundane eye, or conversely, appearing as a world of gray where only [[aura]] retains its color.}}
+
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|[[Spiritual sight]] allows one to see techniques that are almost invisible.<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
+</ul></div>
 
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -17,6 +26,6 @@
 {{Cradle nav}}
 
 [[Category:Techniques]]
-[[Category:Skysworn]]
 [[Category:Soulsmith]]
+[[Category:Skysworn]]
 [[Category:Cradle]]

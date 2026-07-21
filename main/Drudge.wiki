@@ -1,4 +1,46 @@
-#REDIRECT [[drudge]]
+{{Infobox construct
+| name = drudge
+| introduced = Unsouled
+}}
+
+''See also: [[drudge Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-10-reaper|A drudge is an essential [[Soulsmith]] [[construct]], serving as a multifunctional [[assistant]] that combines the capabilities of a toolbox, an encyclopedia, and a specialized analytical instrument. These [[Forged]] tools are characterized by a mechanical appearance that distinguishes them from other [[madra]]-based [[constructs]], often appearing as segmented fish or [[spiders]]. While their specific forms vary, they are primarily used to facilitate the complex process of deconstructing and reconstructing [[Remnants]]. A drudge's primary role is to provide precise information that prevents a [[Soulsmith]] from ruining their work. They can detect and analyze various [[aspects of madra]], identify the location of valuable [[binding{{!}}bindings]] within a [[Remnant]]'s structure, and measure [[madra]] output. Additionally, they possess advanced sensory capabilities, such as tracking specific signatures or detecting the presence of [[Remnants]]. Some models are equipped with specialized features like antennae for searching, though these components can be expensive to replace due to their tendency to decay. Beyond analysis, drudges can serve practical utility roles, such as providing transportation through the air or acting as a platform for the user to stand upon.}}
+
+== Unsouled ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-01-unsouled|A [[drudge]] is a creature that can be set to follow [[sword madra]].<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}</li>
+</ul></div>
+
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|A [[drudge]] is a [[construct]] used by [[Fisher Gesha{{!}}Gesha]] to dismantle [[Remnants]].<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|A [[drudge]] is a [[Soulsmith]]'s most valued [[construct]] and serves as an [[assistant]], toolbox, and encyclopedia of information.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|Drudges are designed to scan the structure of a dead [[Remnant]] and look for concentrations of power called [[binding{{!}}bindings]].<ref name="cradle-02-soulsmith-c12" />}}</li>
+</ul></div>
+
+== Blackflame ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-03-blackflame|A [[drudge]] is a [[spider-construct]] used by [[Fisher Gesha{{!}}Gesha]].<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A [[drudge]] is a [[spider-construct]].<ref name="cradle-03-blackflame-c1" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A [[drudge]] is a creature with eight long spider legs.<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Fisher Gesha]] has a [[drudge]] that carries her along the flagstones.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|A [[drudge]] is a [[construct]] that can be made to exist in low-energy environments.<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Constructs]]
 [[Category:Unsouled]]

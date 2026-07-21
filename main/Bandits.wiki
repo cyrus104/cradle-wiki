@@ -5,10 +5,19 @@
 | introduced = Of Kings and Killers
 }}
 
+== Overview ==
+{{spoiler|book=ee-sea-03-of-kings-and-killers|Bandits, also referred to as raiders or brigands, are lawless groups of men and women capable of seizing control of entire towns. One notable gang was led by [[Harriford Wells]], who occupied a town following the death of the Emperor with approximately one hundred members. These groups utilize various armaments, including muskets and occasionally specialized or [[Awakened weapons]]. While some rumors suggested they operated within the Latari forest, their presence in such areas was often doubted due to local legends. Bandits are known for capturing and holding people as prisoners, including families, and they often use siege tactics by surrounding buildings and waiting for their targets to succumb to injury or [[hunger]].}}
+
+== House of Blades ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-01-house-of-blades|There are rumors of [[Bandits{{!}}bandits]] moving in and out of the Latari forest.<ref name="tg-01-house-of-blades-c5">''House of Blades'', chapter 5</ref>}}</li>
+</ul></div>
+
 == Of Kings and Killers ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Bandits]] collected outside of [[Foster]]'s house like ants gathering onto a fresh kill.<ref name="ee-sea-03-of-kings-and-killers-c18">''Of Kings and Killers'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Bandits]] collected outside of [[Dalton Foster{{!}}Foster]]'s house like ants gathering onto a fresh kill.<ref name="ee-sea-03-of-kings-and-killers-c18">''Of Kings and Killers'', chapter 18</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -16,12 +25,11 @@
 
 {{Traveler's Gate nav}}
 
-{{Elder Empire nav}}
-
 [[Category:Groups]]
 [[Category:Of Kings and Killers]]
 [[Category:House of Blades]]
 [[Category:Traveler's Gate]]
-[[Category:Traveler's Gate groups]]
 [[Category:Elder Empire]]
+[[Category:Traveler's Gate groups]]
 [[Category:Elder Empire groups]]
+[[Category:Amalgam]]

@@ -1,4 +1,60 @@
-#REDIRECT [[parasite ring]]
+{{Infobox artifact
+| name = parasite ring
+| introduced = Unsouled
+}}
+
+''See also: [[parasite ring Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-10-reaper|A parasite [[ring]] is a specialized artifact constructed from braided [[halfsilver]] and etched with intricate [[Script{{!}}script]]. Primarily used as a training tool for practitioners of the [[sacred arts{{!}}Sacred Arts]], the [[ring]] functions by placing a burden on the user's spiritual [[cycling]] process. While it makes moving [[madra]] more difficult and physically taxing—sometimes described as feeling like [[Iron{{!}}iron]] bands around the lungs or heavy weights on the [[soul]]—this resistance serves a beneficial purpose. The [[ring]] acts as a filter that refines the quality of the user's [[madra]], effectively providing twice the spiritual reward for the effort expended. This makes it an ideal tool for strengthening the [[spirit]] and building [[pure madra]], though it is not intended for combat and can actually hinder a user's control over specific techniques. Because of its ability to accelerate progress, it is highly valued, though acquiring one can be a time-consuming endeavor.}}
+
+== Unsouled ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-01-unsouled|A [[parasite ring]] is a braided [[halfsilver ring]] etched with intricate [[Script{{!}}script]].<ref name="cradle-01-unsouled-c4">''Unsouled'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|A [[parasite ring]] slows the [[cycling]] process, making it more difficult but also more rewarding.<ref name="cradle-01-unsouled-c4" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[parasite ring]] is held by the [[Jai Patriarch{{!}}Patriarch]].<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[parasite ring]] burdens [[cycling]] but results in twice the reward, helping to build up [[pure madra]].<ref name="cradle-01-unsouled-c14">''Unsouled'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[parasite ring]] is an artifact that [[Lindon]] carries on his person.<ref name="cradle-01-unsouled-c18">''Unsouled'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[parasite ring]] will eventually help [[Lindon]] overcome his deficiencies.<ref name="cradle-01-unsouled-c19">''Unsouled'', chapter 19</ref>}}</li>
+</ul></div>
+
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|The [[parasite ring]] was stolen from the [[Heaven’s Glory School]].<ref name="cradle-02-soulsmith-c2">''Soulsmith'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[parasite ring]] makes [[cycling]] twice as hard but strengthens the [[spirit]] twice as fast.<ref name="cradle-02-soulsmith-c4">''Soulsmith'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Lindon]] uses a [[parasite ring]] to cycle [[madra]].<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Lindon]] has a [[parasite ring]].<ref name="cradle-02-soulsmith-c14">''Soulsmith'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Eithan]] instructs [[Lindon]] to wear his [[parasite ring]].<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
+</ul></div>
+
+== Blackflame ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] possesses a [[parasite ring]] that he is advised not to wear while practicing the [[technique]].<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[parasite ring]] weighs down [[Lindon]]'s [[spirit]].<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] requested a [[parasite ring]].<ref name="cradle-07-uncrowned-c3">''Uncrowned'', chapter 3</ref>}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|[[Jai Long]]'s training spear is scripted to be similar to a [[parasite ring]].<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-07-uncrowned|“And please let me know if this is too much, but I could use some mental enhancement elixirs, madra restoration pills, and—if you can spare one—a parasite ring.”<ref name="cradle-07-uncrowned-c3" />}}
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Artifacts]]
 [[Category:Unsouled]]

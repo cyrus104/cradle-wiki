@@ -3,9 +3,13 @@
 | introduced = Of Sea and Shadow
 }}
 
+== Overview ==
+{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A cutlass is a type of [[sword]] used by characters such as [[Calder]], who carries one on his left hip alongside a pistol. While some versions are described as being similar in shape to dueling sabers, certain cutlasses are broader, straighter, and significantly heavier than standard blades. [[Calder]]'s specific weapon is an Awakened blade characterized by a long, black surface marked with shifting orange spots that resemble glowing coals. This particular cutlass can be used to channel [[Intent]], providing a combat advantage against certain enemies. A highly unique and ancient cutlass exists that predates [[The Empire{{!}}the Empire]] and its Emperor. This legendary weapon has a history spanning over a thousand years, having been passed down through generations of assassins and [[Consultants]]. It is described as being capable of breaking any defense, stealing any power, and taking any life. The blade is noted for its immense weight of [[Intent]], which can be felt by those near it, and it has been used to harvest the lives of individuals of great significance.}}
+
 == Of Sea and Shadow ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] uses a [[cutlass]] as a weapon.<ref name="ee-sea-01-of-sea-and-shadow-c11">''Of Sea and Shadow'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] holds a [[cutlass]].<ref name="ee-sea-01-of-sea-and-shadow-c25">''Of Sea and Shadow'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] uses a [[cutlass]] to fight [[Elderspawn]].<ref name="ee-sea-01-of-sea-and-shadow-c27">''Of Sea and Shadow'', chapter 27</ref>}}</li>
 </ul></div>
@@ -13,13 +17,13 @@
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Calder Marten]] uses a [[cutlass]].<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Imperial Steward Calder Marten{{!}}Calder Marten]] uses a [[cutlass]].<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
 </ul></div>
 
 == Of Dawn and Darkness ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Cheska]] keeps a hand on her [[cutlass]].<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Cheska Bennett{{!}}Cheska]] keeps a hand on her [[cutlass]].<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Notes ==

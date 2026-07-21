@@ -1,14 +1,49 @@
-{{Expand}}
-
 {{Infobox concept
-| name = Soulspace
-| introduced = Uncrowned
+| name = soulspace
+| introduced = Skysworn
 }}
 
-== Uncrowned ==
+''See also: [[soulspace Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-12-waybound|A soulspace is an internal spiritual dimension that a person can open upon reaching the peak of the [[Truegold]] stage and achieving complete control over their [[madra]]. Located at the center of an individual's [[spirit]], it can manifest as a dark void or be filled with light. The size and capacity of this space vary by individual; for instance, it may initially be small enough to hold only a single bean or a wisp of flame, but it can expand over time. A primary function of the soulspace is to serve as a storage area for various items, including [[constructs]], weapons, sacred instruments, and even living entities like contracted [[sacred beasts]] or spirits. Users can withdraw these objects from their soulspace into the physical world at will. The contents held within the space can exert a palpable sensation of power or spiritual weight, and some items may even react to the environment while stored inside.}}
+
+== Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-04-skysworn|A person can only carry one object at a time in their [[soulspace]].<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
+</ul></div>
+
+== Underlord ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-06-underlord|A [[soulspace]] can be used to hold simple [[constructs]] at the center of a person's [[spirit]].<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Lindon]] can store objects in his [[soulspace]].<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}</li>
+</ul></div>
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|Constructs can be stored in a [[soulspace]].<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[sacred instrument{{!}}Sacred instruments]] must be carried in a [[soulspace]].<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|Items can be kept in [[soulspace]].<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
+</ul></div>
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Little Blue]] is inside [[Yerin]]'s [[soulspace]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] has a [[soulspace]].<ref name="cradle-11-dreadgod-c7" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Constructs can explode from a [[soulspace]].<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] drew his bow into his [[soulspace]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Reigan Shen{{!}}Reigan]] can reach his [[spiritual perception]] into his [[soulspace]].<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[soulspace{{!}}Soulspace]] is a place where items like hammers can be stored.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] can produce items from his [[soulspace]].<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -17,11 +52,10 @@
 {{Cradle nav}}
 
 [[Category:Concepts]]
-[[Category:Uncrowned]]
 [[Category:Skysworn]]
 [[Category:Underlord]]
+[[Category:Uncrowned]]
 [[Category:Dreadgod]]
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Terminology]]

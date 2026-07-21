@@ -1,4 +1,32 @@
-#REDIRECT [[frozen horn]]
+{{Infobox artifact
+| name = frozen horn
+| introduced = The Crimson Vault
+}}
+
+== Overview ==
+{{spoiler|book=tg-03-city-of-light|The frozen horn is a unique artifact that was originally taken from [[Helgard]] by [[Valin]], who subsequently attuned it to [[Valinhall]]. Unlike traditional metal horns used for signaling alerts, this object is constructed from blown glass and frosted ice, featuring a central tube containing moving [[water]]. When sounded, it produces a clear, crystalline note that resonates powerfully without being unpleasant to the listener. The primary function of this artifact is to close [[Gates]]. While it can be used manually, doing so is less efficient because the process takes longer and requires over an hour to recharge. However, if a user summons the sound directly into their [[sword]], the ability recovers within seconds. There is only one such horn in existence, meaning a single user prevents anyone else from utilizing it while they possess it.}}
+
+== The Crimson Vault ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-02-crimson-vault|The [[frozen horn]] is a potential [[Valinhall powers{{!}}Valinhall power]].<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[frozen horn]] is an artifact that can close [[Gates]].<ref name="tg-02-crimson-vault-c14">''The Crimson Vault'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[frozen horn]] is made of frosted ice and blown glass with a moving puddle of [[water]] inside.<ref name="tg-02-crimson-vault-c14" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] uses the power of the [[frozen horn]] through his [[sword]].<ref name="tg-02-crimson-vault-c18">''The Crimson Vault'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[frozen horn]] has a frosted glass exterior with [[water]] visible on the inside.<ref name="tg-02-crimson-vault-c18" />}}</li>
+</ul></div>
+
+== City of Light ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-03-city-of-light|The [[frozen horn]] is a single-use power.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The call of the [[frozen horn]] could seal the Gate.<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
 
 [[Category:Artifacts]]
 [[Category:The Crimson Vault]]

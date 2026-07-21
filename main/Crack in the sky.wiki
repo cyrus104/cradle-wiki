@@ -1,4 +1,32 @@
-#REDIRECT [[crack in the sky]]
+{{Infobox event
+| name = crack in the sky
+| introduced = Of Dawn and Darkness
+}}
+
+== Overview ==
+{{spoiler|book=ee-sea-03-of-kings-and-killers|The crack in the sky is a visual phenomenon appearing as a jagged, dark fracture or black lightning bolt against the atmosphere. While it may resemble a break in an eggshell, it is actually a rift or gateway that serves as a passage between the world and the void. This opening allows for travel to and from the void, acting as a means of transportation used by the [[Great Elders]]. The existence of this rift is linked to the plans of these [[Elders]], who use their combined power to maintain the breach. Some suggest the phenomenon may be a break in a prison or a wound in reality that allows death to pass through. While some believe the crack was caused by conflict near the [[Optasia]], it is described as a rift held open by the [[Elders]] rather than a literal break in the sky's gaseous layer. The appearance of the crack can vary, sometimes revealing multi-colored lights and other times showing pure darkness or [[sapphire]] lightning.}}
+
+== Of Dawn and Darkness ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|There is a [[crack in the sky]] that looks like a black lightning bolt.<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[crack in the sky]] is a rift used by [[Elders]] for transportation to and from the void.<ref name="ee-sea-02-of-dawn-and-darkness-c24">''Of Dawn and Darkness'', chapter 24</ref>}}</li>
+</ul></div>
+
+== Of Kings and Killers ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[crack in the sky]] is a [[Shadow{{!}}shadow]]-bleeding gash in reality.<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[crack in the sky]] is a break in the [[Fiends]]' prison.<ref name="ee-sea-03-of-kings-and-killers-c11">''Of Kings and Killers'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[crack in the sky]] was made by the [[Optasia]] as a result of a plan by [[Ach'magut{{!}}Ach’magut]].<ref name="ee-sea-03-of-kings-and-killers-c19">''Of Kings and Killers'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] cannot do much about the [[crack in the sky]].<ref name="ee-sea-03-of-kings-and-killers-c19" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|There is a [[crack in the sky]] that [[Urg’naut]]'s [[Shadow{{!}}shadow]] connects to.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
 
 [[Category:Events]]
 [[Category:Of Dawn and Darkness]]

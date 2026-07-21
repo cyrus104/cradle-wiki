@@ -1,4 +1,66 @@
-#REDIRECT [[sacred artist]]
+{{Infobox concept
+| name = sacred artist
+| introduced = Unsouled
+}}
+
+''See also: [[sacred artist Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-13-threshold|[[sacred artists{{!}}Sacred artists]] are practitioners of the [[sacred arts]], a discipline involving the use of [[madra]] to reinforce their physical constitutions and perform various techniques. This practice is often associated with specific [[Paths]], such as the [[Path of the White Fox]], and requires significant dedication, [[sacrifice]], and drive to advance. As they progress through different stages of power—including [[Iron]], [[Copper]], [[Jade]], [[Gold]], and eventually the realm of [[Underlord]] or [[Underlady]]—their capabilities expand significantly. Highly advanced artists often possess a unique sense of confidence and may manifest physical traits like halos or specialized robes that signify their rank and clan affiliation. In combat and utility, [[sacred artists]] utilize diverse methods, ranging from elemental manipulation to the use of specialized weapons or [[constructs]]. While some rely on permanent sacred instruments to conduct their [[willpower]], others master techniques that become part of their [[spirit]]. The discipline is also tied to the concept of [[Remnants]]; when a powerful artist dies, they may leave behind a living force of [[madra]] that others can bond with to inherit their insights and abilities. Beyond individual power, [[sacred artists]] are deeply integrated into social hierarchies, where strength often dictates [[Authority{{!}}authority]] and reputation is held in extremely high regard.}}
+
+== Unsouled ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-01-unsouled|To be called a [[sacred artist]] outside of the valley, one must learn the basics of all four disciplines and harvest a [[Remnant]].<ref name="cradle-01-unsouled-c20">''Unsouled'', chapter 20</ref>}}</li>
+</ul></div>
+
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|[[sacred artists{{!}}Sacred artists]] are members of clans who use [[madra]].<ref name="cradle-02-soulsmith-c4">''Soulsmith'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|A [[sacred artist]] once mastered a [[technique]] to make [[water]] from the [[aura]] in the air.<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[sacred artists{{!}}Sacred artists]] can reach the realm of [[Underlord]].<ref name="cradle-02-soulsmith-c11" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The measure of a [[sacred artist]] is how they respond to risk.<ref name="cradle-02-soulsmith-c14">''Soulsmith'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Drive]] is the most important quality for any [[sacred artist]].<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
+</ul></div>
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|A [[sacred artist]] is depicted in a statue wearing robes and a smock.<ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}</li>
+</ul></div>
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|A [[sacred artist]] used a [[white madra]] shaped into a tiger's head to attack a stalagmite.<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}</li>
+</ul></div>
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|[[Jai Chen]] led several hundred [[sacred artists]].<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
+</ul></div>
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|The dead humans in the room were lesser [[sacred artists]] who accompanied their [[Monarch]] to attack the [[Black dragons{{!}}black dragon]] [[fortress]].<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
+</ul></div>
+
+== Threshold: Stories from Cradle ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-13-threshold|Some street performers are skilled [[sacred artists]].<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-13-threshold|"Most of the best street performers are skilled sacred artists,"<ref name="cradle-13-threshold-c1" />}}
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Concepts]]
 [[Category:Unsouled]]
@@ -10,4 +72,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Titles]]

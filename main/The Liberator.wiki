@@ -1,4 +1,31 @@
-#REDIRECT [[the Liberator]]
+{{Expand}}
+
+{{Infobox character
+| name = the Liberator
+| aliases = The Liberator
+| appears_in = Elder Empire
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
+}}
+
+== Overview ==
+{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The Liberator is a legendary figure rumored to be the future leader of humanity. Known for conducting a campaign of assassination against the [[Great Elders]] and their subordinates, this individual is credited with initiating a conflict against [[Nakothi]] that drew the attention of all [[Great Elders]]. Beyond his reputation as a warrior, he is recognized for his profound intellectual contributions; he has uncovered more ancient secrets of the [[Great Elders]] than any other human and developed the current classification system for malicious [[Intent]] and curses. He is also known by the titles [[Curse-breaker]] and Maze-walker.}}
+
+== Of Shadow and Sea ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[the Liberator{{!}}The Liberator]] is a figure known for murdering [[Great Elders]] and their servants.<ref name="ee-shadow-01-of-shadow-and-sea-c20">''Of Shadow and Sea'', chapter 20</ref>}}</li>
+</ul></div>
+
+== Of Darkness and Dawn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[the Liberator{{!}}The Liberator]] started a war against [[Nakothi]] during the [[Elder War]].<ref name="ee-shadow-02-of-darkness-and-dawn-c1">''Of Darkness and Dawn'', chapter 1</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
 
 [[Category:Characters]]
 [[Category:Of Shadow and Sea]]

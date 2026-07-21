@@ -5,10 +5,19 @@
 | introduced = The Pilot
 }}
 
+== Overview ==
+{{spoiler|book=lh-04-the-pilot|The term workshop refers to various specialized facilities used for alchemical, technical, or manufacturing purposes. One notable location is an [[alchemical workshop]] situated on [[Regent]] [[Way]]; unlike more extravagant alchemist lairs, this site resembles a standard warehouse. Inside, the space contains aisles of colorful, glowing formulas and has been the site of confrontations involving paralyzed thieves. Other workshop environments include large, round rooms used for enchanting processes and specialized assembly stations, such as an automated starship station that [[constructs]] various short-range vessels from raw planetary materials. These facilities serve as essential places of livelihood for individuals like technicians and [[Alchemists{{!}}alchemists]], though they can also be sites of intense labor involving engineers, enchanters, and various specialized crews.}}
+
+== Of Shadow and Sea ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The woman walked into a [[Workshop{{!}}workshop]].<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
+</ul></div>
+
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|The [[workshop]] is located near the [[vault]].<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Workshop{{!}}workshop]] is located near the [[vault]].<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -16,13 +25,11 @@
 
 {{Elder Empire nav}}
 
-{{The Last Horizon nav}}
-
 [[Category:Locations]]
-[[Category:The Pilot]]
 [[Category:Of Shadow and Sea]]
+[[Category:The Pilot]]
 [[Category:Elder Empire]]
-[[Category:Elder Empire locations]]
 [[Category:The Last Horizon]]
+[[Category:Elder Empire locations]]
 [[Category:The Last Horizon locations]]
-[[Category:Structures]]
+[[Category:Amalgam]]

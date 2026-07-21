@@ -5,11 +5,14 @@
 | introduced = Unsouled
 }}
 
+== Overview ==
+{{spoiler|book=cradle-01-unsouled|Also known as the [[Bloodmaker Pill]], the thorngrass pill is a medicinal item used to aid physical recovery. It is produced by combining three small leaves from life-aspected herbs with extra thorngrass sourced from the valley. The refinement process requires a twelfth-grade refinery or higher, utilizing a specific [[technique]] known as the Six-Pointed [[Star]] method to achieve a balanced state. Once weighed, blended, and shaped, the pills must stabilize for three days, resulting in a red and green appearance with a sharp scent. While the medicine does not affect a person's [[spirit]], it is intended to restore individuals to fighting condition following combat against the [[Sword Disciple]]. Users may experience unpleasant sensations, such as tingling around physical injuries, and are advised to cycle the pill for several days.}}
+
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-01-unsouled|The thorngrass pill does not affect the spirit.<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}</li>
-<li>{{spoiler|book=cradle-01-unsouled|The thorngrass pill can cause tingling around injuries.<ref name="cradle-01-unsouled-c17">''Unsouled'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[Thorngrass pill{{!}}thorngrass pill]] does not affect the [[spirit]].<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[Thorngrass pill{{!}}thorngrass pill]] can cause tingling around injuries.<ref name="cradle-01-unsouled-c17">''Unsouled'', chapter 17</ref>}}</li>
 </ul></div>
 
 == Notes ==

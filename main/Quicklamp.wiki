@@ -1,4 +1,37 @@
-#REDIRECT [[quicklamp]]
+{{Infobox artifact
+| name = quicklamp
+| introduced = Of Sea and Shadow
+}}
+
+== Overview ==
+{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A quicklamp is an alchemical lighting device consisting of a glass container filled with a glowing liquid formula. These devices provide steady illumination that can range in color from pure white and bright yellow to deep orange or even red. Users can adjust the intensity of the light, ranging from a bright glow to a dimness comparable to a candle. While they are more expensive than traditional oil lanterns or candles, they offer several practical advantages: the glass is tempered by [[Alchemists{{!}}alchemists]] to resist impact, and the fluid itself produces very little heat and is difficult to ignite, making them safer for use on ships or in homes. However, they can be ignited if struck by lightning or certain creatures. Quicklamps come in various sizes and forms, including small handheld orbs that can be shaken to activate, tiny versions used for mood lighting, and larger units bolted to walls or suspended from ceilings. They are utilized in diverse settings, such as cells for high-level criminals, underground council chambers, and on ships. Because they are considered dangerous items in certain contexts, such as prisons, they are subject to strict inspections to ensure the glass is not cracked and the fluid levels cannot be used to stockpile flammable materials. They are distinct from thunderlights, which require lightning to recharge, whereas [[quicklamps]] have a functional lifespan of several years before needing replacement.}}
+
+== Of Sea and Shadow ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The crew gathered around a [[quicklamp]] on the deck.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[quicklamp]] is a source of light.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[quicklamp]] provided light in the hold.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[quicklamp]] provides light in the cell.<ref name="ee-sea-01-of-sea-and-shadow-c9">''Of Sea and Shadow'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[quicklamp]] emits soft and steady orange light.<ref name="ee-sea-01-of-sea-and-shadow-c25">''Of Sea and Shadow'', chapter 25</ref>}}</li>
+</ul></div>
+
+== Of Dawn and Darkness ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Petal]] clutches a [[quicklamp]] to her chest.<ref name="ee-sea-02-of-dawn-and-darkness-c23">''Of Dawn and Darkness'', chapter 23</ref>}}</li>
+</ul></div>
+
+== Of Darkness and Dawn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A [[quicklamp]] is a courtesy provided to higher-level criminals and is closely inspected.<ref name="ee-shadow-02-of-darkness-and-dawn-c4">''Of Darkness and Dawn'', chapter 4</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
 
 [[Category:Artifacts]]
 [[Category:Of Sea and Shadow]]

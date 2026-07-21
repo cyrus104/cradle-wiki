@@ -5,6 +5,9 @@
 | introduced = Unsouled
 }}
 
+== Overview ==
+{{spoiler|book=cradle-09-bloodline|[[Security]] [[constructs]] are various magical tools and automated systems used to protect individuals, structures, or territories. They serve diverse roles, including acting as perimeter alarms that alert users to approaching visitors, providing defensive barriers against hostile [[madra]], and functioning as offensive weapons. Some [[constructs]] are designed to launch attacks at anything breaching a specific boundary, while others are specialized for stealth, such as those that bend light to hide users from aerial observation. These entities vary significantly in complexity and power. Basic versions may consist of simple [[scripts]] or symbolic fences that trigger alarms, while more advanced iterations are made from resilient materials like [[Archlord madra]] to remain nearly undetectable. Specialized [[constructs]] exist for specific purposes, such as [[Deep-Fathom Prison]] units designed to trap [[Underlord{{!}}Underlords]] or [[launcher construct{{!}}launcher constructs]] that can be utilized as sacred instruments. While many launchers possess static power outputs, some highly sophisticated security layers are engineered to withstand or deter powerful entities like [[Sages]], [[Heralds]], or [[Monarchs]].}}
+
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -14,7 +17,7 @@
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|[[Elder Rahm]] has four oblong security constructs floating behind him.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Elder Rahm]] has four oblong [[Security constructs{{!}}security constructs]] floating behind him.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Notes ==
