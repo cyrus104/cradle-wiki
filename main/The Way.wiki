@@ -12,7 +12,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|[[The Way]] tries to force order out of the chaos of colliding worlds.<ref name="cradle-01-unsouled-c20">''Unsouled'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=cradle-01-unsouled|[[Judge Suriel|Suriel]] can access Way{{!}}the Way to draw flows of pure order.<ref name="cradle-01-unsouled-c20" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Judge Suriel|Suriel]] can access [[Way|the Way]] to draw flows of pure order.<ref name="cradle-01-unsouled-c20" />}}</li>
 </ul></div>
 
 == Soulsmith ==
@@ -25,7 +25,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[The Way]] is often likened to a tree or a branching vine.<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Judge Suriel|Suriel]] thinks of Way{{!}}the Way as a network of veins stretching from a central heart.<ref name="cradle-04-skysworn-c2" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Judge Suriel|Suriel]] thinks of [[Way|the Way]] as a network of veins stretching from a central heart.<ref name="cradle-04-skysworn-c2" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[The Way]] provides order, stability, and protection from the void.<ref name="cradle-04-skysworn-c2" />}}</li>
 </ul></div>
 

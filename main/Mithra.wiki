@@ -13,7 +13,7 @@
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-02-crimson-vault|[[Mithra]] is the thirteenth [[Dragon's Fang|Dragon’s Fang]] and was forged by Valin{{!}}Valin the Wanderer.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Mithra]] is the thirteenth [[Dragon's Fang|Dragon’s Fang]] and was forged by [[Valin|Valin the Wanderer]].<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Mithra]] can only be wielded by someone with the power of [[Valinhall]].<ref name="tg-02-crimson-vault-c4" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Mithra]] is a [[sword]] held by [[Kai]].<ref name="tg-02-crimson-vault-c4" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Mithra]] is a [[sword]] described as the Master's finest work.<ref name="tg-02-crimson-vault-c4" />}}</li>
@@ -33,7 +33,7 @@
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|[[Mithra]] is the name of the The Wanderer{{!}}Wanderer's blade.<ref name="tg-03-city-of-light-c1">''City of Light'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Mithra]] is the name of the [[The Wanderer|Wanderer]]'s blade.<ref name="tg-03-city-of-light-c1">''City of Light'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Mithra]] is a gold-lined [[Dragon's Fang]] [[sword]] used by [[Kai]].<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Mithra]] is a [[sword]] that [[Kai]] can banish within [[the House]].<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Mithra]] is a blade that can communicate emotions to its wielder.<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>

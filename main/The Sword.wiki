@@ -23,7 +23,7 @@
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] hopes The Sword{{!}}the Sword will be prepared.<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] hopes [[The Sword|the Sword]] will be prepared.<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Sword]] suggests chasing [[Aila Escalon|Aila]].<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
 </ul></div>
 

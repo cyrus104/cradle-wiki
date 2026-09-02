@@ -9,7 +9,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[The Lodge]] is [[Benri Vallenar]]'s favorite meeting-room on his starship.<ref name="lh-01-the-captain-c25">''The Captain'', chapter 25</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|[[Varic Vallenar|Varic]] has a The Lodge{{!}}Lodge.<ref name="lh-01-the-captain-c27">''The Captain'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Varic Vallenar|Varic]] has a [[The Lodge|Lodge]].<ref name="lh-01-the-captain-c27">''The Captain'', chapter 27</ref>}}</li>
 </ul></div>
 
 == Notes ==

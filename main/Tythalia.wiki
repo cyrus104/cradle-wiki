@@ -13,7 +13,7 @@
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|[[Tythalia]] is an Ambassador and a trusted member of Queen Shyrax{{!}}Shyrax's royal court.<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Tythalia]] is an Ambassador and a trusted member of [[Queen Shyrax|Shyrax]]'s royal court.<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Tythalia]] is an aging, purple-skinned woman with violet hair.<ref name="lh-04-the-pilot-c6" />}}</li>
 </ul></div>
 

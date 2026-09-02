@@ -14,7 +14,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[The mask]] is polished-[[steel]] silver on one side and wrought-[[Iron|iron]] black on the other.<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] believes [[The mask|the mask]] is from Ragnarus the Crimson Vault{{!}}Ragnarus.<ref name="tg-02-crimson-vault-c15" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] believes [[The mask|the mask]] is from [[Ragnarus the Crimson Vault|Ragnarus]].<ref name="tg-02-crimson-vault-c15" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[The mask]] can bind a user with designs like [[black chains]].<ref name="tg-02-crimson-vault-c15" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[The mask]] cannot function outside of the [[Territory]] unless it is attuned.<ref name="tg-02-crimson-vault-c15" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|Attuning an artifact requires [[binding]] it to a specific room and a specific challenge.<ref name="tg-02-crimson-vault-c15" />}}</li>

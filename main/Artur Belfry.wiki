@@ -21,7 +21,7 @@
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur Belfry served as a tutor and lecturer to [[Imperial Steward Calder Marten|Calder Marten]]. Additionally, Artur is an individual recognized by [[Alsa Grayweather|Alsa]].}}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur Belfry serves as an [[Imperial]] [[Naberius Clayborn|Witness]] and a Chronicler tasked with reading and recording the history of The Empire{{!}}the Empire. In his role as a tutor, he provided lectures and teachings to [[Imperial Steward Calder Marten|Calder Marten]] while possessing a copy of [[Sadesthenes’ From Rising Sun to Setting Moon]]. Although he is a person known to [[Alsa Grayweather|Alsa]], his duties also include writing confidential reports for the [[Blackwatch]].}}
+{{spoiler|book=ee-sea-01-of-sea-and-shadow|Artur Belfry serves as an [[Imperial]] [[Naberius Clayborn|Witness]] and a Chronicler tasked with reading and recording the history of [[The Empire|the Empire]]. In his role as a tutor, he provided lectures and teachings to [[Imperial Steward Calder Marten|Calder Marten]] while possessing a copy of [[Sadesthenes’ From Rising Sun to Setting Moon]]. Although he is a person known to [[Alsa Grayweather|Alsa]], his duties also include writing confidential reports for the [[Blackwatch]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -30,9 +30,9 @@
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry|Artur]] is a tutor.<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry|Artur]] is a Chronicler.<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry|Artur]] holds a copy of [[Sadesthenes’ From Rising Sun to Setting Moon]].<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry|Artur]] provided teachings to Imperial Steward Calder Marten{{!}}Calder Marten.<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry|Artur]] provided teachings to [[Imperial Steward Calder Marten|Calder Marten]].<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry|Artur]] lectured [[Calder]].<ref name="ee-sea-01-of-sea-and-shadow-c8" />}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry|Artur]] is a person known to Alsa Grayweather{{!}}Alsa.<ref name="ee-sea-01-of-sea-and-shadow-c19">''Of Sea and Shadow'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry|Artur]] is a person known to [[Alsa Grayweather|Alsa]].<ref name="ee-sea-01-of-sea-and-shadow-c19">''Of Sea and Shadow'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Artur Belfry]] is an [[Imperial]] [[Naberius Clayborn|Witness]] who wrote a confidential report for the [[Blackwatch]].<ref name="ee-sea-01-of-sea-and-shadow-c24">''Of Sea and Shadow'', chapter 24</ref>}}</li>
 </ul></div>
 

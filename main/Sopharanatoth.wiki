@@ -31,8 +31,8 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Sopharanatoth]] is a [[dragon]] of the gold bloodline.<ref name="cradle-05-ghostwater-c10" />}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|Sopharanatoth{{!}}Sophara's [[soulfire]] sets her apart from other [[Gold dragons|gold dragons]].<ref name="cradle-05-ghostwater-c10" />}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|Sopharanatoth{{!}}Sophara's face is almost entirely human except for her eyes and patches of [[scales]] on her cheeks.<ref name="cradle-05-ghostwater-c10" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Sopharanatoth|Sophara]]'s [[soulfire]] sets her apart from other [[Gold dragons|gold dragons]].<ref name="cradle-05-ghostwater-c10" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Sopharanatoth|Sophara]]'s face is almost entirely human except for her eyes and patches of [[scales]] on her cheeks.<ref name="cradle-05-ghostwater-c10" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Sopharanatoth]] is a [[dragon]].<ref name="cradle-05-ghostwater-c17" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Sopharanatoth]] has shrieking laughter.<ref name="cradle-05-ghostwater-c17" />}}</li>
 </ul></div>
@@ -53,23 +53,23 @@
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth]] was first place overall in the tenth test.<ref name="cradle-07-uncrowned-c12" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] holds first place in the [[tournament]].<ref name="cradle-07-uncrowned-c12" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] is a gold [[dragon]].<ref name="cradle-07-uncrowned-c12" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|Sopharanatoth{{!}}Sophara's name is [[Sopharanatoth]].<ref name="cradle-07-uncrowned-c12" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]]'s name is [[Sopharanatoth]].<ref name="cradle-07-uncrowned-c12" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] is also known as [[Sopharanatoth]].<ref name="cradle-07-uncrowned-c12" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] is an opponent whose performance was recorded on a dream tablets{{!}}dream tablet.<ref name="cradle-07-uncrowned-c12" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|Sopharanatoth{{!}}Sophara's [[spirit]] is strong enough that [[Lindon]] suspected she might be an Overlord.<ref name="cradle-07-uncrowned-c12" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] is an opponent whose performance was recorded on a [[dream tablets|dream tablet]].<ref name="cradle-07-uncrowned-c12" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]]'s [[spirit]] is strong enough that [[Lindon]] suspected she might be an Overlord.<ref name="cradle-07-uncrowned-c12" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] is a competitor [[Lindon]] intends to ambush.<ref name="cradle-07-uncrowned-c14" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] is frightening to [[Lindon]].<ref name="cradle-07-uncrowned-c14" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] is running.<ref name="cradle-07-uncrowned-c14" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] is a [[dragon-girl]] with golden [[scales]] and a tail.<ref name="cradle-07-uncrowned-c14" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] possesses a floating disc that makes her nearly immune to [[Striker techniques]].<ref name="cradle-07-uncrowned-c15" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] is physically stronger than everyone except [[Yerin]].<ref name="cradle-07-uncrowned-c15" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] utilizes Ghostwater{{!}}ghostwater.<ref name="cradle-07-uncrowned-c15" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|Sopharanatoth{{!}}Sophara's Ghostwater{{!}}ghostwater supply is limited to a single drop.<ref name="cradle-07-uncrowned-c15" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] utilizes [[Ghostwater|ghostwater]].<ref name="cradle-07-uncrowned-c15" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]]'s Ghostwater{{!}}ghostwater supply is limited to a single drop.<ref name="cradle-07-uncrowned-c15" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] can unleash a tide of golden flame.<ref name="cradle-07-uncrowned-c15" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] has golden eyes.<ref name="cradle-07-uncrowned-c15" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] was carrying two crowns before being passed.<ref name="cradle-07-uncrowned-c15" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth]] is of the line of [[Gold dragons|gold dragons]] and a chosen of [[Seshethkunaaz]].<ref name="cradle-07-uncrowned-c18" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] holds a bottled elixirs{{!}}elixir.<ref name="cradle-07-uncrowned-c19" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth|Sophara]] holds a bottled [[elixirs|elixir]].<ref name="cradle-07-uncrowned-c19" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] has been running mental battles against [[Sopharanatoth|Sophara]].<ref name="cradle-07-uncrowned-c19" />}}</li>
 </ul></div>
 
@@ -87,7 +87,7 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth]] is one of the two most favored to win the competition.<ref name="cradle-08-wintersteel-c2" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] is attempting [[advancement]] while coiled in a circle of eight [[natural treasures]].<ref name="cradle-08-wintersteel-c4" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] experienced pain and fear following a failed [[advancement]] attempt.<ref name="cradle-08-wintersteel-c4" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|Sopharanatoth{{!}}Sophara's [[spirit]] channels are visualized as a network of bright orange lines.<ref name="cradle-08-wintersteel-c4" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]]'s [[spirit]] channels are visualized as a network of bright orange lines.<ref name="cradle-08-wintersteel-c4" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] has a snout and a head larger than the [[Herald]]'s entire body in her current form.<ref name="cradle-08-wintersteel-c4" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Mercy]] mentions a potential match against [[Sopharanatoth|Sophara]].<ref name="cradle-08-wintersteel-c5" />}}</li>
 </ul></div>
@@ -98,11 +98,11 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] is a competitor in the [[tournament]] prepared by the [[Gold dragons|gold dragons]].<ref name="cradle-08-wintersteel-c5" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] has been given many enhancements for the [[tournament]].<ref name="cradle-08-wintersteel-c5" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|Sopharanatoth{{!}}Sophara's match settled the roster of the eight [[Uncrowned]].<ref name="cradle-08-wintersteel-c7" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|Sopharanatoth{{!}}Sophara's signature would be gold.<ref name="cradle-08-wintersteel-c7" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]]'s match settled the roster of the eight [[Uncrowned]].<ref name="cradle-08-wintersteel-c7" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]]'s signature would be gold.<ref name="cradle-08-wintersteel-c7" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] is a character [[Yerin]] wants to beat in a month.<ref name="cradle-08-wintersteel-c8" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Mercy]] intends to defeat [[Sopharanatoth|Sophara]] herself.<ref name="cradle-08-wintersteel-c8" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Fury]] personally killed Sopharanatoth{{!}}Sophara's great-aunt.<ref name="cradle-08-wintersteel-c16" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Fury]] personally killed [[Sopharanatoth|Sophara]]'s great-aunt.<ref name="cradle-08-wintersteel-c16" />}}</li>
 </ul></div>
 
 === {{spoiler|book=cradle-08-wintersteel|Overlord combatant}} ===
@@ -110,7 +110,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">21</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] is a [[dragon]] who uses [[water]] and [[fire aura]].<ref name="cradle-08-wintersteel-c16" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] uses a mental power elixirs{{!}}elixir.<ref name="cradle-08-wintersteel-c16" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] uses a mental power [[elixirs|elixir]].<ref name="cradle-08-wintersteel-c16" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] uses a [[Madra Engine]] that processes [[blood]] and [[life essence]] into [[madra]].<ref name="cradle-08-wintersteel-c16" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] uses the [[Quickriver]] [[technique]] in the form of a saber.<ref name="cradle-08-wintersteel-c16" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] uses [[Forged madra]].<ref name="cradle-08-wintersteel-c16" />}}</li>
@@ -129,7 +129,7 @@
 <li>{{spoiler|book=cradle-08-wintersteel|There is a fight against [[Sopharanatoth|Sophara]] that [[Malice]] may not be pleased about.<ref name="cradle-08-wintersteel-c18" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] is a person whom others are trying to express confidence in.<ref name="cradle-08-wintersteel-c18" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] is an Overlord.<ref name="cradle-08-wintersteel-c20" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|Sopharanatoth{{!}}Sophara's spiritual channels are being worn out by the [[Symbiote Veins]].<ref name="cradle-08-wintersteel-c20" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]]'s spiritual channels are being worn out by the [[Symbiote Veins]].<ref name="cradle-08-wintersteel-c20" />}}</li>
 </ul></div>
 
 === {{spoiler|book=cradle-08-wintersteel|Finals and battle}} ===
@@ -142,24 +142,24 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] used her [[Enforcer technique]] and her [[black dragon's breath|dragon's breath]] to defeat [[Brother Aekin]].<ref name="cradle-08-wintersteel-c23" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] had a match against [[Mercy]].<ref name="cradle-08-wintersteel-c24" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yerin]] is going into battle against [[Sopharanatoth|Sophara]].<ref name="cradle-08-wintersteel-c25" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|Sopharanatoth{{!}}Sophara's [[spirit]] was unraveling.<ref name="cradle-08-wintersteel-c25" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] burns Ghostwater{{!}}ghostwater.<ref name="cradle-08-wintersteel-c25" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|Sopharanatoth{{!}}Sophara's fighting style was analyzed by [[Dross]].<ref name="cradle-08-wintersteel-c25" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]]'s [[spirit]] was unraveling.<ref name="cradle-08-wintersteel-c25" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] burns [[Ghostwater|ghostwater]].<ref name="cradle-08-wintersteel-c25" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]]'s fighting style was analyzed by [[Dross]].<ref name="cradle-08-wintersteel-c25" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] is a character who uses an [[Archlord weapon]].<ref name="cradle-08-wintersteel-c25" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] defeated [[Yerin]] by decapitating her.<ref name="cradle-08-wintersteel-c25" />}}</li>
 </ul></div>
 
 === {{spoiler|book=cradle-08-wintersteel|Post-tournament conflicts}} ===
-{{spoiler|book=cradle-08-wintersteel|Sopharanatoth of the [[Gold dragons|gold dragons]] wields the Totem of the Dragon King{{!}}Dragon King’s Totem and previously used the [[Endless Sword]] to protect an unconscious [[Lindon]].<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref> Utilizing the short, broad [[sword]] [[Quickriver]] and an [[Imperial Aegis]], she has the ability to disperse by turning into [[white light]].<ref name="cradle-08-wintersteel-c26" /> As a finished [[sacred artist]] whose [[spirit]] is characterized by gold light condensing over her head, she employs an [[Enforcer technique]] involving a shield and a liquid whip.<ref name="cradle-08-wintersteel-c26" /><ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref> After clashing with [[Mercy]] on a narrow [[stone]] ridge and intercepting [[Lindon]] with her tail, she transitioned from the arena to an assassination attempt against [[Mercy]] and [[Lindon]].<ref name="cradle-08-wintersteel-c27" /><ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref> During her fight with [[Lindon]], she used [[Quickriver]] to pour [[madra]] into a [[binding]] before eventually facing him in a hopeless state.<ref name="cradle-08-wintersteel-c28" />}}
+{{spoiler|book=cradle-08-wintersteel|Sopharanatoth of the [[Gold dragons|gold dragons]] wields the [[Totem of the Dragon King|Dragon King’s Totem]] and previously used the [[Endless Sword]] to protect an unconscious [[Lindon]].<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref> Utilizing the short, broad [[sword]] [[Quickriver]] and an [[Imperial Aegis]], she has the ability to disperse by turning into [[white light]].<ref name="cradle-08-wintersteel-c26" /> As a finished [[sacred artist]] whose [[spirit]] is characterized by gold light condensing over her head, she employs an [[Enforcer technique]] involving a shield and a liquid whip.<ref name="cradle-08-wintersteel-c26" /><ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref> After clashing with [[Mercy]] on a narrow [[stone]] ridge and intercepting [[Lindon]] with her tail, she transitioned from the arena to an assassination attempt against [[Mercy]] and [[Lindon]].<ref name="cradle-08-wintersteel-c27" /><ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref> During her fight with [[Lindon]], she used [[Quickriver]] to pour [[madra]] into a [[binding]] before eventually facing him in a hopeless state.<ref name="cradle-08-wintersteel-c28" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] possesses the Totem of the Dragon King{{!}}Dragon King’s Totem.<ref name="cradle-08-wintersteel-c26" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] possesses the [[Totem of the Dragon King|Dragon King’s Totem]].<ref name="cradle-08-wintersteel-c26" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] is a character who wielded the [[Endless Sword]] to protect an unconscious [[Lindon]].<ref name="cradle-08-wintersteel-c26" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] is [[Sopharanatoth]] of the [[Gold dragons|gold dragons]].<ref name="cradle-08-wintersteel-c26" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] uses [[Quickriver]] in the form of a short, broad [[sword]].<ref name="cradle-08-wintersteel-c26" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] possesses an [[Imperial Aegis]].<ref name="cradle-08-wintersteel-c26" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] can turn to [[white light]] and disperse.<ref name="cradle-08-wintersteel-c26" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|Sopharanatoth{{!}}Sophara's head had gold light condensing over it.<ref name="cradle-08-wintersteel-c26" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]]'s head had gold light condensing over it.<ref name="cradle-08-wintersteel-c26" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] is a [[sacred artist]] whose [[spirit]] is finished.<ref name="cradle-08-wintersteel-c27" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] used an [[Enforcer technique]], a shield, and a liquid whip.<ref name="cradle-08-wintersteel-c27" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] clashed with [[Mercy]] on a narrow ridge of [[stone]].<ref name="cradle-08-wintersteel-c27" />}}</li>
@@ -194,7 +194,7 @@
 {{spoiler|book=cradle-13-threshold|Sopharanatoth's body remained warm while lying outside.<ref name="cradle-13-threshold-c3">''Threshold: Stories from Cradle'', chapter 3</ref> It was expected that [[Lindon]] would engage in combat with her.<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|Sopharanatoth{{!}}Sophara's body was still warm outside.<ref name="cradle-13-threshold-c3" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Sopharanatoth|Sophara]]'s body was still warm outside.<ref name="cradle-13-threshold-c3" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Lindon]] was supposed to fight [[Sopharanatoth|Sophara]].<ref name="cradle-13-threshold-c14" />}}</li>
 </ul></div>
 

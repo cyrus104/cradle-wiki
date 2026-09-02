@@ -20,7 +20,7 @@
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|Raion Raithe{{!}}Raion's [[Combat Art]] is useless without the support of the [[Aether]].<ref name="lh-02-the-engineer-c9">''The Engineer'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Raion Raithe|Raion]]'s [[Combat Art]] is useless without the support of the [[Aether]].<ref name="lh-02-the-engineer-c9">''The Engineer'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Combat Art]] can be used with great brutality.<ref name="lh-02-the-engineer-c11">''The Engineer'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Karoshan]]'s [[force-blade]] invokes a [[Combat Art]] that erupts in golden energy.<ref name="lh-02-the-engineer-c14">''The Engineer'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Raion Raithe]] used a [[Combat Art]] during his fight with [[Starhammer]].<ref name="lh-02-the-engineer-c37">''The Engineer'', chapter 37</ref>}}</li>
@@ -41,16 +41,16 @@
 </ul></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] incorporates Combat Art into her physical motions, causing her movements to crackle with energy. During a confrontation, the Combat Art of the [[Zenith Blade]] is powerful enough to knock [[Shadow Ark]] backwards. Later, [[Aila Escalon|Aila]] utilizes her own Combat Art, wielding a blade that emits an orange light. This orange Combat Art eventually slices into Queen Shyrax{{!}}Shyrax's chest.}}
+{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] incorporates Combat Art into her physical motions, causing her movements to crackle with energy. During a confrontation, the Combat Art of the [[Zenith Blade]] is powerful enough to knock [[Shadow Ark]] backwards. Later, [[Aila Escalon|Aila]] utilizes her own Combat Art, wielding a blade that emits an orange light. This orange Combat Art eventually slices into [[Queen Shyrax|Shyrax]]'s chest.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] uses [[Combat Art]] in her motions.<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Combat Art]] of the [[Zenith Blade]] knocked [[Shadow Ark]] backwards.<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax's movement crackled with her [[Combat Art]].<ref name="lh-04-the-pilot-c21">''The Pilot'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]]'s movement crackled with her [[Combat Art]].<ref name="lh-04-the-pilot-c21">''The Pilot'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] uses a [[Combat Art]] that emits orange light from her blade.<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] uses [[Combat Art]].<ref name="lh-04-the-pilot-c29" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|An orange [[Combat Art]] sliced into Queen Shyrax{{!}}Shyrax's chest.<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|An orange [[Combat Art]] sliced into [[Queen Shyrax|Shyrax]]'s chest.<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}</li>
 </ul></div>
 
 == Notes ==

@@ -73,7 +73,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Visiri]] are a group of people who use red auras and levitation.<ref name="lh-04-the-pilot-c1" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|The [[Visiri]] are neighbors to Queen Shyrax{{!}}Shyrax's culture.<ref name="lh-04-the-pilot-c36" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Visiri]] are neighbors to [[Queen Shyrax|Shyrax]]'s culture.<ref name="lh-04-the-pilot-c36" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Visiri]] relief effort is ongoing.<ref name="lh-04-the-pilot-c46" />}}</li>
 </ul></div>
 

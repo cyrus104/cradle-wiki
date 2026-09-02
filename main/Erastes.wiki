@@ -49,7 +49,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Erastes]] is a [[Valinhall Travelers|Valinhall Traveler]].<ref name="tg-03-city-of-light-c14" />}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|[[Erastes]] ran forward to help during Incarnation{{!}}the Incarnation's attack.<ref name="tg-03-city-of-light-c14" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Erastes]] ran forward to help during [[Incarnation|the Incarnation]]'s attack.<ref name="tg-03-city-of-light-c14" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Erastes]] was present during the encounter with [[Incarnation|the Incarnation]].<ref name="tg-03-city-of-light-c14" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Erastes]] wears chain mail and wields a [[Tartarus steel]] [[sword]].<ref name="tg-03-city-of-light-c24" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Erastes]] is an old soldier in [[Valinhall]].<ref name="tg-03-city-of-light-c25" />}}</li>
@@ -57,7 +57,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[Erastes]] is part of a group intended to separate enemies.<ref name="tg-03-city-of-light-c26" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Erastes]] refers to [[Leah]] as [[the Queen]].<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Erastes]] is waiting on the far side of the building.<ref name="tg-03-city-of-light-c27" />}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|[[Erastes]] pulled the crimson [[Ragnarus blade]] from Incarnation{{!}}the Incarnation's body.<ref name="tg-03-city-of-light-c27" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Erastes]] pulled the crimson [[Ragnarus blade]] from [[Incarnation|the Incarnation]]'s body.<ref name="tg-03-city-of-light-c27" />}}</li>
 </ul></div>
 
 == Notable quotes ==

@@ -46,7 +46,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The route passes the [[Ancestor's Tomb]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|The [[Ancestor's Tomb|Ancestor’s Tomb]] is protected by a Script{{!}}script.<ref name="cradle-09-bloodline-c6" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Ancestor's Tomb|Ancestor’s Tomb]] is protected by a [[Script|script]].<ref name="cradle-09-bloodline-c6" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Ancestor's Tomb|Ancestor’s Tomb]] survived the [[Wandering Titan]]’s attack.<ref name="cradle-09-bloodline-c22">''Bloodline'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Ancestor's Tomb|Ancestor’s Tomb]] has a caved-in roof and one cracked pillar.<ref name="cradle-09-bloodline-c22" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The inside of the [[Ancestor's Tomb|Ancestor’s Tomb]] is a wide-open space lined with pillars.<ref name="cradle-09-bloodline-c22" />}}</li>
@@ -64,7 +64,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Ancestor's Tomb|Ancestor’s Tomb]] is a structure added to seal and control [[labyrinth]] exits.<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] entered [[labyrinth|the labyrinth]] through the Ancestor's Tomb{{!}}Ancestor’s Tomb.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] entered [[labyrinth|the labyrinth]] through the [[Ancestor's Tomb|Ancestor’s Tomb]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Ancestor's Tomb|Ancestor’s Tomb]] contains a [[stone]] door that [[Lindon]] approached.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Ancestor's Tomb|Ancestor’s Tomb]] is located just outside the former site of the [[Heaven’s Glory School]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
 </ul></div>

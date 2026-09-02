@@ -22,7 +22,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Del'rek|Del’rek of the Shann]] is a sacred elephant in human form.<ref name="cradle-12-waybound-c15">''Waybound'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Del'rek|Del’rek]] can lend restoration Authority{{!}}authority.<ref name="cradle-12-waybound-c17">''Waybound'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Del'rek|Del’rek]] can lend restoration [[Authority|authority]].<ref name="cradle-12-waybound-c17">''Waybound'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Del'rek|Del’rek of the Shann]] is a man taller than [[Lindon]] who has tusks and resembles a sacred elephant in human form.<ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Del'rek|Del’rek]] is a character who observes something in the distance.<ref name="cradle-12-waybound-c33" />}}</li>
 </ul></div>

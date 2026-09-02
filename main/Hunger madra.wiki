@@ -75,7 +75,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">24</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] is attempting to use [[hunger madra]] to fix his arm's [[binding]].<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[hunger madra|Hunger madra]] can be used to create hungry ghouls{{!}}ghouls.<ref name="cradle-10-reaper-c7" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[hunger madra|Hunger madra]] can be used to create [[hungry ghouls|ghouls]].<ref name="cradle-10-reaper-c7" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] used [[hunger madra]] to stitch his right arm together.<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[hunger madra|Hunger madra]] is used in traps placed by [[Subject One]].<ref name="cradle-10-reaper-c8" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The domain of [[hunger madra]] [[chips]] away at those inside it.<ref name="cradle-10-reaper-c9">''Reaper'', chapter 9</ref>}}</li>
@@ -85,7 +85,7 @@
 <li>{{spoiler|book=cradle-10-reaper|Webs of [[hunger madra]] shot out of the tunnels.<ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|Sensing [[hunger madra]] in [[labyrinth|the labyrinth]] is difficult.<ref name="cradle-10-reaper-c12" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Yerin]] could not feel any [[hunger madra]].<ref name="cradle-10-reaper-c12" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[hunger madra|Hunger madra]] was introduced to labyrinth{{!}}the labyrinth after the [[Arelius founder]].<ref name="cradle-10-reaper-c12" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[hunger madra|Hunger madra]] was introduced to [[labyrinth|the labyrinth]] after the [[Arelius founder]].<ref name="cradle-10-reaper-c12" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The area was soaked in [[hunger madra]].<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|Webs of [[hunger madra]] shoot from every direction.<ref name="cradle-10-reaper-c14" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[hunger madra|Hunger madra]] gnaws away at [[Lindon's madra]].<ref name="cradle-10-reaper-c17">''Reaper'', chapter 17</ref>}}</li>
@@ -96,8 +96,8 @@
 <li>{{spoiler|book=cradle-10-reaper|[[hunger madra|Hunger madra]] coalesced in the hallway.<ref name="cradle-10-reaper-c21" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[hunger madra|Hunger madra]] offers endless power.<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Silent King]] is cursed with [[hunger madra]].<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[hunger madra|Hunger madra]] is a network that has woven itself through labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[hunger madra|Hunger madra]] is a power associated with labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c25" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[hunger madra|Hunger madra]] is a network that has woven itself through [[labyrinth|the labyrinth]].<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[hunger madra|Hunger madra]] is a power associated with [[labyrinth|the labyrinth]].<ref name="cradle-10-reaper-c25" />}}</li>
 </ul></div>
 
 == Dreadgod ==
@@ -113,7 +113,7 @@
 <li>{{spoiler|book=cradle-11-dreadgod|All [[hunger madra]] in the world trembles when the King roars.<ref name="cradle-11-dreadgod-c18" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] possesses a limb of potent [[hunger madra]].<ref name="cradle-11-dreadgod-c18" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Dreadgod]]'s ripple sought sympathetic [[resonance]] with [[hunger madra]].<ref name="cradle-11-dreadgod-c18" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[hunger madra|Hunger madra]] devoured Lindon's Remnant arm{{!}}Lindon's right arm from the elbow to the shoulder.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[hunger madra|Hunger madra]] devoured [[Lindon's Remnant arm|Lindon's right arm]] from the elbow to the shoulder.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Waybound ==

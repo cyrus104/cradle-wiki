@@ -9,7 +9,7 @@
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|[[Seijan]] is the tenth [[Dragon's Fang]] forged by the founder of Andra Agnos{{!}}Andra's [[House]].<ref name="tg-01-house-of-blades-c18">''House of Blades'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Seijan]] is the tenth [[Dragon's Fang]] forged by the founder of [[Andra Agnos|Andra]]'s [[House]].<ref name="tg-01-house-of-blades-c18">''House of Blades'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|One of the children brought by [[Andra Agnos|Andra]] will carry [[Seijan]] into the world.<ref name="tg-01-house-of-blades-c18" />}}</li>
 </ul></div>
 

@@ -32,7 +32,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Goldsteel]] is required to manipulate [[Remnant]] parts.<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[madra|Madra]] cannot pass through Goldsteel{{!}}goldsteel.<ref name="cradle-04-skysworn-c7" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[madra|Madra]] cannot pass through [[Goldsteel|goldsteel]].<ref name="cradle-04-skysworn-c7" />}}</li>
 </ul></div>
 
 == Underlord ==

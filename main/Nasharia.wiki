@@ -19,7 +19,7 @@
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|[[Nasharia]] is Queen Shyrax{{!}}Shyrax's daughter.<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Nasharia]] is [[Queen Shyrax|Shyrax]]'s daughter.<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Nasharia]] is [[Rellask]]'s sister.<ref name="lh-04-the-pilot-c7">''The Pilot'', chapter 7</ref>}}</li>
 </ul></div>
 

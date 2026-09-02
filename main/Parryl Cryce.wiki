@@ -45,7 +45,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Parryl Cryce|Parryl]] was held in a [[stasis chamber]].<ref name="lh-03-the-knight-c38" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|[[Parryl Cryce|Parryl]] expressed a wish to be out with Raion Raithe{{!}}Raion.<ref name="lh-03-the-knight-c44" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Parryl Cryce|Parryl]] expressed a wish to be out with [[Raion Raithe|Raion]].<ref name="lh-03-the-knight-c44" />}}</li>
 </ul></div>
 
 {{spoiler|book=lh-04-the-pilot|While in recovery, Parryl attempted to climb into her [[Titan]].<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref> She is stationed in the Green [[Titan]] and has been mentioned in connection to taking [[Sola Kalter|Sola]] for a ride.<ref name="lh-04-the-pilot-c28">''The Pilot'', chapter 28</ref><ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref> Parryl is currently spending time with [[Raion Raithe|Raion]] and [[Doctor Cryce]].<ref name="lh-04-the-pilot-c40">''The Pilot'', chapter 40</ref>}}
@@ -53,7 +53,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Parryl Cryce|Parryl]] is in recovery and was attempting to climb into her [[Titan]].<ref name="lh-04-the-pilot-c18" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Parryl Cryce|Parryl]] is in the Green [[Titan]].<ref name="lh-04-the-pilot-c28" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Parryl Cryce|Parryl]] is a character mentioned in relation to taking Sola Kalter{{!}}Sola on a ride.<ref name="lh-04-the-pilot-c32" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Parryl Cryce|Parryl]] is a character mentioned in relation to taking [[Sola Kalter|Sola]] on a ride.<ref name="lh-04-the-pilot-c32" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Parryl Cryce|Parryl]] is spending time with [[Doctor Cryce]] and [[Raion Raithe|Raion]].<ref name="lh-04-the-pilot-c40" />}}</li>
 </ul></div>
 

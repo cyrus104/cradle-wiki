@@ -54,7 +54,7 @@
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[Prince Seishen Kiro|Kiro]] cannot match Riyusai Meira{{!}}Meira in the [[sacred arts]].<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Prince Seishen Kiro|Kiro]] cannot match [[Riyusai Meira|Meira]] in the [[sacred arts]].<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Wintersteel ==
@@ -73,7 +73,7 @@
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Yerin]] can learn from the The Eight-Man Empire{{!}}Eight-Man Empire's [[sacred arts]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Yerin]] can learn from the [[The Eight-Man Empire|Eight-Man Empire]]'s [[sacred arts]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Blood Sage]] claimed his power could change the way [[sacred arts]] are practiced.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
 </ul></div>
 

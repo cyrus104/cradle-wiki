@@ -64,7 +64,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Northstrider]] used [[Striker techniques]].<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|Weeping Dragon{{!}}The Weeping Dragon's hallmark is draconic serpents of blue-and-gold lightning [[Striker techniques]].<ref name="cradle-12-waybound-c15">''Waybound'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Weeping Dragon|The Weeping Dragon]]'s hallmark is draconic serpents of blue-and-gold lightning [[Striker techniques]].<ref name="cradle-12-waybound-c15">''Waybound'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Striker techniques]] are used by [[Arelius artists]].<ref name="cradle-12-waybound-c15" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Mercy]] and [[Yerin]] used [[Striker techniques]] against [[Malice]].<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
 </ul></div>

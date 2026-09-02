@@ -52,7 +52,7 @@
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">16</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|A [[Dreadgod]] is the only being within a thousand miles capable of being Timaias Adama{{!}}Adama's opponent.<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|A [[Dreadgod]] is the only being within a thousand miles capable of being [[Timaias Adama|Adama]]'s opponent.<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|A [[Dreadgod]] is a type of entity that can be removed using [[Penance]].<ref name="cradle-08-wintersteel-c2">''Wintersteel'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|A [[Dreadgod]] is mentioned as a potential interruption to the [[tournament]].<ref name="cradle-08-wintersteel-c2" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|There is a [[Dreadgod]].<ref name="cradle-08-wintersteel-c3">''Wintersteel'', chapter 3</ref>}}</li>

@@ -14,7 +14,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Silverreach]] is a town that the ship is traveling toward.<ref name="ee-sea-02-of-dawn-and-darkness-c11">''Of Dawn and Darkness'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Silverreach]] was built on Ach'magut{{!}}Ach’magut’s tomb.<ref name="ee-sea-02-of-dawn-and-darkness-c11" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Silverreach]] was built on [[Ach'magut|Ach’magut]]’s tomb.<ref name="ee-sea-02-of-dawn-and-darkness-c11" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Silverreach]] is an abandoned, Elder-haunted village.<ref name="ee-sea-02-of-dawn-and-darkness-c11" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Silverreach]] is a place where people are welcomed.<ref name="ee-sea-02-of-dawn-and-darkness-c11" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Silverreach]] is a location where the [[Sleepless]] dragged [[Jerri]]'s crew through the streets.<ref name="ee-sea-02-of-dawn-and-darkness-c13">''Of Dawn and Darkness'', chapter 13</ref>}}</li>

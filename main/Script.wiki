@@ -10,7 +10,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|[[Script]] consists of runes that are shapes used to guide [[vital aura]] in the air to reshape it for a new purpose.<ref name="cradle-01-unsouled-c7">''Unsouled'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-01-unsouled|A [[Script|script]] can be constructed using small tiles etched with runes or sigils to function as a full-size script-circle{{!}}script circle.<ref name="cradle-01-unsouled-c9">''Unsouled'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|A [[Script|script]] can be constructed using small tiles etched with runes or sigils to function as a full-size [[script-circle|script circle]].<ref name="cradle-01-unsouled-c9">''Unsouled'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Soulsmith ==

@@ -31,14 +31,14 @@
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|[[scripts|Scripts]] direct Life aura{{!}}life aura to [[Orthos]] to regenerate his wounds.<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[scripts|Scripts]] direct [[Life aura|life aura]] to [[Orthos]] to regenerate his wounds.<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
 </ul></div>
 
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|A garden sustains a fruit using [[Life aura|life aura]].<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Emriss Silentborn|Emriss]] uses Life aura{{!}}life aura to accelerate natural healing.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Emriss Silentborn|Emriss]] uses [[Life aura|life aura]] to accelerate natural healing.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
 </ul></div>
 
 == Threshold: Stories from Cradle ==

@@ -26,8 +26,8 @@
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-02-crimson-vault|House{{!}}The House's [[entry hall]] is visible through the Gate.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|Some members of [[the House]] would see [[Valinhall]]'s actions as being on Incarnation{{!}}the Incarnation's side.<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[House|The House]]'s [[entry hall]] is visible through the Gate.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|Some members of [[the House]] would see [[Valinhall]]'s actions as being on [[Incarnation|the Incarnation]]'s side.<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Incarnation|The Incarnation]] has access to almost all of [[the House]]'s powers in unlimited supply.<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[House|The House]] is described as incomprehensibly vast.<ref name="tg-02-crimson-vault-c14">''The Crimson Vault'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[House|The House]] is a place that [[Kai]] and others are associated with.<ref name="tg-02-crimson-vault-c18">''The Crimson Vault'', chapter 18</ref>}}</li>

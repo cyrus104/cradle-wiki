@@ -24,7 +24,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Ashwind continent]] is associated with [[wind]].<ref name="cradle-12-waybound-c2">''Waybound'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|Weeping Dragon{{!}}The Weeping Dragon's clouds approach the [[Ashwind continent]].<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Weeping Dragon|The Weeping Dragon]]'s clouds approach the [[Ashwind continent]].<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Ashwind continent|Ashwind Continent]] has a [[Queen]].<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Akura Malice]] would burn the [[Ashwind continent]] to the ground rather than surrender.<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}</li>
 </ul></div>

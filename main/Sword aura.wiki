@@ -55,7 +55,7 @@
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|[[sword aura|Sword aura]] can be enhanced by Blood aura{{!}}blood aura.<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[sword aura|Sword aura]] can be enhanced by [[Blood aura|blood aura]].<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
 </ul></div>
 
 == Waybound ==

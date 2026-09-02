@@ -155,7 +155,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Silent King]] was forced to swap places with the [[Wandering Titan]].<ref name="cradle-12-waybound-c21" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|Weeping Dragon{{!}}The Weeping Dragon's [[binding]] is more like a normal [[binding]] than the [[Silent King]]’s.<ref name="cradle-12-waybound-c21" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Weeping Dragon|The Weeping Dragon]]'s [[binding]] is more like a normal [[binding]] than the [[Silent King]]’s.<ref name="cradle-12-waybound-c21" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Silent King]] is associated with a halo that serves as a [[Goldsign]] for the [[Silent Servants]].<ref name="cradle-12-waybound-c22" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[scale]] of [[Dross]]'s [[dream aura]] temporarily matched the [[Silent King]].<ref name="cradle-12-waybound-c27" />}}</li>
 </ul></div>

@@ -6,13 +6,13 @@
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|There is a cult of a [[Dreadgod]] that operates beyond The Empire{{!}}the Empire's southeastern border.<ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|There is a cult of a [[Dreadgod]] that operates beyond [[The Empire|the Empire]]'s southeastern border.<ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|Tiberian Arelius{{!}}Tiberian's [[technique]] would destroy the [[Dreadgod cult]] if [[Yerin]] used [[Moonlight Bridge]].<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Tiberian Arelius|Tiberian]]'s [[technique]] would destroy the [[Dreadgod cult]] if [[Yerin]] used [[Moonlight Bridge]].<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Waybound ==

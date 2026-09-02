@@ -8,7 +8,7 @@
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|The [[scripted golden collar]] around Tiberian Arelius{{!}}Tiberian's neck is the source of his agony.<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[scripted golden collar]] around [[Tiberian Arelius|Tiberian]]'s neck is the source of his agony.<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[scripted golden collar]] enforces obedience and allows [[Reigan Shen|Reigan]] to hand off the consequences of broken oaths.<ref name="cradle-12-waybound-c22" />}}</li>
 </ul></div>
 

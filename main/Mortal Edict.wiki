@@ -10,7 +10,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Mortal Edict]] is something for which someone qualified must be found.<ref name="lh-03-the-knight-c23">''The Knight'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|[[Mortal Edict]] is sitting on Sola Kalter{{!}}Sola's lap.<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Mortal Edict]] is sitting on [[Sola Kalter|Sola]]'s lap.<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
 </ul></div>
 
 == The Pilot ==

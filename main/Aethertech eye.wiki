@@ -23,7 +23,7 @@
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] possesses Aethertech eye{{!}}Aethertech eyes used for scanning.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] possesses [[Aethertech eye|Aethertech eyes]] used for scanning.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|An [[Aethertech eye]] is a gleaming orange ocular enhancement.<ref name="lh-04-the-pilot-c1" />}}</li>
 </ul></div>
 

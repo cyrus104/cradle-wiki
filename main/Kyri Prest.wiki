@@ -52,7 +52,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Kyri Prest]] is the combat trainer for the Knights.<ref name="lh-03-the-knight-c12" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Kyri Prest|Kyri]] is a coach.<ref name="lh-03-the-knight-c12" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Kyri Prest{{!}}Kyri's [[aura]] is a pale pink close to white.<ref name="lh-03-the-knight-c12" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Kyri Prest|Kyri]]'s [[aura]] is a pale pink close to white.<ref name="lh-03-the-knight-c12" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Kyri Prest|Kyri]] is an arena duelist.<ref name="lh-03-the-knight-c12" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Kyri Prest|Kyri]] was a teacher in the [[Titan Force]].<ref name="lh-03-the-knight-c31" />}}</li>
 </ul></div>

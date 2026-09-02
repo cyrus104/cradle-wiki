@@ -12,7 +12,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Vice Chief of Planetary Security|Vice Chief]] of [[Fathom Planetary Security]] is a plump woman accompanied by drones.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Fathom Planetary Security|Fathom’s Planetary Security]] is an organization with a Vice Chief of Planetary Security{{!}}Vice Chief.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Fathom Planetary Security|Fathom’s Planetary Security]] is an organization with a [[Vice Chief of Planetary Security|Vice Chief]].<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Fathom Planetary Security]] is a group that should not have business in the current location.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Fathom Planetary Security]] operates ships with [[Subspace Drives]].<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Fathom Planetary Security]] announced a state of emergency.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>

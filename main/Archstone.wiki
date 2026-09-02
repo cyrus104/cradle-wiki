@@ -26,7 +26,7 @@
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|The [[Archstone]] is a potent weapon stolen from an ancient, cursed [[labyrinth]] and confiscated from a traitor to The Empire{{!}}the Empire's leadership.<ref name="cradle-06-underlord-c14">''Underlord'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|The [[Archstone]] is a potent weapon stolen from an ancient, cursed [[labyrinth]] and confiscated from a traitor to [[The Empire|the Empire]]'s leadership.<ref name="cradle-06-underlord-c14">''Underlord'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Archstone]] is kept in the Emperor's personal [[vault]].<ref name="cradle-06-underlord-c14" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Eithan]] produced a smoky orb known as the [[Archstone]].<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}</li>
 </ul></div>

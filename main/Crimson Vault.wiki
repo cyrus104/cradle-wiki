@@ -12,7 +12,7 @@
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|[[Crimson Vault|The Crimson Vault]] is another name for Ragnarus the Crimson Vault{{!}}Ragnarus.<ref name="tg-01-house-of-blades-c14">''House of Blades'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Crimson Vault|The Crimson Vault]] is another name for [[Ragnarus the Crimson Vault|Ragnarus]].<ref name="tg-01-house-of-blades-c14">''House of Blades'', chapter 14</ref>}}</li>
 </ul></div>
 
 == The Crimson Vault ==
@@ -23,7 +23,7 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Crimson Vault|The Crimson Vault]] is the source of the red [[stone]] used in King [[Zakareth's eye]].<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Crimson Vault|The Crimson Vault]] is lit by unnatural scarlet torches.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The reign of the [[Crimson Vault]] is coming to an end according to the prophecy of the Rising Sun.<ref name="tg-02-crimson-vault-c6">''The Crimson Vault'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|[[Crimson Vault|The Crimson Vault]] is accessed via the Crimson Vault{{!}}Gate to the Crimson Vault.<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Crimson Vault|The Crimson Vault]] is accessed via the [[Crimson Vault|Gate to the Crimson Vault]].<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The appointment of [[Leah]] as [[Successor]] was sworn in the presence of the [[Crimson Vault]].<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Leah]] left the [[Crimson Vault]] and her father.<ref name="tg-02-crimson-vault-c15" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|A [[Crimson Vault|Gate to the Crimson Vault]] can only be opened in the world, not in the Territories.<ref name="tg-02-crimson-vault-c16">''The Crimson Vault'', chapter 16</ref>}}</li>

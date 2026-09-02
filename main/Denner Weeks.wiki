@@ -66,7 +66,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Denner Weeks|Denner]] is someone [[Valin]] failed to teach to stop jumping around.<ref name="tg-03-city-of-light-c6" />}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|[[Denner Weeks|Denner]] is a Valinhall Travelers{{!}}Valinhall Traveler who stays in [[the House]] for a day or two at a time.<ref name="tg-03-city-of-light-c13" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Denner Weeks|Denner]] is a [[Valinhall Travelers|Valinhall Traveler]] who stays in [[the House]] for a day or two at a time.<ref name="tg-03-city-of-light-c13" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Denner Weeks|Denner]] is a person the [[Eldest]] considered for the [[Nye essence]] instead of [[Simon]].<ref name="tg-03-city-of-light-c16" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Denner Weeks|Denner]] takes every chance he can get to leave [[the House]].<ref name="tg-03-city-of-light-c16" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Indirial]] has not heard from [[Denner Weeks|Denner]] in weeks.<ref name="tg-03-city-of-light-c17" />}}</li>

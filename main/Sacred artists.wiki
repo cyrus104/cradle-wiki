@@ -33,13 +33,13 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[sacred artists|Sacred artists]] hunt down their parasites using [[scripts]], treasures, and traps.<ref name="cradle-04-skysworn-c17">''Skysworn'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[sacred artists|Sacred artists]] travel through the sky using Thousand-Mile Cloud{{!}}Thousand-Mile Clouds, riding sacred birds, or being pulled by [[Remnants]].<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[sacred artists|Sacred artists]] travel through the sky using [[Thousand-Mile Cloud|Thousand-Mile Clouds]], riding sacred birds, or being pulled by [[Remnants]].<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}</li>
 </ul></div>
 
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[sacred artists|Sacred artists]], mostly [[Truegold|Truegolds]] with some Highgold{{!}}Highgolds, are flooding through the trees.<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[sacred artists|Sacred artists]], mostly [[Truegold|Truegolds]] with some [[Highgold|Highgolds]], are flooding through the trees.<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
 </ul></div>
 
 == Uncrowned ==
@@ -70,7 +70,7 @@
 <li>{{spoiler|book=cradle-11-dreadgod|[[sacred artists|Sacred artists]] can have their [[willpower]] compromised by certain experiences.<ref name="cradle-11-dreadgod-c12">''Dreadgod'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[sacred artists|Sacred artists]] streamed forth from the void [[portal]].<ref name="cradle-11-dreadgod-c16">''Dreadgod'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[sacred artists|Sacred artists]] emerged from doors and windows shining with white halos.<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[sacred artists|Sacred artists]] were used to surround labyrinth{{!}}the labyrinth exit with their perceptions.<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[sacred artists|Sacred artists]] were used to surround [[labyrinth|the labyrinth]] exit with their perceptions.<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
 </ul></div>
 
 == Waybound ==

@@ -50,7 +50,7 @@
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|The [[Free Worlds]] are a region or group of worlds mentioned in relation to the The Zenith Starship{{!}}Zenith Starship's [[destruction]].<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Free Worlds]] are a region or group of worlds mentioned in relation to the [[The Zenith Starship|Zenith Starship]]'s [[destruction]].<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] attacked the [[Free Worlds]].<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
 </ul></div>
 

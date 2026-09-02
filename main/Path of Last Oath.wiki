@@ -17,7 +17,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Path of Last Oath|Path of the Last Oath]] is a path that contains [[Sages]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Path of Last Oath|Path of the Last Oath]] was founded by an individual whose rivalry with the children of Empress{{!}}Empress Natarianath was recorded.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Path of Last Oath|Path of the Last Oath]] was founded by an individual whose rivalry with the children of [[Empress|Empress Natarianath]] was recorded.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Path of Last Oath|Path of the Last Oath]] is formed of several [[aspects]] including force and [[water]].<ref name="cradle-11-dreadgod-c13">''Dreadgod'', chapter 13</ref>}}</li>
 </ul></div>
 

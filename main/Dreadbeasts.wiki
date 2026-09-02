@@ -17,7 +17,7 @@
 <li>{{spoiler|book=cradle-02-soulsmith|[[dreadbeasts|Dreadbeasts]] are creatures that mining crews need protection from.<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[dreadbeasts|Dreadbeasts]] are found in the [[Ruins]].<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[dreadbeasts|Dreadbeasts]] are coming to the area.<ref name="cradle-02-soulsmith-c14">''Soulsmith'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|[[dreadbeasts|Dreadbeasts]] appear suddenly and attack Miners{{!}}miners.<ref name="cradle-02-soulsmith-c14" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[dreadbeasts|Dreadbeasts]] appear suddenly and attack [[Miners|miners]].<ref name="cradle-02-soulsmith-c14" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Yerin]] fought a pack of twisted [[dreadbeasts]].<ref name="cradle-02-soulsmith-c16">''Soulsmith'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|A [[dreadbeasts|dreadbeast]] attacked [[Lindon]], causing twisted fingers.<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[dreadbeasts|Dreadbeasts]] are creatures that stand in the way of progress.<ref name="cradle-02-soulsmith-c17" />}}</li>
@@ -37,7 +37,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[dreadbeasts|Dreadbeasts]] use [[white madra]] in their [[binding|bindings]].<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[dreadbeasts|Dreadbeasts]] attack with [[madra]] of all [[aspects]].<ref name="cradle-04-skysworn-c7" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[dreadbeasts|Dreadbeasts]] contain binding{{!}}bindings inside them.<ref name="cradle-04-skysworn-c7" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[dreadbeasts|Dreadbeasts]] contain [[binding|bindings]] inside them.<ref name="cradle-04-skysworn-c7" />}}</li>
 </ul></div>
 
 == Ghostwater ==
@@ -82,7 +82,7 @@
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[dreadbeasts|Dreadbeasts]] inhabit the ruins around labyrinth{{!}}the labyrinth.<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[dreadbeasts|Dreadbeasts]] inhabit the ruins around [[labyrinth|the labyrinth]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==

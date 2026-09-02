@@ -17,7 +17,7 @@
 {{spoiler|book=lh-04-the-pilot|Leilari utilizes synth-flesh putty to [[The mask|mask]] her facial structure. She also wears a [[gray flight suit]] for emergency situations and has [[Aethertech]] implants located in her jaw. Additionally, she wears a [[steel]] band on her left forearm that serves as a backup [[console]].}}
 
 == Relationships ==
-{{spoiler|book=lh-04-the-pilot|Leilari is the wife of both [[Starhammer]] and [[Clockworker]]. Additionally, she was discovered in a hiding place by [[Varic Vallenar|Varic]] through the use of pathfinding magic{{!}}pathfinding spells.}}
+{{spoiler|book=lh-04-the-pilot|Leilari is the wife of both [[Starhammer]] and [[Clockworker]]. Additionally, she was discovered in a hiding place by [[Varic Vallenar|Varic]] through the use of [[pathfinding magic|pathfinding spells]].}}
 
 == History ==
 === {{spoiler|book=lh-02-the-engineer|Actress in Starhammer VI}} ===
@@ -37,7 +37,7 @@
 {{spoiler|book=lh-02-the-engineer|Leilari is an individual located within the prison.<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref> Using [[pathfinding magic|pathfinding spells]], [[Varic Vallenar|Varic]] eventually discovered her in a hiding place.<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] was found in a hiding place by [[Varic Vallenar|Varic]] using pathfinding magic{{!}}pathfinding spells.<ref name="lh-02-the-engineer-c46" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] was found in a hiding place by [[Varic Vallenar|Varic]] using [[pathfinding magic|pathfinding spells]].<ref name="lh-02-the-engineer-c46" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] is a person who can be found in the prison.<ref name="lh-02-the-engineer-c51" />}}</li>
 </ul></div>
 

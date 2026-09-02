@@ -21,7 +21,7 @@
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|The [[Security constructs|security constructs]] in one room possess the power of Striker binding{{!}}Striker bindings.<ref name="cradle-04-skysworn-c3">''Skysworn'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The [[Security constructs|security constructs]] in one room possess the power of [[Striker binding|Striker bindings]].<ref name="cradle-04-skysworn-c3">''Skysworn'', chapter 3</ref>}}</li>
 </ul></div>
 
 == Ghostwater ==

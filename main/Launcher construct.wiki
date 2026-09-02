@@ -37,7 +37,7 @@
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] uses [[launcher construct|launcher constructs]] to eliminate Bloodspawn{{!}}bloodspawn.<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] uses [[launcher construct|launcher constructs]] to eliminate [[Bloodspawn|bloodspawn]].<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
 </ul></div>
 
 == Reaper ==
@@ -55,7 +55,7 @@
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Ozmanthus Arelius|Ozmanthus]] created a network of launcher construct{{!}}launcher constructs to protect a city.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Ozmanthus Arelius|Ozmanthus]] created a network of [[launcher construct|launcher constructs]] to protect a city.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Moongrave]]'s walls feature ancient [[launcher construct|launcher constructs]] with the stability of [[stone]].<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Seisha]] uses [[launcher construct|launcher constructs]].<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
 </ul></div>

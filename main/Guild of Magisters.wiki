@@ -19,7 +19,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Guild of Magisters|Magister’s Guild]] is an organization that vouches for the veracity of [[Readers]] and keeps them under scrutiny.<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jorin Curse-breaker|Jorin]] Maze-walker's philosophies were instrumental in the creation of the Guild of Magisters{{!}}Magister’s Guild.<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jorin Curse-breaker|Jorin]] Maze-walker's philosophies were instrumental in the creation of the [[Guild of Magisters|Magister’s Guild]].<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Of Darkness and Dawn ==

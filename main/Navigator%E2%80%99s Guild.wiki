@@ -26,7 +26,7 @@
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Imperial Steward Calder Marten|Calder Marten]] has a job for the Navigator’s Guild{{!}}Navigator's Guild.<ref name="ee-sea-02-of-dawn-and-darkness-c5">''Of Dawn and Darkness'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Imperial Steward Calder Marten|Calder Marten]] has a job for the [[Navigator’s Guild|Navigator's Guild]].<ref name="ee-sea-02-of-dawn-and-darkness-c5">''Of Dawn and Darkness'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Navigator’s Guild]] supervises [[Andel Petronus]].<ref name="ee-sea-02-of-dawn-and-darkness-c13">''Of Dawn and Darkness'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Navigator’s Guild|Navigator's Guild]] is a group that can be loaded with soldiers and [[Guards]].<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Imperial Steward Calder Marten|Calder Marten]] was sentenced to forced labor in the service of the [[Navigator’s Guild]].<ref name="ee-sea-02-of-dawn-and-darkness-c16">''Of Dawn and Darkness'', chapter 16</ref>}}</li>
@@ -37,7 +37,7 @@
 == Of Darkness and Dawn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Imperial Steward Calder Marten|Calder Marten]] is a Captain in the Navigator’s Guild{{!}}Navigator's Guild.<ref name="ee-shadow-02-of-darkness-and-dawn-c13">''Of Darkness and Dawn'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Imperial Steward Calder Marten|Calder Marten]] is a Captain in the [[Navigator’s Guild|Navigator's Guild]].<ref name="ee-shadow-02-of-darkness-and-dawn-c13">''Of Darkness and Dawn'', chapter 13</ref>}}</li>
 </ul></div>
 
 == Of Kings and Killers ==

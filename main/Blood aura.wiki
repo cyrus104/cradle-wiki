@@ -47,7 +47,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The [[Blood aura|blood aura]] was intense enough to cause bleeding from the eyes and scratches.<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|The [[Blood aura|blood aura]] in labyrinth{{!}}the labyrinth has not been sipped away by [[hunger]].<ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Blood aura|blood aura]] in [[labyrinth|the labyrinth]] has not been sipped away by [[hunger]].<ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The massive body of the creature was full of [[Blood aura|blood aura]].<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
 </ul></div>
 

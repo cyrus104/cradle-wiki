@@ -34,7 +34,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Loreli]] is a [[Regent]].<ref name="ee-sea-03-of-kings-and-killers-c5" />}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Regent|Regent Loreli]] assisted the Guild of Magisters{{!}}Magister's Guild in making the crown's box.<ref name="ee-sea-03-of-kings-and-killers-c14" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Regent|Regent Loreli]] assisted the [[Guild of Magisters|Magister's Guild]] in making the crown's box.<ref name="ee-sea-03-of-kings-and-killers-c14" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|If the [[Regent]] finds [[Calder]], he might end up in a [[Palace cell]].<ref name="ee-sea-03-of-kings-and-killers-c19" />}}</li>
 </ul></div>
 

@@ -29,7 +29,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Heartlander]] man was sitting on the Emperor's bed.<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Heartlander|Heartlanders]] are people from the Heartland{{!}}Heartlands.<ref name="ee-sea-02-of-dawn-and-darkness-c15">''Of Dawn and Darkness'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Heartlander|Heartlanders]] are people from the [[Heartland|Heartlands]].<ref name="ee-sea-02-of-dawn-and-darkness-c15">''Of Dawn and Darkness'', chapter 15</ref>}}</li>
 </ul></div>
 
 == Of Kings and Killers ==

@@ -34,7 +34,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Heaven's Glory]] is a group that [[Timaias Adama|Adama]] has access to in exchange for sharing treasures.<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Heaven's Glory|Heaven’s Glory]] is a group that Timaias Adama{{!}}Adama intends to raze.<ref name="cradle-08-wintersteel-c1" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Heaven's Glory|Heaven’s Glory]] is a group that [[Timaias Adama|Adama]] intends to raze.<ref name="cradle-08-wintersteel-c1" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Heaven's Glory]] is a school.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
 </ul></div>
 
@@ -59,7 +59,7 @@
 <li>{{spoiler|book=cradle-09-bloodline|Hundreds of thousands of people are inside the [[Heaven's Glory]] passageway.<ref name="cradle-09-bloodline-c15" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Humanity was pushing to leave through [[Heaven's Glory]].<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Crowds push their way out of [[Heaven's Glory|Heaven’s Glory]].<ref name="cradle-09-bloodline-c17" />}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|[[Heaven's Glory|Heaven’s Glory]] rebuilt the Ancestor's Tomb{{!}}Ancestor’s Tomb.<ref name="cradle-09-bloodline-c22">''Bloodline'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Heaven's Glory|Heaven’s Glory]] rebuilt the [[Ancestor's Tomb|Ancestor’s Tomb]].<ref name="cradle-09-bloodline-c22">''Bloodline'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Elder Whisper]] can visit [[Heaven's Glory|Heaven’s Glory]] unseen.<ref name="cradle-09-bloodline-c22" />}}</li>
 </ul></div>
 

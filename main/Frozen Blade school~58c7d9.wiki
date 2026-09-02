@@ -19,8 +19,8 @@
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Frozen Blade school|Frozen Blade School]] is a school that Timaias Adama{{!}}Adama remembers.<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|Members of the [[Frozen Blade school|Frozen Blade School]] were aboard the Akura family cloudship{{!}}Akura cloudship.<ref name="cradle-08-wintersteel-c5">''Wintersteel'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Frozen Blade school|Frozen Blade School]] is a school that [[Timaias Adama|Adama]] remembers.<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Members of the [[Frozen Blade school|Frozen Blade School]] were aboard the [[Akura family cloudship|Akura cloudship]].<ref name="cradle-08-wintersteel-c5">''Wintersteel'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The headquarters of the [[Frozen Blade school|Frozen Blade sect]] is located in the snow.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Frozen Blade school|Frozen Blade School]] owns a huge stretch of land and protects people from invaders and the environment.<ref name="cradle-08-wintersteel-c8" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|Only [[Truegold|Truegolds]] on the [[Path of the Frozen Blade]] are allowed to visit the [[Sage]]'s home.<ref name="cradle-08-wintersteel-c8" />}}</li>

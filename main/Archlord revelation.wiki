@@ -16,7 +16,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|An [[Archlord revelation]] is an oath to which one dedicates their future.<ref name="cradle-12-waybound-c13">''Waybound'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|Ziel of the Wasteland{{!}}Ziel's [[Archlord revelation]] is tied to his desire to protect his sect.<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Ziel of the Wasteland|Ziel]]'s [[Archlord revelation]] is tied to his desire to protect his sect.<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Mercy]]'s [[Archlord revelation]] was 'To bring light.'<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Yerin]]'s [[Archlord revelation]] was that she was meant to kill monsters.<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
 </ul></div>

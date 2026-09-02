@@ -17,7 +17,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Archlord binding]] is a [[technique]] that can be activated within a weapon.<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|Sopharanatoth{{!}}Sophara's liquid metal [[sword]] contains an [[Archlord binding]].<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]]'s liquid metal [[sword]] contains an [[Archlord binding]].<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Archlord binding]] draws power from the [[sword]] itself.<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Quickriver]] was covered in the [[Archlord binding|Archlord Enforcer binding]].<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
 </ul></div>

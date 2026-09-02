@@ -12,15 +12,15 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|[[Cradle]] is the birthplace of the [[Abidan]].<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-01-unsouled|[[Cradle]] is the name Judge Suriel{{!}}Suriel's organization uses for the world.<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-01-unsouled|Judge Suriel{{!}}Suriel's organization considers [[Cradle]] to be where they keep infants.<ref name="cradle-01-unsouled-c11" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Cradle]] is the name [[Judge Suriel|Suriel]]'s organization uses for the world.<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Judge Suriel|Suriel]]'s organization considers [[Cradle]] to be where they keep infants.<ref name="cradle-01-unsouled-c11" />}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Cradle]] is an important world.<ref name="cradle-01-unsouled-c20">''Unsouled'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|[[Judge Suriel|Suriel]] requested information on Lindon{{!}}Wei Shi Lindon from [[Cradle]].<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Judge Suriel|Suriel]] requested information on [[Lindon|Wei Shi Lindon]] from [[Cradle]].<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
 </ul></div>
 
 == Skysworn ==
@@ -55,7 +55,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Cradle]] is a location where [[Monarchs]] can cause problems.<ref name="cradle-09-bloodline-c2">''Bloodline'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Cradle]] may experience minor corruption due to battles outside its world.<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|[[Cradle]] is considered one of the core worlds by Judge Suriel{{!}}Suriel's organization.<ref name="cradle-09-bloodline-c18" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Cradle]] is considered one of the core worlds by [[Judge Suriel|Suriel]]'s organization.<ref name="cradle-09-bloodline-c18" />}}</li>
 </ul></div>
 
 == Reaper ==
