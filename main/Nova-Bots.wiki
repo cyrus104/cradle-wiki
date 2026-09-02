@@ -71,7 +71,7 @@
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|[[Mell D-One-Twenty-Five|Mell]]'s face is partially composed of a Nova-Bots{{!}}Nova-Bot metal frame.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Mell D-One-Twenty-Five|Mell]]'s face is partially composed of a [[Nova-Bots|Nova-Bot]] metal frame.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Nova-Bots]] can specialize in cracking network encryption.<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Mell D-One-Twenty-Five|Mell]] requires [[Nova-Bots]] to function.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Nova-Bots]] are mass-produced pilots for [[Karoshan ships]].<ref name="lh-04-the-pilot-c14" />}}</li>

@@ -11,7 +11,7 @@
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|[[Judge Suriel|Suriel]]'s predecessor is known as The Phoenix{{!}}the Phoenix.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Judge Suriel|Suriel]]'s predecessor is known as [[The Phoenix|the Phoenix]].<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
 </ul></div>
 
 == Skysworn ==
@@ -79,7 +79,7 @@
 </ul></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|[[The Phoenix]] possesses the power to restore things to their former states and can be summoned to establish new rules or dismantle incorrect ones. While the entity would cooperate with The [[Mad King|the Mad King]] for the purpose of healing a world, its actions caused Death Monarch Yerin Arelius{{!}}Yerin Arelius to lose her home. Amidst the wreckage left behind, the people wait for their one Phoenix. Ultimately, the attack by [[The Phoenix|the Phoenix]] resulted in a memorial spire made of polished black [[stone]].}}
+{{spoiler|book=cradle-13-threshold|[[The Phoenix]] possesses the power to restore things to their former states and can be summoned to establish new rules or dismantle incorrect ones. While the entity would cooperate with The [[Mad King|the Mad King]] for the purpose of healing a world, its actions caused [[Yerin|Yerin Arelius]] to lose her home. Amidst the wreckage left behind, the people wait for their one Phoenix. Ultimately, the attack by [[The Phoenix|the Phoenix]] resulted in a memorial spire made of polished black [[stone]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -88,7 +88,7 @@
 <li>{{spoiler|book=cradle-13-threshold|[[The Phoenix]] would cooperate with The [[Mad King|the Mad King]] to heal a world.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The people in the wreckage are waiting for their one [[Phoenix]].<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[The Phoenix]] attack resulted in a memorial spire of polished black [[stone]].<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-13-threshold|[[The Phoenix]] caused Death Monarch Yerin Arelius{{!}}Yerin Arelius to lose her home.<ref name="cradle-13-threshold-c13" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[The Phoenix]] caused [[Yerin|Yerin Arelius]] to lose her home.<ref name="cradle-13-threshold-c13" />}}</li>
 </ul></div>
 
 == Notable quotes ==

@@ -9,7 +9,7 @@
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|[[The Stone Anchor]] is [[Ziel of the Wasteland|Ziel]]'s Full-body Enforcer technique{{!}}full-body Enforcer technique that binds him to the ground.<ref name="cradle-08-wintersteel-c15">''Wintersteel'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[The Stone Anchor]] is [[Ziel of the Wasteland|Ziel]]'s [[Full-body Enforcer technique|full-body Enforcer technique]] that binds him to the ground.<ref name="cradle-08-wintersteel-c15">''Wintersteel'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[The Stone Anchor]] is used by [[Ziel of the Wasteland|Ziel]] to carry his heavy weapons.<ref name="cradle-08-wintersteel-c15" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[The Stone Anchor]] is an [[Enforcer technique]].<ref name="cradle-08-wintersteel-c15" />}}</li>
 </ul></div>

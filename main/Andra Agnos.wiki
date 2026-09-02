@@ -63,7 +63,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">21</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Andra Agnos|Andra]] is the daughter of [[Olissa Agnos|Olissa]].<ref name="tg-03-city-of-light-c6" />}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|[[Andra Agnos]] is the youngest [[Valinhall Travelers|Valinhall Traveler]] and the daughter of [[Olissa Agnos|Olissa]] and Caius Agnos{{!}}Caius.<ref name="tg-03-city-of-light-c8" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Andra Agnos]] is the youngest [[Valinhall Travelers|Valinhall Traveler]] and the daughter of [[Olissa Agnos|Olissa]] and [[Caius Agnos|Caius]].<ref name="tg-03-city-of-light-c8" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Andra Agnos|Andra]] suggested that it would escape.<ref name="tg-03-city-of-light-c8" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Andra Agnos]] is [[Lycus]]'s sister.<ref name="tg-03-city-of-light-c13" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Andra Agnos]] is a [[Valinhall Travelers|Valinhall Traveler]].<ref name="tg-03-city-of-light-c13" />}}</li>

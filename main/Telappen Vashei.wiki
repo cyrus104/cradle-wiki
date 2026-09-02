@@ -16,7 +16,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Telappen Vashei]] was a stern but kind human woman.<ref name="lh-04-the-pilot-c41">''The Pilot'', chapter 41</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Telappen Vashei]] had Iron{{!}}iron-gray hair.<ref name="lh-04-the-pilot-c41" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Telappen Vashei]] had [[Iron|iron-gray]] hair.<ref name="lh-04-the-pilot-c41" />}}</li>
 </ul></div>
 
 == Notes ==

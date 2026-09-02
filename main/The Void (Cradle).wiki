@@ -68,7 +68,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The Void is an influence that can affect unstable Pioneer worlds.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-13-threshold|[[Wolf|The Wolf]]'s grin belongs more to the madness of the Void than the order of Way{{!}}the Way.<ref name="cradle-13-threshold-c6" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Wolf|The Wolf]]'s grin belongs more to the madness of the Void than the order of [[Way|the Way]].<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The Void is a hostile emptiness outside of the cosmos.<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Sight is not [[Jek'nan]]'s sharpest sense in the Void.<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|There was raw matter available in the Void.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>

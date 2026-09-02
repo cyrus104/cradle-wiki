@@ -145,7 +145,7 @@
 == Threshold: Stories from Cradle ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|The cult of the [[Bleeding Phoenix]] is protected by Death Monarch Yerin Arelius{{!}}Yerin Arelius.<ref name="cradle-13-threshold-c3">''Threshold: Stories from Cradle'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The cult of the [[Bleeding Phoenix]] is protected by [[Yerin|Yerin Arelius]].<ref name="cradle-13-threshold-c3">''Threshold: Stories from Cradle'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The cloak of the [[Bleeding Phoenix]] billowed from [[Lindon]]'s shoulders.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Bleeding Phoenix]] rose after a few days.<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}</li>
 </ul></div>

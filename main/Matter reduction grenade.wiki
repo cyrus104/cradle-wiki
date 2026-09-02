@@ -13,7 +13,7 @@
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|[[Sola Kalter|Sola]]'s clones use matter reduction grenade{{!}}matter-reduction grenades.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Sola Kalter|Sola]]'s clones use [[matter reduction grenade|matter-reduction grenades]].<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|A [[matter reduction grenade|matter-reduction grenade]] erases a scoop of [[Omega]]'s body.<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}</li>
 </ul></div>
 
