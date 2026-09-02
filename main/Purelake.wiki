@@ -1,24 +1,24 @@
 {{Infobox location
 | name = Purelake
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-09-bloodline|The Purelake is a large, sapphire-colored body of water located south of a [[pyramid]] within the [[Desolate Wilds]]. It is distinguished from the surrounding landscape by its extreme clarity and lack of corruption, serving as a vital source of drinkable water in an area where such resources are otherwise scarce for miles. The lake is associated with the [[Purelake Temple]], which recently underwent rapid expansion through the work of [[sacred artists]]. The water is known to be subject to sudden, violent disturbances, such as intense trembling and large waves that can endanger boats. Additionally, the term is associated with specialized remnants of [[sacred artists]] who possessed the ability to manifest water from atmospheric [[aura]].}}
+{{spoiler|book=cradle-09-bloodline|The Purelake is a large, [[sapphire]]-colored body of [[water]] located south of a pyramid within the [[Desolate Wilds]]. It stands in stark contrast to the surrounding landscape, which is characterized by dark, tainted waters and corruption. The lake serves as a vital source of drinkable [[water]] in a region where such resources are otherwise scarce for many miles. It is also known to nourish much of the wilds and has been subject to intense tremors, such as when waves grew large enough to threaten fishing vessels. Historically, the area has seen rapid development; for instance, a temple outpost and its associated structures were constructed by [[sacred artists]] in a very short period. The lake is also associated with specialized remnants that possess the primary aspect of [[water]], allowing for techniques that can manifest [[water]] from atmospheric [[aura]].}}
 
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|The [[Purelake]] is a source of drinkable water.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|The [[Purelake]] is a body of water where [[Fishers]] work.<ref name="cradle-02-soulsmith-c5" />}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|The [[Purelake]] may have [[Soulsmiths]] skilled enough to build constructs that create water from [[madra]].<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|The [[Purelake]] is a glimmering sapphire in the [[Desolate Wilds]].<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Purelake]] is a source of drinkable [[water]].<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Purelake]] is a body of [[water]] where [[Fishers]] work.<ref name="cradle-02-soulsmith-c5" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Purelake]] may have [[Soulsmiths]] skilled enough to build [[constructs]] that create [[water]] from [[madra]].<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Purelake]] is a glimmering [[sapphire]] in the [[Desolate Wilds]].<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}</li>
 </ul></div>
 
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|The [[Purelake]] is a pool of crystalline water that nourishes most of the wilds.<ref name="cradle-09-bloodline-c16">''Bloodline'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Purelake]] is a pool of crystalline [[water]] that nourishes most of the wilds.<ref name="cradle-09-bloodline-c16">''Bloodline'', chapter 16</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -34,4 +34,3 @@
 [[Category:Bloodline]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Regions]]

@@ -2,13 +2,13 @@
 
 {{Infobox location
 | name = Erinin plains
-| introduced = Of Kings and Killers
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
 }}
 
 == Of Kings and Killers ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[obelisks]] wait on the [[Erinin plains]].<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The obelisks wait on the [[Erinin plains]].<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -20,4 +20,3 @@
 [[Category:Of Kings and Killers]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire locations]]
-[[Category:Regions]]

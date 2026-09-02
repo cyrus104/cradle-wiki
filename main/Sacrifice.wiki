@@ -1,0 +1,29 @@
+{{Expand}}
+
+{{Infobox event
+| name = sacrifice
+| introduced = [[House of Blades (novel)|House of Blades]]
+}}
+
+== House of Blades ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-01-house-of-blades|The [[sacrifice]] in [[Ragnarus the Crimson Vault]] begins eight days before midsummer and lasts nine days, involving nine sacrifices.<ref name="tg-01-house-of-blades-c10">''House of Blades'', chapter 10</ref>}}</li>
+</ul></div>
+
+== The Crimson Vault ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-02-crimson-vault|[[Nine]] citizens are sacrificed every year.<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Events]]
+[[Category:House of Blades]]
+[[Category:The Crimson Vault]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate events]]

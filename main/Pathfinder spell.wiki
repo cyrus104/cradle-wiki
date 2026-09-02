@@ -1,0 +1,21 @@
+{{Expand}}
+
+{{Infobox spell
+| name = pathfinder spell
+| introduced = [[The Captain (novel)|The Captain]]
+}}
+
+== The Captain ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|[[Varic Vallenar]] uses a [[pathfinder spell]] that makes a road glow white.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Spells]]
+[[Category:The Captain]]
+[[Category:The Last Horizon]]

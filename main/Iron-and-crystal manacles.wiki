@@ -1,0 +1,23 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = iron-and-crystal manacles
+| introduced = [[Dreadgod (novel)|Dreadgod]]
+}}
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Gadrael]] provided [[iron-and-crystal manacles]] that can tether entire worlds.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The iron-and-crystal manacles{{!}}manacles are crystal-and-Iron{{!}}iron and their restriction is symbolic and conceptual rather than physical.<ref name="cradle-11-dreadgod-c1" />}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Dreadgod]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

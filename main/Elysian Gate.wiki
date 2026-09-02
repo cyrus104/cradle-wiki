@@ -1,6 +1,6 @@
 {{Infobox technique
 | name = Elysian Gate
-| introduced = The Crimson Vault
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 == The Crimson Vault ==
@@ -12,7 +12,7 @@
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|A red Gate could potentially be an [[Elysian Gate]].<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|A [[red Gate]] could potentially be an [[Elysian Gate]].<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Elysian Gate]] is filled with thousands of waving, flailing branches.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
 </ul></div>
 

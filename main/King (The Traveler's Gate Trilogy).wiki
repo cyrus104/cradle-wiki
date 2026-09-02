@@ -2,12 +2,19 @@
 | name = King (The Traveler's Gate Trilogy)
 | abilities = {{spoiler|book=tg-03-city-of-light|seal Dragon's Fangs in the Vault}}
 | titles = {{spoiler|book=tg-01-house-of-blades|King}}
+| residence = {{spoiler|book=tg-03-city-of-light|the Vault}}
 | appears_in = Traveler's Gate
 | introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|[[Zakareth]] is the ruler of [[Damasca]] and a [[Traveler]] originating from Ragnarus. His lineage is significant, as only those of his bloodline possess the ability to open the Gate leading to his territory. Historically, the first [[King of Damasca]] utilized his [[Traveler]] abilities to secure the realm by sealing away a dangerous force. [[Zakareth]] has undergone a physical transformation through [[Incarnation]], resulting in skin marked with gold and [[ruby]] patterns, hair containing red or gold strands, a staff topped with a [[ruby]], and one eye replaced by a crimson fireball. In this state, he commands the [[Incarnations]] and seeks to bring [[Enosh]] under his control. Despite facing numerous opponents, including highly trained [[Travelers]] and [[Grandmasters]], he remains confident in his eventual return. His reign has been marked by personal turmoil, including the betrayal of his son and a daughter who was unprepared for her royal responsibilities.}}
+{{spoiler|book=tg-03-city-of-light|[[Zakareth]] is the [[King of Damasca]] and a [[Traveler of Ragnarus]]. His lineage holds the unique ability to open the Gate to his territory, though access requires more than just being a [[blood]] descendant. Historically, the first ruler of [[Damasca]] used his [[Traveler]] abilities to seal away a dangerous force to protect the kingdom. [[Zakareth]] is a figure of significant power, capable of commanding [[Incarnations]] and wielding weapons such as a [[ruby]]-topped staff and a spear. His physical appearance has undergone dramatic changes due to [[Incarnation]], resulting in skin patterned with gold and [[ruby]], a [[stone]] eye replaced by a crimson fireball, and hair containing red or gold strands. He wears black armor accented with gold and rubies. [[Zakareth]] is a determined leader who seeks to bring [[Enosh]] under his control and has faced betrayal from his own son and a daughter who was unprepared for her royal role. Despite facing defeat, he maintains confidence in his eventual return.}}
+
+== Personality ==
+{{spoiler|book=tg-03-city-of-light|The King is a figure who issues orders to his men and maintains an interest in receiving news from [[Kai]]. He has been subject to distractions caused by [[Zakareth]].}}
+
+== Abilities ==
+{{spoiler|book=tg-03-city-of-light|The King possesses the power to seal Dragon's Fang{{!}}Dragon's Fangs within the Vault.}}
 
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -26,7 +33,7 @@
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|The King has the ability to seal Dragon's Fangs in the [[Vault]].<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The King has the ability to seal Dragon's Fang{{!}}Dragon's Fangs in the Vault.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -40,5 +47,3 @@
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate characters]]
-[[Category:Titled characters]]
-[[Category:Travelers]]

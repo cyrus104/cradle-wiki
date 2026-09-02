@@ -2,13 +2,13 @@
 
 {{Infobox artifact
 | name = Valin's bow
-| introduced = City of Light
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|[[Valin's bow]] can shoot arrows made of pure white light.<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Valin's bow]] can shoot arrows made of pure [[white light]].<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Notes ==

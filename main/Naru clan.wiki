@@ -1,23 +1,20 @@
 {{Infobox group
 | name = Naru clan
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[Naru clan Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-07-uncrowned|The [[Naru]] clan is the ruling family of the [[Blackflame Empire]], having ascended to power approximately fifty years ago following the decline of the original [[Blackflame]] lineage. Known for their reputation of loyalty, they serve as the public face of the [[Empire]]. Members of the clan are physically distinguished by their [[emerald]]-colored wings, which are associated with their specific [[Path]] known as the [[Path of Grasping Sky]]. These wings serve as a mark of their status, and imperial etiquette dictates specific protocols for how they move through doorways and interact with others based on rank. The clan is structured under a hierarchy of leadership, including [[the Emperor]]—who also serves as the Patriarch—and various Underlords. The current ruler is [[Emperor Naru Huan]], who succeeded his mother. The clan functions as a vassal faction under the [[Akura clan]] and maintains various roles within the [[Empire]], including acting as adjudicators and overseeing military defenses. In their training traditions, the [[Naru]] focus on developing disciples in teams rather than individuals, sometimes utilizing the [[Blackflame Trials]] for this purpose.}}
+{{spoiler|book=cradle-07-uncrowned|The [[Naru]] clan is a prominent family that serves as the ruling Authority{{!}}authority of the [[Blackflame Empire]]. They ascended to power approximately fifty years ago following the decline of the original [[Blackflame family]]. Known for their reputation of loyalty, they have become the public face of The Empire{{!}}the Empire and are easily identified by their emerald-colored wings, which are a characteristic of their [[Path of Grasping Sky]]. Members of the clan possess various physical traits, including green eyes, tails, and horns. The clan is led by the Emperor, currently [[Naru Huan]], who holds the titles of Jai Patriarch{{!}}Patriarch and Overlord. The imperial lineage includes the Emperor's mother, a former empress who has since entered seclusion, and his sister, [[Naru Saeya]]. The clan's hierarchy includes Underlord{{!}}Underlords, such as [[Naru Gwei]], who serve in high-ranking administrative and military capacities. The [[Naru]] also maintain a system of disciples, often training them in teams, and utilize the [[Blackflame Trials]] for instruction. While they act as the primary administrators of The Empire{{!}}the Empire, they also serve as a vassal faction to the [[Akura clan]].}}
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|As an imperial clan, the [[Naru]] serve as the traditional servants of the [[Blackflame family]] and act as the public face of the [[Blackflame Empire]]. Recognized for their loyalty, members of this group are distinguished by their shining [[emerald]] wings. While the clan is noted in the accounts of [[Cassias]], they maintain strict control over their traditions by only permitting a small number of disciples to undergo the [[Blackflame Trials]] each year.}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Naru clan]] are the traditional servants of the [[Blackflame family]] and became the face of the [[Blackflame Empire]].<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|The [[Naru clan]] has shining [[emerald]] wings and a loyal reputation.<ref name="cradle-03-blackflame-c1" />}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|The [[Naru clan]] is a group mentioned by [[Cassias]].<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Naru clan]] has shining emerald wings and a loyal reputation.<ref name="cradle-03-blackflame-c1" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Naru clan]] is a group mentioned by Naru Cassias Arelius{{!}}Cassias.<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Naru clan]] only permits a handful of disciples to use the [[Blackflame Trials]] each year.<ref name="cradle-03-blackflame-c16">''Blackflame'', chapter 16</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|The [[Naru]] is an imperial clan.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
 </ul></div>
 
 == Skysworn ==
@@ -29,13 +26,13 @@
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|[[Naru Huan]] is the Patriarch of the [[Naru clan]].<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Naru Huan]] is the Jai Patriarch{{!}}Patriarch of the [[Naru clan]].<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|The [[Naru clan]] has a headquarters on a hilltop near a shadowy portal.<ref name="cradle-06-underlord-c11">''Underlord'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|The [[Naru clan]] has a headquarters on a hilltop near a shadowy [[portal]].<ref name="cradle-06-underlord-c11">''Underlord'', chapter 11</ref>}}</li>
 </ul></div>
 
 == Uncrowned ==

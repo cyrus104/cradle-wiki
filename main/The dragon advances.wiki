@@ -2,13 +2,13 @@
 
 {{Infobox event
 | name = The dragon advances
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|[[Naian]]'s last words were '[[The dragon advances]].'<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|Naian Blackflame{{!}}Naian's last words were '[[The dragon advances]].'<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
 </ul></div>
 
 == Notes ==

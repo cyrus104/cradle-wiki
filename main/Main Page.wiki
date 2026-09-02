@@ -16,11 +16,20 @@ __NOTOC__
 <div class="wv-cols">
 <div>
 
+== Featured article ==
+{{Featured article}}
+
 == Set your spoiler level ==
 '''This wiki will not spoil you.''' Use the spoiler strip at the top of any article to set how
 far you've read '''in each series independently'''. Every fact is tagged with the book that
 reveals it; anything past your progress stays hidden — including infobox rows and category
-labels. See [[Project:About]].
+labels. See Project:About.
+
+== New here? ==
+* '''Set your spoiler level first''' — the strip at the top of every page. Pick the last book you finished in each series; anything past it stays hidden.
+* '''Start from a book''' — [[Unsouled (novel)|Cradle]] · [[House of Blades (novel)|The Traveler's Gate]] · [[Of Sea and Shadow (novel)|The Elder Empire]] · [[The Captain (novel)|The Last Horizon]]. Every book page is a hub into its characters, places and magic.
+* '''Check the source''' — open ''Sourced facts'' under any paragraph, or follow a chapter footnote, to see exactly where in the books a fact comes from.
+* '''Ask the Books''' (sidebar) searches the text itself when the wiki doesn't have the answer yet.
 
 == Every fact is grounded ==
 Seeded from the books themselves: each fact's supporting quote is verified '''verbatim''' in the
@@ -32,10 +41,16 @@ human edits.
 
 == Explore ==
 * '''Magic systems:''' [[Sacred Arts]] · [[Reading and the Soulbound]] · [[Traveling and the Territories]] · [[Spellcraft]]
-* '''Browse:''' [[:Category:Characters|Characters]] · [[:Category:Locations|Locations]] · [[:Category:Groups|Groups]] · [[:Category:Lifeforms|Lifeforms]] · [[:Category:Culture|Culture]] · [[:Category:Timelines|Timelines]]
-* '''By calling:''' [[:Category:Magic users|Magic users]] · [[:Category:Professions|Professions]] · [[:Category:Viewpoint characters|Viewpoint characters]]
+* '''Browse:''' Characters · Locations · Groups · Lifeforms · Culture · Timelines
+* '''By calling:''' Magic users · Professions · Viewpoint characters
 * '''[[Willverse books]]''' — every book & reading order
-* '''[[:Category:Content|The full category tree]]'''
+* '''The full category tree'''
+
+== Want to help? ==
+* '''Edit any page.''' The pipeline seeds articles from the books; it never overwrites a human edit.
+* '''Found a gap?''' In ''Ask the Books'', select the passages the wiki is missing and '''Propose''' them — approved proposals become sourced facts on the page.
+* '''House rules:''' original prose, quotes verbatim from the books, and every reveal wrapped in the [[Template:Spoiler|spoiler template]] so it gates by book. Details in Project:About.
+* '''Report a problem''' on the [https://github.com/cyrus104/cradle-wiki/issues wiki's issue tracker].
 </div>
 </div>
 

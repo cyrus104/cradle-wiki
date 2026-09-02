@@ -1,12 +1,12 @@
 {{Infobox location
 | name = Vesper
-| introduced = Dreadgod
+| introduced = [[Dreadgod (novel)|Dreadgod]]
 }}
 
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Vesper]] is a planet floating beneath [[Suriel]] and [[Ozriel]].<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Vesper]] is a planet floating beneath Judge Suriel{{!}}Suriel and Ozriel.<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
 </ul></div>
 
 == Waybound ==
@@ -14,7 +14,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Vesper]] is a central planet.<ref name="cradle-12-waybound-c1">''Waybound'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Daruman]] is expected to emerge from [[Vesper]] victorious.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Vesper]] is an [[Iteration]] surrounded by [[the Mad King]]'s working.<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Vesper]] is an [[Iteration]] surrounded by The Mad King{{!}}the Mad King's working.<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -27,4 +27,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Otherworldly locations]]

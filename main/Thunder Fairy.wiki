@@ -6,25 +6,31 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|The Thunder Fairy is the colloquial nickname for [[Yushi]], a [[Herald]] who follows the lightning [[Path]]. Although she dislikes the title and is the subject of children's rhymes, she serves as a primary companion and right hand to [[Reigan Shen]]. In combat, [[Yushi]] utilizes storm [[madra]] and can manifest lightning from a spark on her forehead. She is an experienced combatant capable of engaging other [[Heralds]], though she can be weakened by intense fighting. Her presence is associated with the sound of thunder and lightning, and she possesses a [[Remnant]] spirit that speaks with a voice resembling wind and snapping electricity.}}
+{{spoiler|book=cradle-12-waybound|The Thunder Fairy is the colloquial title for [[Yushi]], a [[Herald]] who follows a lightning [[Path]]. She serves as a close companion and right hand to [[Reigan Shen]]. In combat, she utilizes Storm madra{{!}}storm madra and possesses a delicate [[sword]] that crackles with energy, alongside wings composed of lightning. Despite the melodic quality of her laughter, she is a formidable fighter who has engaged in intense battles against opponents like [[Yerin]]. Although the name is associated with children's rhymes, [[Yushi]] herself harbors a dislike for the moniker. Her power is significant enough that her [[scales]] are noted as a potential source of [[lightning madra]].}}
+
+== Appearance ==
+{{spoiler|book=cradle-12-waybound|The Thunder Fairy possesses a voice that sounds like rushing [[wind]] and snapping lightning. This entity is also known as [[Yushi]].}}
+
+== Abilities ==
+{{spoiler|book=cradle-12-waybound|This [[Remnant]] serves as a source of [[lightning madra]] [[scales]]. During a confrontation, [[Yerin]] was able to devour power from the Thunder Fairy.}}
 
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Thunder Fairy]] is a source of lightning madra scales.<ref name="cradle-08-wintersteel-c15">''Wintersteel'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Thunder Fairy]] is a source of [[lightning madra]] [[scales]].<ref name="cradle-08-wintersteel-c15">''Wintersteel'', chapter 15</ref>}}</li>
 </ul></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The Thunder Fairy, who is known as [[Yushi]], is a [[Remnant]] whose voice sounds like rushing wind and snapping lightning. Following a confrontation with [[Yerin]], the entity's spirit was left in a weakened state. During this period, [[Mercy]] targeted the Thunder Fairy with arrows. Ultimately, [[Yerin]] devoured power directly from the Thunder Fairy.}}
+{{spoiler|book=cradle-12-waybound|The Thunder Fairy, who is known as [[Yushi]], is a [[Remnant]] whose voice carries the sound of rushing [[wind]] and snapping lightning. Following a confrontation with [[Yerin]], the entity's [[spirit]] was left in a weakened state. During this time, [[Mercy]] targeted the Thunder Fairy with arrows. Ultimately, [[Yerin]] devoured power directly from the Thunder Fairy.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Thunder Fairy]] is [[Yushi]].<ref name="cradle-12-waybound-c13">''Waybound'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Thunder Fairy]]'s spirit was weak following a fight with [[Yerin]].<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Thunder Fairy]]'s [[spirit]] was weak following a fight with [[Yerin]].<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Mercy]] sent arrows at the [[Thunder Fairy]].<ref name="cradle-12-waybound-c15">''Waybound'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Yerin]] devoured power from the [[Thunder Fairy]].<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Thunder Fairy]] is a [[Remnant]].<ref name="cradle-12-waybound-c18" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Thunder Fairy]]'s voice is like snapping lightning and rushing wind.<ref name="cradle-12-waybound-c18" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Thunder Fairy]]'s voice is like snapping lightning and rushing [[wind]].<ref name="cradle-12-waybound-c18" />}}</li>
 </ul></div>
 
 == Notes ==
@@ -37,4 +43,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Titled characters]]

@@ -1,0 +1,33 @@
+{{Infobox construct
+| name = hunger arm
+| introduced = [[Uncrowned (novel)|Uncrowned]]
+}}
+
+== Overview ==
+{{spoiler|book=cradle-10-reaper|The [[hunger]] arm is a specialized limb belonging to [[Lindon]] that utilizes [[hunger madra]]. This specific type of energy is characterized by an insatiable, greedy need to consume and can be used to catch and release power. While the arm is capable of absorbing the complete strength of a [[Remnant]] with minimal loss, [[Lindon]] currently lacks the necessary [[technique]] to process and regulate the energy once it is inside his body. The [[hunger madra]] associated with this arm is part of a broader, highly dangerous phenomenon; historically, [[hunger aura]] was a corrupting force that weakened all other forms of energy and affected everything from humans to [[sacred beasts]]. While [[hunger madra]] can provide an unconventional path for rapid [[advancement]], it often limits how far a user can progress and carries significant risks.}}
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] absorbed an attack into his [[hunger arm]].<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] has a [[hunger arm]].<ref name="cradle-08-wintersteel-c23">''Wintersteel'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] has a [[hunger arm]] with a [[binding]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]]'s [[hunger arm]] is now mobile.<ref name="cradle-10-reaper-c9">''Reaper'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]]'s [[hunger arm]] crumbles completely.<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] has a broken [[hunger arm]].<ref name="cradle-10-reaper-c23" />}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Constructs]]
+[[Category:Wintersteel]]
+[[Category:Reaper]]
+[[Category:Cradle]]

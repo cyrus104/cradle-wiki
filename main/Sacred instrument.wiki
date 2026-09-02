@@ -1,4 +1,34 @@
-#REDIRECT [[sacred instrument]]
+{{Infobox artifact
+| name = sacred instrument
+| introduced = [[Underlord (novel)|Underlord]]
+}}
+
+== Underlord ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-06-underlord|The bone-hafted axe is an [[Underlord]]-level [[sacred instrument]].<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|sacred instrument{{!}}Sacred instruments include weapons and [[Skysworn armor]].<ref name="cradle-06-underlord-c15">''Underlord'', chapter 15</ref>}}</li>
+</ul></div>
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|Participants can select one [[sacred instrument]] from the [[Archlord prize vaults]].<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
+</ul></div>
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|A ribbon of [[liquid steel]] is a [[sacred instrument]] of concealment and banishment.<ref name="cradle-09-bloodline-c4">''Bloodline'', chapter 4</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-07-uncrowned|“In the morning, you will be led to the Archlord prize vaults, from which you will select one sacred instrument of your choosing.<ref name="cradle-07-uncrowned-c15" />}}
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Artifacts]]
 [[Category:Underlord]]

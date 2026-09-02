@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = ice dagger
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
+}}
+
+== City of Light ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-03-city-of-light|The winter garden contains an [[ice dagger]] that helps ignore pain and discomfort.<ref name="tg-03-city-of-light-c3">''City of Light'', chapter 3</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Artifacts]]
+[[Category:City of Light]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate artifacts]]

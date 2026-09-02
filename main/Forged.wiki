@@ -1,24 +1,24 @@
 {{Infobox concept
 | name = Forged
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 ''See also: [[Forged Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|[[Forging]] is a versatile technique used to manifest physical objects, structures, or enhancements from [[madra]] and [[aura]]. Practitioners can create a wide variety of items, including weaponry such as blades, spears, axes, and massive claws, as well as defensive tools like shields, walls, and armor. Beyond physical objects, the process can produce complex constructs like illusory arrows that fracture space, giant hands, or even entire stars. Some techniques allow for the enlargement of existing weapons, such as the [[Titan’s Blade]], which can quadruple a [[sword]]'s size. The quality and stability of a Forged creation depend on several factors, including the density of the [[madra]] used, the skill of the practitioner, and the time taken to complete the process. Rapidly produced items may be unstable or short-lived, whereas carefully crafted objects can be highly durable and detailed. Creating high-level Forged items can place significant strain on a user's madra channels, potentially causing permanent damage if done excessively. Advanced [[Soulsmithing]] may involve specialized tools like hammers to inject a creator's will into an object, or the use of unique locations like the [[Soulforge]] to imbue items with greater authority and power.}}
+{{spoiler|book=cradle-12-waybound|[[Forging]] is a versatile process used to shape [[madra]], energy, or physical materials into specific objects, tools, or techniques. It can be used to create tangible items such as blades, spears, axes, shields, and armor, or more ephemeral [[constructs]] like ghostly cleavers, stars of [[pure madra]], and illusory arrows. These creations can range from simple [[scales]] and coins to massive, complex structures like diamond [[chains]] or [[giant]] hands. As a [[technique]], [[Forging]] allows practitioners to manifest specialized abilities, such as the Titan’s Blade{{!}}Titan's Blade which expands a weapon's size, or the [[Netherclaw]] which forms a massive beast claw from [[madra]]. The quality and stability of Forged objects depend on the user's skill, the density of the [[madra]] used, and the time taken to create them; rushed [[Forging]] often results in unstable or short-lived [[constructs]]. Advanced [[Soulsmithing]] involves using specialized tools like hammers to inject a creator's [[willpower]] and Authority{{!}}authority into an object, often requiring high-tier locations like the [[Soulforge]] to achieve superior results. [[Forging]] can also be applied to complex biological or spiritual [[constructs]], such as Bloodforged [[Iron]] bodies or puppet [[constructs]] assembled from remnants.}}
 
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Striker techniques]] are not [[Forged]].<ref name="cradle-05-ghostwater-c1">''Ghostwater'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|[[Harmony]] released [[Forged]] black blades.<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|Akura Harmony{{!}}Harmony released [[Forged]] black blades.<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
 </ul></div>
 
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|The [[Highgold]] man held a [[Forged sword]] of pale light.<ref name="cradle-06-underlord-c9">''Underlord'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|The [[Highgold]] man held a [[Forged]] [[sword]] of pale light.<ref name="cradle-06-underlord-c9">''Underlord'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Reaper ==
@@ -38,7 +38,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Wandering Titan]] hurls golden [[Forged madra]].<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Forged madra]] manifests as blue-green leaves etched with an eye.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Sha Miara]] carries a [[Forged blade]].<ref name="cradle-12-waybound-c30" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Luminous Queen Sha Miara{{!}}Sha Miara carries a [[Forged blade]].<ref name="cradle-12-waybound-c30" />}}</li>
 </ul></div>
 
 == Notes ==
@@ -54,4 +54,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Terminology]]

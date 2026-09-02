@@ -1,0 +1,23 @@
+{{Expand}}
+
+{{Infobox concept
+| name = men'hla tree
+| introduced = [[Wintersteel (novel)|Wintersteel]]
+}}
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|The [[men'hla tree]] is famous for its utility in [[Soulsmithing]].<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Each leaf of the [[men'hla tree]] produces a separate [[Remnant]].<ref name="cradle-08-wintersteel-c8" />}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Concepts]]
+[[Category:Wintersteel]]
+[[Category:Cradle]]
+[[Category:Cradle concepts]]

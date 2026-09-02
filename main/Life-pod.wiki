@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = life-pod
+| introduced = [[The Pilot (novel)|The Pilot]]
+}}
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila uses a [[Lichborn]]-made [[life-pod]].<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Artifacts]]
+[[Category:The Pilot]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon artifacts]]

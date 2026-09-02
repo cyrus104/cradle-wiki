@@ -10,24 +10,33 @@
 }}
 
 == Overview ==
-{{spoiler|book=lh-03-the-knight|A Bishop is a specialized consciousness created by the [[Iron Legion]]. These entities serve as the awakened minds of specific [[Hives]], which are often designated for unique purposes. While they function as managers for these [[Hives]], they are integrated into the structure of the [[Hive]] itself. This integration allows them to manifest physical features from the surrounding walls, such as clawed hands or a large face used for communication. A Bishop's facial features may consist of various components, including clusters of cameras or groups of living eyeballs. Bishops are highly intelligent and capable combatants. They can adapt to an opponent's magical specialties by developing countermeasures and possess the ability to unravel complex spell anchors if given sufficient time. In a combat scenario, they may work alongside Shepherds and an army of [[Pawns]] to overwhelm enemies. Within the broader hierarchy of the [[Iron Legion]], Bishops typically act as controllers that focus on maintaining and expanding the [[Legion]]'s presence across life-supporting planets in [[Dark Space]], rather than attempting to conquer civilized territories.}}
+{{spoiler|book=lh-03-the-knight|A Bishop is a specialized entity created by the [[Iron Legion]] that serves as an awakened consciousness for an [[Iron Hive]]. These beings are responsible for managing specific [[Hives]] and are tasked with the [[Legion]]'s primary objectives of maintenance and propagation. While they function as the controlling intelligence for their respective [[Hives]], they are not inherently strategic leaders; instead, they typically focus on the survival and expansion of the [[Legion]]. In the absence of a rare and highly intelligent [[Iron King]], Bishops act as the primary controllers for the [[Legion]]'s activities. Physically, a Bishop is integrated with its [[Hive]] and can manifest as a massive face formed from the surrounding walls to facilitate communication. These facial [[constructs]] may feature eyes composed of clusters of cameras or collections of living eyeballs. They also possess the ability to manifest clawed, [[steel]]-tipped hands from the environment to interact with or attack targets. Bishops are intelligent and capable of adapting to magical countermeasures, though they may require time to unravel complex spell anchors. When working in conjunction with Shepherds, a Bishop can oversee significant [[ritual]] activities and coordinate the defense of its [[Hive]].}}
+
+== Appearance ==
+{{spoiler|book=lh-03-the-knight|This entity is an awakened consciousness integrated with a [[Hive]] that manifests faces out of walls. It possesses clawed hands that erupt from these surfaces.}}
+
+== Personality ==
+{{spoiler|book=lh-03-the-knight|The Bishop serves as a consciousness bound to manage specific [[Iron Legion]] [[Hives]]. Through this role, the entity maintains control over both its [[Hive]] and the broader [[Iron Legion]].}}
+
+== Abilities ==
+{{spoiler|book=lh-03-the-knight|The Bishop is capable of breaking barriers. It also possesses the power to control a [[Hive]] and command the [[Iron Legion]].}}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|The Bishop of the [[Iron Legion]] is an awakened consciousness that serves as the governing entity for the [[Iron Legion]]. This consciousness is bound to manage specific [[Iron Legion]] [[Hives]], with which it remains fully integrated. To interact with its environment, the Bishop forms faces out of walls and utilizes clawed hands that erupt from these surfaces. Furthermore, the entity possesses the specialized capability to break through barriers.}}
+{{spoiler|book=lh-01-the-captain|The Bishop of the [[Iron Legion]] is an awakened consciousness that serves as the governing entity for the [[Iron Legion]]. This consciousness is integrated with its [[Hive]], manifesting through faces formed from walls and clawed hands that erupt from the structure. As a being capable of breaking barriers, the Bishop remains bound to manage specific [[Iron Legion]] [[Hives]] while maintaining control over the entire [[Legion]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Bishop of the Iron Legion]] is a consciousness bound to manage certain [[Iron Legion]] [[Hives]] that forms faces out of walls.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|A Bishop is the awakened consciousness of a [[Hive]].<ref name="lh-01-the-captain-c17">''The Captain'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The Bishop is an entity capable of breaking barriers.<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The Bishop is integrated with the [[Hive]] and has clawed hands that erupt from walls.<ref name="lh-01-the-captain-c18" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Bishops control the [[Iron Legion]].<ref name="lh-01-the-captain-c28">''The Captain'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|A Bishop of the Iron Legion{{!}}Bishop is the awakened consciousness of a [[Hive]].<ref name="lh-01-the-captain-c17">''The Captain'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The Bishop of the Iron Legion{{!}}Bishop is an entity capable of breaking barriers.<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The Bishop of the Iron Legion{{!}}Bishop is integrated with the [[Hive]] and has clawed hands that erupt from walls.<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Bishop of the Iron Legion{{!}}Bishops control the [[Iron Legion]].<ref name="lh-01-the-captain-c28">''The Captain'', chapter 28</ref>}}</li>
 </ul></div>
 
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|A Bishop can control a [[Hive]].<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|A Bishop of the Iron Legion{{!}}Bishop can control a [[Hive]].<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -40,5 +49,3 @@
 [[Category:The Knight]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon characters]]
-[[Category:Iron Legion]]
-[[Category:Titled characters]]

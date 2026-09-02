@@ -1,0 +1,50 @@
+{{Infobox artifact
+| name = shield amulet
+| introduced = [[The Captain (novel)|The Captain]]
+}}
+
+''See also: [[shield amulet Timeline]]''
+
+== Overview ==
+{{spoiler|book=lh-04-the-pilot|A shield [[amulet]], also known as a protection [[amulet]], is a defensive magical item worn around the neck. Typically glowing orange, these amulets function by projecting an invisible sphere of protection around the user's body. This barrier becomes visible as a burst of light or a shimmering field only when it is struck by projectiles, such as bullets, plasma bolt{{!}}plasma bolts, or debris. While the [[amulet]] provides a vital layer of defense that can complement other magical protections like an enchanted mantle, it has limitations; directed attacks or powerful spells can overwhelm and crack the shield, sometimes causing the [[amulet]] to explode or deplete its energy. These items are often crafted from shield crystals, with [[fortress]] crystals being a common material used to create them. While relatively easy to find, the effectiveness of an [[amulet]] depends heavily on the quality of its material and the strength of its [[enchantment]]. Users may attempt to upgrade their amulets by improving the magic rather than replacing the crystal itself. In high-stakes combat, a shield [[amulet]] serves as an essential component of a multi-layered defense system, helping to anchor protective spells and mitigate damage from heavy physical or magical strikes.}}
+
+== The Captain ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|[[Varic Vallenar]] wears a shining orange [[shield amulet]] on his neck.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The narrator wears a [[shield amulet]] that protects them from magical fire and barrages.<ref name="lh-01-the-captain-c3" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The narrator possesses a [[shield amulet]].<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
+</ul></div>
+
+== The Engineer ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|The [[shield amulet]] has an independent power supply.<ref name="lh-02-the-engineer-c47">''The Engineer'', chapter 47</ref>}}</li>
+</ul></div>
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|The narrator's [[shield amulet]] is carved from [[shield crystal]].<ref name="lh-03-the-knight-c24">''The Knight'', chapter 24</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|The narrator uses a shield amulet{{!}}protection amulet to create cover.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The narrator is looking into upgrading their shield amulet{{!}}protection amulet.<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The narrator's shield amulet{{!}}protection amulet prevented them from being crushed by debris.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Artifacts]]
+[[Category:The Captain]]
+[[Category:The Engineer]]
+[[Category:The Knight]]
+[[Category:The Pilot]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon artifacts]]

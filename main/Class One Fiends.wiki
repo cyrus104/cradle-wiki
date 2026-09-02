@@ -2,7 +2,7 @@
 
 {{Infobox concept
 | name = Class One Fiends
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 == Uncrowned ==
@@ -14,7 +14,7 @@
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|[[Ozriel]] was uniquely able to handle [[Class One Fiends]].<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Ozriel was uniquely able to handle [[Class One Fiends]].<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -27,4 +27,3 @@
 [[Category:Reaper]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Lifeforms]]

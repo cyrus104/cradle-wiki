@@ -1,0 +1,33 @@
+{{Infobox construct
+| name = camera drone
+| introduced = [[The Captain (novel)|The Captain]]
+}}
+
+== The Captain ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|A [[camera drone]] was following Raion Raithe{{!}}Raion.<ref name="lh-01-the-captain-c27">''The Captain'', chapter 27</ref>}}</li>
+</ul></div>
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|Camera-drones are made to avoid blows from high-speed [[Visiri]] fights.<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|Camera drones hover in the air during the confrontation.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Constructs]]
+[[Category:The Captain]]
+[[Category:The Knight]]
+[[Category:The Pilot]]
+[[Category:The Last Horizon]]

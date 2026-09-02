@@ -2,13 +2,13 @@
 
 {{Infobox artifact
 | name = Aethertech box
-| introduced = The Pilot
+| introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|[[Benri]] used a colorless sigil around an [[Aethertech box]].<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Benri Vallenar{{!}}Benri used a colorless sigil around an [[Aethertech box]].<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|An [[Aethertech box]] contains the [[Iron King]].<ref name="lh-04-the-pilot-c39" />}}</li>
 </ul></div>
 

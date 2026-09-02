@@ -2,7 +2,7 @@
 
 {{Infobox location
 | name = Vault (The Last Horizon)
-| introduced = The Pilot
+| introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
 == The Pilot ==
@@ -10,9 +10,6 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|Vault claims that following her would be the easiest path.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
 </ul></div>
-
-== Notable quotes ==
-* {{spoiler|book=lh-04-the-pilot|“The easiest path would be to follow me now.”<ref name="lh-04-the-pilot-c23" />}}
 
 == Notes ==
 <references />

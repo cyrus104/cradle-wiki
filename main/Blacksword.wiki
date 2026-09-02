@@ -8,7 +8,7 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-08-wintersteel|Blacksword is a powerful combatant characterized by his use of a large, two-handed blade that appears bright red rather than black. He utilizes a [[Blood Shadow]] to augment his attacks, providing additional reach and power through lashes and beams of [[madra]] that can manifest as falling daggers. During combat, he demonstrates high mobility by running through the air using light ripples beneath his feet. His fighting style is physically demanding, and he has been known to push himself to the point of extreme spiritual strain. He was a participant in previous combat rounds, providing enough data for [[Dross]] to create a detailed model of his capabilities.}}
+{{spoiler|book=cradle-08-wintersteel|Blacksword is a powerful combatant who utilizes a large, two-handed blade that appears bright red rather than black. He is accompanied by a [[Blood Shadow]], which enhances his attacks by providing extra reach and force through lashes of energy. During combat, he demonstrates high maneuverability by using specialized footwear that creates ripples of light beneath his feet, allowing him to run through the air. His fighting style involves combining [[Striker techniques]] with beams of energy and projectiles of jagged [[Forged madra]]. In a significant confrontation, he exerted extreme strain on his [[spirit]] and soul to prepare a final volley of attacks before disappearing in a flash of [[white light]].}}
 
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -17,7 +17,7 @@
 </ul></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|As a member of [[Redmoon Hall]], Blacksword engages in combat wielding a massive, two-handed blade of bright red. He keeps this weapon sheathed within his [[Blood Shadow]] and utilizes a [[Striker technique]] during his fighting. While he is capable of running through midair by creating ripples of light beneath his feet, he finds himself running low on [[madra]] during his match. Throughout the encounter, [[Dross]] maintains a predictive model to track Blacksword's movements.}}
+{{spoiler|book=cradle-08-wintersteel|A member of [[Redmoon Hall]], Blacksword engages in combat wielding a massive, two-handed blade of bright red. He keeps his weapon sheathed within his [[Blood Shadow]] and utilizes a [[Striker technique]] during his matches. While fighting, he is able to run through the air by creating ripples of light beneath his feet. Despite these abilities, he faces challenges such as running low on [[madra]] and being countered by [[Dross]]'s predictive model.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -40,5 +40,3 @@
 [[Category:Wintersteel]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Redmoon Hall]]
-[[Category:Titled characters]]

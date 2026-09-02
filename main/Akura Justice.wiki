@@ -1,9 +1,9 @@
 {{Infobox character
 | name = Akura Justice
 | aliases = Justice
-| abilities = {{spoiler|book=cradle-04-skysworn|[[Path of the Chainkeeper]]}}{{spoiler|book=cradle-07-uncrowned|, [[Soulfire|soulfire]]}}{{spoiler|book=cradle-08-wintersteel|, [[shadow madra]]}}{{spoiler|book=cradle-11-dreadgod|, Strings of Shadow technique}}
+| abilities = {{spoiler|book=cradle-04-skysworn|[[Path of the Chainkeeper]]}}{{spoiler|book=cradle-07-uncrowned|, [[soulfire]]}}{{spoiler|book=cradle-08-wintersteel|, [[shadow madra]]}}{{spoiler|book=cradle-11-dreadgod|, Strings of Shadow technique}}
 | titles = {{spoiler|book=cradle-07-uncrowned|First Gatekeeper, [[Archlord]], First Gatekeeper of the Akura clan}}{{spoiler|book=cradle-11-dreadgod|, [[Sage of Twin Stars]]}}
-| affiliations = {{spoiler|book=cradle-04-skysworn|[[Akura clan]]}}
+| affiliations = {{spoiler|book=cradle-07-uncrowned|[[Akura clan]]}}
 | residence = {{spoiler|book=cradle-08-wintersteel|home}}
 | appears_in = Cradle
 | introduced = [[Skysworn (novel)|Skysworn]]
@@ -12,54 +12,57 @@
 ''See also: [[Akura Justice Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|[[Akura]] Justice is an [[Archlord]] and a high-ranking member of the [[Akura clan]], serving as its First [[Gatekeeper]]. An ancient figure characterized by a long white beard, he holds the responsibility of inspecting external goods brought into the presence of the head family to ensure they meet clan standards. In this capacity, he possesses the authority to recommend that individuals be imprisoned or replaced in official events, such as the [[Uncrowned King]] tournament, if they fail to meet these requirements. During his inspections, he utilizes specialized tools to evaluate a person's lifeline resilience and the capacity of their spiritual cores. As a powerful practitioner, Justice utilizes [[shadow madra]] and the [[Path of the Chainkeeper]] to execute various techniques, including the creation of [[Strings of Shadow]]. He has acted as a mentor to [[Akura Malice]] and serves as a representative for the clan's [[Monarch]] when interacting with other high-level entities like the [[Sages]]. Beyond his administrative and gatekeeping duties, he has participated in combat, defending portals and engaging in battles against significant threats. Despite his formidable status, he has also demonstrated moments of personal vulnerability and professional stress regarding the shifting currents of [[fate]].}}
+{{spoiler|book=cradle-12-waybound|Akura clan{{!}}Akura Justice is an [[Archlord]] and a high-ranking member of the [[Akura clan]], serving as its First [[Gatekeeper]]. In this role, he is responsible for inspecting external goods brought into the presence of the head family to ensure they meet clan standards. An ancient figure with a long white beard, he has held his position since before [[Akura Charity]] was born and previously served as a mentor to [[Akura Malice]]. As one of only three Archlord{{!}}Archlords in the clan, he possesses significant power, including the ability to manipulate [[aura]] using [[soulfire]] and utilize [[shadow madra]] through the [[Path of the Chainkeeper]]. Justice has played various roles within the clan, from inspecting potential [[tournament]] representatives to defending portals and providing tactical support during battles. He has demonstrated the ability to use techniques like [[Strings of Shadow]] to reinforce others or engage in combat. Despite his authoritative and sometimes stern demeanor, he has shown concern for the clan's reputation and the safety of its members, occasionally acting as a guide or representative during official diplomatic encounters.}}
 
-== Skysworn ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|[[Akura Justice]] is a representative of the [[Akura clan]] and possesses the [[Goldsign]] from the [[Path of the Chainkeeper]].<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}</li>
-</ul></div>
+== Appearance ==
+{{spoiler|book=cradle-12-waybound|Akura clan{{!}}Akura Justice is an ancient man characterized by a long beard. He can be seen wearing black gloves.}}
 
-== Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|As an [[Archlord]] and the First [[Gatekeeper]] of the [[Akura clan]], [[Akura]] Justice serves as a distant cousin to [[Akura Charity]]. During evaluations, Justice utilizes [[soulfire]] to manipulate [[aura]] and employs a specialized device to measure lifelines, where the color of the emitted light indicates an individual's age. To further assess candidates, Justice conducts tests regarding [[madra]] stability, recovery rate, and density. Additionally, a thorn-covered cap is used by Justice to evaluate spiritual perception.}}
+== Personality ==
+{{spoiler|book=cradle-12-waybound|As the First [[Gatekeeper]] of the [[Akura clan]], Justice serves as a subordinate to the clan and acted as a mentor to [[Charity]] during her childhood. He is an [[Archlord]] who once defended a [[fortress]] [[portal]] by himself.}}
 
+== Abilities ==
+{{spoiler|book=cradle-12-waybound|A [[Sage of Twin Stars]], Justice utilizes [[shadow madra]] and the [[Strings of Shadow]] [[technique]]. He also employs [[soulfire]] to manipulate [[aura]] and uses specialized tools, such as a thorn-covered cap and a lifeline device, to perform various assessments.}}
+
+== History ==
+=== {{spoiler|book=cradle-07-uncrowned|First Gatekeeper}} ===
+{{spoiler|book=cradle-07-uncrowned|Akura clan{{!}}Akura Justice serves as the First [[Gatekeeper]] of the [[Akura clan]] and holds the rank of [[Archlord]].<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref> As an [[Archlord]] and a distant cousin of [[Akura Charity]], Justice utilizes [[soulfire]] to manipulate [[aura]].<ref name="cradle-07-uncrowned-c2" /> To evaluate candidates, Justice employs a device to measure lifelines where the color of the light indicates age.<ref name="cradle-07-uncrowned-c2" /> The assessment process involves testing for [[madra]] stability, recovery rate, and density, as well as using a thorn-covered cap to [[judge]] [[spiritual perception]].<ref name="cradle-07-uncrowned-c2" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|[[Akura Justice]] is the First [[Gatekeeper]] of the [[Akura clan]].<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Akura Justice]] is the First [[Gatekeeper]] of the [[Akura clan]].<ref name="cradle-07-uncrowned-c2" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Akura Justice]] is an [[Archlord]].<ref name="cradle-07-uncrowned-c2" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Akura Justice]] uses a device to measure lifelines.<ref name="cradle-07-uncrowned-c2" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|The color of the light from Justice's lifeline device indicates age.<ref name="cradle-07-uncrowned-c2" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The color of the light from Akura Justice{{!}}Justice's lifeline device indicates age.<ref name="cradle-07-uncrowned-c2" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Akura Justice]] uses [[soulfire]] to manipulate [[aura]].<ref name="cradle-07-uncrowned-c2" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Akura Justice]] performs tests for [[madra]] density, recovery rate, and stability.<ref name="cradle-07-uncrowned-c2" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[Akura Justice]] uses a thorn-covered cap to assess spiritual perception.<ref name="cradle-07-uncrowned-c2" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|Justice is an [[Archlord]] and a distant cousin of [[Akura Charity]].<ref name="cradle-07-uncrowned-c2" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Akura Justice]] uses a thorn-covered cap to assess [[spiritual perception]].<ref name="cradle-07-uncrowned-c2" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|Akura Justice{{!}}Justice is an [[Archlord]] and a distant cousin of [[Akura Charity]].<ref name="cradle-07-uncrowned-c2" />}}</li>
 </ul></div>
 
-== Wintersteel ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+=== {{spoiler|book=cradle-08-wintersteel|Search for tablets}} ===
+{{spoiler|book=cradle-08-wintersteel|Akura clan{{!}}Akura Justice was engaged in a search for the [[dream tablets]].<ref name="cradle-08-wintersteel-c23">''Wintersteel'', chapter 23</ref> An elderly man characterized by a long beard, he utilizes [[shadow madra]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref> While at the [[fortress]], Justice defended the [[portal]] by himself.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|Justice is currently at home.<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|Justice was looking for the [[dream tablets]].<ref name="cradle-08-wintersteel-c23">''Wintersteel'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Akura Justice]] is an old man with a long beard who uses [[shadow madra]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Akura Justice]] defended the portal alone on the fortress.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Akura Justice{{!}}Justice was looking for the [[dream tablets]].<ref name="cradle-08-wintersteel-c23" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Akura Justice]] is an old man with a long beard who uses [[shadow madra]].<ref name="cradle-08-wintersteel-c27" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Akura Justice]] defended the [[portal]] alone on the [[fortress]].<ref name="cradle-08-wintersteel-c28" />}}</li>
 </ul></div>
 
-== Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|As a member of the [[Akura clan]], Justice serves as a subordinate within the family hierarchy. This [[Sage of Twin Stars]] utilized the [[Strings of Shadow]] technique during their activities. Additionally, Justice was responsible for opening a hangar designed specifically to house cloud fortresses.}}
-
+=== {{spoiler|book=cradle-11-dreadgod|Sage of Twin Stars}} ===
+{{spoiler|book=cradle-11-dreadgod|Akura clan{{!}}Akura Justice utilized the [[Strings of Shadow]] [[technique]] during combat.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref> As a member of the [[Akura clan]], Justice serves as a subordinate and holds the rank of [[Sage of Twin Stars]].<ref name="cradle-11-dreadgod-c8">''Dreadgod'', chapter 8</ref> Additionally, Justice opened a hangar designed specifically for cloud fortresses.<ref name="cradle-11-dreadgod-c8" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Akura Justice]] used the [[Strings of Shadow]] technique.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Akura Justice]] is a [[Sage of Twin Stars]].<ref name="cradle-11-dreadgod-c8">''Dreadgod'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Akura Justice]] used the [[Strings of Shadow]] [[technique]].<ref name="cradle-11-dreadgod-c6" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Akura Justice]] is a [[Sage of Twin Stars]].<ref name="cradle-11-dreadgod-c8" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Akura Justice]] is a subordinate of the [[Akura clan]].<ref name="cradle-11-dreadgod-c8" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|Justice is an [[Akura]].<ref name="cradle-11-dreadgod-c8" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|Justice opened a hangar specifically for cloud fortresses.<ref name="cradle-11-dreadgod-c8" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Akura Justice{{!}}Justice is an Akura clan{{!}}Akura.<ref name="cradle-11-dreadgod-c8" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Akura Justice{{!}}Justice opened a hangar specifically for cloud fortresses.<ref name="cradle-11-dreadgod-c8" />}}</li>
 </ul></div>
 
-== Waybound ==
+=== {{spoiler|book=cradle-12-waybound|Mentor to Charity}} ===
+{{spoiler|book=cradle-12-waybound|Akura clan{{!}}Akura Justice is an ancient figure who served as a mentor to [[Charity]] during the girl's youth.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref> This individual is known to wear black gloves.<ref name="cradle-12-waybound-c10" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Akura Justice]] is an ancient figure who mentored [[Charity]] when she was a girl.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Akura Justice]] is an ancient figure who mentored [[Charity]] when she was a girl.<ref name="cradle-12-waybound-c10" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Akura Justice]] wears black gloves.<ref name="cradle-12-waybound-c10" />}}</li>
 </ul></div>
 
@@ -72,11 +75,9 @@
 {{Cradle nav}}
 
 [[Category:Characters]]
-[[Category:Skysworn]]
 [[Category:Uncrowned]]
 [[Category:Wintersteel]]
 [[Category:Dreadgod]]
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Akura clan]]

@@ -1,15 +1,15 @@
 {{Infobox concept
 | name = Silver Light
-| introduced = City of Light
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
 ''See also: [[Silver Light Timeline]]''
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|The [[Silver]] [[Light]] is a mental power or artifact that functions by enhancing the user's intellect and perception. While [[Elysian]] lore describes it as a gift of wisdom for those with great insight, the user [[Alin]] experiences it more as an inescapable internal voice that often conveys feelings of guilt or accusation. Visually, the power manifests to [[Alin]] as shimmering metallic dust that can make human bodies appear translucent, allowing him to see internal structures like bones, nerves, and marrow. He can also direct the light in broad sweeps to scan environments for specific sensations like pain or panic, though this method is less precise than focused observation. The ability appears to be a [[Silver]]-class artifact that, when paired with [[Red Light]], serves to augment the mind. Beyond its sensory capabilities, the [[Silver]] [[Light]] possesses a sentient quality, communicating with [[Alin]] through whispers and internal observations.}}
+{{spoiler|book=tg-03-city-of-light|The [[Silver]] [[Light]] is a mental power and artifact that enhances an individual's intellect, allowing them to perceive minute details and reconstruct truths. In [[Elysian]] lore, it is regarded as a gift of wisdom for those with exceptional insight; however, the user [[Alin]] experiences it more as an internal voice characterized by guilt and accusation. Visually, when utilized, the power manifests as shimmering metallic particles that can make a human body appear translucent, revealing internal structures like bones, nerves, and marrow. [[Alin]] can direct this energy in broad sweeps to scan environments for specific sensations like pain or panic, though it is most precise when focused on a single target. The [[Silver]] [[Light]] possesses its own consciousness, communicating through whispers and mental presence to offer commentary or observations regarding [[Alin]]'s motivations and surroundings. It is understood to be a [[Silver artifact]] that, when paired with [[Red Light]], serves to augment the mind.}}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|In [[Elysian]] legend and tradition, the [[Silver]] [[Light]] is a power of wisdom that allows a user to see through skin and into the marrow of a human body. [[Alin]] possesses this power, which he can call upon to search the city or command to spread throughout its streets. While it can function as a screen or provide protection through a bond, the [[Silver]] [[Light]] is also a whispering voice that radiates sadness. During his journey, the entity warns [[Alin]] of people scrambling from the [[Naraka Gate]] and alerts him to something below. Finally, the [[Silver]] [[Light]] points out that the death of [[Zakareth]] does not signify that things were good.}}
+{{spoiler|book=tg-03-city-of-light|In [[Elysian]] legend and tradition, the [[Silver]] [[Light]] is a power of wisdom that allows a user to see through skin and into the marrow of a human body. [[Alin]] possesses this power, which he can call upon to search the city or command to spread throughout its streets. While it can function as a screen or provide protection through a bond, the [[Silver]] [[Light]] is also a whispering voice that radiates sadness. During his journey, the entity warned [[Alin]] of people scrambling from the [[Naraka Gate]] and alerted him to something below. Finally, the [[Silver]] [[Light]] pointed out that killing [[Zakareth]] did not mean things were good.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -29,9 +29,6 @@
 <li>{{spoiler|book=tg-03-city-of-light|[[Alin]] has [[Silver Light]].<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Silver Light]] points out that killing [[Zakareth]] does not mean things were good.<ref name="tg-03-city-of-light-c27" />}}</li>
 </ul></div>
-
-== Notable quotes ==
-* {{spoiler|book=tg-03-city-of-light|"Silver Light spun at his command, flashing into every window, through every cracked door."<ref name="tg-03-city-of-light-c10" />}}
 
 == Notes ==
 <references />

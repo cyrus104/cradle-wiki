@@ -2,7 +2,7 @@
 
 {{Infobox technique
 | name = Path of the Chainkeeper
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 == Skysworn ==
@@ -14,7 +14,7 @@
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|The [[Path of the Chainkeeper]] involves techniques that use force and shadow.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Path of the Chainkeeper]] involves techniques that use force and Shadow{{!}}shadow.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
 </ul></div>
 
 == Notes ==

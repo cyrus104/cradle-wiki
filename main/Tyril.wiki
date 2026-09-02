@@ -9,15 +9,20 @@
 ''See also: [[Tyril Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|Tyril is one of the three [[High Councilors]] and holds the title of High [[Shepherd]]. Originally from the [[Shepherds]], he possesses a physical appearance characterized by a long, unkempt gray beard and a thin frame. In his earlier appearances, he often wore dark rags and appeared exhausted, frequently sleeping in public settings. However, he is also capable of presenting himself with great vigor and formality, wearing fine black clothing when performing official duties. As a member of the [[High Council]], he works alongside [[Kerian]] and represents the interests of the [[Consultant's Guild]]. In his political capacity, he has expressed support for any of the [[Regents]] ascending to the throne of [[Emperor (Elder Empire)|Emperor]] or [[Empress]].}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Tyril is a member of the High [[Council]] and holds the title of High Shepherd. Originally from the Shepherds, he possesses a background that suggests time spent living in the wild, characterized by a long, unkempt gray beard and a thin physical frame. In his official capacity, he has been observed wearing fine black clothing with a groomed appearance, displaying more energy than in his more casual, ragged state. As a [[High Councilor]], he works alongside others to provide support through the [[Consultant's Guild]], specifically regarding the succession of an Emperor or [[Empress]]. During political proceedings, he has expressed a desire to avoid the execution of talented individuals.}}
+
+== Appearance ==
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Tyril wears black clothing and does not have a shroud covering his face. He has been seen resting in a chair or leaning against a wall to catch his breath.}}
+
+== Abilities ==
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Tyril is a fighter who utilizes a knife in combat. He also possesses the physical strength required to drag Yala the High Mason{{!}}Yala away.}}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|As the third and final [[High Councilor]], Tyril is a figure of significant political standing. He is known to produce a blade that resembles a short [[sword]] and functions as a fighter utilizing a knife. During one instance, he was observed leaning against a wall while catching his breath. Later, he was seen napping in his chair.}}
+{{spoiler|book=ee-shadow-01-of-shadow-and-sea|As a [[High Councilor]], Tyril serves as the third and final member of his governing body. During combat, he operates as a fighter who utilizes a knife for his strikes. At one point, he was observed leaning against a wall while attempting to catch his breath. Later, he was found napping in his chair.}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tyril]] is a [[High Councilor]].<ref name="ee-shadow-01-of-shadow-and-sea-c13">''Of Shadow and Sea'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tyril]] produces a blade that resembles a short [[sword]].<ref name="ee-shadow-01-of-shadow-and-sea-c13" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tyril]] is a fighter using a knife.<ref name="ee-shadow-01-of-shadow-and-sea-c15">''Of Shadow and Sea'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tyril]] was leaning against a wall catching his breath.<ref name="ee-shadow-01-of-shadow-and-sea-c15" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Tyril]] is the third and final [[High Councilor]].<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
@@ -28,8 +33,8 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Tyril]] wore black without a shroud over his face.<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Tyril]] is the High [[Shepherd]].<ref name="ee-shadow-03-of-killers-and-kings-c21">''Of Killers and Kings'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Tyril]] physically dragged [[Yala]] off.<ref name="ee-shadow-03-of-killers-and-kings-c21" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Tyril]] is the High Shepherd.<ref name="ee-shadow-03-of-killers-and-kings-c21">''Of Killers and Kings'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Tyril]] physically dragged Yala the High Mason{{!}}Yala off.<ref name="ee-shadow-03-of-killers-and-kings-c21" />}}</li>
 </ul></div>
 
 == Notes ==
@@ -42,4 +47,3 @@
 [[Category:Of Killers and Kings]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire characters]]
-[[Category:Titled characters]]

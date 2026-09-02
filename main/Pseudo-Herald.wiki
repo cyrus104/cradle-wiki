@@ -1,0 +1,23 @@
+{{Expand}}
+
+{{Infobox concept
+| name = pseudo-Herald
+| introduced = [[Bloodline (novel)|Bloodline]]
+}}
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|[[Yerin]] is considered a [[pseudo-Herald]].<ref name="cradle-09-bloodline-c2">''Bloodline'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|A [[pseudo-Herald]] merged with [[Malice]]'s [[Blood Shadow]].<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Concepts]]
+[[Category:Bloodline]]
+[[Category:Cradle]]
+[[Category:Cradle concepts]]

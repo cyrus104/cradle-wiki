@@ -2,13 +2,13 @@
 
 {{Infobox location
 | name = Sunder
-| introduced = Threshold: Stories from Cradle
+| introduced = [[Threshold: Stories from Cradle (novel)|Threshold: Stories from Cradle]]
 }}
 
 == Threshold: Stories from Cradle ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|[[Sunder]] is an [[Iteration]] captured during the Third Battle of Sunder.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Sunder]] is an [[Iteration]] captured during the Third Battle of [[Sunder]].<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -20,4 +20,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Otherworldly locations]]

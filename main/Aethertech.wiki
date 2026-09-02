@@ -1,15 +1,15 @@
 {{Infobox concept
 | name = Aethertech
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Aethertech Timeline]]''
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|Aethertech refers to a category of highly advanced technology that utilizes the [[Aether]]. The most legendary examples are known as [[Zenith Devices]], which include the original Aethertech such as the [[Zenith]] Starship, [[The Last Horizon]]. While these ancient treasures are often considered mythical due to their rarity, they represent the pinnacle of such technology. Modern Aethertech exists in various grades and forms, ranging from mid-grade tools to masterwork items like the [[Divine Titan]] or specialized handheld cannons and ocular implants. These devices can perform extraordinary functions, such as manipulating gravity, accelerating elemental spells to near lightspeed, or providing advanced sensory data. Some Aethertech is capable of isolating structures from space or even interacting with subspace, though such interactions can be dangerous. The creation and maintenance of these technologies are tied to specific individuals known as [[Aether]] [[Technicians]]. Humans are noted for having the greatest natural talent for producing Aethertech, a legacy stemming from their role in creating [[Zenith Devices]]. In contrast, [[Karoshan Technicians]] possess the ability to use, repair, and enhance existing Aethertech through complex modifications, but they lack the innate gift to manufacture it from scratch. An [[Engineer]] is a specialized role for those with high compatibility, capable of activating internal systems, drones, and fabricators through their unique gifts.}}
+{{spoiler|book=lh-04-the-pilot|Aethertech refers to a category of advanced technology that utilizes the [[Aether]]. The most legendary examples are known as [[Zenith Devices]], which include the original Aethertech such as the The Zenith Starship{{!}}Zenith Starship, [[The Last Horizon]]. While these ancient treasures are no longer proven to exist, they represent the highest tier of technology. Modern Aethertech exists in various grades and forms, ranging from handheld cannons and specialized ocular implants to massive industrial [[fabricators]], protective shields, and complex [[suits of armor]]. Some high-level versions, like the [[Divine Titan]], are considered masterworks that approach the power of [[Zenith Devices]]. This technology can interact with or even lock out magical influences, and it often requires precise synchronization with magic to function at its peak. Aethertech is closely tied to specific individuals known as Aether Technician{{!}}Aether Technicians or Engineers. These specialists possess a unique compatibility with the technology, allowing them to power internal systems, repair devices, and manage drones. While humanity is noted for having a significant talent for creating Aethertech, other groups like the [[Karoshan]] are limited; [[Karoshan Technicians]] can modify, repair, and improve existing items but lack the innate ability to create them from scratch. The technology is highly valued, and its use can be temperamental or dangerous if not handled with expertise.}}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|Originally known as [[Zenith Devices]], Aethertech is a complex and intricate technology used for everything from creating prosthetics and [[Titans]] to powering subspace storage devices. This masterwork tech is capable of altering ships, hacking processor implants, and maintaining starship atmospheres, though its armor offers little defense against reality violations. Various individuals utilize this power, including an assassin with a molten orange cybernetic eye and the [[Iron King]], who possesses a masterwork device resembling an obsidian cage of screaming mechanical faces designed to anchor his spirit to the [[Iron Legion]]. From the enchantment of [[vault]] cells to the weapons wielded by the [[Fallen Sword]], Aethertech remains a versatile force that even defines the physical body of [[Omega]].}}
+{{spoiler|book=lh-01-the-captain|Originally known as [[Zenith Devices]], Aethertech is a complex and intricate technology used to create everything from prosthetics and cybernetic eyes to [[Titans]] and [[Subspace]] storage devices. This masterwork technology can be used to alter ships, maintain starship atmospheres, and power [[vault]] cells for [[enchantment]] and containment. While it is capable of hacking processor implants and remains resistant to standard hacking methods, [[Aethertech armor]] offers minimal protection against reality violations. Notable examples of its application include the obsidian cage device attached to the [[Iron King]]'s chest to anchor his [[spirit]], the molten orange eye of an [[assassin]], and the weapon wielded by the [[Fallen Sword]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">23</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -17,7 +17,7 @@
 <li>{{spoiler|book=lh-01-the-captain|[[Aethertech]] can be of masterwork quality.<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Aethertech]] is a technology that cannot be hacked by standard means.<ref name="lh-01-the-captain-c6" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Aethertech]] was granted to the [[Karoshan commander]] for his hunt.<ref name="lh-01-the-captain-c6" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The console at the bottom of the tunnel is likely [[Aethertech]].<ref name="lh-01-the-captain-c8">''The Captain'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[console]] at the bottom of the tunnel is likely [[Aethertech]].<ref name="lh-01-the-captain-c8">''The Captain'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Aethertech]] is a technology capable of hacking processor implants.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Aethertech]] is used to create prosthetics.<ref name="lh-01-the-captain-c10" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Aethertech]] can be used to alter a ship.<ref name="lh-01-the-captain-c11">''The Captain'', chapter 11</ref>}}</li>
@@ -26,22 +26,22 @@
 <li>{{spoiler|book=lh-01-the-captain|[[Aethertech]] components can be complex and intricate.<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Iron King]] has a masterwork [[Aethertech]] device attached to his chest.<ref name="lh-01-the-captain-c18" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[The Iron King]]'s [[Aethertech]] device resembles an obsidian cage filled with screaming mechanical faces.<ref name="lh-01-the-captain-c18" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The [[Aethertech]] device was designed to anchor the [[Iron King]]'s mind and spirit to the [[Iron Legion]].<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Aethertech]] device was designed to anchor the [[Iron King]]'s mind and [[spirit]] to the [[Iron Legion]].<ref name="lh-01-the-captain-c18" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Aethertech]] is a technology used in [[Subspace]] storage devices.<ref name="lh-01-the-captain-c20">''The Captain'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The assassin has a molten orange cybernetic eye made of [[Aethertech]].<ref name="lh-01-the-captain-c23">''The Captain'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[assassin]] has a molten orange cybernetic eye made of [[Aethertech]].<ref name="lh-01-the-captain-c23">''The Captain'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Aethertech]] is a technology used in [[Omega]]'s eye.<ref name="lh-01-the-captain-c25">''The Captain'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Aethertech]] is the technology used to create [[Titans]].<ref name="lh-01-the-captain-c33">''The Captain'', chapter 33</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The ship utilizes ancient [[Aethertech]].<ref name="lh-01-the-captain-c35">''The Captain'', chapter 35</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Aethertech armor]] provides little protection against violations of reality.<ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The [[vault]] cells utilize [[Aethertech]] for enchantment and containment.<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The [[Fallen Sword]] uses an [[Aethertech weapon]].<ref name="lh-01-the-captain-c43">''The Captain'', chapter 43</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The [[King]]'s pink-tinged flames might be produced by [[Aethertech]].<ref name="lh-01-the-captain-c46">''The Captain'', chapter 46</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[vault]] cells utilize [[Aethertech]] for [[enchantment]] and containment.<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Fallen Sword{{!}}The Fallen Sword uses an [[Aethertech weapon]].<ref name="lh-01-the-captain-c43">''The Captain'', chapter 43</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The King's pink-tinged flames might be produced by [[Aethertech]].<ref name="lh-01-the-captain-c46">''The Captain'', chapter 46</ref>}}</li>
 </ul></div>
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|Aethertech is an advanced technology characterized by an alien structure and the use of [[Aetheric symbols]] that operates on principles beyond the known world. This technology can grant special abilities through implants and modifications, as seen in the powers of [[Moonmaster]], [[Starhammer]], and [[Omega]]'s orange eye. It is utilized in various forms, ranging from [[Sola Kalter]]'s masterwork armor and visor to the engines that maintain [[Estrala]]'s atmosphere and the components of the Last [[Horizon]]. While it can interact with magic spells and even provide minor gravity manipulation in tools like [[Raion]]'s hydraulic press, its capabilities can be enhanced by [[Queen Shyrax]]'s gift. The technology is found in diverse applications, including [[Lutoch]]'s cutting-edge processor and a man-sized glass column within [[Horizon]]'s treasure [[vault]].}}
+{{spoiler|book=lh-02-the-engineer|Aethertech is an advanced technology characterized by an alien structure and the use of [[Aetheric symbols]] that operates on principles beyond the known world. This technology is used to grant special abilities through implants and modifications, such as those found in [[Moonmaster]]'s powers, [[Omega]]'s orange eye, and the source of [[Starhammer]]'s strength. It serves various functions ranging from the armor worn by [[Sola Kalter]] to the engines that maintain the metal rings containing [[Estrala]]'s atmosphere. While it can interact with magic spells and improve in performance through [[Queen Shyrax]]'s gift, the substance is also found in diverse forms like the hydraulic press in Raion Raithe{{!}}Raion and the stitched-together components of the The Last Horizon{{!}}Last Horizon. Ultimately, this technology is utilized for everything from cutting-edge processors in Lutoch Terelle{{!}}Lutoch to the advanced systems found on ships.}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">24</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">23</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Sola Kalter]]'s armor is made of [[Aethertech]].<ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Moonmaster]]'s powers come from embedded [[Aethertech]].<ref name="lh-02-the-engineer-c6">''The Engineer'', chapter 6</ref>}}</li>
@@ -51,44 +51,42 @@
 <li>{{spoiler|book=lh-02-the-engineer|[[Aethertech]] is a technology used for modifications on individuals like [[Omega]].<ref name="lh-02-the-engineer-c9">''The Engineer'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Aethertech]] is a technology characterized by an alien structure and the use of [[Aetheric symbols]].<ref name="lh-02-the-engineer-c10">''The Engineer'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Steel Avalanche]]'s lack of apparent armor was an effect of his [[Aethertech]].<ref name="lh-02-the-engineer-c11">''The Engineer'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Mell]] runs her hand over the surface of the [[Aethertech]].<ref name="lh-02-the-engineer-c11" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Sola]]'s armor is described as masterwork [[Aethertech]].<ref name="lh-02-the-engineer-c16">''The Engineer'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Mell D-One-Twenty-Five{{!}}Mell runs her hand over the surface of the [[Aethertech]].<ref name="lh-02-the-engineer-c11" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Aethertech]] is a type of gift or technology used by [[Horizon]].<ref name="lh-02-the-engineer-c19">''The Engineer'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]]'s gift can improve the performance of [[Aethertech]].<ref name="lh-02-the-engineer-c21">''The Engineer'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Aethertech]] is technology that interacts with magic spells.<ref name="lh-02-the-engineer-c27">''The Engineer'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Aethertech]] refers to advanced technology used on the ship.<ref name="lh-02-the-engineer-c29">''The Engineer'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Aethertech]] is the technology that provides [[Starhammer]] with his powers.<ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|The [[Aethertech]] in [[Raion]]'s hydraulic press has a minor gravity manipulation effect.<ref name="lh-02-the-engineer-c32">''The Engineer'', chapter 32</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Aethertech]] in Raion Raithe{{!}}Raion's hydraulic press has a minor gravity manipulation effect.<ref name="lh-02-the-engineer-c32">''The Engineer'', chapter 32</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Advanced [[Aethertech]] works on principles beyond the world.<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Sola]]'s visor contains [[Aethertech]] that can be strained.<ref name="lh-02-the-engineer-c37">''The Engineer'', chapter 37</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola's visor contains [[Aethertech]] that can be strained.<ref name="lh-02-the-engineer-c37">''The Engineer'', chapter 37</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Lichborn]]'s swords might be [[Aethertech]].<ref name="lh-02-the-engineer-c43">''The Engineer'', chapter 43</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Aethertech]] engines maintain the metal rings that contain [[Estrala]]'s atmosphere.<ref name="lh-02-the-engineer-c49">''The Engineer'', chapter 49</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Omega]] possesses an orange [[Aethertech eye]].<ref name="lh-02-the-engineer-c50">''The Engineer'', chapter 50</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Last Horizon]] contains stitched-together [[Aethertech]].<ref name="lh-02-the-engineer-c53">''The Engineer'', chapter 53</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Aethertech]] is embedded within a man-sized column of glass in [[Horizon]]'s treasure [[vault]].<ref name="lh-02-the-engineer-c55">''The Engineer'', chapter 55</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Lutoch]]'s processor is described as cutting-edge [[Aethertech]].<ref name="lh-02-the-engineer-c55" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Lutoch Terelle{{!}}Lutoch's processor is described as cutting-edge [[Aethertech]].<ref name="lh-02-the-engineer-c55" />}}</li>
 </ul></div>
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|Within the [[Galactic Union]], Aethertech serves as a category of reusable technology utilized for everything from starfighters to massive [[Titans]]. This versatile tech is integrated into physical augmentations like Kyri's shoulder, incorporated into [[Sola]]'s suit, and even found in [[Omega]]'s orange handgun. To function correctly, the technology requires precise magic casting to achieve synchronization. Notable examples include the [[Titan Forge]], which features arms crafted from Aethertech chrome, and various devices housed within [[Titans]]. While essential to advanced machinery, the technology possesses the potential to interfere with magical seals and was notably visible within the destroyed plating of the [[Red]] [[Titan]].}}
+{{spoiler|book=lh-03-the-knight|Aethertech serves as a versatile technology within the [[Galactic Union]], manifesting in reusable devices and physical augmentations such as Kyri Prest{{!}}Kyri's shoulder or Sola Kalter{{!}}Sola's suit. This technology requires precise magic casting to achieve synchronization, though it possesses the potential to interfere with magical seals. Notable examples include [[Omega]]'s orange handgun and the [[Titan Forge]], a piece of Aethertech featuring arms constructed from Aethertech chrome. Furthermore, various Aethertech devices are contained within the [[Titan]], with specific components visible among the destroyed plates of the Red Divine Titan{{!}}Red Titan.}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|[[Aethertech]] is used in physical augmentations like Kyri's shoulder.<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|[[Sola]]'s suit utilizes [[Aethertech]].<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Aethertech]] is used in physical augmentations like Kyri Prest{{!}}Kyri's shoulder.<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola's suit utilizes [[Aethertech]].<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Aethertech]] refers to reusable devices or technology within the [[Galactic Union]].<ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Titan Forge]] is a piece of [[Aethertech]].<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Aethertech]] requires precision in magic casting to sync with it.<ref name="lh-03-the-knight-c9" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Titan Forge]] has arms made of [[Aethertech]] chrome.<ref name="lh-03-the-knight-c10">''The Knight'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|[[Aethertech]] is the technology used for [[Titans]] and starfighters.<ref name="lh-03-the-knight-c20">''The Knight'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Omega]] uses an orange handgun from a [[Subspace]] pocket that is [[Aethertech]].<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Aethertech]] can potentially interfere with magical seals.<ref name="lh-03-the-knight-c38">''The Knight'', chapter 38</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Titan]] contains [[Aethertech]] devices.<ref name="lh-03-the-knight-c43">''The Knight'', chapter 43</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|[[Aethertech]] components were visible within the destroyed plates of the [[Red]] [[Titan]].<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Aethertech]] components were visible within the destroyed plates of the Red Divine Titan{{!}}Red Titan.<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref>}}</li>
 </ul></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|Aethertech is a form of magical technology constructed from various materials that can even be used to prevent teleportation. This technology is visible through the seams of [[Aila]]'s artificial skin, and it can be self-upgraded as noted by [[Mell]]. While [[Veshran]] wears an Aethertech circlet and [[Omega]] utilizes the tech in his ears, it is confirmed that [[Omega]] himself is not an [[Aether Technician]]. The technology's capabilities range from allowing [[Benri]]'s clones to leave their bodies to being used by an unknown source to target a ship from within the system. Furthermore, stolen Aethertech was eventually transported to the planet [[Zykaros]].}}
+{{spoiler|book=lh-04-the-pilot|Aethertech is a form of magical technology constructed from various materials that can be self-upgraded. This technology is visible through the seams of Aila Escalon{{!}}Aila's artificial skin, and it manifests in different ways such as Prince Veshran{{!}}Veshran's circlet or the devices worn in [[Omega]]'s ears. While high-grade versions can prevent teleportation and enhancements allow Benri Vallenar{{!}}Benri's clones to exit a body, unknown Aethertech was once used to target a ship from within the system. Furthermore, stolen Aethertech was eventually transported to the planet [[Zykaros]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -97,10 +95,10 @@
 <li>{{spoiler|book=lh-04-the-pilot|Materials can be used for constructing [[Aethertech]].<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|High-grade [[Aethertech]] could be used to stop teleportation.<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]] is not an [[Aether Technician]].<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Mell]] mentions self-upgrading [[Aethertech]].<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Aethertech]] is a technology visible through the seams of [[Aila]]'s artificial skin.<ref name="lh-04-the-pilot-c33">''The Pilot'', chapter 33</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Veshran]] wears a circlet made of [[Aethertech]].<ref name="lh-04-the-pilot-c36">''The Pilot'', chapter 36</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Aethertech]] enhancements allow [[Benri]]'s clones to leave a body.<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Mell D-One-Twenty-Five{{!}}Mell mentions self-upgrading [[Aethertech]].<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aethertech]] is a technology visible through the seams of Aila Escalon{{!}}Aila's artificial skin.<ref name="lh-04-the-pilot-c33">''The Pilot'', chapter 33</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Prince Veshran{{!}}Veshran wears a circlet made of [[Aethertech]].<ref name="lh-04-the-pilot-c36">''The Pilot'', chapter 36</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aethertech]] enhancements allow Benri Vallenar{{!}}Benri's clones to leave a body.<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aethertech]] was stolen and brought to the planet [[Zykaros]].<ref name="lh-04-the-pilot-c40">''The Pilot'', chapter 40</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Omega]] uses [[Aethertech]] in his ears.<ref name="lh-04-the-pilot-c41">''The Pilot'', chapter 41</ref>}}</li>
 </ul></div>

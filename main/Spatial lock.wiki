@@ -1,0 +1,21 @@
+{{Expand}}
+
+{{Infobox technique
+| name = spatial lock
+| introduced = [[Dreadgod (novel)|Dreadgod]]
+}}
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|A [[spatial lock]] can prevent the use of the Bridge.<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Techniques]]
+[[Category:Dreadgod]]
+[[Category:Cradle]]

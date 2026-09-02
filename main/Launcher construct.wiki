@@ -1,0 +1,83 @@
+{{Infobox construct
+| name = launcher construct
+| introduced = [[Blackflame (novel)|Blackflame]]
+}}
+
+''See also: [[launcher construct Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-13-threshold|A launcher [[construct]] is a type of specialized puppet used in [[Soulsmithing]] that functions as a container for a specific [[technique]], known as a [[binding]]. Unlike more complex [[constructs]] that might amplify or enhance the power of their internal [[technique]], launchers are considered relatively simple and provide a static output. They essentially serve to house a [[binding]]—such as a [[Striker technique]]—to allow its power to be projected or released over a distance. While they do not gain strength from the user in the way a traditional weapon might, they are highly efficient tools for extending the range of an individual's abilities. These [[constructs]] vary significantly in complexity, quality, and purpose. They can range from basic, single-use items made from [[dead matter]] to highly advanced, multi-[[binding]] devices capable of devastating effects. Some launchers are designed for defense, such as batteries mounted on city walls to protect against massive threats, while others serve offensive roles like cannons or wrist-mounted devices. They are categorized by their power levels, including [[Lowgold]], [[Highgold]], [[Truegold]], [[Underlord]], [[Monarch]], and [[Herald]]-grade. Because they are built using living components and [[dead matter]], their stability and longevity depend heavily on the skill of the [[Forger]]. If a launcher is exposed to essence for too long without being kept in a sealed container, it risks dissolving or snapping upon use.}}
+
+== Blackflame ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-03-blackflame|A [[launcher construct]] is a container with a [[Striker binding]] in it.<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
+</ul></div>
+
+== Skysworn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-04-skysworn|[[Lindon]] uses a launcher construct{{!}}launcher that is a crackling bar of [[living lightning]].<ref name="cradle-04-skysworn-c4">''Skysworn'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The launcher construct{{!}}launcher is a [[construct]] made from the wrist-bones of a [[Remnant]].<ref name="cradle-04-skysworn-c4" />}}</li>
+</ul></div>
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|[[Fisher Gesha]] holds a smoking, twisted [[launcher construct]] that looks like a cannon.<ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|A [[launcher construct]] can be operated by a [[Highgold]].<ref name="cradle-05-ghostwater-c14">''Ghostwater'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Brother Aekin]] uses a [[launcher construct]] shaped like a crossbow made from polished wood.<ref name="cradle-08-wintersteel-c15">''Wintersteel'', chapter 15</ref>}}</li>
+</ul></div>
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] uses launcher construct{{!}}launcher constructs to eliminate Bloodspawn{{!}}bloodspawn.<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Reaper ==
+{{spoiler|book=cradle-10-reaper|[[Lindon]] utilizes launcher [[constructs]] to discharge various weapons during his journey. These devices offer greater efficiency than a standard bow, and they can even be used to propel striker techniques. While navigating certain rooms, he must contend with environments filled with deadly versions of these [[constructs]]. To facilitate his combat, [[Lindon]] is able to retrieve launcher [[constructs]] directly from his [[void space]].}}
+
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] uses launcher construct{{!}}launcher constructs to fire weapons.<ref name="cradle-10-reaper-c16">''Reaper'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|A [[launcher construct]] is more efficient than a bow.<ref name="cradle-10-reaper-c18">''Reaper'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The rooms are filled with deadly launcher construct{{!}}launcher constructs.<ref name="cradle-10-reaper-c20">''Reaper'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Striker techniques]] may be propelled by launcher construct{{!}}launcher constructs.<ref name="cradle-10-reaper-c20" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] uses launcher construct{{!}}launcher constructs from his [[void space]].<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
+</ul></div>
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|Ozmanthus Arelius{{!}}Ozmanthus created a network of launcher construct{{!}}launcher constructs to protect a city.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Moongrave]]'s walls feature ancient launcher construct{{!}}launcher constructs with the stability of [[stone]].<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Seisha]] uses launcher construct{{!}}launcher constructs.<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
+</ul></div>
+
+== Threshold: Stories from Cradle ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-13-threshold|Tiberian Arelius{{!}}Tiberian destroyed a [[launcher construct]] during his fight with Reigan Shen{{!}}Reigan.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Constructs]]
+[[Category:Blackflame]]
+[[Category:Skysworn]]
+[[Category:Ghostwater]]
+[[Category:Wintersteel]]
+[[Category:Bloodline]]
+[[Category:Reaper]]
+[[Category:Dreadgod]]
+[[Category:Threshold: Stories from Cradle]]
+[[Category:Cradle]]

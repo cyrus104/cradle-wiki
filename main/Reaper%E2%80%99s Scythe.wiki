@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Reaper’s Scythe
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 == Underlord ==
@@ -12,7 +12,7 @@
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|The [[Reaper]]'s Scythe is a weapon that squirmed in [[Makiel]]'s grip out of desire to return to its creator.<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The Reaper’s Scythe{{!}}Reaper's Scythe is a weapon that squirmed in [[Makiel]]'s grip out of desire to return to its creator.<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Reaper’s Scythe]] is a colorless light that can reduce chaos workings to nothing.<ref name="cradle-12-waybound-c22" />}}</li>
 </ul></div>
 

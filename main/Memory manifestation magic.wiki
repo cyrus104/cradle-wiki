@@ -1,0 +1,31 @@
+{{Expand}}
+
+{{Infobox technique
+| name = memory manifestation magic
+| introduced = [[The Captain (novel)|The Captain]]
+}}
+
+== The Captain ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|[[Horizon]] uses [[memory manifestation magic]] rather than conjuration magic.<ref name="lh-01-the-captain-c41">''The Captain'', chapter 41</ref>}}</li>
+</ul></div>
+
+== The Engineer ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|The core of the [[Terminus Mundi]] spell is [[memory manifestation magic]].<ref name="lh-02-the-engineer-c25">''The Engineer'', chapter 25</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=lh-01-the-captain|“Wow…so this is memory manifestation magic, not conjuration magic.”<ref name="lh-01-the-captain-c41" />}}
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Techniques]]
+[[Category:The Captain]]
+[[Category:The Engineer]]
+[[Category:The Last Horizon]]

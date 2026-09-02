@@ -1,18 +1,18 @@
 {{Infobox starship
 | name = Dragon’s Edge
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 == Overview ==
-{{spoiler|book=lh-02-the-engineer|Dragon's Edge is a [[Perfected]] dreadnought vessel utilized by the forces of [[the Perfected]]. Functioning as an armed, floating city, it is a significant threat on the battlefield capable of engaging enemy fleets. During combat, the dreadnought has been observed reversing course to engage targets and activating its primary central cannons. Its presence is formidable enough that the Last [[Horizon]] must dedicate much of its attention to pinning the vessel down to prevent it from overwhelming their positions.}}
+{{spoiler|book=lh-02-the-engineer|dragons{{!}}Dragon's Edge is a [[Perfected]] dreadnought vessel utilized by The Perfected{{!}}the Perfected forces. Functioning as an armed, floating city, the ship is a significant threat on the battlefield capable of engaging in direct combat. During maneuvers, it has been observed reversing course to engage enemies and activating its central cannons to intensify fire. The vessel's presence is formidable enough that it requires the concentrated attention of [[The Last Horizon]] to keep it pinned down, as failing to monitor its movements could result in immediate defeat.}}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|The Dragon’s Edge is a [[Perfected]] dreadnought mentioned by Kelthriss. During combat, this unit activates its central cannons to engage targets. However, the vessel is kept in check and pinned down by [[The Last Horizon]].}}
+{{spoiler|book=lh-02-the-engineer|The dragons{{!}}Dragon’s Edge is a [[Perfected]] dreadnought identified by Kelthriss of the Burning Rain{{!}}Kelthriss as a specific unit. During combat, this vessel is capable of activating its central cannons. However, the ship finds itself pinned down and kept in check by [[The Last Horizon]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Dragon’s Edge]] is a [[Perfected]] dreadnought.<ref name="lh-02-the-engineer-c35">''The Engineer'', chapter 35</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Dragon's Edge is a group or unit mentioned by Kelthriss.<ref name="lh-02-the-engineer-c35" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Dragon’s Edge{{!}}Dragon's Edge is a group or unit mentioned by Kelthriss of the Burning Rain{{!}}Kelthriss.<ref name="lh-02-the-engineer-c35" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Dragon’s Edge]] is a dreadnought that activates central cannons.<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Last Horizon]] is keeping [[Dragon’s Edge]] pinned down.<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Horizon]] keeps [[Dragon’s Edge]] in check.<ref name="lh-02-the-engineer-c38" />}}</li>

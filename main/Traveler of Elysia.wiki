@@ -2,13 +2,13 @@
 
 {{Infobox concept
 | name = Traveler of Elysia
-| introduced = City of Light
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|One can become a [[Traveler of Elysia]] through training via compatibility tests or by being born to it.<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|One can become a [[Traveler of Elysia]] through training via [[compatibility tests]] or by being born to it.<ref name="tg-03-city-of-light-c10">''City of Light'', chapter 10</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -23,4 +23,3 @@
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate concepts]]
-[[Category:Titles]]

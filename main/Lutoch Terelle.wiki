@@ -9,7 +9,7 @@
 }}
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|Lutoch Terelle, also known as Lutoch, is an intelligence professional for the [[Galactic Union]]. She has served for a decade as the Chief Predictive Data Analyst, a role that involves managing vast amounts of galactic information to help shape the future. In this capacity, she organizes data from a wide network and feeds it into the [[Zenith Processor]]. While her official duties involve sorting reports, she also utilizes a specialized processor that she inherited alongside her position. Known as the Oracle of the [[Solstice]], Lutoch often works while floating in a sensory deprivation tank to process information. Despite her expertise, she has expressed desire for a full bond with the [[Zenith Processor]] to better protect herself against mental magic. During her service, she has been associated with [[Union Intelligence]] and has worked alongside figures such as [[Archmage]] [[Kerathin]].}}
+{{spoiler|book=lh-04-the-pilot|Lutoch Terelle, also known as Lutoch, is a professional information analyst who has spent a decade processing vast amounts of galactic data. Officially serving as the Chief Predictive Data Analyst for the [[Galactic Union]], her primary responsibility involves organizing intelligence and feeding it into the [[Zenith Processor]]. She is also referred to as the Oracle of Solstice{{!}}Oracle of the Solstice. In her work, she utilizes a sensory deprivation [[tank]] to manage information flow and connect with a sophisticated [[Aethertech]] processor that she inherited alongside her position. While she is capable of sorting through complex webs of data to help the galaxy progress, she lacks the ability to perceive the complete big picture that the [[Zenith Processor]] can. During her service with [[Union Intelligence]], she has worked alongside figures such as Kerathin{{!}}Archmage Kerathin.}}
 
 == The Engineer ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -18,15 +18,15 @@
 </ul></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|As a member of [[Union Intelligence]], Lutoch Terelle emerged from a sensory deprivation tank. Serving as the Oracle of the [[Solstice]], Lutoch held the responsibility of sorting through data to feed into the [[Zenith Processor]]. During these events, Lutoch also observed [[Aila Escalon]].}}
+{{spoiler|book=lh-04-the-pilot|As a member of [[Union Intelligence]], Lutoch Terelle emerged from a sensory deprivation [[tank]]. Serving as the Oracle of Solstice{{!}}Oracle of the Solstice, Terelle held the responsibility of sorting through data to feed into the [[Zenith Processor]]. During these events, Terelle also observed [[Aila Escalon]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|[[Lutoch Terelle]] is the Oracle of the [[Solstice]].<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Lutoch Terelle]] is the Oracle of Solstice{{!}}Oracle of the Solstice.<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Lutoch Terelle]]'s role was to sort through data and feed it into the [[Zenith Processor]].<ref name="lh-04-the-pilot-c34">''The Pilot'', chapter 34</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Lutoch Terelle]] is a character who emerged from a sensory deprivation tank.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Lutoch Terelle]] is a character who emerged from a sensory deprivation [[tank]].<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Lutoch Terelle]] is a member of [[Union Intelligence]].<ref name="lh-04-the-pilot-c43" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Lutoch watched [[Aila Escalon]].<ref name="lh-04-the-pilot-c43" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Lutoch Terelle{{!}}Lutoch watched [[Aila Escalon]].<ref name="lh-04-the-pilot-c43" />}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -42,5 +42,3 @@
 [[Category:The Pilot]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon characters]]
-[[Category:Galactic Union]]
-[[Category:Titled characters]]

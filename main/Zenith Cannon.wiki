@@ -1,36 +1,34 @@
 {{Infobox artifact
 | name = Zenith Cannon
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 ''See also: [[Zenith Cannon Timeline]]''
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|The [[Zenith]] Cannon is a sentient [[Zenith Device]], a category of highly advanced ancient human creations. In its current state, it takes the form of a standard plasma pistol, though it possesses a visual appearance reminiscent of a small, multicolored sun with solar-flare-like arms. The weapon is capable of speech and exhibits a distinct personality, characterized by cackling and a sense of judgment regarding the worthiness of its wielders. It has previously rejected members of [[Horizon]]'s crew, eventually choosing a member of [[the Perfected]] as its user. The Cannon is considered an extremely potent asset; if awakened, it can be used to achieve significant strategic goals and prevent enemies from securing its power. Its destructive potential is immense, described as having the strength of an entire fleet combined into a single artillery platform.}}
+{{spoiler|book=lh-04-the-pilot|The [[Zenith]] Cannon is a sentient [[Zenith Device]], a category of highly advanced ancient human creations. While it possesses various names across different planets, its true identity is difficult to verify without other similar devices. In its current state, [[the Cannon]] takes the form of a standard [[plasma pistol]], though it also manifests visually as a small, multicolored sun with solar-flare-like arms. It possesses a distinct personality, capable of speaking, cackling, and even expressing emotions like indignation. The weapon is incredibly powerful; it has been described as having the destructive potential of an entire fleet or artillery platform contained within a single firearm. Its capabilities are significant enough that even studying its principles can allow others to develop immense firepower, and its acquisition by The Perfected{{!}}the Perfected is considered a major threat.}}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|The [[Zenith]] Cannon is one of the seven legendary [[Zenith Devices]] and a highly sought-after weapon that was previously tracked passing through [[Mell]]'s location. Although it manifests as a standard white metal plasma pistol resembling a [[Lightcaster IV]], the object contains an interior of folded space large enough to hold a dreadnought without adding mass. This sentient weapon, which is capable of speaking and conducting quizzes, was donated by the narrator's father and later acquired by [[Benri Vallenar]] as a sacrificial play. While [[Varic]] requires the device and [[Mell]] suggests its retrieval, the cannon has been subject to various hands, including being cradled by [[Omega]] and eventually held by [[Sola]]. Ultimately, [[the Perfected]] managed to acquire the [[Zenith]] Cannon.}}
+{{spoiler|book=lh-03-the-knight|The [[Zenith]] Cannon is one of the seven legendary [[Zenith Devices]] and a primary object of interest for the crew. Although it passed through Mell D-One-Twenty-Five{{!}}Mell's location a year prior, the weapon was eventually acquired by [[Benri Vallenar]] as part of a sacrificial play. While it appears to be a standard [[Lightcaster IV]] [[plasma pistol]] with a white metal shell, the device is actually a sentient weapon capable of speech and conducting quizzes. Its interior consists of folded space similar to the [[Shadow Ark]], providing enough room to contain a dreadnought without increasing its mass. After being acquired by The Perfected{{!}}the Perfected, the cannon was cradled by [[Omega]] and subjected to their whispering before Sola Kalter{{!}}Sola eventually moved it away.}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|A device matching the [[Zenith Cannon]] passed through [[Mell]]'s location last year.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|A device matching the [[Zenith Cannon]] passed through Mell D-One-Twenty-Five{{!}}Mell's location last year.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is a device the crew is searching for.<ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is one of the seven [[Zenith Devices]].<ref name="lh-03-the-knight-c8" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is an object the narrator's magic is better used hunting.<ref name="lh-03-the-knight-c13">''The Knight'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is a sought-after object.<ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is a weapon that [[Mell]] suggests retrieving.<ref name="lh-03-the-knight-c19">''The Knight'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is a weapon that Mell D-One-Twenty-Five{{!}}Mell suggests retrieving.<ref name="lh-03-the-knight-c19">''The Knight'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Benri Vallenar]] acquired the [[Zenith Cannon]] as a sacrificial play.<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is a weapon that [[Varic]] needs.<ref name="lh-03-the-knight-c21" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is a genuine [[Zenith Device]] that manifests as a standard plasma pistol.<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]]'s appearance is similar to a [[Lightcaster IV]] plasma pistol.<ref name="lh-03-the-knight-c22" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is a weapon that Varic Vallenar{{!}}Varic needs.<ref name="lh-03-the-knight-c21" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is a genuine [[Zenith Device]] that manifests as a standard [[plasma pistol]].<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]]'s appearance is similar to a [[Lightcaster IV]] [[plasma pistol]].<ref name="lh-03-the-knight-c22" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] has an external shell of white metal.<ref name="lh-03-the-knight-c22" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]]'s interior is folded space, similar to [[Shadow Ark]].<ref name="lh-03-the-knight-c22" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]]'s interior dimensions are large enough to contain a dreadnought without increasing its mass.<ref name="lh-03-the-knight-c22" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is a sentient weapon that can speak and conduct quizzes.<ref name="lh-03-the-knight-c22" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|The narrator's father donated the [[Zenith Cannon]].<ref name="lh-03-the-knight-c23">''The Knight'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is cradled by [[Omega]].<ref name="lh-03-the-knight-c33">''The Knight'', chapter 33</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Omega]] has been whispering to the [[Zenith Cannon]].<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|[[Sola]] has the [[Zenith Cannon]] away from [[Omega]].<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola has the [[Zenith Cannon]] away from [[Omega]].<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[The Perfected]] had acquired the [[Zenith Cannon]].<ref name="lh-03-the-knight-c37">''The Knight'', chapter 37</ref>}}</li>
 </ul></div>
 
@@ -38,7 +36,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Cannon]] resembles a small multicolored sun with arms like solar flares.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Cannon]] is a weapon that [[Mell]] studied to develop drone firepower.<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Cannon]] is a weapon that Mell D-One-Twenty-Five{{!}}Mell studied to develop [[drone]] firepower.<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==

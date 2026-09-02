@@ -2,7 +2,7 @@
 
 {{Infobox group
 | name = Pilgrims
-| introduced = Of Kings and Killers
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
 }}
 
 == Of Kings and Killers ==
@@ -14,7 +14,7 @@
 == Of Killers and Kings ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Pilgrims]] are part of the Luminians.<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Pilgrims]] are part of the Luminian{{!}}Luminians.<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Notes ==

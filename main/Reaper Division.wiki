@@ -1,12 +1,12 @@
 {{Infobox group
 | name = Reaper Division
-| introduced = Waybound
+| introduced = [[Waybound (novel)|Waybound]]
 }}
 
 ''See also: [[Reaper Division Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|The [[Reaper]] Division is a specialized branch of the [[Abidan]] established to protect existence by eliminating various threats. Unlike other divisions, this group focuses on intervening in areas where the [[Abidan]] are typically unable to operate. They report directly to [[Ozriel]], who is the eighth [[Judge]] and a member of the [[Court of Seven]]. While they have successfully prevented or stopped the destruction of over one hundred worlds within their first two years, their legitimacy is currently being questioned by the [[Court]]. Some members of the [[Abidan]] view the division as traitors rather than a separate force from the original seven divisions. The group's operations have involved using specialized equipment, such as the [[Reaper]]'s [[Sword]] and the [[Reaper]]'s Scythe, and they have worked to establish their own infrastructure by repurposing existing facilities.}}
+{{spoiler|book=cradle-13-threshold|Reaper{{!}}The Reaper Division is a specialized group within the [[Abidan]] established to protect existence by eliminating various threats. Unlike other divisions, this unit focuses its interventions on areas where the [[Abidan]] are typically unable to operate. The division operates under the Authority{{!}}authority of Ozriel, the eighth [[Judge]], who is accountable to the [[Court]] of Seven. Despite their mission to bring light to different worlds, the division faces scrutiny from the [[Abidan]], who view them as traitors rather than a standard branch of the organization. The [[Court]] of Seven also holds a level of skepticism toward the group, with some members seeking reasons to dissolve them. In its first two years of operation, the division successfully prevented or stopped the [[destruction]] of 141 worlds. The group utilizes specialized equipment, including the [[Reaper]]'s Sword—a weapon designed for combat between Archlord{{!}}Archlords that loses durability with use—and the Reaper’s Scythe{{!}}Reaper's Scythe, which produces a colorless light capable of erasing objects. While [[Eithan]] manages his own specific team of Reaper{{!}}Reapers, the division as a whole is currently working to rebuild its own systems and facilities.}}
 
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -15,9 +15,9 @@
 </ul></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|As a newly formed division within the [[Abidan]], the [[Reaper]] Division focuses its efforts on intervening in situations where others are unable to act. Although the group is currently undergoing operations, it remains a division that is disdained by the [[Abidan]] of the [[Wolf Division]]. Despite hanging by a thin thread, the division has already delayed or reversed the destruction of one hundred and forty-one worlds during its first two standard years. Operating with jurisdiction in [[Threshold]], the [[Reaper]] Division's ultimate value is to be established by [[Lindon]]'s victory.}}
+{{spoiler|book=cradle-13-threshold|As a newly formed group, the [[Reaper]] Division focuses its efforts on intervening in situations where others are unable to act. Despite being a division disdained by the [[Abidan]] of the [[Wolf Division]], the unit has already delayed or reversed the [[destruction]] of one hundred and forty-one worlds during its first two standard years of operations. Although they hold jurisdiction in [[Threshold]], the division currently hangs by a thin thread. The ultimate value of the [[Reaper]] Division remains to be established through [[Lindon]]'s victory.}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The [[Reaper Division]] focuses on intervening where others cannot.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Reaper Division]] is hanging by a thin thread.<ref name="cradle-13-threshold-c6" />}}</li>
@@ -26,12 +26,11 @@
 <li>{{spoiler|book=cradle-13-threshold|The [[Reaper Division]] is a newly formed group.<ref name="cradle-13-threshold-c7" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Reaper Division]] is a division that the [[Abidan]] of the [[Wolf Division]] disdains.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Reaper Division]] is currently undergoing operations.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-13-threshold|The [[Reaper Division]] is a division within the [[Abidan]].<ref name="cradle-13-threshold-c12" />}}</li>
-<li>{{spoiler|book=cradle-13-threshold|The [[Reaper Division]] has delayed or reversed the destruction of one hundred and forty-one worlds in its first two standard years.<ref name="cradle-13-threshold-c12" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Reaper Division]] has delayed or reversed the [[destruction]] of one hundred and forty-one worlds in its first two standard years.<ref name="cradle-13-threshold-c12" />}}</li>
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=cradle-12-waybound|“...the creation and operation of the Reaper Division,” Suriel continued. “For the purpose of removing threats to preserve existence.<ref name="cradle-12-waybound-c32" />}}
+* {{spoiler|book=cradle-12-waybound|“…the creation and operation of the Reaper Division,” Suriel continued. “For the purpose of removing threats to preserve existence.<ref name="cradle-12-waybound-c32" />}}
 
 == Notes ==
 <references />

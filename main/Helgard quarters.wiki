@@ -2,13 +2,13 @@
 
 {{Infobox location
 | name = Helgard quarters
-| introduced = The Crimson Vault
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-02-crimson-vault|The [[Helgard quarters]] are made of undressed stone or undecorated metal and contain patches of snow.<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Helgard quarters]] are made of undressed [[stone]] or undecorated metal and contain patches of snow.<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -20,4 +20,3 @@
 [[Category:The Crimson Vault]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate locations]]
-[[Category:Structures]]

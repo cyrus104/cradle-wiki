@@ -2,13 +2,13 @@
 
 {{Infobox location
 | name = Karoshan throne
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|The [[Karoshan throne]] represents the authority of the Karoshans.<ref name="lh-03-the-knight-c31">''The Knight'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Karoshan throne]] represents the Authority{{!}}authority of the Karoshan{{!}}Karoshans.<ref name="lh-03-the-knight-c31">''The Knight'', chapter 31</ref>}}</li>
 </ul></div>
 
 == Notes ==

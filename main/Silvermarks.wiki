@@ -1,0 +1,29 @@
+{{Infobox concept
+| name = silvermarks
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
+}}
+
+== Of Sea and Shadow ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Most people deal in marks for day-to-day expenses.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Silvermarks are used for larger expenses.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
+</ul></div>
+
+== Of Shadow and Sea ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A silvermarks{{!}}silvermark is a unit of currency or value used by [[Tombstone]].<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Silvermarks are a form of currency.<ref name="ee-shadow-01-of-shadow-and-sea-c3">''Of Shadow and Sea'', chapter 3</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Concepts]]
+[[Category:Of Sea and Shadow]]
+[[Category:Of Shadow and Sea]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire concepts]]

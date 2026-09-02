@@ -1,10 +1,10 @@
 {{Infobox artifact
 | name = Aethertech eye
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|[[Aethertech]] eyes are advanced optical implants or technological components that function as sophisticated visual processors. These devices can emit various colors of light, most commonly orange, red, blue, or pink, and are sometimes integrated into artificial skin. They serve a wide range of high-level functions, including scanning environments for threats, projecting holographic data, and viewing information across spectrums invisible to standard human sight. Some users utilize these eyes to perceive the future path of waves, look into subspace, or track energy concentrations. While some models are considered old or standard, others represent masterwork technology capable of outperforming typical hardware through a combination of superior design and user skill. The eyes can also be used for piloting or receiving video streams directly into the user's vision, though environmental factors can occasionally cause interference with these transmissions.}}
+{{spoiler|book=lh-04-the-pilot|[[Aethertech]] eyes are advanced optical implants or technological components that serve as highly sophisticated visual processors. These devices can manifest in various colors, most notably orange, red, blue, and pink, and may be integrated into a person's artificial skin or implanted at the back of the neck. They are capable of performing extraordinary feats, such as scanning for threats, viewing data invisible to the naked eye, and perceiving various spectrums of light. Some models can even project a target's immediate future or allow a user to look into [[Subspace]]. While some users possess older models, others utilize superior hardware that allows them to outperform standard visual systems. Beyond individual use, these eyes can be part of larger machines or deployed as independent entities to monitor environments.}}
 
 == The Engineer ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
@@ -23,7 +23,7 @@
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|[[Aila]] possesses [[Aethertech]] eyes used for scanning.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila possesses Aethertech eye{{!}}Aethertech eyes used for scanning.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|An [[Aethertech eye]] is a gleaming orange ocular enhancement.<ref name="lh-04-the-pilot-c1" />}}</li>
 </ul></div>
 

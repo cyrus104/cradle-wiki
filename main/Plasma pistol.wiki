@@ -1,0 +1,41 @@
+{{Infobox artifact
+| name = plasma pistol
+| introduced = [[The Captain (novel)|The Captain]]
+}}
+
+== Overview ==
+{{spoiler|book=lh-04-the-pilot|Plasma pistols are handheld energy weapons that vary significantly in design, power, and functionality. While many standard models fail to operate in a vacuum or corrosive environments without specific modifications, certain specialized versions like the [[Lightcaster IV]] are capable of functioning in space. These weapons can range from high-grade [[Aethertech]] handheld cannons characterized by flickering, razor-edged energy to more conventional models that fire superheated globes of [[plasma]]. Some advanced iterations, such as the [[Zenith Cannon]], may appear to be standard pistols but possess unique internal mechanisms and can fire tightly clustered orange bolts. Other specialized variants, like the [[Lightcaster Heavy II]] or the [[VC-U6 Rainbringer]], are designed for specific users like soldiers in powered armor or incorporate multi-shot bursts that combine [[plasma]] with magically accelerated projectiles. The effects of these weapons vary from exploding against shields to delivering concentrated beams of light infused with specific magical properties.}}
+
+== The Captain ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|The narrator uses a [[plasma pistol]].<ref name="lh-01-the-captain-c13">''The Captain'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola utilizes a [[plasma pistol]] as a weapon.<ref name="lh-01-the-captain-c17">''The Captain'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|A [[plasma pistol]] is a weapon that can pierce a hood.<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Nelthan uses a pistol to aim at Vallenar.<ref name="lh-01-the-captain-c37">''The Captain'', chapter 37</ref>}}</li>
+</ul></div>
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|[[Doctor Cryce]] has a [[plasma pistol]].<ref name="lh-03-the-knight-c11">''The Knight'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Varic Vallenar]] carries a [[plasma pistol]].<ref name="lh-03-the-knight-c29">''The Knight'', chapter 29</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|[[Gunder]] has a [[plasma pistol]].<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Artifacts]]
+[[Category:The Captain]]
+[[Category:The Knight]]
+[[Category:The Pilot]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon artifacts]]

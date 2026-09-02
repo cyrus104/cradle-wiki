@@ -1,0 +1,34 @@
+{{Infobox technique
+| name = hunger techniques
+| introduced = [[Wintersteel (novel)|Wintersteel]]
+}}
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Northstrider]] has [[hunger techniques]].<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|Living [[hunger techniques]] travel around consuming whatever they find.<ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[hunger techniques]] did not respond to the [[Dreadgod's hand]].<ref name="cradle-10-reaper-c21">''Reaper'', chapter 21</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[Yerin]] uses a hunger techniques{{!}}hunger technique cobbled together from the [[Blood Sage]], [[Redmoon]] the [[Herald]], and [[Northstrider]]’s [[Consume]].<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Techniques]]
+[[Category:Wintersteel]]
+[[Category:Reaper]]
+[[Category:Waybound]]
+[[Category:Cradle]]

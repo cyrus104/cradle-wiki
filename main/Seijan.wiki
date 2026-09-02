@@ -1,16 +1,16 @@
 {{Infobox artifact
 | name = Seijan
-| introduced = House of Blades
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|Seijan is a specific weapon identified as the tenth [[Fang]], which was created by the founder of a particular [[House]]. It is characterized by a short blade that features black spots resembling ink blots. The weapon is described as being roughly half the size of [[Azura]] while maintaining a similar shape.}}
+{{spoiler|book=tg-03-city-of-light|Seijan is a specialized weapon identified as the tenth [[Fang]], which was created by the founder of a specific [[House]]. It is characterized by a short blade that features distinct black markings resembling ink blots. The weapon is described as being roughly half the size of Azura while maintaining a similar shape. It has been held by various individuals, including Andra Agnos{{!}}Andra and an [[Incarnation]].}}
 
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|[[Seijan]] is the tenth [[Dragon's Fang]] forged by the founder of [[Andra]]'s [[House]].<ref name="tg-01-house-of-blades-c18">''House of Blades'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=tg-01-house-of-blades|One of the children brought by [[Andra]] will carry [[Seijan]] into the world.<ref name="tg-01-house-of-blades-c18" />}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Seijan]] is the tenth [[Dragon's Fang]] forged by the founder of Andra Agnos{{!}}Andra's [[House]].<ref name="tg-01-house-of-blades-c18">''House of Blades'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|One of the children brought by Andra Agnos{{!}}Andra will carry [[Seijan]] into the world.<ref name="tg-01-house-of-blades-c18" />}}</li>
 </ul></div>
 
 == The Crimson Vault ==
@@ -22,13 +22,13 @@
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|[[Seijan]] is a [[sword]] used by [[Andra]].<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Seijan]] is a [[sword]] used by Andra Agnos{{!}}Andra.<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Seijan]] is a short blade speckled with ink.<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Seijan]] is a [[Dragon's Fang]].<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=tg-01-house-of-blades|"You have the honor to possess, ahhh, Seijan, the tenth Fang forged by the founder of our House."<ref name="tg-01-house-of-blades-c18" />}}
+* {{spoiler|book=tg-01-house-of-blades|“You have the honor to possess, ahhh, Seijan, the tenth Fang forged by the founder of our House.”<ref name="tg-01-house-of-blades-c18" />}}
 
 == Notes ==
 <references />

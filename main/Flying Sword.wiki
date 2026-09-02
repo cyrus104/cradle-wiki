@@ -2,13 +2,13 @@
 
 {{Infobox technique
 | name = Flying sword
-| introduced = Bloodline
+| introduced = [[Bloodline (novel)|Bloodline]]
 }}
 
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|Flying swords are controlled by [[scripts]] and guided by wind [[aura]].<ref name="cradle-09-bloodline-c7">''Bloodline'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|Flying swords are controlled by [[scripts]] and guided by Wind aura{{!}}wind aura.<ref name="cradle-09-bloodline-c7">''Bloodline'', chapter 7</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -18,7 +18,4 @@
 
 [[Category:Techniques]]
 [[Category:Bloodline]]
-[[Category:Artifacts]]
-[[Category:Wintersteel]]
 [[Category:Cradle]]
-[[Category:Cradle artifacts]]

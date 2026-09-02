@@ -1,12 +1,12 @@
 {{Infobox concept
 | name = Genesis
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
 ''See also: [[Genesis Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|Genesis is a specialized, two-headed [[Soulsmithing]] hammer crafted by [[Lindon]]. Designed to advance his abilities in the art of [[Soulsmithing]], the tool serves to focus and bind his powers during the creation process. The hammer features two distinct heads: one side is used for purification by channeling [[pure madra]], while the other can be used to channel [[Blackflame]]. As [[Lindon]] uses the tool to forge various [[Dreadgod]] weapons, Genesis grows both physically and metaphysically heavier, exhibiting a sense of eagerness as it is utilized.}}
+{{spoiler|book=cradle-13-threshold|Genesis is a specialized, two-headed [[Soulsmithing]] hammer crafted by [[Lindon]]. Designed to advance his abilities in the art of [[Soulsmithing]], the tool serves to focus and unify his powers during the creation process. The hammer features two distinct sides: one head is used for purification by channeling [[pure madra]], while the other can be utilized to channel [[Blackflame]]. As [[Lindon]] uses the tool to forge various Dreadgod weapon{{!}}Dreadgod weapons, Genesis grows in both physical weight and metaphysical strength, exhibiting a sense of eagerness as it is employed.}}
 
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
@@ -27,7 +27,7 @@
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] summoned [[Genesis]] from his void space and switched it to the [[pure madra]] side to repair [[Netherclaw]].<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] summoned [[Genesis]] from his [[void space]] and switched it to the [[pure madra]] side to repair [[Netherclaw]].<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Genesis]] is a two-headed hammer that grows stronger with every [[Dreadgod weapon]] made.<ref name="cradle-12-waybound-c34">''Waybound'', chapter 34</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] uses a weapon called [[Genesis]].<ref name="cradle-12-waybound-c34" />}}</li>
 </ul></div>

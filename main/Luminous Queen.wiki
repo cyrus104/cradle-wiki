@@ -1,15 +1,15 @@
 {{Infobox concept
 | name = Luminous Queen
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|The Luminous [[Queen]] is the [[Monarch]] of the [[Ninecloud Court]]. While she is identified as [[Sha Leiala]], it is believed that she has not appeared openly for several years following the death of her mother. In her absence, a disguise consisting of multicolored [[madra]] has been used to create the illusion that [[Sha Leiala]] is still present, though some suggest this is merely a way to represent her. Her true identity and name are kept secret, known only to the [[Sha family]], their direct servants, and other [[Monarchs]]. Her daughter, [[Mercy]], is an [[Archlord]] who possesses the ability to transfer power from her mother through a [[Path]] known as [[Celestial Radiance]]. The Luminous [[Queen]]'s authority can be extended to others via the [[Queen’s Gift]], a divine treasure that allows individuals to borrow both her political and conceptual power. [[Sha Miara]] is also identified as the chosen of the Luminous [[Queen]].}}
+{{spoiler|book=cradle-13-threshold|The Luminous [[Queen]] is the [[Monarch]] of the [[Ninecloud Court]], a title associated with Luminous Queen Sha Leiala{{!}}Sha Leiala. While she has reportedly isolated herself following her mother's death, it is suggested that Luminous Queen Sha Miara{{!}}Sha Miara uses a colorful [[madra]] disguise to impersonate her and maintain the illusion that Luminous Queen Sha Leiala{{!}}Leiala is still active. The true identity of the Luminous [[Queen]] is a closely guarded secret, known only to her family, direct subordinates, and other [[Monarchs]]. Her Authority{{!}}authority is significant enough that she can leave behind condensed gems called [[the Queen]]'s Gift, which allow others to utilize her political and conceptual power. The Luminous [[Queen]] is linked to the [[Path of Celestial Radiance]], an ability that permits the transfer of power to an heir. Her court is supported by figures such as her [[Herald]] and Right Hand, [[Sha Relliar]].}}
 
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|The [[Luminous Queen]] is the true identity of [[Sha Miara]].<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Luminous Queen]] is the true identity of Luminous Queen Sha Miara{{!}}Sha Miara.<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Luminous Queen]] is a [[Monarch]].<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
 </ul></div>
 
@@ -24,7 +24,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Luminous Queen]] has a Right Hand named [[Sha Relliar]].<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Luminous Queen]] can leave behind crystallized commands known as [[the Queen]]'s [[Gift]].<ref name="cradle-11-dreadgod-c22" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Luminous Queen]] can leave behind crystallized commands known as [[the Queen]]'s Gift.<ref name="cradle-11-dreadgod-c22" />}}</li>
 </ul></div>
 
 == Threshold: Stories from Cradle ==
@@ -45,4 +45,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Titles]]

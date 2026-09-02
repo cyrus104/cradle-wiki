@@ -1,10 +1,10 @@
 {{Infobox concept
 | name = King’s Key
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|The [[King]]’s Key is a [[Path]] created and exclusively practiced by [[Monarch]] [[Reigan Shen]], [[the Emperor]] of the [[Rosegold continent]]. This force Path is characterized by its connection to spatial authority, a power [[Shen]] acquired after bonding with a [[Sage’s Remnant]] during his youth. The [[Path]] allows the user to manipulate an extra-spatial vault, which serves as a storage dimension for various items including weapons, techniques, enemies, and sacred instruments. Beyond simple storage, the [[Path]] can be used to create portals, deploy emergency defenses, and manifest razor-edged blades or grips made of [[madra]]. While the [[Path]] is highly efficient for opening portals to spatially sealed treasures, it also enables the user to transport armies across vast distances.}}
+{{spoiler|book=cradle-13-threshold|The King’s Key is a specialized [[Path]] created and exclusively practiced by the [[Monarch]] [[Reigan Shen]], also known as the Emperor of the [[Rosegold continent]]. This [[Path]] is characterized by its connection to spatial Authority{{!}}authority, a power [[Shen]] acquired after bonding with a [[Sage’s Remnant]] during his youth. The primary function of the King’s Key is to manage an extra-[[spatial vault]], which serves as a storage dimension for various items including weapons, techniques, and enemies. Beyond simple storage, the [[Path]] allows [[Shen]] to manifest portals to access spatially sealed treasures, deploy emergency defenses, and utilize [[madra]] to manipulate space for combat purposes, such as creating razor-edged blades or imprisoning opponents. While the [[Path]] is highly efficient for transporting armies, its most common application involves accessing the vast wealth and resources stored within [[Shen]]'s personal [[vault]].}}
 
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -22,7 +22,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Reigan Shen]] is the master of the [[King’s Key]].<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[King]]'s Key is a portal.<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The Path of the King’s Key{{!}}King's Key is a [[portal]].<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Reigan Shen]] calls up [[King’s Key madra]] as a defense.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
 </ul></div>
 
@@ -44,4 +44,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Titles]]

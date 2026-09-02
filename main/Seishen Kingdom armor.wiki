@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Seishen Kingdom armor
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 == Underlord ==
@@ -12,8 +12,8 @@
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|[[Seishen]] armor contains [[scripts]].<ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] used the [[Seishen]] armor as inspiration for his impact shield.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Seishen Kingdom armor{{!}}Seishen armor contains [[scripts]].<ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] used the Seishen Kingdom armor{{!}}Seishen armor as inspiration for his [[impact shield]].<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
 </ul></div>
 
 == Notes ==

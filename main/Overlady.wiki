@@ -1,15 +1,15 @@
 {{Infobox concept
 | name = Overlady
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-11-dreadgod|An Overlady represents a high level of power and spiritual advancement, positioned above the rank of [[Underlady]]. This stage is achieved through an [[Overlord revelation]], which serves as a method for an individual to refocus and recognize their true identity. Those who reach this level possess immense spiritual pressure, enhanced hearing that exceeds the senses of [[Jades]], and significant physical resilience, making even minor injuries trivial. The power associated with an Overlady can be channeled into techniques or weapons, such as [[soulfire]] or specialized arrows, to create devastating force. While an Overlady is significantly more powerful than an [[Underlord]] or [[Lowgold]], they are still considered less capable than a [[Herald]]. Advancing to this stage can be a complex process, and if handled incorrectly during spiritual stress or advancement attempts, an individual may fail to reach the next level and instead become a pseudo-Herald.}}
+{{spoiler|book=cradle-11-dreadgod|An Overlady represents a specific level of power and spiritual [[advancement]], often associated with the concept of an Overlord. This stage is characterized by a profound [[revelation]] that allows an individual to recognize and refocus their identity rather than serving as their most defining characteristic. Those who reach this level possess immense Spiritual pressure{{!}}spiritual pressure and enhanced capabilities, such as hearing that extends beyond the senses of lower-ranked individuals like [[Jades]]. The power of an Overlady can be channeled into techniques, such as focusing spiritual force through a bow to create high-intensity projectiles. While an Overlady is significantly more powerful than an [[Underlord]] or [[Lowgold]], they are still considered vastly inferior to a [[Dreadgod]]. Advancing to this stage can involve risks; if an individual attempts to progress under extreme spiritual stress, they may fail to fully advance and instead become a [[pseudo-Herald]]. Some Overladies are identified as [[dragons]], while others may belong to specific groups like [[Redmoon Hall]].}}
 
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|[[Overlady]] is a temporary advancement.<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Overlady]] is a temporary [[advancement]].<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
 </ul></div>
 
 == Bloodline ==
@@ -37,4 +37,3 @@
 [[Category:Dreadgod]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Titles]]

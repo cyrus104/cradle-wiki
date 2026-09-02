@@ -2,17 +2,17 @@
 
 {{Infobox location
 | name = Grand Patriarch’s tomb
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-01-unsouled|The [[Grand Patriarch]]'s tomb contains the [[Sword Sage]]'s [[Remnant]] and possibly his corpse.<ref name="cradle-01-unsouled-c13">''Unsouled'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[Grand Patriarch]]'s tomb contains the Remnant of the Sword Sage{{!}}Sword Sage's Remnant and possibly his corpse.<ref name="cradle-01-unsouled-c13">''Unsouled'', chapter 13</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=cradle-01-unsouled|The Remnant was sealed in the Grand Patriarch’s tomb. “And the corpse?” “Pardon this one’s insufficient knowledge, elder. This one presumes the corpse is still inside with the Remnant.”<ref name="cradle-01-unsouled-c13" />}}
+* {{spoiler|book=cradle-01-unsouled|“Pardon this one’s insufficient knowledge, elder. This one presumes the corpse is still inside with the Remnant.”<ref name="cradle-01-unsouled-c13" />}}
 
 == Notes ==
 <references />
@@ -23,4 +23,3 @@
 [[Category:Unsouled]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Structures]]

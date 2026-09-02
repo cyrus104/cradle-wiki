@@ -1,4 +1,37 @@
-#REDIRECT [[contract magic]]
+{{Infobox spell
+| name = contract magic
+| introduced = [[The Engineer (novel)|The Engineer]]
+}}
+
+''See also: [[contract magic Timeline]]''
+
+== Overview ==
+{{spoiler|book=lh-04-the-pilot|Contract magic is a specialized sub-discipline of sealing and Binding magic{{!}}binding magic. It functions by manifesting written agreements into reality through the use of intricate, spinning circles composed of various magical symbols. This magic is highly reliable and effective at closing loopholes or enforcing specific restrictions, such as preventing a person from knowingly sharing information or compelling them to follow orders like a prohibition against murder. However, it cannot force loyalty or compel membership in an organization unless the magic is of a [[Zenith Device]] level. A fundamental principle of this discipline is that more powerful contracts will override lesser ones, a process that can result in painful outcomes or unusual interactions for the subject. While traditional Aetheric contract magic is considered extremely dependable, there are concerns that certain high-grade technologies or future developments might eventually allow for the severing of these magical bonds. One notable application is the [[Lagomorph Contract]], a widespread form of rabbit-summoning magic that allows practitioners to summon creatures such as [[Thundertails]].}}
+
+== The Engineer ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|contract magic{{!}}Contract magic is an intricate circle of spinning magical symbols used to project contracts.<ref name="lh-02-the-engineer-c18">''The Engineer'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|contract magic{{!}}Contract magic is a theory that requires explanation.<ref name="lh-02-the-engineer-c18" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|contract magic{{!}}Contract magic is used to bind [[Omega]].<ref name="lh-02-the-engineer-c34">''The Engineer'', chapter 34</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+{{spoiler|book=lh-04-the-pilot|As a sub-discipline of [[binding]] and sealing, contract magic serves several critical functions within the narrative. It acts as a safeguard that prevents the interrogation of [[Solstice]] recruits and restricts [[Omega]] from entering the secure [[vault]]. Furthermore, this magic is utilized to facilitate the crew's specific assignment and remains subject to inspection.}}
+
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|contract magic{{!}}Contract magic prevents the interrogation of [[Solstice]] recruits.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|contract magic{{!}}Contract magic is a sub-discipline of [[binding]] and sealing.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|contract magic{{!}}Contract magic prevents [[Omega]] from entering the secure [[vault]].<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|contract magic{{!}}Contract magic is involved in the crew's assignment.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|contract magic{{!}}Contract magic can be inspected.<ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
 
 [[Category:Spells]]
 [[Category:The Engineer]]

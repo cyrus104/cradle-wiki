@@ -6,7 +6,7 @@
 ''See also: [[Enforcer Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|An Enforcer is a type of [[sacred artist]] whose spirit is defined by the role of a guardian or protector. These individuals use their [[madra]] to bolster physical attributes, granting them superior strength, speed, and durability compared to others at their same level. This specialization is often represented by a badge featuring a shield icon. [[Enforcers]] utilize various techniques to manipulate their [[madra]] for combat and utility. While many employ full-body techniques to protect and power their entire form, others use specialized movements for speed or concentrated strikes focused on a single blow. Some techniques can even reinforce weapons rather than the user's body. These methods often come with significant physical costs, such as straining muscles, burning bones, or exhausting [[madra]] reserves rapidly. In different social and military contexts, [[Enforcers]] serve diverse functions. They may act as clan protectors, specialized combatants within organized squads, or members of judicial groups like the [[Skysworn]]. Their abilities are versatile enough to include techniques for blocking pain, anchoring themselves to the ground, or facilitating movement through the air.}}
+{{spoiler|book=cradle-12-waybound|An Enforcer is a type of [[sacred artist]] whose [[spirit]] is defined by the role of a guardian or protector. These individuals are specialized in using their [[madra]] to enhance their physical capabilities, granting them superior strength, speed, and durability compared to others at the same level. This specialization is often represented by a badge featuring a shield icon. [[Enforcers]] utilize various techniques to manipulate their [[madra]] for combat and utility. While many employ full-body techniques to bolster their entire physical form, others use specialized methods that focus on specific actions, such as single strikes, rapid movement, or reinforcing weapons. These techniques can be highly taxing, often causing physical strain, muscle damage, or intense heat within the body. Some advanced techniques can even be used to mask movements or manipulate perceptions of distance and speed. In addition to combat, [[Enforcer techniques]] can be used for practical purposes, such as anchoring oneself to the ground or suppressing physical pain.}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
@@ -32,13 +32,13 @@
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|[[Enforcer]] is a type of technique used by [[Jai Long]].<ref name="cradle-04-skysworn-c4">''Skysworn'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Enforcer]] is a type of [[technique]] used by [[Jai Long]].<ref name="cradle-04-skysworn-c4">''Skysworn'', chapter 4</ref>}}</li>
 </ul></div>
 
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|[[Enforcer]] is a technique used to shorten distance.<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Enforcer]] is a [[technique]] used to shorten distance.<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Bloodline ==
@@ -68,4 +68,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Titles]]

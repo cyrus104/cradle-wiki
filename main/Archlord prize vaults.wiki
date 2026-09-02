@@ -2,18 +2,18 @@
 
 {{Infobox location
 | name = Archlord prize vaults
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|Participants will be led to the [[Archlord prize vaults]] in the morning.<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|The [[Archlord]] vaults are located within the [[Ninecloud Court]].<ref name="cradle-07-uncrowned-c15" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The Archlord prize vaults{{!}}Archlord vaults are located within the [[Ninecloud Court]].<ref name="cradle-07-uncrowned-c15" />}}</li>
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=cradle-07-uncrowned|"In the morning, you will be led to the Archlord prize vaults, from which you will select one sacred instrument of your choosing."<ref name="cradle-07-uncrowned-c15" />}}
+* {{spoiler|book=cradle-07-uncrowned|“In the morning, you will be led to the Archlord prize vaults, from which you will select one sacred instrument of your choosing.<ref name="cradle-07-uncrowned-c15" />}}
 
 == Notes ==
 <references />
@@ -24,4 +24,3 @@
 [[Category:Uncrowned]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Structures]]

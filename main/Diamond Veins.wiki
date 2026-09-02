@@ -1,35 +1,24 @@
 {{Infobox concept
 | name = Diamond Veins
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
-''See also: [[Diamond Veins Timeline]]''
-
 == Overview ==
-{{spoiler|book=cradle-11-dreadgod|Diamond Veins refers to a specialized elixir or prize that can be earned, such as through the [[Uncrowned]] [[King]] tournament. When consumed, this substance is processed over a period of three days to transform the user's madra channels, making them as resilient and pure as a [[diamond]]. This transformation is essential for certain users to prevent their channels from being destroyed during intense techniques or when utilizing powerful elixirs. Once integrated, the Diamond Veins can stabilize a user's madra channels even under extreme pressure, and in some cases, they contribute to the strengthening of the user's spirit well and the unification of their body and spirit.}}
-
-== Uncrowned ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|[[Yerin]] mentions needing the [[Diamond Veins]] to avoid her channels being shredded by the technique.<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
-</ul></div>
+{{spoiler|book=cradle-11-dreadgod|The Diamond Veins are a valuable asset that can be earned through points, a process that [[Lindon]] found took longer than anticipated due to the costs of supporting others. Once acquired, they can be absorbed to improve an individual's [[madra channels]] and strengthen the connection between their body and [[spirit]]. For [[Yerin]], these veins provided essential stability for her [[madra channels]] during the use of a specific [[technique]] that would otherwise have caused them to rupture. Additionally, copies of these veins can be used to progress a person's physical solidity and strengthen their [[spirit]] well.}}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|Diamond Veins is recognized as a high-value item with a cost of 2000 points. [[Lindon]] initially hopes that [[Northstrider]] will provide him with the item as a gift. The importance of the object is proven when it prevents [[Yerin]]'s madra channels from tearing apart during her technique. Later, a copy of the Diamond Veins held by [[Ruby]] is shown to have progressed.}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Diamond Veins]] costs 2000 points.<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Diamond Veins]] is a high-value item.<ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] hopes [[Northstrider]] will gift him [[Diamond Veins]].<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|Without the [[Diamond Veins]], [[Yerin]]'s madra channels would have torn apart during the technique.<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Without the [[Diamond Veins]], [[Yerin]]'s [[madra channels]] would have torn apart during the [[technique]].<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Ruby]]'s copy of [[Yerin]]'s [[Diamond Veins]] progressed.<ref name="cradle-08-wintersteel-c22">''Wintersteel'', chapter 22</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Yerin]] absorbed the [[Diamond Veins]] won in the [[Uncrowned]] [[King]] tournament.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Yerin]] absorbed the [[Diamond Veins]] won in the Uncrowned King Tournament{{!}}Uncrowned King tournament.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] has absorbed the [[Diamond Veins]].<ref name="cradle-11-dreadgod-c12">''Dreadgod'', chapter 12</ref>}}</li>
 </ul></div>
 
@@ -39,7 +28,6 @@
 {{Cradle nav}}
 
 [[Category:Concepts]]
-[[Category:Uncrowned]]
 [[Category:Wintersteel]]
 [[Category:Dreadgod]]
 [[Category:Cradle]]

@@ -8,10 +8,19 @@
 }}
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|Grandmaster [[Lirial]] is a high-ranking official and a [[Territory]] whose primary abilities center on the collection, preservation, and surveillance of information rather than direct combat. Historically, [[Lirial Travelers]] served as sentinels and scouts for the [[Elysian]] [[Travelers]]. As a Grandmaster, [[Lirial]] maintains a council room in [[Enosh]], accessible via [[Lirial]] [[Gates]] that shift locations based on the movements of the moons. This individual possesses an artificial voice and wears a mask of silver ribbons, though their gender remains unknown to others. [[Lirial]] is capable of using crystal lenses to observe distant events and can deploy crystal probes for communication or observation. While not naturally destructive, [[Lirial]] can utilize star-nets and mixtures of white light and crystals to attack. The Grandmaster has also demonstrated the ability to use [[Lirial]] powers to seal or immobilize targets.}}
+{{spoiler|book=tg-03-city-of-light|Grandmaster [[Lirial]] is a high-ranking official and a [[Territory]] whose abilities focus on the collection and preservation of intelligence rather than direct combat. Historically, [[Lirial Travelers]] served as watchful sentinels and scouts for the Elysian Traveler{{!}}Elysian Travelers. As a Grandmaster, [[Lirial]] is involved in strategic military planning, such as identifying vulnerable [[Trees]] for potential assault during wartime. [[Lirial]] possesses the ability to utilize gates that shift locations based on the movement of the moons and can use crystal lenses to observe distant events. The entity's physical appearance is characterized by silver ribbons, silver wire, and white crystal, often wearing a The mask{{!}}mask or possessing a crystal head. While the gender of the Grandmaster is not explicitly known to others, the [[Lirial Incarnation]] is described as a woman of silver and crystal who can use light-based attacks and specialized star-nets to incapacitate targets. [[Lirial]]'s role involves maintaining surveillance on key figures like [[Alin]], the [[Elysian Traveler]], and monitoring various conflicts across different territories.}}
+
+== Appearance ==
+{{spoiler|book=tg-03-city-of-light|This figure is wrapped in silver. Their voice is characterized by a toneless buzzing sound.}}
+
+== Personality ==
+{{spoiler|book=tg-03-city-of-light|As the mysterious leader of the [[Lirial Travelers]], this Grandmaster holds specific beliefs regarding others, such as viewing [[Leah]] as a frightened natural [[Traveler]] from the villages.}}
+
+== Abilities ==
+{{spoiler|book=tg-03-city-of-light|[[Lirial]] utilizes a crystal lens to conduct observations of [[Alin]] and his sisters.}}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|Grandmaster [[Lirial]] serves as the mysterious leader of the [[Lirial Travelers]]. This Grandmaster appears as a figure wrapped in silver and speaks with a voice resembling a toneless buzz. Acting as a potential source of interference on the [[Lirial]] side, [[Lirial]] utilizes a crystal lens to observe [[Alin]] and his sisters.}}
+{{spoiler|book=tg-02-crimson-vault|Grandmaster [[Lirial]] serves as the mysterious leader of the [[Lirial Travelers]]. Appearing as a silver-wrapped figure, the Grandmaster communicates with a voice that resembles a toneless buzz. During recent events, [[Lirial]] acted as a potential source of interference on the [[Lirial]] side and utilized a crystal lens to observe [[Alin]] and his sisters.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -29,7 +38,7 @@
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=tg-02-crimson-vault|"I suspect Grandmaster Lirial or one of her lieutenants has created interference on the Lirial side."<ref name="tg-02-crimson-vault-c15" />}}
+* {{spoiler|book=tg-02-crimson-vault|I suspect Grandmaster Lirial or one of her lieutenants has created interference on the Lirial side."<ref name="tg-02-crimson-vault-c15" />}}
 
 == Notes ==
 <references />
@@ -41,6 +50,3 @@
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate characters]]
-[[Category:Lirial Travelers]]
-[[Category:Titled characters]]
-[[Category:Travelers]]

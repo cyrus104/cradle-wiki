@@ -1,4 +1,20 @@
-#REDIRECT [[destruction madra]]
+{{Infobox madra
+| name = destruction madra
+| introduced = [[Reaper (novel)|Reaper]]
+}}
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|The eighth exit in the room was carved by [[destruction madra]].<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|destruction madra{{!}}Destruction madra erupts from [[Kelsa]]'s locket.<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|destruction madra{{!}}Destruction madra can devour serpents.<ref name="cradle-11-dreadgod-c17" />}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Madra]]
 [[Category:Dreadgod]]

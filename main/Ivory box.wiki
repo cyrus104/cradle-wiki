@@ -1,0 +1,29 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = ivory box
+| introduced = [[Soulsmith (novel)|Soulsmith]]
+}}
+
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|[[Lindon]] found an [[ivory box]] etched with a pattern of interlocking leaves.<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|An intricately carved [[ivory box]] exists within a dream tablets{{!}}dream tablet memory, ringed in dense Script{{!}}script and possessing a powerful will to bind.<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Soulsmith]]
+[[Category:Reaper]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

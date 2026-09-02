@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox concept
+| name = blue fungus
+| introduced = [[House of Blades (novel)|House of Blades]]
+}}
+
+== House of Blades ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-01-house-of-blades|Blue fungus grows on the walls of the tunnel in [[Orgrith Cave]] and glows softly.<ref name="tg-01-house-of-blades-c11">''House of Blades'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Concepts]]
+[[Category:House of Blades]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate concepts]]

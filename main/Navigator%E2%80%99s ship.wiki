@@ -1,17 +1,17 @@
 {{Infobox artifact
 | name = Navigator’s ship
-| introduced = Of Dawn and Darkness
+| introduced = [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]]
 }}
 
 == Overview ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|A [[Navigator]]'s ship is a unique, one-of-a-kind [[Awakened object]] that serves as the primary vessel for members of the [[Navigator]]'s [[Guild]]. These vessels are highly personal to their captains, often described as being synonymous with a captain's soul. Because of their specialized nature, most [[Navigator ships]] cannot be operated by anyone other than a [[Navigator]]; if a crew is killed by an enemy, the vessel could be run aground as it would be impossible for outsiders to sail. While many ships are part of the official [[Guild]] fleet, there are also [[Navigator]] vessels that belong to other groups, such as the [[Consultants]], who possess their own specialized ships like [[Bastion's Shadow]]. [[Navigator]] vessels are known for their highly unusual and diverse appearances, often featuring strange biological or magical elements. Examples include ships constructed from giant crab carapaces, vessels made of bone, ships shaped like animated conch shells, and others featuring blue fins or gold-edged sails decorated with large snakeskins. Some ships are even identified by distinct features like a twisting or yellowed [[Elder eye]] positioned where a crow's nest would typically be. These ships are capable of traveling the [[Aion]] and do not require lighthouses for guidance, as [[Navigators]] have no need for such coastal lights.}}
+{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Navigator ships]] are unique, one-of-a-kind Awakened vessels used by the Navigator’s Guild{{!}}Navigator's Guild. These ships are deeply connected to their captains, often described as being synonymous with a captain's soul. Because of their specialized nature, they generally cannot be operated by anyone other than a [[Navigator]]; if a crew is killed by an enemy, the vessel could be run aground as it would be impossible for others to sail. While many of these vessels are highly unusual in appearance—such as those featuring blue fins, bone-like structures, or even the form of a [[giant]] conch shell—they are all capable of traveling the [[Aion]]. Notable examples within the fleet include [[The Eternal]], which belongs to the Blackwatch Guild Head{{!}}Guild Head and features red sails that leave trails of flame, and [[The Reliable]], a pink-and-seafoam colored ship shaped like an animated conch shell that is rumored to be unsinkable. Other distinct vessels include [[The Testament]], which has green sails, and Bastion's Shadow{{!}}Bastion’s Shadow, a black wooden ship used by the [[Consultants]] that features a large, swiveling Elder eye in place of a crow's nest. There are also ships that do not belong to the [[Guild]], such as those used by the [[Consultants]] or [[Independents]], which may feature unique decorations like gold edging and snakeskins or unusual structures like crab carapaces.}}
 
 == Of Dawn and Darkness ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Navigator]]'s ship arrived to assist the group.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Navigator]] ship is a type of vessel.<ref name="ee-sea-02-of-dawn-and-darkness-c21">''Of Dawn and Darkness'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Navigator]]'s ship is near the [[Aion Sea]].<ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A Navigator’s ship{{!}}Navigator's ship arrived to assist the group.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A Navigator’s ship{{!}}Navigator ship is a type of vessel.<ref name="ee-sea-02-of-dawn-and-darkness-c21">''Of Dawn and Darkness'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A Navigator’s ship{{!}}Navigator's ship is near the [[Aion Sea]].<ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}</li>
 </ul></div>
 
 == Of Darkness and Dawn ==
@@ -24,7 +24,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Navigator ships]] are one-of-a-kind [[Awakened objects]].<ref name="ee-sea-03-of-kings-and-killers-c8">''Of Kings and Killers'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The group is traveling to a crashed [[Navigator]] ship.<ref name="ee-sea-03-of-kings-and-killers-c8" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The group is traveling to a crashed Navigator’s ship{{!}}Navigator ship.<ref name="ee-sea-03-of-kings-and-killers-c8" />}}</li>
 </ul></div>
 
 == Notes ==

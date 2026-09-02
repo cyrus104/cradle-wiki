@@ -1,16 +1,16 @@
 {{Infobox artifact
 | name = Mortal Edict
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|Mortal [[Edict]] is a powerful entity characterized by the magic of death, representing the unavoidable and certain end of all things. She serves as a force against stagnation and aims to bring an end to those who are immortal. Her power is immense, far exceeding the capabilities of weaponry like the [[Zenith Cannon]], which was modeled after her own abilities. In combat, she can manifest in a star form featuring a multicolored or rainbow-colored sun. While she has demonstrated intense aggression and a desire to fight, she has also shown moments of fascination with technology and can be influenced by the presence of others.}}
+{{spoiler|book=lh-04-the-pilot|Mortal [[Edict]] is a powerful entity characterized by the magic of death, representing the unavoidable and unstoppable end of all existence. She views herself as a solution to stagnation and a force capable of bringing mortality to those who are otherwise undying. Her power is immense, far exceeding the capabilities of advanced weaponry like the [[Zenith Cannon]]. Physically, she can manifest in a star form featuring a multicolored or rainbow-colored sun. In combat and social interactions, she displays a spirited, sometimes mocking personality, though she is capable of showing fascination with technology and can experience moments of weakness.}}
 
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Mortal Edict]] is something for which someone qualified must be found.<ref name="lh-03-the-knight-c23">''The Knight'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|[[Mortal Edict]] is sitting on [[Sola]]'s lap.<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Mortal Edict]] is sitting on Sola Kalter{{!}}Sola's lap.<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
 </ul></div>
 
 == The Pilot ==

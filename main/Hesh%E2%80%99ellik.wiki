@@ -7,15 +7,21 @@
 }}
 
 == Overview ==
-{{spoiler|book=lh-03-the-knight|Hesh’ellik, also known as the Infester, is a member of the [[D’Niss]] species. As a powerful entity, it possesses subtle psychic capabilities and utilizes probability manipulation to trigger improbable catastrophes against its enemies. During combat, Hesh’ellik can command a vast army of soldiers from the [[Sel’miroth]] hive, which include various specialized forms such as winged, heavily armored, or clawed variants. In battle, the entity can deploy spells that target enemy fleets and exert intense psychic pressure on vessels. Despite its significant power, Hesh’ellik was eventually killed, after which other [[D’Niss]] entities were observed emerging from subspace.}}
+{{spoiler|book=lh-03-the-knight|Hesh’ellik, also known as the Infester, is a member of the [[D’Niss]] species. As one of the [[Seven Calamities]], it commands a legion of soldiers originating from the [[Sel’miroth]] hive. These soldiers appear in various forms, including winged versions for speed, larger units with heavy shells, and others equipped with oversized heads or claws enhanced by [[Combat Arts]]. Hesh’ellik possesses potent psychic abilities, specifically the power to manipulate probability to trigger improbable catastrophes for its enemies. During combat, it can deploy invisible signals to coordinate its troops and utilize spells that target opposing fleets. Its physical form features a four-part mouth with fangs, and it is capable of exerting intense psychic pressure on vessels.}}
+
+== Appearance ==
+{{spoiler|book=lh-03-the-knight|Hesh’ellik is a bug characterized by having a thousand sections. The entity is also known by the title of the Infester.}}
+
+== Abilities ==
+{{spoiler|book=lh-03-the-knight|A [[D’Niss]] specialist in [[fortune magic]], Hesh’ellik utilizes probability manipulation. This allows the creature to cause unlikely disasters to befall its opponents.}}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|Known as the Infester, Hesh’ellik was a [[D’Niss]] bug composed of a thousand sections. This entity specialized in fortune magic, utilizing probability manipulation to trigger unlikely disasters against its opponents. During combat, Hesh’ellik would allow time for its spells to take effect before ultimately becoming deceased.}}
+{{spoiler|book=lh-03-the-knight|Known as the Infester, Hesh’ellik was a [[D’Niss]] bug composed of a thousand sections. This entity specialized in [[fortune magic]], utilizing probability manipulation to trigger unlikely disasters against its opponents. During its final moments, Hesh’ellik waited for a spell to take effect before ultimately becoming deceased.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Hesh’ellik]] is known as the Infester.<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|[[Hesh’ellik]] is a [[D’Niss]] that specializes in fortune magic.<ref name="lh-03-the-knight-c35" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Hesh’ellik]] is a [[D’Niss]] that specializes in [[fortune magic]].<ref name="lh-03-the-knight-c35" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Hesh’ellik]] uses probability manipulation to evoke unlikely disasters in its opponents.<ref name="lh-03-the-knight-c35" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Hesh’ellik]] is a bug with a thousand sections.<ref name="lh-03-the-knight-c35" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Hesh’ellik]] is giving a spell time to take effect.<ref name="lh-03-the-knight-c35" />}}</li>
@@ -34,4 +40,3 @@
 [[Category:The Knight]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon characters]]
-[[Category:Titled characters]]

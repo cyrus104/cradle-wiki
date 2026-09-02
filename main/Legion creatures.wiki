@@ -2,13 +2,13 @@
 
 {{Infobox group
 | name = Legion creatures
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|[[Legion creatures]] appear out of nowhere to target [[life]] support mechanisms.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Legion creatures]] appear out of nowhere to target life support mechanisms.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}</li>
 </ul></div>
 
 == Notes ==

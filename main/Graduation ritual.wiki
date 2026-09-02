@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox event
+| name = graduation ritual
+| introduced = [[House of Blades (novel)|House of Blades]]
+}}
+
+== House of Blades ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-01-house-of-blades|The [[graduation ritual]] is a survival test where one must stay alive for seven nights to graduate.<ref name="tg-01-house-of-blades-c10">''House of Blades'', chapter 10</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Events]]
+[[Category:House of Blades]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate events]]

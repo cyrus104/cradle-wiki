@@ -2,7 +2,7 @@
 
 {{Infobox artifact
 | name = Aether scanners
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == The Captain ==
@@ -14,7 +14,7 @@
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|The [[Pilot]] has a unique [[Aethertech]] scanner.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Pilot]] has a unique Aether scanners{{!}}Aethertech scanner.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}</li>
 </ul></div>
 
 == Notes ==

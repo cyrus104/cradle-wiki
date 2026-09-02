@@ -1,0 +1,21 @@
+{{Expand}}
+
+{{Infobox construct
+| name = barrier of blue light
+| introduced = [[Ghostwater (novel)|Ghostwater]]
+}}
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|A faction has raised a [[barrier of blue light]] that stretches across half the island.<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Constructs]]
+[[Category:Ghostwater]]
+[[Category:Cradle]]

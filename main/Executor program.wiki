@@ -1,12 +1,12 @@
 {{Infobox concept
 | name = Executor program
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|[[Ozriel]] discovered restricted records of the [[Court of Seven]] regarding the [[Executor program]].<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Ozriel discovered restricted records of the [[Court]] of Seven regarding the [[Executor program]].<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
 </ul></div>
 
 == Waybound ==
@@ -32,4 +32,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Terminology]]

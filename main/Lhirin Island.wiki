@@ -1,6 +1,6 @@
 {{Infobox location
 | name = Lhirin Island
-| introduced = Of Sea and Shadow
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 == Of Sea and Shadow ==
@@ -12,8 +12,8 @@
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Lhirin Island]] is a floating [[island]] of the [[Aion]] that moves and hunts ships.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Calder Marten]] was expected to take a long way around [[Lhirin Island]].<ref name="ee-shadow-01-of-shadow-and-sea-c10" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Lhirin Island]] is a floating island of the [[Aion]] that moves and hunts ships.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Imperial Steward Calder Marten{{!}}Calder Marten was expected to take a long way around [[Lhirin Island]].<ref name="ee-shadow-01-of-shadow-and-sea-c10" />}}</li>
 </ul></div>
 
 == Notes ==
@@ -26,4 +26,3 @@
 [[Category:Of Shadow and Sea]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire locations]]
-[[Category:Regions]]

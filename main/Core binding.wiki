@@ -1,0 +1,25 @@
+{{Expand}}
+
+{{Infobox concept
+| name = core binding
+| introduced = [[Waybound (novel)|Waybound]]
+}}
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[Dreadgods]] are reborn from their [[core binding]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-12-waybound|“Normally, Dreadgods are reborn from their core binding.<ref name="cradle-12-waybound-c23" />}}
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Concepts]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle concepts]]

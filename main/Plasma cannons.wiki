@@ -1,0 +1,23 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = plasma cannons
+| introduced = [[The Captain (novel)|The Captain]]
+}}
+
+== The Captain ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|Plasma cannons from three galleon-style [[Sunsails]] focused on the cruisers with compromised shields.<ref name="lh-01-the-captain-c27">''The Captain'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Plasma cannons are offensive spells that hit harder than other standard protection spells.<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Artifacts]]
+[[Category:The Captain]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon artifacts]]

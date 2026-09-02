@@ -1,17 +1,16 @@
 {{Infobox artifact
 | name = Mantle (The Last Horizon)
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] is a legendary starship characterized by its organic, bird-of-prey appearance. Measuring between four hundred and five hundred yards in length, the vessel features smooth metal hull plates that can glow in various colors such as blue-green, purple, or green. While some view the ship as a myth, it is regarded by others as a premier example of starship engineering. It possesses powerful [[Aethertech]] weaponry comparable to massive dreadnoughts despite its smaller size. Legendary and potentially exaggerated capabilities attributed to the ship include the ability to terraform entire systems, [[construct]] colonies instantly, freeze planetary motion, pierce planets, and transport crew across the galaxy without using [[Subspace]]. It is also rumored to be a single [[Zenith Device]] containing enchantments from multiple [[Archmagi]], an astral [[dragon]], and three [[World Spirits]]. The ship is inhabited by a [[World Spirit]] known as [[Horizon]], who can manifest physically or as a multi-colored holographic entity. [[Horizon]] serves as the vessel's consciousness and can interact with the crew through magic. The ship's history includes defeating a world-core entity and retrieving a rogue rover from a nightmare realm. Various individuals have been associated with the vessel, including a rumored Captain named [[Varic Vallenar]], an [[Engineer]], and a [[Pilot]].}}
+{{spoiler|book=lh-04-the-pilot|[[The Last Horizon]] is a legendary starship characterized by its organic, bird-of-prey appearance. Measuring between four hundred and five hundred yards in length, the vessel features smooth metal hull plates that can glow in various colors such as blue-green, purple, or green. While some consider the ship a myth, it is regarded as an original exemplar of starship design, possessing [[Aethertech]] weaponry that rivals the power of massive dreadnoughts despite its smaller size. Its construction is described as being grown rather than built, and it may function as a single [[Zenith Device]]. The ship is said to possess extraordinary, though sometimes contradictory, abilities including the capacity to terraform entire systems, [[construct]] colonies instantly, freeze planetary motion, pierce planets, and transport crew across the galaxy without using [[Subspace]]. It is also rumored to be capable of creating entire fleets. The vessel is inhabited by several [[World Spirits]], one of whom is a horned woman known as [[Horizon]]. [[Horizon]] serves as the ship's consciousness and can manifest physically or as a multi-colored holographic projection to interact with the crew. The ship's history includes significant feats, such as defeating a world-threatening entity and retrieving a rogue rover from a realm of nightmares. Legends associate the ship with various magical enchantments from [[Archmagi]] and an astral [[dragon]], and it has been linked to the human Varic Vallenar{{!}}Archmage Varic Vallenar. The ship's internal structure includes containment rooms, a sealed [[vault]], and specialized decks for its crew, which may include roles such as an [[Engineer]] and a [[Pilot]].}}
 
 == The Captain ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|The narrator's mantle has a protective enchantment.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The narrator's mantle has a protective [[enchantment]].<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The narrator wears a mantle.<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The mantle bleeds into the psychic realm to provide mental defense.<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
 </ul></div>
 
 == The Engineer ==
@@ -23,7 +22,7 @@
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|[[Varic]] possesses a mantle that protects him from certain harms.<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Varic Vallenar{{!}}Varic possesses a mantle that protects him from certain harms.<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref>}}</li>
 </ul></div>
 
 == The Pilot ==

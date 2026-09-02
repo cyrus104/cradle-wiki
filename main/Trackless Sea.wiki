@@ -1,12 +1,12 @@
 {{Infobox location
 | name = Trackless Sea
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Trackless Sea Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|The Trackless Sea is a massive, endless ocean located to the north of the [[Blackflame Empire]]. According to maps, it is the widest known ocean and covers approximately half of the world. While some stretches of the sea are unremarkable, other regions contain cities, nations, and various buildings that either hang from solidified clouds or emerge from the waves. The ocean is home to diverse and dangerous entities, including walking sharks on its beaches, vicious water-spirits, and storm-dragons—which are constructions of the [[Dreadgod]] that inhabit the lightning-filled storm clouds above. The sea is also a site of significant conflict and strategic importance. The [[Kotai clan]] maintains a defensive wall to protect the empire from various ocean tribes that seek to claim land. The area has been a theater for battles involving powerful figures and clans, such as the [[Akura]] family and [[Redmoon Hall]]. Beneath the surface lies a [[labyrinth]] that connects to different locations, including the pocket world of [[Ghostwater]]. The ocean's environment can be highly volatile, featuring spatial cracks that leak water from the [[void]] and massive disruptions caused by entities like the [[Wandering Titan]].}}
+{{spoiler|book=cradle-12-waybound|The Trackless Sea is a massive, endless ocean located to the north of the [[Blackflame Empire]]. It is recognized as the largest known body of [[water]], covering approximately half of the world's surface. The ocean is home to various threats, including sea monsters, walking sharks, and vicious [[water]]-spirits. While some stretches of the sea are uninhabited, other regions contain their own distinct nations and cities. The [[Kotai clan]] is responsible for manning the defensive wall that protects the empire from various ocean tribes seeking to seize land. Within the sea, there are underwater labyrinths and specialized locations such as [[Ghostwater]], a [[pocket world]] created by the [[Monarch]] [[Northstrider]] that contains a research facility. The area is also subject to extreme environmental phenomena, including storms filled with liquid lightning and the presence of [[storm-dragons]]. Additionally, the sea has been impacted by massive entities like the [[Wandering Titan]] and the [[Dreadgod]].}}
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -19,7 +19,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Trackless Sea]] is a location that requires a three-day journey to reach.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Trackless Sea]] is a location mentioned by [[Naru Saeya]].<ref name="cradle-05-ghostwater-c4">''Ghostwater'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|The [[Sage of the Silver Heart]] is on an [[island]] in the [[Trackless Sea]].<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Sage of the Silver Heart]] is on an island in the [[Trackless Sea]].<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Underlord ==
@@ -42,15 +42,12 @@
 </ul></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The Trackless Sea serves as the setting for [[Lindon]]'s drift across its waters. Within this region, [[Windfall]] is situated and the [[Dreadgod]] is intended to be fought. The depths of the sea contain the [[Sunken Tower]], while the endless expanse above witnessed the reappearance of [[Northstrider]].}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] drifts over the [[Trackless Sea]].<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] intends to fight the [[Dreadgod]] over the [[Trackless Sea]].<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Trackless Sea]] is a location where [[Windfall]] is situated.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Sunken Tower]] is located at the bottom of the [[Trackless Sea]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Northstrider]] reappeared over an endless expanse of ocean in the [[Trackless Sea]].<ref name="cradle-12-waybound-c23" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Northstrider]] reappeared over an endless expanse of ocean in the [[Trackless Sea]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -67,4 +64,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Regions]]

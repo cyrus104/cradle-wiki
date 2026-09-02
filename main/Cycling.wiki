@@ -1,0 +1,27 @@
+{{Infobox technique
+| name = cycling
+| introduced = [[Soulsmith (novel)|Soulsmith]]
+}}
+
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|Cycling is a process used to move [[madra]].<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Blackflame ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-03-blackflame|Cycling is a process used to refine and control power by revolving [[madra]] along with breath.<ref name="cradle-03-blackflame-c4">''Blackflame'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|One cannot take in [[aura]] while [[cycling]].<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Techniques]]
+[[Category:Soulsmith]]
+[[Category:Blackflame]]
+[[Category:Cradle]]

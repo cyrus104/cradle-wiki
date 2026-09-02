@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = scripted blanket
+| introduced = [[Ghostwater (novel)|Ghostwater]]
+}}
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|A [[scripted blanket]] can be used to disperse spiritual senses.<ref name="cradle-05-ghostwater-c14">''Ghostwater'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Ghostwater]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

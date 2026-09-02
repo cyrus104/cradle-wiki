@@ -2,13 +2,13 @@
 
 {{Infobox artifact
 | name = Forged weapon
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|[[Gokren]] used a [[Forged weapon]].<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|Sandviper Gokren{{!}}Gokren used a [[Forged weapon]].<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Notes ==

@@ -1,19 +1,18 @@
 {{Infobox concept
 | name = World Spirit of Visiria
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 == Overview ==
-{{spoiler|book=lh-03-the-knight|The [[World Spirit]] of [[Visiria]] is a powerful entity that serves as the physical manifestation of its namesake planet. Within the [[Karoshan Alliance]], [[Visiria]] acts as a primary component and holds the position of the second most significant member. The [[World Spirit]] is characterized by an intense, volatile temperament and has been described as the embodiment of rage. In combat, the entity is exceptionally formidable, possessing six hands and demonstrating a violent, predatory nature. Furthermore, [[World Spirits]] are capable of blessing items, such as the [[Heart]] of [[Visiria]], with healing energies that are potent enough to perform tasks requiring multiple practitioners. There is also a connection between these spirits and the [[Aether]]; in certain circumstances, they may feed entities like the [[Swarm-Queen]] until the [[Aether]] itself is compromised.}}
+{{spoiler|book=lh-03-the-knight|The [[World Spirit]] of [[Visiria]] is a powerful entity that serves as the physical manifestation of its namesake planet. Described as possessing immense strength, the [[spirit]] is characterized by a volatile and irrational temperament, often exhibiting extreme fury. In combat, it has demonstrated terrifying capabilities, such as using multiple limbs to violently dismantle opponents. The [[spirit]] is also capable of blessing specific objects, like the The Heart of Visiria{{!}}Heart of Visiria, which functions as a potent healing tool through its channeled energies. Furthermore, the [[spirit]] plays a role in the planet's relationship with the [[Aether]]; if the [[Swarm-Queen]] were summoned, the [[World Spirits]] would provide her with sustenance until the [[Aether]] itself could be compromised.}}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|The [[World Spirit]] of [[Visiria]] is a beefy entity that serves as the physical embodiment of pure fury. This being manifests as a muscular [[Visiri]] warrior possessing skin the color of fresh blood and six distinct fists. Its three eyes burn with the intensity of captured suns, while its body is clad in glistening bronze armor. In combat, the spirit wields titanic thunderbolts, hurling lightning in shades of red, green, blue, and white.}}
+{{spoiler|book=lh-03-the-knight|The [[World Spirit]] of [[Visiria]] is a beefy entity that serves as the physical embodiment of pure fury. This being possesses three eyes that burn with the intensity of captured suns. Clad in glistening bronze armor, the [[spirit]] wields titanic thunderbolts during combat. These weapons allow it to hurl lightning bolts of red, green, blue, and white.}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The [[World Spirit of Visiria]] is described as beefy.<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[World Spirit of Visiria]] is the physical embodiment of pure fury.<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|The [[World Spirit of Visiria]] takes the form of a muscular [[Visiri]] warrior with skin the color of fresh blood and six fists.<ref name="lh-03-the-knight-c40" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[World Spirit of Visiria]] has three eyes that burn like captured suns.<ref name="lh-03-the-knight-c40" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[World Spirit of Visiria]] wears glistening bronze armor and wields titanic thunderbolts.<ref name="lh-03-the-knight-c40" />}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[World Spirit of Visiria]] hurls lightning bolts of red, green, blue, and white.<ref name="lh-03-the-knight-c40" />}}</li>
@@ -28,4 +27,3 @@
 [[Category:The Knight]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon concepts]]
-[[Category:Lifeforms]]

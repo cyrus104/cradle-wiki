@@ -2,17 +2,14 @@
 
 {{Infobox concept
 | name = Undersong
-| introduced = Of Shadow and Sea
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Undersong]] is a substance mentioned by [[Fletcher]].<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Undersong]] is a substance mentioned by Ulrich Fletcher{{!}}Fletcher.<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
 </ul></div>
-
-== Notable quotes ==
-* {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“What are you making in there? Anthem? Drake dust? Undersong?”<ref name="ee-shadow-01-of-shadow-and-sea-c2" />}}
 
 == Notes ==
 <references />

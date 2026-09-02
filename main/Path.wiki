@@ -1,10 +1,10 @@
 {{Infobox concept
 | name = Path
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-11-dreadgod|A Path is a specialized journey taken by practitioners of the [[sacred arts]] to gain power and achieve comprehension. While there are countless individual [[Paths]]—such as the [[Path of the White Fox]], the [[Path of the Endless Sword]], or the [[Path of Black Flame]]—sages suggest they can all be distilled into a single goal: self-improvement. Some practitioners follow ancient instructions, while others, like [[Lindon]], must forge their own unique Path through personal resolve and desire. A Path can be a foundational part of an individual's identity, providing the techniques and [[madra]] necessary for advancement through different stages of power. [[Paths]] vary significantly in their nature and utility. Some are combat-oriented, such as the 'slaughter Paths' of blood and [[sword]], while others focus on utility or coordination, like the [[Path of Ten Thousand Dreams]] which allows for the sharing of memories and thoughts. Certain [[Paths]] are highly specialized, such as the [[Raging Sky]], which balances multiple elements like wind and lightning, or the [[Path of the Eightfold Spear]], which functions as a collective bond between members of an empire. A Path is often viewed as a lifelong pursuit that has no true end, as complete comprehension remains an unattainable goal even after studying for the duration of the universe.}}
+{{spoiler|book=cradle-11-dreadgod|A Path is a specialized discipline within the [[sacred arts]] that functions as a journey for its practitioner. While there are countless variations—such as the [[Path of the Endless Sword]], the [[Path of the White Fox]], or the [[Path of Black Flame]]—sages suggest that all these diverse routes can ultimately be distilled into a single goal: self-improvement. [[Paths]] provide the framework for gaining power and can dictate how a person prepares for [[advancement]] through different stages of strength. Some [[Paths]] are highly specialized, such as the [[Path of Ten Thousand Dreams]] which focuses on sharing memories and thoughts, or the Path of [[Raging Sky]] which balances multiple elemental [[aspects]]. Certain disciplines, like those centered on [[blood]] or swords, are sometimes referred to as [[slaughter Paths]] due to their violent nature. While many practitioners follow ancient instructions, it is possible for an individual to forge and document their own unique Path. Success on any given Path requires significant resolve and desire, particularly when attempting to progress beyond the [[Gold stage]]. Ultimately, a Path is a means of navigating Way{{!}}the Way, which serves as a source of orderly power that protects against chaos.}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -54,4 +54,3 @@
 [[Category:Dreadgod]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Terminology]]

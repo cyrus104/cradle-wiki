@@ -15,7 +15,7 @@
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[The Hound]] is a [[Judge]] who disapproved of unsealing [[Ozriel]]'s mouth.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[The Hound]] is a [[Judge]] who disapproved of unsealing Ozriel's mouth.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
 </ul></div>
 
 == Waybound ==
@@ -25,7 +25,7 @@
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=cradle-08-wintersteel|The Hound sighed. "I suppose the Dragon King doesn’t intend to advance."<ref name="cradle-08-wintersteel-c28" />}}
+* {{spoiler|book=cradle-08-wintersteel|The Hound sighed. “I suppose the Dragon King doesn’t intend to advance.<ref name="cradle-08-wintersteel-c28" />}}
 
 == Notes ==
 <references />

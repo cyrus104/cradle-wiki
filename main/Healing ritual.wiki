@@ -1,0 +1,21 @@
+{{Expand}}
+
+{{Infobox technique
+| name = healing ritual
+| introduced = [[The Knight (novel)|The Knight]]
+}}
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|A [[healing ritual]] typically requires an [[Archmage]] of healing spells and six supplementary casters, plus one restorative artifact.<ref name="lh-03-the-knight-c11">''The Knight'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Techniques]]
+[[Category:The Knight]]
+[[Category:The Last Horizon]]

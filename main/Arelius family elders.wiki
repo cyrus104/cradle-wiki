@@ -2,13 +2,13 @@
 
 {{Infobox group
 | name = Arelius family elders
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|The elders of the [[Arelius family]] can rein in the Patriarch.<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The elders of the [[Arelius family]] can rein in the Jai Patriarch{{!}}Patriarch.<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Arelius family elders]] were displeased with [[Eithan]]'s handling of recent matters, specifically [[Lindon]]'s lost duel.<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}</li>
 </ul></div>
 

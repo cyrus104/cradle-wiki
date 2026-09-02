@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = shadow-blade
+| introduced = [[Ghostwater (novel)|Ghostwater]]
+}}
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] sweeps a [[shadow-blade]] aside.<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Ghostwater]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

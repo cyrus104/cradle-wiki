@@ -1,25 +1,25 @@
 {{Infobox artifact
 | name = VC-21 chaos rifle
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|The [[VC-21 chaos rifle]] fires both plasma bolts and magically accelerated bullets to overwhelm shields.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[VC-21 chaos rifle]] fires both plasma bolt{{!}}plasma bolts and magically accelerated bullets to overwhelm shields.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
 </ul></div>
 
 == The Engineer ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|The narrator uses a [[VC-21 chaos rifle]].<ref name="lh-02-the-engineer-c47">''The Engineer'', chapter 47</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|The narrator uses a chaos rifle.<ref name="lh-02-the-engineer-c48">''The Engineer'', chapter 48</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The narrator uses a VC-21 chaos rifle{{!}}chaos rifle.<ref name="lh-02-the-engineer-c48">''The Engineer'', chapter 48</ref>}}</li>
 </ul></div>
 
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|The [[VC-U6 Rainbringer]] is a portable variant of the chaos rifle.<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[VC-U6 Rainbringer]] is a portable variant of the VC-21 chaos rifle{{!}}chaos rifle.<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}</li>
 </ul></div>
 
 == Notes ==

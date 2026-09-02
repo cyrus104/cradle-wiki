@@ -1,0 +1,28 @@
+{{Infobox artifact
+| name = messenger construct
+| introduced = [[Wintersteel (novel)|Wintersteel]]
+}}
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|A [[messenger construct]] appeared as a flickering violet star.<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
+</ul></div>
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|A [[messenger construct]] in the form of a white hawk conveyed a message.<ref name="cradle-11-dreadgod-c8">''Dreadgod'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|There are ten thousand tiny red [[messenger constructs]] that fly through the city's skies every night.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Wintersteel]]
+[[Category:Dreadgod]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

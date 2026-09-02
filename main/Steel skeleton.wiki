@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox construct
+| name = steel skeleton
+| introduced = [[House of Blades (novel)|House of Blades]]
+}}
+
+== House of Blades ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-01-house-of-blades|The [[steel skeleton]] provides [[Simon]] with some fortification.<ref name="tg-01-house-of-blades-c12">''House of Blades'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|A [[steel skeleton]] exists in the depths of [[Valinhall]]'s blue-lit basement.<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Constructs]]
+[[Category:House of Blades]]
+[[Category:Traveler's Gate]]

@@ -1,0 +1,31 @@
+{{Expand}}
+
+{{Infobox character
+| name = echo of Malice
+| aliases = Malice's echo
+| appears_in = Cradle
+| introduced = [[Reaper (novel)|Reaper]]
+}}
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|The [[echo of Malice]] is an image that tracks [[Mercy]] with an arrow.<ref name="cradle-10-reaper-c18">''Reaper'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|An [[echo of Malice]] remains in labyrinth{{!}}the labyrinth.<ref name="cradle-12-waybound-c28">''Waybound'', chapter 28</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Characters]]
+[[Category:Reaper]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle characters]]

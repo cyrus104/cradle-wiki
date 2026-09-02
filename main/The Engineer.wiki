@@ -1,3 +1,4 @@
+<div class="hatnote wv-hatnote">''This article is about the character. For the novel, see [[The Engineer (novel)|''The Engineer'']].''</div>
 {{Infobox character
 | name = The Engineer
 | appears_in = The Last Horizon
@@ -7,14 +8,14 @@
 == The Engineer ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|[[The Engineer]] is a subject of inquiry between Shyrax and the [[Captain]].<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[The Engineer]] is a subject of inquiry between Queen Shyrax{{!}}Shyrax and the Captain.<ref name="lh-02-the-engineer-c7">''The Engineer'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[The Engineer]] did not ask them to defeat [[Starhammer]].<ref name="lh-02-the-engineer-c21">''The Engineer'', chapter 21</ref>}}</li>
 </ul></div>
 
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|Shyrax hopes the [[Engineer]] will be prepared.<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax hopes the [[Engineer]] will be prepared.<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==

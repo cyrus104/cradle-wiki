@@ -1,7 +1,8 @@
 {{Infobox character
 | name = Bastion
 | abilities = {{spoiler|book=ee-shadow-03-of-killers-and-kings|create mist, [[Bastion's Veil]]}}
-| titles = {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Soulbound Vessel]]}}
+| titles = {{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Soulbound Vessel]], [[Vessel]]}}
+| affiliations = {{spoiler|book=ee-shadow-03-of-killers-and-kings|enemy of the Consultants}}
 | appears_in = Elder Empire
 | introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
@@ -9,16 +10,10 @@
 ''See also: [[Bastion Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|Bastion was a renowned [[Soulbound]] and a foundational member of an order. He is responsible for creating the [[Veil]], a massive wall of mist that encircles an [[island]] to provide protection against [[Elders]]. This barrier is powerful enough to repel most attacks, though it can be challenged by the direct will of a [[Great Elder]] or the specific abilities of a [[Handmaiden]]. Bastion's legacy is tied to several entities: his former [[Vessel]], which was once a ship now known as [[Bastion's Shadow]], and a [[Soulbound Vessel]] that serves as a sentient tool for its wielder. This [[Vessel]] communicates through mental whispers, offering comfort, guidance, and warnings. Its primary purpose is centered on the concepts of service, preservation, and protection, often manifesting as an instinct to defend the [[Guild]], the [[Consultants]], or the Palace.}}
-
-== Of Shadow and Sea ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Bastion]] was a founding member of the order and a [[Soulbound]] of great renown.<ref name="ee-shadow-01-of-shadow-and-sea-c12">''Of Shadow and Sea'', chapter 12</ref>}}</li>
-</ul></div>
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Bastion is a [[Soulbound Vessel]] and the second of its kind belonging to her current wielder. Originally established by her ancestor, it functions as a [[Veil]] that provides immense defense against [[Elders]], capable of resisting almost any assault unless directed by the specific will of a [[Great Elder]]. The entity possesses a sentient, communicative presence that interacts with its wielder's mind through soothing voices and whispers. Its core purpose is centered on protection, preservation, concealment, and service, specifically regarding the safety of the [[Consultants]] and the [[Guild]]. Bastion can influence its wielder's emotions, offering comfort or inducing panic when it perceives imminent threats. It is capable of expressing opinions on safety and can become agitated or eager to combat enemies of the [[Consultants]] and servants of the [[Elders]].}}
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|As [[Shera]]'s second [[Soulbound Vessel]], Bastion is an ancient artifact with a long history that possesses the ability to create mist. This [[Vessel]], which was once contained within a head-sized sealing box, serves as a source of power that [[Shera]] can tap into at the cost of exhaustion. Bastion functions as a knife with a hilt that [[Shera]] grips, acting as a weapon that can leap toward targets like [[Calder]]'s neck or skate across an [[Emperor (Elder Empire)|Emperor]]'s helmet. Throughout her journey, the entity provides a soothing voice focused on protection and concealment, though it can also scream within [[Shera]]'s mind. Ultimately, Bastion acts as an enemy to the [[Consultants]] and urges [[Shera]] to find a secure room to hunker down.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|As [[Shera]]'s second [[Soulbound Vessel]], Bastion is an ancient artifact with a long history that possesses the ability to create mist. This [[Vessel]], which was once contained within a head-sized sealing box, serves as a source of power for [[Shera]] that can cause exhaustion when tapped into. Bastion manifests as a knife with a hilt, acting as a weapon that can leap toward targets like [[Calder]]'s neck or skate across an Emperor's helmet. While the entity provides a soothing, peaceful voice focused on protection and concealment, it also communicates through whispers and screams within [[Shera]]'s mind. The thickness of the mist fluctuates with Bastion's waxing and waning power, even as the entity urges [[Shera]] to find a secure room to hunker down. Ultimately, Bastion stands as an enemy of the [[Consultants]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">23</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -34,7 +29,7 @@
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion]] is a knife used by [[Shera]].<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion]] is an artifact with a hilt that [[Shera]] grips.<ref name="ee-shadow-03-of-killers-and-kings-c16">''Of Killers and Kings'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion]] is an artifact that leaps for [[Calder]]'s neck.<ref name="ee-shadow-03-of-killers-and-kings-c16" />}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion]]'s blade skated across [[Emperor (Elder Empire)|the Emperor]]'s helmet.<ref name="ee-shadow-03-of-killers-and-kings-c16" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion]]'s blade skated across the Emperor's helmet.<ref name="ee-shadow-03-of-killers-and-kings-c16" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion]]'s voice is soothing and focuses on protection, preservation, and concealment.<ref name="ee-shadow-03-of-killers-and-kings-c16" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion]]'s power waxes and wanes, affecting the thickness of the mist.<ref name="ee-shadow-03-of-killers-and-kings-c16" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion]] is a weapon [[Shera]] lifts.<ref name="ee-shadow-03-of-killers-and-kings-c16" />}}</li>
@@ -53,8 +48,6 @@
 {{Elder Empire nav}}
 
 [[Category:Characters]]
-[[Category:Of Shadow and Sea]]
 [[Category:Of Killers and Kings]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire characters]]
-[[Category:Soulbound]]

@@ -15,13 +15,13 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[The Nye]] is a character who interacts with [[Simon]] and [[Valin]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|[[The Nye]] possess [[essence]].<ref name="tg-03-city-of-light-c28">''City of Light'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[The Nye]] possess essence.<ref name="tg-03-city-of-light-c28">''City of Light'', chapter 28</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=tg-02-crimson-vault|“If I do this for you,” the Nye said slowly,<ref name="tg-02-crimson-vault-c20" />}}
 * {{spoiler|book=tg-02-crimson-vault|“Make sure the Nye don’t get her. Thanks.”<ref name="tg-02-crimson-vault-c25" />}}
-* {{spoiler|book=tg-03-city-of-light|"It has been too long since we were complete," said the Nye.<ref name="tg-03-city-of-light-c25" />}}
+* {{spoiler|book=tg-03-city-of-light|“It has been too long since we were complete,” said the Nye.<ref name="tg-03-city-of-light-c25" />}}
 
 == Notes ==
 <references />
@@ -31,7 +31,5 @@
 [[Category:Characters]]
 [[Category:The Crimson Vault]]
 [[Category:City of Light]]
-[[Category:Groups]]
 [[Category:Traveler's Gate]]
-[[Category:Traveler's Gate groups]]
 [[Category:Traveler's Gate characters]]

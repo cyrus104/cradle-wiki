@@ -1,4 +1,26 @@
-#REDIRECT [[rainbow madra]]
+{{Expand}}
+
+{{Infobox madra
+| name = rainbow madra
+| introduced = [[Underlord (novel)|Underlord]]
+}}
+
+== Underlord ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-06-underlord|The actual solution to the experiment was a shell of [[rainbow madra]].<ref name="cradle-06-underlord-c14">''Underlord'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|Luminous Queen Sha Miara{{!}}Sha Miara flowed [[rainbow madra]] into the [[Forged]] man.<ref name="cradle-07-uncrowned-c11">''Uncrowned'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Madra]]
 [[Category:Underlord]]

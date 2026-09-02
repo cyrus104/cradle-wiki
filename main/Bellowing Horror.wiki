@@ -1,12 +1,12 @@
 {{Infobox concept
 | name = Bellowing Horror
-| introduced = Of Sea and Shadow
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Bellowing Horror Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|A Bellowing Horror, also referred to as a Bellows or [[Shuffles]], is a small creature described as a spawn of [[Othaghor]]. Physically, it resembles a stout, foot-tall man with undersized bat wings and eyes that project pure hatred. Its head is a chaotic collection of mouths, eyes, waving stalks, and bone cages that house pulsing organs. While it can be kept in a birdcage and treated as a harmless pet that eats rats, its primary function is to unnerve people by mimicking the most disturbing and vile words it hears. Despite its ability to repeat declarations of doom, it is considered non-threatening by those who keep it.}}
+{{spoiler|book=ee-sea-03-of-kings-and-killers|The Bellowing Horror, also referred to as a Bellows or [[Shuffles]], is a small creature described as a spawn of [[Othaghor]]. Physically, it resembles a stout, foot-tall man with undersized bat wings and eyes that convey intense hatred. Its head is a chaotic collection of mouths, eyes, waving stalks, and bone cages that house pulsing organs. Despite its unsettling appearance and the fact that it uses a voice of doom to repeat the most disturbing or vile parts of conversations to unnerve people, it is considered harmless. In some instances, it has been kept as a pet on ships, where it feeds on rats and emits low vibrations similar to a purr or growl.}}
 
 == Of Sea and Shadow ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
@@ -32,7 +32,7 @@
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“He carries with him a Bellowing Horror, a spawn of Othaghor that often declares death.”<ref name="ee-sea-02-of-dawn-and-darkness-c3" />}}
+* {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“He carries with him a Bellowing Horror, a spawn of Othaghor that often declares death.<ref name="ee-sea-02-of-dawn-and-darkness-c3" />}}
 
 == Notes ==
 <references />
@@ -45,4 +45,3 @@
 [[Category:Of Kings and Killers]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire concepts]]
-[[Category:Lifeforms]]

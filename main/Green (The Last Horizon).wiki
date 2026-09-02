@@ -2,17 +2,17 @@
 
 {{Infobox madra
 | name = Green (The Last Horizon)
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|Green is a character addressed by [[Blue]].<ref name="lh-03-the-knight-c20">''The Knight'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Green is a character addressed by Blue.<ref name="lh-03-the-knight-c20">''The Knight'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=lh-03-the-knight|"Hold off, Green. We’ll need to last longer."<ref name="lh-03-the-knight-c20" />}}
+* {{spoiler|book=lh-03-the-knight|“Hold off, Green. We’ll need to last longer.”<ref name="lh-03-the-knight-c20" />}}
 
 == Notes ==
 <references />

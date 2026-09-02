@@ -2,13 +2,12 @@
 
 {{Infobox location
 | name = Seishen Empire
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 == Underlord ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[Lindon]] has no contact with the [[Seishen Empire]].<ref name="cradle-06-underlord-c12">''Underlord'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Naru Saeya]] fought against the [[Seishen Empire]].<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
 </ul></div>
 
@@ -21,4 +20,3 @@
 [[Category:Underlord]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Nations and empires]]

@@ -1,0 +1,33 @@
+{{Expand}}
+
+{{Infobox character
+| name = life artist
+| appears_in = Cradle
+| introduced = [[Skysworn (novel)|Skysworn]]
+}}
+
+== Skysworn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-04-skysworn|Life artists are used for severe injuries.<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}</li>
+</ul></div>
+
+== Underlord ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-06-underlord|The woman who appeared was a [[life artist]].<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-04-skysworn|“Only for more severe injuries, honored sir.”<ref name="cradle-04-skysworn-c13" />}}
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Characters]]
+[[Category:Skysworn]]
+[[Category:Underlord]]
+[[Category:Cradle]]
+[[Category:Cradle characters]]

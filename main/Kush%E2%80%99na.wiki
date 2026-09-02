@@ -1,0 +1,29 @@
+{{Expand}}
+
+{{Infobox concept
+| name = kush’na
+| introduced = [[House of Blades (novel)|House of Blades]]
+}}
+
+== House of Blades ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-01-house-of-blades|The natives call ember-colored insects '[[kush’na]]', which translates to 'flame-walkers'.<ref name="tg-01-house-of-blades-c16">''House of Blades'', chapter 16</ref>}}</li>
+</ul></div>
+
+== The Crimson Vault ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-02-crimson-vault|Kush’na are slow-moving creatures near the [[Incarnation of Naraka]].<ref name="tg-02-crimson-vault-c23">''The Crimson Vault'', chapter 23</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Concepts]]
+[[Category:House of Blades]]
+[[Category:The Crimson Vault]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate concepts]]

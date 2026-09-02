@@ -1,10 +1,10 @@
 {{Infobox concept
 | name = Path of the Hungry Deep
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|The [[Path]] of the [[Hungry Deep]] is a [[hunger madra]] technique and is considered the most powerful hunger-based [[Path]] currently in use. It was established when [[Northstrider]] integrated specific bindings found within a [[labyrinth]] into his [[blood madra]]. The [[Path]] focuses on the consumption of [[sacred beasts]] located in the world's deepest regions, allowing the user to absorb their power and latent authority to increase their own strength. While most techniques associated with this [[Path]] are basic, they can reach high levels of complexity when utilized alongside the [[Dragon Icon]]. [[Northstrider]], a figure associated with this [[Path]], is known for hunting powerful quarry in ancient oceanic depths and bringing that stolen power to the surface. The [[Path]] is also linked to the title of [[Monarch of the Hungry Deep]].}}
+{{spoiler|book=cradle-12-waybound|The [[Path]] of the [[Hungry Deep]] is a [[hunger madra]]-based [[Path]] that remains the most powerful of its kind currently in use. It was created when [[Northstrider]] integrated certain binding{{!}}bindings discovered within a [[labyrinth]] into his [[blood madra]]. This [[Path]] is characterized by its focus on consuming the spiritual and physical power of [[dragons]], as well as their latent Authority{{!}}authority, to increase the user's own strength. While its techniques are generally considered basic, they can achieve high levels of complexity when utilized with a [[Dragon Icon]]. Practitioners of this [[Path]], such as [[Northstrider]], often hunt powerful prey in the deepest parts of the world to bring their acquired power back to the surface. The [[Path]] is associated with figures such as the [[Monarch of the Hungry Deep]] and the [[Sage of the Hungry Deep]].}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -15,8 +15,8 @@
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|The [[Path of the Hungry Deep]] was born when [[Northstrider]] integrated bindings found in a [[labyrinth]] into his [[blood madra]].<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|The [[Path of the Hungry Deep]] focuses on devouring the physical and spiritual strength of [[dragons]], as well as their latent authority.<ref name="cradle-07-uncrowned-c21" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Path of the Hungry Deep]] was born when [[Northstrider]] integrated binding{{!}}bindings found in a [[labyrinth]] into his [[blood madra]].<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Path of the Hungry Deep]] focuses on devouring the physical and spiritual strength of [[dragons]], as well as their latent Authority{{!}}authority.<ref name="cradle-07-uncrowned-c21" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Path of the Hungry Deep]] is the most powerful [[hunger madra]] [[Path]] still in modern use.<ref name="cradle-07-uncrowned-c21" />}}</li>
 </ul></div>
 
@@ -29,7 +29,7 @@
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|The [[Path of the Hungry Deep]] incorporates hunger.<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Path of the Hungry Deep]] incorporates [[hunger]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -47,4 +47,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Terminology]]

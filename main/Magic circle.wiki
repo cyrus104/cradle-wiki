@@ -1,0 +1,35 @@
+{{Infobox concept
+| name = magic circle
+| introduced = [[The Engineer (novel)|The Engineer]]
+}}
+
+== The Engineer ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|A [[magic circle]] was traced beneath the snow on a battlefield.<ref name="lh-02-the-engineer-c14">''The Engineer'', chapter 14</ref>}}</li>
+</ul></div>
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|The narrator tossed a [[magic circle]] to Queen Shyrax{{!}}Shyrax.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Ryzer Raithe{{!}}Ryzer cannot read magic circle{{!}}magic circles.<ref name="lh-03-the-knight-c13">''The Knight'', chapter 13</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|A [[magic circle]] was conjured to defend the characters.<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Concepts]]
+[[Category:The Engineer]]
+[[Category:The Knight]]
+[[Category:The Pilot]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon concepts]]

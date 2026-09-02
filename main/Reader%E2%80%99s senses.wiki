@@ -2,7 +2,7 @@
 
 {{Infobox concept
 | name = Reader’s senses
-| introduced = Of Dawn and Darkness
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 == Of Shadow and Sea ==
@@ -14,7 +14,7 @@
 == Of Dawn and Darkness ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]]'s [[Reader’s senses]] revealed themes of death, decay, execution, blood, carnage, and war when looking at [[Tyrfang]].<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]]'s [[Reader’s senses]] revealed themes of death, decay, execution, [[blood]], carnage, and war when looking at [[Tyrfang]].<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -27,4 +27,3 @@
 [[Category:Of Shadow and Sea]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire concepts]]
-[[Category:Terminology]]

@@ -1,21 +1,27 @@
 {{Infobox character
 | name = Demon of Twin Blades
 | species = Remnant
-| abilities = {{spoiler|book=cradle-08-wintersteel|[[Ruler technique]]}}
+| abilities = {{spoiler|book=cradle-08-wintersteel|[[Ruler technique]], Ruler technique to drain nearby aura}}
 | titles = {{spoiler|book=cradle-08-wintersteel|[[Demon of Twin Blades]], [[Remnant]], [[Truegold]], [[Underlord]]}}
 | appears_in = Cradle
 | introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-08-wintersteel|The [[Demon]] of Twin Blades is a powerful [[Remnant]] that possesses strength comparable to an [[Underlord]]. It has a physical appearance similar to a gorilla, featuring a skull-like head with glowing yellow eyes and skin colored in a mixture of ash and deep blue. The creature's density is so significant that it can be mistaken for a living being rather than a [[Remnant]]. In combat, it utilizes two long, silvery blades inscribed with script that emit a heavy, cold energy. For several years, this entity provided protection for certain business rivals, allowing their commercial interests to flourish through the use of its formidable [[madra]]. During a confrontation in a snowy village, the demon's combat effectiveness was compromised after it lost its hands at the wrists, leading to its eventual defeat by [[Yerin]].}}
+{{spoiler|book=cradle-08-wintersteel|The [[Demon]] of Twin Blades is a powerful [[Remnant]] that possesses strength comparable to an [[Underlord]]. This creature, which has a physical appearance similar to a gorilla and a skull-like head with glowing yellow eyes, was used by business rivals for several years to protect their interests and ensure their prosperity. The entity wields two long, silvery blades inscribed with Script{{!}}script that emit a heavy, cold power. During a confrontation in a snowy village, the demon's [[madra]] caused significant [[destruction]] to its surroundings. The battle concluded when [[Yerin]] defeated the creature, resulting in the demon losing its hands at the wrists and leaving its twin swords behind.}}
+
+== Appearance ==
+{{spoiler|book=cradle-08-wintersteel|This entity possesses the physical form of a gorilla with skin colored in shades of ash and deep blue. Its head takes on the appearance of an inhuman skull featuring eyes that blaze with yellow light.}}
+
+== Abilities ==
+{{spoiler|book=cradle-08-wintersteel|The creature utilizes long blades inscribed with silver Script{{!}}script. It also employs a [[Ruler technique]] that allows it to drain the [[aura]] from its surroundings.}}
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|The [[Demon]] of Twin Blades is a [[Remnant]] of a man who once held the rank of [[Truegold]] and followed a [[Path]] involving destruction, blood, and [[sword madra]]. This entity possesses power comparable to an [[Underlord]] and takes the form of a gorilla with ash-colored and deep blue skin. Its appearance is further defined by an inhuman skull for a head featuring blazing yellow eyes. In combat, the creature wields long blades inscribed with silver script and utilizes a [[Ruler technique]] to drain the [[aura]] from its surroundings.}}
+{{spoiler|book=cradle-08-wintersteel|The [[Demon]] of Twin Blades is a [[Remnant]] of a man who once held the rank of [[Truegold]]. This entity possesses power comparable to an [[Underlord]] and follows a [[Path]] that integrates [[sword]], [[blood]], and [[destruction madra]]. Physically, the creature resembles a gorilla with ash-colored and deep blue skin, topped with an inhuman skull head featuring blazing yellow eyes. In combat, it wields long blades inscribed with silvery Script{{!}}script and utilizes a [[Ruler technique]] to drain the [[aura]] from its surroundings.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Demon of Twin Blades]] is a [[Remnant]] of a man on a [[Path]] combining [[sword]], blood, and [[destruction madra]].<ref name="cradle-08-wintersteel-c11">''Wintersteel'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Demon of Twin Blades]] is a [[Remnant]] of a man on a [[Path]] combining [[sword]], [[blood]], and [[destruction madra]].<ref name="cradle-08-wintersteel-c11">''Wintersteel'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Demon of Twin Blades]] was originally [[Truegold]].<ref name="cradle-08-wintersteel-c11" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Demon of Twin Blades]] exhibits power not unlike an [[Underlord]].<ref name="cradle-08-wintersteel-c11" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Demon of Twin Blades]] resembles a gorilla with deep blue and ash-colored skin.<ref name="cradle-08-wintersteel-c11" />}}</li>
@@ -33,5 +39,3 @@
 [[Category:Wintersteel]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Titled characters]]
-[[Category:Remnants]]

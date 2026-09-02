@@ -1,0 +1,23 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = void marble
+| introduced = [[Skysworn (novel)|Skysworn]]
+}}
+
+== Skysworn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-04-skysworn|The [[void marble]] is a perfectly clear orb the size of a man's thumbnail with a dark hole in the center.<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Eithan]] possesses a [[void marble]].<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Skysworn]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

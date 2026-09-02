@@ -1,12 +1,12 @@
 {{Infobox construct
 | name = drudge
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[drudge Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-10-reaper|A drudge is an essential [[Soulsmith]] [[construct]], serving as a multifunctional [[assistant]] that combines the capabilities of a toolbox, an encyclopedia, and a specialized analytical instrument. These [[Forged]] tools are characterized by a mechanical appearance that distinguishes them from other [[madra]]-based [[constructs]], often appearing as segmented fish or [[spiders]]. While their specific forms vary, they are primarily used to facilitate the complex process of deconstructing and reconstructing [[Remnants]]. A drudge's primary role is to provide precise information that prevents a [[Soulsmith]] from ruining their work. They can detect and analyze various [[aspects of madra]], identify the location of valuable [[binding{{!}}bindings]] within a [[Remnant]]'s structure, and measure [[madra]] output. Additionally, they possess advanced sensory capabilities, such as tracking specific signatures or detecting the presence of [[Remnants]]. Some models are equipped with specialized features like antennae for searching, though these components can be expensive to replace due to their tendency to decay. Beyond analysis, drudges can serve practical utility roles, such as providing transportation through the air or acting as a platform for the user to stand upon.}}
+{{spoiler|book=cradle-10-reaper|A drudge is an indispensable, specialized [[Soulsmith]] [[construct]] designed to function as a multi-purpose [[assistant]] and mobile toolkit. Unlike other [[constructs]] made of manifest [[madra]], drudges often possess a more mechanical appearance with physical-looking parts. They are essential for the precise work of [[Soulsmithing]], which involves deconstructing and reconstructing [[Remnants]]. Without a drudge, performing these tasks accurately is nearly impossible. These [[constructs]] serve several analytical and practical roles. They can detect and measure [[madra]] output, identify specific [[madra]] [[aspects]], and locate valuable binding{{!}}bindings within a [[Remnant]]'s structure. They also feature tracking capabilities using antennae to find specific signatures, though these components can be fragile and expensive to replace. Beyond analysis, drudges can assist with physical tasks, such as providing height for a user, acting as a platform to stand upon, or even carrying a person through the air if powered by sufficient [[madra]]. While they can provide information and guidance, they are not a replacement for a practitioner's experience, as they only check for the specific parameters they are instructed to monitor.}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -17,15 +17,15 @@
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|A [[drudge]] is a [[construct]] used by [[Fisher Gesha{{!}}Gesha]] to dismantle [[Remnants]].<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|A [[drudge]] is a [[construct]] used by Fisher Gesha{{!}}Gesha to dismantle [[Remnants]].<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|A [[drudge]] is a [[Soulsmith]]'s most valued [[construct]] and serves as an [[assistant]], toolbox, and encyclopedia of information.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|Drudges are designed to scan the structure of a dead [[Remnant]] and look for concentrations of power called [[binding{{!}}bindings]].<ref name="cradle-02-soulsmith-c12" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|Drudges are designed to scan the structure of a dead [[Remnant]] and look for concentrations of power called binding{{!}}bindings.<ref name="cradle-02-soulsmith-c12" />}}</li>
 </ul></div>
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|A [[drudge]] is a [[spider-construct]] used by [[Fisher Gesha{{!}}Gesha]].<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A [[drudge]] is a [[spider-construct]] used by Fisher Gesha{{!}}Gesha.<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|A [[drudge]] is a [[spider-construct]].<ref name="cradle-03-blackflame-c1" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|A [[drudge]] is a creature with eight long spider legs.<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Fisher Gesha]] has a [[drudge]] that carries her along the flagstones.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>

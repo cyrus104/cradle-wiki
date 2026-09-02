@@ -1,15 +1,15 @@
 {{Infobox concept
 | name = gate (The Traveler's Gate Trilogy)
-| introduced = House of Blades
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[gate (The Traveler's Gate Trilogy) Timeline]]''
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|A Gate serves as a portal or opening that connects the current world to various different Territories. These portals are utilized by individuals known as [[Travelers]], who possess the ability to conjure and manipulate them. The appearance and behavior of a Gate vary significantly depending on its origin; for example, [[Valinhall]] [[Gates]] typically manifest as white-edged swirling doorways that appear to be sliced into existence, while [[Endross Gates]] resemble miniature, flashing thunderstorms. Some [[Gates]], such as those from [[Tartarus]] or [[Naraka]], may emit distinct colors like red and carry specific environmental effects like wind or foul scents. The mechanics of a Gate are often tied to the specific [[Traveler]] and their [[Territory]]. [[Endross Gates]] are unique because they increase in size and power the longer they remain active, which can lead to a dangerous loss of control if the [[Traveler]] cannot restrain the unleashed energy. In contrast, certain [[Gates]], like those to [[Valinhall]], may require a specific [[Dragon's Fang]] to be held open. Additionally, some [[Gates]] are restricted by location, such as those to the [[Crimson Vault]], which can only be opened within the primary world rather than from within a [[Territory]]. While [[Travelers]] can close their [[Gates]], these openings can be forcibly reopened shortly after closing by using a device known as a [[gatecrawler]]. This tool allows others to follow a [[Traveler]] into a foreign [[Territory]] by tearing the recently sealed portal back open. Because [[Gates]] act as thresholds, they can be used to transport people, objects, or summoned creatures between worlds.}}
+{{spoiler|book=tg-03-city-of-light|A Gate serves as a [[portal]] or opening that connects the primary world to various different Territories. These openings are manipulated and controlled by individuals known as [[Travelers]], who can summon them using specific gestures, words, or physical items. The appearance and behavior of a Gate vary significantly depending on the [[Territory]] it connects to; for example, an [[Endross Gate]] may manifest as a small, concentrated thunderstorm in a person's palm that grows in size and power the longer it remains active. Other [[Gates]] might appear as swirling doorways with specific colored edges, such as blue for [[Asphodel]] or red for [[Tartarus]] and [[Naraka]]. While many [[Travelers]] can open these portals at will, certain [[Gates]] are subject to unique restrictions. A [[Valinhall Gate]] typically requires a full [[Traveler]] utilizing an assigned [[Dragon's Fang]] to remain open, and these portals generally return the user to their original starting location. Some specific [[Gates]], such as those leading to the [[Crimson Vault]], can only be opened from within the primary world rather than from within a [[Territory]]. Because [[Gates]] can be used to follow [[Travelers]] into foreign lands, specialized tools called gatecrawlers exist. These devices are capable of prying open a Gate shortly after it has been closed, allowing an individual to track or pursue a [[Traveler]] into another realm. Managing and opening these portals can be physically demanding, often requiring significant effort and strength from the user.}}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|A Gate serves as a portal or defensive structure that creates an opening between the world and a [[Territory]]. While [[Leah]] used one to transport people, [[Travelers]] possess the ability to dissipate these openings at will. During a confrontation, [[Simon]] managed to tear open a Gate by reaching through his [[sword]] toward [[Valinhall]], though the aperture steadily shrunk as it began to seal itself. Elsewhere, a Gate leading to a red cavern appeared before [[Malachi]]. Because of the dangers involved, [[Travelers]] will attack [[Simon]] if they witness him attempting to open a Gate for [[Traveling]].}}
+{{spoiler|book=tg-01-house-of-blades|A Gate serves as a [[portal]] or defensive structure that creates an opening between the world and a [[Territory]]. While [[Leah]] used one to transport people, [[Travelers]] possess the ability to dissipate these openings at will. During a confrontation, [[Simon]] managed to tear open a Gate by reaching through his [[sword]] toward [[Valinhall]], though the aperture steadily shrunk as it sealed itself. In another instance, a Gate leading to a red cavern manifested before [[Malachi]]. Because of the danger involved, [[Travelers]] will attack [[Simon]] if they witness him attempting to open a Gate for [[Traveling]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -19,13 +19,13 @@
 <li>{{spoiler|book=tg-01-house-of-blades|[[Simon]] can tear open a Gate by reaching through his [[sword]] to [[Valinhall]].<ref name="tg-01-house-of-blades-c15">''House of Blades'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[The Gate]] shrunk steadily as it sealed itself.<ref name="tg-01-house-of-blades-c15" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|A Gate to a red cavern appeared in front of [[Malachi]].<ref name="tg-01-house-of-blades-c20">''House of Blades'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=tg-01-house-of-blades|A Gate is a defensive structure or portal.<ref name="tg-01-house-of-blades-c21">''House of Blades'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|A Gate is a defensive structure or [[portal]].<ref name="tg-01-house-of-blades-c21">''House of Blades'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|A Gate can be used for [[Traveling]].<ref name="tg-01-house-of-blades-c21" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The [[Travelers]] will attack [[Simon]] if they see him try to open a Gate.<ref name="tg-01-house-of-blades-c22">''House of Blades'', chapter 22</ref>}}</li>
 </ul></div>
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|A Gate serves as a means of travel between different Territories, capable of opening onto a clearing or near a [[Hanging Tree]]. While these portals can be cut open and require significant strength to operate, they can also be closed using a [[frozen horn]]. One such Gate appeared suspended in midair with crackling white edges, revealing a view of a deep green forest. Other [[Gates]] have provided access to specific locations, such as a room within the royal palace in [[Cana]] or a way for [[Leah]] to return home.}}
+{{spoiler|book=tg-02-crimson-vault|A Gate serves as a means of travel between different Territories, potentially opening onto a clearing or near a [[Hanging Tree]]. While these portals can be cut open, they require significant strength to operate, and the [[frozen horn]] possesses the power to close them. During one instance, a Gate manifested in midair with crackling white edges that revealed a deep green forest. [[Leah]] utilized such a [[portal]] to return home, whereas [[Simon]] found himself unable to stop long enough to open one. Additionally, a Gate was known to lead directly into a room within the royal palace in [[Cana]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -41,14 +41,13 @@
 </ul></div>
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[The Gate]] manifests as a swirling object that shines with the brilliance of pure sunlight and possesses the ability to follow [[Alin]]. While [[Leah]] has demonstrated the power to shove individuals through a Gate, it is established that a [[Helgard Incarnation]] lacks the capability to open one to another [[Territory]]. During an encounter with a giant, an angry red Gate appeared behind the creature, though the Gate was later seen as clean and white. Ultimately, it remains possible that [[Indirial]] vanished into a Gate.}}
+{{spoiler|book=tg-03-city-of-light|During the events in the [[City of Light]], it is established that a [[Helgard Incarnation]] lacks the ability to open a Gate leading to a different [[Territory]]. [[Leah]] demonstrates a unique capability by being able to shove individuals through a Gate. Amidst the chaos, an angry [[red Gate]] appears behind a [[giant]], and [[Indirial]] potentially vanishes into one. Ultimately, the Gate is seen as being clean and white.}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Leah]] can shove people through a Gate.<ref name="tg-03-city-of-light-c3">''City of Light'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|A [[Helgard Incarnation]] cannot open a Gate to another [[Territory]].<ref name="tg-03-city-of-light-c3" />}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|[[The Gate]] is a swirling object that shines like pure sunlight and can follow [[Alin]].<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|An angry red Gate is behind the giant.<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|An angry [[red Gate]] is behind the [[giant]].<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Indirial]] may have vanished into a Gate.<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[The Gate]] was clean and white.<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}</li>
 </ul></div>

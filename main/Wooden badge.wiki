@@ -1,0 +1,28 @@
+{{Infobox artifact
+| name = wooden badge
+| introduced = [[Unsouled (novel)|Unsouled]]
+}}
+
+== Unsouled ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-01-unsouled|[[Lindon]] possesses a [[wooden badge]].<ref name="cradle-01-unsouled-c12">''Unsouled'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Lindon]]'s [[wooden badge]] displays a single character carved in wood.<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}</li>
+</ul></div>
+
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|The [[wooden badge]] is carved with the symbol for empty.<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Unsouled]]
+[[Category:Soulsmith]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

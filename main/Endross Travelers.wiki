@@ -1,10 +1,10 @@
 {{Infobox group
 | name = Endross Travelers
-| introduced = The Crimson Vault
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|[[Endross]] [[Travelers]] are a group of individuals associated with the territory of [[Endross]]. They are characterized by their ability to summon and manipulate powerful elemental forces, specifically white lightning bolts and massive storm-like [[Gates]]. These [[Gates]] can grow to a size capable of swallowing large animals or shrouding entire hallways in dark clouds and lightning. While some descriptions suggest their methods are unsophisticated, primarily focusing on targeting enemies with elemental attacks, they have historically played a role in maintaining their territories by managing wild elements and overseeing infrastructure like roads and waystations. However, they have also been noted for becoming overly aggressive. The group is associated with the [[Endross Incarnation]], a being that manifests as a destructive natural disaster. The [[Travelers]] utilize [[Gates]] to move between territories, allowing them to travel back to their own lands or follow others through various portals.}}
+{{spoiler|book=tg-03-city-of-light|[[Endross]] [[Travelers]] are a group of individuals associated with the [[Territory]] of [[Endross]]. They are characterized by their ability to summon and manipulate powerful elemental forces, specifically white lightning bolts and massive storm-like [[Gates]] that can grow large enough to shroud entire areas in dark clouds. These [[Travelers]] are often seen working alongside troops or other groups of [[Travelers]], such as those from [[Naraka]]. Historically, they were noted for helping to maintain their territories by managing wild elements and overseeing infrastructure like roads and waystations, though they eventually became known for their aggressive behavior. The [[Endross]] group is also linked to the presence of an [[Incarnation]], a powerful entity that behaves like a natural disaster and possesses physical traits such as wings made of stormclouds and eyes that glow with lightning. While some describe their methods as unsophisticated, focusing primarily on attacking targets, they are a significant force capable of traveling through [[Gates]] to move between territories.}}
 
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
@@ -18,7 +18,7 @@
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|[[Endross Travelers]] are travelers that [[Naraka]] [[Travelers]] run with.<ref name="tg-03-city-of-light-c17">''City of Light'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Endross Travelers]] are travelers that Naraka Traveler{{!}}Naraka Travelers run with.<ref name="tg-03-city-of-light-c17">''City of Light'', chapter 17</ref>}}</li>
 </ul></div>
 
 == Notes ==

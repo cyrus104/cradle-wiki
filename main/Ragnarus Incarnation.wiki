@@ -1,22 +1,22 @@
 {{Infobox concept
 | name = Ragnarus Incarnation
-| introduced = The Crimson Vault
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 ''See also: [[Ragnarus Incarnation Timeline]]''
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|The Ragnarus [[Incarnation]] is a powerful, noble entity that functions as a force of nature. While possessing immense strength, these beings are prone to madness if they remain in the world for too long, behaving like feral animals. The Ragnarus [[Incarnation]] currently rules over [[Damasca]], a city that has kept various [[Incarnations]] imprisoned and mistreated for three centuries. This specific entity is characterized by a straightforward nature, seeking power regardless of the cost and utilizing direct methods to destroy targets. The [[Incarnation]]'s motivations are driven by a desire to transform the world into [[Valinhall]], a realm defined by constant combat and merit-based survival. Historically, the [[Incarnations]] were protected by [[Elysia]] before Ragnarus took on that role. They are kept in check by artifacts of Ragnarus and specific [[Trees]], though the destruction of these [[Trees]] brings them closer to freedom. A seed is noted as one of the few things capable of returning them to their confinement, provided it is not intercepted by a [[Ragnarus Traveler]].}}
+{{spoiler|book=tg-03-city-of-light|The Ragnarus the Crimson Vault{{!}}Ragnarus [[Incarnation]] is a powerful, noble entity that functions as a force of nature. While possessing immense strength, these beings are prone to madness if they remain in the world for extended periods, behaving much like feral animals. The Ragnarus the Crimson Vault{{!}}Ragnarus [[Incarnation]] currently rules over [[Damasca]], a city that has been held in imprisonment. This entity is characterized by a straightforward nature, seeking power regardless of the cost and utilizing direct methods to destroy targets. Its motivations are driven by a desire to transform the world into [[Valinhall]], a realm defined by constant combat and meritocracy where every individual is tested through battle. Historically, the [[Incarnations]] were guarded by [[Elysia]] before Ragnarus the Crimson Vault{{!}}Ragnarus took over that role. They are kept contained by artifacts known as [[Trees]], and the [[destruction]] of these [[Trees]] brings all [[Incarnations]] closer to freedom. One of the few ways to return them to their confinement is through a specific seed, unless they are intercepted by a [[Ragnarus Traveler]].}}
 
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-02-crimson-vault|The [[Ragnarus Incarnation]] has skin that is hard and blood-red like crimson metal.<ref name="tg-02-crimson-vault-c25">''The Crimson Vault'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Ragnarus Incarnation]] has skin that is hard and [[blood]]-red like crimson metal.<ref name="tg-02-crimson-vault-c25">''The Crimson Vault'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|The [[Ragnarus Incarnation]]'s eyes are red flames.<ref name="tg-02-crimson-vault-c25" />}}</li>
 </ul></div>
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|Once sealed within a dungeon located beneath the [[Blue Room]], the Ragnarus [[Incarnation]] is an individual who may have been trapped in [[Cana]] or chose to trap themselves. [[Simon]] suspected that this immortal being held the [[Overlord of Cana]] under his control before the entity shouted a declaration of intent to attack [[Enosh]]. During their confrontation, [[Simon]] struck the Ragnarus [[Incarnation]]'s shield with his shoulder. While being sealed beneath a [[Hanging Tree]] is considered a [[fate]] worse than death for such a being, the Ragnarus [[Incarnation]]'s eventual departure resulted in the surrender of the [[Damascans]].}}
+{{spoiler|book=tg-03-city-of-light|Once sealed within a dungeon beneath the [[Blue Room]], the Ragnarus the Crimson Vault{{!}}Ragnarus [[Incarnation]] is an individual who may have trapped themselves or been imprisoned in [[Cana]]. [[Simon]] suspected that this immortal being held the [[Overlord of Cana]] under his control before the entity declared his intention to attack [[Enosh]]. During a confrontation, [[Simon]] struck the creature's shield with his shoulder. Although being sealed beneath a [[Hanging Tree]] is considered a Fate{{!}}fate worse than death for such an entity, the Ragnarus the Crimson Vault{{!}}Ragnarus [[Incarnation]] eventually departed, an event that resulted in the surrender of the [[Damascans]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -26,7 +26,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|The [[Ragnarus Incarnation]] shouted that he was going to attack [[Enosh]].<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Simon]] hit the [[Ragnarus Incarnation]]’s shield with his shoulder.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Ragnarus Incarnation]] is an immortal body.<ref name="tg-03-city-of-light-c27" />}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|It is a [[fate]] worse than death for a [[Ragnarus Incarnation]] to be sealed beneath a [[Hanging Tree]].<ref name="tg-03-city-of-light-c27" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|It is a Fate{{!}}fate worse than death for a [[Ragnarus Incarnation]] to be sealed beneath a [[Hanging Tree]].<ref name="tg-03-city-of-light-c27" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Ragnarus Incarnation]]'s departure led to the surrender of the [[Damascans]].<ref name="tg-03-city-of-light-c28">''City of Light'', chapter 28</ref>}}</li>
 </ul></div>
 
@@ -40,4 +40,3 @@
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate concepts]]
-[[Category:Lifeforms]]

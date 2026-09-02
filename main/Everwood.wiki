@@ -1,12 +1,12 @@
 {{Infobox location
 | name = Everwood
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[Everwood Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|Everwood is a continent located on the opposite side of the world, requiring significant travel through space to reach. It is ruled by [[Emriss Silentborn]], a [[Monarch]] known as the [[Remnant]] [[Monarch]] and [[Queen]] of the Everwood Continent. Emriss is believed to have been a men’hla tree prior to her ascension, and she possesses a soothing, reassuring presence rather than overwhelming spiritual pressure. The continent is home to a large population of humans with various dark skin tones who practice unique [[sacred arts]], often accompanied by spirits or [[Remnants]]. Everwood is notable for its connection to the [[Dreamway]]; while most people cannot access it freely, Emriss can send messages through it to various factions and organizations. The continent is also a source of specialized materials, as men’hla trees are considered sacred and are highly valuable to [[Soulsmiths]] because their leaves can produce individual [[Remnants]].}}
+{{spoiler|book=cradle-13-threshold|Everwood refers to a continent located on the opposite side of the world, which is difficult to reach through space without specialized means. It is ruled by [[Emriss Silentborn]], the [[Monarch]] of [[Titan]]'s Grove and [[Queen]] of the Everwood continent{{!}}Everwood Continent. Unlike many other [[Monarchs]] who project intense Spiritual pressure{{!}}spiritual pressure, Emriss Silentborn{{!}}Emriss is known for a soothing and reassuring presence. The [[inhabitants]] of the continent are primarily humans with various dark skin tones who practice unique [[sacred arts]], often accompanied by spirits or [[Remnants]]. The continent is also home to [[Dreadnought City]]. The region is notable for its connection to men’hla trees. It is rumored that [[Emriss Silentborn]] was a [[men'hla tree]] prior to her ascension, and these trees are considered sacred on the continent. These trees are highly prized by [[Soulsmiths]] because their leaves can produce individual [[Remnants]], providing a consistent source of material for various projects. Additionally, the continent is associated with unique flora and fauna, such as the [[Moongrave amphelia]], which was originally sourced from Everwood.}}
 
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -15,7 +15,7 @@
 </ul></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|Located on the opposite side of the world, Everwood is a destination where [[Lindon]] was expected to arrive. Upon suggesting a journey there, it is noted that the [[Silent King]] resides in the central region of the forest. The area is associated with the [[Monarch of Everwood]] and contains various assignments for those present. Furthermore, most individuals outside of this location are unable to draw from the [[Dreamway]] freely.}}
+{{spoiler|book=cradle-11-dreadgod|Located on the opposite side of the world, Everwood is a significant destination where [[Lindon]] was expected to arrive. The region serves as the seat of the [[Monarch of Everwood]] and is home to the [[Silent King]], who resides in its center. Within this location, various assignments can be found. Furthermore, the area is notable because most individuals outside of Everwood lack the ability to draw from the [[Dreamway]] freely.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -33,7 +33,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Dreadnought City]] is in [[Everwood]].<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|None of the [[Dreadgods]] have reached [[Everwood]] yet.<ref name="cradle-12-waybound-c24">''Waybound'', chapter 24</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Everwood]] is one of the five land masses projected by the [[Phoenix]].<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Everwood]] is one of the five land masses projected by The Phoenix{{!}}the Phoenix.<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}</li>
 </ul></div>
 
 == Threshold: Stories from Cradle ==
@@ -43,7 +43,6 @@
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=cradle-11-dreadgod|“Everwood is on the other side of the world.<ref name="cradle-11-dreadgod-c5" />}}
 * {{spoiler|book=cradle-12-waybound|“None of the Dreadgods have made it to Everwood yet, and the Monarchs haven’t attacked.”<ref name="cradle-12-waybound-c24" />}}
 
 == Notes ==
@@ -58,4 +57,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Regions]]

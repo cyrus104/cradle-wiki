@@ -2,13 +2,13 @@
 
 {{Infobox artifact
 | name = A Letter to the Young Reader
-| introduced = Of Shadow and Sea
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[A Letter to the Young Reader]] is a book written by [[Emperor (Elder Empire)|the Emperor]].<ref name="ee-shadow-01-of-shadow-and-sea-c14">''Of Shadow and Sea'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[A Letter to the Young Reader]] is a book written by the Emperor.<ref name="ee-shadow-01-of-shadow-and-sea-c14">''Of Shadow and Sea'', chapter 14</ref>}}</li>
 </ul></div>
 
 == Notes ==

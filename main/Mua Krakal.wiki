@@ -9,8 +9,8 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Mua Krakal]] is a young [[Visiri]] duelist with the purple eye.<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Mua Krakal]] uses force-blades.<ref name="lh-03-the-knight-c30" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|[[Mua Krakal]] has burns from a fight with [[Raion]].<ref name="lh-03-the-knight-c30" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|[[Mua Krakal]] has a purple-red aura.<ref name="lh-03-the-knight-c30" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Mua Krakal]] has burns from a fight with Raion Raithe{{!}}Raion.<ref name="lh-03-the-knight-c30" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Mua Krakal]] has a purple-red [[aura]].<ref name="lh-03-the-knight-c30" />}}</li>
 </ul></div>
 
 == Notes ==

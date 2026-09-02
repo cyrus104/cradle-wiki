@@ -1,7 +1,7 @@
 {{Infobox character
 | name = Silent King
 | species = Dreadgod
-| abilities = {{spoiler|book=cradle-10-reaper|[[hunger madra]], [[spiritual perception]]}}{{spoiler|book=cradle-11-dreadgod|, parasitic technique, [[dream technique]], mental assault, illusions, illusory clones}}
+| abilities = {{spoiler|book=cradle-10-reaper|[[hunger madra]], [[spiritual perception]]}}{{spoiler|book=cradle-11-dreadgod|, parasitic technique, [[dream technique]], mental assault, illusions, illusory clones, technique to control the minds of the masses, madra that can fuel illusions, technique that involves illusory clones}}{{spoiler|book=cradle-12-waybound|, madra that produces white light}}
 | titles = {{spoiler|book=cradle-04-skysworn|[[Silent King]]}}{{spoiler|book=cradle-08-wintersteel|, [[Dreadgod]]}}
 | affiliations = {{spoiler|book=cradle-07-uncrowned|Silent Servants cult}}{{spoiler|book=cradle-08-wintersteel|, Shen faction}}
 | residence = {{spoiler|book=cradle-11-dreadgod|central Everwood}}
@@ -12,134 +12,152 @@
 ''See also: [[Silent King Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|The Silent [[King]] is a [[Dreadgod]], an entity categorized as one of the most powerful beings in existence. Though often perceived by mortals as the weakest among its siblings, it is a formidable force capable of projecting illusions solid enough to engage [[Monarchs]] in combat. Physically, the entity is described as a relatively small white tiger with an oversized white halo, though it possesses a massive spiritual influence that can be felt for hundreds of miles. Its most lethal capability is a mental assault, which allows it to potentially touch the minds of dreamers across the entire planet. The Silent [[King]] maintains a vast kingdom within a jungle, where it manages a mental web that grants high intelligence and awareness to its subjects, including spirits, remnants, and various creatures. This domain is inhabited by the [[Silent Servants]], a cult known for being spies and liars who are skilled in brainwashing. The entity has also been associated with the [[Hollow King]] [[Path]] and possesses a powerful [[hunger aura]]. While it was once sealed away by [[Emriss Silentborn]], the Silent [[King]] was eventually killed by [[Wei Shi Lindon Arelius]].}}
+{{spoiler|book=cradle-13-threshold|The Silent King is a [[Dreadgod]], an entity of immense power that exists as one of the most significant beings in the world. Though often perceived by mortals as the weakest among its siblings, it is actually a formidable force capable of projecting illusions that can engage [[Monarchs]] in combat. Physically, the creature is described as a relatively small white tiger with an oversized halo, though it possesses a massive spiritual influence that can be felt for hundreds of miles. Its primary and most dangerous capability is its mental assault, which allows it to reach into the minds of dreamers across the planet. The Silent King maintains a vast kingdom within a jungle, where it oversees a complex mental web. Its subjects include spirits, remnants, and various creatures that exhibit higher levels of intelligence and social structure than would naturally be expected due to the King's influence. The entity is also associated with a cult known as the [[Silent Servants]], who are characterized as spies and liars capable of brainwashing others. For a long period, the Silent King was sealed away by [[Emriss Silentborn]], the [[Remnant]] [[Monarch]]. However, it was eventually killed by [[Wei Shi Lindon Arelius]]. Following its death, various remnants of its power remained, including the Ancient Bow of the Soulseeker{{!}}Silent King Bow and a crown that serves as an amplifier for power.}}
 
-== Skysworn ==
+== Appearance ==
+{{spoiler|book=cradle-13-threshold|The Silent King is a [[giant]] white tiger featuring black stripes and smooth pale skin. This entity possesses a halo that shines as bright as the sun and wears white crowns.}}
+
+== Personality ==
+{{spoiler|book=cradle-13-threshold|A subtle and insidious [[Dreadgod]], this entity maintains its mental faculties and seeks revenge against [[Emriss Silentborn]]. It exerts control over people like helpless puppets and refers to intruders as bold.}}
+
+== Abilities ==
+{{spoiler|book=cradle-13-threshold|This [[Dreadgod]] utilizes [[hunger madra]], a parasitic [[technique]], and the ability to control the minds of the masses. Its deadliest power is mental assault, which includes using illusions and illusory clones that can be solid enough to trade blows with [[Monarchs]].}}
+
+== History ==
+=== {{spoiler|book=cradle-04-skysworn|Dreadgod of hunger}} ===
+{{spoiler|book=cradle-04-skysworn|The Silent King begins to stir within its [[dreams]] upon sensing The Phoenix{{!}}the Phoenix engaged in battle.<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|The [[Silent King]] stirs in its dreams when it senses the [[Phoenix]] in battle.<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The [[Silent King]] stirs in its [[dreams]] when it senses The Phoenix{{!}}the Phoenix in battle.<ref name="cradle-04-skysworn-c18" />}}</li>
 </ul></div>
 
-== Uncrowned ==
+{{spoiler|book=cradle-07-uncrowned|The Silent King maintains a known association with the cult of the [[Silent Servants]].<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|The [[Silent King]] is associated with the [[Silent Servants]] cult.<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Silent King]] is associated with the [[Silent Servants]] cult.<ref name="cradle-07-uncrowned-c10" />}}</li>
 </ul></div>
 
-== Wintersteel ==
+{{spoiler|book=cradle-08-wintersteel|The Silent King is considered to be among the most insidious and subtle of the [[Dreadgods]].<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref> This entity is a [[Dreadgod]] that currently lacks any remaining representative within the [[Shen]] faction's audience tower.<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref> The Silent King is also a suggested topic in relation to [[Emriss Silentborn]].<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Silent King]] is one of the most subtle and insidious of the [[Dreadgods]].<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Silent King]] is a [[Dreadgod]] with no remaining representative in the [[Shen]] faction's audience tower.<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Silent King]] is a suggested topic related to [[Emriss Silentborn]].<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Silent King]] is one of the most subtle and insidious of the [[Dreadgods]].<ref name="cradle-08-wintersteel-c6" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Silent King]] is a [[Dreadgod]] with no remaining representative in the [[Shen]] faction's audience tower.<ref name="cradle-08-wintersteel-c7" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Silent King]] is a suggested topic related to [[Emriss Silentborn]].<ref name="cradle-08-wintersteel-c8" />}}</li>
 </ul></div>
 
-== Bloodline ==
+{{spoiler|book=cradle-09-bloodline|The Silent King is theoretically considered the most vulnerable among the [[Dreadgods]].<ref name="cradle-09-bloodline-c14">''Bloodline'', chapter 14</ref> This entity manifests as a [[giant]] white tiger.<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|The [[Silent King]] is theoretically the most vulnerable of the [[Dreadgods]].<ref name="cradle-09-bloodline-c14">''Bloodline'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|The [[Silent King]] is a giant white tiger.<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Silent King]] is theoretically the most vulnerable of the [[Dreadgods]].<ref name="cradle-09-bloodline-c14" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Silent King]] is a [[giant]] white tiger.<ref name="cradle-09-bloodline-c18" />}}</li>
 </ul></div>
 
-== Reaper ==
-{{spoiler|book=cradle-10-reaper|The Silent [[King]] is a [[Dreadgod]] that resides within a purple-and-white tank. Measuring roughly the size of a human house, this entity possesses [[hunger madra]] and emits a [[hunger aura]]. Unlike its siblings, it has maintained its mental faculties and uses willpower to withstand its intense hunger urges. By utilizing spiritual perception, the creature monitors the boundaries of its kingdom while harboring a deep desire for revenge against [[Emriss Silentborn]]. Despite its power, an average human [[Herald]] is capable of overpowering the Silent [[King]].}}
-
+{{spoiler|book=cradle-10-reaper|The Silent King is a [[Dreadgod]] that utilizes a purple-and-white [[tank]].<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref><ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref> Unlike its siblings, this entity has maintained its mental faculties despite possessing a body roughly the size of a human house.<ref name="cradle-10-reaper-c24" /> Although it can be overpowered by an average human [[Herald]], the creature possesses [[hunger madra]] and emits a [[hunger aura]].<ref name="cradle-10-reaper-c24" /> The Silent King uses [[spiritual perception]] to monitor the boundaries of its kingdom and employs [[willpower]] to withstand its [[hunger]] urges.<ref name="cradle-10-reaper-c24" /> Furthermore, the entity harbors a desire for revenge against [[Emriss Silentborn]].<ref name="cradle-10-reaper-c24" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|The [[Silent King]] had a purple-and-white tank.<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|The [[Silent King]] is a [[Dreadgod]].<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Silent King]] had a purple-and-white [[tank]].<ref name="cradle-10-reaper-c19" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Silent King]] is a [[Dreadgod]].<ref name="cradle-10-reaper-c24" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Silent King]] has maintained its mental faculties unlike its siblings.<ref name="cradle-10-reaper-c24" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Silent King]]'s body is roughly the size of a human house.<ref name="cradle-10-reaper-c24" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Silent King]] can be overpowered by an average human [[Herald]].<ref name="cradle-10-reaper-c24" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Silent King]] possesses [[hunger madra]].<ref name="cradle-10-reaper-c24" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|The [[Silent King]] uses spiritual perception to monitor its kingdom's boundaries.<ref name="cradle-10-reaper-c24" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Silent King]] uses [[spiritual perception]] to monitor its kingdom's boundaries.<ref name="cradle-10-reaper-c24" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Silent King]] desires revenge against [[Emriss Silentborn]].<ref name="cradle-10-reaper-c24" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|The [[Silent King]] can withstand its hunger urges through willpower.<ref name="cradle-10-reaper-c24" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Silent King]] can withstand its [[hunger]] urges through [[willpower]].<ref name="cradle-10-reaper-c24" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Silent King]] experiences [[hunger aura]].<ref name="cradle-10-reaper-c24" />}}</li>
 </ul></div>
 
-== Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|The Silent [[King]] is a small [[Dreadgod]], considered the weakest of his kind and a peer to the monster that destroyed the Valley, who was freed in central [[Everwood]]. Appearing as a white tiger with black stripes and smooth pale skin, this entity uses parasitic techniques and mental assaults to control people like helpless puppets. During a conflict where his dream technique washed over [[Moongrave]], he exerted influence by possessing members of [[Redmoon Hall]] and ordering the [[Golds]] to go wild in the city. Although [[Lindon]] crafted an [[Enforcer construct]] for him, the [[Dreadgod]] was eventually killed by the [[Void Sage]]. Following his death, [[Lindon]] sought to craft a [[Divine Treasure]] from the Silent [[King]]'s core binding, though the entity's power ultimately corrupted him.}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">47</span></div>
+=== {{spoiler|book=cradle-11-dreadgod|In central Everwood}} ===
+{{spoiler|book=cradle-11-dreadgod|The Silent King is a freed [[Dreadgod]] whose body remains in hiding within central [[Everwood]], creating an urgent situation.<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref> Associated with horror stories, this speaking entity controls people like helpless puppets and refers to intruders as bold.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref><ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref> This peer to the monster that destroyed [[the Valley]] uses a parasitic [[technique]] and poses a threat to the [[Everwood continent]].<ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref><ref name="cradle-11-dreadgod-c5" /> After [[Lindon]] made an [[Enforcer construct]] for the entity, the Silent King threatened to attack [[Lindon]]'s friends and family.<ref name="cradle-11-dreadgod-c3" /><ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref> People bow before the Silent King, an entity characterized by white crowns that whispered to [[Lindon]] that he keeps his promises.<ref name="cradle-11-dreadgod-c14">''Dreadgod'', chapter 14</ref><ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a [[Dreadgod]] who has been freed.<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a [[Dreadgod]] who has been freed.<ref name="cradle-11-dreadgod-c2" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]]'s body is in hiding.<ref name="cradle-11-dreadgod-c2" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is located in central [[Everwood]].<ref name="cradle-11-dreadgod-c2" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The situation regarding the [[Silent King]] is urgent.<ref name="cradle-11-dreadgod-c2" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a character who refers to intruders as bold.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a character who refers to intruders as bold.<ref name="cradle-11-dreadgod-c3" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The people are puppets of the [[Silent King]].<ref name="cradle-11-dreadgod-c3" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is associated with horror stories.<ref name="cradle-11-dreadgod-c3" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] controls people like helpless puppets.<ref name="cradle-11-dreadgod-c3" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] threatened to attack [[Lindon]]'s friends and family.<ref name="cradle-11-dreadgod-c3" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] uses a parasitic technique.<ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] uses a parasitic [[technique]].<ref name="cradle-11-dreadgod-c4" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a threat to the [[Everwood continent]].<ref name="cradle-11-dreadgod-c4" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] can speak.<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] has a technique.<ref name="cradle-11-dreadgod-c5" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a peer to the monster that destroyed the Valley.<ref name="cradle-11-dreadgod-c5" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] made an [[Enforcer construct]] for the [[Silent King]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is an entity that people bow before.<ref name="cradle-11-dreadgod-c14">''Dreadgod'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] has white crowns.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] can speak.<ref name="cradle-11-dreadgod-c5" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a peer to the monster that destroyed [[the Valley]].<ref name="cradle-11-dreadgod-c5" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] made an [[Enforcer construct]] for the [[Silent King]].<ref name="cradle-11-dreadgod-c7" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is an entity that people bow before.<ref name="cradle-11-dreadgod-c14" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] has white crowns.<ref name="cradle-11-dreadgod-c15" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] whispered into [[Lindon]]'s mind that he keeps his promises.<ref name="cradle-11-dreadgod-c15" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]]'s dream technique washed over [[Moongrave]].<ref name="cradle-11-dreadgod-c16">''Dreadgod'', chapter 16</ref>}}</li>
+</ul></div>
+
+=== {{spoiler|book=cradle-11-dreadgod|The battle of Moongrave}} ===
+{{spoiler|book=cradle-11-dreadgod|During the battle of [[Moongrave]], the Silent King's [[dream technique]] washed over the area as his will and various techniques were present in the conflict.<ref name="cradle-11-dreadgod-c16">''Dreadgod'', chapter 16</ref> A halo accompanies this figure, who possesses the ability to use techniques to control the minds of the masses.<ref name="cradle-11-dreadgod-c16" /> After ordering the [[Golds]] to go wild within the city, he exerted greater control over [[Remnants]] and possessed members of [[Redmoon Hall]] to bolster their [[willpower]].<ref name="cradle-11-dreadgod-c16" /><ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref> His thralls attempted to attack [[Yerin]] while his army fought in the distance.<ref name="cradle-11-dreadgod-c17" /><ref name="cradle-11-dreadgod-c18">''Dreadgod'', chapter 18</ref> [[Lindon]] identified the [[Dreadgod]]'s halo as the Silent King, a small [[Dreadgod]] considered the weakest of his kind.<ref name="cradle-11-dreadgod-c17" /><ref name="cradle-11-dreadgod-c18" /> Appearing as a [[giant]] white tiger with smooth pale skin and black stripes, the [[Dreadgod]]'s face resembles a detailed [[Remnant]].<ref name="cradle-11-dreadgod-c18" /> His crown shines as brightly as the sun, and while his [[madra]] can be identified by eating it, his deadliest power is a mental assault.<ref name="cradle-11-dreadgod-c18" /> [[Lindon]] eventually sees the victory of this figure in a dream.<ref name="cradle-11-dreadgod-c18" />}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">20</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]]'s [[dream technique]] washed over [[Moongrave]].<ref name="cradle-11-dreadgod-c16" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]]'s will and techniques are present in the battle.<ref name="cradle-11-dreadgod-c16" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] has a halo.<ref name="cradle-11-dreadgod-c16" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] can use a technique to control the minds of the masses.<ref name="cradle-11-dreadgod-c16" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] can use a [[technique]] to control the minds of the masses.<ref name="cradle-11-dreadgod-c16" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] ordered the [[Golds]] to go wild in the city.<ref name="cradle-11-dreadgod-c16" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] can exert greater control over [[Remnants]].<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] can exert greater control over [[Remnants]].<ref name="cradle-11-dreadgod-c17" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] can possess members of [[Redmoon Hall]].<ref name="cradle-11-dreadgod-c17" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]]'s influence can bolster the willpower of those he possesses.<ref name="cradle-11-dreadgod-c17" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]]'s influence can bolster the [[willpower]] of those he possesses.<ref name="cradle-11-dreadgod-c17" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] had thralls that tried to attack [[Yerin]].<ref name="cradle-11-dreadgod-c17" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] calls the [[Dreadgod]]'s halo the [[Silent King]].<ref name="cradle-11-dreadgod-c17" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a white tiger with smooth pale skin and black stripes.<ref name="cradle-11-dreadgod-c18">''Dreadgod'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a white tiger with smooth pale skin and black stripes.<ref name="cradle-11-dreadgod-c18" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]]'s face resembles a detailed [[Remnant]].<ref name="cradle-11-dreadgod-c18" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]]'s crown shines bright as the sun.<ref name="cradle-11-dreadgod-c18" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a [[Dreadgod]] who appears as a giant tiger.<ref name="cradle-11-dreadgod-c18" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a [[Dreadgod]] who appears as a [[giant]] tiger.<ref name="cradle-11-dreadgod-c18" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The Silent [[King's army]] is fighting in the distance.<ref name="cradle-11-dreadgod-c18" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King's madra]] can be identified by eating it.<ref name="cradle-11-dreadgod-c18" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]]'s deadliest power is its mental assault.<ref name="cradle-11-dreadgod-c18" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a small [[Dreadgod]].<ref name="cradle-11-dreadgod-c18" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a figure whose victory [[Lindon]] sees in a dream.<ref name="cradle-11-dreadgod-c18" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is considered the weakest of the [[Dreadgods]].<ref name="cradle-11-dreadgod-c18" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] was on the verge of death.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King’s madra]] should be useful in divining the future.<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a [[Dreadgod]] that [[Lindon]] killed.<ref name="cradle-11-dreadgod-c21" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The illusions used were the illusions of the [[Silent King]].<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] possesses [[madra]] that can fuel illusions.<ref name="cradle-11-dreadgod-c22" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] wants to craft a [[Divine Treasure]] from the [[Silent King]]’s core binding.<ref name="cradle-11-dreadgod-c22" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is gone, having been killed by the [[Void Sage]].<ref name="cradle-11-dreadgod-c22" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] has a specific technique that involves illusory clones.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]]'s power corrupted [[Wei Shi Lindon Arelius]].<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
 </ul></div>
 
-== Waybound ==
-{{spoiler|book=cradle-12-waybound|After being consumed by [[Lindon]], the Silent [[King]]'s spirit—composed of bones, tendons, and various other materials—was repurposed to create special arrows and purple orbs. The entity's [[madra]], which produces white light, was used to stimulate [[Lindon]]'s [[Dreadgod arm]] and allowed for the projection of illusions solid enough to trade blows with [[Monarchs]]. Following the Silent [[King]]'s death, which empowered the [[Weeping Dragon]] and resulted in a [[binding]] more similar to a normal one, the entity was forced to swap places with the [[Wandering Titan]]. The Silent [[King]] remains associated with a halo that serves as a [[Goldsign]] for the [[Silent Servants]], and the scale of [[Dross]]'s [[dream aura]] once temporarily matched its own.}}
+=== {{spoiler|book=cradle-11-dreadgod|Death and legacy}} ===
+{{spoiler|book=cradle-11-dreadgod|The Silent King, a [[Dreadgod]] previously slain by [[Lindon]], was nearing death.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref><ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref> This entity possessed [[madra]] capable of fueling illusions and potentially divining the future.<ref name="cradle-11-dreadgod-c21" /><ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref> The Silent King utilized specific techniques involving illusory clones and could produce illusions of its own.<ref name="cradle-11-dreadgod-c22" /><ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref> Although the [[Void Sage]] eventually killed the Silent King, [[Lindon]] intended to use its [[core binding]] to craft a [[Divine Treasure]].<ref name="cradle-11-dreadgod-c22" /> The power of the Silent King ultimately corrupted [[Wei Shi Lindon Arelius]].<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] was on the verge of death.<ref name="cradle-11-dreadgod-c19" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King’s madra]] should be useful in divining the future.<ref name="cradle-11-dreadgod-c21" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is a [[Dreadgod]] that [[Lindon]] killed.<ref name="cradle-11-dreadgod-c21" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The illusions used were the illusions of the [[Silent King]].<ref name="cradle-11-dreadgod-c22" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] possesses [[madra]] that can fuel illusions.<ref name="cradle-11-dreadgod-c22" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] wants to craft a [[Divine Treasure]] from the [[Silent King]]’s [[core binding]].<ref name="cradle-11-dreadgod-c22" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] is gone, having been killed by the [[Void Sage]].<ref name="cradle-11-dreadgod-c22" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]] has a specific [[technique]] that involves illusory clones.<ref name="cradle-11-dreadgod-c23" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Silent King]]'s power corrupted [[Wei Shi Lindon Arelius]].<ref name="cradle-11-dreadgod-c24" />}}</li>
+</ul></div>
 
+=== {{spoiler|book=cradle-12-waybound|The Silent King's remains}} ===
+{{spoiler|book=cradle-12-waybound|After [[Lindon]] consumed the Silent King, he gained access to a [[spirit]] composed of various materials such as tendons and bones.<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref><ref name="cradle-12-waybound-c4">''Waybound'', chapter 4</ref> These materials were utilized to craft [[Lindon]]'s special arrows and purple orbs, while the entity's modified [[madra]] served to stimulate [[Lindon]]'s [[Dreadgod arm]].<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref><ref name="cradle-12-waybound-c7">''Waybound'', chapter 7</ref><ref name="cradle-12-waybound-c20">''Waybound'', chapter 20</ref> The [[Silent King's madra]] produces [[white light]] and can be used to project illusions that are solid enough to trade blows with [[Monarchs]].<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref> Following the death of the Silent King, which empowered the [[Weeping Dragon]], the entity was forced to swap places with the [[Wandering Titan]].<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref><ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref><ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref> The Silent King is associated with a halo that acts as a [[Goldsign]] for the [[Silent Servants]], and the [[scale]] of [[Dross]]'s [[dream aura]] once temporarily matched the entity.<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref><ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] consumed the [[Silent King]].<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Silent King]]'s spirit consists of bones, tendons, and other material.<ref name="cradle-12-waybound-c4">''Waybound'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Silent King]]'s body material is used to make [[Lindon]]'s special arrows.<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]]'s [[Dreadgod arm]] is stimulated by the [[Silent King]]’s modified [[madra]].<ref name="cradle-12-waybound-c7">''Waybound'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] uses a [[Silent King]] illusion.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Silent King]] has [[madra]] that produces white light.<ref name="cradle-12-waybound-c10" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] consumed the [[Silent King]].<ref name="cradle-12-waybound-c3" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Silent King]]'s [[spirit]] consists of bones, tendons, and other material.<ref name="cradle-12-waybound-c4" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Silent King]]'s body material is used to make [[Lindon]]'s special arrows.<ref name="cradle-12-waybound-c5" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]]'s [[Dreadgod arm]] is stimulated by the [[Silent King]]’s modified [[madra]].<ref name="cradle-12-waybound-c7" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] uses a [[Silent King]] illusion.<ref name="cradle-12-waybound-c10" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Silent King]] has [[madra]] that produces [[white light]].<ref name="cradle-12-waybound-c10" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Silent King]] can project illusions solid enough to trade blows with [[Monarchs]].<ref name="cradle-12-waybound-c10" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Weeping Dragon]] was empowered by the death of the [[Silent King]].<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Silent King]] has died.<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] used materials from the [[Silent King]] to create purple orbs.<ref name="cradle-12-waybound-c20">''Waybound'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Silent King]] was forced to swap places with the [[Wandering Titan]].<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Weeping Dragon]]'s [[binding]] is more like a normal [[binding]] than the [[Silent King]]’s.<ref name="cradle-12-waybound-c21" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Silent King]] is associated with a halo that serves as a [[Goldsign]] for the [[Silent Servants]].<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The scale of [[Dross]]'s [[dream aura]] temporarily matched the [[Silent King]].<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Weeping Dragon{{!}}The Weeping Dragon was empowered by the death of the [[Silent King]].<ref name="cradle-12-waybound-c14" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Silent King]] has died.<ref name="cradle-12-waybound-c18" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] used materials from the [[Silent King]] to create purple orbs.<ref name="cradle-12-waybound-c20" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Silent King]] was forced to swap places with the [[Wandering Titan]].<ref name="cradle-12-waybound-c21" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Weeping Dragon{{!}}The Weeping Dragon's [[binding]] is more like a normal [[binding]] than the [[Silent King]]’s.<ref name="cradle-12-waybound-c21" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Silent King]] is associated with a halo that serves as a [[Goldsign]] for the [[Silent Servants]].<ref name="cradle-12-waybound-c22" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[scale]] of [[Dross]]'s [[dream aura]] temporarily matched the [[Silent King]].<ref name="cradle-12-waybound-c27" />}}</li>
 </ul></div>
 
-== Threshold: Stories from Cradle ==
+{{spoiler|book=cradle-13-threshold|After challenging the wards of Arelius family{{!}}House Arelius, the Silent King suffered a defeat.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref> The pure-[[white halo]] of the Silent King is worn by [[Dross]].<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref> [[Kahn Mala]] previously served as the cult leader for the Silent King.<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref> The [[Wandering Titan]] eventually traded places with the Silent King.<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|The [[Silent King]] challenged the wards of [[House Arelius]] and was defeated.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-13-threshold|[[Dross]] wears the pure-white halo of the [[Silent King]].<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-13-threshold|[[Kahn Mala]] was the former cult leader of the [[Silent King]].<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-13-threshold|The [[Silent King]] was traded places with by the [[Wandering Titan]].<ref name="cradle-13-threshold-c14">''Threshold: Stories from Cradle'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Silent King]] challenged the wards of Arelius family{{!}}House Arelius and was defeated.<ref name="cradle-13-threshold-c1" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Dross]] wears the pure-[[white halo]] of the [[Silent King]].<ref name="cradle-13-threshold-c7" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Kahn Mala]] was the former cult leader of the [[Silent King]].<ref name="cradle-13-threshold-c8" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Silent King]] was traded places with by the [[Wandering Titan]].<ref name="cradle-13-threshold-c14" />}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -165,5 +183,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Titled characters]]
-[[Category:Dreadgods]]

@@ -1,0 +1,29 @@
+{{Expand}}
+
+{{Infobox concept
+| name = solar dragon
+| introduced = [[The Captain (novel)|The Captain]]
+}}
+
+== The Captain ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|A [[solar dragon]] inhales star matter to form its internal magical core.<ref name="lh-01-the-captain-c11">''The Captain'', chapter 11</ref>}}</li>
+</ul></div>
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|The Red Divine Titan{{!}}Red Titan is enhanced by the [[blood]] of a [[solar dragon]].<ref name="lh-03-the-knight-c43">''The Knight'', chapter 43</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Concepts]]
+[[Category:The Captain]]
+[[Category:The Knight]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon concepts]]

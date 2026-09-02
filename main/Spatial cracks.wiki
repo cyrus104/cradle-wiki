@@ -1,0 +1,28 @@
+{{Infobox concept
+| name = spatial cracks
+| introduced = [[Wintersteel (novel)|Wintersteel]]
+}}
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|Spatial cracks can slide out from a rift in space.<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Spatial cracks appeared when [[Ghostwater]] crumbled.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|[[Reigan Shen]]'s [[sword]] swing sent [[spatial cracks]] into the void.<ref name="cradle-10-reaper-c16">''Reaper'', chapter 16</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Concepts]]
+[[Category:Wintersteel]]
+[[Category:Reaper]]
+[[Category:Cradle]]
+[[Category:Cradle concepts]]

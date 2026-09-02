@@ -2,7 +2,7 @@
 
 {{Infobox spell
 | name = Archmage-level detection spells
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 == The Knight ==
@@ -12,7 +12,7 @@
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=lh-03-the-knight|"It also won’t find any agents that are shielded from Archmage-level detection spells, and there are mundane ways to hide from it."<ref name="lh-03-the-knight-c5" />}}
+* {{spoiler|book=lh-03-the-knight|“It also won’t find any agents that are shielded from Archmage-level detection spells, and there are mundane ways to hide from it.<ref name="lh-03-the-knight-c5" />}}
 
 == Notes ==
 <references />

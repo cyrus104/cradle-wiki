@@ -1,0 +1,54 @@
+{{Infobox spell
+| name = pathfinding spell
+| introduced = [[The Captain (novel)|The Captain]]
+}}
+
+''See also: [[pathfinding spell Timeline]]''
+
+== Overview ==
+{{spoiler|book=lh-04-the-pilot|pathfinding magic{{!}}Pathfinding spells are a form of [[navigational magic]] used to identify routes between two points. This magic functions by requesting a path from the [[Aether]] toward a specific destination. For these spells to be successful, three core requirements must be met: the target must be knowable, a physical or reachable route must exist between the caster and the destination, and there must be no sufficient magical protections blocking the way. The magic typically manifests as golden light or trails within the caster's vision, sometimes appearing as white roads. While these spells can be used to find specific individuals, locations, or even abstract concepts like betrayal, they only provide direction and do not reveal a target's motivations. Because the spells are tied to a specific destination, they cannot automatically adjust if a target moves; however, some variations can search for [[safe]] routes that shift alongside changing dangers. There are several specialized versions of this magic. The [[Cosmic Path]] is the most advanced iteration, serving as a pinnacle spell capable of guiding starships through space at high speeds across different star systems. In contrast, the [[Eyes of Malice]] is a niche variation that identifies paths an enemy might take to reach the caster rather than guiding the caster to them. Other applications include using the magic to find sources of assistance, track survivors, or analyze overlapping data across a galaxy. The effectiveness of the magic can be hindered by magical interference, such as prison protections or cocoons, and it may return negative results if a target is deceased or has successfully hidden. Additionally, the magic can be integrated into other spells or used to provide coordinates for others to follow.}}
+
+== The Captain ==
+{{spoiler|book=lh-01-the-captain|When activated, the pathfinding spell manifests as a golden light within the user's vision. The narrator utilizes this magic to visualize a tunnel through the [[Iron Hive]], though the spell is limited to locating only known and possible routes. This magic can be linked to another person, and it possesses the ability to alert the narrator to the presence of enemies.}}
+
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|The narrator uses a [[pathfinding spell]] to visualize a tunnel through the [[Iron Hive]].<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|A [[pathfinding spell]] can only locate a known, possible route.<ref name="lh-01-the-captain-c8">''The Captain'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|A [[pathfinding spell]] can be linked to another person.<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The narrator's [[pathfinding spell]] can alert them to enemies.<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[pathfinding spell]] is a magic that shines gold in the user's vision when activated.<ref name="lh-01-the-captain-c44">''The Captain'', chapter 44</ref>}}</li>
+</ul></div>
+
+== The Engineer ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|pathfinding magic{{!}}Pathfinding magic is almost impossible to detect without specialized analysis.<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}</li>
+</ul></div>
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|A [[pathfinding spell]] can be cast by the narrator.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|A [[pathfinding spell]] can target a specific person.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The narrator uses a quick [[pathfinding spell]] to track targets.<ref name="lh-04-the-pilot-c42">''The Pilot'', chapter 42</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The narrator uses a [[pathfinding spell]] by tracing golden runes in the air.<ref name="lh-04-the-pilot-c42" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The narrator's [[pathfinding spell]] can show a golden path.<ref name="lh-04-the-pilot-c44">''The Pilot'', chapter 44</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Spells]]
+[[Category:The Captain]]
+[[Category:The Engineer]]
+[[Category:The Knight]]
+[[Category:The Pilot]]
+[[Category:The Last Horizon]]

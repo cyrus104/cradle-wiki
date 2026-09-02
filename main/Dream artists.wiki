@@ -1,0 +1,35 @@
+{{Infobox group
+| name = dream artists
+| introduced = [[Ghostwater (novel)|Ghostwater]]
+}}
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|Dream artists pursued a project to condense [[mental madra]] to increase performance.<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|Dream artists occasionally contact Fate{{!}}fate.<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Dream artists are capable of performing mental therapy.<ref name="cradle-10-reaper-c18">''Reaper'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|Dream artists can send mental messages.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Groups]]
+[[Category:Ghostwater]]
+[[Category:Reaper]]
+[[Category:Dreadgod]]
+[[Category:Cradle]]
+[[Category:Cradle groups]]

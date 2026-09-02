@@ -1,12 +1,12 @@
 {{Infobox concept
 | name = Territories (The Traveler's Gate Trilogy)
-| introduced = House of Blades
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|None of the Territories are safe.<ref name="tg-01-house-of-blades-c8">''House of Blades'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|None of the Territories are [[safe]].<ref name="tg-01-house-of-blades-c8">''House of Blades'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|A person's full power cannot be called up in someone else's [[Territory]].<ref name="tg-01-house-of-blades-c16">''House of Blades'', chapter 16</ref>}}</li>
 </ul></div>
 
@@ -27,4 +27,3 @@
 [[Category:The Crimson Vault]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate concepts]]
-[[Category:Terminology]]

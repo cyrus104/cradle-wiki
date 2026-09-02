@@ -2,14 +2,8 @@
 
 {{Infobox group
 | name = The Guild
-| introduced = Of Shadow and Sea
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
-
-== Of Shadow and Sea ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Guild]] has a mysterious client.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
-</ul></div>
 
 == Of Killers and Kings ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -23,7 +17,6 @@
 {{Elder Empire nav}}
 
 [[Category:Groups]]
-[[Category:Of Shadow and Sea]]
 [[Category:Of Killers and Kings]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire groups]]

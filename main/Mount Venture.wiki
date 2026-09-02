@@ -1,24 +1,24 @@
 {{Infobox location
 | name = Mount Venture
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Mount Venture Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-10-reaper|Mount Venture is one of the four holy peaks located in [[Sacred Valley]], situated to the west of the region. It is characterized by its rust-red cliffs and a distinct mineral composition that makes it the primary site for mining within the valley. The mountain is controlled by the [[Kazan clan]] and the [[Golden Sword School]], who share the profits generated from its resources. The most significant materials extracted from the mountain include goldsteel and [[halfsilver]], which are often transported by armored stone dogs known as craghounds. During a period of intense conflict, the mountain was destroyed, cracking open to reveal a golden treasure within. Following its destruction, the remains of the mountain continued to emit yellow light from its core, even after a [[Titan]] had fed upon it.}}
+{{spoiler|book=cradle-10-reaper|Mount Venture is one of the four [[holy peaks]] that border the [[Sacred Valley]], situated to the west. It is characterized by its rust-red cliffs and a distinct mineral composition that makes it the primary site for mining within the valley. The [[Kazan clan]] and the [[Golden Sword School]] share control over this territory, splitting the profits generated from its resources. The mountain's most significant exports include Goldsteel{{!}}goldsteel blades, [[halfsilver]] ingots, and sky-Iron{{!}}iron statuettes. During a period of intense conflict, the mountain was destroyed when it was cracked open like a shell, revealing a golden treasure within. Following its [[destruction]], the remains of the peak continued to emit yellow light after a [[Titan]] fed upon its core.}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|The [[Kazan]] wagons are laden with goods from [[Mount Venture]].<ref name="cradle-01-unsouled-c8">''Unsouled'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Mount Venture]] is located to the west of [[Sacred Valley]] and features rust-red cliffs.<ref name="cradle-01-unsouled-c12">''Unsouled'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-01-unsouled|[[Mount Venture]] is the shortest of the four holy peaks and is a primary site for mining in [[Sacred Valley]].<ref name="cradle-01-unsouled-c12" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Mount Venture]] is the shortest of the four [[holy peaks]] and is a primary site for mining in [[Sacred Valley]].<ref name="cradle-01-unsouled-c12" />}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The [[Kazan clan]] and the [[Golden Sword School]] share the profits from mining on [[Mount Venture]].<ref name="cradle-01-unsouled-c12" />}}</li>
 </ul></div>
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|Located to the west, Mount Venture was once a sacred, squat peak characterized by its red-tinged color and surrounding distant peaks. However, the landmark eventually vanished entirely. This loss left the once-revered site in a state of complete ruin.}}
+{{spoiler|book=cradle-09-bloodline|Located to the west, Mount Venture was once a sacred, squat peak characterized by its red-tinged color. This location was defined by its surrounding distant peaks, but its status changed drastically as events unfolded. [[Lindon]] eventually questioned whether the mountain remained intact, only to discover that it had been completely destroyed. The once-sacred site was ultimately left in ruins.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -48,4 +48,3 @@
 [[Category:Reaper]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Regions]]

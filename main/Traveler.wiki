@@ -1,15 +1,15 @@
 {{Infobox concept
 | name = Traveler
-| introduced = House of Blades
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 ''See also: [[Traveler Timeline]]''
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|[[Travelers]] are individuals possessing a wide array of diverse and often terrifying powers. They are associated with specific locations known as [[Territories]], such as [[Endross]], [[Helgard]], [[Ornheim]], Ragnarus, [[Avernus]], [[Naraka]], and [[Lirial]]. While some believe the name refers to their ability to move between locations rapidly, not all [[Territories]] support this function. The specific abilities of a Traveler depend on their [[Territory]]; for instance, those from [[Helgard]] or [[Ornheim]] can summon weapons, beasts, or elemental attacks like ice and flame. In contrast, [[Valinhall Travelers]] are specialized for the purpose of killing other [[Travelers]]. Some [[Travelers]] may also serve as guards, though they are sometimes stationed in specific locations as a form of punishment for political errors or incompetence. A Traveler's stability is often precarious due to the stress of existing alongside alien worlds, and many are considered psychologically broken. If a Traveler loses control, they can become an [[Incarnation]], a state that typically only allows for one such entity per [[Territory]] at any given time. [[Travelers]] are often identified by their specific attire, such as the colored robes or unique uniforms associated with their home [[Territories]]. They can vary greatly in appearance, ranging from distinguished individuals to those who appear physically deformed, aged, or battle-worn.}}
+{{spoiler|book=tg-03-city-of-light|[[Travelers]] are individuals possessing a wide array of diverse and often terrifying abilities. They are associated with specific locations known as Territories, such as [[Endross]], [[Helgard]], [[Ornheim]], [[Naraka]], Ragnarus the Crimson Vault{{!}}Ragnarus, [[Avernus]], and [[Lirial]]. While some believe the name refers to their capacity for rapid movement between locations, not all Territories support such travel. The specific powers of a Traveler depend on their [[Territory]]; for instance, those from [[Helgard]] or [[Ornheim]] can summon weapons, beasts, or elemental attacks like fire and ice, whereas [[Valinhall Travelers]] are specialized in hunting other [[Travelers]]. Other roles include [[Lirial Travelers]], who focus on mapping and surveying. [[Travelers]] can be physically diverse, ranging from hideous figures with black eyes and worm-infested beards to well-dressed individuals in specific uniforms or even injured, older men. The profession can involve various duties, such as serving as guards—often as a form of punishment for incompetence or political errors—or acting as room guardians. It is noted that [[Travelers]] are frequently psychologically unstable due to the stress of existing alongside alien worlds. A significant phenomenon occurs when a Traveler loses control and becomes an [[Incarnation]]; typically, only one such entity exists per [[Territory]] at a time, as a second would likely result in the death of the [[Travelers]] involved.}}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|A Traveler is a specific type of person or role defined by possessing distinguishing secrets and abilities. These entities are capable of being terrifying to encounter, wielding a thousand powers that are mostly gruesome and terrible in nature. To grow, a Traveler must undergo the process of traveling through their own [[Territories]], an act that requires significant risk. While some [[Travelers]], such as those of [[Helgard]] or [[Ornheim]], summon elemental blasts, weapons, or beasts to destroy their enemies, others may use their power to capture people from locations like [[Myria]]. Beyond their combat potential, which [[Simon]] seeks to learn how to fight, [[Travelers]] are suspected by [[Kalman]] of being responsible for certain hauntings and may even own structures like castles with tall towers.}}
+{{spoiler|book=tg-01-house-of-blades|A Traveler is a specific type of person or role characterized by unique abilities and secrets. These entities possess a thousand powers, many of which are gruesome and terrible, and they can be terrifying to encounter. While a Traveler may own a castle featuring a tall tower, they must also travel through their own Territories in order to grow. This process of traveling requires significant risk, such as when a Traveler captured ten people from [[Myria]]. Furthermore, [[Travelers]] of [[Helgard]] or [[Ornheim]] can summon elemental blasts, weapons, or beasts to destroy their enemies.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -19,7 +19,7 @@
 <li>{{spoiler|book=tg-01-house-of-blades|[[Travelers]] have a thousand powers, most of them gruesome and terrible.<ref name="tg-01-house-of-blades-c3">''House of Blades'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|A [[Traveler]] captured ten people from [[Myria]].<ref name="tg-01-house-of-blades-c5">''House of Blades'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Travelers]] are beings that [[Simon]] wants to learn how to fight.<ref name="tg-01-house-of-blades-c6">''House of Blades'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=tg-01-house-of-blades|[[Travelers]] must travel through their own [[Territories]] to grow.<ref name="tg-01-house-of-blades-c7">''House of Blades'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Travelers]] must travel through their own Territories to grow.<ref name="tg-01-house-of-blades-c7">''House of Blades'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|To Travel requires risking it.<ref name="tg-01-house-of-blades-c8">''House of Blades'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|A [[Traveler]] of [[Helgard]] or [[Ornheim]] summons external things like beasts, weapons, or elemental blasts to destroy enemies.<ref name="tg-01-house-of-blades-c9">''House of Blades'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|A [[Traveler]] is a type of person or role.<ref name="tg-01-house-of-blades-c17">''House of Blades'', chapter 17</ref>}}</li>
@@ -42,7 +42,7 @@
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=tg-01-house-of-blades|“Travelers?” Kalman muttered. “Here? This has to be Traveler work.”<ref name="tg-01-house-of-blades-c1" />}}
+* {{spoiler|book=tg-01-house-of-blades|muttered. “Here? This has to be Traveler work.”<ref name="tg-01-house-of-blades-c1" />}}
 * {{spoiler|book=tg-01-house-of-blades|“And Simon’s a Traveler now, apparently.”<ref name="tg-01-house-of-blades-c17" />}}
 * {{spoiler|book=tg-01-house-of-blades|“We Travelers have to have our secrets,” Simon said gravely.<ref name="tg-01-house-of-blades-c17" />}}
 
@@ -57,4 +57,3 @@
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate concepts]]
-[[Category:Lifeforms]]

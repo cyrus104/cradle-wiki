@@ -1,0 +1,29 @@
+{{Infobox artifact
+| name = matter reduction grenade
+| introduced = [[The Captain (novel)|The Captain]]
+}}
+
+== The Captain ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola uses a [[matter reduction grenade]].<ref name="lh-01-the-captain-c29">''The Captain'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|A [[matter reduction grenade]] erupts into a sphere and then implodes.<ref name="lh-01-the-captain-c48">''The Captain'', chapter 48</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola's clones use matter reduction grenade{{!}}matter-reduction grenades.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|A matter reduction grenade{{!}}matter-reduction grenade erases a scoop of [[Omega]]'s body.<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Artifacts]]
+[[Category:The Captain]]
+[[Category:The Pilot]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon artifacts]]

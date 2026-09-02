@@ -1,21 +1,21 @@
 {{Infobox group
 | name = Union
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Union Timeline]]''
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|The [[Galactic Union]] is the most expansive interplanetary government within civilized space, centered around the human birthplace at the heart of the galaxy. Its territory includes human space, the [[Dornoth system]], and the [[Aethril]], though its control is sometimes described as nominal in certain regions. The Union maintains a vast communication network known as the [[Subline]], which connects billions of people. Its military presence is characterized by a preference for gray aesthetics and utilizes specialized power-armored soldiers known as Burrow Guardians. While some view the Union as a potential force for good that could provide stability through cooperation, others see it as an entity that has pursued galactic dominance through civil war and secret operations. Internal and external politics heavily influence the Union. It is led by President [[Telappen Vashei]], a human woman described as stern yet kind. However, there are significant claims that the organization is actually manipulated by a shadow group called [[Solstice]], which may engineer chaos to justify Union intervention. The Union is currently engaged in a long-standing conflict with the [[Iron Legion]] and maintains complex, sometimes tense relationships with other groups like the [[Karoshan Alliance]]. Additionally, splinter factions from previous Union takeovers exist in [[Dark Space]], seeking to reclaim lost territory.}}
+{{spoiler|book=lh-04-the-pilot|The [[Galactic Union]] is the largest interplanetary government within civilized space, centered around the human birthplace at the heart of the galaxy. Its territory includes human space, the [[Dornoth system]], and the [[Aethril]], though its influence extends even further. The Union maintains a vast communication network known as the [[Subline]] and utilizes specialized military forces, including power-armored soldiers. While some view it as a potential force for good that could unify the galaxy, others see it as an entity driven by a desire for galactic dominance. The government has been involved in a devastating civil war and faces ongoing conflict with the [[Iron Legion]], an enemy it has fought for centuries. Beneath its official structure, the Union is reportedly manipulated by a Shadow{{!}}shadow organization called [[Solstice]]. This group is believed to operate from the [[Fathom system]], which serves as the Union's headquarters. There are allegations that [[Solstice]] engineers galactic chaos to justify Union intervention and peacekeeping efforts. The Union's leadership includes President [[Telappen Vashei]], a human woman described as stern yet kind. Despite its [[scale]], the Union faces challenges from splinter factions that fled during its takeover and must navigate complex relationships with other powers like the [[Karoshan Alliance]].}}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|The Union functions as a military and political entity that includes the [[Aethril]]. As an organization, it serves as a source from which ships may be borrowed. The Union also facilitated [[Professor Vallenar]]'s presence at the [[Magic Tower]] and exists as a territory that can be traveled deeper into.}}
+{{spoiler|book=lh-01-the-captain|The Union functions as a military and political entity that includes the [[Aethril]]. This organization serves as a source from which ships can be borrowed, and it has even granted Varic Vallenar{{!}}Professor Vallenar permission to remain at the [[Magic Tower]]. Furthermore, the Union is a territory that can be traveled deeper into.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Union]] is a military/political entity.<ref name="lh-01-the-captain-c4">''The Captain'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Union]] is a group from which ships can be borrowed.<ref name="lh-01-the-captain-c11">''The Captain'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The [[Union]] allowed [[Professor Vallenar]] to be at the [[Magic Tower]].<ref name="lh-01-the-captain-c22">''The Captain'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Union]] allowed Varic Vallenar{{!}}Professor Vallenar to be at the [[Magic Tower]].<ref name="lh-01-the-captain-c22">''The Captain'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Union]] is a location or entity that can be traveled deeper into.<ref name="lh-01-the-captain-c35">''The Captain'', chapter 35</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Aethril]] are part of the [[Union]].<ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref>}}</li>
 </ul></div>
@@ -24,30 +24,29 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|Information from the [[Union]] is considered scarce by [[Starhammer]].<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|The [[Union]] is a group mentioned by Shyrax.<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Union]] is a group mentioned by Queen Shyrax{{!}}Shyrax.<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The narrator materializes on the bridge of a [[Union]] battleship.<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Sola]] has contacts within the [[Union]].<ref name="lh-02-the-engineer-c50">''The Engineer'', chapter 50</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola has contacts within the [[Union]].<ref name="lh-02-the-engineer-c50">''The Engineer'', chapter 50</ref>}}</li>
 </ul></div>
 
 == The Knight ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|Rifles issued by the [[Union]] are magically shielded.<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Union]] treats certain planet contact losses as [[Iron Legion]] attacks.<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|A fleet of [[Union]] forces accompanied the [[Titan Knights]].<ref name="lh-03-the-knight-c34">''The Knight'', chapter 34</ref>}}</li>
 </ul></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|The Union is a long-standing entity that has been engaged in warfare against the [[Iron Legion]] for centuries. While [[Solstice]] maintains influence over everyone within the organization, the group contains various insurrectionist elements and has been linked to the destruction of the [[Zenith]] Starship. The Union's involvement in matters concerning [[Karosha]] has faced scrutiny, and its military forces have been seen firing upon [[The Last Horizon]]. Furthermore, the group's actions have turned [[Mariala]] and her fellow students into fugitives.}}
+{{spoiler|book=lh-04-the-pilot|The Union is a long-standing entity that has been engaged in warfare against the [[Iron Legion]] for centuries. While [[Solstice]] maintains influence over everyone within the organization, the group contains various insurrectionist elements and has been linked to the [[destruction]] of the The Zenith Starship{{!}}Zenith Starship. The Union's actions have led to Mariala Brechess{{!}}Mariala and her fellow students becoming fugitives, and its ships have been observed firing upon [[The Last Horizon]]. Furthermore, the entity's connection to [[Karosha]] has become a subject of scrutiny.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The characters are discussing the [[Union military]].<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Solstice]] has influence over everyone in the [[Union]].<ref name="lh-04-the-pilot-c5">''The Pilot'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|The [[Union]] is a group or entity mentioned in relation to the [[Zenith]] Starship's destruction.<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Union]] is a group or entity mentioned in relation to the The Zenith Starship{{!}}Zenith Starship's [[destruction]].<ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Union]] has insurrectionist elements.<ref name="lh-04-the-pilot-c9">''The Pilot'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Union]] has been fighting the [[Iron Legion]] for centuries.<ref name="lh-04-the-pilot-c22">''The Pilot'', chapter 22</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Mariala]] and her fellow students are now [[Union]] fugitives.<ref name="lh-04-the-pilot-c28">''The Pilot'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Mariala Brechess{{!}}Mariala and her fellow students are now [[Union]] fugitives.<ref name="lh-04-the-pilot-c28">''The Pilot'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Union]] has ships that are firing on [[The Last Horizon]].<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Union]] is a business or entity being questioned in relation to [[Karosha]].<ref name="lh-04-the-pilot-c36">''The Pilot'', chapter 36</ref>}}</li>
 </ul></div>

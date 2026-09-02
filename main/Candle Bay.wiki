@@ -1,23 +1,22 @@
 {{Infobox location
 | name = Candle Bay
-| introduced = Of Sea and Shadow
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Candle Bay Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|Candle Bay is a coastal location characterized by its busy harbor, which serves as a hub for merchants, fishermen, and navigators. The bay is directly connected to the [[Aion Sea]], a dangerous body of water inhabited by various monsters and phantoms. Within this bay, the [[Blackwatch]] have attempted to summon [[Elderspawn]]. The area is also home to the [[Candle Bay Playhouse]], which performs seasonal theatrical productions. A significant landmark in the region is the [[Candle Bay Imperial Prison]]. Formerly described as a site of torture that was better off destroyed, its ruins once resembled an avalanche-damaged hospital. Despite this history of destruction, the prison has recently reopened. The bay's waters are dark and can appear like black glass, and the surrounding area includes the town of [[Silverreach]], which features a lighthouse on its cliffs.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Candle Bay is a coastal location characterized by its busy harbor, which serves as a hub for merchants, fishermen, and navigators. The bay is directly connected to the [[Aion Sea]], a dangerous body of [[water]] inhabited by various monsters and phantoms. Within this bay, the [[Blackwatch]] have attempted to summon [[Elderspawn]]. The area also features a Playhouse that performs seasonal theatrical productions. Historically, the location was home to the [[Candle Bay Imperial Prison]], a facility described as a place of torture that had been reduced to rubble before its recent reopening. The bay's waters are noted for being dark green, and the surrounding environment includes a shore where debris from destroyed structures can be found.}}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|Candle Bay is a harbor located directly adjacent to the [[Aion Sea]]. The waters of this location present a danger where ships could potentially sink, and the bay is visible from the window of [[Rojric]]'s prison cell. The area is patrolled by staff tasked with investigating prison breaks. During his journey, [[Calder]] jumped into the bay and used the location to abandon his contingency tools.}}
+{{spoiler|book=ee-sea-01-of-sea-and-shadow|Candle Bay is a harbor that serves as a location directly connected to the [[Aion Sea]]. The waters of this area present a danger where ships could potentially sink, and the bay remains visible from the window of [[Rojric]]'s cell. During his time there, [[Calder]] jumped into the bay and used the location to abandon contingency tools.}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Candle Bay]] is a harbor.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Candle Bay]] is a location where the ship could potentially sink.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Candle Bay]] is a location.<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Candle Bay]] is visible from the window in [[Rojric]]'s cell.<ref name="ee-sea-01-of-sea-and-shadow-c15">''Of Sea and Shadow'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Candle Bay]] has staff that investigate prison breaks.<ref name="ee-sea-01-of-sea-and-shadow-c19">''Of Sea and Shadow'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Candle Bay]] is directly connected to the [[Aion Sea]].<ref name="ee-sea-01-of-sea-and-shadow-c21">''Of Sea and Shadow'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] jumps into [[Candle Bay]].<ref name="ee-sea-01-of-sea-and-shadow-c21" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Candle Bay]] is a location where [[Calder]] abandoned contingency tools.<ref name="ee-sea-01-of-sea-and-shadow-c24">''Of Sea and Shadow'', chapter 24</ref>}}</li>
@@ -60,4 +59,3 @@
 [[Category:Of Killers and Kings]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire locations]]
-[[Category:Settlements]]

@@ -2,13 +2,13 @@
 
 {{Infobox concept
 | name = Aetheric patterns
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 == The Engineer ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|The [[Captain]] sews [[Aetheric patterns]] into mantles.<ref name="lh-02-the-engineer-c26">''The Engineer'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The Captain sews [[Aetheric patterns]] into mantles.<ref name="lh-02-the-engineer-c26">''The Engineer'', chapter 26</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -20,4 +20,3 @@
 [[Category:The Engineer]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon concepts]]
-[[Category:Terminology]]

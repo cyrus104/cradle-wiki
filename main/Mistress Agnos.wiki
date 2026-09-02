@@ -7,15 +7,10 @@
 }}
 
 == The Crimson Vault ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Mistress Agnos]] is a woman [[Indirial]] met.<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] addresses [[Olissa]] as [[Mistress Agnos]].<ref name="tg-02-crimson-vault-c20">''The Crimson Vault'', chapter 20</ref>}}</li>
 </ul></div>
-
-== Notable quotes ==
-* {{spoiler|book=tg-02-crimson-vault|"It was an honor to meet you, Mistress Agnos."<ref name="tg-02-crimson-vault-c15" />}}
-* {{spoiler|book=tg-02-crimson-vault|“Mistress Agnos, if I know anything about the Eldest—and unfortunately I do), then he is just inside the workshop, waiting to appear dramatically as soon as we need him.<ref name="tg-02-crimson-vault-c20" />}}
 
 == Notes ==
 <references />

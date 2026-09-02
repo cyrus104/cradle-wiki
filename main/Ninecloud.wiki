@@ -1,19 +1,19 @@
 {{Infobox location
 | name = Ninecloud
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud]] people are ruled by [[Sha Leiala]].<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Ninecloud]] people are ruled by Luminous Queen Sha Leiala{{!}}Sha Leiala.<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Ninecloud]] is a nation next to [[Moonwater]].<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}</li>
 </ul></div>
 
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Ninecloud]] is one of the five land masses projected by the [[Phoenix]].<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Ninecloud]] is one of the five land masses projected by The Phoenix{{!}}the Phoenix.<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -26,4 +26,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Nations and empires]]

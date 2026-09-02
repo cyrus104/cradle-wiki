@@ -1,35 +1,35 @@
 {{Infobox technique
 | name = Script
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-05-ghostwater|Script consists of patterns or shapes used to guide [[vital aura]], reshaping it to achieve specific purposes. Rather than being a divine language, script functions by directing the flow of [[aura]] through carved or drawn symbols. These can be etched into various surfaces, including wood, [[stone]], dirt, glass, or fabric, and may even be found on clothing. While a script is essentially a two-dimensional drawing of letters or runes, it can be used to activate more complex and permanent structures known as [[binding{{!}}bindings]], which are described as having greater depth and weight. [[scripts{{!}}Scripts]] can be powered by a user's [[spirit]] or [[madra]]. They serve a wide range of functions, such as generating light, creating defensive wards to catch or eject energy, providing concealment by dispersing spiritual senses, or acting as control arrays. Some [[scripts]] are designed to trigger specific effects upon contact or movement, while others can be used to activate the abilities of [[binding{{!}}bindings]] or [[constructs]]. The complexity of a script can vary from simple, rough symbols to intricate, multi-layered circles that resemble wheels within wheels. If a script is not broken instantly, attempting to disrupt it may cause the effect to trigger prematurely.}}
+{{spoiler|book=cradle-05-ghostwater|Script consists of patterns or symbols used to manipulate [[vital aura]]. Rather than being a celestial language, it functions as a series of shapes that guide and reshape [[aura]] to achieve specific purposes. These patterns can be etched into various surfaces, including wood, dirt, [[stone]], glass, and fabric, or even embedded in objects like cloth. When a user provides [[madra]] to a script, it activates, often producing light or other physical effects. scripts{{!}}Scripts serve many roles, such as creating protective wards, generating light, or acting as control arrays. They can be used to catch and eject energy, hide individuals from spiritual senses, or activate the abilities of binding{{!}}bindings and [[constructs]]. While a script is essentially a two-dimensional drawing of symbols, it can be used to trigger more complex, three-dimensional phenomena like binding{{!}}bindings. The effectiveness and stability of a script depend on its complexity, the medium it is written upon, and the amount of energy used to power it.}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|[[Script]] consists of runes that are shapes used to guide [[vital aura]] in the air to reshape it for a new purpose.<ref name="cradle-01-unsouled-c7">''Unsouled'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-01-unsouled|A [[Script{{!}}script]] can be constructed using small tiles etched with runes or sigils to function as a full-size [[script-circle{{!}}script circle]].<ref name="cradle-01-unsouled-c9">''Unsouled'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|A Script{{!}}script can be constructed using small tiles etched with runes or sigils to function as a full-size script-circle{{!}}script circle.<ref name="cradle-01-unsouled-c9">''Unsouled'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|A [[Script{{!}}script]] can gather or push away [[vital aura]].<ref name="cradle-02-soulsmith-c4">''Soulsmith'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|Lines of [[Script{{!}}script]] on the wall provide light and are fully powered.<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|A Script{{!}}script can gather or push away [[vital aura]].<ref name="cradle-02-soulsmith-c4">''Soulsmith'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|Lines of Script{{!}}script on the wall provide light and are fully powered.<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}</li>
 </ul></div>
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|A scarlet [[Script{{!}}script]] encircles the cave entrance.<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A scarlet Script{{!}}script encircles the cave entrance.<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
 </ul></div>
 
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|The hatch is protected by hidden rings of [[Script{{!}}script]].<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The hatch is protected by hidden rings of Script{{!}}script.<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}</li>
 </ul></div>
 
 == Notes ==

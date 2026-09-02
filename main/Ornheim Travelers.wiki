@@ -1,10 +1,10 @@
 {{Infobox group
 | name = Ornheim Travelers
-| introduced = House of Blades
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|[[Ornheim]] [[Travelers]] are individuals belonging to the [[Ornheim]] [[Territory]] who possess the ability to summon various objects and creatures to aid them in combat or utility. Their primary specialty involves the creation of golems, which are constructed from materials like granite, flint, shale, obsidian, or quartz. These summoned beings can take many forms, including wolves, assassins, and massive guardians, often requiring specific gemstones or heartstones to animate. [[Ornheim]] [[Travelers]] are characterized by their patience, endurance, and meticulous preparation, often spending weeks refining their creations. They are noted for being disciplined and diligent followers of their leaders, typically awaiting orders without panicking. Beyond golems, these [[Travelers]] can summon stone structures, such as temples, or use elemental forces like ice and flame. In addition to individual [[Travelers]], the territory is associated with powerful [[Incarnations]]—large, stone-like entities that resemble intricately carved human figures and possess immense strength.}}
+{{spoiler|book=tg-03-city-of-light|[[Ornheim]] [[Travelers]] are individuals hailing from the [[Territory]] of [[Ornheim]], a realm associated with [[stone]] and rock. Their primary ability involves summoning various [[constructs]] known as Golems{{!}}golems from their home territory to assist them in combat or other tasks. These summoned entities can take many forms, including [[obsidian wolves]] with amethyst eyes, granite guardians, flint and shale assassins, or even massive [[stone]] temples. Some Golems{{!}}golems are powered by specific heartstones, such as topaz or [[ruby]], and the creation process requires significant patience, preparation, and endurance. In terms of temperament, [[Ornheim]] [[Travelers]] are characterized by their diligence, patience, and ability to remain calm under pressure. Unlike some other [[Travelers]] who may panic, they are known to wait obediently for orders from their Overlord. In battle, they have been seen utilizing [[stone]]-based attacks and summoning massive Golems{{!}}golems to crush enemies. The territory itself is also linked to the [[Ornheim Incarnation]], a large, highly detailed entity made of white [[stone]] with colorful veins that possesses human-like features and immense strength.}}
 
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -15,15 +15,14 @@
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-02-crimson-vault|[[Ornheim Travelers]] can summon stone from their [[Territory]].<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|An [[Ornheim]] [[Traveler]] can create a golem from tiles using a carved [[ruby]].<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Ornheim Travelers]] can summon [[stone]] from their [[Territory]].<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|An Ornheim Travelers{{!}}Ornheim Traveler can create a golem from tiles using a carved [[ruby]].<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
 </ul></div>
 
 == City of Light ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|[[Ornheim Travelers]] are used to add bricks to walls.<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|The [[Ornheim]] [[Traveler]] entered the entry hall.<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The Ornheim Travelers{{!}}Ornheim Traveler entered the [[entry hall]].<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Ornheim Travelers]] are engaging soldiers a few streets away.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
 </ul></div>
 

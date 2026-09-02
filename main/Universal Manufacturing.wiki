@@ -1,10 +1,10 @@
 {{Infobox group
 | name = Universal Manufacturing
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|Universal Manufacturing is a major galactic corporation and a primary competitor of the [[Vallenar Corporation]]. The organization maintains a significant presence in interstellar shipping and is known for producing various goods, most notably components for starship navigational computers and replicators. The company operates out of [[Zykaros]], a location generally avoided by people due to the corporation's unpleasant reputation. Universal Manufacturing employs specialized personnel, including transmutation specialists and enchanters, to assist in their production processes. The company's leadership includes a skeletal President who maintains security through armed guards, and the organization utilizes advanced technology such as AI-monitored secure cargo transport ships.}}
+{{spoiler|book=lh-04-the-pilot|Universal Manufacturing, also referred to as U.M., is a major corporate entity and a significant competitor of the [[Vallenar Corporation]]. While the two organizations frequently engage in conflict, they also collaborate on various occasions. The company is primarily recognized for producing a wide variety of goods, specifically components utilized in starship navigational computers and replicators. Universal Manufacturing maintains a massive presence in the galaxy, managing a large portion of interstellar shipping operations and utilizing secure cargo transport vessels equipped with AI-monitored security systems. The organization is led by a skeletal President and employs specialized personnel, including enchanters and Archmages specializing in transmutation, to assist with their production processes. The company is headquartered on the planet [[Zykaros]], a location generally avoided by [[inhabitants]] due to the corporation's reputation for being unpleasant.}}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -13,11 +13,11 @@
 </ul></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|Universal Manufacturing is a company that seeks to expand its influence across the [[Galactic Union]]. The organization is led by a skeletal President and maintains specialized staff, including transmutation specialists. Additionally, the company possesses its own secure cargo transport ship.}}
+{{spoiler|book=lh-04-the-pilot|Universal Manufacturing is a company that seeks to expand its influence across the [[Galactic Union]]. Led by a skeletal President, the organization utilizes transmutation specialists within its operations. Additionally, the company maintains ownership of a secure cargo transport ship.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|The [[President of Universal Manufacturing]] is a skeletal figure.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The President of [[Universal Manufacturing]] is a skeletal figure.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Universal Manufacturing]] is an organization that aims to extend influence throughout the [[Galactic Union]].<ref name="lh-04-the-pilot-c2" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Universal Manufacturing]] owns a secure cargo transport ship.<ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Universal Manufacturing]] is a company.<ref name="lh-04-the-pilot-c24" />}}</li>

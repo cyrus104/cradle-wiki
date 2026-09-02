@@ -2,13 +2,13 @@
 
 {{Infobox concept
 | name = Archmage of binding magic
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|[[Varic]] is a certified [[Archmage of binding magic]].<ref name="lh-01-the-captain-c11">''The Captain'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Varic Vallenar{{!}}Varic is a certified [[Archmage of binding magic]].<ref name="lh-01-the-captain-c11">''The Captain'', chapter 11</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -20,4 +20,3 @@
 [[Category:The Captain]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon concepts]]
-[[Category:Titles]]

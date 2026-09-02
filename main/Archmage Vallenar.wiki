@@ -19,7 +19,7 @@
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|[[Archmage Vallenar]] is a title or identity used by [[Benri]].<ref name="lh-04-the-pilot-c38">''The Pilot'', chapter 38</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Archmage Vallenar]] is a title or identity used by Benri Vallenar{{!}}Benri.<ref name="lh-04-the-pilot-c38">''The Pilot'', chapter 38</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Archmage Vallenar]] is an [[Aethril]] summoner.<ref name="lh-04-the-pilot-c38" />}}</li>
 </ul></div>
 

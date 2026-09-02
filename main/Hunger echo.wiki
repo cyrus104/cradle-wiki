@@ -1,0 +1,28 @@
+{{Expand}}
+
+{{Infobox technique
+| name = hunger echo
+| introduced = [[Reaper (novel)|Reaper]]
+}}
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|A [[Forger technique]] can create a [[hunger echo]].<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|The [[hunger echo]] is a younger version of [[Northstrider]].<ref name="cradle-12-waybound-c24">''Waybound'', chapter 24</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Techniques]]
+[[Category:Reaper]]
+[[Category:Waybound]]
+[[Category:Cradle]]

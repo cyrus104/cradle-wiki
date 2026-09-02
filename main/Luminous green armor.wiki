@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = luminous green armor
+| introduced = [[City of Light (novel)|City of Light]]
+}}
+
+== City of Light ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-03-city-of-light|A floating suit of [[luminous green armor]] appears during the fight.<ref name="tg-03-city-of-light-c6">''City of Light'', chapter 6</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Artifacts]]
+[[Category:City of Light]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate artifacts]]

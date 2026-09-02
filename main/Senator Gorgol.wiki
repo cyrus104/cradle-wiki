@@ -10,7 +10,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Senator Gorgol]] is associated with the planet [[Visiria]].<ref name="lh-03-the-knight-c28">''The Knight'', chapter 28</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|[[Senator Gorgol]] is a senator being challenged by [[Varic]].<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Senator Gorgol]] is a senator being challenged by Varic Vallenar{{!}}Varic.<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==

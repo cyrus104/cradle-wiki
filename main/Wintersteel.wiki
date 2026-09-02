@@ -1,4 +1,27 @@
-#REDIRECT [[wintersteel]]
+<div class="hatnote wv-hatnote">''This article is about the concept. For the novel, see [[Wintersteel (novel)|''Wintersteel'']].''</div>
+{{Expand}}
+
+{{Infobox concept
+| name = wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
+}}
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|Ozmanthus Arelius{{!}}Ozmanthus used a black hammer against [[wintersteel]].<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|The [[sword]]'s core is made of white [[wintersteel]].<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Concepts]]
 [[Category:Reaper]]

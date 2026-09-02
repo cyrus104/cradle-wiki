@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = black death-aura skulls
+| introduced = [[Underlord (novel)|Underlord]]
+}}
+
+== Underlord ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-06-underlord|The [[Akura vault]] contains a scripted cauldron filled with [[black death-aura skulls]].<ref name="cradle-06-underlord-c18">''Underlord'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Underlord]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

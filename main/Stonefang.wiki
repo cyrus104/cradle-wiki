@@ -9,13 +9,13 @@
 }}
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|A Stonefang, also known as a Stonefang [[Kameira]], is a large, formidable creature categorized as a type of [[Kameira]]. These animals resemble massive dogs with [[ruby]] or scarlet stripes and can grow to the size of a tiger or a lion. They are known for being extremely difficult to kill and possess an intense instinct to protect their nests, making them ideal as relentless security for guarding specific locations or treasures for extended periods without needing rest. While they are dangerous fighters capable of inflicting serious injury, they can be trained to follow commands and may respond to certain individuals with submission or whining.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|A Stonefang, also known as a Stonefang [[Kameira]], is a large, formidable creature classified as a type of [[Kameira]]. These animals are characterized by their [[ruby]] or scarlet stripes and can reach the size of a tiger or a lion. They are known for being extremely difficult to kill and possess an intense instinct to protect their nests, making them ideal as tireless security for guarding specific locations or treasures for extended periods. While they are dangerous fighters capable of inflicting severe injuries, they can be trained to follow commands and may respond to certain individuals with submissive behaviors like whimpering or backing down.}}
 
 == Of Kings and Killers ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Stonefangs are [[ruby]]-striped dogs the size of tigers used for security.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Stonefang]] [[Kameira]] is a giant [[ruby]]-striped dog.<ref name="ee-sea-03-of-kings-and-killers-c7">''Of Kings and Killers'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Stonefang{{!}}Stonefang Kameira is a [[giant]] [[ruby]]-striped dog.<ref name="ee-sea-03-of-kings-and-killers-c7">''Of Kings and Killers'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Stonefang]] is a tiger-sized dog.<ref name="ee-sea-03-of-kings-and-killers-c7" />}}</li>
 </ul></div>
 
@@ -38,4 +38,3 @@
 [[Category:Of Killers and Kings]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire characters]]
-[[Category:Kameira]]

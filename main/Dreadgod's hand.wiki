@@ -1,12 +1,12 @@
 {{Infobox location
 | name = Dreadgod's hand
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Dreadgod's hand]] is located near a large stone wall at the edge of a town.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Dreadgod's hand]] is located near a large [[stone]] wall at the edge of a town.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Reaper ==
@@ -18,7 +18,7 @@
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] has a [[Dreadgod]] hand in a sling.<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] has a Dreadgod's hand{{!}}Dreadgod hand in a sling.<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
 </ul></div>
 
 == Notes ==

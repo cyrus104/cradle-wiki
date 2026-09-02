@@ -1,0 +1,28 @@
+{{Expand}}
+
+{{Infobox technique
+| name = fortune magic
+| introduced = [[The Captain (novel)|The Captain]]
+}}
+
+== The Captain ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|Fortune magic is Mariala Brechess{{!}}Mariala's specialty.<ref name="lh-01-the-captain-c4">''The Captain'', chapter 4</ref>}}</li>
+</ul></div>
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|Fortune magic is a discipline used by some [[D’Niss]].<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Techniques]]
+[[Category:The Captain]]
+[[Category:The Knight]]
+[[Category:The Last Horizon]]

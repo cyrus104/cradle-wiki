@@ -1,0 +1,51 @@
+{{Infobox artifact
+| name = quicklamps
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
+}}
+
+== Overview ==
+{{spoiler|book=ee-sea-03-of-kings-and-killers|Quicklamps are alchemical lighting devices consisting of glass containers filled with a glowing liquid formula. They serve as a versatile and safer alternative to traditional lanterns, particularly in maritime environments, because the tempered glass is resistant to impact and the fluid itself is difficult to ignite and produces minimal heat. This makes them less likely to cause fires if broken, though they can still be ignited by lightning or certain creatures. Users can adjust the brightness of a [[quicklamp]] using an alchemical valve, and they are available in various sizes ranging from tiny orbs to massive structures. They also come in a wide spectrum of colors, including white, yellow, orange, blue, green, red, and purple. While they are more expensive than candles or oil lamps, they provide a steady glow that can last for several years before needing replacement. Quicklamps are used in various settings, such as being bolted to walls with pull-cords for convenience, hung from tree roots in underground chambers, or used as portable tools for travelers and combatants.}}
+
+== Of Sea and Shadow ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Quicklamps are glass containers of alchemical formula that produce light for a few years.<ref name="ee-sea-01-of-sea-and-shadow-c1">''Of Sea and Shadow'', chapter 1</ref>}}</li>
+</ul></div>
+
+== Of Shadow and Sea ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Quicklamps glow with a steady orange alchemical fluid.<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
+</ul></div>
+
+== Of Dawn and Darkness ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Quicklamps are glass jars of glowing liquid that can be brightened or dimmed by adjusting an alchemical valve.<ref name="ee-sea-02-of-dawn-and-darkness-c17">''Of Dawn and Darkness'', chapter 17</ref>}}</li>
+</ul></div>
+
+== Of Darkness and Dawn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Quicklamps provide light ranging from pure white to yellow to deep orange.<ref name="ee-shadow-02-of-darkness-and-dawn-c4">''Of Darkness and Dawn'', chapter 4</ref>}}</li>
+</ul></div>
+
+== Of Kings and Killers ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] orders [[quicklamps]] to be lit in the preparation area.<ref name="ee-sea-03-of-kings-and-killers-c15">''Of Kings and Killers'', chapter 15</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Artifacts]]
+[[Category:Of Sea and Shadow]]
+[[Category:Of Dawn and Darkness]]
+[[Category:Of Kings and Killers]]
+[[Category:Of Shadow and Sea]]
+[[Category:Of Darkness and Dawn]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire artifacts]]

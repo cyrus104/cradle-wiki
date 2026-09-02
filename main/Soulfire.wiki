@@ -1,61 +1,67 @@
 {{Infobox technique
 | name = soulfire
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[soulfire Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|Soulfire is a specialized form of condensed [[vital aura]] that serves as the defining characteristic and power source for [[Underlord{{!}}Underlords]]. It acts as a transitional bridge between the [[madra]] system and higher levels of power, allowing users to exert their will directly upon the world. This energy can be used to empower various techniques, enhance weapons to be tougher than [[steel]], and facilitate the creation of advanced artifacts through processes like [[Soulsmithing]]. Beyond combat applications, soulfire plays a vital role in physical and spiritual transformation. It can be used to reforge a person's body, cleansing impurities from the [[spirit]] and strengthening bones and [[madra channels]]. While it can be used to enhance physical attributes or provide weak control over [[aura]], its primary function is as a signature of [[advancement]]. The quality and color of soulfire vary by rank, with [[Archlord]]-level soulfire appearing as reflective quicksilver. While the process of being remade by soulfire is generally painless, it is a fundamental requirement for advancing through the higher realms of power.}}
+{{spoiler|book=cradle-13-threshold|Soulfire is a specialized form of condensed [[vital aura]] that serves as the defining characteristic and power source for Underlord{{!}}Underlords. Described as a gray, almost colorless flame, it acts as a transitional bridge between the [[madra]] system and higher levels of power where individuals can exert their will to control the world directly. The substance is used for various purposes, including imbuing weapons and artifacts to make them tougher than [[steel]] or perfect conductors of energy, empowering combat techniques to increase their scope and force, and fueling complex [[scripts]]. Beyond combat, soulfire is utilized in [[Soulsmithing]] to refine physical vessels, cleanse impurities from the [[spirit]], and rebuild [[madra channels]]. It can also be used to reforge a person's body and soul, facilitating [[advancement]] into higher realms. Soulfire exists in different grades, such as the silver-like [[Archlord soulfire]], which is significantly more powerful than standard [[Underlord]] varieties. While it can be used to enhance physical attributes or provide weak control over [[aura]], its primary role is as a signature of high-level mastery and a tool for profound spiritual and physical transformation.}}
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|[[soulfire{{!}}Soulfire]] is a gray-white, half-transparent flame that is perfectly round and spins slowly.<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|[[soulfire{{!}}Soulfire]] is the signature of an [[Underlord]].<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|soulfire{{!}}Soulfire is a gray-white, half-transparent flame that is perfectly round and spins slowly.<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|soulfire{{!}}Soulfire is the signature of an [[Underlord]].<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Jai Daishou]] uses stockpiled [[soulfire]].<ref name="cradle-03-blackflame-c20">''Blackflame'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|[[soulfire{{!}}Soulfire]] can be used to make mundane materials like [[Iron{{!}}iron]] stronger and allow them to conduct [[madra]] and [[aura]] more efficiently.<ref name="cradle-03-blackflame-c20" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|soulfire{{!}}Soulfire can be used to make mundane materials like Iron{{!}}iron stronger and allow them to conduct [[madra]] and [[aura]] more efficiently.<ref name="cradle-03-blackflame-c20" />}}</li>
 </ul></div>
 
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Underlord]] bodies can be forged in [[soulfire]].<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[soulfire{{!}}Soulfire]] is a gray, almost colorless flame that can be ignited on fingertips.<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[soulfire{{!}}Soulfire]] is the power of an [[Underlord]] and a hallmark of a [[Lord]].<ref name="cradle-04-skysworn-c8">''Skysworn'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[soulfire{{!}}Soulfire]] is a type of energy used to fuel seals.<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|soulfire{{!}}Soulfire is a gray, almost colorless flame that can be ignited on fingertips.<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|soulfire{{!}}Soulfire is the power of an [[Underlord]] and a hallmark of a [[Lord]].<ref name="cradle-04-skysworn-c8">''Skysworn'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|soulfire{{!}}Soulfire is a type of energy used to fuel seals.<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}</li>
 </ul></div>
 
 == Ghostwater ==
+{{spoiler|book=cradle-05-ghostwater|Soulfire is a specific type of energy used to refine the physical vessel, empower [[madra]], and burn away impurities. Those ranked as Underlord{{!}}Underlords or higher undergo a process where their bodies are reforged by this power. [[Eithan]] utilizes soulfire to augment his [[Enforcer technique]], while [[Lindon]] is expected to use it to reforge both his [[spirit]] and body once he reaches the [[Truegold]] stage.}}
+
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|[[Underlord{{!}}Underlords]] and above have their bodies reforged by [[soulfire]].<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|[[soulfire{{!}}Soulfire]] is a type of energy/power.<ref name="cradle-05-ghostwater-c14">''Ghostwater'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|Underlord{{!}}Underlords and above have their bodies reforged by [[soulfire]].<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|soulfire{{!}}Soulfire is a type of energy/power.<ref name="cradle-05-ghostwater-c14">''Ghostwater'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Eithan]] can use [[soulfire]] to empower his [[Enforcer technique]].<ref name="cradle-05-ghostwater-c14" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] will need to reforge his body and [[spirit]] in [[soulfire]] after [[Truegold]].<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|[[soulfire{{!}}Soulfire]] burns away impurities, refines the physical vessel, and empowers [[madra]].<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|soulfire{{!}}Soulfire burns away impurities, refines the physical vessel, and empowers [[madra]].<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
 </ul></div>
 
 == Underlord ==
+{{spoiler|book=cradle-06-underlord|Soulfire is a condensed form of the world's power and [[vital aura]] that results from connecting to one's surroundings. Serving as the true mark of an [[Underlord]], this energy is used to burn treasures to facilitate [[advancement]] and can even rebuild a person's lifeline during that process. While [[Yerin]] is able to weave this energy, [[Lindon]] possesses soulfire within his [[spirit]], allowing it to form a bridge between his [[spirit]] and the [[aura]]. This energy can be injected into techniques like the Titan’s Blade{{!}}Titan's Blade, used to retreat [[sword aura]] pressure, or poured into a [[Striker technique]] as Prince Seishen Kiro{{!}}Kiro did. Additionally, soulfire can be absorbed by emerald [[madra]] leaves or rushed from the The Book of Eternal Night{{!}}Book of Eternal Night into a [[spirit]].}}
+
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[soulfire{{!}}Soulfire]] is a by-product of connecting to the world around you.<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[soulfire{{!}}Soulfire]] is considered the real mark of an [[Underlord]].<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[Underlord{{!}}Underlords]] burn treasures for [[soulfire]] to progress through [[advancement]].<ref name="cradle-06-underlord-c9">''Underlord'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[soulfire{{!}}Soulfire]] is [[vital aura]] distilled and the power of the world condensed.<ref name="cradle-06-underlord-c9" />}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[Prince Seishen Kiro{{!}}Kiro]] drew on his reserve of [[soulfire]].<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[soulfire{{!}}Soulfire]] is a type of energy [[Yerin]] can weave.<ref name="cradle-06-underlord-c10" />}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[soulfire{{!}}Soulfire]] is absorbed by emerald [[madra]] leaves.<ref name="cradle-06-underlord-c11">''Underlord'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[soulfire{{!}}Soulfire]] is present in [[Lindon]]'s [[spirit]].<ref name="cradle-06-underlord-c15">''Underlord'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[soulfire{{!}}Soulfire]] rebuilds a person's lifeline during [[advancement]].<ref name="cradle-06-underlord-c15" />}}</li>
+<li>{{spoiler|book=cradle-06-underlord|soulfire{{!}}Soulfire is a by-product of connecting to the world around you.<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|soulfire{{!}}Soulfire is considered the real mark of an [[Underlord]].<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|Underlord{{!}}Underlords burn treasures for [[soulfire]] to progress through [[advancement]].<ref name="cradle-06-underlord-c9">''Underlord'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|soulfire{{!}}Soulfire is [[vital aura]] distilled and the power of the world condensed.<ref name="cradle-06-underlord-c9" />}}</li>
+<li>{{spoiler|book=cradle-06-underlord|Prince Seishen Kiro{{!}}Kiro drew on his reserve of [[soulfire]].<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|soulfire{{!}}Soulfire is a type of energy [[Yerin]] can weave.<ref name="cradle-06-underlord-c10" />}}</li>
+<li>{{spoiler|book=cradle-06-underlord|soulfire{{!}}Soulfire is absorbed by emerald [[madra]] leaves.<ref name="cradle-06-underlord-c11">''Underlord'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|soulfire{{!}}Soulfire is present in [[Lindon]]'s [[spirit]].<ref name="cradle-06-underlord-c15">''Underlord'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|soulfire{{!}}Soulfire rebuilds a person's lifeline during [[advancement]].<ref name="cradle-06-underlord-c15" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Lindon]]'s [[soulfire]] forms a bridge between his [[spirit]] and the [[aura]].<ref name="cradle-06-underlord-c18">''Underlord'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[soulfire{{!}}Soulfire]] rushed from the [[The Book of Eternal Night{{!}}Book of Eternal Night]] into [[Mercy]]'s [[spirit]].<ref name="cradle-06-underlord-c20">''Underlord'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[soulfire{{!}}Soulfire]] can be injected into the [[Titan’s Blade]] [[technique]].<ref name="cradle-06-underlord-c20" />}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[Prince Seishen Kiro{{!}}Kiro]] released a [[Striker technique]] from his left hand by pouring [[soulfire]] into it.<ref name="cradle-06-underlord-c20" />}}</li>
+<li>{{spoiler|book=cradle-06-underlord|soulfire{{!}}Soulfire rushed from the The Book of Eternal Night{{!}}Book of Eternal Night into [[Mercy]]'s [[spirit]].<ref name="cradle-06-underlord-c20">''Underlord'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|soulfire{{!}}Soulfire can be injected into the [[Titan’s Blade]] [[technique]].<ref name="cradle-06-underlord-c20" />}}</li>
+<li>{{spoiler|book=cradle-06-underlord|Prince Seishen Kiro{{!}}Kiro released a [[Striker technique]] from his left hand by pouring [[soulfire]] into it.<ref name="cradle-06-underlord-c20" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Lindon]] uses [[soulfire]] to retreat the pressure of [[sword aura]].<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}</li>
 </ul></div>
 
 == Uncrowned ==
+{{spoiler|book=cradle-07-uncrowned|Soulfire serves as a specialized type of energy and enhancement used by various practitioners. [[Lindon]] utilizes this power by combining [[gray soulfire]] with [[pure madra]], eventually pouring the energy directly into his right hand. Other combatants employ it in diverse ways, such as [[Akura Grace]] infusing her [[sword]], the [[Underlady]] integrating it into her techniques, and Sopharanatoth{{!}}Sophara using it to assist her [[Enforcer]] abilities. The energy also flows through Naia's [[Forged claws]], resonates within a [[dragon]], and reinforces [[Eithan]]'s [[pure madra]]. During intense combat, Akura Pride{{!}}Pride incorporates soulfire into his strikes, while the [[Sword Sage]] utilizes a concentrated mixture of [[aura]], [[madra]], and soulfire for his techniques.}}
+
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] uses [[gray soulfire]] in conjunction with [[pure madra]].<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}</li>
@@ -63,89 +69,97 @@
 <li>{{spoiler|book=cradle-07-uncrowned|The [[dragon]] resonates with its [[soulfire]].<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Underlady]] used [[soulfire]] in her [[technique]].<ref name="cradle-07-uncrowned-c11">''Uncrowned'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Eithan]]'s [[pure madra]] was reinforced with [[soulfire]].<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[Akura Pride{{!}}Pride]] pours [[madra]] and [[soulfire]] into a blow.<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[soulfire{{!}}Soulfire]] is a type of energy [[Lindon]] can use.<ref name="cradle-07-uncrowned-c14" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[Sopharanatoth{{!}}Sophara]] uses [[soulfire]] to assist her [[Enforcer technique]].<ref name="cradle-07-uncrowned-c14" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[soulfire{{!}}Soulfire]] is a type of enhancement.<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[soulfire{{!}}Soulfire]] rushes through Naia's [[Forged claws]].<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|Akura Pride{{!}}Pride pours [[madra]] and [[soulfire]] into a blow.<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|soulfire{{!}}Soulfire is a type of energy [[Lindon]] can use.<ref name="cradle-07-uncrowned-c14" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|Sopharanatoth{{!}}Sophara uses [[soulfire]] to assist her [[Enforcer technique]].<ref name="cradle-07-uncrowned-c14" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|soulfire{{!}}Soulfire is a type of enhancement.<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|soulfire{{!}}Soulfire rushes through Naia's [[Forged claws]].<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Sword Sage]]'s [[technique]] involves concentrated [[aura]], [[madra]], and [[soulfire]].<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] pours [[soulfire]] into his right hand.<ref name="cradle-07-uncrowned-c20">''Uncrowned'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Wintersteel ==
+{{spoiler|book=cradle-08-wintersteel|Soulfire serves as a potent energy source that can be infused into techniques to increase their [[scale]] and brightness. While Underlord{{!}}Underlords advance by condensing this energy, individuals like Ziel of the Wasteland{{!}}Ziel have already completed their soulfire revelations. During various conflicts, the substance has been utilized to hurl objects, repel dream auras, and empower specific combat styles like the [[Flowing Sword]]. It can also be used to create connections between a user and surrounding artifacts, or resonate with ambient [[aura]]. Furthermore, soulfire has played a role in physical transformations, such as the thrice reborn body of Timaias Adama{{!}}Adama, and can even stream into a [[spirit]] during moments of power drainage.}}
+
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|[[Timaias Adama{{!}}Adama]]'s body has been thrice reborn in [[soulfire]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[soulfire{{!}}Soulfire]] can be infused into techniques to make them larger and brighter.<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Luminous Queen Sha Miara{{!}}Sha Miara]] uses [[soulfire]]-controlled [[aura]] to hurl a piano.<ref name="cradle-08-wintersteel-c4" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth{{!}}Sophara]] taps into her [[soulfire]] to begin [[advancement]].<ref name="cradle-08-wintersteel-c4" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Underlord{{!}}Underlords]] advance by condensing their [[soulfire]].<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Timaias Adama{{!}}Adama's body has been thrice reborn in [[soulfire]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|soulfire{{!}}Soulfire can be infused into techniques to make them larger and brighter.<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Luminous Queen Sha Miara{{!}}Sha Miara uses [[soulfire]]-controlled [[aura]] to hurl a piano.<ref name="cradle-08-wintersteel-c4" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Sopharanatoth{{!}}Sophara taps into her [[soulfire]] to begin [[advancement]].<ref name="cradle-08-wintersteel-c4" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Underlord{{!}}Underlords advance by condensing their [[soulfire]].<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Eithan]]'s [[soulfire]] resonates with surrounding [[aura]].<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[soulfire{{!}}Soulfire]] streamed into [[Lindon]]'s [[spirit]] during the power drain.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Ziel of the Wasteland{{!}}Ziel]] has already passed his [[soulfire]] revelations.<ref name="cradle-08-wintersteel-c15">''Wintersteel'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth{{!}}Sophara]] used [[soulfire]] to push away a [[dream aura]].<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|soulfire{{!}}Soulfire streamed into [[Lindon]]'s [[spirit]] during the power drain.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Ziel of the Wasteland{{!}}Ziel has already passed his [[soulfire]] revelations.<ref name="cradle-08-wintersteel-c15">''Wintersteel'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Sopharanatoth{{!}}Sophara used [[soulfire]] to push away a [[dream aura]].<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yerin]] creates a bridge between her [[soulfire]] and the artifacts around her.<ref name="cradle-08-wintersteel-c24">''Wintersteel'', chapter 24</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth{{!}}Sophara]] has control over [[soulfire]].<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[soulfire{{!}}Soulfire]] empowers [[Yerin]]'s [[Flowing Sword]].<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Sopharanatoth{{!}}Sophara has control over [[soulfire]].<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|soulfire{{!}}Soulfire empowers [[Yerin]]'s [[Flowing Sword]].<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
 </ul></div>
 
 == Bloodline ==
+{{spoiler|book=cradle-09-bloodline|Soulfire serves as the transitional staircase connecting the [[madra]] system to the next level of power. During his battles, [[Eithan]] utilizes this energy to fortify his [[Archlord]] body, though he eventually exhausts his supply to facilitate his own healing. [[Yerin]] incorporates the substance into her swords alongside [[madra]], while [[Orthos]] experiences physical expansion as the energy burns within him. Ultimately, soulfire merges into the [[Fox Dream]] [[technique]] and acts as the essential component required to reverse [[Orthos]]'s size.}}
+
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|[[soulfire{{!}}Soulfire]] is described as the staircase between the [[madra]] system and the next level up.<ref name="cradle-09-bloodline-c5">''Bloodline'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|soulfire{{!}}Soulfire is described as the staircase between the [[madra]] system and the next level up.<ref name="cradle-09-bloodline-c5">''Bloodline'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Eithan]] used [[soulfire]] to strengthen his [[Archlord]] body.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Yerin]] is filling her swords with [[madra]] and [[soulfire]].<ref name="cradle-09-bloodline-c19" />}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|[[soulfire{{!}}Soulfire]] expands [[Orthos]]'s body as it burns.<ref name="cradle-09-bloodline-c20">''Bloodline'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|[[soulfire{{!}}Soulfire]] merges into the [[Fox Dream]] [[technique]].<ref name="cradle-09-bloodline-c20" />}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|[[soulfire{{!}}Soulfire]] is a substance or energy needed to reverse [[Orthos]]'s size.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|soulfire{{!}}Soulfire expands [[Orthos]]'s body as it burns.<ref name="cradle-09-bloodline-c20">''Bloodline'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|soulfire{{!}}Soulfire merges into the [[Fox Dream]] [[technique]].<ref name="cradle-09-bloodline-c20" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|soulfire{{!}}Soulfire is a substance or energy needed to reverse [[Orthos]]'s size.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Eithan]] used up his [[soulfire]] to heal himself.<ref name="cradle-09-bloodline-c21" />}}</li>
 </ul></div>
 
 == Reaper ==
+{{spoiler|book=cradle-10-reaper|Soulfire serves as a fundamental force required for [[Orthos]] to change in size, though its methods remain unknown to Truegold{{!}}Truegolds. Various individuals utilize this power, such as [[Yerin]] reinforcing her grass [[darts]] and [[Lindon]] manipulating air or infusing an [[Empty Palm]] [[technique]] with it. While [[Jai Long]] possesses soulfire running through his veins to burst techniques, others like [[Mercy]] use it to control the air, [[Eithan]] pours it into his defenses, and Ziel of the Wasteland{{!}}Ziel burns through it to fuel abilities. [[Lindon]] also employs the power to fuse a loop of [[dream madra]] to [[Dross]]' [[spirit]], leading him to desire even more of the substance.}}
+
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|[[soulfire{{!}}Soulfire]] is required for [[Orthos]] to grow and shrink.<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|soulfire{{!}}Soulfire is required for [[Orthos]] to grow and shrink.<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Yerin]] reinforces her grass [[darts]] with [[soulfire]].<ref name="cradle-10-reaper-c5">''Reaper'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] uses [[soulfire]] to manipulate air.<ref name="cradle-10-reaper-c5" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|The ways of [[soulfire]] are unknown to [[Truegold{{!}}Truegolds]].<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The ways of [[soulfire]] are unknown to Truegold{{!}}Truegolds.<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Jai Long]] can use [[soulfire]] to burst techniques.<ref name="cradle-10-reaper-c6" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] fused a loop of [[dream madra]] to [[Dross]]' [[spirit]] using [[soulfire]].<ref name="cradle-10-reaper-c9">''Reaper'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Yerin]] uses [[soulfire]].<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[soulfire{{!}}Soulfire]] bathes [[Lindon]]'s [[technique]].<ref name="cradle-10-reaper-c14" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|soulfire{{!}}Soulfire bathes [[Lindon]]'s [[technique]].<ref name="cradle-10-reaper-c14" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Eithan]] poured [[soulfire]] into his defenses.<ref name="cradle-10-reaper-c17">''Reaper'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Mercy]] can control the air with her [[soulfire]].<ref name="cradle-10-reaper-c18">''Reaper'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[soulfire{{!}}Soulfire]] is a power [[Lindon]] considers using.<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Ziel of the Wasteland{{!}}Ziel]] burns through [[soulfire]] to power his abilities.<ref name="cradle-10-reaper-c20">''Reaper'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|soulfire{{!}}Soulfire is a power [[Lindon]] considers using.<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Ziel of the Wasteland{{!}}Ziel burns through [[soulfire]] to power his abilities.<ref name="cradle-10-reaper-c20">''Reaper'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] used a [[soulfire]]-infused [[Empty Palm]].<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] wants more [[soulfire]].<ref name="cradle-10-reaper-c23" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[soulfire{{!}}Soulfire]] is a power running through [[Jai Long]]'s veins.<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|soulfire{{!}}Soulfire is a power running through [[Jai Long]]'s veins.<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Yerin]] uses [[soulfire{{!}}Soulfire]].<ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[soulfire{{!}}Soulfire]] is needed to help [[Orthos]] reach [[Archlord]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Yerin]] uses soulfire{{!}}Soulfire.<ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|soulfire{{!}}Soulfire is needed to help [[Orthos]] reach [[Archlord]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
 </ul></div>
 
 == Waybound ==
+{{spoiler|book=cradle-12-waybound|Described as a silver rush of energy, soulfire serves as a potent force throughout recent events. During [[madra]] [[cycling]], [[Mercy]] manages to store sparks of this energy, while [[Little Blue]] demonstrates the capacity to endure additional doses from [[Lindon]]. Although [[Lindon]]'s own supply once dipped dangerously low, he eventually utilized the substance to power his [[Blackflame]] blast. The energy also manifested within [[Orthos]]'s [[spirit]] as archlord [[natural treasures]] were converted into soulfire, and Reigan Shen{{!}}Reigan consumed the essence to undergo a transformation into his original form.}}
+
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Little Blue]] can handle another dose of [[Lindon]]'s [[soulfire]].<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Mercy]] stores sparks of [[soulfire]] while [[cycling]] [[madra]].<ref name="cradle-12-waybound-c7">''Waybound'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]]'s [[soulfire]] dipped low.<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Archlord natural treasures]] turned into [[soulfire]] in [[Orthos]]'s [[spirit]].<ref name="cradle-12-waybound-c17">''Waybound'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[soulfire{{!}}Soulfire]] is a silver rush of energy.<ref name="cradle-12-waybound-c19">''Waybound'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|soulfire{{!}}Soulfire is a silver rush of energy.<ref name="cradle-12-waybound-c19">''Waybound'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] uses [[soulfire]] in his [[Blackflame]] blast.<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Reigan Shen{{!}}Reigan]] burned [[soulfire]] to transform into his original form.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Reigan Shen{{!}}Reigan burned [[soulfire]] to transform into his original form.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
 </ul></div>
 
 == Threshold: Stories from Cradle ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|[[soulfire{{!}}Soulfire]] gave birth to [[Reigan Shen{{!}}Reigan]]'s [[Lord]] body.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|soulfire{{!}}Soulfire gave birth to Reigan Shen{{!}}Reigan's [[Lord]] body.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Reigan Shen]] ignites his [[soulfire]] to begin a transformation.<ref name="cradle-13-threshold-c1" />}}</li>
-<li>{{spoiler|book=cradle-13-threshold|[[Riyusai Meira{{!}}Meira]] spins [[soulfire]] during her training.<ref name="cradle-13-threshold-c9">''Threshold: Stories from Cradle'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|Riyusai Meira{{!}}Meira spins [[soulfire]] during her training.<ref name="cradle-13-threshold-c9">''Threshold: Stories from Cradle'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Notes ==

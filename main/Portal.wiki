@@ -1,0 +1,34 @@
+{{Infobox concept
+| name = portal
+| introduced = [[Ghostwater (novel)|Ghostwater]]
+}}
+
+== Underlord ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-06-underlord|A massive [[pillar of shadow]] served as a [[portal]].<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}</li>
+</ul></div>
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|A [[portal]] can slice open in slow motion.<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|A [[portal]] is being prepared to open by burning [[natural treasures]].<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Concepts]]
+[[Category:Underlord]]
+[[Category:Wintersteel]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle concepts]]

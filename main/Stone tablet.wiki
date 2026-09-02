@@ -1,4 +1,26 @@
-#REDIRECT [[stone tablet]]
+{{Expand}}
+
+{{Infobox artifact
+| name = stone tablet
+| introduced = [[The Engineer (novel)|The Engineer]]
+}}
+
+== The Engineer ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|Stone tablets in the [[ritual room]] indicate each crew member's position.<ref name="lh-02-the-engineer-c18">''The Engineer'', chapter 18</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|A [[stone tablet]] in [[The Last Horizon]] depicts the [[Commander]].<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
 
 [[Category:Artifacts]]
 [[Category:The Engineer]]

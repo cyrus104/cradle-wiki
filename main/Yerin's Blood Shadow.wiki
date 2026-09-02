@@ -1,6 +1,6 @@
 {{Infobox technique
 | name = Yerin's Blood Shadow
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 == Skysworn ==
@@ -12,9 +12,9 @@
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[Yerin's Blood Shadow]] is a crimson shade in her general shape that extends from her spirit.<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Yerin's Blood Shadow]] is a crimson shade in her general shape that extends from her [[spirit]].<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Yerin's Blood Shadow]] uses a [[Goldsign]].<ref name="cradle-06-underlord-c11">''Underlord'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[Yerin's Blood Shadow]] has Goldsigns and can laugh.<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Yerin's Blood Shadow]] has Goldsign{{!}}Goldsigns and can laugh.<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}</li>
 </ul></div>
 
 == Notes ==

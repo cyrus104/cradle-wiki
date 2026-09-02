@@ -2,14 +2,14 @@
 
 {{Infobox starship
 | name = Sunsails
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|There are three galleon-style [[Sunsails]].<ref name="lh-01-the-captain-c27">''The Captain'', chapter 27</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The Sunsail is a starship drifting without power.<ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The Sunsails{{!}}Sunsail is a starship drifting without power.<ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref>}}</li>
 </ul></div>
 
 == Notes ==

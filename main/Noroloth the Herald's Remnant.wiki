@@ -10,7 +10,7 @@
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Noroloth the Herald's Remnant]] looks like an exaggerated copy of a black [[dragon]].<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Noroloth the Herald's Remnant]] looks like an exaggerated copy of a Black dragons{{!}}black dragon.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -22,4 +22,3 @@
 [[Category:Dreadgod]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Remnants]]

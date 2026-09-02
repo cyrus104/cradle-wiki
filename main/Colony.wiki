@@ -1,10 +1,10 @@
 {{Infobox location
 | name = Colony
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|Colonies are diverse settlements found throughout the galaxy, varying significantly based on their political affiliation. [[Galactic Union]] colonies often consist of metallic rings in space or specialized structures like [[Ironville]], a scrapper colony focused on recycling junk. In contrast, [[Free Worlds]] colonies exhibit more individuality; some appear as mountains filled with machinery and tunnels, while others are modular rectangular outposts or laboratory-like facilities on unsettled moons. Some colonies exist as massive megacities, and others are subject to seizure or invasion by the [[Legion]]. A unique entity known as the [[Zenith Colony]], associated with [[Shadow Ark]], functions as a refuge for inhabitants. This specific colony possesses extraordinary properties: it can be larger than a moon, can unfold like paper to expand its size, and contains an internal space capable of holding entire star systems under a violet sky. It is also described as being difficult to locate.}}
+{{spoiler|book=lh-04-the-pilot|Colonies are diverse settlements found throughout the galaxy, varying significantly based on their political affiliation. [[Galactic Union]] colonies often consist of metallic rings in space or floating Iron{{!}}iron hives, such as the recycling-focused [[Ironville]]. In contrast, [[Free Worlds]] colonies exhibit more individuality; some appear as mountains filled with machinery and tunnels, while others are modular, rectangular outposts resembling cramped laboratories. Some colonies are massive megacities or even planets with extensive connections. A unique and highly specialized entity known as the [[Zenith Colony]] exists, which is associated with [[Shadow Ark]]. This colony functions as a sanctuary for its residents and possesses the ability to expand from a small size to something larger than a moon. It contains an internal space capable of housing entire star systems under a violet sky and is characterized by its ability to remain hidden. Other colonies may be subject to orbital defenses, invasions by the [[Legion]], or structural instability that threatens the lives of those within.}}
 
 == The Engineer ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
@@ -31,4 +31,3 @@
 [[Category:The Pilot]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon locations]]
-[[Category:Settlements]]

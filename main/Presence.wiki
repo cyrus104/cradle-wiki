@@ -8,82 +8,90 @@
 ''See also: [[Presence Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|In this context, a Presence is a specialized mental [[construct]] or tool used by certain individuals, such as [[Judges]], to assist with information processing and situational awareness. Functioning as an internal companion that resides within the mind, it communicates through a combination of spoken words, thoughts, and sensory impressions. These constructs are capable of performing complex tasks including scanning the future, retrieving vast amounts of data, analyzing past events, and providing mathematical probabilities for uncertain scenarios. They also serve as early warning systems by detecting spatial violations or incoming threats. While a Presence can manifest visually—often appearing as a spectral figure, such as a gray ghost or an eye—on the user's shoulder to facilitate social interaction and alleviate isolation, its primary role is functional. It acts as an advanced repository of knowledge that can remember more than a biological mind, though it is intended to be a tool for decision-making rather than a replacement for personal understanding. The personality and expressiveness of a Presence can be adjusted by its user, though they are often characterized as professional or impersonal.}}
+{{spoiler|book=cradle-13-threshold|A Presence is a specialized mental [[construct]] or tool used by certain individuals, such as [[Judges]], to assist with information processing and environmental awareness. Functioning as an internal companion that lives within the mind, it communicates through a combination of spoken words, thoughts, and direct sensory impressions. These [[constructs]] are capable of retrieving vast amounts of data, performing complex predictions, analyzing historical artifacts, and monitoring spatial stability or imminent violations. They can also provide warnings regarding incoming threats or changes in population and surroundings. While a Presence serves as an advanced repository for facts and data, it is considered a tool rather than a replacement for personal judgment and education. Users are expected to make their own decisions based on the information provided by their Presence. The appearance and personality of a Presence can vary; for example, some users choose to manifest their Presence as a humanoid figure to alleviate the psychological strain of isolation. In certain high-level contexts, Presences can also interact with one another or provide collective warnings.}}
 
-== Unsouled ==
+== Appearance ==
+{{spoiler|book=cradle-13-threshold|[[Suriel's Presence]] is a gray figure composed of smoke that rests upon her shoulder. In contrast, other manifestations include [[Pariana]]'s Presence, which appears as a squirming mass of silver, and [[Cirian]]'s Presence, which is a cube of blue light.}}
+
+== Personality ==
+{{spoiler|book=cradle-13-threshold|The Presence acts as an independent manifestation capable of speaking and communicating with its host. It acknowledges commands, reports information, signals intent, and can provide warnings regarding suspicious activity or deviations.}}
+
+== Abilities ==
+{{spoiler|book=cradle-13-threshold|This entity functions as a tool for reporting data, such as population counts and coordinates, and can detect barriers. It is capable of scouring the future for simple predictions, summoning images, projecting reports, and materializing a simple white uniform.}}
+
+== History ==
+=== {{spoiler|book=cradle-01-unsouled|Suriel's Presence}} ===
+{{spoiler|book=cradle-01-unsouled|The Presence is a ghostly entity situated on Judge Suriel{{!}}Suriel's shoulder that serves to assist her with her powers.<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref> Acting as a component of Judge Suriel{{!}}Suriel, the entity acknowledges her commands and reports information.<ref name="cradle-01-unsouled-c6" /> Additionally, the Presence can provide explanatory text within her vision.<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-01-unsouled|The [[Presence]] is a ghostly entity on [[Suriel]]'s shoulder that assists her with her powers.<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-01-unsouled|The [[Presence]] is a component of [[Suriel]] that reports information and acknowledges her commands.<ref name="cradle-01-unsouled-c6" />}}</li>
-<li>{{spoiler|book=cradle-01-unsouled|[[Suriel's Presence]] can provide explanatory text in her vision.<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[Presence]] is a ghostly entity on Judge Suriel{{!}}Suriel's shoulder that assists her with her powers.<ref name="cradle-01-unsouled-c6" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[Presence]] is a component of Judge Suriel{{!}}Suriel that reports information and acknowledges her commands.<ref name="cradle-01-unsouled-c6" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Suriel's Presence]] can provide explanatory text in her vision.<ref name="cradle-01-unsouled-c11" />}}</li>
 </ul></div>
 
-== Soulsmith ==
+{{spoiler|book=cradle-02-soulsmith|Judge Suriel{{!}}Suriel possesses a Presence that functions by providing information directly within her mind.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|[[Suriel]] has a [[Presence]] that provides information inside her mind.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|Judge Suriel{{!}}Suriel has a [[Presence]] that provides information inside her mind.<ref name="cradle-02-soulsmith-c5" />}}</li>
 </ul></div>
 
-== Blackflame ==
-{{spoiler|book=cradle-03-blackflame|[[Suriel's Presence]] manifests as a gray figure of smoke resting upon her shoulder to communicate with her. This entity is capable of reporting data, such as population counts and specific coordinates, while also providing warnings regarding suspicious activities. Beyond simple data reporting, the Presence can make basic predictions. [[Suriel]] also utilized this ability to request information regarding Wei Shi [[Lindon]] from [[Cradle]].}}
-
+{{spoiler|book=cradle-03-blackflame|[[Suriel's Presence]] manifests as a gray figure of smoke resting upon her shoulder that communicates with her.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref> This entity possesses the ability to indicate coordinates, report data, and provide warnings regarding suspicious occurrences.<ref name="cradle-03-blackflame-c13" /> In addition to reporting population counts and making simple predictions, the Presence was utilized by Judge Suriel{{!}}Suriel to request information about Lindon{{!}}Wei Shi Lindon from [[Cradle]].<ref name="cradle-03-blackflame-c13" /><ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|[[Suriel's Presence]] is a gray figure of smoke on her shoulder that communicates with her.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|[[Suriel]] possesses a [[Presence]] that can indicate coordinates and report data.<ref name="cradle-03-blackflame-c13" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Suriel's Presence]] is a gray figure of smoke on her shoulder that communicates with her.<ref name="cradle-03-blackflame-c13" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|Judge Suriel{{!}}Suriel possesses a [[Presence]] that can indicate coordinates and report data.<ref name="cradle-03-blackflame-c13" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Suriel's Presence]] can warn her of suspicious things.<ref name="cradle-03-blackflame-c13" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Suriel's Presence]] can report population counts.<ref name="cradle-03-blackflame-c13" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Presence]] is capable of simple predictions.<ref name="cradle-03-blackflame-c13" />}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|[[Suriel]] used her [[Presence]] to request information on Wei Shi [[Lindon]] from [[Cradle]].<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|Judge Suriel{{!}}Suriel used her [[Presence]] to request information on Lindon{{!}}Wei Shi Lindon from [[Cradle]].<ref name="cradle-03-blackflame-c21" />}}</li>
 </ul></div>
 
-== Underlord ==
+{{spoiler|book=cradle-06-underlord|[[Pariana]] possesses a Presence that manifests as a squirming mass of silver, which is susceptible to being seized by red power.<ref name="cradle-06-underlord-c1">''Underlord'', chapter 1</ref> In contrast, [[Suriel's Presence]] has the capability to detect barriers.<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[Pariana]] possesses a [[Presence]] that can be seized by red power.<ref name="cradle-06-underlord-c1">''Underlord'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Pariana]] possesses a [[Presence]] that can be seized by red power.<ref name="cradle-06-underlord-c1" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Pariana]]'s [[Presence]] is a squirming mass of silver.<ref name="cradle-06-underlord-c1" />}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[Suriel's Presence]] can detect barriers.<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Suriel's Presence]] can detect barriers.<ref name="cradle-06-underlord-c22" />}}</li>
 </ul></div>
 
-== Bloodline ==
+{{spoiler|book=cradle-09-bloodline|The Presence of the Judge Suriel{{!}}Suriel issued a warning regarding a detected deviation.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|[[Suriel's Presence]] warned of a detected deviation.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Suriel's Presence]] warned of a detected deviation.<ref name="cradle-09-bloodline-c19" />}}</li>
 </ul></div>
 
-== Reaper ==
+{{spoiler|book=cradle-10-reaper|[[Suriel's Presence]] manifests as a [[construct]] composed of gray smoke.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref> This entity possesses the ability to materialize a simple white uniform for herself.<ref name="cradle-10-reaper-c3" /> Additionally, she can summon various images and project reports.<ref name="cradle-10-reaper-c3" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|[[Suriel's Presence]] is a [[construct]] of gray smoke.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Suriel's Presence]] is a [[construct]] of gray smoke.<ref name="cradle-10-reaper-c3" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Suriel's Presence]] can materialize a simple white uniform for her.<ref name="cradle-10-reaper-c3" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Suriel's Presence]] can summon images and project reports.<ref name="cradle-10-reaper-c3" />}}</li>
 </ul></div>
 
-== Dreadgod ==
+{{spoiler|book=cradle-11-dreadgod|Presence serves as a sense utilized to determine the quantity of individuals or transports.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref> The manifestation known as [[Suriel's Presence]] possesses the ability to act and speak on its own.<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Presence]] is a sense used to detect the number of transports or individuals.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Suriel's Presence]] is a manifestation that can speak and act independently.<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Presence]] is a sense used to detect the number of transports or individuals.<ref name="cradle-11-dreadgod-c6" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Suriel's Presence]] is a manifestation that can speak and act independently.<ref name="cradle-11-dreadgod-c24" />}}</li>
 </ul></div>
 
-== Waybound ==
+{{spoiler|book=cradle-12-waybound|Judge Suriel{{!}}Suriel possesses a Presence with the ability to scour the future.<ref name="cradle-12-waybound-c1">''Waybound'', chapter 1</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Suriel]] possesses a [[Presence]] that can scour the future.<ref name="cradle-12-waybound-c1">''Waybound'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Judge Suriel{{!}}Suriel possesses a [[Presence]] that can scour the future.<ref name="cradle-12-waybound-c1" />}}</li>
 </ul></div>
 
-== Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|A Presence is a type of power or entity utilized during [[Abidan]] testing that functions as a tool capable of remembering more information than a person. These entities can communicate and signal their intent, with [[Cirian]]'s specific Presence manifesting as a cube of blue light. While some Presences can take the form of a creature, such as those belonging to a [[Reaper]], they also serve as guiding forces for trainers. In one instance, the Presence was used to deliver a warning from [[Sector Eleven Control]].}}
-
+=== {{spoiler|book=cradle-13-threshold|Abidan testing}} ===
+{{spoiler|book=cradle-13-threshold|A Presence is a specific type of power or entity utilized during [[Abidan]] testing.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref> These entities are capable of signaling intent and communicating, such as when the Presence delivered a warning from [[Sector Eleven Control]].<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref><ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref> While [[Cirian]]'s Presence appears as a cube of blue light, a [[Reaper]]'s Presence is able to manifest in the form of a creature.<ref name="cradle-13-threshold-c7" /> Used by trainers as a guiding force, the Presence also serves as a tool with a memory greater than that of a person.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|A [[Presence]] is a type of entity or power used in [[Abidan]] testing.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=cradle-13-threshold|[[Cirian]]'s [[Presence]] is a cube of blue light.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|A [[Presence]] is a type of entity or power used in [[Abidan]] testing.<ref name="cradle-13-threshold-c4" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Cirian]]'s [[Presence]] is a cube of blue light.<ref name="cradle-13-threshold-c7" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Presences can communicate and signal intent.<ref name="cradle-13-threshold-c7" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|A [[Reaper]]'s [[Presence]] can manifest as a creature.<ref name="cradle-13-threshold-c7" />}}</li>
-<li>{{spoiler|book=cradle-13-threshold|[[Presence]] is a guiding force used by trainers.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Presence]] is a guiding force used by trainers.<ref name="cradle-13-threshold-c10" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|A [[Presence]] is a tool that can remember more than a person.<ref name="cradle-13-threshold-c10" />}}</li>
-<li>{{spoiler|book=cradle-13-threshold|The [[Presence]] delivered the warning from [[Sector Eleven Control]].<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Presence]] delivered the warning from [[Sector Eleven Control]].<ref name="cradle-13-threshold-c13" />}}</li>
 </ul></div>
 
 == Notes ==

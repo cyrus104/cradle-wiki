@@ -7,18 +7,21 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|The Wei [[Grand Elder]] is the leader of the [[Wei clan]] and has been governing the Valley during the absence of [[Li Markuth]]. He is a figure of significant reputation, as other clan elders frequently discuss him. Physically, he possesses distinctive white circles in his eyes and carries a right arm that is heavily bound in specialized bandages. These bandages are not for medical purposes but serve to suppress and hide his immense power, which some believe may be linked to a [[Divine Treasure]]. Although he appeared to lack detectable [[madra]] initially, his energy is actually present but heavily muffled. During a confrontation with [[Li Markuth]], the [[Grand Elder]] appeared visibly shaken but ultimately commanded that the [[arena]] be emptied.}}
+{{spoiler|book=cradle-12-waybound|The Wei [[Grand Elder]] is the leader of the [[Wei clan]] and has been governing [[the Valley]] during the absence of [[Li Markuth]]. He is a figure of significant reputation, though his presence is often discussed by visiting elders. Physically, he possesses striking white circles in his eyes and carries a right arm encased in specialized bandages designed to suppress and conceal his strength, possibly due to the presence of a [[Divine Treasure]]. While he initially appeared to lack detectable [[madra]], his power is actually present but heavily muffled. During a formal challenge issued by [[Li Markuth]], the Wei [[Grand Elder]] appeared visibly unsettled but ultimately responded by ordering the evacuation of the arena.}}
+
+== Appearance ==
+{{spoiler|book=cradle-12-waybound|Lindon{{!}}Wei Shi Lindon possesses black eyes featuring white irises that appear to glow. Their right arm is covered in bandages inscribed with [[scripts]] used to [[veil]] and restrain their power.}}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|Wei Shi [[Lindon]] is a [[Sage]] characterized by black eyes with glowing white irises. His right arm is perpetually bound in scripted bandages that serve to [[veil]] and restrain his power. During the events at the [[arena]], he issued a call for the immediate evacuation of the area.}}
+{{spoiler|book=cradle-12-waybound|Lindon{{!}}Wei Shi Lindon is a [[Sage]] characterized by black eyes containing glowing white irises. His right arm is perpetually bound in scripted bandages that serve to [[veil]] and restrain his power. During the events at the arena, he took command by calling for a full evacuation of the area.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Wei Grand Elder]] is a [[Sage]].<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Wei Grand Elder]]'s right arm is wrapped in scripted bandages that restrain and [[veil]] power.<ref name="cradle-12-waybound-c35" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Wei Grand Elder]] has black eyes with white irises that seem to glow.<ref name="cradle-12-waybound-c35" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Wei Grand Elder]]'s name is Wei Shi [[Lindon]].<ref name="cradle-12-waybound-c35" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Wei Grand Elder]] called for the evacuation of the [[arena]].<ref name="cradle-12-waybound-c35" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Wei Grand Elder]]'s name is Lindon{{!}}Wei Shi Lindon.<ref name="cradle-12-waybound-c35" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Wei Grand Elder]] called for the evacuation of the arena.<ref name="cradle-12-waybound-c35" />}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -33,5 +36,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Titled characters]]
-[[Category:Great Elders]]

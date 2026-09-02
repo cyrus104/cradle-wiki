@@ -2,13 +2,13 @@
 
 {{Infobox concept
 | name = World Tree
-| introduced = Waybound
+| introduced = [[Waybound (novel)|Waybound]]
 }}
 
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|The [[World Tree]] is a tree made of blue-and-white crystal with [[diamond]] leaves that cleans the earth and sky.<ref name="cradle-12-waybound-c34">''Waybound'', chapter 34</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[World Tree]] is a tree made of blue-and-white crystal with diamond leaves that cleans the earth and sky.<ref name="cradle-12-waybound-c34">''Waybound'', chapter 34</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[World Tree]] drops fruit that can feed cities.<ref name="cradle-12-waybound-c34" />}}</li>
 </ul></div>
 
@@ -21,4 +21,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Lifeforms]]

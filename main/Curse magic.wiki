@@ -1,0 +1,27 @@
+{{Infobox madra
+| name = curse magic
+| introduced = [[The Knight (novel)|The Knight]]
+}}
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|Curse magic is highly compatible with other spells.<ref name="lh-03-the-knight-c24">''The Knight'', chapter 24</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|The Captain has used [[curse magic]] as a bodyguard.<ref name="lh-04-the-pilot-c35">''The Pilot'', chapter 35</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Curse magic flowed out from another lost life and ruined everything.<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Madra]]
+[[Category:The Knight]]
+[[Category:The Pilot]]
+[[Category:The Last Horizon]]

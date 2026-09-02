@@ -1,10 +1,10 @@
 {{Infobox technique
 | name = Ruler techniques
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|[[Ruler]] techniques are a specialized ability used by [[sacred artists]] to manipulate compatible [[aura]] within their environment. Unlike other abilities, these techniques allow a user to command the fundamental principles of the world, effectively granting them authority over their surroundings. While anyone can potentially learn them regardless of birth, mastering these techniques requires significant concentration and time to build, making them slower to deploy than standard [[Striker techniques]]. These abilities can manifest in various forms, such as creating illusions that directly affect the eyes and mind, manipulating physical elements like fire or stone, or even affecting an opponent's internal biology by seizing their blood or heart. Some techniques are designed to conquer or dominate, while others can create complex effects like spatial manipulation, the summoning of objects, or the generation of hazardous gases that cause paralysis and seizures. The potency of a [[Ruler technique]] often increases the longer it is maintained, and they can be integrated with other disciplines like [[Forger]] or [[Enforcer techniques]] to create multifaceted effects. Ultimately, these techniques represent a level of power that allows a practitioner to command the world around them.}}
+{{spoiler|book=cradle-13-threshold|[[Ruler]] techniques are a form of ability that allows an individual to manipulate compatible [[aura]] within their environment. Unlike some other abilities, these techniques are not restricted by birth and can be learned by anyone. They function by commanding the fundamental principles of the world to obey the user, effectively allowing them to command the surroundings. These techniques can be used to create various effects, such as manipulating fire, crafting illusions that affect the mind and eyes, or even controlling [[blood]] to cause physical distress like seizures. In practice, [[Ruler]] techniques are often categorized alongside other methods such as [[Striker]], [[Forger]], and [[Enforcer techniques]]. While they are capable of immense power—including the ability to create massive [[constructs]] like [[stone]] cages or jagged blades from the air—they require significant time and concentration to build. Because of this, they are often slower to deploy than simpler techniques. The effectiveness and speed of a [[Ruler technique]] can be influenced by the availability of [[vital aura]], and their power often increases the longer they are maintained. Some advanced users can combine these abilities with other arts to achieve devastating results, such as manipulating spatial dimensions or commanding the very elements of nature.}}
 
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -23,13 +23,13 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yan Shoumei]] used [[Ruler techniques]] in her match.<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Abyssal Palace towers]] are raised with [[Ruler techniques]].<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Abyssal Palace]] towers are raised with [[Ruler techniques]].<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
 </ul></div>
 
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|[[Ziel]] suggests [[Ruler techniques]] are best for the target.<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Ziel of the Wasteland{{!}}Ziel suggests [[Ruler techniques]] are best for the target.<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
 </ul></div>
 
 == Threshold: Stories from Cradle ==

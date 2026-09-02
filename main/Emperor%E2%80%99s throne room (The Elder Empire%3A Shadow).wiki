@@ -2,13 +2,13 @@
 
 {{Infobox location
 | name = Emperor’s throne room (The Elder Empire: Shadow)
-| introduced = Of Killers and Kings
+| introduced = [[Of Killers and Kings (novel)|Of Killers and Kings]]
 }}
 
 == Of Killers and Kings ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Emperor's throne]] room is where [[Jorin]] and the [[Guild Heads]] are.<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Emperor's throne]] room is where Jorin Curse-breaker{{!}}Jorin and the [[Guild Heads]] are.<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -20,4 +20,3 @@
 [[Category:Of Killers and Kings]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire locations]]
-[[Category:Structures]]

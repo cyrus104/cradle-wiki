@@ -2,13 +2,13 @@
 
 {{Infobox concept
 | name = Blackflame energy
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|The dragon's skeleton is a wellspring of [[Blackflame energy]].<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[dragon's skeleton]] is a wellspring of [[Blackflame energy]].<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
 </ul></div>
 
 == Notes ==

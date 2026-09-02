@@ -1,10 +1,10 @@
 {{Infobox group
 | name = Elder cultists
-| introduced = Of Dawn and Darkness
+| introduced = [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]]
 }}
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Elder]] cultists are human followers who worship the [[Elders]], a group of powerful and alien entities. While many people doubt the actual existence of the [[Elders]], viewing them as mere myths or spirits, the presence of these cultists is widely recognized. Recruitment into these groups often involves exploiting the uneducated, spreading misinformation, using brainwashing, bribery, or targeting those who are emotionally vulnerable. However, a small number of individuals join because they hold a genuine belief that the [[Elders]] will provide salvation for humanity. These cults engage in various rituals, some of which involve extreme physical mutilation to prove their devotion to the [[Great Ones]], such as blinding themselves. Different groups have been identified, including the [[Thousand Eyes]] and several organizations that have recently unified under a single banner known as the [[Sleepless]]. The [[Sleepless]] include factions such as the [[Lamplighters]], the [[Sisters of the Fading Moon]], and the [[Eyes of Crossing]]. These cultists may work to deepen divisions between human [[Guilds]], potentially serving the interests of the [[Great Elders]]. Some cultists may even sacrifice their own lives to provide vitality to structures like the [[Elder wall]].}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Elder cultists are groups of human worshipers dedicated to the [[Great Elders]]. While many individuals are recruited through exploitation, such as brainwashing, misinformation, or targeting the uneducated and emotionally vulnerable, some join because they genuinely believe these entities will provide salvation. These followers engage in various rituals, which can include extreme physical mutilation like self-blinding to demonstrate their devotion. Some cultists may even [[sacrifice]] their own lives to provide vitality for the [[Elder wall]]. Various factions exist within this movement, including the [[Sleepless]]—a collective formed by groups like the [[Lamplighters]], the [[Sisters of the Fading Moon]], and the [[Eyes of Crossing]]—as well as the [[Thousand Eyes]]. These organizations may work to create division among human [[Guilds]], potentially serving the interests of the [[Great Elders]]. While some view these cultists as a confirmed reality, others may only see them as part of the broader mystery surrounding the [[Elders]]. The cults are often associated with ritualistic activities that can descend into chaos when interrupted.}}
 
 == Of Dawn and Darkness ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -22,7 +22,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Regents]] have looked into the [[Elder cultists]].<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] views [[Calder]] as a potential [[Elder]] cultist.<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] views [[Calder]] as a potential Elder cultists{{!}}Elder cultist.<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Elder cultists]] are known to be real.<ref name="ee-shadow-03-of-killers-and-kings-c14" />}}</li>
 </ul></div>
 

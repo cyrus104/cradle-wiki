@@ -1,4 +1,70 @@
-#REDIRECT [[life madra]]
+{{Infobox madra
+| name = life madra
+| introduced = [[Blackflame (novel)|Blackflame]]
+}}
+
+''See also: [[life madra Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-12-waybound|Life [[madra]] is one of the seven primary [[aspects of madra]], alongside fire, earth, [[wind]], [[water]], force, and [[blood]]. It is characterized by its liquid state; even in the form of [[Remnants]], it appears as gelatinous masses or oozes. This aspect is fundamentally linked to the concept of vitality, as it can be used to accelerate natural healing processes and smooth over injuries such as burns. In combat or specialized applications, life [[madra]] can manifest as physical [[constructs]] like lashing roots, vines, or even large trees and blooming branches. While it can be used as a perception [[technique]] to pinpoint targets, it is also capable of being used offensively, such as through lances or beams of energy. Practitioners may utilize sacred instruments to channel this power. Furthermore, life [[madra]] is a component in the creation of certain [[elixirs]] and can be processed by specialized engines to sustain combat capabilities.}}
+
+== Blackflame ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-03-blackflame|life madra{{!}}Life madra is naturally a liquid and life [[Remnants]] are [[giant]] blobs of ooze.<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}</li>
+</ul></div>
+
+== Skysworn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-04-skysworn|life madra{{!}}Life madra heals tissue and smooths it out.<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}</li>
+</ul></div>
+
+== Underlord ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-06-underlord|Riyusai Meira{{!}}Meira launches a lance of life madra{{!}}life-madra.<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|Riyusai Meira{{!}}Meira can erupt [[life madra]] to form a pillar that blooms into a tree.<ref name="cradle-06-underlord-c20">''Underlord'', chapter 20</ref>}}</li>
+</ul></div>
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|The [[green dragon]] releases a pulse of [[life madra]].<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|Powerful [[life madra]] was seen flying over [[Lindon]]'s head.<ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref>}}</li>
+</ul></div>
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|The guards of the [[Fallen Leaf School]] possess [[life madra]].<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|The healing [[construct]] used [[life madra]].<ref name="cradle-10-reaper-c16">''Reaper'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Chains of [[life madra]] shot out from a [[portal]].<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|life madra{{!}}Life madra can tear a lifeline in half.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-03-blackflame|“Life madra on its own is a liquid, and that’s the end of it. Even life Remnants are giant blobs of ooze.<ref name="cradle-03-blackflame-c6" />}}
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Madra]]
 [[Category:Blackflame]]

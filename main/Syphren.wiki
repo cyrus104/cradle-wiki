@@ -1,39 +1,37 @@
 {{Infobox artifact
 | name = Syphren
-| introduced = Of Shadow and Sea
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 ''See also: [[Syphren Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|Syphren, also known as the Whispering [[Death]], is a sentient blade characterized by its constant, homicidal whispers and intense hunger for [[life]]. The weapon possesses its own consciousness and communicates by projecting thoughts directly into the mind of its wielder, which the user interprets as an external voice. Syphren is a specialized tool designed to penetrate various defenses and turn an opponent's own power against them, making it capable of striking even highly powerful beings. The blade grows stronger by feeding on the vitality of those it harms or by consuming the power used to oppose it. While it provides its wielder with physical healing and strength, its presence is often described as a source of mental strain due to its relentless urges to devour others.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Syphren, also known as the Whispering [[Death]], is a sentient blade characterized by its constant, homicidal whispering. The weapon communicates with its wielder, [[Shera]], by projecting thoughts and urges directly into her mind rather than through external sound. Syphren possesses a profound [[hunger]], frequently urging [[Shera]] to consume the lives and vitality of others. This entity is capable of feeding on any power used against it, growing stronger as the opposition increases. Specifically designed to bypass and turn defenses back upon their targets, the knife is capable of piercing even highly protected individuals. Physically, the blade can manifest green, ghostly hands and emit an emerald light during its use.}}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Syphren, also known as [[The Whispering Death]], is an [[Awakened blade]] featuring a transparent green blade that resembles a slice of glass pressed by a thousand bright hands. This weapon possesses the ability to sink into metal and can feed on anything it encounters to ensure its own protection. During combat, the knife whispers commands to its wielder and has been known to shout hysterically or cackle at the opportunity to draw blood. Syphren is capable of stealing power from a [[Child of Nakothi]] and has successfully killed a [[Heart of Nakothi]]. Although the blade is sometimes kept wrapped in bandages, it remains unknown if the weapon is a [[Soulbound]].}}
+{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Syphren is an [[Awakened knife]] featuring a transparent green blade that resembles a slice of glass with a thousand bright hands pressing against it. This sentient weapon whispers commands to its wielder and possesses the ability to sink directly into metal. During a period of hysterical shouting, the blade cackled at the opportunity to draw [[blood]] as it flew toward its target. Syphren successfully killed a [[Heart of Nakothi]], utilizing its power to steal strength from a [[Child of Nakothi]]. Although the blade was eventually wrapped in bandages, it remains unknown if Syphren is a [[Soulbound]].}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]] is a knife that looks like a clear slice of glass with a thousand bright green hands pressing against it.<ref name="ee-shadow-01-of-shadow-and-sea-c21">''Of Shadow and Sea'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]] is a knife that whispers commands to its wielder.<ref name="ee-shadow-01-of-shadow-and-sea-c21" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]]'s blade can sink into metal.<ref name="ee-shadow-01-of-shadow-and-sea-c21" />}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]] is an [[Awakened blade]] that whispers to its user and desires the lives of others.<ref name="ee-shadow-01-of-shadow-and-sea-c21" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]] is an Awakened blade that whispers to its user and desires the lives of others.<ref name="ee-shadow-01-of-shadow-and-sea-c21" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]] was shouting hysterically.<ref name="ee-shadow-01-of-shadow-and-sea-c21" />}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]] cackled at the chance to draw blood as the blade flew.<ref name="ee-shadow-01-of-shadow-and-sea-c23">''Of Shadow and Sea'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]] is a knife named '[[The Whispering Death]]' that can feed on anything it does to protect itself.<ref name="ee-shadow-01-of-shadow-and-sea-c25">''Of Shadow and Sea'', chapter 25</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]] is a knife that killed a [[Heart of Nakothi]].<ref name="ee-shadow-01-of-shadow-and-sea-c25" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]] cackled at the chance to draw [[blood]] as the blade flew.<ref name="ee-shadow-01-of-shadow-and-sea-c23">''Of Shadow and Sea'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]] is a knife that killed a [[Heart of Nakothi]].<ref name="ee-shadow-01-of-shadow-and-sea-c25">''Of Shadow and Sea'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]] is a weapon with a green transparent blade that can steal power from a [[Child of Nakothi]].<ref name="ee-shadow-01-of-shadow-and-sea-c25" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Syphren]]'s blade was wrapped in bandages.<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|It is unknown if [[Syphren]] is a [[Soulbound]].<ref name="ee-shadow-01-of-shadow-and-sea-c26" />}}</li>
 </ul></div>
 
 == Of Darkness and Dawn ==
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Syphren is a [[Soulbound Vessel]] and an [[Awakened blade]] that resembles dark glass with ghostly green hands pressing against its surface. Kept in a sheath on [[Shera]]'s belt or secured within an invested chest on a ship, the mumbles and stirring of this weapon allow its consciousness to burn awareness into [[Shera]]'s thoughts. As a presence that can be wrapped in [[binding]] cloth, the entity possesses the power to heal [[Shera]] physically, influence her mind, or urge her back into the haze of combat. This weapon can also draw [[life]] away and features an [[Intent]] that washes over people, ultimately granting it the ability to pierce [[Intent]]. During its journey, the blade was nearly killed when it was impaled on a [[Blackwatch spike]].}}
+{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Syphren is a [[Soulbound Vessel]] and an Awakened blade that appears as a transparent glass weapon with glowing green hands pressed against its surface. While sealed within an invested chest on a ship, the entity remains a presence that can be wrapped in [[binding]] cloth and carried by [[Shera]] on her belt. As a weapon, Syphren possesses the ability to pierce [[Intent]], draw life away, and provide physical healing to its wielder. The entity exerts an influence over [[Shera]]'s mind, urging her toward the haze of combat and burning its awareness into her thoughts. During its time as a carried weapon, Syphren was nearly killed when it was impaled on a [[Blackwatch spike]].}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">23</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">22</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]] is [[Shera]]'s [[Awakened blade]] and a [[Soulbound Vessel]] that speaks to her.<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]] is an [[Awakened]] shear that looks like dark glass with glowing green hands pressing against its surface.<ref name="ee-shadow-02-of-darkness-and-dawn-c2" />}}</li>
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]] is a weapon that [[Shera]] keeps in a sheath and it mumbles.<ref name="ee-shadow-02-of-darkness-and-dawn-c2" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]] is Shera's bronze knife{{!}}Shera's Awakened blade and a [[Soulbound Vessel]] that speaks to her.<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]] is an Awakened [[shear]] that looks like dark glass with glowing green hands pressing against its surface.<ref name="ee-shadow-02-of-darkness-and-dawn-c2" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]] is currently sealed.<ref name="ee-shadow-02-of-darkness-and-dawn-c2" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]] is a [[Vessel]] that [[Shera]] can put her hand to.<ref name="ee-shadow-02-of-darkness-and-dawn-c4">''Of Darkness and Dawn'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Shera]] has a knife named [[Syphren]].<ref name="ee-shadow-02-of-darkness-and-dawn-c4" />}}</li>
@@ -42,7 +40,7 @@
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]]'s consciousness burns awareness into [[Shera]]'s thoughts.<ref name="ee-shadow-02-of-darkness-and-dawn-c8" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]] is a presence within [[Shera]] that can be wrapped in [[binding]] cloth.<ref name="ee-shadow-02-of-darkness-and-dawn-c8" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]] has an influence over [[Shera]].<ref name="ee-shadow-02-of-darkness-and-dawn-c8" />}}</li>
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]] is a weapon or entity that can draw [[life]] away.<ref name="ee-shadow-02-of-darkness-and-dawn-c10">''Of Darkness and Dawn'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]] is a weapon or entity that can draw life away.<ref name="ee-shadow-02-of-darkness-and-dawn-c10">''Of Darkness and Dawn'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]] is [[Shera]]'s [[Soulbound Vessel]].<ref name="ee-shadow-02-of-darkness-and-dawn-c11">''Of Darkness and Dawn'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]] has a glass blade.<ref name="ee-shadow-02-of-darkness-and-dawn-c11" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Syphren]] has the ability to pierce [[Intent]].<ref name="ee-shadow-02-of-darkness-and-dawn-c11" />}}</li>
@@ -57,14 +55,14 @@
 </ul></div>
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Alchemists]] once sought to make progress with Syphren, an entity that [[Shera]] had not yet freed despite having lost a piece of herself within it. This [[Vessel]], which was pierced by [[Bliss]]'s black iron spike, manifests as a blade resembling dead green bottle-glass held in [[Shera]]'s left hand. Designed to pierce defenses and turn a target's power against itself, the entity possesses a hungry voice that tears at reason and resides in [[Shera]]'s head with a desire to kill. As a being that hungers for delicious power, Syphren can drink energy from others and sense the presence of all living things. During a confrontation, [[Syphren's power]] ran through [[Shera]] to break down the [[Great Elder]]'s power, though it did not urge her to consume hazy green orbs.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Alchemists]] once sought to make progress with Syphren, an entity that [[Shera]] had not yet freed despite having lost a piece of herself within it. As a [[Vessel]] pierced by Bliss of the Blackwatch{{!}}Bliss's [[black iron spike]], Syphren manifests as a blade resembling dead green bottle-glass held in [[Shera]]'s left hand. This hungry voice resides in [[Shera]]'s head, seeking a meal and urging her to kill while possessing the ability to sense all presences. Designed to break through defenses and turn a target's power against itself, the entity can devour delicious energy from others. During a confrontation, [[Syphren's power]] ran through [[Shera]] to break down the [[Great Elder]]'s power, though it did not urge her to consume hazy green orbs.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">26</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Alchemists]] are attempting to make progress with [[Syphren]].<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] is a power or entity that [[Shera]] has not yet freed.<ref name="ee-shadow-03-of-killers-and-kings-c4">''Of Killers and Kings'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] lost a piece of herself in [[Syphren]].<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] is a [[Vessel]] that was pierced by [[Bliss]]' black iron spike.<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] is a [[Vessel]] that was pierced by Bliss of the Blackwatch{{!}}Bliss' [[black iron spike]].<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]]'s blade resembles dead green bottle-glass.<ref name="ee-shadow-03-of-killers-and-kings-c14" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] carries [[Syphren]] in her left hand.<ref name="ee-shadow-03-of-killers-and-kings-c14" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] had a sealed [[Syphren]].<ref name="ee-shadow-03-of-killers-and-kings-c16">''Of Killers and Kings'', chapter 16</ref>}}</li>
@@ -74,16 +72,16 @@
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] kept a hand on [[Syphren]].<ref name="ee-shadow-03-of-killers-and-kings-c18">''Of Killers and Kings'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] is a voice in [[Shera]]'s head that wants her to kill someone.<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] wanted a meal.<ref name="ee-shadow-03-of-killers-and-kings-c20" />}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] has a sense of [[life]] and power.<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] has a sense of life and power.<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] is a [[Vessel]] that wants to devour delicious power.<ref name="ee-shadow-03-of-killers-and-kings-c22" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] can unleash [[Syphren]]’s power to tear green light from a chest.<ref name="ee-shadow-03-of-killers-and-kings-c22" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] is a being that hungers for power and can drink energy from others.<ref name="ee-shadow-03-of-killers-and-kings-c23">''Of Killers and Kings'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] sensed no person behind the power.<ref name="ee-shadow-03-of-killers-and-kings-c23" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] was invested to turn power against itself.<ref name="ee-shadow-03-of-killers-and-kings-c23" />}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]]'s shear broke down the [[Great Elder]]'s power.<ref name="ee-shadow-03-of-killers-and-kings-c23" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]]'s [[shear]] broke down the [[Great Elder]]'s power.<ref name="ee-shadow-03-of-killers-and-kings-c23" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren's power]] ran through [[Shera]].<ref name="ee-shadow-03-of-killers-and-kings-c23" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] is present.<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] could kill [[Bareius]] by tearing out his [[life]] with [[Syphren]].<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] could kill Nathanael Bareius{{!}}Bareius by tearing out his life with [[Syphren]].<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] has the ability to sense everyone's presence.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] is invested to turn defenses against themselves.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Syphren]] did not give [[Shera]] an urge to consume the hazy green orbs.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>

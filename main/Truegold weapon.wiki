@@ -2,13 +2,13 @@
 
 {{Infobox artifact
 | name = Truegold weapon
-| introduced = Waybound
+| introduced = [[Waybound (novel)|Waybound]]
 }}
 
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|The scripted spear is a [[Truegold weapon]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[scripted spear]] is a [[Truegold weapon]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Notes ==

@@ -1,0 +1,24 @@
+{{Expand}}
+
+{{Infobox character
+| name = rabbit dreadbeast
+| species = Dreadbeast
+| appears_in = Cradle
+| introduced = [[Bloodline (novel)|Bloodline]]
+}}
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|A [[rabbit dreadbeast]] exists.<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Characters]]
+[[Category:Bloodline]]
+[[Category:Cradle]]
+[[Category:Cradle characters]]

@@ -6,7 +6,10 @@
 }}
 
 == Overview ==
-{{spoiler|book=lh-03-the-knight|[[Reavers]] are biological abominations created by the [[Iron Legion]]. These creatures retain much of their original organic form, appearing as men with metal armor fused directly into their flesh. They are physically enhanced beyond normal limits, making them dangerous combatants that often require multiple shots to defeat. Their physical composition varies, but common configurations include limbs transformed into weaponry; for example, one arm may grow into a blade while the other functions as a firearm. Some specimens exhibit mechanical eyes that can flash red, and they have been observed showing signs of discipline, such as bowing to [[Iron]] Legionnaires.}}
+{{spoiler|book=lh-03-the-knight|[[Reavers]] are biological abominations created by the [[Iron Legion]]. These creatures are characterized by a fusion of organic matter and metal, featuring living [[steel]] that has been melted or welded directly into their flesh. While they retain much of their original human-like structure, they are physically enhanced beyond normal limits to become highly dangerous combatants. Their physical forms vary, but common configurations include limbs that have grown into crude blades or integrated gun barrels. Some specimens possess mechanical eyes that can emit red light, and they are known for their durability in combat, often requiring more than a single shot to be defeated.}}
+
+== Appearance ==
+{{spoiler|book=lh-03-the-knight|These humanoid figures are abominations composed of a mixture of organic structure and living [[steel]] armor. Their physical forms consist of reanimated flesh integrated with various cyborg pieces.}}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
@@ -24,7 +27,7 @@
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=lh-03-the-knight|"Send Omega," I said, as I put a bullet through an Iron Pawn with one hand and sealed a Reaver to the ceiling with the other.<ref name="lh-03-the-knight-c4" />}}
+* {{spoiler|book=lh-03-the-knight|“Send Omega,” I said, as I put a bullet through an Iron Pawn with one hand and sealed a Reaver to the ceiling with the other.<ref name="lh-03-the-knight-c4" />}}
 
 == Notes ==
 <references />
@@ -36,4 +39,3 @@
 [[Category:The Knight]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon characters]]
-[[Category:Iron Legion]]

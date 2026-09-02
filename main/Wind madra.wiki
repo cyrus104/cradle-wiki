@@ -1,0 +1,28 @@
+{{Expand}}
+
+{{Infobox madra
+| name = wind madra
+| introduced = [[Blackflame (novel)|Blackflame]]
+}}
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|A [[wind]] artist used gusts of [[wind madra]] to keep an opponent off-balance.<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Naru Saeya]] used [[wind madra]] to cut [[Lindon]] off.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Madra]]
+[[Category:Ghostwater]]
+[[Category:Wintersteel]]
+[[Category:Cradle]]

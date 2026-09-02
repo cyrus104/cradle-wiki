@@ -7,13 +7,13 @@
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|[[Darandiel]] is [[the Ghost]] and the Third [[Judge]] of the [[Abidan Court]].<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Darandiel]] is the [[Ghost]] and the Third [[Judge]] of the [[Abidan Court]].<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Darandiel]] is [[the Ghost]].<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Darandiel]] is the [[Ghost]].<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Darandiel]] is a [[Judge]].<ref name="cradle-11-dreadgod-c1" />}}</li>
 </ul></div>
 

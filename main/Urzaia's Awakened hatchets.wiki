@@ -2,13 +2,13 @@
 
 {{Infobox artifact
 | name = Urzaia's Awakened hatchets
-| introduced = Of Sea and Shadow
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 == Of Sea and Shadow ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Urzaia]] possessed [[Awakened hatchets]].<ref name="ee-sea-01-of-sea-and-shadow-c27">''Of Sea and Shadow'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Urzaia Woodsman{{!}}Urzaia possessed [[Awakened hatchets]].<ref name="ee-sea-01-of-sea-and-shadow-c27">''Of Sea and Shadow'', chapter 27</ref>}}</li>
 </ul></div>
 
 == Notes ==

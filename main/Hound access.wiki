@@ -2,13 +2,13 @@
 
 {{Infobox concept
 | name = Hound access
-| introduced = Dreadgod
+| introduced = [[Dreadgod (novel)|Dreadgod]]
 }}
 
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Suriel]] has unrestricted [[Hound access]].<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Judge Suriel{{!}}Suriel has unrestricted [[Hound access]].<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Notes ==

@@ -10,7 +10,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[Genesis Vault]] takes the form of a pane of glass with an indistinct silhouette behind it.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Genesis Vault]] is a shadow trapped in glass.<ref name="lh-04-the-pilot-c23" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Genesis Vault]] is a Shadow{{!}}shadow trapped in glass.<ref name="lh-04-the-pilot-c23" />}}</li>
 </ul></div>
 
 == Notes ==

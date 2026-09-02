@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Starlotus
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 == Unsouled ==
@@ -13,7 +13,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Starlotus]] is a flower used to solidify foundation in a core.<ref name="cradle-02-soulsmith-c2">''Soulsmith'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|The [[Starlotus]] bud can be consumed to gain power.<ref name="cradle-02-soulsmith-c2" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The Starlotus Bud{{!}}Starlotus bud can be consumed to gain power.<ref name="cradle-02-soulsmith-c2" />}}</li>
 </ul></div>
 
 == Notes ==

@@ -1,0 +1,29 @@
+{{Infobox artifact
+| name = elixirs
+| introduced = [[Unsouled (novel)|Unsouled]]
+}}
+
+== Unsouled ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-01-unsouled|Certain [[elixirs]] are used to stabilize a core after reaching [[Iron stage]].<ref name="cradle-01-unsouled-c12">''Unsouled'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|It is said that twenty [[elixirs]] are needed to get close to the [[Jade stage]].<ref name="cradle-01-unsouled-c12" />}}</li>
+</ul></div>
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|The elixirs{{!}}elixir can be frozen into ice to make an ordinary drink glow purple.<ref name="cradle-05-ghostwater-c6">''Ghostwater'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|One dose of the elixirs{{!}}elixir costs a thousand [[high-grade scales]].<ref name="cradle-05-ghostwater-c6" />}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Unsouled]]
+[[Category:Ghostwater]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

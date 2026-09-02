@@ -1,4 +1,48 @@
-#REDIRECT [[gatestone]]
+{{Infobox artifact
+| name = gatestone
+| introduced = [[Ghostwater (novel)|Ghostwater]]
+}}
+
+''See also: [[gatestone Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-11-dreadgod|A gatestone is a tool used for spatial transmission, functioning as a method of instant teleportation. These objects vary in size and shape, often appearing as blue, shimmering lumps that resemble crushed glass or gritty balls of sand. To activate the [[stone]]'s transport capabilities, a user must crush it, which results in the object being destroyed. This process allows an individual to return immediately to a specific location, a method that has been utilized by others to escape the world of [[Ghostwater]]. While they are more affordable than other spatial transport devices, they represent significant labor for high-level practitioners like [[Sages]] to produce and are not used lightly. Additionally, [[gatestones]] can be used to disrupt a [[spatial lock]] by stressing the local field through the act of throwing and breaking the [[stone]].}}
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|[[Yan Shoumei]] crushed a [[gatestone]] to vanish.<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|Crushing a [[gatestone]] allows for instant return to a specific place.<ref name="cradle-05-ghostwater-c16">''Ghostwater'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|Gatestones are used by others to escape [[Ghostwater]].<ref name="cradle-05-ghostwater-c16" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] uses a [[gatestone]] that looks like a chalky ball of crushed blue glass.<ref name="cradle-05-ghostwater-c16" />}}</li>
+</ul></div>
+
+== Underlord ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-06-underlord|A [[gatestone]] is a blue [[stone]] that allows for vanishing in a flash of blue.<ref name="cradle-06-underlord-c11">''Underlord'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|Gatestones are devices used for spatial transport that are supplied by the [[Akura clan]] for contribution points.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|A [[gatestone]] can be used to transport individuals back to the [[Abyssal Palace]].<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|Akura Pride{{!}}Pride used a blue [[gatestone]] to vanish.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Gatestones can be used to stress a [[spatial lock]] field.<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|A [[gatestone]] can be crushed into [[sapphire]] powder.<ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Yerin]] possesses a [[gatestone]].<ref name="cradle-11-dreadgod-c14">''Dreadgod'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Artifacts]]
 [[Category:Ghostwater]]

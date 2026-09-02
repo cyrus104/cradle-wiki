@@ -2,12 +2,24 @@
 | name = Feiora Torannus (The Traveler's Gate Trilogy)
 | abilities = {{spoiler|book=tg-03-city-of-light|open a Gate, summon a spear}}
 | titles = {{spoiler|book=tg-03-city-of-light|Overlord}}
+| professions = {{spoiler|book=tg-03-city-of-light|Overlord}}
 | appears_in = Traveler's Gate
 | introduced = [[City of Light (novel)|City of Light]]
 }}
 
+== Overview ==
+{{spoiler|book=tg-03-city-of-light|Feiora Torannus is an Overlord and an Avernus Travelers{{!}}Avernus Traveler. Physically, she is characterized by a heavy jaw, dark eyes, very short hair, and a powerful presence. Unlike many others from her [[Territory]], she avoids traditional buckskin and feather attire, opting instead for simple black clothing accented by a bronze-and-pearl pin that signifies her status. She is accompanied by a silent raven named [[Eugan]], who has the ability to travel through [[Gates]] alongside her. Feiora holds a leadership role, stepping in to unify the [[Avernus Travelers]] when necessary and successfully rallying the [[Enosh Travelers]]. She possesses the ability to open [[Gates]], a skill that has assisted others such as [[Indirial]]. Throughout her experiences, she has been involved in conflicts involving various [[Incarnations]] and different groups of [[Travelers]], including the [[Damascan Tartarus Travelers]].}}
+
+== Appearance ==
+{{spoiler|book=tg-03-city-of-light|Feiora Torannus wears a dark leather breastplate. Her protection also includes hardened leather covering her forearms and shins.}}
+
+== Abilities ==
+{{spoiler|book=tg-03-city-of-light|As an Overlord, she possesses the power to open a Gate. She is also capable of summoning a spear.}}
+
 == City of Light ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+{{spoiler|book=tg-03-city-of-light|Feiora Torannus is an Overlord who maintains her own territory and travels with her raven, [[Eugan]]. Clad in a dark leather breastplate along with hardened leather protection on her forearms and shins, she concludes a discussion with [[Indirial]]. During her journey, she demonstrates the ability to summon a spear and possesses the power to open a Gate.}}
+
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|Overlord Feiora wears a dark leather breastplate and hardened leather on her shins and forearms.<ref name="tg-03-city-of-light-c9">''City of Light'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|Feiora is an Overlord who has a raven.<ref name="tg-03-city-of-light-c9" />}}</li>
@@ -16,7 +28,6 @@
 <li>{{spoiler|book=tg-03-city-of-light|Feiora can open a Gate.<ref name="tg-03-city-of-light-c12">''City of Light'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|Feiora can summon a spear.<ref name="tg-03-city-of-light-c12" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|Feiora has a raven named [[Eugan]].<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|Feiora is someone [[Lycus]] wants to get back to and help.<ref name="tg-03-city-of-light-c14" />}}</li>
 </ul></div>
 
 == Notes ==
@@ -28,5 +39,3 @@
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate characters]]
-[[Category:Titled characters]]
-[[Category:Travelers]]

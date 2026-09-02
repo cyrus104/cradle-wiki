@@ -1,13 +1,13 @@
 {{Infobox location
 | name = Iteration One-one-zero
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-01-unsouled|[[Iteration One-one-zero]] is the location [[Suriel]] has arrived in.<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-01-unsouled|[[Suriel]] requests clearance for unbound transportation within [[Iteration One-one-zero]].<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Iteration One-one-zero]] is the location Judge Suriel{{!}}Suriel has arrived in.<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|Judge Suriel{{!}}Suriel requests clearance for unbound transportation within [[Iteration One-one-zero]].<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
 </ul></div>
 
 == Blackflame ==
@@ -33,4 +33,3 @@
 [[Category:Reaper]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Otherworldly locations]]

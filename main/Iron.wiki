@@ -1,12 +1,12 @@
 {{Infobox concept
 | name = Iron
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Iron Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-09-bloodline|Iron refers to a significant stage of [[advancement]] within the [[Foundation]] realm, following the [[Copper]] rank. Achieving an [[Iron body]] provides a quantitative leap in power, granting practitioners superhuman capabilities that far exceed those of [[Copper]]-level individuals. This stage is characterized by a more solid and bright core, as well as the ability to produce Iron-quality [[madra]]. While practitioners still require sustenance and rest, an [[Iron body]] offers enhanced durability, making them resistant to physical injuries like pulled muscles or bleeding to death. However, the transformation process can be a violent and painful experience where the body expels impurities. There are various specialized types of Iron bodies, each offering unique advantages. The [[Steelborn body]] is renowned for providing immense physical strength, particularly at higher ranks like [[Underlord]]. The [[Bloodforged Iron body]] is designed to resist corrosive damage, though it consumes [[madra]] very rapidly. The [[Moonheart Iron body]] allows a practitioner to separate their consciousness from their physical form, ensuring that bodily trauma does not disrupt mental or spiritual control. Additionally, the [[Silverscale Iron body]] is used to bolster spiritual resistance against attacks. In terms of progression, most [[sacred artists]] in the [[Wei clan]] reach this stage in their early twenties, though exceptionally disciplined individuals can achieve it much younger. Reaching the Iron rank also enables the use of specific advanced equipment, such as flying swords powered by Iron-quality [[madra]]. While an Iron is powerful enough to combat most threats, they remain vulnerable to highly advanced or intelligent [[Remnants]].}}
+{{spoiler|book=cradle-09-bloodline|Iron refers to a significant stage of [[advancement]] within the [[Foundation]] realm, following [[Copper]] and preceding [[Jade]]. Achieving this level provides a quantitative leap in power, granting practitioners superhuman capabilities that far exceed those at the [[Copper stage]] or below. An [[Iron body]] offers increased durability, such as toughness exceeding snake leather, and allows for impressive physical feats. While practitioners still require food and sleep, they gain enhanced resilience against physical injuries like pulled muscles or bleeding. However, the transformation process can be a gruesome experience involving the expulsion of impurities from the body. There are various specialized types of Iron bodies, each offering unique advantages. The [[Steelborn body]] is renowned for providing immense brute strength, particularly at higher levels of [[advancement]]. The [[Bloodforged Iron body]] is designed to resist corrosive breakdown, though it consumes [[madra]] rapidly. The [[Moonheart Iron body]] allows a practitioner to separate their consciousness from their physical form, ensuring that bodily trauma does not disrupt mental or spiritual control. Additionally, the [[Silverscale Iron body]] is used to fortify a [[spirit]]'s natural control and provide resistance against spiritual attacks. In terms of [[madra]], Iron-quality energy is more powerful than lower tiers and can be used to fuel advanced equipment, such as flying swords capable of levitation and combat. The term also describes individuals who have reached this stage of cultivation.}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
@@ -16,6 +16,8 @@
 </ul></div>
 
 == Soulsmith ==
+{{spoiler|book=cradle-02-soulsmith|Following the [[Copper stage]], Iron serves as a power stage of [[advancement]] that can be reached after walking a [[Path]]. To achieve this rank, an individual must push [[madra]] from their channels into their flesh to completely reforge the body and improve their eyesight. While this stage is lower than [[Jade]], advancing too early carries the risk of crippling a [[sacred artist]]'s future. For [[Lindon]], reaching Iron was a possibility he waited for until he eventually attained the rank.}}
+
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|At the [[Iron stage]], one's eyes get better and they forge their body.<ref name="cradle-02-soulsmith-c2">''Soulsmith'', chapter 2</ref>}}</li>
@@ -24,7 +26,7 @@
 <li>{{spoiler|book=cradle-02-soulsmith|[[Iron]] is a body type or stage.<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Iron]] is a stage of [[advancement]] related to [[madra]]/body strength.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Iron]] is a stage that can be reached after walking a [[Path]].<ref name="cradle-02-soulsmith-c12" />}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|[[Iron]] is a physical attribute or state that [[Miners{{!}}miners]] possess.<ref name="cradle-02-soulsmith-c14">''Soulsmith'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Iron]] is a physical attribute or state that Miners{{!}}miners possess.<ref name="cradle-02-soulsmith-c14">''Soulsmith'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|To reach [[Iron]], one must push [[madra]] out of the channels and into the flesh.<ref name="cradle-02-soulsmith-c14" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Iron]] is a stage of [[advancement]] lower than [[Jade]].<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Iron]] is a power stage.<ref name="cradle-02-soulsmith-c15" />}}</li>
@@ -38,13 +40,15 @@
 </ul></div>
 
 == Blackflame ==
+{{spoiler|book=cradle-03-blackflame|An Iron represents a specific stage of progression that requires sustenance and sleep to function. This quality is defined by the presence of [[pure madra]] within a person. While it is noted that an Iron child should possess no more pride than a mouse, the strength of this stage can be formidable. This was demonstrated when a boy who had reached the [[Iron stage]] killed Sandviper Kral{{!}}Kral.}}
+
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|An [[Iron]] child should have no more pride than a mouse.<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|[[Sandviper Kral{{!}}Kral]] was killed by a boy who is an [[Iron]].<ref name="cradle-03-blackflame-c2">''Blackflame'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|Sandviper Kral{{!}}Kral was killed by a boy who is an [[Iron]].<ref name="cradle-03-blackflame-c2">''Blackflame'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|An [[Iron]] is a stage of progression that still needs sleep and food.<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Iron]] is a quality of [[pure madra]].<ref name="cradle-03-blackflame-c7">''Blackflame'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|The character possesses [[Iron{{!}}iron]].<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The character possesses Iron{{!}}iron.<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
 </ul></div>
 
 == Wintersteel ==
@@ -54,10 +58,12 @@
 </ul></div>
 
 == Bloodline ==
+{{spoiler|book=cradle-09-bloodline|Within the [[Wei clan]], Iron serves as a specific rank or classification for certain individuals. This designation is held by some guards of the [[Fallen Leaf School]], where an Iron typically utilizes Foxfire{{!}}foxfire and spears in combat. Furthermore, the term describes a specific level of [[madra]]. The [[Heaven's Glory]] group is notably composed of a dozen such [[Irons]].}}
+
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Iron]] is a rank or stage held by some guards of the [[Fallen Leaf School]].<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|[[The Iron]] is a guard that uses spears and [[Foxfire{{!}}foxfire]].<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[The Iron]] is a guard that uses spears and Foxfire{{!}}foxfire.<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Iron]] is a level of [[madra]].<ref name="cradle-09-bloodline-c11" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Heaven's Glory]] group includes a dozen [[Irons]].<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Iron]] is a rank or classification of person in the [[Wei clan]] context.<ref name="cradle-09-bloodline-c15">''Bloodline'', chapter 15</ref>}}</li>

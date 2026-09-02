@@ -1,7 +1,7 @@
 {{Infobox character
 | name = Ozmanthus Arelius
 | aliases = Ozmanthus
-| abilities = {{spoiler|book=cradle-10-reaper|[[Iron body]], Path of pure destruction, [[Death Icon]], bloodline ability to see, [[Soulfire|soulfire]], dismantled techniques}}{{spoiler|book=cradle-11-dreadgod|, madra manipulation}}
+| abilities = {{spoiler|book=cradle-10-reaper|[[Iron body]], Path of pure destruction, [[Death Icon]], bloodline ability to see, [[soulfire]], dismantled techniques}}{{spoiler|book=cradle-11-dreadgod|, madra manipulation}}
 | titles = {{spoiler|book=cradle-10-reaper|[[Monarch]], Patriarch of the Arelius clan}}
 | affiliations = {{spoiler|book=cradle-10-reaper|[[Arelius family|Arelius clan]]}}{{spoiler|book=cradle-13-threshold|, [[Arelius family]]}}
 | professions = {{spoiler|book=cradle-10-reaper|[[Soulsmith]]}}
@@ -15,62 +15,103 @@
 ''See also: [[Ozmanthus Arelius Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|[[Ozmanthus]] Arelius was the founding patriarch of [[House Arelius]] and is remembered as a legendary [[Soulsmith]]. Throughout his [[life]], he was driven by a childhood quest for [[Arelia]] and demonstrated immense genius in the [[sacred arts]], specifically through his mastery of refining and his ability to design unique [[Iron]] bodies. His reputation was so significant that his personal crest eventually became the symbol for his entire [[House]]. He was a highly accomplished figure who sought to leave a lasting legacy by training descendants to match his own capabilities, and it is suggested that upon his ascension, he found no equals even in the heavens. In various forms, [[Ozmanthus]] appears as an echo or a fragment of his former will within a [[labyrinth]]. These manifestations, which possess approximations of his memories and personality, often appear as an unassuming man with pale hair and a broom. Despite these diminished forms, he retains his characteristic arrogance, wit, and immense authority over the [[labyrinth]]'s ancient mechanisms. His influence persists through his [[Soulsmith inheritance]], which provides others with his technical insights and combat instincts. Furthermore, the [[Arelius bloodline]] is associated with a specific ability involving nearly invisible strands of [[madra]].}}
+{{spoiler|book=cradle-13-threshold|Ozmanthus Arelius family{{!}}Arelius was the founding patriarch of Arelius family{{!}}House Arelius and a legendary figure celebrated as one of history's most talented [[Soulsmiths]]. A genius from his youth, he spent his early years exploring mountain tunnels and searching for Arelia. He achieved significant fame during his time at [[Iron]], where he successfully designed and perfected a custom [[Iron body]]. His mastery of the [[sacred arts]] extended to refining, and he dedicated much of his life to studying ancient [[Soulsmiths]] to establish a lasting legacy for his descendants. Beyond his craftsmanship, he achieved a monumental feat by manifesting an absolute aspect of reality, becoming the [[Judge]] of Destruction. Some accounts even refer to him as an interdimensional god of death. Throughout his life, Ozmanthus was characterized by a profound sense of solitude and an intense desire to find intellectual peers who could match his capabilities. Even after ascending to the heavens, he reportedly found himself without equals. In various forms or echoes, such as those found within a [[labyrinth]] or through his [[Soulsmith inheritance]], he appears with a mocking yet elegant demeanor, often carrying a broom and possessing the classic good looks of his bloodline. He is known for his immense [[spiritual perception]], his ability to dismantle techniques, and his command over the [[Arelius bloodline power]]. While he could be arrogant and dismissive, he also expressed a desire to guide others and hoped for the success of those who inherited his knowledge.}}
 
-== Reaper ==
-{{spoiler|book=cradle-10-reaper|As the original Patriarch of the Arelius clan, [[Ozmanthus]] Arelius was a renowned [[Soulsmith]] who possessed maximum potential in six of the seven [[Abidan]] Divisions. His immense capabilities meant he could have inherited the [[Mantle]] of any [[Judge]], with the sole exception of [[Suriel]]. While watching falling ash, he was overcome by a sense of personal failure. He eventually appeared as a black-and-white version of himself, having left behind a [[Soulsmith inheritance]] and the ability to dismantle techniques.}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+== History ==
+=== {{spoiler|book=cradle-10-reaper|Patriarch of House Arelius}} ===
+{{spoiler|book=cradle-10-reaper|While watching falling ash, Ozmanthus Arelius family{{!}}Arelius experienced a sense of personal failure.<ref name="cradle-10-reaper-c1">''Reaper'', chapter 1</ref> A renowned [[Soulsmith]] and the [[original Patriarch]] of the Arelius family{{!}}Arelius clan, he named his [[House]] after the city of Arelia.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref><ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref><ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref> Ozmanthus perfected his own [[Iron body]] and chose a [[Path]] of [[pure destruction]], eventually manifesting the [[Death Icon]] after engineering a device to kill and revive himself.<ref name="cradle-10-reaper-c3" /> Upon advancing to [[Monarch]], he developed a bloodline ability to see his progress and demonstrated maximum potential in six of the seven [[Abidan]] Divisions.<ref name="cradle-10-reaper-c3" /><ref name="cradle-10-reaper-c10" /> He was capable of inheriting the Mantle of any [[Judge]] aside from Judge Suriel{{!}}Suriel and utilized [[soulfire]] along with a black hammer.<ref name="cradle-10-reaper-c10" /><ref name="cradle-10-reaper-c14" /> In his pursuit of perfection, he attempted to create the weapon [[Penance]] and was known for dismantling techniques.<ref name="cradle-10-reaper-c14" /><ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref> He left behind a [[Soulsmith inheritance]] and can appear as a black-and-white version of himself or as a projection.<ref name="cradle-10-reaper-c21">''Reaper'', chapter 21</ref><ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] is a character who looked up into falling ash and felt he had failed.<ref name="cradle-10-reaper-c1">''Reaper'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] had maximum potential in six of the seven [[Abidan]] Divisions.<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] could inherit the [[Mantle]] of any [[Judge]] except [[Suriel]].<ref name="cradle-10-reaper-c10" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] was the original Patriarch of the Arelius clan and a great [[Soulsmith]].<ref name="cradle-10-reaper-c10" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] was an [[Arelius Patriarch]].<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] left a [[Soulsmith inheritance]].<ref name="cradle-10-reaper-c21">''Reaper'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] is a character who looked up into falling ash and felt he had failed.<ref name="cradle-10-reaper-c1" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Ozmanthus Arelius{{!}}Ozmanthus designed and perfected his own [[Iron body]].<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Ozmanthus Arelius{{!}}Ozmanthus chose a [[Path]] of [[pure destruction]].<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Ozmanthus Arelius{{!}}Ozmanthus was a renowned [[Soulsmith]].<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Ozmanthus Arelius{{!}}Ozmanthus manifested the [[Death Icon]] after creating a device to kill and revive himself.<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Ozmanthus Arelius{{!}}Ozmanthus developed the bloodline ability to see when he advanced to [[Monarch]].<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Ozmanthus Arelius{{!}}Ozmanthus named his [[House]] after the city he sought, Arelia.<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] had maximum potential in six of the seven [[Abidan]] Divisions.<ref name="cradle-10-reaper-c10" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] could inherit the Mantle of any [[Judge]] except Judge Suriel{{!}}Suriel.<ref name="cradle-10-reaper-c10" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] was the [[original Patriarch]] of the Arelius family{{!}}Arelius clan and a great [[Soulsmith]].<ref name="cradle-10-reaper-c10" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] was an [[Arelius Patriarch]].<ref name="cradle-10-reaper-c14" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Ozmanthus Arelius{{!}}Ozmanthus used a black hammer and [[soulfire]].<ref name="cradle-10-reaper-c14" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Ozmanthus Arelius{{!}}Ozmanthus attempted to create [[Penance]] as a perfect weapon.<ref name="cradle-10-reaper-c14" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] left a [[Soulsmith inheritance]].<ref name="cradle-10-reaper-c21" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] appears as a black-and-white version of himself.<ref name="cradle-10-reaper-c21" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] dismantled techniques.<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Ozmanthus Arelius{{!}}Ozmanthus has a projection that [[Lindon]]'s friend was fighting.<ref name="cradle-10-reaper-c22" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus Arelius]] dismantled techniques.<ref name="cradle-10-reaper-c23" />}}</li>
 </ul></div>
 
-== Dreadgod ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+=== {{spoiler|book=cradle-11-dreadgod|Echoes in the Labyrinth}} ===
+{{spoiler|book=cradle-11-dreadgod|Ozmanthus Arelius family{{!}}Arelius maintained various workshops and foundries within labyrinth{{!}}the labyrinth, some of which remained unplundered.<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref><ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref> A gray-white ghost appearing as an echo of Ozmanthus was seen using a broom.<ref name="cradle-11-dreadgod-c2" /> This echo provided [[Lindon]] with direction and is revealed to be the same person as Eithan{{!}}Eithan Arelius.<ref name="cradle-11-dreadgod-c3" /> Possessing a natural sense for the manipulation of [[madra]], Ozmanthus eventually ascended into the heavens.<ref name="cradle-11-dreadgod-c3" /><ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref> He is also considered a figure who may have provided explanations to the children.<ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Ozmanthus Arelius]] had disused workshops within the [[labyrinth]].<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Ozmanthus Arelius]] had disused workshops within labyrinth{{!}}the labyrinth.<ref name="cradle-11-dreadgod-c2" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|An echo of [[Ozmanthus Arelius]] appeared as a gray-white ghost.<ref name="cradle-11-dreadgod-c2" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The echo of [[Ozmanthus Arelius]] uses a broom.<ref name="cradle-11-dreadgod-c2" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Ozmanthus Arelius]] ascended into the heavens.<ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Ozmanthus Arelius{{!}}Ozmanthus has workshops that have not been plundered.<ref name="cradle-11-dreadgod-c2" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Ozmanthus Arelius{{!}}Ozmanthus left an echo that gave [[Lindon]] direction.<ref name="cradle-11-dreadgod-c3" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Ozmanthus Arelius{{!}}Ozmanthus had workshops and foundries.<ref name="cradle-11-dreadgod-c3" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Ozmanthus Arelius{{!}}Ozmanthus is the same person as Eithan{{!}}Eithan Arelius.<ref name="cradle-11-dreadgod-c3" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Ozmanthus Arelius{{!}}Ozmanthus had a natural sense for [[madra]] manipulation.<ref name="cradle-11-dreadgod-c3" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Ozmanthus Arelius]] ascended into the heavens.<ref name="cradle-11-dreadgod-c4" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Ozmanthus Arelius{{!}}Ozmanthus is a figure who may have explained things to the children.<ref name="cradle-11-dreadgod-c11" />}}</li>
 </ul></div>
 
-== Waybound ==
-{{spoiler|book=cradle-12-waybound|Regarded as one of the greatest [[Soulsmiths]] to ever live, [[Ozmanthus]] Arelius serves as a figure of pride for [[Eithan]]. His influence is felt when [[Lindon]] adopts one of his [[madra]] manipulation methods and encounters a black-and-gray manifestation of the smith alongside him. While he acts as [[Yerin's master]], his presence is also felt through laughter from within the narrator. Ultimately, Reigan absorbs [[Ozmanthus]] Arelius's [[Soulsmith inheritance]], which proceeds to taunt the [[Remnant]].}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+=== {{spoiler|book=cradle-11-dreadgod|Return from beyond}} ===
+{{spoiler|book=cradle-11-dreadgod|Ozmanthus Arelius family{{!}}Arelius makes his return from beyond.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Ozmanthus Arelius]] was one of the greatest [[Soulsmiths]] of all time.<ref name="cradle-12-waybound-c4">''Waybound'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] adopted a [[madra]] manipulation method from [[Ozmanthus Arelius]].<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Ozmanthus Arelius{{!}}Ozmanthus returns from beyond.<ref name="cradle-11-dreadgod-c19" />}}</li>
+</ul></div>
+
+{{spoiler|book=cradle-12-waybound|Regarded as one of the greatest [[Soulsmiths]] in history, Ozmanthus Arelius family{{!}}Arelius was known for creating various prototypes.<ref name="cradle-12-waybound-c4">''Waybound'', chapter 4</ref><ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref> He rose to prominence while under the watch of [[Malice]], and his [[madra]] manipulation method was eventually adopted by [[Lindon]].<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref> A black-and-gray version of Ozmanthus appeared beside [[Lindon]], spinning a cloak around himself in a delicate dance.<ref name="cradle-12-waybound-c9" /> After projecting an attack that struck [[Reigan Shen]], Ozmanthus was heard laughing from within the narrator.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref> He successfully destroyed the vaults belonging to [[Reigan Shen]], a figure who had previously mentioned Ozmanthus to [[Lindon]].<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref><ref name="cradle-12-waybound-c13">''Waybound'', chapter 13</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[Ozmanthus Arelius]] was one of the greatest [[Soulsmiths]] of all time.<ref name="cradle-12-waybound-c4" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Ozmanthus Arelius{{!}}Ozmanthus created prototypes.<ref name="cradle-12-waybound-c5" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Ozmanthus Arelius{{!}}Ozmanthus rose to prominence under [[Malice]]'s watch.<ref name="cradle-12-waybound-c9" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] adopted a [[madra]] manipulation method from [[Ozmanthus Arelius]].<ref name="cradle-12-waybound-c9" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|A black-and-gray [[Ozmanthus Arelius]] appeared next to [[Lindon]].<ref name="cradle-12-waybound-c9" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Ozmanthus Arelius]] is laughing from within the narrator.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Ozmanthus Arelius]] is [[Yerin's master]].<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|Reigan absorbed the [[Soulsmith inheritance]] of [[Ozmanthus Arelius]].<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Ozmanthus Arelius]]'s [[Soulsmith inheritance]] is taunting the [[Remnant]].<ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Ozmanthus Arelius]] is a figure of pride for [[Eithan]].<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Ozmanthus Arelius{{!}}Ozmanthus spun the cloak that surrounded him in a delicate dance.<ref name="cradle-12-waybound-c9" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Ozmanthus Arelius{{!}}Ozmanthus projected an attack that struck [[Reigan Shen]].<ref name="cradle-12-waybound-c10" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Ozmanthus Arelius]] is laughing from within the narrator.<ref name="cradle-12-waybound-c10" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Ozmanthus Arelius{{!}}Ozmanthus destroyed [[Reigan Shen]]'s vaults.<ref name="cradle-12-waybound-c11" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Reigan Shen]] mentioned Ozmanthus Arelius{{!}}Ozmanthus to [[Lindon]].<ref name="cradle-12-waybound-c13" />}}</li>
 </ul></div>
 
-== Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|A member of the [[Arelius family]], [[Ozmanthus]] Arelius exists within the [[labyrinth]] as a [[Forged]] echo. This entity is characterized by pale hair, colorless eyes, and a gentle smile. Clad in [[Forged]] clothes, the echo represents a figure who spent many years studying the first [[Abidan]].}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+=== {{spoiler|book=cradle-12-waybound|Master of Yerin}} ===
+{{spoiler|book=cradle-12-waybound|Ozmanthus Arelius family{{!}}Arelius serves as the master to [[Yerin]] and is linked to techniques capable of altering a user.<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref><ref name="cradle-12-waybound-c20">''Waybound'', chapter 20</ref> Through memories, [[Dross]] transmits the lethal will of Ozmanthus to [[Yerin]].<ref name="cradle-12-waybound-c20" /> [[Eithan]] considers Ozmanthus when making his decisions and views the man as a figure of pride.<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref><ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref> The [[Soulsmith inheritance]] of Ozmanthus was absorbed by Reigan Shen{{!}}Reigan, an [[inheritance]] that currently taunts the [[Remnant]].<ref name="cradle-12-waybound-c22" /><ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref> Having proven that one could return, Ozmanthus once advised the young [[Void Sage]] to utilize the perceptions of others as a looking-glass.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref><ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|[[Ozmanthus Arelius]] exists as a [[Forged]] echo in the [[labyrinth]].<ref name="cradle-13-threshold-c2">''Threshold: Stories from Cradle'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Ozmanthus Arelius]] is [[Yerin's master]].<ref name="cradle-12-waybound-c18" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Ozmanthus Arelius{{!}}Ozmanthus is associated with techniques that might change a user.<ref name="cradle-12-waybound-c20" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Dross]] conveys Ozmanthus Arelius{{!}}Ozmanthus's lethal will to [[Yerin]] through memories.<ref name="cradle-12-waybound-c20" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Ozmanthus Arelius{{!}}Ozmanthus is a character whom [[Eithan]] considers when making choices.<ref name="cradle-12-waybound-c22" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Reigan Shen{{!}}Reigan absorbed the [[Soulsmith inheritance]] of [[Ozmanthus Arelius]].<ref name="cradle-12-waybound-c22" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Ozmanthus Arelius{{!}}Ozmanthus advised the young [[Void Sage]] to use others' perception as a looking-glass.<ref name="cradle-12-waybound-c29" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Ozmanthus Arelius{{!}}Ozmanthus proved one could come back.<ref name="cradle-12-waybound-c30" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Ozmanthus Arelius]]'s [[Soulsmith inheritance]] is taunting the [[Remnant]].<ref name="cradle-12-waybound-c33" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Ozmanthus Arelius]] is a figure of pride for [[Eithan]].<ref name="cradle-12-waybound-c37" />}}</li>
+</ul></div>
+
+=== {{spoiler|book=cradle-13-threshold|Forged echo}} ===
+{{spoiler|book=cradle-13-threshold|Ozmanthus Arelius family{{!}}Arelius exists as a [[Forged]] echo within labyrinth{{!}}the labyrinth, characterized by pale hair, a gentle smile, and colorless eyes.<ref name="cradle-13-threshold-c2">''Threshold: Stories from Cradle'', chapter 2</ref> A member of the [[Arelius family]], he is seen wearing [[Forged]] clothes.<ref name="cradle-13-threshold-c2" /> He spent many years studying the first [[Abidan]] and expressed his hope for [[Lindon]]'s success.<ref name="cradle-13-threshold-c2" />}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-13-threshold|[[Ozmanthus Arelius]] exists as a [[Forged]] echo in labyrinth{{!}}the labyrinth.<ref name="cradle-13-threshold-c2" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Ozmanthus Arelius]] has pale hair and a gentle smile.<ref name="cradle-13-threshold-c2" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Ozmanthus Arelius]] is part of the [[Arelius family]].<ref name="cradle-13-threshold-c2" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Ozmanthus Arelius]] spent years studying the first [[Abidan]].<ref name="cradle-13-threshold-c2" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Ozmanthus Arelius]]'s echo has colorless eyes.<ref name="cradle-13-threshold-c2" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Ozmanthus Arelius]] wears [[Forged]] clothes.<ref name="cradle-13-threshold-c2" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|Ozmanthus Arelius{{!}}Ozmanthus expressed hope for [[Lindon]]'s success.<ref name="cradle-13-threshold-c2" />}}</li>
 </ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=cradle-10-reaper|“Ozmanthus Arelius, the original Patriarch of our clan, was known as the greatest Soulsmith of his day,”<ref name="cradle-10-reaper-c10" />}}
+* {{spoiler|book=cradle-11-dreadgod|“There are a few of my workshops that haven’t been plundered.<ref name="cradle-11-dreadgod-c2" />}}
+* {{spoiler|book=cradle-12-waybound|“If you see Ozmanthus on the other side,” Shen said, “tell him I didn’t kill you.”<ref name="cradle-12-waybound-c13" />}}
+* {{spoiler|book=cradle-13-threshold|“Perhaps I should be ashamed of you,” Ozmanthus said, “but I find myself hoping for your success.”<ref name="cradle-13-threshold-c2" />}}
 
 == Notes ==
 <references />
@@ -84,6 +125,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Soulsmiths]]
-[[Category:Titled characters]]
-[[Category:Viewpoint characters]]

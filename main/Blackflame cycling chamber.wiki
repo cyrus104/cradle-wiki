@@ -2,13 +2,13 @@
 
 {{Infobox location
 | name = Blackflame cycling chamber
-| introduced = Waybound
+| introduced = [[Waybound (novel)|Waybound]]
 }}
 
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|The [[Blackflame cycling chamber]] is where [[Orthos]] was devouring a dragon-spirit.<ref name="cradle-12-waybound-c13">''Waybound'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Blackflame cycling chamber]] is where [[Orthos]] was devouring a [[dragon-spirit]].<ref name="cradle-12-waybound-c13">''Waybound'', chapter 13</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -20,4 +20,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Structures]]

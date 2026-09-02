@@ -1,12 +1,12 @@
 {{Infobox concept
 | name = Vessels
-| introduced = Of Sea and Shadow
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Vessels Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|Vessels are awakened objects that serve as the source of power for individuals known as [[Soulbound]]. These items, which can range from small, inconspicuous objects to massive ships, grant their users the abilities of an [[Elder]] or a [[Kameira]]. Because they are the foundation of a [[Soulbound]]'s strength, identifying and destroying a [[Vessel]] is a primary strategy in combat; if a [[Vessel]] cannot be located, retreating is advised. While many Vessels are small, such as weapons passed down through guilds or pairs of shears, some are entire ships. These specialized vessels allow [[Navigators]] to safely traverse the [[Aion Sea]] and can be constructed using the bone, blood, or artifacts of an [[Elder]] to achieve their awakened state. Ships used as Vessels are distinct from ordinary vessels, as every component must be invested with specific intent and significance. These ships can exhibit sentient-like qualities, such as a desire to fight or communicating through impulses and mental pressures rather than words. Some vessels possess unique physical traits, such as seamless wood construction, unnatural colors like burnt orange or pitch-black, or the ability to appear as if they are floating on flames. In the case of large ships, the connection between a [[Soulbound]] and their [[Vessel]] is so profound that it may define the captain's role. While rare, some individuals may possess multiple Vessels, a condition that presents risks regarding how the objects interact with one another and the user's own psyche.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Vessels are awakened objects that serve as the source of power for individuals known as [[Soulbound]]. While these objects can be small and unobtrusive, they are often large-[[scale]] entities such as ships. To become a [[Vessel]], an object must be invested with specific intent and significance, typically by incorporating parts of an Elder or a [[Kameira]]—such as bone, [[blood]], or artifacts—into its construction. This connection allows [[Soulbound]] individuals to navigate the dangerous [[Aion Sea]] and utilize extraordinary abilities. In the case of ships, being a [[Vessel]] means the craft is bound to its captain. These vessels are not passive; they possess their own wills and can communicate with their users through impulses, impressions, or internal voices. Some vessels are designed for combat and may actively yearn to fight alongside their crews. Because the connection is so vital, a [[Soulbound]]'s power can be neutralized by identifying and destroying their [[Vessel]]. While most people possess a single object, some rare individuals may manage multiple Vessels, though this carries the risk of the objects' conflicting personalities overwhelming the user.}}
 
 == Of Sea and Shadow ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -25,11 +25,11 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Vessels]] are entities or powers within a person that can react to their emotions.<ref name="ee-shadow-02-of-darkness-and-dawn-c1">''Of Darkness and Dawn'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The character possesses [[Vessels]] that howl at her.<ref name="ee-shadow-02-of-darkness-and-dawn-c1" />}}</li>
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Estyr Six]]'s [[Vessels]] nagged her to reduce the [[Navigators]] to splinters.<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Estyr Six]]'s [[Vessels]] nagged her to reduce the Navigators to splinters.<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}</li>
 </ul></div>
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|Vessels are floating entities that can be stored within sealing boxes. During her interactions with the [[Farstriders]], [[Shera]] instructs them to release their own Vessels, while [[Estyr]] is seen keeping hers on a table nearby. These items possess the ability to provide voices that can slam into a user's head. In [[Shera]]'s case, her Vessels delivered an impulse that drowned out her thoughts before they spoke in unison to command her to flee.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Vessels are floating entities that can be contained within sealing boxes. During her interactions with the [[Farstriders]], [[Shera]] instructs them to release their own Vessels, while [[Estyr]] is observed keeping her Vessels on a table nearby. These items possess the ability to provide voices that can slam into a user's head. In [[Shera]]'s experience, the Vessels delivered an impulse that drowned out her thoughts before they spoke in unison to command her to flee.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -54,4 +54,3 @@
 [[Category:Of Killers and Kings]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire concepts]]
-[[Category:Terminology]]

@@ -1,10 +1,10 @@
 {{Infobox character
 | name = Subject One
 | species = Dreadgod
-| abilities = {{spoiler|book=cradle-09-bloodline|[[Hunger aura|hunger aura]]}}{{spoiler|book=cradle-10-reaper|, [[hunger madra]], borrowed authority}}{{spoiler|book=cradle-11-dreadgod|, [[core binding]]}}
-| titles = {{spoiler|book=cradle-08-wintersteel|father of the Dreadgods, [[Dreadgod]]}}{{spoiler|book=cradle-10-reaper|, fifth or first Dreadgod, Father of Hunger, [[Slumbering Wraith]], first child of hunger, humanoid Dreadgod}}
+| abilities = {{spoiler|book=cradle-09-bloodline|[[hunger aura]]}}{{spoiler|book=cradle-10-reaper|, [[hunger madra]], borrowed authority}}{{spoiler|book=cradle-11-dreadgod|, [[core binding]]}}
+| titles = {{spoiler|book=cradle-08-wintersteel|father of the Dreadgods, [[Dreadgod]]}}{{spoiler|book=cradle-10-reaper|, fifth or first Dreadgod, Father of Hunger, [[Slumbering Wraith]], first child of hunger, humanoid Dreadgod, prisoner in the labyrinth}}
 | birthplace = {{spoiler|book=cradle-10-reaper|a tank in the labyrinth}}
-| residence = {{spoiler|book=cradle-10-reaper|[[labyrinth|the labyrinth]], bottom of the labyrinth, deep chamber at the center of the labyrinth}}
+| residence = {{spoiler|book=cradle-10-reaper|[[labyrinth|the labyrinth]], bottom of the labyrinth, deep chamber at the center of the labyrinth, a deep chamber at the center of the labyrinth}}
 | appears_in = Cradle
 | introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
@@ -12,101 +12,118 @@
 ''See also: [[Subject One Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|Subject One is a [[Dreadgod]] and the progenitor of their bloodline, often described as the original being from which all other [[Dreadgods]] were formed. Known as the fifth [[Dreadgod]] or the father of the [[Dreadgods]], this intelligent entity was once a man who became transformed by [[hunger aura]]. Subject One is closely associated with [[hunger madra]], serving as either its source or its primary host. Historically, Subject One ruled a [[labyrinth]] that served as its prison, an environment where it could use techniques to manifest anyone it had previously consumed. The entity's power and will were so deeply integrated into this location that the [[labyrinth]] itself functioned as an extension of its own authority. Although Subject One is considered dead—with its power having been distributed among the other [[Dreadgods]]—its influence remains through various remnants. These include its core binding, a unique and irreplaceable material that can be crafted into items like the [[Wraith Horn]], and its various techniques, such as a [[Striker technique]] known as the [[Slumbering Wraith]]. Even in death, Subject One's [[essence]] can be accessed through its arm or other fragments of its will.}}
+{{spoiler|book=cradle-13-threshold|Subject One is a powerful entity known as a [[Dreadgod]] and is considered the progenitor or original source from which all other [[Dreadgods]] were formed. Often described as the father of the [[Dreadgods]], this being is associated with [[hunger madra]] and has been linked to the origin of that specific bloodline. Though some believe the [[Dreadgods]] only gained intelligence following the death of Subject One, others maintain that he was always an intelligent being. Subject One was previously held captive within a [[labyrinth]] that served as his prison, an environment he controlled through his own will and power. During his time ruling labyrinth{{!}}the labyrinth, he could use techniques to manifest individuals he had previously consumed. His physical form has been described as having a gray-white color, and his power was eventually distributed among the other [[Dreadgods]] upon his death. His [[core binding]] is a unique and irreplaceable material that can be crafted into objects, such as a horn, and possesses the ability to grant Authority{{!}}authority over others. Additionally, Subject One is associated with specific techniques, including a [[Striker technique]] known as the [[Slumbering Wraith]].}}
 
-== Wintersteel ==
+== Appearance ==
+{{spoiler|book=cradle-13-threshold|Subject One was a six-armed humanoid man with a gaping hole in his chest where a heart would normally be. Currently, the entity is represented by a mummified left hand made of chalk-white flesh. This hand acts as the pulsing heart of labyrinth{{!}}the labyrinth.}}
+
+== Personality ==
+{{spoiler|book=cradle-13-threshold|Known as the [[Slumbering Wraith]], this figure was once a man who became warped by a [[hunger aura]]. Though the entity has died, its remaining will and thoughts have interacted with others. Subject One also violated an oath during its existence.}}
+
+== Abilities ==
+{{spoiler|book=cradle-13-threshold|Subject One utilizes [[hunger madra]] and possesses a borrowed Authority{{!}}authority capable of pulling others toward doors. The entity can also eat a call for help. Additionally, Subject One has used techniques that have both weakened and intensified over time.}}
+
+== History ==
+=== {{spoiler|book=cradle-08-wintersteel|The Labyrinth}} ===
+{{spoiler|book=cradle-08-wintersteel|Subject One is known as the father of the [[Dreadgods]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref> His techniques have become weakened.<ref name="cradle-08-wintersteel-c1" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|[[Subject One]] is the father of the [[Dreadgods]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Subject One]] is the father of the [[Dreadgods]].<ref name="cradle-08-wintersteel-c1" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Subject One]] has weakened techniques.<ref name="cradle-08-wintersteel-c1" />}}</li>
 </ul></div>
 
-== Bloodline ==
+{{spoiler|book=cradle-09-bloodline|Subject One is a [[Dreadgod]] who originated from a man transformed by a [[hunger aura]]. This individual serves as the source of their entire bloodline.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|[[Subject One]] is a [[Dreadgod]] who was once a man warped by [[hunger aura]] and is the origin of their bloodline.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Subject One]] is a [[Dreadgod]] who was once a man warped by [[hunger aura]] and is the origin of their bloodline.<ref name="cradle-09-bloodline-c21" />}}</li>
 </ul></div>
 
-== Reaper ==
-{{spoiler|book=cradle-10-reaper|Born from a birth pod within a tank, Subject One is a humanoid [[Dreadgod]] known as the [[Slumbering Wraith]] or the Father of Hunger. This six-armed entity, who possesses a gaping hole in his chest and has violated his oath, serves as the pulsing heart of the [[labyrinth]] and exerts control over its very nature. While waiting in a deep chamber at the center of the maze, Subject One's mummified left hand was removed and contained within a metal cube marked with a crescent moon. As [[Lindon]]'s group investigated the entity, Subject One's attacks intensified and his borrowed authority pulled at them, though he remained unable to reach their specific location. Following the removal of his arm, a [[hunger aura]] exceeded containment and Subject One's remaining will crashed into [[Lindon]] before the [[Dreadgod]] died within the [[labyrinth]].}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">37</span></div>
+{{spoiler|book=cradle-10-reaper|Subject One is the first product of experiments that created the [[Dreadgods]], often referred to as the Father of Hunger, the [[Slumbering Wraith]], or the first child of [[hunger]].<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref><ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref> Born from a birth [[pod]] [[tank]] within labyrinth{{!}}the labyrinth, this six-armed man possesses a gaping hole in his chest where a heart should be and uses [[hunger madra]].<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref><ref name="cradle-10-reaper-c20">''Reaper'', chapter 20</ref><ref name="cradle-10-reaper-c22" /> Now a prisoner in labyrinth{{!}}the labyrinth, Subject One waits at the bottom in a deep chamber at the center where he sits upon a [[throne]] amidst thin, gray light.<ref name="cradle-10-reaper-c2" /><ref name="cradle-10-reaper-c17">''Reaper'', chapter 17</ref><ref name="cradle-10-reaper-c22" /> The entity controls labyrinth{{!}}the labyrinth and has intensified its attacks, though it is currently unable to reach [[Lindon]]'s group.<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref><ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref><ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref> Subject One's mummified, chalk-white left hand acts as the pulsing heart of labyrinth{{!}}the labyrinth and is contained within a small metal cube marked with a crescent moon.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref><ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref><ref name="cradle-10-reaper-c19" /> While [[Lindon]] possesses [[the hand]] in a silver case, Subject One's borrowed Authority{{!}}authority can pull him toward doors.<ref name="cradle-10-reaper-c11">''Reaper'', chapter 11</ref><ref name="cradle-10-reaper-c18">''Reaper'', chapter 18</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">30</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is the first product of experiments that created the [[Dreadgods]] and is sometimes called the fifth or first [[Dreadgod]], the Father of Hunger, or the [[Slumbering Wraith]].<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] waits at the bottom of the [[labyrinth]].<ref name="cradle-10-reaper-c2" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|A small metal cube marked with a crescent moon contains the hand of [[Subject One]].<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]]'s attacks have intensified.<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is an entity sealed in the [[labyrinth]] associated with [[hunger madra]].<ref name="cradle-10-reaper-c9">''Reaper'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] and his group are investigating to find [[Subject One]].<ref name="cradle-10-reaper-c10">''Reaper'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is the first product of experiments that created the [[Dreadgods]] and is sometimes called the fifth or first [[Dreadgod]], the Father of Hunger, or the [[Slumbering Wraith]].<ref name="cradle-10-reaper-c2" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] waits at the bottom of labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c2" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|A small metal cube marked with a crescent moon contains [[the hand]] of [[Subject One]].<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]]'s attacks have intensified.<ref name="cradle-10-reaper-c8" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] and his group are investigating to find [[Subject One]].<ref name="cradle-10-reaper-c10" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Lindon]] wanted to keep a layer between them and the outside before revealing [[Subject One]]’s hand.<ref name="cradle-10-reaper-c10" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is a mummified left hand of chalk-white flesh that acts as the pulsing heart of the [[labyrinth]].<ref name="cradle-10-reaper-c10" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] possesses a borrowed authority that can pull [[Lindon]] toward doors.<ref name="cradle-10-reaper-c11">''Reaper'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is controlling the [[labyrinth]].<ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is unable to reach the group's current location.<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] waits in a deep chamber at the center of the [[labyrinth]].<ref name="cradle-10-reaper-c17">''Reaper'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] has closed the way forward temporarily to fight the nature of the [[labyrinth]].<ref name="cradle-10-reaper-c18">''Reaper'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] possesses the hand of [[Subject One]] in a silver case.<ref name="cradle-10-reaper-c18" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] has a hand contained in a case.<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] was born from a tank in the [[labyrinth]].<ref name="cradle-10-reaper-c19" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is a mummified left hand of chalk-white flesh that acts as the pulsing heart of labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c10" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] possesses a borrowed Authority{{!}}authority that can pull [[Lindon]] toward doors.<ref name="cradle-10-reaper-c11" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is controlling labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c12" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is unable to reach the group's current location.<ref name="cradle-10-reaper-c14" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] waits in a deep chamber at the center of labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c17" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] has closed the way forward temporarily to fight the nature of labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c18" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] possesses [[the hand]] of [[Subject One]] in a silver case.<ref name="cradle-10-reaper-c18" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] has a hand contained in a case.<ref name="cradle-10-reaper-c19" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] was born from a [[tank]] in labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c19" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Subject One]]'s thoughts came from below [[Lindon]].<ref name="cradle-10-reaper-c19" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] has a birth pod.<ref name="cradle-10-reaper-c20">''Reaper'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] has a birth [[pod]].<ref name="cradle-10-reaper-c20" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Subject One]] uses [[hunger madra]].<ref name="cradle-10-reaper-c20" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is an entity within the [[labyrinth]].<ref name="cradle-10-reaper-c21">''Reaper'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is the [[Slumbering Wraith]].<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is the [[Slumbering Wraith]].<ref name="cradle-10-reaper-c22" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is a six-armed man.<ref name="cradle-10-reaper-c22" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Subject One]] has a gaping hole in his chest where his heart should be.<ref name="cradle-10-reaper-c22" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Subject One]] violated his oath.<ref name="cradle-10-reaper-c22" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Subject One]] has control of himself again after death.<ref name="cradle-10-reaper-c22" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is a [[Dreadgod]].<ref name="cradle-10-reaper-c22" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is the first child of hunger.<ref name="cradle-10-reaper-c22" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is a prisoner in the [[labyrinth]].<ref name="cradle-10-reaper-c22" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is the first child of [[hunger]].<ref name="cradle-10-reaper-c22" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is a prisoner in labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c22" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Subject One]] does not remember his name.<ref name="cradle-10-reaper-c22" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Subject One]] has a chamber with thin and gray light.<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] has a throne.<ref name="cradle-10-reaper-c23" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] has a [[throne]].<ref name="cradle-10-reaper-c23" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Subject One]] has an arm that [[Lindon]] can tear off.<ref name="cradle-10-reaper-c23" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|The removal of [[Subject One]] causes the [[hunger aura]] to exceed containment.<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is a humanoid [[Dreadgod]] who held dominion over the [[labyrinth]].<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|The power of the [[labyrinth]] is the power of [[Subject One]].<ref name="cradle-10-reaper-c25" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]]'s remaining will crashed into [[Lindon]].<ref name="cradle-10-reaper-c25" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] died in the [[labyrinth]].<ref name="cradle-10-reaper-c25" />}}</li>
 </ul></div>
 
-== Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|Once a prisoner within the [[labyrinth]], Subject One was a deceased entity possessing a core binding. While restricted to the lower half of the [[labyrinth]], this being implanted a dense knot of hunger into the walls and maintained the ability to consume calls for help. During an encounter in the [[labyrinth]], Subject One became associated with [[Lindon]]'s white hand. Eventually, [[Lindon]] unleashed this arm, which provided the strength necessary to crush the will of the [[Dreadgod]].}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+{{spoiler|book=cradle-10-reaper|As a humanoid [[Dreadgod]], Subject One once held dominion over labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref> The power of labyrinth{{!}}the labyrinth was actually the power of Subject One, and when this entity was removed, its [[hunger aura]] exceeded containment.<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref><ref name="cradle-10-reaper-c25" /> Following this removal, Subject One's remaining will crashed into [[Lindon]].<ref name="cradle-10-reaper-c25" />}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] implanted a dense knot of hunger in the [[labyrinth]] walls.<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] is associated with [[Lindon]]'s white hand.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] was a prisoner in the [[labyrinth]] and is now dead.<ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] has a core binding.<ref name="cradle-11-dreadgod-c4" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] is restricted to the lower half of the [[labyrinth]].<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] was encountered in the [[labyrinth]].<ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] has an arm that helps [[Lindon]] crush the [[Dreadgod]]'s will.<ref name="cradle-11-dreadgod-c16">''Dreadgod'', chapter 16</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] has unleashed the arm of [[Subject One]].<ref name="cradle-11-dreadgod-c18">''Dreadgod'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The removal of [[Subject One]] causes the [[hunger aura]] to exceed containment.<ref name="cradle-10-reaper-c24" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] is a humanoid [[Dreadgod]] who held dominion over labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c25" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The power of labyrinth{{!}}the labyrinth is the power of [[Subject One]].<ref name="cradle-10-reaper-c25" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]]'s remaining will crashed into [[Lindon]].<ref name="cradle-10-reaper-c25" />}}</li>
+</ul></div>
+
+=== {{spoiler|book=cradle-10-reaper|Death in the labyrinth}} ===
+{{spoiler|book=cradle-10-reaper|Subject One met their end within labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c25" />}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|[[Subject One]] died in labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c25" />}}</li>
+</ul></div>
+
+{{spoiler|book=cradle-11-dreadgod|Subject One implanted a dense knot of [[hunger]] within the walls of labyrinth{{!}}the labyrinth.<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref> This entity is associated with Lindon's white arm{{!}}Lindon's white hand and was previously a prisoner in labyrinth{{!}}the labyrinth, though it is now dead.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref><ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref> Possessing a [[core binding]], Subject One was restricted to labyrinth{{!}}the labyrinth's lower half and was encountered within the structure.<ref name="cradle-11-dreadgod-c4" /><ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref><ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] implanted a dense knot of [[hunger]] in labyrinth{{!}}the labyrinth walls.<ref name="cradle-11-dreadgod-c2" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] is associated with Lindon's white arm{{!}}Lindon's white hand.<ref name="cradle-11-dreadgod-c3" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] was a prisoner in labyrinth{{!}}the labyrinth and is now dead.<ref name="cradle-11-dreadgod-c4" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] has a [[core binding]].<ref name="cradle-11-dreadgod-c4" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] is restricted to the lower half of labyrinth{{!}}the labyrinth.<ref name="cradle-11-dreadgod-c6" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] was encountered in labyrinth{{!}}the labyrinth.<ref name="cradle-11-dreadgod-c11" />}}</li>
+</ul></div>
+
+=== {{spoiler|book=cradle-11-dreadgod|Legacy of the arm}} ===
+{{spoiler|book=cradle-11-dreadgod|Subject One possesses an arm that assists [[Lindon]] in crushing the will of the [[Dreadgod]].<ref name="cradle-11-dreadgod-c16">''Dreadgod'', chapter 16</ref> [[Lindon]] eventually unleashes this arm, which also has the unique ability to eat a call for help.<ref name="cradle-11-dreadgod-c18">''Dreadgod'', chapter 18</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] has an arm that helps [[Lindon]] crush the [[Dreadgod]]'s will.<ref name="cradle-11-dreadgod-c16" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] has unleashed the arm of [[Subject One]].<ref name="cradle-11-dreadgod-c18" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Subject One]] has the ability to eat a call for help.<ref name="cradle-11-dreadgod-c18" />}}</li>
 </ul></div>
 
-== Waybound ==
-{{spoiler|book=cradle-12-waybound|Subject One possessed a core binding composed of a unique and irreplaceable material. During an encounter, [[Lindon]] was forced to wrestle one of the entity's arms into submission. As the [[labyrinth]] progressed, pieces of Subject One's body were used as sustenance for the structure. Ultimately, the entity's [[binding]] was fashioned into a horn, and its death serves as a significant point of belief concerning the moment [[Dreadgods]] achieved intelligence.}}
-
+{{spoiler|book=cradle-12-waybound|Subject One possesses a [[core binding]] composed of a unique and irreplaceable material.<ref name="cradle-12-waybound-c4">''Waybound'', chapter 4</ref> This entity has an arm that [[Lindon]] is forced to wrestle into submission.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref> Pieces of Subject One's body are used to feed labyrinth{{!}}the labyrinth.<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref> The death of Subject One serves as a point of belief concerning the era when [[Dreadgods]] gained intelligence.<ref name="cradle-12-waybound-c24">''Waybound'', chapter 24</ref> Additionally, the subject's [[binding]] was worked into a horn.<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|The core binding of [[Subject One]] is a unique and irreplaceable material.<ref name="cradle-12-waybound-c4">''Waybound'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Subject One]] has an arm that [[Lindon]] must wrestle into submission.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[labyrinth]] is fed with pieces of [[Subject One]]'s body.<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The death of [[Subject One]] is a point of belief regarding when [[Dreadgods]] gained intelligence.<ref name="cradle-12-waybound-c24">''Waybound'', chapter 24</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Subject One]]'s [[binding]] was worked into a horn.<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[core binding]] of [[Subject One]] is a unique and irreplaceable material.<ref name="cradle-12-waybound-c4" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Subject One]] has an arm that [[Lindon]] must wrestle into submission.<ref name="cradle-12-waybound-c6" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|western labyrinth{{!}}The labyrinth is fed with pieces of [[Subject One]]'s body.<ref name="cradle-12-waybound-c14" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The death of [[Subject One]] is a point of belief regarding when [[Dreadgods]] gained intelligence.<ref name="cradle-12-waybound-c24" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Subject One]]'s [[binding]] was worked into a horn.<ref name="cradle-12-waybound-c25" />}}</li>
 </ul></div>
 
-== Threshold: Stories from Cradle ==
+{{spoiler|book=cradle-13-threshold|[[Lindon]] is currently making his way toward Subject One.<ref name="cradle-13-threshold-c2">''Threshold: Stories from Cradle'', chapter 2</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|[[Lindon]] is traveling toward [[Subject One]].<ref name="cradle-13-threshold-c2">''Threshold: Stories from Cradle'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Lindon]] is traveling toward [[Subject One]].<ref name="cradle-13-threshold-c2" />}}</li>
 </ul></div>
-
-== Notable quotes ==
-* {{spoiler|book=cradle-10-reaper|“Pardon, but I think you must be Subject One. My name is Lindon.”<ref name="cradle-10-reaper-c21" />}}
 
 == Notes ==
 <references />
@@ -122,5 +139,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Titled characters]]
-[[Category:Dreadgods]]

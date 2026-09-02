@@ -1,7 +1,7 @@
 {{Infobox character
 | name = Jarelys Teach
 | aliases = Jarelys
-| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|fly on a bird}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, Kameira graft}}
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|fly on a bird}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, wields the blade Tyrfang}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, Kameira graft}}
 | titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|General, Guild Head of the Imperial Guard, Head of the Imperial Guard}}
 | affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Imperial Guard]]}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, [[Guild of Magisters|Magister's Guild]]}}
 | professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|General}}
@@ -12,66 +12,73 @@
 ''See also: [[Jarelys Teach Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|Jarelys [[Teach]] is a high-ranking military official serving as the General of the [[Empire]] and the [[Head of the Imperial Guard]]. She is characterized by her intimidating presence, often described as having a cold or piercing gaze that can make others feel as though they are facing an empress. Physically, she maintains a shaved head and wears distinctive red-and-black plate armor. She carries a notable [[sword]] named [[Tyrfang]] over her shoulder. Her physical capabilities and longevity are enhanced by having a [[Kameira]]'s heart, which provides her with increased strength and endurance. This biological modification has also led to potential risks, including the possibility of mental corruption or entering a transformative coma. As a leader, she commands the respect and immediate attention of her guards and is involved in high-level imperial affairs, including guarding the throne and participating in strategic meetings. She has been involved in intense combat, notably against [[Jorin Maze-walker]], and has demonstrated a willingness to protect others at great personal risk.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Jarelys [[Teach]] is a high-ranking military leader serving as the General of The Empire{{!}}the Empire and the Head of the [[Imperial Guard]]. She is characterized by her striking appearance, featuring close-shaved pale hair and piercing icy blue eyes. She typically wears red-and-black plate armor and carries a formidable [[sword]] named [[Tyrfang]] over her shoulder. As a pillar of [[Imperial]] strength, she commands respect and Authority{{!}}authority, often leading squads of guards and maintaining a disciplined, intimidating presence that can make others feel as though they are facing an empress. Her physical capabilities and longevity are enhanced by having a [[Kameira]]'s heart—specifically that of a [[Bonereaver]]—integrated into her body, which provides her with increased endurance and strength. Despite these superhuman qualities, she can still be wounded in combat, such as during a battle with Jorin Curse-breaker{{!}}Jorin Maze-walker. Following significant injuries, she has experienced periods of extreme exhaustion and a transformative coma that raised concerns regarding her mental stability and potential corruption by [[Kameira blood]]. Throughout various political and military conflicts, she has functioned as a key figure in The Empire{{!}}the Empire's defense, participating in strategic meetings and serving as a nominal leader for certain factions.}}
 
-== Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|A General and the [[Guild]] [[Head of the Imperial Guard]], Jarelys [[Teach]] is characterized by her shaved hair, icy blue eyes, and red-and-black plate armor. She poses a significant threat to [[Calder Marten]], who seeks a way to prevent her from killing him and his crew. After returning to her post behind the throne, she arrives on her [[Kameira]] bird. During these events, she also voices her objection to [[Calder]] wearing the [[Emperor's crown]].}}
+== Appearance ==
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Jarelys [[Teach]] is clad in plate armor of red and black. She has undergone physical alterations, including a [[Kameira]] graft and the replacement of her heart with that of a [[Bonereaver]].}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
+== Personality ==
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|As a General and the Head of the [[Imperial Guard]], she holds significant Authority{{!}}authority and possesses the support of the Guild of Magisters{{!}}Magister's Guild. She is viewed as a threat by Imperial Steward Calder Marten{{!}}Calder Marten, particularly because she killed his father and objects to him wearing the Emperor's crown.}}
+
+== Abilities ==
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|She wields a blade known as [[Tyrfang]] and possesses the ability to fly upon a [[Kameira]] bird. Additionally, she has integrated biological components into her body through various grafts.}}
+
+== History ==
+=== {{spoiler|book=ee-sea-01-of-sea-and-shadow|Of Sea and Shadow}} ===
+{{spoiler|book=ee-sea-01-of-sea-and-shadow|Jarelys [[Teach]] serves as a General and the Blackwatch Guild Head{{!}}Guild Head of the [[Imperial Guard]], typically clad in red-and-black plate armor.<ref name="ee-sea-01-of-sea-and-shadow-c14">''Of Sea and Shadow'', chapter 14</ref><ref name="ee-sea-01-of-sea-and-shadow-c18">''Of Sea and Shadow'', chapter 18</ref> Capable of flying upon a bird, she poses a significant threat to [[Calder]].<ref name="ee-sea-01-of-sea-and-shadow-c17">''Of Sea and Shadow'', chapter 17</ref><ref name="ee-sea-01-of-sea-and-shadow-c20">''Of Sea and Shadow'', chapter 20</ref> To avoid being killed by her, Imperial Steward Calder Marten{{!}}Calder Marten seeks a way to prevent her from attacking him and his crew.<ref name="ee-sea-01-of-sea-and-shadow-c20" /> After returning to her post behind the [[throne]], she arrives on her [[Kameira]] bird and expresses objection to [[Calder]] wearing the Emperor's crown.<ref name="ee-sea-01-of-sea-and-shadow-c26">''Of Sea and Shadow'', chapter 26</ref><ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] is a General and [[Guild]] [[Head of the Imperial Guard]].<ref name="ee-sea-01-of-sea-and-shadow-c14">''Of Sea and Shadow'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] has shaved hair and icy blue eyes.<ref name="ee-sea-01-of-sea-and-shadow-c14" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] is a General and Blackwatch Guild Head{{!}}Guild Head of the [[Imperial Guard]].<ref name="ee-sea-01-of-sea-and-shadow-c14" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] wears red-and-black plate armor.<ref name="ee-sea-01-of-sea-and-shadow-c14" />}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] can fly on a bird.<ref name="ee-sea-01-of-sea-and-shadow-c17">''Of Sea and Shadow'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] is a General.<ref name="ee-sea-01-of-sea-and-shadow-c18">''Of Sea and Shadow'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] is a threat to [[Calder]].<ref name="ee-sea-01-of-sea-and-shadow-c20">''Of Sea and Shadow'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] is someone [[Calder Marten]] wants to avoid killing him and his crew.<ref name="ee-sea-01-of-sea-and-shadow-c20" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] can fly on a bird.<ref name="ee-sea-01-of-sea-and-shadow-c17" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] is a General.<ref name="ee-sea-01-of-sea-and-shadow-c18" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] is a threat to [[Calder]].<ref name="ee-sea-01-of-sea-and-shadow-c20" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] is someone Imperial Steward Calder Marten{{!}}Calder Marten wants to avoid killing him and his crew.<ref name="ee-sea-01-of-sea-and-shadow-c20" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] wants something to prevent [[Jarelys Teach]] from killing them.<ref name="ee-sea-01-of-sea-and-shadow-c20" />}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] returned to her post behind the throne.<ref name="ee-sea-01-of-sea-and-shadow-c26">''Of Sea and Shadow'', chapter 26</ref>}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] returns on her [[Kameira]] bird.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] is an individual who objects to [[Calder]] wearing the [[Emperor's crown]].<ref name="ee-sea-01-of-sea-and-shadow-c28" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] returned to her post behind the [[throne]].<ref name="ee-sea-01-of-sea-and-shadow-c26" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] returns on her [[Kameira]] bird.<ref name="ee-sea-01-of-sea-and-shadow-c28" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jarelys Teach]] is an individual who objects to [[Calder]] wearing the Emperor's crown.<ref name="ee-sea-01-of-sea-and-shadow-c28" />}}</li>
 </ul></div>
 
-== Of Dawn and Darkness ==
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|During a meeting of [[Guild Heads]], Jarelys [[Teach]] occupied a seat at one end of the table. Although [[Calder]] owes this individual nothing, Jarelys [[Teach]] is responsible for the death of [[Calder]]'s father. This figure wields the blade known as [[Tyrfang]] and is a necessary presence for the [[Imperial Guard]] to grant [[Bliss]] admission. While [[Meia]] has noted that she fell out of favor with Jarelys [[Teach]], the individual was also seen engaging in combat against [[Jorin Maze-walker]].}}
-
+=== {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Of Dawn and Darkness}} ===
+{{spoiler|book=ee-sea-02-of-dawn-and-darkness|While [[Calder]] owes Jarelys [[Teach]] nothing, she is a necessary figure for the [[Imperial Guard]] to admit Bliss of the Blackwatch{{!}}Bliss.<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref><ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref> During a meeting of [[Guild Heads]], she occupied one end of the table.<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref> [[Teach]] is responsible for the death of [[Calder]]'s father and wields a blade known as [[Tyrfang]].<ref name="ee-sea-02-of-dawn-and-darkness-c12">''Of Dawn and Darkness'', chapter 12</ref><ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref> Her reputation is such that [[Meia]] has mentioned getting on her bad side, and she has even fought Jorin Curse-breaker{{!}}Jorin Maze-walker.<ref name="ee-sea-02-of-dawn-and-darkness-c16">''Of Dawn and Darkness'', chapter 16</ref><ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] owes [[Jarelys Teach]] nothing.<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jarelys Teach]] is required for the [[Imperial Guard]] to admit [[Bliss]].<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jarelys Teach]] sat at one end of the table during a meeting of [[Guild Heads]].<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jarelys Teach]] killed [[Calder]]'s father.<ref name="ee-sea-02-of-dawn-and-darkness-c12">''Of Dawn and Darkness'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jarelys Teach]] wields the blade [[Tyrfang]].<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Meia]] mentions she got on the bad side of [[Jarelys Teach]].<ref name="ee-sea-02-of-dawn-and-darkness-c16">''Of Dawn and Darkness'', chapter 16</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jarelys Teach]] fought [[Jorin Maze-walker]].<ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] owes [[Jarelys Teach]] nothing.<ref name="ee-sea-02-of-dawn-and-darkness-c4" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jarelys Teach]] is required for the [[Imperial Guard]] to admit Bliss of the Blackwatch{{!}}Bliss.<ref name="ee-sea-02-of-dawn-and-darkness-c6" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jarelys Teach]] sat at one end of the table during a meeting of [[Guild Heads]].<ref name="ee-sea-02-of-dawn-and-darkness-c8" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jarelys Teach]] killed [[Calder]]'s father.<ref name="ee-sea-02-of-dawn-and-darkness-c12" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jarelys Teach]] wields the blade [[Tyrfang]].<ref name="ee-sea-02-of-dawn-and-darkness-c14" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Meia]] mentions she got on the bad side of [[Jarelys Teach]].<ref name="ee-sea-02-of-dawn-and-darkness-c16" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Jarelys Teach]] fought Jorin Curse-breaker{{!}}Jorin Maze-walker.<ref name="ee-sea-02-of-dawn-and-darkness-c22" />}}</li>
 </ul></div>
 
-== Of Darkness and Dawn ==
+=== {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Of Darkness and Dawn}} ===
+{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Jarelys [[Teach]] serves as the Head of the [[Imperial Guard]] and is clad in red-and-black armor.<ref name="ee-shadow-02-of-darkness-and-dawn-c5">''Of Darkness and Dawn'', chapter 5</ref> While performing guard duty, she maintains the support of the Guild of Magisters{{!}}Magister's Guild.<ref name="ee-shadow-02-of-darkness-and-dawn-c13">''Of Darkness and Dawn'', chapter 13</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Jarelys Teach]] is the [[Head of the Imperial Guard]] and wears red-and-black armor.<ref name="ee-shadow-02-of-darkness-and-dawn-c5">''Of Darkness and Dawn'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Jarelys Teach]] has the support of the [[Magister]]'s [[Guild]].<ref name="ee-shadow-02-of-darkness-and-dawn-c13">''Of Darkness and Dawn'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Jarelys Teach]] is the Head of the [[Imperial Guard]] and wears red-and-black armor.<ref name="ee-shadow-02-of-darkness-and-dawn-c5" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Jarelys Teach]] has the support of the Guild of Magisters{{!}}Magister's Guild.<ref name="ee-shadow-02-of-darkness-and-dawn-c13" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Jarelys Teach]] is on guard duty.<ref name="ee-shadow-02-of-darkness-and-dawn-c13" />}}</li>
 </ul></div>
 
-== Of Kings and Killers ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|Known as Jarelys, the [[Head of the Imperial Guard]] has undergone significant physical modification by replacing her heart with a [[Kameira]] graft. While recovering from various wounds, she eventually came into contact with [[Rojric]] [[Marten]]. During a confrontation involving [[Jorin]]'s blade, she sustained further injuries. Despite these setbacks, it is revealed that her heart is actually that of a [[Bonereaver]].}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+=== {{spoiler|book=ee-sea-03-of-kings-and-killers|Of Kings and Killers}} ===
+{{spoiler|book=ee-sea-03-of-kings-and-killers|Known as Jarelys, the individual addressed by [[General Teach]] serves as the Head of the [[Imperial Guard]].<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref><ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref> She has undergone a procedure to replace her heart with that of a [[Kameira]].<ref name="ee-sea-03-of-kings-and-killers-c6" /><ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref> While currently recovering from wounds, she has previously made physical contact with Rojric{{!}}Rojric Marten.<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref><ref name="ee-sea-03-of-kings-and-killers-c21">''Of Kings and Killers'', chapter 21</ref> Her internal anatomy includes a [[Kameira]] graft and the heart of a [[Bonereaver]].<ref name="ee-sea-03-of-kings-and-killers-c23" />}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Jarelys is the name [[General Teach]] is addressed by.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jarelys Teach]] is the [[Head of the Imperial Guard]] and has replaced her heart with a [[Kameira]]’s.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jarelys Teach]] is a character currently in recovery from wounds.<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jarelys Teach]] touched [[Rojric]] [[Marten]].<ref name="ee-sea-03-of-kings-and-killers-c21">''Of Kings and Killers'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jarelys Teach]] was wounded by [[Jorin]]'s blade.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Jarelys Teach{{!}}Jarelys is the name [[General Teach]] is addressed by.<ref name="ee-sea-03-of-kings-and-killers-c2" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jarelys Teach]] is the Head of the [[Imperial Guard]] and has replaced her heart with a [[Kameira]]’s.<ref name="ee-sea-03-of-kings-and-killers-c6" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jarelys Teach]] is a character currently in recovery from wounds.<ref name="ee-sea-03-of-kings-and-killers-c9" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jarelys Teach]] touched Rojric{{!}}Rojric Marten.<ref name="ee-sea-03-of-kings-and-killers-c21" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jarelys Teach]] has the heart of a [[Bonereaver]].<ref name="ee-sea-03-of-kings-and-killers-c23" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jarelys Teach]] has a [[Kameira]] graft.<ref name="ee-sea-03-of-kings-and-killers-c23" />}}</li>
 </ul></div>
 
-== Of Killers and Kings ==
+=== {{spoiler|book=ee-shadow-03-of-killers-and-kings|Of Killers and Kings}} ===
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Jarelys [[Teach]] serves as the Head of the [[Imperial Guard]] and is currently in a transformative coma.<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Jarelys Teach]] is the [[Head of the Imperial Guard]] and is in a transformative coma.<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Jarelys Teach]] is the Head of the [[Imperial Guard]] and is in a transformative coma.<ref name="ee-shadow-03-of-killers-and-kings-c20" />}}</li>
 </ul></div>
 
 == Notes ==
@@ -87,5 +94,3 @@
 [[Category:Of Killers and Kings]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire characters]]
-[[Category:Imperial Guard]]
-[[Category:Titled characters]]

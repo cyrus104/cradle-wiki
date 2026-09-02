@@ -1,15 +1,14 @@
 {{Infobox location
 | name = Akura vault
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 == Underlord ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Akura vault]] contains [[natural treasures]].<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|The [[Akura vault]] is a location with a [[gate]].<ref name="cradle-06-underlord-c18">''Underlord'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|The [[Akura vault]] is a location with a gate.<ref name="cradle-06-underlord-c18">''Underlord'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The [[Akura vault]] is an enormous interior that extends into a mountain.<ref name="cradle-06-underlord-c18" />}}</li>
-<li>{{spoiler|book=cradle-06-underlord|The [[Akura vault]] is difficult to break.<ref name="cradle-06-underlord-c18" />}}</li>
 </ul></div>
 
 == Notes ==
@@ -21,4 +20,3 @@
 [[Category:Underlord]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Structures]]

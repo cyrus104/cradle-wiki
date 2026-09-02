@@ -1,0 +1,38 @@
+{{Infobox location
+| name = the Valley
+| introduced = [[Uncrowned (novel)|Uncrowned]]
+}}
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|Entering [[the Valley]] makes one's [[spirit]] weaker.<ref name="cradle-07-uncrowned-c1">''Uncrowned'', chapter 1</ref>}}</li>
+</ul></div>
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|The the Valley{{!}}Valley is the location [[Lindon]] returned to.<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[Titan]] could reach [[the Valley]] within an hour.<ref name="cradle-09-bloodline-c13">''Bloodline'', chapter 13</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[Redmoon Hall]] members are the most advanced [[sacred artists]] in [[the Valley]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-07-uncrowned|“You said that entering the Valley made your spirit weaker.<ref name="cradle-07-uncrowned-c1" />}}
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Locations]]
+[[Category:Uncrowned]]
+[[Category:Bloodline]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle locations]]

@@ -1,10 +1,10 @@
 {{Infobox location
 | name = Red District
-| introduced = The Crimson Vault
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|The [[Red]] District is one of the nine colored sectors within the [[City of Light]]. Its entrance is distinguished by a door that is notably wider than all other district entrances, appearing designed to accommodate the passage of wagons. Within this area, the urban layout is characterized by a highly organized structure consisting of perfect squares.}}
+{{spoiler|book=tg-03-city-of-light|The [[Red]] District is one of the nine colored sectors that make up the [[City of Light]]. It is characterized by an urban layout where everything is organized into precise squares, a feature that assists in monitoring multiple streets simultaneously. The entrance to this district is marked by an exceptionally wide door, designed specifically to allow the passage of wagons. While it is one of several distinct areas within the city, it is noted for having empty streets when traveling from the [[Violet District]].}}
 
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
@@ -31,4 +31,3 @@
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate locations]]
-[[Category:Regions]]

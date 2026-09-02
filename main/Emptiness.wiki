@@ -2,13 +2,13 @@
 
 {{Infobox concept
 | name = Emptiness
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|[[Emptiness]] is a property of [[pure madra]] where it dilutes other aspects and takes their place.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Emptiness]] is a property of [[pure madra]] where it dilutes other [[aspects]] and takes their place.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Emptiness]] is a principle [[Lindon]] tries to incorporate into his [[Heart of Twin Stars]].<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}</li>
 </ul></div>
 
@@ -21,4 +21,3 @@
 [[Category:Wintersteel]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Terminology]]

@@ -2,7 +2,7 @@
 
 {{Infobox location
 | name = Phantom Islands
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 == Uncrowned ==
@@ -14,7 +14,7 @@
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Phantom Islands]] is a location outside [[Moongrave]] that [[Mercy's mother]] created for [[Charity]]’s training.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Phantom Islands]] is a location outside [[Moongrave]] that [[Mercy]]'s mother created for [[Charity]]’s training.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -27,4 +27,3 @@
 [[Category:Wintersteel]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Regions]]

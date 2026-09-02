@@ -1,10 +1,10 @@
 {{Infobox concept
 | name = Reader burn
-| introduced = Of Shadow and Sea
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Reader]] burn is a physical and mental affliction experienced by [[Readers]] when they overextend their abilities or attempt to manipulate more power than their bodies can handle. This condition manifests as intense cranial pain, often described as a sensation of being crushed, a throbbing headache, or a feeling similar to swallowing snow. In severe cases, the pain can be debilitating enough to knock an individual unconscious or render them useless. The ailment occurs when a [[Reader]]'s capacity for using their powers exceeds their physical constitution, such as when they attempt to perform active [[Reading]] too quickly or interact with exceptionally powerful [[Intent]]. While it can be triggered by the rapid [[Awakening]] of objects, it is also a risk when attempting to examine the [[Intent]] of [[Elders]] or [[Imperial relics]], which can lead to insanity or madness.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Reader burn is a physical and mental affliction experienced by [[Readers]] when they overextend their abilities or attempt to manipulate [[Intent]] that exceeds their personal constitution. The condition manifests as intense cranial pain, often described as a throbbing sensation, a crushing feeling, or an internal drilling. Some individuals compare the sensation to swallowing snow or experiencing a severe headache that can lead to nosebleeds. If a Reader continues to push their limits while suffering from this condition, the pain can become debilitating enough to knock them unconscious or render them useless. The severity of the burn is often linked to the strength of the [[Intent]] being processed, such as when a Reader attempts to interact with powerful [[Imperial relics]] or the direct essence of [[Elders]], which can lead to insanity.}}
 
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -24,7 +24,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] experiences the beginnings of [[Reader burn]] in his head.<ref name="ee-sea-03-of-kings-and-killers-c14">''Of Kings and Killers'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Focusing on a [[Reader's trance]] can cause a sensation known as [[Reader burn]].<ref name="ee-sea-03-of-kings-and-killers-c18">''Of Kings and Killers'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Reader burn]] is a weakness that occurs when a [[Reader]]'s ability outpaces their constitution.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Reader burn]] is a weakness that occurs when a Reader's ability outpaces their constitution.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
 </ul></div>
 
 == Of Killers and Kings ==
@@ -45,4 +45,3 @@
 [[Category:Of Killers and Kings]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire concepts]]
-[[Category:Terminology]]

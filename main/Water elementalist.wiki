@@ -1,0 +1,40 @@
+{{Infobox technique
+| name = water elementalist
+| introduced = [[The Captain (novel)|The Captain]]
+}}
+
+== The Captain ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|The protagonist is a skilled [[water elementalist]].<ref name="lh-01-the-captain-c4">''The Captain'', chapter 4</ref>}}</li>
+</ul></div>
+
+== The Engineer ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|A [[water elementalist]] can summon rabbit-spirits and conjure pieces of former enemies or crew members.<ref name="lh-02-the-engineer-c24">''The Engineer'', chapter 24</ref>}}</li>
+</ul></div>
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|The narrator aspires to be a [[water elementalist]].<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|A [[water elementalist]] can detect dangerous monsters in a sea using the [[Aether]].<ref name="lh-04-the-pilot-c7">''The Pilot'', chapter 7</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Techniques]]
+[[Category:The Captain]]
+[[Category:The Engineer]]
+[[Category:The Knight]]
+[[Category:The Pilot]]
+[[Category:The Last Horizon]]

@@ -1,12 +1,12 @@
 {{Infobox location
 | name = Valinhall armory
-| introduced = House of Blades
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|[[Simon's sword]] replica came from the [[Valinhall armory]].<ref name="tg-01-house-of-blades-c11">''House of Blades'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Simon]]'s [[sword]] replica came from the [[Valinhall armory]].<ref name="tg-01-house-of-blades-c11">''House of Blades'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The [[Valinhall armory]] is a place with traps.<ref name="tg-01-house-of-blades-c15">''House of Blades'', chapter 15</ref>}}</li>
 </ul></div>
 
@@ -33,4 +33,3 @@
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate locations]]
-[[Category:Structures]]

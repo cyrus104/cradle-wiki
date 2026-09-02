@@ -1,0 +1,39 @@
+{{Infobox artifact
+| name = gatekey
+| introduced = [[Skysworn (novel)|Skysworn]]
+}}
+
+== Overview ==
+{{spoiler|book=cradle-08-wintersteel|A gatekey is a highly valuable and sophisticated artifact used to manipulate space. These devices can be utilized to create portals that transport users to specific locations, often targeting a [[scripted stone]] anchor. While they are difficult and time-consuming to manufacture, the cost of operating them is relatively low compared to their initial creation. Some gatekeys are designed for one-way travel, and certain versions can be used to access a private, internal space. A specific variation known as a [[void key]] contains such a private area and is quite rare, even among powerful individuals. Unlike [[gatestones]], which must be destroyed to function, a gatekey can be used repeatedly without being broken. Gatekeys are also used as security measures; some are custom-made for specific jailers and will shatter if they detect the wrong type of power, while others serve as keys to unlock complex doors and facilities.}}
+
+== Skysworn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-04-skysworn|[[Eithan]]'s [[gatekey]] is made of purple-tinted black crystal and pulses like a heart.<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|A [[gatekey]] can be used without breaking it, unlike a [[gatestone]].<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|A [[gatekey]] is more valuable than a [[gatestone]].<ref name="cradle-05-ghostwater-c15" />}}</li>
+</ul></div>
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|A [[gatekey]] is a tool that creates a [[portal]] to one specific spot.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[gatekey]] that took the group used works only in one direction.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Skysworn]]
+[[Category:Ghostwater]]
+[[Category:Wintersteel]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

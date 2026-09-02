@@ -1,6 +1,6 @@
 {{Infobox location
 | name = Luminian cathedral
-| introduced = Of Shadow and Sea
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 == Of Shadow and Sea ==
@@ -14,7 +14,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Luminian cathedral]] is located in the center of the citadel.<ref name="ee-shadow-02-of-darkness-and-dawn-c8">''Of Darkness and Dawn'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The entrance columns of the [[Luminian cathedral]] are carved with reliefs of famous historical heroes, including [[Loreli]].<ref name="ee-shadow-02-of-darkness-and-dawn-c8" />}}</li>
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Luminian cathedral]] features stained glass depicting [[Emperor (Elder Empire)|the Emperor]].<ref name="ee-shadow-02-of-darkness-and-dawn-c8" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Luminian cathedral]] features stained glass depicting the Emperor.<ref name="ee-shadow-02-of-darkness-and-dawn-c8" />}}</li>
 </ul></div>
 
 == Notes ==
@@ -27,4 +27,3 @@
 [[Category:Of Darkness and Dawn]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire locations]]
-[[Category:Structures]]

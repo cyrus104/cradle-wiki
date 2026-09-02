@@ -2,7 +2,7 @@
 
 {{Infobox location
 | name = Aurelian Heartlands
-| introduced = Of Sea and Shadow
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 == Of Sea and Shadow ==
@@ -14,7 +14,7 @@
 == Of Kings and Killers ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Aurelian]] [[Heartland]] is a region where people are looking up at the breaking sky.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Aurelian Heartlands{{!}}Aurelian Heartland is a region where people are looking up at the breaking sky.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -27,4 +27,3 @@
 [[Category:Of Kings and Killers]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire locations]]
-[[Category:Regions]]

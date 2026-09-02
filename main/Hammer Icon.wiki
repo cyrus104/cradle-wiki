@@ -1,6 +1,6 @@
 {{Infobox sacred-art
 | name = Hammer Icon
-| introduced = Waybound
+| introduced = [[Waybound (novel)|Waybound]]
 }}
 
 == Waybound ==
@@ -13,7 +13,7 @@
 == Threshold: Stories from Cradle ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|The [[Hammer Icon]] is an icon that resonated with the sight of the soul-filled geode fragment.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Hammer Icon]] is an icon that resonated with the sight of the soul-filled geode [[fragment]].<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Lindon]] tapped into the [[Hammer Icon]] and the [[Void Icon]] together.<ref name="cradle-13-threshold-c12" />}}</li>
 </ul></div>
 

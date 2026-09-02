@@ -1,12 +1,12 @@
 {{Infobox location
 | name = Haven
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Haven Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|Haven is an iteration classified as a prison-world belonging to the [[Abidan]]. It serves as one of several important worlds, alongside [[Cradle]], [[Sanctum]], and [[Asylum]], which the [[Abidan]] protect and quarantine to act as a final defense against infinite chaos. From orbit, the world resembles an iron prison. It is used to house inmates, many of whom wear simple white cloth provided by the facility, and it has served as a place of imprisonment for individuals such as [[the Mad King]], [[Daruman]]. The world contains highly secure [[Abidan]] facilities and vaults, including one that houses various amplification crystals and rune-boards. Additionally, Haven is used as a storage site for twelve failed attempts by [[Makiel]] to replicate the true Scythe of the [[Reaper]]. While it is a secure location, its defenses have been breached, leading to the release of inmates and resulting in spatial breaches within the iteration.}}
+{{spoiler|book=cradle-12-waybound|Haven is a world designated as a prison-world by the [[Abidan]]. It serves as a secure location for the quarantine and collection of important worlds to protect them from infinite chaos, even during a total system collapse. Visually, the world resembles an Iron{{!}}iron prison when viewed from orbit. It contains highly secure [[Abidan]] facilities, including a [[vault]]-world that houses various treasures and amplification crystals. The world is also noted as the birthplace of [[Subject One]]. Haven's inmates typically wear simple white cloth, and the prison is inhabited by individuals such as The Mad King{{!}}the Mad King, [[Daruman]]. While it functions as a place of confinement, its defenses are significant; however, the world has experienced spatial breaches and instances where its security was intentionally broken to allow inmates to spread discord.}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -15,20 +15,19 @@
 </ul></div>
 
 == Uncrowned ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|[[Haven]] is a [[vault]]-world containing secure [[Abidan]] facilities.<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[Makiel]] stored twelve of his experimental [[scythe]] failures in [[Haven]].<ref name="cradle-07-uncrowned-c2" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Makiel]] stored twelve of his experimental scythe failures in [[Haven]].<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
 </ul></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|Haven serves as the prison-world for the [[Abidan]], characterized by its appearance as a massive iron prison. This location has previously held members of the [[Silverlords]] during their terms of incarceration. Although it is a secure prison-world, Haven is a location that can be breached. This vulnerability was demonstrated when [[the Mad King]] successfully broke out from the depths of the world.}}
+{{spoiler|book=cradle-10-reaper|Haven serves as the prison-world for the [[Abidan]], characterized by its resemblance to a massive Iron{{!}}iron prison. This location has previously held members of the [[Silverlords]] during their terms of incarceration. Although it is a secure facility, Haven is a location that can be breached. This vulnerability was demonstrated when The Mad King{{!}}the Mad King successfully broke out from the depths of the world.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Haven]] is the prison-world of the [[Abidan]].<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Silverlords]] had served a term in [[Haven]].<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Haven]] is a prison-world that resembles an iron prison.<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Haven]] is a prison-world that resembles an Iron{{!}}iron prison.<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Haven]] is a location that can be breached.<ref name="cradle-10-reaper-c22" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[The Mad King]] broke out of the depths of [[Haven]].<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
 </ul></div>
@@ -36,7 +35,7 @@
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Haven]] is a place where [[Ozriel]] could be tossed.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Haven]] is a place where Ozriel could be tossed.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
 </ul></div>
 
 == Waybound ==
@@ -62,4 +61,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Otherworldly locations]]

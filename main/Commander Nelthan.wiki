@@ -9,7 +9,7 @@
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|[[Nelthan]] is a [[Commander]] of the [[GSS Kholien]].<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Nelthan is a [[Commander]] of the [[GSS Kholien]].<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -24,4 +24,3 @@
 [[Category:The Captain]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon characters]]
-[[Category:Viewpoint characters]]

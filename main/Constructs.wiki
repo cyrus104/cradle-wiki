@@ -1,0 +1,29 @@
+{{Expand}}
+
+{{Infobox concept
+| name = constructs
+| introduced = [[Soulsmith (novel)|Soulsmith]]
+}}
+
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|[[Lindon]] maintains [[constructs]] during the day.<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|Constructs can have script-circle{{!}}script-circles inscribed on them to contain [[madra]] or serve other functions.<ref name="cradle-05-ghostwater-c6">''Ghostwater'', chapter 6</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Concepts]]
+[[Category:Soulsmith]]
+[[Category:Ghostwater]]
+[[Category:Cradle]]
+[[Category:Cradle concepts]]

@@ -10,7 +10,7 @@
 == Threshold: Stories from Cradle ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|[[Eithan's Presence]] is a mental copy of himself brought to [[life]] with independence.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Eithan's Presence]] is a mental copy of himself brought to life with independence.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Eithan's Presence]] is a six-inch tall figure with long blond hair and colorful outer robes.<ref name="cradle-13-threshold-c7" />}}</li>
 </ul></div>
 
@@ -23,4 +23,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Remnants]]

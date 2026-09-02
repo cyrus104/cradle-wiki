@@ -1,4 +1,53 @@
-#REDIRECT [[force-blade]]
+{{Infobox artifact
+| name = force-blade
+| introduced = [[The Captain (novel)|The Captain]]
+}}
+
+''See also: [[force-blade Timeline]]''
+
+== Overview ==
+{{spoiler|book=lh-04-the-pilot|A force-blade is a weapon consisting of a hilt that, when activated, ignites a laser-edged plane of light. These blades vary significantly in appearance, manifesting in colors such as gold, red, white, blue, [[sapphire]], and orange. They range in size from standard three-foot or five-foot lengths to massive broadswords that can be as large as the user's body, and some are even scaled to fit mechs. While they can be carried on a belt or hip, they are often used in conjunction with [[Combat Arts]], which allow users to channel [[Aether]] to perform specialized strikes, create shields of flame, or release massive waves of energy. Although they are highly effective in duels and combat, some versions are specifically tuned to be weaker than protective armor so that they may injure rather than kill opponents. However, when combined with powerful techniques or used by certain entities, they can be devastating enough to bisect targets or even delete them from existence.}}
+
+== The Captain ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|Queen Shyrax{{!}}Shyrax uses a [[force-blade]] that ignites with golden brilliance.<ref name="lh-01-the-captain-c12">''The Captain'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|A [[force-blade]] can be activated by thumbing its hilt to produce a laser-edged plane of light.<ref name="lh-01-the-captain-c14">''The Captain'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Raion Raithe{{!}}Raion possesses a [[force-blade]].<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Raion Raithe{{!}}Raion drew a [[force-blade]] while in his [[Divine Titan]].<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
+</ul></div>
+
+== The Engineer ==
+{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]] is known to carry and utilize a force-blade during her reign. While she possesses a generic version of the weapon, other individuals also wield these implements. Notably, [[Raion Raithe]] employs a force-blade during his encounters, eventually using the weapon to stab [[Starhammer]].}}
+
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]] carries a [[force-blade]].<ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax uses a [[force-blade]].<ref name="lh-02-the-engineer-c3" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax carries a generic [[force-blade]].<ref name="lh-02-the-engineer-c10">''The Engineer'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Raion Raithe]] uses a [[force-blade]].<ref name="lh-02-the-engineer-c37">''The Engineer'', chapter 37</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Raion Raithe{{!}}Raion stabbed [[Starhammer]] with his [[force-blade]].<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}</li>
+</ul></div>
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|[[Force]]-blades are arena equipment tuned to be weaker than protective gear.<ref name="lh-03-the-knight-c27">''The Knight'', chapter 27</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila uses a [[force-blade]] in combat.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|A [[force-blade]] is a type of weapon distinct from metal swords.<ref name="lh-04-the-pilot-c1" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|A [[force-blade]] is a weapon capable of carving through creatures.<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila uses a bright orange [[force-blade]].<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
 
 [[Category:Artifacts]]
 [[Category:The Captain]]

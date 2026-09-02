@@ -2,13 +2,13 @@
 
 {{Infobox starship
 | name = GSS Kholien
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|[[GSS Kholien]] is a ship commanded by [[Nelthan]].<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[GSS Kholien]] is a ship commanded by Nelthan.<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
 </ul></div>
 
 == The Knight ==

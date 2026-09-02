@@ -2,17 +2,17 @@
 
 {{Infobox artifact
 | name = Diamond Veins elixir
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|The [[Diamond Veins elixir]] is an elixir that can make madra channels pure and resilient as a [[diamond]].<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Diamond Veins elixir]] is an elixirs{{!}}elixir that can make [[madra channels]] pure and resilient as a diamond.<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=cradle-07-uncrowned|"It’s called a Diamond Veins elixir," the voice went on, "You have to cycle it a little at a time over the next three days, but it’s said to make your madra channels as pure and resilient as a diamond."<ref name="cradle-07-uncrowned-c19" />}}
+* {{spoiler|book=cradle-07-uncrowned|“You have to cycle it a little at a time over the next three days, but it’s said to make your madra channels as pure and resilient as a diamond.”<ref name="cradle-07-uncrowned-c19" />}}
 
 == Notes ==
 <references />

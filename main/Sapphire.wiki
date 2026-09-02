@@ -1,0 +1,36 @@
+{{Infobox artifact
+| name = sapphire
+| introduced = [[Ghostwater (novel)|Ghostwater]]
+}}
+
+== Overview ==
+{{spoiler|book=cradle-08-wintersteel|Sapphires are multifaceted gemstones that can appear in various forms and colors. While typically known for casting blue light, some specimens exhibit flickering white and green internal lights or a gradient of multiple colors. They can be found as [[natural treasures]], such as those held in metal cages on scripted metal trees, or as round-cut gems roughly the size of a human fist. These stones can serve as vessels for internal [[constructs]] and [[scripts]]; however, if the sapphire is cracked or damaged, it may leak [[madra]], potentially causing the internal [[construct]] to lose its structure and eventually dissolve. A sapphire that has lost its internal power may appear dull or dead. Beyond their use as containers, the term is also associated with specific magical manifestations, such as spheres of sapphire [[madra]] and [[aura]] or eyes that take on a solid, oceanic blue appearance.}}
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] has a fist-sized [[sapphire]].<ref name="cradle-05-ghostwater-c5">''Ghostwater'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The [[sapphire]] is dull and dead.<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] has a cracked [[sapphire]] that once housed the [[Eye of the Deep]] [[construct]].<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Akura Harmony]] has a [[sapphire]] that shimmers with a gradient of colors.<ref name="cradle-05-ghostwater-c15" />}}</li>
+</ul></div>
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]]'s eyes turned solid, oceanic blue like sapphire{{!}}sapphires.<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-05-ghostwater|tossing the dull sapphire next to his head. “It's dead.<ref name="cradle-05-ghostwater-c9" />}}
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Ghostwater]]
+[[Category:Wintersteel]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

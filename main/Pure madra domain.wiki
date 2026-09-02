@@ -1,0 +1,21 @@
+{{Expand}}
+
+{{Infobox technique
+| name = pure madra domain
+| introduced = [[Waybound (novel)|Waybound]]
+}}
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]]'s [[pure madra domain]] is a blue-white sphere.<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Techniques]]
+[[Category:Waybound]]
+[[Category:Cradle]]

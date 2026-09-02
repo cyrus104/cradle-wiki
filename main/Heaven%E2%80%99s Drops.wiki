@@ -2,14 +2,14 @@
 
 {{Infobox artifact
 | name = Heaven’s Drops
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|The [[Heaven’s Drops]] are four transparent gray-green orbs wrapped in rings of [[Forged]] script that can improve cycling quality.<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|Heaven's Drops appear gray and dull in the air.<ref name="cradle-06-underlord-c8" />}}</li>
+<li>{{spoiler|book=cradle-06-underlord|The [[Heaven’s Drops]] are four transparent gray-green orbs wrapped in rings of [[Forged]] Script{{!}}script that can improve [[cycling]] quality.<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|Heaven’s Drops{{!}}Heaven's Drops appear gray and dull in the air.<ref name="cradle-06-underlord-c8" />}}</li>
 </ul></div>
 
 == Notes ==

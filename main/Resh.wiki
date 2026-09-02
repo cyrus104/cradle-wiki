@@ -1,3 +1,5 @@
+{{Expand}}
+
 {{Infobox character
 | name = Resh
 | appears_in = Cradle
@@ -5,12 +7,14 @@
 }}
 
 == Soulsmith ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|[[Resh]] is a member of the [[Sandvipers]].<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|[[Resh]] reluctantly met [[Yerin]]'s eyes.<ref name="cradle-02-soulsmith-c5" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Resh]] reluctantly met [[Yerin]]'s eyes.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Resh]] is a member of the [[Sandviper sect]] who was defeated by a [[Copper]].<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
 </ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-02-soulsmith|“No, that’s not…the Copper’s just strange, sir. Not important. The important thing is that she beat Sandviper Resh in the middle of her squad, and then walked away with one of the Jai clan.<ref name="cradle-02-soulsmith-c7" />}}
 
 == Notes ==
 <references />

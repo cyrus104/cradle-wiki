@@ -1,0 +1,46 @@
+{{Infobox artifact
+| name = wand
+| introduced = [[The Captain (novel)|The Captain]]
+}}
+
+== Overview ==
+{{spoiler|book=lh-04-the-pilot|A wand is a magical tool used by wizards to channel and focus their magic through the [[Aether]]. These implements serve as precision instruments, allowing a caster to direct spells toward specific targets or create focused elemental attacks, such as beams of [[water]] or concentrated bursts of light. While they provide accuracy and control for single-target spells, they are less effective for wide-area magic compared to a staff. Wands can also be used to manifest defensive seals, create illusory images, or trace runes and symbols in the air. Physically, wands vary significantly in appearance and construction. Some models possess a technological aesthetic, featuring metal plating, titanium, or [[steel]] that may buzz with energy. Others are crafted from organic materials like braided bone or gold-plated bone, while some appear as delicate silver instruments with gemstone tips. Certain wands are large enough to function like a staff, and some may even serve as symbolic items in digital environments. In certain social hierarchies, specific classes of magical focuses are reserved for members of the royal family or their advisors. While they are primary tools for combat and utility, a wand can also be used to perform tasks like sealing engines or blocking alarms.}}
+
+== The Captain ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|[[Varic Vallenar]] carries a [[wand]] that glows like neon [[sapphire]] and buzzes.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The narrator carries a [[wand]].<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The narrator uses a [[wand]] to tap into their element.<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
+</ul></div>
+
+== The Engineer ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|The narrator uses a [[wand]] to trace defensive enchantments.<ref name="lh-02-the-engineer-c10">''The Engineer'', chapter 10</ref>}}</li>
+</ul></div>
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|The narrator possesses a [[wand]] made of titanium and blue crystal.<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|The narrator uses a [[wand]] to trace golden runes for spells.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Artifacts]]
+[[Category:The Captain]]
+[[Category:The Engineer]]
+[[Category:The Knight]]
+[[Category:The Pilot]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon artifacts]]

@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = blood elixir
+| introduced = [[Ghostwater (novel)|Ghostwater]]
+}}
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|A [[blood elixir]] restored most of the meat in [[Mercy]]'s leg.<ref name="cradle-05-ghostwater-c17">''Ghostwater'', chapter 17</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Ghostwater]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

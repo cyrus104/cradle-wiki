@@ -1,0 +1,23 @@
+{{Expand}}
+
+{{Infobox character
+| name = worms
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
+}}
+
+== House of Blades ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-01-house-of-blades|There are [[worms]] in the cave that [[Simon]] fears.<ref name="tg-01-house-of-blades-c12">''House of Blades'', chapter 12</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Characters]]
+[[Category:House of Blades]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate characters]]

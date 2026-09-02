@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = hunger artifact
+| introduced = [[Waybound (novel)|Waybound]]
+}}
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[Jai Chen]]'s [[Path]] is combined by means of a [[hunger artifact]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

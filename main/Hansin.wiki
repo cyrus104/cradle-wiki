@@ -7,17 +7,22 @@
 }}
 
 == Overview ==
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Hansin is a [[Mason]] who has served for twenty years as an undercover guard at the [[Imperial Palace]]. He has functioned as a regular guard for [[Lucan]] and is known to [[Shera]], an acquaintance who has visited him many times. His attire typically consists of [[Consultant]]'s blacks, including a black-dyed chain vest and a helmet, though he carries combat equipment such as a [[sword]], a [[pistol]], knives in his boots, and a ring of keys. Throughout his service, he has been involved in inspecting deliveries to prisoners and managing secret entrances, such as a concealed door within a tree trunk. He has also experienced physical trauma, including being struck with an alchemical needle in the neck.}}
+{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Hansin is a [[Mason]] who has served for two decades as an undercover guard at the [[Imperial]] Palace. He has functioned as a regular guard for [[Lucan]] and is known to [[Shera]], an acquaintance who has visited him many times. His attire typically consists of [[Consultant]]'s blacks, including a black-dyed chain vest and a helmet, though he carries various weapons such as a [[sword]], a pistol, knives, and an [[alchemical needle]]. In his capacity as a guard, he is responsible for inspecting deliveries to prisoners and managing access through various doors, including a concealed trap door and a secret compartment in a tree. Throughout his service, he has experienced moments of distress, including being struck with an [[alchemical needle]] and witnessing alarming events in the sky.}}
+
+== Appearance ==
+{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Hansin is a [[Mason]] guard who wears an armored uniform. A stinging sensation can be felt on their neck.}}
+
+== Personality ==
+{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Hansin serves as a guard for [[Lucan]] and has previously been tasked with watching over different cells. They have demonstrated physical aggression by shoving a guard while accompanying [[Shera]].}}
 
 == Of Shadow and Sea ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Hansin]] is a character who provides gossip.<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Hansin]] is a [[Mason]] guard who watches over [[Lucan]].<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
 </ul></div>
 
 == Of Darkness and Dawn ==
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Hansin is a [[Mason]] who previously served as a guard assigned to a different cell. While wearing an armored uniform, he was discovered in an unconscious state with a stinging sensation in his neck. Later, he shoved a guard and chose to accompany [[Shera]].}}
+{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Hansin is a [[Mason]] who serves as a guard and wears an armored uniform. While previously assigned to guarding a different cell, he was discovered in an unconscious state with a stinging sensation in his neck. Later, he shoved a guard and chose to accompany [[Shera]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -38,5 +43,3 @@
 [[Category:Of Darkness and Dawn]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire characters]]
-[[Category:Mason]]
-[[Category:Soldiers]]

@@ -2,13 +2,13 @@
 
 {{Infobox artifact
 | name = Mantle of Ozriel
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|The [[Mantle of Ozriel]] is a cape of shadow.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Mantle of Ozriel]] is a cape of Shadow{{!}}shadow.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}</li>
 </ul></div>
 
 == Reaper ==

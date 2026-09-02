@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox location
+| name = stone tower
+| introduced = [[Ghostwater (novel)|Ghostwater]]
+}}
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|A rocky tower rises from the sand.<ref name="cradle-05-ghostwater-c5">''Ghostwater'', chapter 5</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Locations]]
+[[Category:Ghostwater]]
+[[Category:Cradle]]
+[[Category:Cradle locations]]

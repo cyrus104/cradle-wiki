@@ -2,13 +2,13 @@
 
 {{Infobox concept
 | name = High Priestess of the Void (The Elder Empire: Shadow)
-| introduced = Of Killers and Kings
+| introduced = [[Of Killers and Kings (novel)|Of Killers and Kings]]
 }}
 
 == Of Killers and Kings ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Jyrine]] is addressed as the High Priestess of the Void by a shadow voice.<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Jyrine Tessella Marten{{!}}Jyrine is addressed as the High Priestess of the Void by a Shadow{{!}}shadow voice.<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -23,4 +23,3 @@
 [[Category:Of Killers and Kings]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire concepts]]
-[[Category:Titles]]

@@ -2,13 +2,13 @@
 
 {{Infobox location
 | name = Perfected research station
-| introduced = The Pilot
+| introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|The [[Perfected research station]] has a data core.<ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Perfected research station]] has a [[data core]].<ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -20,4 +20,3 @@
 [[Category:The Pilot]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon locations]]
-[[Category:Structures]]

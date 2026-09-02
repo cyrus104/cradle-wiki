@@ -1,19 +1,19 @@
 {{Infobox concept
 | name = Spiritual pressure
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|[[Spiritual pressure]] is a phenomenon where the spirit recognizes superior power.<ref name="cradle-08-wintersteel-c23">''Wintersteel'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Spiritual pressure]] is a phenomenon where the [[spirit]] recognizes superior power.<ref name="cradle-08-wintersteel-c23">''Wintersteel'', chapter 23</ref>}}</li>
 </ul></div>
 
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Spiritual pressure]] is behaving strangely due to an approaching disaster.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|[[Spiritual pressure]] can be exerted using spirit.<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Spiritual pressure]] can be exerted using [[spirit]].<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -26,4 +26,3 @@
 [[Category:Bloodline]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Terminology]]

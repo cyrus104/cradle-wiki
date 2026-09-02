@@ -2,13 +2,13 @@
 
 {{Infobox construct
 | name = obelisks (Cradle)
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|Stone monuments covered in rings of script blink into existence during the event.<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|Stone monuments covered in rings of Script{{!}}script blink into existence during the event.<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Uncrowned ==

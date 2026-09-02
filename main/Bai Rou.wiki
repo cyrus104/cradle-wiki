@@ -1,7 +1,7 @@
 {{Infobox character
 | name = Bai Rou
 | spouse = {{spoiler|book=cradle-04-skysworn|[[Renfei]]}}
-| abilities = {{spoiler|book=cradle-04-skysworn|forge Amberwell madra}}{{spoiler|book=cradle-05-ghostwater|, use yellow madra, [[Ruler technique]]}}
+| abilities = {{spoiler|book=cradle-04-skysworn|forge Amberwell madra}}{{spoiler|book=cradle-05-ghostwater|, use yellow madra, [[Ruler technique]], [[yellow madra]]}}
 | titles = {{spoiler|book=cradle-04-skysworn|[[Truegold]]}}{{spoiler|book=cradle-05-ghostwater|, [[Lowgold]]}}
 | affiliations = {{spoiler|book=cradle-04-skysworn|[[Skysworn]]}}
 | appears_in = Cradle
@@ -11,57 +11,56 @@
 ''See also: [[Bai Rou Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-06-underlord|Bai Rou is a member of the [[Skysworn]], serving alongside his partner [[Renfei]]. He is a physically imposing man with a massive, broad build that makes him appear as solid as a wall. He typically wears green armor and a wide-brimmed hat woven from dried stalks or reeds, which keeps his face in shadow except for his bright yellow eyes. These glowing eyes serve as his [[Goldsign]]. In combat, he utilizes golden liquid [[madra]] and has been shown using a [[Ruler technique]] known as the [[Path of the Amber Well]], which allows him to manipulate water in an oppressive manner. Known for his deep voice and intimidating presence, he is capable of acting as a guard or clearing paths through crowds. He has demonstrated both intense loyalty, such as saluting his [[Captain]] and following orders, and moments of significant anger or menace.}}
+{{spoiler|book=cradle-06-underlord|Bai Rou is a member of the [[Skysworn]], serving alongside his partner [[Renfei]]. He is a physically imposing man with a massive, broad build that makes him appear as solid as a wall. He typically wears green armor and a wide hat woven from dried stalks or reeds, which casts a Shadow{{!}}shadow over his face, leaving only his bright yellow eyes visible. These glowing eyes serve as his [[Goldsign]]. In combat, he utilizes golden liquid [[madra]] and has been shown using a [[Ruler technique]] known as the [[Path]] of the Amber Well to manipulate [[water]]. His presence is often described as intimidating, menacing, or oppressive. Throughout his duties, he has acted as a guard, cleared paths through crowds, and demonstrated both respect toward honored figures and intense anger during confrontations.}}
 
-== Skysworn ==
-{{spoiler|book=cradle-04-skysworn|As a member of the [[Skysworn]], Bai Rou serves as [[Renfei]]'s partner and possesses the ability to forge [[Amberwell madra]]. This massive [[Truegold]] is characterized by his bright yellow eyes and the green armor he wears alongside a hat woven from dried stalks. During his time with [[Renfei]] and [[Eithan]] Arelius, he utilizes manacles containing [[halfsilver]] to aid his efforts. Upon seeing an [[emerald]] [[Thousand-Mile Cloud]], Bai Rou responded by letting out a roar.}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
+== History ==
+=== {{spoiler|book=cradle-04-skysworn|Skysworn partner}} ===
+{{spoiler|book=cradle-04-skysworn|As [[Renfei]]'s partner within the [[Skysworn]], Bai Rou was present alongside both [[Renfei]] and Eithan{{!}}Eithan Arelius.<ref name="cradle-04-skysworn-c3">''Skysworn'', chapter 3</ref> This massive [[Skysworn]] is a [[Truegold]] who wears green armor and a hat woven from dried stalks.<ref name="cradle-04-skysworn-c3" /><ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref><ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref> Bai Rou possesses bright yellow eyes and has the ability to forge [[Amberwell madra]].<ref name="cradle-04-skysworn-c3" /><ref name="cradle-04-skysworn-c6">''Skysworn'', chapter 6</ref><ref name="cradle-04-skysworn-c10" /> Equipped with iron-and-crystal manacles{{!}}manacles containing [[halfsilver]], Bai Rou utilizes an emerald [[Thousand-Mile Cloud]].<ref name="cradle-04-skysworn-c13" /><ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] is [[Renfei]]'s partner in the [[Skysworn]].<ref name="cradle-04-skysworn-c3">''Skysworn'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] is [[Renfei]]'s partner in the [[Skysworn]].<ref name="cradle-04-skysworn-c3" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]]'s [[Goldsign]] is bright yellow eyes.<ref name="cradle-04-skysworn-c3" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] wears a hat woven from dried stalks.<ref name="cradle-04-skysworn-c3" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] is present with [[Renfei]] and [[Eithan]] Arelius.<ref name="cradle-04-skysworn-c3" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] is present with [[Renfei]] and Eithan{{!}}Eithan Arelius.<ref name="cradle-04-skysworn-c3" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] wears green armor and has glowing yellow eyes.<ref name="cradle-04-skysworn-c3" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] is a [[Skysworn]] who can forge [[Amberwell madra]].<ref name="cradle-04-skysworn-c6">''Skysworn'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] is a [[Skysworn]] who can forge [[Amberwell madra]].<ref name="cradle-04-skysworn-c6" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] has yellow eyes.<ref name="cradle-04-skysworn-c6" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] is massive and wears a woven straw hat.<ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] is massive and wears a woven straw hat.<ref name="cradle-04-skysworn-c10" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] is a [[Skysworn]] with yellow eyes.<ref name="cradle-04-skysworn-c10" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] is a [[Truegold]].<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] uses manacles containing [[halfsilver]].<ref name="cradle-04-skysworn-c13" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] is a member of the [[Skysworn]].<ref name="cradle-04-skysworn-c13" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] has an [[emerald]] [[Thousand-Mile Cloud]].<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] is a [[Truegold]].<ref name="cradle-04-skysworn-c13" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] uses iron-and-crystal manacles{{!}}manacles containing [[halfsilver]].<ref name="cradle-04-skysworn-c13" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] has an emerald [[Thousand-Mile Cloud]].<ref name="cradle-04-skysworn-c16" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Bai Rou]] let out a roar when he saw her.<ref name="cradle-04-skysworn-c16" />}}</li>
 </ul></div>
 
-== Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|While [[Yerin]] was searching for him, Bai Rou marched her into a hallway. A [[Lowgold]] wearing heavy armor and possessing a thin, white replacement arm, he was at a more advanced stage than [[Yerin]]. During their fight, he utilized a [[Ruler technique]] to command water and channeled yellow madra that swirled around his gauntlet. His glowing yellow eyes peered from beneath his hat as he unleashed [[madra]] capable of eating through both flesh and the mind. Ultimately, Bai Rou was an individual who held the power to decide the [[fate]] of [[Lindon]]'s apprentices and was suspected of having abandoned or attacked [[Yerin]].}}
-
+=== {{spoiler|book=cradle-05-ghostwater|Encounter in Ghostwater}} ===
+{{spoiler|book=cradle-05-ghostwater|After marching [[Yerin]] into the hallway, Bai Rou revealed himself as a [[Lowgold]] who possessed a thin, white replacement arm.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref><ref name="cradle-05-ghostwater-c4">''Ghostwater'', chapter 4</ref> As a combatant at a more advanced stage than [[Yerin]], he wore heavy armor and utilized [[yellow madra]] that swirled around his gauntlet.<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref><ref name="cradle-05-ghostwater-c4" /><ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref> His yellow eyes glowed from beneath the shade of his hat, and he employed a [[Ruler technique]] to command [[water]].<ref name="cradle-05-ghostwater-c4" /> The [[madra]] he wielded had the ability to eat through both flesh and the mind.<ref name="cradle-05-ghostwater-c4" /> During their fight, [[Yerin]] confronted the individual she had been searching for, a man who held the power to decide the Fate{{!}}fate of [[Lindon]]'s apprentices.<ref name="cradle-05-ghostwater-c6">''Ghostwater'', chapter 6</ref><ref name="cradle-05-ghostwater-c7" /><ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref> It was further suggested that Bai Rou might have been the one to abandon or attack [[Yerin]].<ref name="cradle-05-ghostwater-c11" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] marched [[Yerin]] into the hallway.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] can use yellow madra.<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] used yellow madra swirling around his gauntlet.<ref name="cradle-05-ghostwater-c4">''Ghostwater'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] marched [[Yerin]] into the hallway.<ref name="cradle-05-ghostwater-c2" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] can use [[yellow madra]].<ref name="cradle-05-ghostwater-c3" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] used [[yellow madra]] swirling around his gauntlet.<ref name="cradle-05-ghostwater-c4" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]]'s eyes glowed yellow from within the shade of his hat.<ref name="cradle-05-ghostwater-c4" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]]'s [[madra]] can eat through the mind and flesh.<ref name="cradle-05-ghostwater-c4" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] is a stage more advanced than [[Yerin]].<ref name="cradle-05-ghostwater-c4" />}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] uses a [[Ruler technique]] to command water.<ref name="cradle-05-ghostwater-c4" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] uses a [[Ruler technique]] to command [[water]].<ref name="cradle-05-ghostwater-c4" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] is a [[Lowgold]].<ref name="cradle-05-ghostwater-c4" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] has a thin, white replacement arm.<ref name="cradle-05-ghostwater-c4" />}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] is an individual who could decide whether or not to keep [[Lindon]]'s apprentices.<ref name="cradle-05-ghostwater-c6">''Ghostwater'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] wears heavy armor.<ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] is an individual who could decide whether or not to keep [[Lindon]]'s apprentices.<ref name="cradle-05-ghostwater-c6" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] wears heavy armor.<ref name="cradle-05-ghostwater-c7" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] is a person [[Yerin]] was looking for.<ref name="cradle-05-ghostwater-c7" />}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|[[Yerin]] fought [[Bai Rou]].<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Yerin]] fought [[Bai Rou]].<ref name="cradle-05-ghostwater-c11" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Bai Rou]] is a person who may have attacked or abandoned [[Yerin]].<ref name="cradle-05-ghostwater-c11" />}}</li>
 </ul></div>
 
-== Underlord ==
+=== {{spoiler|book=cradle-06-underlord|Underlord captivity}} ===
+{{spoiler|book=cradle-06-underlord|After being kidnapped and assaulted, Bai Rou expressed concern that the group represented a looming calamity.<ref name="cradle-06-underlord-c2">''Underlord'', chapter 2</ref><ref name="cradle-06-underlord-c3">''Underlord'', chapter 3</ref> As an individual involved with [[Naru Gwei]], Bai Rou was later observed wearing a wide straw hat while positioned against a railing.<ref name="cradle-06-underlord-c3" /><ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[Bai Rou]] was kidnapped and assaulted.<ref name="cradle-06-underlord-c2">''Underlord'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[Bai Rou]] says the group is a calamity waiting to happen.<ref name="cradle-06-underlord-c3">''Underlord'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Bai Rou]] was kidnapped and assaulted.<ref name="cradle-06-underlord-c2" />}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Bai Rou]] says the group is a calamity waiting to happen.<ref name="cradle-06-underlord-c3" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Bai Rou]] is a person [[Naru Gwei]] is involved with.<ref name="cradle-06-underlord-c3" />}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[Bai Rou]] was seen against the railing wearing a wide straw hat.<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Bai Rou]] was seen against the railing wearing a wide straw hat.<ref name="cradle-06-underlord-c17" />}}</li>
 </ul></div>
 
 == Notable quotes ==

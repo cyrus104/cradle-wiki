@@ -1,0 +1,29 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = black cloth
+| introduced = [[Reaper (novel)|Reaper]]
+}}
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|A [[black cloth]] woven with silver Script{{!}}script wrapped around [[Lindon]]'s upper arm.<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
+</ul></div>
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|Runes on the [[black cloth]] around [[Lindon]]'s upper arm shone.<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Reaper]]
+[[Category:Dreadgod]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

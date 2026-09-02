@@ -10,7 +10,13 @@
 ''See also: [[Razael Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|Razael, also known as the [[Wolf]], is a powerful [[Judge]] within the [[Abidan Court]]. A formidable combatant, she possesses enough strength to match [[Ozriel]] in open battle and is capable of depopulating an entire [[Iteration]]. Her specialized weapon, [[the Sword]] of Razael, is designed for the execution of Class One threats and other [[Judges]]. She leads the [[Wolf Division]], which utilizes various destructive powers that are not part of the public record. Razael is known for her intense presence on the battlefield, often remaining in combat for extended periods without leaving an [[Iteration]]. She has maintained a personal grudge against [[Ozriel]] since the establishment of his office and has expressed significant frustration with the [[Court]]'s leadership regarding decisions made without collective consultation. In past conflicts, such as a battle that led to the capture of [[Sunder]], she has overseen massive losses within her division.}}
+{{spoiler|book=cradle-13-threshold|Razael, also known as the [[Wolf]], is a powerful [[Judge]] within the [[Abidan Court]]. A formidable combatant, she is capable of matching high-ranking figures like Ozriel and [[Makiel]] in open battle. She possesses the strength to depopulate an entire [[Iteration]] and has been known to engage in combat that can shake the stars. Her specialized weaponry is a [[sword]] designed specifically for executing Class One threats and other [[Judges]]. As a leader within the [[Wolf Division]], she commands destructive powers that are not part of the public record. Razael is characterized by her intense temperament, frequently expressing fury toward other [[Judges]] and showing a refusal to abandon the battlefield. She has historically been involved in significant conflicts, including a bloody battle that resulted in the loss of hundreds of her subordinates and the capture of an [[Iteration]].}}
+
+== Appearance ==
+{{spoiler|book=cradle-13-threshold|Razael wields a blazing [[sword]]. This [[Judge]] is also recognized by the moniker of the [[Wolf]].}}
+
+== Abilities ==
+{{spoiler|book=cradle-13-threshold|Razael utilizes a blazing [[sword]] specifically designed to execute Class One threats and other [[Judges]]. This combatant is capable of matching [[Makiel]] and Ozriel in open battle.}}
 
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -21,7 +27,7 @@
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|[[Razael]]'s [[Sword]] was designed for the execution of [[Judges]] and Class One threats.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Razael]]'s Sword was designed for the execution of [[Judges]] and Class One threats.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
 </ul></div>
 
 == Underlord ==
@@ -45,8 +51,8 @@
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|[[Razael]] clashed swords with [[the Mad King]].<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Razael]] is a [[Judge]] who can match [[Ozriel]] in open combat.<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Razael]] clashed swords with The Mad King{{!}}the Mad King.<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Razael]] is a [[Judge]] who can match Ozriel in open combat.<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==
@@ -77,4 +83,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Titled characters]]

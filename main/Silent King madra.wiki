@@ -2,7 +2,7 @@
 
 {{Infobox madra
 | name = Silent King madra
-| introduced = Dreadgod
+| introduced = [[Dreadgod (novel)|Dreadgod]]
 }}
 
 == Dreadgod ==
@@ -14,7 +14,7 @@
 == Threshold: Stories from Cradle ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|The [[Silent King madra]] is radiated by the [[Sage]] and [[Herald]] of the [[Twin Star sect]].<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Silent King madra]] is radiated by the [[Sage]] and [[Herald]] of the Twin Star Sect{{!}}Twin Star sect.<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}</li>
 </ul></div>
 
 == Notes ==

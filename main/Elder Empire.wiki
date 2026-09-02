@@ -1,15 +1,15 @@
 {{Infobox location
 | name = Elder Empire
-| introduced = Of Sea and Shadow
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Elder]] [[Empire]] is a civilization established following the defeat of the [[Great Elders]], powerful and eternal entities that once enslaved humanity. While these beings possess immense control over fundamental forces such as time, space, [[life]], and death, they are currently considered to be sleeping or contained. [[The Empire]]'s stability has historically been maintained by [[Emperor (Elder Empire)|the Emperor]], who utilizes borrowed [[Elder power]] to achieve a state of immortality and rule above ordinary men. However, following [[Emperor (Elder Empire)|the Emperor]]'s death, the [[Empire]] faces significant political instability and internal fractures among its various [[Guilds]]. The relationship between humanity and the [[Elders]] is a central conflict. Some factions, such as the [[Blackwatch]], focus on studying [[Elder]] biology for defense, while others seek to establish a working relationship to harness their vast wisdom and power. Conversely, many fear the [[Elders]]' true nature as unknowable horrors that seek to reclaim the world and destroy human civilization. The [[Great Elders]] are believed to operate according to specific, focused purposes—such as the pursuit of knowledge, annihilation, or change—and they often use containers to exert their influence. Despite the [[Empire]]'s efforts at containment, [[Elder]] activity and the coordinated movements of their spawn continue to pose a constant threat to [[Imperial]] order.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Elder]] Empire is a civilization established following the era of the [[Great Elders]], who previously ruled the world and held humanity in slavery. While the [[Elders]] are described as eternal beings with immense power over life, death, knowledge, and time, they were eventually overthrown during the [[Elder War]]. The current Empire was founded by the Emperor, who maintained stability by borrowing power from these entities to rule as a figure above ordinary men. This long-standing rule has faced significant challenges, particularly following the death of the Emperor, which led to political instability among the various [[Guilds]] and increased activity from the [[Elders]]. The [[Great Elders]] are viewed with a mixture of fear and curiosity. Some believe they are malevolent forces seeking to destroy civilization and reclaim their former dominion, while others suggest they possess vast wisdom that could benefit humanity if a working relationship is established. These entities operate according to specific purposes—such as the pursuit of knowledge, change, or annihilation—and often use containers to exert their influence. They are believed to be currently sleeping, though many fear they are awakening to break free from their perceived prison. [[The Empire]]'s defense involves various groups, including the [[Blackwatch]] and the [[Luminian Order]], who work to contain Elder threats, research their biology, and prevent them from corrupting human leadership.}}
 
 == Of Sea and Shadow ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Elder Empire]] is located in the First Sea.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Elder Empire{{!}}The Elder Empire is located in the First Sea.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
 </ul></div>
 
 == Of Shadow and Sea ==
@@ -27,13 +27,13 @@
 == Of Darkness and Dawn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The book is titled 'The [[Elder Empire]], Book Two: [[Shadow]]'.<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The book is titled 'Elder Empire{{!}}The Elder Empire, Book Two: [[Shadow]]'.<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}</li>
 </ul></div>
 
 == Of Kings and Killers ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Elder Empire]] is the name of the series or setting context.<ref name="ee-sea-03-of-kings-and-killers-c26">''Of Kings and Killers'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Elder Empire{{!}}The Elder Empire is the name of the series or setting context.<ref name="ee-sea-03-of-kings-and-killers-c26">''Of Kings and Killers'', chapter 26</ref>}}</li>
 </ul></div>
 
 == Of Killers and Kings ==
@@ -56,4 +56,3 @@
 [[Category:Of Killers and Kings]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire locations]]
-[[Category:Nations and empires]]

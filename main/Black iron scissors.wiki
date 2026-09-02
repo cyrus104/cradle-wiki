@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = black iron scissors
+| introduced = [[Blackflame (novel)|Blackflame]]
+}}
+
+== Blackflame ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-03-blackflame|[[Eithan]] carries [[black iron scissors]].<ref name="cradle-03-blackflame-c3">''Blackflame'', chapter 3</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Blackflame]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

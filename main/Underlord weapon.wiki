@@ -2,13 +2,13 @@
 
 {{Infobox concept
 | name = Underlord weapon
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|The axe used by [[Harmony]] is an [[Underlord weapon]].<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The axe used by Akura Harmony{{!}}Harmony is an [[Underlord weapon]].<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
 </ul></div>
 
 == Uncrowned ==
@@ -16,9 +16,6 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|An [[Underlord weapon]] is noted to produce better results than an unsuitable [[Archlord weapon]].<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
 </ul></div>
-
-== Notable quotes ==
-* {{spoiler|book=cradle-07-uncrowned|"...although allow me to caution you that an Underlord weapon suited for you will produce far better results than an unsuitable Archlord weapon."<ref name="cradle-07-uncrowned-c15" />}}
 
 == Notes ==
 <references />
@@ -30,4 +27,3 @@
 [[Category:Uncrowned]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Terminology]]

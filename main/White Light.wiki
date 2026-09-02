@@ -1,23 +1,22 @@
+{{Expand}}
+
 {{Infobox concept
-| name = White Light
-| introduced = City of Light
+| name = white light
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
-== City of Light ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|The [[White Light]] represents selflessness and pure devotion to the service of another at one's own expense.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|[[Rhalia]] mentions [[Alin]] is not complete without the [[White Light]].<ref name="tg-03-city-of-light-c26">''City of Light'', chapter 26</ref>}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|[[White Light]] can only be used on another's behalf.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|[[Simon]] has [[White Light]] leaking out of him.<ref name="tg-03-city-of-light-c27" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|White light erupted from within the wardrobe.<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}</li>
 </ul></div>
 
 == Notes ==
 <references />
 
-{{Traveler's Gate nav}}
+{{Cradle nav}}
 
 [[Category:Concepts]]
-[[Category:City of Light]]
-[[Category:Traveler's Gate]]
-[[Category:Traveler's Gate concepts]]
+[[Category:Soulsmith]]
+[[Category:Cradle]]
+[[Category:Cradle concepts]]

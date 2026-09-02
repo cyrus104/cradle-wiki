@@ -1,0 +1,21 @@
+{{Expand}}
+
+{{Infobox technique
+| name = optical beams
+| introduced = [[The Engineer (novel)|The Engineer]]
+}}
+
+== The Engineer ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|[[Starhammer]] can use [[optical beams]] as an attack.<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Techniques]]
+[[Category:The Engineer]]
+[[Category:The Last Horizon]]

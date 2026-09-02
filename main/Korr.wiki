@@ -1,5 +1,6 @@
 {{Infobox character
 | name = Korr
+| abilities = {{spoiler|book=tg-02-crimson-vault|whisper to Indirial}}{{spoiler|book=tg-03-city-of-light|, perceive danger}}
 | titles = {{spoiler|book=tg-03-city-of-light|advisor}}
 | professions = {{spoiler|book=tg-03-city-of-light|advisor}}
 | residence = {{spoiler|book=tg-02-crimson-vault|inside Indirial}}{{spoiler|book=tg-03-city-of-light|, inside a black gem in Indirial's medallion}}
@@ -10,7 +11,16 @@
 ''See also: [[Korr Timeline]]''
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|Korr serves as an advisor to [[Indirial]], though his true nature is unclear; he may be a distinct entity that utilizes a gold medallion with an amethyst center as a medium for communication. He is one of thirteen advisors and typically communicates through telepathic whispers that sound cold and dry, or by manifesting violet light and sparks. Korr is not a talkative figure, choosing to remain silent unless he perceives a significant threat. His warnings often manifest as violet flames or flashes that appear in [[Indirial]]'s vision or on his person to signal imminent peril. While he usually resides within [[the House]] of [[Valinhall]], he can be summoned to appear as a medallion worn on a chain. Although he is generally stoic and rarely uses [[Indirial]]'s name or offers apologies, he has demonstrated a capacity for intense worry during moments of extreme danger.}}
+{{spoiler|book=tg-03-city-of-light|Korr serves as an advisor to [[Indirial]], though his true nature remains uncertain; he may be a distinct entity that utilizes a gold medallion with an amethyst or black gem center as a medium for communication. He is characterized by a sparse, dry, and cold manner of speaking, often communicating through telepathic whispers or by manifesting violet light and sparks. Korr typically remains silent unless he perceives a significant threat, at which point he provides warnings to his charge. While he usually resides within [[the House]] of [[Valinhall]], he can be summoned to appear as a medallion on a gold chain. He is known for his rare displays of emotion, such as worry or apology, and his guidance is vital to [[Indirial]]'s preparation for combat.}}
+
+== Appearance ==
+{{spoiler|book=tg-03-city-of-light|Korr exists as an advisor housed within a black gem located on [[Indirial's medallion]]. This presence can be summoned to appear upon a gold chain worn around [[Indirial]]'s neck.}}
+
+== Personality ==
+{{spoiler|book=tg-03-city-of-light|Korr acts as an advisor to [[Indirial]]. This entity communicates by whispering into the mind to provide warnings regarding potential dangers.}}
+
+== Abilities ==
+{{spoiler|book=tg-03-city-of-light|Korr possesses the ability to perceive danger and communicates these threats through a violet flame seen in one's vision. Additionally, Korr can be summoned from [[Valinhall]].}}
 
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
@@ -21,7 +31,7 @@
 </ul></div>
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|Residing within a black gem set in [[Indirial's medallion]], Korr serves as an advisor who communicates by whispering warnings directly into [[Indirial]]'s mind. These warnings manifest as a violet flame appearing in the corner of one's vision. Korr can be summoned from [[Valinhall]] to appear on a gold chain worn around [[Indirial]]'s neck. While dangling from this chain, Korr perceives incoming danger, such as the violet flame seen on the end of [[Zakareth]]'s spear.}}
+{{spoiler|book=tg-03-city-of-light|Residing within a black gem inside [[Indirial's medallion]], Korr serves as an advisor who communicates by whispering warnings directly into [[Indirial]]'s mind. These warnings manifest as a violet flame appearing in the corner of one's vision. Korr can be summoned from [[Valinhall]] to appear on a gold chain worn around [[Indirial]]'s neck. While dangling from this chain, Korr maintains the ability to perceive danger, such as seeing a violet flame at the tip of [[Zakareth]]'s spear.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
 <ul class="wv-fact-list mw-collapsible-content">

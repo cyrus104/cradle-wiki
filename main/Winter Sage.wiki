@@ -1,7 +1,9 @@
 {{Infobox character
 | name = Winter Sage
-| abilities = {{spoiler|book=cradle-08-wintersteel|sword skill}}{{spoiler|book=cradle-12-waybound|, precisely timed attacks}}
+| children = {{spoiler|book=cradle-08-wintersteel|[[Yerin]]}}
+| abilities = {{spoiler|book=cradle-08-wintersteel|sword skill, raw strength}}{{spoiler|book=cradle-12-waybound|, precisely timed attacks}}
 | titles = {{spoiler|book=cradle-05-ghostwater|[[Sage]]}}{{spoiler|book=cradle-07-uncrowned|, [[Frozen Blade|Sage of the Frozen Blade]]}}
+| affiliations = {{spoiler|book=cradle-05-ghostwater|[[Skysworn]]}}
 | professions = {{spoiler|book=cradle-11-dreadgod|teacher, combatant}}
 | appears_in = Cradle
 | introduced = [[Ghostwater (novel)|Ghostwater]]
@@ -10,82 +12,92 @@
 ''See also: [[Winter Sage Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|[[Min Shuei]], also known as the Winter [[Sage]] or the [[Sage]] of the [[Frozen Blade]], is a powerful martial artist and a member of the [[Sages]]. She possesses long white hair and utilizes a massive [[Forged sword]] that features a core of [[wintersteel]]. In combat, she demonstrates mastery over ice and frost, employing techniques that can freeze her surroundings, create blizzards of razor-sharp ice, and manipulate snowflakes as conduits for [[sword madra]]. Her abilities are linked to the authority of the [[Winter Icon]], and she can manifest a halo during battle. As a [[Sage]], she possesses significant spiritual power and control, capable of flying at high speeds using her [[Archlord]]-level [[soulfire]]. Despite her immense strength, she is depicted as a highly emotional individual, experiencing intense rage, grief, and awe. She has a complex relationship with [[Yerin]], acting as a mentor or elder figure who has previously been involved in [[Yerin]]'s training. [[Min Shuei]] is also noted for her knowledge regarding the truth of the [[Monarchs]] and has been a key figure in defending against threats like the [[Dreadgods]].}}
+{{spoiler|book=cradle-12-waybound|[[Min Shuei]], also known as the Winter [[Sage]] or the Frozen Blade{{!}}Sage of the Frozen Blade, is a powerful martial artist and master of [[sword]] techniques. She possesses long white hair and wields a massive [[Forged]] [[sword]], which she can use to manifest large-[[scale]] attacks such as [[giant]] white blades or freezing blizzards. Her combat abilities are deeply connected to the Authority{{!}}authority of the [[Winter Icon]], allowing her to manipulate ice and frost to slow enemies or lock down entire areas with suspended snowflakes. She is capable of high-speed flight through her control over [[aura]], despite not being a [[wind]] artist. As a [[Sage]], she is characterized by intense emotional shifts, ranging from profound rage and fury to moments of sincere awe or weeping. She has a complex relationship with [[Yerin]], having previously served as her master and training her to manage her [[Blood Shadow]]. [[Min Shuei]] is also noted for her wisdom regarding the nature of the [[Monarchs]] and her ability to recognize illusions. In battle, she has demonstrated the capacity to fight against [[Dreadgods]] and resist mental techniques from powerful entities like the [[Silent King]].}}
 
-== Ghostwater ==
+== Appearance ==
+{{spoiler|book=cradle-12-waybound|This woman possesses long white hair and wears a halo that matches her hair color. She is often seen cloaked in a hailstorm of razor-sharp ice and stands upon a levitating [[sword]].}}
+
+== Personality ==
+{{spoiler|book=cradle-12-waybound|An intolerant and currently distracted teacher, the Winter [[Sage]] expresses intense fury and disgust toward the parasite inside [[Yerin]]. She acts as a guide for her pupil, motivated by the desire to see [[Yerin]] become a symbol of swordsmanship to reach the [[Sword Icon]].}}
+
+== Abilities ==
+{{spoiler|book=cradle-12-waybound|A combatant who utilizes raw strength and [[sword]] skill rather than specific techniques, she is known for her precisely timed attacks. She also possesses the ability to stand upon a levitating [[sword]].}}
+
+== History ==
+=== {{spoiler|book=cradle-05-ghostwater|Skysworn and Blackflame}} ===
+{{spoiler|book=cradle-05-ghostwater|A horned man questions who is providing support to the [[Skysworn]], implying that the Winter [[Sage]] may be the one backing them.<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|The horned man asks who is backing the [[Skysworn]], suggesting the [[Winter Sage]].<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The horned man asks who is backing the [[Skysworn]], suggesting the [[Winter Sage]].<ref name="cradle-05-ghostwater-c3" />}}</li>
 </ul></div>
 
-== Uncrowned ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+{{spoiler|book=cradle-07-uncrowned|The Winter [[Sage]] is currently experiencing a state of fury.<ref name="cradle-07-uncrowned-c9">''Uncrowned'', chapter 9</ref> This individual was responsible for bringing the [[Blackflame Empire]] team back.<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|The [[Winter Sage]] is furious.<ref name="cradle-07-uncrowned-c9">''Uncrowned'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|The [[Winter Sage]] is the [[Sage]] of the [[Frozen Blade]].<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Winter Sage]] is furious.<ref name="cradle-07-uncrowned-c9" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Winter Sage]] brought the [[Blackflame Empire]] team back.<ref name="cradle-07-uncrowned-c10" />}}</li>
 </ul></div>
 
-== Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|A woman with long white hair, the Winter [[Sage]] is a [[Sage]] who serves as a symbol of ice and cold while reflecting the [[Sword Icon]]. After choosing [[Yerin]] as her pupil, she moved the girl to the [[Iron guest housing]] and provided training that focused on raw strength and [[sword]] skill rather than specific techniques. Throughout this mentorship, she expressed fury regarding the parasite within [[Yerin]] and intended to seal it, even intervening by shoving the [[Blood Sage]] away to protect her. During their training sessions, she predicted [[Calan Archer]]'s movements and eventually sparred against [[Yerin]] and her [[Blood Shadow]]. Ultimately, she guided [[Yerin]] toward becoming a symbol of swordsmanship to reach the [[Sword Icon]], which she views as a state of mind and a connection to greater power.}}
-
+=== {{spoiler|book=cradle-08-wintersteel|Training Yerin}} ===
+{{spoiler|book=cradle-08-wintersteel|The Winter [[Sage]] is a woman and a [[Sage]] who chose [[Yerin]] as her pupil, eventually moving the girl to the [[Iron guest housing]].<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref><ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref> Characterized by long white hair and serving as a symbol of ice, cold, and the [[Sword Icon]], she expressed fury and disgust toward the parasite residing within [[Yerin]].<ref name="cradle-08-wintersteel-c8" /> Having once fought the [[Herald of the Tidewalker Sect]], this currently distracted and intolerant [[Sage]] told [[Yerin]] that the [[Remnant]] had changed over time.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref><ref name="cradle-08-wintersteel-c11">''Wintersteel'', chapter 11</ref> She aims for [[Yerin]] to become a symbol of swordsmanship to approach the [[Sword Icon]] and has provided [[advancement]] resources to assist in her training.<ref name="cradle-08-wintersteel-c11" /><ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref> During her guidance, the Winter [[Sage]] predicted [[Calan Archer]]'s use of a [[spatial transfer]] artifact and intended to seal the entity inside [[Yerin]].<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref><ref name="cradle-08-wintersteel-c18">''Wintersteel'', chapter 18</ref> While expressing relief that the hosts should have provided warnings, she shoved the [[Blood Sage]] away from [[Yerin]].<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref> As one of the [[Sages]] guiding [[Yerin]], she utilizes raw strength and [[sword]] skill rather than techniques, even training against [[Yerin]] and her [[Blood Shadow]].<ref name="cradle-08-wintersteel-c19" /><ref name="cradle-08-wintersteel-c20">''Wintersteel'', chapter 20</ref><ref name="cradle-08-wintersteel-c21">''Wintersteel'', chapter 21</ref> During training discussions, she whispered congratulations to [[Yerin]] and noted her belief that an [[Icon]] represents a state of mind and a connection to greater power, eventually pinning [[Yerin]] in place.<ref name="cradle-08-wintersteel-c21" /><ref name="cradle-08-wintersteel-c24">''Wintersteel'', chapter 24</ref><ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">25</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] chose [[Yerin]] as a pupil.<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] has long white hair and spoke to [[Yerin]].<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] chose [[Yerin]] as a pupil.<ref name="cradle-08-wintersteel-c7" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] has long white hair and spoke to [[Yerin]].<ref name="cradle-08-wintersteel-c8" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] is a woman who found [[Yerin]] and moved her to the [[Iron guest housing]].<ref name="cradle-08-wintersteel-c8" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] is a [[Sage]] who provides training.<ref name="cradle-08-wintersteel-c8" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] is a [[Sage]].<ref name="cradle-08-wintersteel-c8" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] is a symbol of ice and cold.<ref name="cradle-08-wintersteel-c8" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] also reflects the [[Sword Icon]].<ref name="cradle-08-wintersteel-c8" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] is a character who expressed fury and disgust regarding the parasite within [[Yerin]].<ref name="cradle-08-wintersteel-c8" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] once fought a battle against the [[Herald of the Tidewalker Sect]].<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] told [[Yerin]] that the [[Remnant]] had become something else over time.<ref name="cradle-08-wintersteel-c11">''Wintersteel'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] once fought a battle against the [[Herald of the Tidewalker Sect]].<ref name="cradle-08-wintersteel-c9" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] told [[Yerin]] that the [[Remnant]] had become something else over time.<ref name="cradle-08-wintersteel-c11" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] wants [[Yerin]] to become a symbol of swordsmanship to get closer to the [[Sword Icon]].<ref name="cradle-08-wintersteel-c11" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] is described as not being tolerant and currently distracted.<ref name="cradle-08-wintersteel-c11" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] left advancement resources for [[Yerin]].<ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] left [[advancement]] resources for [[Yerin]].<ref name="cradle-08-wintersteel-c12" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yerin]] is training with the [[Winter Sage]].<ref name="cradle-08-wintersteel-c12" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] predicted [[Calan Archer]] would move behind [[Yerin]] using a [[spatial transfer]] artifact.<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] intends to seal the thing inside [[Yerin]].<ref name="cradle-08-wintersteel-c18">''Wintersteel'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] expressed relief that the hosts should have warned them.<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] predicted [[Calan Archer]] would move behind [[Yerin]] using a [[spatial transfer]] artifact.<ref name="cradle-08-wintersteel-c17" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] intends to seal the thing inside [[Yerin]].<ref name="cradle-08-wintersteel-c18" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] expressed relief that the hosts should have warned them.<ref name="cradle-08-wintersteel-c19" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] is one of the [[Sages]] guiding [[Yerin]].<ref name="cradle-08-wintersteel-c19" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] shoved the [[Blood Sage]] away from [[Yerin]].<ref name="cradle-08-wintersteel-c19" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] uses raw strength and [[sword]] skill instead of techniques.<ref name="cradle-08-wintersteel-c20">''Wintersteel'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] is present during the training discussion.<ref name="cradle-08-wintersteel-c21">''Wintersteel'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] uses raw strength and [[sword]] skill instead of techniques.<ref name="cradle-08-wintersteel-c20" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] is present during the training discussion.<ref name="cradle-08-wintersteel-c21" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] trained against [[Yerin]] and her [[Blood Shadow]].<ref name="cradle-08-wintersteel-c21" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] whispered congratulations to [[Yerin]].<ref name="cradle-08-wintersteel-c24">''Wintersteel'', chapter 24</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] believes an [[Icon]] is a connection to greater power and a state of mind.<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] whispered congratulations to [[Yerin]].<ref name="cradle-08-wintersteel-c24" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] believes an [[Icon]] is a connection to greater power and a state of mind.<ref name="cradle-08-wintersteel-c26" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Winter Sage]] is pinning [[Yerin]] in place.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
 </ul></div>
 
-== Bloodline ==
+{{spoiler|book=cradle-09-bloodline|There is a possibility that the Winter [[Sage]] possesses the ability to repair the [[sword]].<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|[[Winter Sage]] might be able to fix the [[sword]].<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Winter Sage]] might be able to fix the [[sword]].<ref name="cradle-09-bloodline-c19" />}}</li>
 </ul></div>
 
-== Reaper ==
+{{spoiler|book=cradle-10-reaper|A portrait of the Winter [[Sage]] is displayed inside the [[void space]] belonging to the [[Sword Sage]].<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|The [[Winter Sage]] is depicted in a portrait within the [[Sword Sage]]'s [[void]] space.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Winter Sage]] is depicted in a portrait within the [[Sword Sage]]'s [[void space]].<ref name="cradle-10-reaper-c3" />}}</li>
 </ul></div>
 
-== Dreadgod ==
+{{spoiler|book=cradle-11-dreadgod|The Winter [[Sage]] serves as a teacher.<ref name="cradle-11-dreadgod-c9">''Dreadgod'', chapter 9</ref> As a combatant, she fights while standing atop a levitating [[sword]].<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref> She appeared cloaked in a hailstorm of razor-sharp ice and wore a halo that matched her white hair.<ref name="cradle-11-dreadgod-c16">''Dreadgod'', chapter 16</ref> During this time, she was shuddering.<ref name="cradle-11-dreadgod-c16" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Winter Sage]] is a teacher.<ref name="cradle-11-dreadgod-c9">''Dreadgod'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Winter Sage]] is a combatant who stands on a levitating [[sword]].<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Winter Sage]] was cloaked in a hailstorm of razor-sharp ice and wore a halo matching her white hair.<ref name="cradle-11-dreadgod-c16">''Dreadgod'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Winter Sage]] is a teacher.<ref name="cradle-11-dreadgod-c9" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Winter Sage]] is a combatant who stands on a levitating [[sword]].<ref name="cradle-11-dreadgod-c15" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Winter Sage]] was cloaked in a hailstorm of razor-sharp ice and wore a halo matching her white hair.<ref name="cradle-11-dreadgod-c16" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Winter Sage]] was shuddering.<ref name="cradle-11-dreadgod-c16" />}}</li>
 </ul></div>
 
-== Waybound ==
+=== {{spoiler|book=cradle-12-waybound|Mount Samara}} ===
+{{spoiler|book=cradle-12-waybound|The Winter [[Sage]] remains at [[Charity]]'s side during the events on [[Mount Samara]].<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref> While fighting in a snow-capped passage atop the mountain, this entity is recognized for executing attacks with precise timing.<ref name="cradle-12-waybound-c10" /><ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref> The Winter [[Sage]] is a weeping entity that originally flew out of [[Lindon's void key]].<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|The [[Winter Sage]] is at [[Charity]]'s side.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Winter Sage]] is at [[Charity]]'s side.<ref name="cradle-12-waybound-c10" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Winter Sage]] fights in the snow-capped passage on top of [[Mount Samara]].<ref name="cradle-12-waybound-c10" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Winter Sage]] is known for precisely timed attacks.<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Winter Sage]] is a weeping entity that flew out of [[Lindon's void key]].<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Winter Sage]] is known for precisely timed attacks.<ref name="cradle-12-waybound-c27" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Winter Sage]] is a weeping entity that flew out of [[Lindon's void key]].<ref name="cradle-12-waybound-c37" />}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -110,4 +122,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Titled characters]]

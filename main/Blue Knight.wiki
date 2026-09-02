@@ -7,7 +7,7 @@
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|The [[Blue Knight]] wields elemental water as a weapon.<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Blue Knight]] wields elemental [[water]] as a weapon.<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The narrator served as the [[Blue Knight]] of the [[Titan Force]].<ref name="lh-01-the-captain-c32">''The Captain'', chapter 32</ref>}}</li>
 </ul></div>
 

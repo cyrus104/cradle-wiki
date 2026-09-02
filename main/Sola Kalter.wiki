@@ -1,8 +1,8 @@
 {{Infobox character
 | name = Sola Kalter
 | aliases = Sola
-| abilities = {{spoiler|book=lh-01-the-captain|split her Flame into several pieces, fire a lance of light, summon Worldslayer, [[pulse boosters]]}}{{spoiler|book=lh-02-the-engineer|, [[Temporal Field]]}}{{spoiler|book=lh-04-the-pilot|, clones that engage Temporal Fields, conjure a handgun}}
-| titles = {{spoiler|book=lh-01-the-captain|[[Fallen Sword]], Sword of The Last Horizon, Knight of the Titan Force, [[the Sword|The Sword]]}}{{spoiler|book=lh-03-the-knight|, Miss Kalter}}{{spoiler|book=lh-04-the-pilot|, [[Vice Chief of Planetary Security|Vice Chief]]}}
+| abilities = {{spoiler|book=lh-01-the-captain|split her Flame into several pieces, fire a lance of light, summon Worldslayer, [[pulse boosters]], flame of resurrection}}{{spoiler|book=lh-02-the-engineer|, [[Temporal Field]], reach into Subspace}}{{spoiler|book=lh-04-the-pilot|, clones that engage Temporal Fields, conjure a handgun, activate a Temporal Field to dash}}
+| titles = {{spoiler|book=lh-01-the-captain|[[Fallen Sword]], Sword of The Last Horizon, Knight of the Titan Force, [[The Sword]]}}{{spoiler|book=lh-03-the-knight|, Miss Kalter}}{{spoiler|book=lh-04-the-pilot|, [[Vice Chief of Planetary Security|Vice Chief]]}}
 | affiliations = {{spoiler|book=lh-01-the-captain|[[Titan Force]], [[The Last Horizon]], [[Iron Legion]]}}{{spoiler|book=lh-02-the-engineer|, [[Union]]}}
 | professions = {{spoiler|book=lh-01-the-captain|gun for hire, warrior}}{{spoiler|book=lh-02-the-engineer|, crew member, [[Pilot|pilot]]}}{{spoiler|book=lh-03-the-knight|, worker}}
 | residence = {{spoiler|book=lh-01-the-captain|[[The Last Horizon]]}}
@@ -13,189 +13,214 @@
 ''See also: [[Sola Kalter Timeline]]''
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|Sola [[Kalter]], also known as Sola or the [[Fallen Sword]], is a highly skilled mercenary and gun for hire. She is widely regarded as a mythic figure due to her extensive experience fighting the [[Iron Legion]], an organization she knows intimately. Sola possesses a vast collection of weaponry and exhibits exceptional proficiency with [[Aethertech]], which allows her to maintain a long-standing solo campaign against the [[Legion]]. Her specialized combat armor is described as masterwork [[Aethertech]], featuring temperature regulation and a green visor. She also utilizes a weapon called [[Worldslayer]]. Sola has served as the [[Sword of The Last Horizon]], a position she accepted with the sole condition that her goal of destroying the [[Iron Legion]] be fulfilled. In this role, she has acted as a protector for her captain and provided security during transitions. Despite her mercenary background, she has connections to the [[Galactic Union]], though her relatives in the [[Dornoth system]] have faced persecution and were accused of being [[Karoshan spies]]. Sola's history includes spending time at an orphanage on [[Dornoth]] Four and engaging in various high-stakes combat missions.}}
+{{spoiler|book=lh-04-the-pilot|Sola [[Kalter]], also known as Sola or the [[Fallen Sword]], is a highly skilled mercenary and gun for hire. Known to some as a myth, she possesses an extensive knowledge of the [[Iron Legion]], an organization that serves as her primary target for a personal crusade. Sola is characterized by her immense combat prowess, an extensive collection of weaponry, and a unique ability to utilize [[Aethertech]] weapons with exceptional efficiency. Her specialized gray [[combat armor]] is masterwork in quality, featuring temperature regulation and advanced [[Aethertech]] components that allow her to keep pace with certain temporal fields. In her role as The Sword{{!}}the Sword of [[The Last Horizon]], she serves to protect the ship's captain and ensure the safety of its bridges. Her arsenal includes a weapon known as [[Worldslayer]], which she has used in battle against enemies such as [[Sel’miroth]]. Sola's background includes a period spent at an orphanage on Dornoth IV{{!}}Dornoth Four, and she has distant relatives in the [[Dornoth system]] who face social persecution for being associated with the Karoshan{{!}}Karoshans. Despite her solitary nature and professional focus on destroying the [[Iron Legion]], she has demonstrated a capacity for protection and loyalty to her allies.}}
 
-== The Captain ==
-{{spoiler|book=lh-01-the-captain|Known by the codename [[Fallen Sword]], Sola [[Kalter]] is a Knight of the [[Titan Force]] and a gun for hire who operates under the motto, "If it’s not [[Iron Legion]], call someone else." This warrior on a crusade possesses pale gray skin marked by the [[Lichborn]] and bright green eyes that flare with deathly light. Bound to her bulky gray power armor and her greatest gun, she utilizes pulse boosters to dash and wields a lightning-powered two-handed weapon capable of firing magic-keyed lances of light. Sola demonstrates extraordinary compatibility with [[Aethertech]], utilizing an inventory to store weapons like her [[Worldslayer]] and armor that can dissolve into floating blue cubes. Throughout her exploits, she relies on a unique spell beyond [[Archmage]]-level and a flame of resurrection to sustain herself through intense combat.}}
+== Appearance ==
+{{spoiler|book=lh-04-the-pilot|Sola is a gray titan with pale gray skin and bright green eyes, one of which shines with a deathly green light. She wears bulky, temperature-regulated gray power armor equipped with a silver helmet, an emerald visor, and suit speakers. Her armor can be dispersed into floating blue cubes or summoned mid-stride.}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">44</span></div>
+== Personality ==
+{{spoiler|book=lh-04-the-pilot|A reliable gun for hire and a Knight of the [[Titan Force]], Sola is a warrior on a crusade dedicated to dismantling the [[Iron Legion]]. She is a stoic and prepared crew member of [[The Last Horizon]] who follows plans, though she can experience frustration and fear during battle. She is a cautious individual who believes there is always a trap.}}
+
+== Abilities ==
+{{spoiler|book=lh-04-the-pilot|Sola possesses extraordinary compatibility with [[Aethertech]] weapons and can summon the [[Worldslayer]] or a [[Suncaster L-14]] from her inventory. Her combat skills include using a two-handed lightning gun that fires magic-keyed lances of light, utilizing [[pulse boosters]] or Temporal Fields to dash, and wielding a flame of resurrection. Additionally, she can split her flame into several pieces and use a unique spell that exceeds [[Archmage]]-level power.}}
+
+== History ==
+=== {{spoiler|book=lh-01-the-captain|The Fallen Sword}} ===
+{{spoiler|book=lh-01-the-captain|Known by the codename [[Fallen Sword]], Sola [[Kalter]] is a combatant who wears power armor that provides visual alerts and warnings.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref><ref name="lh-01-the-captain-c17">''The Captain'', chapter 17</ref> The narrator expects to meet this individual, who possesses pale gray skin, an eye shining with deathly green light, and the marks of the [[Lichborn]].<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref><ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref> Bound to both her armor and her greatest gun, Sola can split her Flame into several pieces and possesses a unique spell that exceeds [[Archmage]]-level.<ref name="lh-01-the-captain-c18" /> She utilizes a lightning-powered, two-handed gun that requires charging to fire magic-keyed lances of light, and her weapons can dissolve into particles to enter her inventory.<ref name="lh-01-the-captain-c18" /> This gun is capable of annihilating an entire hall, and Sola demonstrates extraordinary compatibility with [[Aethertech]] weapons.<ref name="lh-01-the-captain-c18" /><ref name="lh-01-the-captain-c19">''The Captain'', chapter 19</ref> A gun for hire and a Knight of the [[Titan Force]], Sola possesses a flame of resurrection and lives by the motto, 'If it’s not [[Iron Legion]], call someone else.'<ref name="lh-01-the-captain-c19" /><ref name="lh-01-the-captain-c21">''The Captain'', chapter 21</ref> While she spends her time dismantling the [[Iron Legion]] as a warrior on a crusade, she is also recognized as The Sword{{!}}the Sword of [[The Last Horizon]] and the possessor of a [[Worldslayer]].<ref name="lh-01-the-captain-c26">''The Captain'', chapter 26</ref><ref name="lh-01-the-captain-c28">''The Captain'', chapter 28</ref><ref name="lh-01-the-captain-c29">''The Captain'', chapter 29</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">30</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|Sola is known as [[Fallen Sword]].<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola wears power armor.<ref name="lh-01-the-captain-c10" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola uses the codename [[Fallen Sword]].<ref name="lh-01-the-captain-c10" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The narrator expects to meet Sola.<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola is a combatant whose armor provides warnings and visual alerts.<ref name="lh-01-the-captain-c17">''The Captain'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola has pale gray skin and an eye that shines with deathly green light.<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola has the marks of the [[Lichborn]].<ref name="lh-01-the-captain-c18" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola can split her Flame into several pieces.<ref name="lh-01-the-captain-c18" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola uses a two-handed gun that runs with lightning.<ref name="lh-01-the-captain-c18" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola's gun can fire a lance of light that carries magic keyed to the [[Iron Legion]].<ref name="lh-01-the-captain-c18" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola's gun requires charging.<ref name="lh-01-the-captain-c18" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola's weapons can dissolve into particles and enter her inventory.<ref name="lh-01-the-captain-c18" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola possesses a unique spell that is beyond [[Archmage]]-level.<ref name="lh-01-the-captain-c18" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola is bound to her armor.<ref name="lh-01-the-captain-c18" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola is bound to her greatest gun.<ref name="lh-01-the-captain-c18" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola uses a gun that can annihilate an entire hall.<ref name="lh-01-the-captain-c18" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola has extraordinary compatibility with [[Aethertech]] weapons.<ref name="lh-01-the-captain-c19">''The Captain'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola is known as [[Fallen Sword]].<ref name="lh-01-the-captain-c10" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola wears power armor.<ref name="lh-01-the-captain-c10" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola uses the codename [[Fallen Sword]].<ref name="lh-01-the-captain-c10" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The narrator expects to meet Sola Kalter{{!}}Sola.<ref name="lh-01-the-captain-c16" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola is a combatant whose armor provides warnings and visual alerts.<ref name="lh-01-the-captain-c17" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola has pale gray skin and an eye that shines with deathly green light.<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola has the marks of the [[Lichborn]].<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola can split her Flame into several pieces.<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola uses a two-handed gun that runs with lightning.<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola's gun can fire a lance of light that carries magic keyed to the [[Iron Legion]].<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola's gun requires charging.<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola's weapons can dissolve into particles and enter her inventory.<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola possesses a unique spell that is beyond [[Archmage]]-level.<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola is bound to her armor.<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola is bound to her greatest gun.<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola uses a gun that can annihilate an entire hall.<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola has extraordinary compatibility with [[Aethertech]] weapons.<ref name="lh-01-the-captain-c19" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Sola Kalter]] is a gun for hire.<ref name="lh-01-the-captain-c19" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Sola Kalter]] possesses a flame of resurrection.<ref name="lh-01-the-captain-c19" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Sola Kalter]]'s motto is 'If it’s not [[Iron Legion]], call someone else.'<ref name="lh-01-the-captain-c19" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola has a leg that a little girl was prying off of.<ref name="lh-01-the-captain-c21">''The Captain'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola has a leg that a little girl was prying off of.<ref name="lh-01-the-captain-c21" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Sola Kalter]] is a Knight of the [[Titan Force]].<ref name="lh-01-the-captain-c21" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola spends her time dismantling the [[Iron Legion]].<ref name="lh-01-the-captain-c26">''The Captain'', chapter 26</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola might have seen a specific creation in a [[Hive]] before.<ref name="lh-01-the-captain-c27">''The Captain'', chapter 27</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|[[Sola Kalter]] is a warrior on a crusade.<ref name="lh-01-the-captain-c28">''The Captain'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola spends her time dismantling the [[Iron Legion]].<ref name="lh-01-the-captain-c26" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola might have seen a specific creation in a [[Hive]] before.<ref name="lh-01-the-captain-c27">''The Captain'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Sola Kalter]] is a warrior on a crusade.<ref name="lh-01-the-captain-c28" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Sola Kalter]] is known as the [[Fallen Sword]].<ref name="lh-01-the-captain-c28" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola is a character who uses a shotgun and has an inventory.<ref name="lh-01-the-captain-c29">''The Captain'', chapter 29</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola is the [[Sword of The Last Horizon]].<ref name="lh-01-the-captain-c29" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola uses pulse boosters in her armor to dash.<ref name="lh-01-the-captain-c29" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola possesses a [[Worldslayer]].<ref name="lh-01-the-captain-c32">''The Captain'', chapter 32</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola is someone the Captain relies on.<ref name="lh-01-the-captain-c35">''The Captain'', chapter 35</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola uses a gun that can be placed into an inventory.<ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola's eyes flare with green light.<ref name="lh-01-the-captain-c39">''The Captain'', chapter 39</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola has bright green eyes.<ref name="lh-01-the-captain-c39" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola is ready to tear the ship in half if given a signal.<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola has a camp focused on executing [[Omal]].<ref name="lh-01-the-captain-c40" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola wears bulky gray armor and can summon [[Worldslayer]].<ref name="lh-01-the-captain-c42">''The Captain'', chapter 42</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola used a spear against the narrator's hammer.<ref name="lh-01-the-captain-c42" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola wears armor that can dissolve into floating blue cubes.<ref name="lh-01-the-captain-c44">''The Captain'', chapter 44</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Tendrils from the [[Iron King]]'s back were battling Sola.<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola was about to revive.<ref name="lh-01-the-captain-c45" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola was being reborn in flame in her room.<ref name="lh-01-the-captain-c45" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola wears a silver helmet with a visor.<ref name="lh-01-the-captain-c47">''The Captain'', chapter 47</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola put away the [[Worldslayer]].<ref name="lh-01-the-captain-c48">''The Captain'', chapter 48</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola is a character who uses a [[shotgun]] and has an inventory.<ref name="lh-01-the-captain-c29" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola is The Sword{{!}}the Sword of [[The Last Horizon]].<ref name="lh-01-the-captain-c29" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola uses [[pulse boosters]] in her armor to dash.<ref name="lh-01-the-captain-c29" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola possesses a [[Worldslayer]].<ref name="lh-01-the-captain-c32">''The Captain'', chapter 32</ref>}}</li>
 </ul></div>
 
-== The Engineer ==
-{{spoiler|book=lh-02-the-engineer|Known as the [[Sword of The Last Horizon]], Sola [[Kalter]] is a crew member who previously operated alone and now seeks the destruction of the [[Iron Legion]]. Clad in gray power armor with an emerald visor that streams text into her processor, she utilizes suit speakers and possesses weapons capable of reaching into [[Subspace]]. During her service, she has piloted a captured [[Lichborn heavy shuttle]], protected prisoners, and utilized a [[Suncaster L-14]]. Her specialized suit can be dispersed and re-formed by her, allowing it to partially keep up with a [[Temporal Field]]. Following the fall of the [[Iron Legion]], Sola became more relaxed and has since been responsible for readying ships to fire and projecting holographic schematics of [[Advocate headquarters]].}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">31</span></div>
+{{spoiler|book=lh-01-the-captain|Sola [[Kalter]] is a dependable figure for the Captain and utilizes a gun that can be stored within an inventory.<ref name="lh-01-the-captain-c35">''The Captain'', chapter 35</ref><ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref> Her bright green eyes are known to flare with light.<ref name="lh-01-the-captain-c39">''The Captain'', chapter 39</ref> She maintains a camp dedicated to the execution of [[Omal]] and stands ready to tear a ship in half upon receiving a signal.<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref> Clad in bulky gray armor that can dissolve into floating blue cubes, she is capable of summoning [[Worldslayer]].<ref name="lh-01-the-captain-c42">''The Captain'', chapter 42</ref><ref name="lh-01-the-captain-c44">''The Captain'', chapter 44</ref> During a confrontation involving the narrator's hammer, she wielded a spear.<ref name="lh-01-the-captain-c42" /> While in her room, she underwent a process of being reborn in flame as she was about to revive.<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref> Sola wears a silver helmet with a visor and eventually put away the [[Worldslayer]].<ref name="lh-01-the-captain-c47">''The Captain'', chapter 47</ref><ref name="lh-01-the-captain-c48">''The Captain'', chapter 48</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|Sola is a crew member who uses suit speakers.<ref name="lh-02-the-engineer-c2">''The Engineer'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Sola Kalter]] is the [[Sword of The Last Horizon]].<ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola is someone the Captain relies on.<ref name="lh-01-the-captain-c35" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola uses a gun that can be placed into an inventory.<ref name="lh-01-the-captain-c38" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola's eyes flare with green light.<ref name="lh-01-the-captain-c39" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola has bright green eyes.<ref name="lh-01-the-captain-c39" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola is ready to tear the ship in half if given a signal.<ref name="lh-01-the-captain-c40" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola has a camp focused on executing [[Omal]].<ref name="lh-01-the-captain-c40" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola wears bulky gray armor and can summon [[Worldslayer]].<ref name="lh-01-the-captain-c42" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola used a spear against the narrator's hammer.<ref name="lh-01-the-captain-c42" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola wears armor that can dissolve into floating blue cubes.<ref name="lh-01-the-captain-c44" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola was about to revive.<ref name="lh-01-the-captain-c45" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola was being reborn in flame in her room.<ref name="lh-01-the-captain-c45" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola wears a silver helmet with a visor.<ref name="lh-01-the-captain-c47" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola put away the [[Worldslayer]].<ref name="lh-01-the-captain-c48" />}}</li>
+</ul></div>
+
+=== {{spoiler|book=lh-02-the-engineer|Crew of The Last Horizon}} ===
+{{spoiler|book=lh-02-the-engineer|As a crew member of [[The Last Horizon]], Sola [[Kalter]] utilizes suit speakers and is known as The Sword{{!}}the Sword.<ref name="lh-02-the-engineer-c2">''The Engineer'', chapter 2</ref><ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref> She wears gray power armor featuring an emerald visor and is driven by a desire to destroy the [[Iron Legion]].<ref name="lh-02-the-engineer-c3" /><ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref> Operating guns while clad in full armor, she previously worked alone before piloting a captured [[Lichborn heavy shuttle]].<ref name="lh-02-the-engineer-c9">''The Engineer'', chapter 9</ref><ref name="lh-02-the-engineer-c10">''The Engineer'', chapter 10</ref><ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref> Sola uses a pistol to fire stun bolts and possesses weaponry capable of reaching into [[Subspace]].<ref name="lh-02-the-engineer-c12" /><ref name="lh-02-the-engineer-c15">''The Engineer'', chapter 15</ref> After stepping forward to protect prisoners, she was found in the personal weapons laboratory of [[The Last Horizon]].<ref name="lh-02-the-engineer-c17">''The Engineer'', chapter 17</ref><ref name="lh-02-the-engineer-c21">''The Engineer'', chapter 21</ref> Her armor can be dispersed and re-formed by her, while her visor streams text directly into her processor.<ref name="lh-02-the-engineer-c21" /> While questioning if [[Queen Shyrax]] was a master, she served as a source for weapons in the envisioned fleet.<ref name="lh-02-the-engineer-c21" /><ref name="lh-02-the-engineer-c24">''The Engineer'', chapter 24</ref> A member of the crew who can control engines, Sola readouts from a monitor while jogging.<ref name="lh-02-the-engineer-c29">''The Engineer'', chapter 29</ref><ref name="lh-02-the-engineer-c30">''The Engineer'', chapter 30</ref><ref name="lh-02-the-engineer-c32">''The Engineer'', chapter 32</ref> Dressed in a full suit of gray armor, she was responsible for readying the ships to fire and was present during the discussion.<ref name="lh-02-the-engineer-c34">''The Engineer'', chapter 34</ref><ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref><ref name="lh-02-the-engineer-c39">''The Engineer'', chapter 39</ref> She sat stoically while [[Lichborn orphans]] crawled on her and carried a [[Suncaster L-14]] in her inventory.<ref name="lh-02-the-engineer-c45">''The Engineer'', chapter 45</ref><ref name="lh-02-the-engineer-c48">''The Engineer'', chapter 48</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">30</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola is a crew member who uses suit speakers.<ref name="lh-02-the-engineer-c2" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Sola Kalter]] is The Sword{{!}}the Sword of [[The Last Horizon]].<ref name="lh-02-the-engineer-c3" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Sola Kalter]] wears gray power armor with an emerald visor.<ref name="lh-02-the-engineer-c3" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola is a crew member who seeks the destruction of the [[Iron Legion]].<ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola is a crew member who wears full armor and operates guns.<ref name="lh-02-the-engineer-c9">''The Engineer'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola is a crew member who previously operated alone.<ref name="lh-02-the-engineer-c10">''The Engineer'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola piloted a captured [[Lichborn heavy shuttle]].<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola is a character who uses a pistol to shoot stun bolts.<ref name="lh-02-the-engineer-c12" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola possesses weapons that can reach into [[Subspace]].<ref name="lh-02-the-engineer-c15">''The Engineer'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola stepped forward to protect the prisoners.<ref name="lh-02-the-engineer-c17">''The Engineer'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola is in the personal weapons laboratory of [[The Last Horizon]].<ref name="lh-02-the-engineer-c21">''The Engineer'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola's armor can be dispersed and re-formed by her.<ref name="lh-02-the-engineer-c21" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola's suit visor streams text into her processor.<ref name="lh-02-the-engineer-c21" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola is a crew member who seeks the [[destruction]] of the [[Iron Legion]].<ref name="lh-02-the-engineer-c5" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola is a crew member who wears full armor and operates guns.<ref name="lh-02-the-engineer-c9" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola is a crew member who previously operated alone.<ref name="lh-02-the-engineer-c10" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola piloted a captured [[Lichborn heavy shuttle]].<ref name="lh-02-the-engineer-c12" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola is a character who uses a pistol to shoot stun bolts.<ref name="lh-02-the-engineer-c12" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola possesses weapons that can reach into [[Subspace]].<ref name="lh-02-the-engineer-c15" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola stepped forward to protect the prisoners.<ref name="lh-02-the-engineer-c17" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola is in the personal weapons laboratory of [[The Last Horizon]].<ref name="lh-02-the-engineer-c21" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola's armor can be dispersed and re-formed by her.<ref name="lh-02-the-engineer-c21" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola's suit visor streams text into her processor.<ref name="lh-02-the-engineer-c21" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Sola Kalter]] questioned if [[Queen Shyrax]] was a master.<ref name="lh-02-the-engineer-c21" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola is a source for weapons in the envisioned fleet.<ref name="lh-02-the-engineer-c24">''The Engineer'', chapter 24</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola is a member of the crew of [[The Last Horizon]].<ref name="lh-02-the-engineer-c29">''The Engineer'', chapter 29</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola is a person who can control engines.<ref name="lh-02-the-engineer-c29" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola reads readouts from a monitor.<ref name="lh-02-the-engineer-c30">''The Engineer'', chapter 30</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola is a member of the crew who became more relaxed following the fall of the [[Iron Legion]].<ref name="lh-02-the-engineer-c32">''The Engineer'', chapter 32</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola is jogging.<ref name="lh-02-the-engineer-c32" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola wears a full suit of gray armor.<ref name="lh-02-the-engineer-c34">''The Engineer'', chapter 34</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola is responsible for readying the ships to fire.<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola is present during the discussion.<ref name="lh-02-the-engineer-c39">''The Engineer'', chapter 39</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola sat stoically while [[Lichborn orphans]] crawled on her.<ref name="lh-02-the-engineer-c45">''The Engineer'', chapter 45</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola has a [[Suncaster L-14]] in her inventory.<ref name="lh-02-the-engineer-c48">''The Engineer'', chapter 48</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola projected a holographic schematic of [[Advocate headquarters]] from her suit's console.<ref name="lh-02-the-engineer-c50">''The Engineer'', chapter 50</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola has [[Union]] contacts.<ref name="lh-02-the-engineer-c50" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola nodded to Shyrax's command.<ref name="lh-02-the-engineer-c50" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Sola Kalter]] is known as [[the Sword]].<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola is a source for weapons in the envisioned fleet.<ref name="lh-02-the-engineer-c24" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola is a member of the crew of [[The Last Horizon]].<ref name="lh-02-the-engineer-c29" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola is a person who can control engines.<ref name="lh-02-the-engineer-c29" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola reads readouts from a monitor.<ref name="lh-02-the-engineer-c30" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola is jogging.<ref name="lh-02-the-engineer-c32" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola wears a full suit of gray armor.<ref name="lh-02-the-engineer-c34" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola is responsible for readying the ships to fire.<ref name="lh-02-the-engineer-c36" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola is present during the discussion.<ref name="lh-02-the-engineer-c39" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola sat stoically while [[Lichborn orphans]] crawled on her.<ref name="lh-02-the-engineer-c45" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola has a [[Suncaster L-14]] in her inventory.<ref name="lh-02-the-engineer-c48" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola projected a holographic schematic of [[Advocate headquarters]] from her suit's [[console]].<ref name="lh-02-the-engineer-c50">''The Engineer'', chapter 50</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola has [[Union]] contacts.<ref name="lh-02-the-engineer-c50" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola nodded to Queen Shyrax{{!}}Shyrax's command.<ref name="lh-02-the-engineer-c50" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Sola Kalter]] is known as The Sword{{!}}the Sword.<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Sola Kalter]]'s suit can keep up with [[Starhammer]]'s [[Temporal Field]] to some degree.<ref name="lh-02-the-engineer-c52" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Sola uses a powerful weapon and has a [[Temporal Field]].<ref name="lh-02-the-engineer-c52" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Sola Kalter{{!}}Sola uses a powerful weapon and has a [[Temporal Field]].<ref name="lh-02-the-engineer-c52" />}}</li>
 </ul></div>
 
-== The Knight ==
-{{spoiler|book=lh-03-the-knight|A reliable worker for hire who prefers the [[Iron Legion]], Miss [[Kalter]] serves as a crew member on [[The Last Horizon]]. While wearing [[Aethertech armor]] with a green visor, she operates various consoles to unload missiles and [[Subspace torpedoes]], though her offensive firepower is sometimes limited by the need to maintain shields. During her time onboard, she has performed guard duty outside the bridge, inspected the [[Zenith Cannon]] before handing it over to [[Omega]], and used the [[Worldslayer]] to shoot [[Sel’miroth]]. After materializing in a cramped room with hissing pipes, she was later found in the [[workshop]] working on a disassembled handgun. Throughout her various contracts, including targeting the [[Visiri]], she has remained a prepared companion to Varic and has even warned others against the risks of traveling to the Heart of [[Visiria]].}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">33</span></div>
+=== {{spoiler|book=lh-03-the-knight|Companion of Varic}} ===
+{{spoiler|book=lh-03-the-knight|Sola [[Kalter]], also referred to as Miss [[Kalter]], wears [[Aethertech armor]] featuring a green visor.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref><ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref> A reliable worker for hire who prefers sticking to the [[Iron Legion]], she is currently fulfilling another contract.<ref name="lh-03-the-knight-c15">''The Knight'', chapter 15</ref> As a companion of Varic Vallenar{{!}}Varic and a crew member of [[The Last Horizon]], she operates the cruiser and uses the [[Worldslayer]] to shoot [[Sel’miroth]].<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref><ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref><ref name="lh-03-the-knight-c37">''The Knight'', chapter 37</ref> Communicating via a processor, she reports problems and summarizes situational reports while following established plans.<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref><ref name="lh-03-the-knight-c16" /><ref name="lh-03-the-knight-c18">''The Knight'', chapter 18</ref> During her duties on the ship, she has been seen guarding the bridge, inspecting the [[Zenith Cannon]] before handing it over to [[Omega]], and operating a [[console]] to unload missiles and [[Subspace torpedoes]].<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref><ref name="lh-03-the-knight-c38">''The Knight'', chapter 38</ref><ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref> While her ability to use weapons was once limited by shield maintenance, she has also been tasked with targeting the [[Visiri]] and warned that traveling to the The Heart of Visiria{{!}}Heart of Visiria was a foolish risk.<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref><ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref><ref name="lh-03-the-knight-c37" />}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">30</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|Sola wears armor with a green visor and [[Aethertech]].<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola wants to lock down the [[Zenith Cannon]].<ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola reports problems to the narrator.<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola is a reliable worker who works for hire.<ref name="lh-03-the-knight-c15">''The Knight'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola is currently on another contract.<ref name="lh-03-the-knight-c15" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola prefers sticking to the [[Iron Legion]].<ref name="lh-03-the-knight-c15" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola is a companion of Varic who operates the cruiser.<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola is a companion of Varic who uses the [[Worldslayer]].<ref name="lh-03-the-knight-c16" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola communicates via a processor.<ref name="lh-03-the-knight-c16" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola used [[Worldslayer]] to shoot [[Sel’miroth]].<ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola reads and summarizes reports on the situation.<ref name="lh-03-the-knight-c18">''The Knight'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola materialized in a dark, cramped room with pipes hissing over her head.<ref name="lh-03-the-knight-c18" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola is referred to as Miss [[Kalter]].<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola was on guard duty outside the bridge.<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola inspected the [[Zenith Cannon]].<ref name="lh-03-the-knight-c22" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola handed the [[Zenith Cannon]] over to [[Omega]].<ref name="lh-03-the-knight-c22" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola toys with a gun.<ref name="lh-03-the-knight-c23">''The Knight'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola is someone Varic intends to check on.<ref name="lh-03-the-knight-c28">''The Knight'', chapter 28</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola is onboard the ship.<ref name="lh-03-the-knight-c28" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola was in the [[workshop]] sitting at a desk with a half-disassembled handgun.<ref name="lh-03-the-knight-c28" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola's medical room incorporates [[Lichborn]] design elements and a light made of flickering [[green flame]].<ref name="lh-03-the-knight-c32">''The Knight'', chapter 32</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola warned that going to the Heart of [[Visiria]] was a stupid risk.<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola is tasked with targeting the [[Visiri]].<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola is a crew member or entity on [[The Last Horizon]] who follows plans.<ref name="lh-03-the-knight-c37">''The Knight'', chapter 37</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola's ability to use weapons was limited by how much of the shield had to be maintained.<ref name="lh-03-the-knight-c37" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola is a crew member of [[The Last Horizon]] who uses offensive firepower.<ref name="lh-03-the-knight-c38">''The Knight'', chapter 38</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola is a crew member.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola operates a console on [[The Last Horizon]].<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola is a character who unloads missiles and [[Subspace torpedoes]].<ref name="lh-03-the-knight-c40" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Shyrax woke Sola.<ref name="lh-03-the-knight-c40" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola is part of a group that can draw up battle plans.<ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola is more prepared than the others and wears her armor at her console.<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola told Raion to stay alive.<ref name="lh-03-the-knight-c44" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola wears armor with a green visor and [[Aethertech]].<ref name="lh-03-the-knight-c4" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola wants to lock down the [[Zenith Cannon]].<ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola reports problems to the narrator.<ref name="lh-03-the-knight-c14" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola is a reliable worker who works for hire.<ref name="lh-03-the-knight-c15" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola is currently on another contract.<ref name="lh-03-the-knight-c15" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola prefers sticking to the [[Iron Legion]].<ref name="lh-03-the-knight-c15" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola is a companion of Varic Vallenar{{!}}Varic who operates the cruiser.<ref name="lh-03-the-knight-c16" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola is a companion of Varic Vallenar{{!}}Varic who uses the [[Worldslayer]].<ref name="lh-03-the-knight-c16" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola communicates via a processor.<ref name="lh-03-the-knight-c16" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola used [[Worldslayer]] to shoot [[Sel’miroth]].<ref name="lh-03-the-knight-c17" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola reads and summarizes reports on the situation.<ref name="lh-03-the-knight-c18" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola materialized in a dark, cramped room with pipes hissing over her head.<ref name="lh-03-the-knight-c18" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola is referred to as Miss [[Kalter]].<ref name="lh-03-the-knight-c21" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola was on guard duty outside the bridge.<ref name="lh-03-the-knight-c22" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola inspected the [[Zenith Cannon]].<ref name="lh-03-the-knight-c22" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola handed the [[Zenith Cannon]] over to [[Omega]].<ref name="lh-03-the-knight-c22" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola toys with a gun.<ref name="lh-03-the-knight-c23">''The Knight'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola is someone Varic Vallenar{{!}}Varic intends to check on.<ref name="lh-03-the-knight-c28">''The Knight'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola is onboard the ship.<ref name="lh-03-the-knight-c28" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola was in the Workshop{{!}}workshop sitting at a desk with a half-disassembled handgun.<ref name="lh-03-the-knight-c28" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola's medical room incorporates [[Lichborn]] design elements and a light made of flickering [[green flame]].<ref name="lh-03-the-knight-c32">''The Knight'', chapter 32</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola warned that going to the The Heart of Visiria{{!}}Heart of Visiria was a stupid risk.<ref name="lh-03-the-knight-c35" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola is tasked with targeting the [[Visiri]].<ref name="lh-03-the-knight-c36" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola is a crew member or entity on [[The Last Horizon]] who follows plans.<ref name="lh-03-the-knight-c37" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola's ability to use weapons was limited by how much of the shield had to be maintained.<ref name="lh-03-the-knight-c37" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola is a crew member of [[The Last Horizon]] who uses offensive firepower.<ref name="lh-03-the-knight-c38" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola is a crew member.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola operates a [[console]] on [[The Last Horizon]].<ref name="lh-03-the-knight-c40" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola is a character who unloads missiles and [[Subspace torpedoes]].<ref name="lh-03-the-knight-c40" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax woke Sola Kalter{{!}}Sola.<ref name="lh-03-the-knight-c40" />}}</li>
 </ul></div>
 
-== The Pilot ==
-{{spoiler|book=lh-04-the-pilot|Sola [[Kalter]] is a gray titan serving as Vice Chief and a shuttle pilot for [[Horizon]]. Equipped with temperature-regulated combat armor, a green visor, and an audio implant, she utilizes various technologies including sensor displays, wrist consoles, and a gun that can dissolve into cubes of light. During her service as a crewmate to [[Omega]], she identified the [[Hive]] as containing everything required to create a King and successfully engaged [[Aila Escalon]] in combat, eventually splattering her across [[Dornoth]]'s orbit. Throughout the conflict, Sola demonstrated versatile combat abilities by deploying clones to engage Temporal Fields, using matter-reduction grenades, and redirecting power through the weapons systems of [[The Last Horizon]]. Despite experiencing fear and frustration during battle, she ultimately advised the Captain to leave while managing her weaponry and specialized gear.}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">39</span></div>
+{{spoiler|book=lh-03-the-knight|Sola belongs to a specific group capable of developing battle plans.<ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref> Displaying more preparation than her peers, she remains clad in her armor while at her [[console]].<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref> During these events, she instructed Raion Raithe{{!}}Raion to stay alive.<ref name="lh-03-the-knight-c44" />}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|Sola is a pilot of one of [[Horizon]]’s shuttles.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola wears temperature-regulated combat armor.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola is the Vice Chief.<ref name="lh-04-the-pilot-c4" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola uses a gun with impact rounds.<ref name="lh-04-the-pilot-c4" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola wears a green visor.<ref name="lh-04-the-pilot-c4" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola has armor held in a frame.<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola taps images on sensor displays and tosses them onto holo-projectors.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola reacts to the star-map by identifying 'The [[Hive]]!'<ref name="lh-04-the-pilot-c10" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola notes that everything needed to make a King is in the [[Hive]].<ref name="lh-04-the-pilot-c10" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola can fire weapons from the ship.<ref name="lh-04-the-pilot-c12">''The Pilot'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola is ready to fire and requested permission.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola unleashes green fury on [[Omega’s daughter]].<ref name="lh-04-the-pilot-c14" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola uses clones that engage Temporal Fields.<ref name="lh-04-the-pilot-c14" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola won an exchange against Aila and splattered her across [[Dornoth]]’s orbit.<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola manufactures ammunition and has a green [[Lichborn]] eye.<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola projects station maps from her armor's wrist console.<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola communicates via audio implant.<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola is experiencing frustration and fear during the battle.<ref name="lh-04-the-pilot-c28">''The Pilot'', chapter 28</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola is a crewmate of [[Omega]] who uses weaponry.<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola uses a gun to control and target weapons.<ref name="lh-04-the-pilot-c29" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola is a combatant currently fighting a clone of Aila.<ref name="lh-04-the-pilot-c29" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola would return to the ship if killed.<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola lacks armor.<ref name="lh-04-the-pilot-c30" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola uses a matter-reduction grenade from her [[Subspace inventory]].<ref name="lh-04-the-pilot-c30" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola's gun can dissolve into cubes of light.<ref name="lh-04-the-pilot-c30" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola wears full armor and is walking through the [[Titan Force headquarters]].<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola believes there is always a trap.<ref name="lh-04-the-pilot-c35">''The Pilot'', chapter 35</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola has family on Fathom.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola is a gray titan.<ref name="lh-04-the-pilot-c37" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola can activate a [[Temporal Field]] to dash.<ref name="lh-04-the-pilot-c37" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola can conjure a handgun.<ref name="lh-04-the-pilot-c37" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola's helmet has speakers.<ref name="lh-04-the-pilot-c37" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola's friend died.<ref name="lh-04-the-pilot-c40">''The Pilot'', chapter 40</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola is a passenger on the shuttle.<ref name="lh-04-the-pilot-c42">''The Pilot'', chapter 42</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola is someone [[Aila Escalon]] has fought.<ref name="lh-04-the-pilot-c44">''The Pilot'', chapter 44</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola can summon her armor mid-stride.<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola can emerge from her [[Pyre]] safely on a ship.<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola redirected power throughout [[The Last Horizon]]’s weapons systems.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola advises the Captain to leave.<ref name="lh-04-the-pilot-c49" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola is part of a group that can draw up battle plans.<ref name="lh-03-the-knight-c41" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola is more prepared than the others and wears her armor at her [[console]].<ref name="lh-03-the-knight-c44" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola told Raion Raithe{{!}}Raion to stay alive.<ref name="lh-03-the-knight-c44" />}}</li>
+</ul></div>
+
+=== {{spoiler|book=lh-04-the-pilot|Vice Chief of Horizon}} ===
+{{spoiler|book=lh-04-the-pilot|As a pilot for one of [[Horizon]]'s shuttles, Sola [[Kalter]] serves as the Vice Chief of Planetary Security{{!}}Vice Chief.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref><ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref> She wears temperature-regulated [[combat armor]] held in a frame and utilizes a green visor.<ref name="lh-04-the-pilot-c4" /><ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref> Equipped with a gun that uses impact rounds, Sola manages sensor displays by tapping images and tossing them onto holo-projectors.<ref name="lh-04-the-pilot-c4" /><ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref> Sola observes that the [[Hive]] contains everything required to make a King.<ref name="lh-04-the-pilot-c10" /> Capable of firing weapons from her ship, she requested permission to unleash green fury upon Omega’s daughter{{!}}Omega's daughter.<ref name="lh-04-the-pilot-c12">''The Pilot'', chapter 12</ref><ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref> During combat, she utilizes clones that engage Temporal Fields and successfully won an exchange against Aila Escalon{{!}}Aila by splattering her across [[Dornoth]]'s orbit.<ref name="lh-04-the-pilot-c14" /><ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref> Sola, who manufactures her own ammunition and possesses a green [[Lichborn]] eye, can project station maps from a wrist [[console]] on her armor.<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref><ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref> Communicating through an [[audio implant]], she experiences both fear and frustration during the battle.<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref><ref name="lh-04-the-pilot-c28">''The Pilot'', chapter 28</ref> As a crewmate of [[Omega]], she uses a gun to target and control weaponry while fighting a clone of Aila Escalon{{!}}Aila.<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref> If killed, Sola would return to the ship, though she currently lacks armor and must use a matter reduction grenade{{!}}matter-reduction grenade from her [[Subspace inventory]] while her gun dissolves into cubes of light.<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">24</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola is a pilot of one of [[Horizon]]’s shuttles.<ref name="lh-04-the-pilot-c3" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola wears temperature-regulated [[combat armor]].<ref name="lh-04-the-pilot-c4" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola is the Vice Chief of Planetary Security{{!}}Vice Chief.<ref name="lh-04-the-pilot-c4" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola uses a gun with impact rounds.<ref name="lh-04-the-pilot-c4" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola wears a green visor.<ref name="lh-04-the-pilot-c4" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola has armor held in a frame.<ref name="lh-04-the-pilot-c8" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola taps images on sensor displays and tosses them onto holo-projectors.<ref name="lh-04-the-pilot-c10" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola notes that everything needed to make a King is in the [[Hive]].<ref name="lh-04-the-pilot-c10" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola can fire weapons from the ship.<ref name="lh-04-the-pilot-c12" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola is ready to fire and requested permission.<ref name="lh-04-the-pilot-c14" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola unleashes green fury on [[Omega’s daughter]].<ref name="lh-04-the-pilot-c14" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola uses clones that engage Temporal Fields.<ref name="lh-04-the-pilot-c14" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola won an exchange against Aila Escalon{{!}}Aila and splattered her across [[Dornoth]]’s orbit.<ref name="lh-04-the-pilot-c15" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola manufactures ammunition and has a green [[Lichborn]] eye.<ref name="lh-04-the-pilot-c19" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola projects station maps from her armor's wrist [[console]].<ref name="lh-04-the-pilot-c20" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola communicates via [[audio implant]].<ref name="lh-04-the-pilot-c25" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola is experiencing frustration and fear during the battle.<ref name="lh-04-the-pilot-c28" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola is a crewmate of [[Omega]] who uses weaponry.<ref name="lh-04-the-pilot-c29" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola uses a gun to control and target weapons.<ref name="lh-04-the-pilot-c29" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola is a combatant currently fighting a clone of Aila Escalon{{!}}Aila.<ref name="lh-04-the-pilot-c29" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola would return to the ship if killed.<ref name="lh-04-the-pilot-c30" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola lacks armor.<ref name="lh-04-the-pilot-c30" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola uses a matter reduction grenade{{!}}matter-reduction grenade from her [[Subspace inventory]].<ref name="lh-04-the-pilot-c30" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola's gun can dissolve into cubes of light.<ref name="lh-04-the-pilot-c30" />}}</li>
+</ul></div>
+
+=== {{spoiler|book=lh-04-the-pilot|Titan Force headquarters}} ===
+{{spoiler|book=lh-04-the-pilot|While walking through the [[Titan Force headquarters]], Sola [[Kalter]] is clad in full armor.<ref name="lh-04-the-pilot-c32">''The Pilot'', chapter 32</ref> Sola maintains a cautious mindset, believing that a trap is always present.<ref name="lh-04-the-pilot-c35">''The Pilot'', chapter 35</ref> A gray titan with family residing on Fathom, Sola possesses the ability to conjure a handgun and activate a [[Temporal Field]] to dash.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref> Sola's helmet is equipped with speakers and the character is mourning a friend who died.<ref name="lh-04-the-pilot-c37" /><ref name="lh-04-the-pilot-c40">''The Pilot'', chapter 40</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola wears full armor and is walking through the [[Titan Force headquarters]].<ref name="lh-04-the-pilot-c32" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola believes there is always a trap.<ref name="lh-04-the-pilot-c35" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola has family on Fathom.<ref name="lh-04-the-pilot-c37" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola is a gray titan.<ref name="lh-04-the-pilot-c37" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola can activate a [[Temporal Field]] to dash.<ref name="lh-04-the-pilot-c37" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola can conjure a handgun.<ref name="lh-04-the-pilot-c37" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola's helmet has speakers.<ref name="lh-04-the-pilot-c37" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola's friend died.<ref name="lh-04-the-pilot-c40" />}}</li>
+</ul></div>
+
+=== {{spoiler|book=lh-04-the-pilot|Shuttle passenger}} ===
+{{spoiler|book=lh-04-the-pilot|Sola [[Kalter]] travels as a passenger aboard the shuttle.<ref name="lh-04-the-pilot-c42">''The Pilot'', chapter 42</ref> She is known to [[Aila Escalon]] as a former combatant.<ref name="lh-04-the-pilot-c44">''The Pilot'', chapter 44</ref> During movement, Sola possesses the ability to summon her armor mid-stride and can emerge safely from her [[Pyre]] while on a ship.<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref><ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref> While aboard [[The Last Horizon]], she redirected power through the vessel's weapons systems and advised the Captain to depart.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola is a passenger on the shuttle.<ref name="lh-04-the-pilot-c42" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola is someone [[Aila Escalon]] has fought.<ref name="lh-04-the-pilot-c44" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola can summon her armor mid-stride.<ref name="lh-04-the-pilot-c47" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola can emerge from her [[Pyre]] safely on a ship.<ref name="lh-04-the-pilot-c48" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola redirected power throughout [[The Last Horizon]]’s weapons systems.<ref name="lh-04-the-pilot-c49" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola advises the Captain to leave.<ref name="lh-04-the-pilot-c49" />}}</li>
 </ul></div>
 
 == Notable quotes ==
 * {{spoiler|book=lh-01-the-captain|“Fallen Sword. Thank you for responding to our request, but it’s all over.”<ref name="lh-01-the-captain-c10" />}}
-* {{spoiler|book=lh-01-the-captain|“If it’s not Iron Legion, call someone else.”<ref name="lh-01-the-captain-c19" />}}
 * {{spoiler|book=lh-02-the-engineer|“I am Sola Kalter, Sword of The Last Horizon. I’m here to ensure that the bridge is safe for my captain.”<ref name="lh-02-the-engineer-c3" />}}
 * {{spoiler|book=lh-02-the-engineer|“And is she a master?” Sola asked him, though Shyrax was more than close enough to hear.<ref name="lh-02-the-engineer-c21" />}}
 * {{spoiler|book=lh-02-the-engineer|“Is he going to come for us again?” Sola asked.<ref name="lh-02-the-engineer-c39" />}}
+* {{spoiler|book=lh-03-the-knight|“If we can lock down the Zenith Cannon, we should.<ref name="lh-03-the-knight-c8" />}}
 
 == Notes ==
 <references />
@@ -209,7 +234,3 @@
 [[Category:The Pilot]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon characters]]
-[[Category:Titan Force]]
-[[Category:Iron Legion]]
-[[Category:Titled characters]]
-[[Category:Viewpoint characters]]

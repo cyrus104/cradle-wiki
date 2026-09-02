@@ -1,13 +1,13 @@
 {{Infobox artifact
 | name = Blackwatch spikes
-| introduced = Of Kings and Killers
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
 }}
 
 == Of Kings and Killers ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Bliss]] uses [[Blackwatch spikes]] to nail silver rings into walls.<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Blackwatch spikes]] and silver rings are powerful [[Elder]] countermeasures.<ref name="ee-sea-03-of-kings-and-killers-c9" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Bliss of the Blackwatch{{!}}Bliss uses [[Blackwatch spikes]] to nail silver rings into walls.<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Blackwatch spikes]] and silver rings are powerful Elder countermeasures.<ref name="ee-sea-03-of-kings-and-killers-c9" />}}</li>
 </ul></div>
 
 == Of Killers and Kings ==

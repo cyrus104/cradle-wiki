@@ -1,0 +1,33 @@
+{{Infobox madra
+| name = silver madra
+| introduced = [[Skysworn (novel)|Skysworn]]
+}}
+
+== Skysworn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-04-skysworn|Naru Cassias Arelius{{!}}Cassias uses [[silver madra]].<ref name="cradle-04-skysworn-c9">''Skysworn'', chapter 9</ref>}}</li>
+</ul></div>
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|[[Yerin]] has [[silver madra]] limbs.<ref name="cradle-05-ghostwater-c14">''Ghostwater'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Yerin's Goldsigns]] gather [[silver madra]].<ref name="cradle-07-uncrowned-c14">''Uncrowned'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Madra]]
+[[Category:Skysworn]]
+[[Category:Ghostwater]]
+[[Category:Uncrowned]]
+[[Category:Cradle]]

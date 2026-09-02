@@ -1,0 +1,28 @@
+{{Expand}}
+
+{{Infobox construct
+| name = craghounds
+| introduced = [[Unsouled (novel)|Unsouled]]
+}}
+
+== Unsouled ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-01-unsouled|The bulkiest of the [[Kazan]] [[stone]] dog mounts are called [[craghounds]].<ref name="cradle-01-unsouled-c8">''Unsouled'', chapter 8</ref>}}</li>
+</ul></div>
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|[[Kazan]] men and women were mounted on [[craghounds]].<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Constructs]]
+[[Category:Unsouled]]
+[[Category:Bloodline]]
+[[Category:Cradle]]

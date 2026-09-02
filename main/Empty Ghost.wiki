@@ -1,12 +1,12 @@
 {{Infobox concept
 | name = Empty Ghost
-| introduced = Dreadgod
+| introduced = [[Dreadgod (novel)|Dreadgod]]
 }}
 
 ''See also: [[Empty Ghost Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|The [[Empty]] [[Ghost]], also referred to as the [[Hollow King]], is a dark spirit and a significant threat characterized as a hollow imitation of humanity. Recognized for his immense danger and past transgressions, he has been designated as the temporary successor to the [[Silent King]] and is classified as the fourth [[Dreadgod]]. He exists alongside other [[Dreadgods]], including the [[Wandering Titan]] and the [[Bleeding Phoenix]]. The entity is associated with a [[void]]-like nature, described as a cold, dark hole or an endless abyss. His presence is powerful enough to draw the attention of others and has even been sensed by an [[Archlady]]. He is a figure of notoriety, with his name being known in places like [[Serpent's Grave]] and linked to rumors regarding the [[Twin Star Sect]].}}
+{{spoiler|book=cradle-12-waybound|The [[Empty]] [[Ghost]], also referred to as the [[Hollow King]], is a dark [[spirit]] and a significant threat characterized as a hollow imitation of humanity. Recognized for his immense danger and past transgressions, he has been designated as the temporary successor to the [[Silent King]] and is classified as the fourth [[Dreadgod]]. This entity is associated with a [[hunger aura]] that bolsters the power of other [[Dreadgods]], such as the [[Wandering Titan]] and the [[Bleeding Phoenix]]. The [[Empty]] [[Ghost]] is known to exert his attention on individuals, though he does not always take direct action. His presence has caused rumors regarding the [[Twin Star Sect]] being a cult of [[Dreadgods]], and he is a figure for whom others have sworn oaths to combat.}}
 
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -15,14 +15,14 @@
 </ul></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|The [[Empty]] [[Ghost]] is a name [[Malice]] bestowed upon [[Lindon]], describing a presence he can manifest that resembles a [[Dreadgod]]. While the people of Serpent’s Grave have heard rumors of this entity, [[Malice]] herself feared it might pursue her through a portal. The presence is significant enough to trigger an intruder alert in [[Northstrider's oracle codex]], prompting the [[Monarch]] to intend to fight it. Because no single [[Monarch]] can face the [[Empty]] [[Ghost]] alone, it eventually went to battle, during which time the [[Silent Servants]] treated [[Lindon]] as the new [[Silent King]].}}
+{{spoiler|book=cradle-12-waybound|Originally a name used by [[Malice]] to refer to [[Lindon]], the [[Empty]] [[Ghost]] is a [[Dreadgod]]-like presence that he is able to manifest. While rumors of this entity have circulated among the people of Serpent's Grave{{!}}Serpent’s Grave, [[Malice]] herself harbored fears that the presence might follow her through a [[portal]]. The manifestation eventually triggered an intruder alert in [[Northstrider's oracle codex]], prompting the [[Monarch]] to intend to fight it. Because no single [[Monarch]] can face the [[Empty]] [[Ghost]] alone, the entity went into battle, during which time the [[Silent Servants]] began treating [[Lindon]] as the new [[Silent King]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Malice]] called [[Lindon]] the [[Empty Ghost]].<ref name="cradle-12-waybound-c2">''Waybound'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Empty Ghost]] is a [[Dreadgod]]-like presence that [[Lindon]] can manifest.<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The people of Serpent’s Grave have heard about the [[Empty Ghost]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Malice]] feared the [[Empty Ghost]] might follow her through the portal.<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The people of Serpent's Grave{{!}}Serpent’s Grave have heard about the [[Empty Ghost]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Malice]] feared the [[Empty Ghost]] might follow her through the [[portal]].<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Empty Ghost]] is an entity or event that [[Northstrider]] intends to fight.<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Empty Ghost]] triggers an intruder alert in [[Northstrider's oracle codex]].<ref name="cradle-12-waybound-c23" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|No single [[Monarch]] can take on the [[Empty Ghost]] alone.<ref name="cradle-12-waybound-c23" />}}</li>
@@ -44,4 +44,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Titles]]

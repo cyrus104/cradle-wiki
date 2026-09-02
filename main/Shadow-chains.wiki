@@ -1,0 +1,29 @@
+{{Expand}}
+
+{{Infobox concept
+| name = shadow-chains
+| introduced = [[House of Blades (novel)|House of Blades]]
+}}
+
+== House of Blades ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-01-house-of-blades|[[Shadow]]-[[chains]] twist down [[Simon]]'s arms.<ref name="tg-01-house-of-blades-c22">''House of Blades'', chapter 22</ref>}}</li>
+</ul></div>
+
+== The Crimson Vault ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-02-crimson-vault|The Valinhall Travelers{{!}}Valinhall Traveler has [[shadow-chains]] on his arms.<ref name="tg-02-crimson-vault-c11">''The Crimson Vault'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Concepts]]
+[[Category:House of Blades]]
+[[Category:The Crimson Vault]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate concepts]]

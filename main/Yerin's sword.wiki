@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Yerin's sword
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 == Unsouled ==
@@ -18,7 +18,7 @@
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[Yerin]] has a [[sword]] that she uses for cycling.<ref name="cradle-06-underlord-c3">''Underlord'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Yerin]] has a [[sword]] that she uses for [[cycling]].<ref name="cradle-06-underlord-c3">''Underlord'', chapter 3</ref>}}</li>
 </ul></div>
 
 == Notes ==

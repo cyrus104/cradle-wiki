@@ -2,13 +2,13 @@
 
 {{Infobox artifact
 | name = Karoshan commander's pistol
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|The [[Karoshan commander]] carries a [[pistol]].<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Karoshan commander]] carries a pistol.<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Notes ==

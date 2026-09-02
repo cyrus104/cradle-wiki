@@ -1,0 +1,25 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = communications crystal
+| introduced = [[City of Light (novel)|City of Light]]
+}}
+
+== City of Light ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-03-city-of-light|A floating white crystal acts as a communications device.<ref name="tg-03-city-of-light-c8">''City of Light'', chapter 8</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=tg-03-city-of-light|The floating white crystal, hovering behind Simon's head, screamed, “SIMON, SON OF KALMAN, REPORT TO THE QUEEN FOR ASSIGNMENT. SIMON, SON OF KALMAN, REPORT TO THE QUEEN FOR ASSIGNMENT.”<ref name="tg-03-city-of-light-c8" />}}
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Artifacts]]
+[[Category:City of Light]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate artifacts]]

@@ -1,0 +1,25 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = restrictive collar
+| introduced = [[Soulsmith (novel)|Soulsmith]]
+}}
+
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|A [[restrictive collar]] is scripted to inhibit [[madra]].<ref name="cradle-02-soulsmith-c13">''Soulsmith'', chapter 13</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-02-soulsmith|“I will be placing a restrictive collar on you,” Jai Long said, holding out the iron loop. “It is scripted to inhibit your madra.”<ref name="cradle-02-soulsmith-c13" />}}
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Soulsmith]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

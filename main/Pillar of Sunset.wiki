@@ -2,13 +2,13 @@
 
 {{Infobox construct
 | name = Pillar of Sunset
-| introduced = City of Light
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|The [[Pillar of Sunset]] is a column of smoldering red and black stone.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The [[Pillar of Sunset]] is a column of smoldering red and black [[stone]].<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Pillar of Sunset]] has a red-and-black marbled surface and pulses with living heat.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
 </ul></div>
 

@@ -2,13 +2,13 @@
 
 {{Infobox location
 | name = Lindon's fortress control room
-| introduced = Bloodline
+| introduced = [[Bloodline (novel)|Bloodline]]
 }}
 
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] enters the control room of his fortress.<ref name="cradle-09-bloodline-c15">''Bloodline'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] enters the control room of his [[fortress]].<ref name="cradle-09-bloodline-c15">''Bloodline'', chapter 15</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -20,4 +20,3 @@
 [[Category:Bloodline]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Structures]]

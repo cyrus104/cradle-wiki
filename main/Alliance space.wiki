@@ -1,10 +1,10 @@
 {{Infobox location
 | name = Alliance space
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|The [[Karoshan Alliance]] is one of the four major territories that define the corners of the galaxy, alongside the [[Galactic Union]], the [[Free Worlds]], and [[Dark Space]]. It is considered the smallest of these major powers, consisting primarily of the [[Karoshan Empire]] and a small number of [[Visiri]] planets. Despite its limited size, it remains a significant force in the galaxy and maintains high-level military capabilities, including powerful dreadnoughts and large numbers of fighters. The [[Alliance]] is characterized by a high level of activity, with its systems featuring extensive networks of stations, colonies, and various spacecraft. The [[Visiria system]] serves as a prominent member of the [[Alliance]], acting as its secondary power. While the [[Alliance]] is a major civilized entity, it currently experiences tension with the [[Galactic Union]].}}
+{{spoiler|book=lh-04-the-pilot|The [[Karoshan Alliance]] is one of the four major regions of the galaxy, representing the smallest territory among the primary powers. It is composed of the [[Karoshan Empire]], the [[Visiria system]], and several other smaller systems. Despite its limited size, it remains a significant force in the galaxy. The [[Visiri]] people serve as a prominent member of this coalition, acting as its secondary power. Alliance space is highly developed and civilized, featuring a dense network of stations, colonies, and ships across its many planets. The region's borders extend to the edge of [[Dark Space]], with specific systems like [[Fifty-Three X]] marking its limits. The Alliance maintains a tense relationship with the [[Galactic Union]], and its territory is subject to various political and military maneuvers involving other galactic entities.}}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -16,7 +16,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[The Last Horizon]] is currently positioned in [[Alliance space]] around [[Dornoth IV]].<ref name="lh-02-the-engineer-c2">''The Engineer'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Shyrax has been spotted recruiting forces across [[Alliance space]].<ref name="lh-02-the-engineer-c2" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax has been spotted recruiting forces across [[Alliance space]].<ref name="lh-02-the-engineer-c2" />}}</li>
 </ul></div>
 
 == The Knight ==
@@ -44,4 +44,3 @@
 [[Category:The Pilot]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon locations]]
-[[Category:Regions]]

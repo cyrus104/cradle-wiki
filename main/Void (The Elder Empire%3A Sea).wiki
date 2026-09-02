@@ -1,10 +1,10 @@
 {{Infobox location
 | name = void (The Elder Empire: Sea)
-| introduced = Of Dawn and Darkness
+| introduced = [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]]
 }}
 
 == Overview ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The void is a vast, dark realm characterized by madness and emptiness. It serves as the home of the [[Elders]] and is used by these powerful entities for communication and travel between different worlds. While some ancient scholars theorized that the void connects various realms, it is widely believed to be the origin of the [[Elders]]. The [[Great Elders]] utilize rifts in reality—which may appear as cracks or slashes in the sky—to transport themselves and their followers to and from this dimension. Within the void, observers may see distant, vibrating lights of many colors. Each [[Great Elder]] travels through this space to pursue specific objectives, such as knowledge, change, the balance of [[life]] and death, or total nothingness, typically operating independently of one another.}}
+{{spoiler|book=ee-sea-03-of-kings-and-killers|The void is a massive, empty realm characterized by darkness and madness. It serves as the home of the [[Elders]] and is widely believed to be the place from which they originate. The [[Great Elders]] utilize this dimension as a means of communication and for traveling between different worlds in pursuit of various goals, such as knowledge, change, or absolute nothingness. While some ancient scholars theorized that the void connects different worlds, this remains unproven. In the physical world, the void can be accessed through rifts in the sky that are held open by the power of [[Great Elders]]. These openings appear as dark cracks or slashes in reality, through which travelers or entities like the [[Elderspawn]] can emerge.}}
 
 == Of Dawn and Darkness ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -13,14 +13,14 @@
 </ul></div>
 
 == Of Kings and Killers ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The void is a realm of darkness capable of swallowing all awareness, visible only through holes in the reality of the sky. Messengers utilized this space to carry [[Jerri]] toward the Capital. While drifting together within the void, [[Calder]] and Ozriel experienced its depths, where [[Jerri]] eventually found support beneath her feet from a stone.}}
+{{spoiler|book=ee-sea-03-of-kings-and-killers|The void manifests as a realm of darkness capable of swallowing all awareness and is visible through holes in the reality of the sky. Messengers have utilized this space to carry [[Jerri]] toward the Capital. While drifting together within the void, [[Calder]] and Ozriel experienced its depths, where [[Jerri]] eventually found support beneath her feet from a [[stone]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Messengers carried [[Jerri]] through their void to the Capital.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The void is a place of darkness that can swallow awareness.<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] and Ozriel drift together in the void.<ref name="ee-sea-03-of-kings-and-killers-c11">''Of Kings and Killers'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The void is a place where [[Jerri]]'s feet were supported by a stone.<ref name="ee-sea-03-of-kings-and-killers-c20">''Of Kings and Killers'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The void is a place where [[Jerri]]'s feet were supported by a [[stone]].<ref name="ee-sea-03-of-kings-and-killers-c20">''Of Kings and Killers'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The void is visible through the holes in reality in the sky.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
 </ul></div>
 
@@ -34,4 +34,3 @@
 [[Category:Of Kings and Killers]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire locations]]
-[[Category:Otherworldly locations]]

@@ -2,7 +2,7 @@
 
 {{Infobox location
 | name = Kazan strongholds
-| introduced = Bloodline
+| introduced = [[Bloodline (novel)|Bloodline]]
 }}
 
 == Bloodline ==
@@ -10,9 +10,6 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The [[Kazan clan]] plans to retreat into underground strongholds.<ref name="cradle-09-bloodline-c10">''Bloodline'', chapter 10</ref>}}</li>
 </ul></div>
-
-== Notable quotes ==
-* {{spoiler|book=cradle-09-bloodline|We had planned to retreat into our strongholds and withstand the coming storm. “These strongholds. They’re underground, aren’t they?”<ref name="cradle-09-bloodline-c10" />}}
 
 == Notes ==
 <references />
@@ -23,4 +20,3 @@
 [[Category:Bloodline]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Structures]]

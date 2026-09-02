@@ -2,13 +2,13 @@
 
 {{Infobox starship
 | name = Hunter ships
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|[[Hunter ships]] are used by the [[Iron Legion]] to blow targets apart with plasma cannons.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Hunter ships]] are used by the [[Iron Legion]] to blow targets apart with [[plasma cannons]].<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
 </ul></div>
 
 == Notes ==

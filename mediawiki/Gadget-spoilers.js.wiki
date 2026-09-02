@@ -18,13 +18,36 @@
   function progress() {
     try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { return {}; }
   }
+  function tocEntries() {
+    // decoded fragment -> TOC <li>, so a gated heading can hide its own TOC line (MediaWiki
+    // copies plain heading text into the TOC, which would otherwise leak era titles)
+    var map = {};
+    document.querySelectorAll("#toc a[href^='#'], .toc a[href^='#']").forEach(function (a) {
+      var frag = a.getAttribute("href").slice(1);
+      try { frag = decodeURIComponent(frag); } catch (e) {}
+      var li = a.closest("li");
+      if (li) map[frag] = li;
+    });
+    return map;
+  }
   function apply() {
     var p = progress();
+    var toc = tocEntries();
     document.querySelectorAll(".spoiler-fact").forEach(function (el) {
       var meta = DATA.books[el.getAttribute("data-book")];
-      if (!meta) { el.style.display = ""; return; }        // unknown book: never hide
-      var read = (meta.series in p) ? p[meta.series] : maxOf(meta.series); // unset = show all
-      el.style.display = (meta.number > read) ? "none" : "";
+      var hide = false;
+      if (meta) {
+        var read = (meta.series in p) ? p[meta.series] : maxOf(meta.series); // unset = show all
+        hide = meta.number > read;
+      }                                                     // unknown book: never hide
+      el.style.display = hide ? "none" : "";
+      var head = el.closest ? el.closest(".mw-headline") : null;
+      if (head) {
+        var ids = [head.id];
+        var legacy = head.previousElementSibling;
+        if (legacy && legacy.id) ids.push(legacy.id);
+        ids.forEach(function (id) { if (id && toc[id]) toc[id].style.display = hide ? "none" : ""; });
+      }
     });
   }
   function buildControls() {

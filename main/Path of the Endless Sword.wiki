@@ -1,18 +1,18 @@
 {{Infobox concept
 | name = Path of the Endless Sword
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Path of the Endless Sword Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|The [[Path]] of the [[Endless Sword]] is a [[sword]]-aspect [[Path]] characterized by its extreme offensive capabilities and complete lack of defensive utility. Centered on the use of [[vital aura]], practitioners focus on cutting and destruction rather than protection. A core component of this [[Path]] is the [[Endless Sword]] technique, a powerful ability that can manifest as a storm of invisible blades or concentrated waves of energy. This technique is often used to gather and amplify [[sword aura]], making the practitioner's strikes increasingly potent as they move. While many [[sword]]-based [[Paths]] can function without a physical blade by using [[madra]] to create sharp constructs, the [[Path]] of the [[Endless Sword]] is highly dependent on having a weapon with a sharp edge to maintain its effectiveness. The [[Path]]'s techniques include the [[Flowing Sword]], which allows a weapon to grow stronger through continuous movement, and more advanced applications like the [[Final Sword]]. Mastery of this [[Path]] often requires immersion in combat and facing [[life]]-threatening situations. The [[Path]] has been mastered by the [[Sage of the Endless Sword]] and his disciple, [[Yerin]], who has further adapted its techniques to incorporate blood [[aura]].}}
+{{spoiler|book=cradle-12-waybound|The [[Path]] of the [[Endless Sword]] is a [[sword]]-aspect [[Path]] that focuses entirely on offensive capabilities, specifically cutting and [[destruction]]. It lacks defensive or protective techniques, as its [[sword aura]] is utilized solely for striking rather than shielding. The [[Path]] relies heavily on [[vital aura]] and is most effective when the practitioner wields a weapon with a sharp edge. A core component of this [[Path]] is the ability to enforce [[madra]] into a weapon so that it continuously gathers [[aura]] as it moves, increasing in strength through motion. This characteristic is exemplified by the [[Flowing Sword technique]], which allows a weapon to become more powerful with every thrust and slash. The [[Path]] features several specialized techniques, including the namesake [[Endless Sword]] [[technique]]. This ability can manifest as a storm of invisible blades or uncontrolled slashes, capable of shredding opponents or even creating a cage of energy. Advanced applications include the [[Final Sword]] and various [[Rippling Sword]] maneuvers. Practitioners often advance by immersing themselves in combat and facing life-or-death situations on the battlefield. While [[sword]]-aspect [[Paths]] are common, the [[Path]] of the [[Endless Sword]] is considered exceptionally powerful when taken to extreme levels. Notable practitioners include the deceased [[Sage of the Endless Sword]] and his [[disciple]], Death Monarch Yerin Arelius{{!}}Yerin Arelius.}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|The [[Path of the Endless Sword]] is followed by [[Yerin]].<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-01-unsouled|The [[Path of the Endless Sword]] uses resonance to rile up [[aura]] in the air using [[sword madra]].<ref name="cradle-01-unsouled-c18">''Unsouled'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[Path of the Endless Sword]] uses [[resonance]] to rile up [[aura]] in the air using [[sword madra]].<ref name="cradle-01-unsouled-c18">''Unsouled'', chapter 18</ref>}}</li>
 </ul></div>
 
 == Soulsmith ==
@@ -32,7 +32,7 @@
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[Yerin]] has had a recent breakthrough in the [[Endless Sword]] technique.<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Yerin]] has had a recent breakthrough in the [[Endless Sword]] [[technique]].<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
 </ul></div>
 
 == Wintersteel ==
@@ -50,12 +50,12 @@
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Yerin]] uses the [[Path of the Endless Sword]] cycling technique.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Yerin]] uses the [[Path of the Endless Sword]] [[cycling technique]].<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Yerin]] has taken many lives on the [[Path of the Endless Sword]].<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=cradle-01-unsouled|"That’s called resonance. Uses sword madra to rile up the aura in the air, which gathers around sharp weapons."<ref name="cradle-01-unsouled-c18" />}}
+* {{spoiler|book=cradle-01-unsouled|“That’s called resonance. Uses sword madra to rile up the aura in the air, which gathers around sharp weapons.<ref name="cradle-01-unsouled-c18" />}}
 
 == Notes ==
 <references />
@@ -72,4 +72,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Terminology]]

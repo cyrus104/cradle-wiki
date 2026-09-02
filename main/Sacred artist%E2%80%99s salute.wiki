@@ -1,0 +1,33 @@
+{{Infobox technique
+| name = sacred artist’s salute
+| introduced = [[Soulsmith (novel)|Soulsmith]]
+}}
+
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|A [[sacred artist’s salute]] is a type of bow.<ref name="cradle-02-soulsmith-c8">''Soulsmith'', chapter 8</ref>}}</li>
+</ul></div>
+
+== Blackflame ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-03-blackflame|[[Yerin]] performs a sacred artist’s salute{{!}}sacred artist's salute by pressing her fists together.<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
+</ul></div>
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|A [[sacred artist’s salute]] involves pressing fists together and bowing over them.<ref name="cradle-05-ghostwater-c1">''Ghostwater'', chapter 1</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Techniques]]
+[[Category:Soulsmith]]
+[[Category:Blackflame]]
+[[Category:Ghostwater]]
+[[Category:Cradle]]

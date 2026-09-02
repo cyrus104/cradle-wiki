@@ -1,0 +1,34 @@
+{{Infobox artifact
+| name = sacred bow
+| introduced = [[Uncrowned (novel)|Uncrowned]]
+}}
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|[[Mercy]] possesses a [[sacred bow]].<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}</li>
+</ul></div>
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Mercy]]'s bow is named sacred bow{{!}}Eclipse, Ancient Bow of the Soulseeker.<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|The sacred bow{{!}}Sacred Bow of the Soulseeker has the [[binding]] of [[Eclipse]].<ref name="cradle-10-reaper-c16">''Reaper'', chapter 16</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Uncrowned]]
+[[Category:Wintersteel]]
+[[Category:Reaper]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

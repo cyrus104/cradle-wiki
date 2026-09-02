@@ -2,26 +2,20 @@
 
 {{Infobox madra
 | name = silver mist
-| introduced = Dreadgod
+| introduced = [[Dreadgod (novel)|Dreadgod]]
 }}
 
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|The will of the Book brought [[silver mist]] to [[life]] as an army of warriors.<ref name="cradle-11-dreadgod-c16">''Dreadgod'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The will of the Book brought [[silver mist]] to life as an army of warriors.<ref name="cradle-11-dreadgod-c16">''Dreadgod'', chapter 16</ref>}}</li>
 </ul></div>
 
 == Notes ==
 <references />
 
-{{Elder Empire nav}}
-
 {{Cradle nav}}
 
 [[Category:Madra]]
 [[Category:Dreadgod]]
-[[Category:Concepts]]
-[[Category:Of Kings and Killers]]
-[[Category:Elder Empire]]
-[[Category:Elder Empire concepts]]
 [[Category:Cradle]]

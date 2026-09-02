@@ -1,10 +1,10 @@
 {{Infobox technique
 | name = Striker binding
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|A [[Striker]] [[binding]] is a crystallized technique that serves as the essential core of any [[construct]]. While [[scripts]] act as drawings, bindings are compared to three-dimensional statues or pearls, representing the heart and soul of a creation. Without a [[binding]], a [[construct]] possesses only the inherent properties of its materials and any added [[scripts]]; with one, it gains the ability to execute specific techniques. These bindings are often made of arcane materials and can vary significantly in shape, such as spiraling drills or organic, star-like forms with multiple apertures. In combat, [[Striker techniques]] are primarily used for offensive purposes, often manifesting as projectiles like beams of light, fireballs, or elemental bursts. They can also take the form of physical strikes, such as a pulse of [[madra]] or sweeping waves of energy. The effectiveness and nature of a technique depend on how the user cycles their [[madra]] through the [[binding]]. Some advanced bindings are capable of absorbing or draining [[madra]] from victims, while others can be integrated into specialized weapons like launchers. While most bindings perform a single function, rare examples exist where multiple techniques have organically fused into one. [[Soulsmiths]] can also link several bindings together within a single [[construct]] to create powerful, albeit unstable and spiritually loud, compound effects.}}
+{{spoiler|book=cradle-12-waybound|A [[Striker]] [[binding]] is a crystallized [[technique]] that serves as the essential core of any [[construct]]. While [[scripts]] act as drawings, binding{{!}}bindings are described as being more substantial, akin to statues or pearls, providing the heart and soul of a [[construct]]'s functionality. Without a [[binding]], a [[construct]] is merely an object with the properties of its material and any added [[scripts]]. These binding{{!}}bindings are often made from arcane materials or [[Remnants]], appearing in various forms such as spiraling drills, corkscrews, or even organic shapes resembling stars or hearts. A [[Striker]] [[binding]] is primarily used to execute [[Striker techniques]], which are offensive maneuvers designed to attack. These techniques can manifest as beams of light, projectiles like fireballs or meteors, or even physical phenomena like [[wind]] bursts and lightning. The specific effect of a [[binding]] can change based on how the user cycles their [[madra]] through it; for instance, different circulation patterns can produce different techniques from a single [[binding]]. While some binding{{!}}bindings are simple and elongated with clear inputs and outputs, others can be highly complex, featuring multiple apertures or even organically fusing several techniques into one. In advanced applications, [[Soulsmiths]] may link multiple binding{{!}}bindings together within a single [[construct]] to create powerful launcher construct{{!}}launcher devices. While such complex setups can produce devastating effects that exceed the strength of individual binding{{!}}bindings, they are difficult to create, spiritually conspicuous to enemies, and place significant physical strain on the [[construct]]'s vessel. Bindings can also be integrated into limbs or weapons to allow for the venting of power, the draining of an opponent's [[madra]], or the enhancement of a user's specific [[Path]].}}
 
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -15,25 +15,25 @@
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|A [[Striker binding]] is a type of technique used in constructs.<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A [[Striker binding]] is a type of [[technique]] used in [[constructs]].<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
 </ul></div>
 
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|The security constructs in one room possess the power of [[Striker]] bindings.<ref name="cradle-04-skysworn-c3">''Skysworn'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The Security constructs{{!}}security constructs in one room possess the power of Striker binding{{!}}Striker bindings.<ref name="cradle-04-skysworn-c3">''Skysworn'', chapter 3</ref>}}</li>
 </ul></div>
 
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|A compound launcher construct can use six [[Striker]] bindings at once.<ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|A [[compound launcher construct]] can use six Striker binding{{!}}Striker bindings at once.<ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}</li>
 </ul></div>
 
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[Striker]] bindings can be triggered in swords to produce blue crackling light.<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|Striker binding{{!}}Striker bindings can be triggered in swords to produce blue crackling light.<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Reaper ==

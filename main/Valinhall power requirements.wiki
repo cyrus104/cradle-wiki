@@ -2,13 +2,13 @@
 
 {{Infobox concept
 | name = Valinhall power requirements
-| introduced = City of Light
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|Using [[Valinhall]] power requires it to be re-forged into a new shape, a room, and a guardian.<ref name="tg-03-city-of-light-c8">''City of Light'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|Using Valinhall powers{{!}}Valinhall power requires it to be re-forged into a new shape, a room, and a guardian.<ref name="tg-03-city-of-light-c8">''City of Light'', chapter 8</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -20,4 +20,3 @@
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate concepts]]
-[[Category:Terminology]]

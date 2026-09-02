@@ -1,7 +1,7 @@
 {{Infobox character
 | name = Archlady
 | species = Remnant
-| abilities = {{spoiler|book=cradle-11-dreadgod|sword-Path}}
+| abilities = {{spoiler|book=cradle-11-dreadgod|sword-Path, crackling lightning-sparrows}}
 | titles = {{spoiler|book=cradle-10-reaper|[[Emissary Kahn Mala]], [[Archlady]]}}{{spoiler|book=cradle-11-dreadgod|, silver Remnant}}
 | professions = {{spoiler|book=cradle-12-waybound|governing territory}}
 | birthplace = {{spoiler|book=cradle-11-dreadgod|[[Everwood]]}}
@@ -12,7 +12,16 @@
 ''See also: [[Archlady Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|The Archlady is a rank or title held by powerful individuals, such as Overladies and [[Emissaries]]. One notable Archlady is [[Kahn Mala]] of [[Redmoon Hall]], a human woman with gray-streaked hair and an emaciated appearance. She serves as an Emissary representing the [[Redmoon Herald]] and the [[Sage of Red Faith]], with a primary mission to provide protection. [[Kahn Mala]] possesses a serpent-shaped [[Blood Shadow]] and is known for her composed demeanor, though she can be prone to using threats. Another individual identified as an Archlady is [[Mercy]], a newly advanced practitioner who utilizes the Book of Eternal Night to augment her strength and whose personal revelation involved bringing light into darkness. The title is associated with significant spiritual milestones, including specific revelations and advancements that define a practitioner's identity and future goals.}}
+{{spoiler|book=cradle-12-waybound|The Archlady is a title held by high-ranking individuals, such as [[Emissary Kahn Mala]] of [[Redmoon Hall]]. One such Archlady is a human woman with gray-streaked hair and a serpent-shaped [[Blood Shadow]]. [[Kahn Mala]] serves as an emissary for the [[Redmoon Herald]] and the [[Sage of Red Faith]], acting with the goal of providing protection to others. She is characterized by a commanding presence, though she may appear physically gaunt or weathered by age. In her role, she manages security inspections, maintains sect defenses, and handles diplomatic or protective duties on behalf of her organization. The title is associated with significant power and [[advancement]], involving personal revelations that define an individual's purpose or identity.}}
+
+== Appearance ==
+{{spoiler|book=cradle-12-waybound|This female human possesses navy hair reminiscent of the deep ocean, which is streaked with gray. Her skin is the color of a summer sky, and she wears wristbands along with a scripted necklace.}}
+
+== Personality ==
+{{spoiler|book=cradle-12-waybound|She serves as [[Emissary Kahn Mala]] and acts as an attendant to the [[Sage of Red Faith]], whom she salutes. Additionally, she possesses the capacity to focus on the governance of territory.}}
+
+== Abilities ==
+{{spoiler|book=cradle-12-waybound|She utilizes the [[sword]]-[[Path]] and has the power to release crackling lightning-sparrows. She is also associated with a [[Shadow]] that takes the form of a serpent.}}
 
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
@@ -56,5 +65,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Titled characters]]
-[[Category:Remnants]]

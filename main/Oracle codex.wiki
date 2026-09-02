@@ -1,0 +1,61 @@
+{{Infobox construct
+| name = oracle codex
+| introduced = [[Wintersteel (novel)|Wintersteel]]
+}}
+
+''See also: [[oracle codex Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-13-threshold|The oracle [[codex]] is a sophisticated calculation device owned by [[Northstrider]]. It manifests as a gleaming, [[reflective black orb]] that can appear over his shoulder or be accessed through his [[soulspace]]. Rather than being a sentient person, the [[codex]] functions as an advanced analytical tool used to process vast amounts of information, organize data, and provide simulations. It assists [[Northstrider]] by offering predictions regarding the actions of [[Dreadgods]], analyzing various possibilities within [[Fate]], and compiling complex data such as spatial transport ranges or information regarding the [[Abidan]] divisions. The device can also issue warnings, report on compatibility scores, and communicate through text or messages that may mimic the voice of [[Dross]]. [[Northstrider]] utilizes the [[codex]] to refine his ability to see the future and to supplement his analysis of complex situations.}}
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Northstrider]] has a gleaming black orb that serves as an [[oracle codex]].<ref name="cradle-08-wintersteel-c7">''Wintersteel'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Dross]] emerged from the [[oracle codex]].<ref name="cradle-08-wintersteel-c7" />}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|[[Northstrider]] refines an [[oracle codex]] to see the future more clearly.<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Northstrider's oracle codex]] responds to him.<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
+</ul></div>
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Northstrider]] uses an [[oracle codex]] to supplement his analysis.<ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|The [[oracle codex]] is a weapon optimized for performance.<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[oracle codex]] checked [[Fate]].<ref name="cradle-12-waybound-c11" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[oracle codex]] shows the real flow of [[Fate]].<ref name="cradle-12-waybound-c11" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[oracle codex]] relayed information to [[Northstrider]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
+</ul></div>
+
+== Threshold: Stories from Cradle ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-13-threshold|[[Northstrider's oracle codex]] reported that the operation succeeded beyond expected parameters.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Northstrider]] possesses an [[oracle codex]].<ref name="cradle-13-threshold-c4" />}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-08-wintersteel|Northstrider waited for Dross to finish, then held out an empty hand, which was abruptly filled with the gleaming black orb he had shown before. “I would like you to enter my oracle codex completely.<ref name="cradle-08-wintersteel-c7" />}}
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Constructs]]
+[[Category:Wintersteel]]
+[[Category:Reaper]]
+[[Category:Dreadgod]]
+[[Category:Waybound]]
+[[Category:Threshold: Stories from Cradle]]
+[[Category:Cradle]]

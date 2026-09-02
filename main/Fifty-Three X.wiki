@@ -2,17 +2,14 @@
 
 {{Infobox location
 | name = Fifty-Three X
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|[[Fifty-Three X]] is a system in the [[Alliance]].<ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Fifty-Three X]] is a system in the Alliance.<ref name="lh-01-the-captain-c38">''The Captain'', chapter 38</ref>}}</li>
 </ul></div>
-
-== Notable quotes ==
-* {{spoiler|book=lh-01-the-captain|"In the Alliance, they call the nearest system Fifty-Three X."<ref name="lh-01-the-captain-c38" />}}
 
 == Notes ==
 <references />
@@ -23,4 +20,3 @@
 [[Category:The Captain]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon locations]]
-[[Category:Regions]]

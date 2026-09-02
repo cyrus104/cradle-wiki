@@ -9,10 +9,19 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|Trainer Mura is an instructor responsible for guiding trainees, such as [[Orthos]], through their development. Her role involves teaching students how to connect their physical movements to the [[Way]] and helping them internalize the guidance of the [[Presence]]. In addition to practical training, she provides instruction on the history of the [[Wolf Division]] and general knowledge regarding the [[Abidan]]. Mura also manages daily routines, including meal schedules and training sessions. Beyond her instructional duties, she has been observed performing rescue work by clearing debris to assist injured individuals.}}
+{{spoiler|book=cradle-13-threshold|Trainer Mura is an instructor responsible for training individuals such as Trainee [[Orthos]]. Her duties include managing daily routines, teaching trainees about the history of the [[Wolf Division]] and general knowledge regarding the [[Abidan]], and guiding students on how to connect their physical movements to Way{{!}}the Way. She monitors progress toward [[advancement]] levels and facilitates practice sessions between trainees, such as [[Akura Pride]]. Beyond her instructional role, Mura has been observed performing rescue work by clearing debris to assist injured people. She also manages the equalization process for trainees within her training environment.}}
+
+== Appearance ==
+{{spoiler|book=cradle-13-threshold|Trainer Mura is a powerful woman of tall stature. She possesses dark purple hair.}}
+
+== Personality ==
+{{spoiler|book=cradle-13-threshold|As a trainer, she utilizes [[Presence]] to provide guidance to her students. She is currently engaged in the act of rescuing individuals from wreckage.}}
+
+== Abilities ==
+{{spoiler|book=cradle-13-threshold|She can fold possibilities into existence to create temporary copies of herself. Additionally, she uses [[Presence]] as a method to guide others.}}
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|Trainer Mura is a tall, powerful woman distinguished by her dark purple hair. As a trainer who utilizes [[Presence]] to guide her students, she works to rescue individuals from wreckage. While she can fold possibilities into existence to create temporary copies of herself, only her original body requires sustenance.}}
+{{spoiler|book=cradle-13-threshold|Trainer Mura is a tall, powerful woman distinguished by her dark purple hair. As a trainer who utilizes [[Presence]] to guide her students, she works to rescue individuals from amidst wreckage. During these efforts, she utilizes temporary copies of herself that are folded into existence from various possibilities. While these duplicates assist her, only her original body requires sustenance.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -20,7 +29,7 @@
 <li>{{spoiler|book=cradle-13-threshold|[[Trainer Mura]]'s copies are temporary entities folded into existence from possibilities.<ref name="cradle-13-threshold-c10" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Trainer Mura]]'s original body is the only one that needs to eat.<ref name="cradle-13-threshold-c10" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Trainer Mura]] is a trainer who uses [[Presence]] to guide students.<ref name="cradle-13-threshold-c10" />}}</li>
-<li>{{spoiler|book=cradle-13-threshold|Mura is a Trainer.<ref name="cradle-13-threshold-c10" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|Trainer Mura{{!}}Mura is a Trainer.<ref name="cradle-13-threshold-c10" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Trainer Mura]] is rescuing people from wreckage.<ref name="cradle-13-threshold-c10" />}}</li>
 </ul></div>
 
@@ -33,4 +42,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Titled characters]]

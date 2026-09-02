@@ -9,7 +9,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Doctor Janbell Cryce]] is an older [[Lichborn woman]] and the inventor of the [[Divine Titans]].<ref name="lh-03-the-knight-c2">''The Knight'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Janbell is Parryl's aunt.<ref name="lh-03-the-knight-c38">''The Knight'', chapter 38</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Doctor Janbell Cryce{{!}}Janbell is Parryl Cryce{{!}}Parryl's aunt.<ref name="lh-03-the-knight-c38">''The Knight'', chapter 38</ref>}}</li>
 </ul></div>
 
 == The Pilot ==

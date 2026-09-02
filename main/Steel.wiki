@@ -1,10 +1,10 @@
 {{Infobox technique
 | name = steel
-| introduced = The Crimson Vault
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|Steel is a versatile substance and power used in various forms throughout the world. It can be summoned or called by individuals, a process that consumes their internal reserves and can be combined with other essences. When utilized as a power, it can manifest physically to transform skin into [[stone]]-like flesh, create [[chains]], or form massive [[constructs]] such as giants and [[spiders]]. It can also be summoned as weaponry, including large war-hammers or blades. A specific and highly rare variety known as [[Tartarus steel]] is characterized by its mirror-like brightness. This material is nearly indestructible and can easily pierce standard metals, though it can be resisted by other blades made of the same substance. While incredibly durable, its extreme strength means that objects made from it, such as padlocks, might be bypassed by destroying the weaker components they are attached to. Steel also appears in crafted items like masks, which can feature combinations of polished silver-colored metal and dark, wrought-[[Iron{{!}}iron]]-like textures.}}
+{{spoiler|book=tg-03-city-of-light|Steel is a versatile substance and a form of power that can be summoned or manipulated. It exists as a physical material used to forge various objects, ranging from delicate masks and padlocks to massive war-hammers and swords. A specific, rare variety known as [[Tartarus steel]] is characterized by its mirror-like brightness and near-indestructible properties. While this premium metal can easily pierce standard metals, it is strong enough to withstand strikes from other [[Tartarus steel]] weapons. Beyond physical objects, steel can be summoned as a magical force or essence. Users can call upon it to manifest weapons, transform their own skin into [[stone]]-like armor, or create large [[constructs]] such as giants and [[spiders]]. This power can be drawn out gradually or summoned all at once, though it is a finite resource that can be exhausted during use.}}
 
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
@@ -12,7 +12,7 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] can call [[steel]] to fill his [[blood]] with strength.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] can call upon his [[steel]].<ref name="tg-02-crimson-vault-c12">''The Crimson Vault'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|When [[Simon]] calls [[steel]], it feels like liquid cold flowing through his veins and muscles.<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|[[steel{{!}}Steel]] courses through [[Simon]].<ref name="tg-02-crimson-vault-c19">''The Crimson Vault'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|steel{{!}}Steel courses through [[Simon]].<ref name="tg-02-crimson-vault-c19">''The Crimson Vault'', chapter 19</ref>}}</li>
 </ul></div>
 
 == City of Light ==

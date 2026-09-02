@@ -1,26 +1,34 @@
 {{Infobox character
 | name = High Consort Seredash
 | aliases = High Consort, Seredash
-| abilities = {{spoiler|book=cradle-13-threshold|construct a Pattern to manifest the limbs of impossible beasts}}
 | titles = {{spoiler|book=cradle-13-threshold|[[High Consort Seredash|High Consort]]}}
 | appears_in = Cradle
 | introduced = [[Threshold: Stories from Cradle (novel)|Threshold: Stories from Cradle]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|High Consort Seredash is a powerful leader who has significantly increased the influence of the Tanakite priests. He achieved this through an advancement in his [[Pattern Construction]], which allowed him to claim he had glimpsed the deity Mul'Tanak and accessed a realm beyond the known worlds. Driven by a desire for divine power, Seredash led a campaign involving the sacrifice of many people. During a ritual in the [[Tomb of Scrolls]], he attempted to summon his goddess using the blood of prisoners and enemies. Despite his ability to manifest the limbs of mythical creatures through his patterns, Seredash ultimately faced a confrontation with Mul'Tanak, where he was wounded while questioning the deity.}}
+{{spoiler|book=cradle-13-threshold|High Consort Seredash is a leader within the Tanakite priesthood who rose to prominence by significantly increasing the influence of his clergy. He achieved this through a breakthrough in [[Pattern Construction]], which allowed him to access a realm he identifies as the world beyond all worlds and claim to have seen the deity Mul'Tanak. Driven by a desire for divine power, Seredash led a military campaign and utilized the [[blood]] of prisoners within the [[Tomb of Scrolls]] in an attempt to summon his goddess. His advanced abilities enabled him to manifest the limbs of mythical creatures through his constructed Patterns. During a [[ritual]] intended to facilitate this summoning, he confronted Mul'Tanak directly, only to be mortally wounded during the encounter.}}
+
+== Appearance ==
+{{spoiler|book=cradle-13-threshold|Seredash is a tall man with a twisted physique. He wears red robes adorned with designs of spider legs and has painted symbols on his face to mimic the visage of a spider.}}
+
+== Personality ==
+{{spoiler|book=cradle-13-threshold|Driven by the desire for power promised by [[Mul’Tanak]], he led a campaign to achieve his goals. He is motivated by the belief that he possesses the capability to summon his goddess.}}
+
+== Abilities ==
+{{spoiler|book=cradle-13-threshold|He has the power to [[construct]] a [[Pattern]]. Through this [[technique]], he is able to manifest the limbs of impossible beasts.}}
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|High Consort Seredash is a tall, twisted man who wears red robes adorned with spider leg designs and has painted symbols on his face to mimic a spider. Driven by the promise of power from the goddess [[Mul’Tanak]], he committed to a campaign and prostrated himself before her. He believes in his ability to summon the deity and possesses the power to [[construct]] a [[Pattern]] that manifests the limbs of impossible beasts.}}
+{{spoiler|book=cradle-13-threshold|A tall and twisted figure clad in red robes adorned with spider leg designs, High Consort Seredash bears painted symbols on his face to mimic a spider. Driven by the promise of power from the goddess [[Mul’Tanak]], he committed to a campaign and prostrated himself before her. Seredash believes in his ability to summon the deity and possesses the power to [[construct]] a [[Pattern]] that manifests the limbs of impossible beasts.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[High Consort Seredash]] believes he can summon his goddess.<ref name="cradle-13-threshold-c5">''Threshold: Stories from Cradle'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=cradle-13-threshold|The High Consort is a tall but twisted man wearing red robes decorated with spider's leg designs.<ref name="cradle-13-threshold-c5" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The High Consort Seredash{{!}}High Consort is a tall but twisted man wearing red robes decorated with spider's leg designs.<ref name="cradle-13-threshold-c5" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[High Consort Seredash]] has painted symbols on his face to mirror a spider's face.<ref name="cradle-13-threshold-c5" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[High Consort Seredash]] can [[construct]] a [[Pattern]] to manifest the limbs of impossible beasts.<ref name="cradle-13-threshold-c5" />}}</li>
-<li>{{spoiler|book=cradle-13-threshold|The High Consort prostrated himself before [[Mul’Tanak]].<ref name="cradle-13-threshold-c5" />}}</li>
-<li>{{spoiler|book=cradle-13-threshold|Seredash committed a campaign for the promise of power from [[Mul’Tanak]].<ref name="cradle-13-threshold-c5" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The High Consort Seredash{{!}}High Consort prostrated himself before [[Mul’Tanak]].<ref name="cradle-13-threshold-c5" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|High Consort Seredash{{!}}Seredash committed a campaign for the promise of power from [[Mul’Tanak]].<ref name="cradle-13-threshold-c5" />}}</li>
 </ul></div>
 
 == Notes ==
@@ -32,4 +40,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Titled characters]]

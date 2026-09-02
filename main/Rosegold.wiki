@@ -1,10 +1,10 @@
 {{Infobox location
 | name = Rosegold
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|Rosegold is an ancient continent that has been largely forgotten by the current inhabitants of [[Cradle]]. According to local legends, it was once home to a mythical buried city that holds all the secrets of the [[sacred arts]]. It is said that anyone who discovers this city and explores its streets will acquire immense power, bypass all advancement obstacles, and gain the celestial wisdom necessary for ascension. In past times, the continent was a frequent subject of discussion, and attempting to refine one's [[Path]] or find an easy way to advance was referred to as "Seeking [[Arelia]]." The continent is characterized by the color blue, and it was once linked to the continent of [[Iceflower]]. Additionally, Rosegold contains a museum protected by a [[Herald]] from [[House Shen]], which is rumored to house an artifact of the [[Abidan]].}}
+{{spoiler|book=cradle-12-waybound|Rosegold is an ancient continent that has been largely forgotten by the current [[inhabitants]] of [[Cradle]]. According to local legends, the land contains a mythical buried city that holds all the secrets of the [[sacred arts]]. It is said that anyone who discovers this city and explores its streets will acquire immense power, experience no obstacles when advancing their abilities, and gain celestial wisdom necessary for ascension. In the past, the concept of seeking easy [[advancement]] or refining one's [[Path]] was colloquially referred to as "Seeking Arelia" on the continent. Rosegold is geographically situated near [[Iceflower]], and the two were once connected. Additionally, a museum located on the continent is protected by a [[Herald]] from [[House Shen]] and is rumored to house an [[Abidan artifact]].}}
 
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -13,18 +13,16 @@
 </ul></div>
 
 == Dreadgod ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Rosegold]] is a destination reachable via a [[labyrinth]] branch.<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Rosegold]] is a continent not facing invasion.<ref name="cradle-11-dreadgod-c4">''Dreadgod'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Rosegold]] contains a museum.<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Monarch]] of [[House Shen]] was securing prizes in [[Rosegold]].<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
 </ul></div>
 
 == Waybound ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Rosegold]] is a continent.<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Rosegold]] is a populated continent.<ref name="cradle-12-waybound-c28">''Waybound'', chapter 28</ref>}}</li>
 </ul></div>
 
@@ -39,4 +37,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Regions]]

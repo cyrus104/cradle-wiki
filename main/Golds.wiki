@@ -1,17 +1,17 @@
 {{Infobox group
 | name = Golds
-| introduced = Bloodline
+| introduced = [[Bloodline (novel)|Bloodline]]
 }}
 
 ''See also: [[Golds Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|Golds represent a classification of individuals or beings defined by their level of power and advancement. Within this hierarchy, ranks include Lowgolds, Highgolds, and Truegolds, with the latter being particularly powerful individuals who can serve as squad leaders. Some Golds possess unique visual manifestations known as Goldsigns, which can be used for psychological intimidation. In certain contexts, the term also refers to gold [[dragons]], who are described as tyrannical rulers with a history of rivalry against black [[dragons]]. In combat and societal roles, Golds serve various functions. They can act as defenders of cities by channeling [[madra]] into script networks to power weapons and stabilize boundary fields. They also participate in organized fighting, though such conflicts are often fought for territory rather than total extermination. In some instances, Golds have been used as hostages to manipulate manpower or influence political factions. The strength of a [[Gold]] can vary significantly, ranging from students to highly experienced elders or even specialized combatants who excel in rapid, decisive fights.}}
+{{spoiler|book=cradle-13-threshold|Golds represent a classification of individuals or beings defined by their level of power and [[advancement]]. This hierarchy includes several distinct ranks, such as Lowgold{{!}}Lowgolds, Highgold{{!}}Highgolds, and Truegold{{!}}Truegolds, with the latter often serving in leadership roles like squad leaders. Within these ranks, individuals may possess unique visual manifestations known as Goldsign{{!}}Goldsigns. The term also applies to Gold dragons{{!}}gold dragons, which have historically been viewed as tyrannical rulers due to their long periods of unopposed power. In combat and societal roles, Golds can serve as defenders, utilizing their abilities to fuel defensive Script{{!}}script networks or bolster boundary fields. They are also found in various professional capacities, including [[sacred artists]] and combatants in organized fighting circuits.}}
 
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|The cloudship is crewed by ordinary [[Golds]].<ref name="cradle-09-bloodline-c4">''Bloodline'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[cloudship]] is crewed by ordinary [[Golds]].<ref name="cradle-09-bloodline-c4">''Bloodline'', chapter 4</ref>}}</li>
 </ul></div>
 
 == Reaper ==
@@ -27,7 +27,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Golds]] are a group that can be rallied.<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Emala]] brought lesser [[Golds]] to help with her siege when she was a [[Sage]].<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The combat-capable [[Golds]] in [[Moongrave]] channel their [[madra]] into script networks to fuel weapons.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The combat-capable [[Golds]] in [[Moongrave]] channel their [[madra]] into Script{{!}}script networks to fuel weapons.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
 </ul></div>
 
 == Threshold: Stories from Cradle ==

@@ -1,0 +1,28 @@
+{{Infobox artifact
+| name = spatial anchor
+| introduced = [[Bloodline (novel)|Bloodline]]
+}}
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|The [[scripted spike]] is a [[spatial anchor]] used by [[Seishen Daji]] to summon the [[Blood Sage]].<ref name="cradle-09-bloodline-c3">''Bloodline'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Mercy]] used a [[spatial anchor]].<ref name="cradle-09-bloodline-c3" />}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[Reigan Shen]] runs from one prepared [[spatial anchor]] to the next.<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Bloodline]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

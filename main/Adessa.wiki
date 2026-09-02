@@ -8,24 +8,26 @@
 }}
 
 == Overview ==
-{{spoiler|book=tg-02-crimson-vault|Adessa is the [[Heiress]] of [[Damasca]] and a potential successor to her father's rule. Though she possesses a sharp political understanding, strategic intelligence, and significant charisma, she is described as lacking wisdom. Her attempts to exploit a moment of vulnerability resulted in her being branded a traitor for betraying the citizens of [[Damasca]]. Following this betrayal, she was sentenced to permanent exile in the [[Territory]] of [[Lirial]], where she is to be monitored by [[Overlord Belanine]]. Physically, she has been seen wearing the red and gold colors of her nation, though she carries herself with a soldier-like intensity. During a confrontation involving the [[Bleeding Wand]], she displayed erratic and manic behavior.}}
+{{spoiler|book=tg-02-crimson-vault|Adessa is the [[Heiress]] of [[Damasca]] and a potential successor to her father's [[throne]]. Though she possesses a sharp political understanding, strategic intelligence, and significant charisma, she is considered unwise by some. She is often seen wearing the red and gold colors of her kingdom, though she carries herself with a soldier's demeanor. Adessa attempted to exploit a moment of vulnerability to seize power, an act her father deemed a betrayal of the [[Damascan]] people. As punishment for this treachery, she was stripped of her status and sentenced to permanent exile in the [[Territory]] of [[Lirial]] under the watch of [[Overlord Belanine]]. Despite her actions, she is noted as being mentally capable and possessing the qualities necessary to serve as a competent [[Queen]].}}
+
+== Personality ==
+{{spoiler|book=tg-02-crimson-vault|Adessa possesses a keen grasp of politics and a shrewd strategic mind. She is the daughter of King Zakareth VI{{!}}King Zakareth and the older sister of [[Leah]].}}
+
+== Abilities ==
+{{spoiler|book=tg-02-crimson-vault|She wields an artifact of Ragnarus the Crimson Vault{{!}}Ragnarus known as the [[Bleeding Wand]].}}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|The daughter of [[King]] [[Zakareth]], Adessa is the older sister of [[Leah]]. She wields the [[Bleeding Wand]], an artifact belonging to Ragnarus, and has endured a period of exile. Known for her keen grasp of politics, she possesses a shrewd strategic mind that [[Talos]] compares to both [[Leah]] and [[Zakareth]].}}
+{{spoiler|book=tg-02-crimson-vault|The daughter of King Zakareth VI{{!}}King Zakareth, Adessa is the older sister of [[Leah]]. She wields the [[Bleeding Wand]], an artifact belonging to Ragnarus the Crimson Vault{{!}}Ragnarus. Despite her shrewd strategic mind and keen grasp of politics, she has been exiled.}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Adessa]] is [[Leah]]'s older sister.<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|[[Adessa]] carries the [[Bleeding Wand]], an artifact of Ragnarus.<ref name="tg-02-crimson-vault-c3" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Adessa]] carries the [[Bleeding Wand]], an artifact of Ragnarus the Crimson Vault{{!}}Ragnarus.<ref name="tg-02-crimson-vault-c3" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Adessa]] wields the [[Bleeding Wand]].<ref name="tg-02-crimson-vault-c3" />}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|[[Adessa]] is the daughter of [[King]] [[Zakareth]].<ref name="tg-02-crimson-vault-c3" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Adessa]] is the daughter of King Zakareth VI{{!}}King Zakareth.<ref name="tg-02-crimson-vault-c3" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Adessa]] has been exiled.<ref name="tg-02-crimson-vault-c5">''The Crimson Vault'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|[[Talos]] compares [[Leah]] and [[Zakareth]] to [[Adessa]].<ref name="tg-02-crimson-vault-c8">''The Crimson Vault'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Adessa]] is described as having a shrewd strategic mind and a keen grasp of politics.<ref name="tg-02-crimson-vault-c15">''The Crimson Vault'', chapter 15</ref>}}</li>
 </ul></div>
-
-== Notable quotes ==
-* {{spoiler|book=tg-02-crimson-vault|"You two. You're the same as Cynara and Adessa."<ref name="tg-02-crimson-vault-c8" />}}
 
 == Notes ==
 <references />
@@ -36,4 +38,3 @@
 [[Category:The Crimson Vault]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate characters]]
-[[Category:Titled characters]]

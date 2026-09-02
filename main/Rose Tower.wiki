@@ -1,24 +1,24 @@
 {{Infobox location
 | name = Rose Tower
-| introduced = Of Kings and Killers
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
 }}
 
 ''See also: [[Rose Tower Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|Located on the eastern side of the Palace complex next to the perimeter wall, the [[Rose]] Tower is a seven-story rectangular structure featuring smooth white plaster and tiered red roofing. It is one of several similar towers situated along the edges of the Palace. The building's design includes arrow-slits on various floors and roof openings intended for marksmen. While the tower is part of the [[Imperial Palace]] grounds, its security involves both [[Imperial]] soldiers and [[Luminian Knights]] from the [[Independent Guilds]]. The ground floor has been used to house various [[Guild]] members and blue-white stone boxes etched with knight imagery. The uppermost room is a large square space that typically contains furniture and plants, though it can be cleared to feature painted circles on the floor for formal negotiations. The tower is a historic landmark, and a replica of it exists within the [[Consultants]]' [[Garden]].}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Rose]] Tower is a seven-story rectangular structure located on the eastern side of the Palace complex, situated against the wall that separates the [[Imperial]] Palace from the Capital. It is one of several identical towers positioned around the edges of the palace grounds. The building features smooth white plaster walls, tiered red roof tiles, and arrow-slits on various floors, with specific openings in the roof designed for marksmen. While a replica of this historic tower exists within the [[Consultants]]' Garden, the actual structure is used for significant events, such as negotiations. For these meetings, the top floor—which typically houses decorative plants, chairs, and a long table—is cleared to reveal a large square room with three painted circles on the floor to designate where participants stand. The tower's security is managed by both [[Imperial Guards]] and [[Luminian Knights]], who wear silver armor marked with the [[White Sun]]. The ground floor has hosted various groups, including members of the [[Independent Guilds]] alongside [[stone]] boxes etched with images of protective knights. During periods of conflict, the tower has been subject to tremors from battles and has served as a point of movement for various characters.}}
 
 == Of Kings and Killers ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Rose Tower]] is located on the eastern side of the Palace complex, next to the wall, and is two miles away.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Rose Tower]] is seven stories tall with smooth white plaster sides and tiered red tiles on the roof.<ref name="ee-sea-03-of-kings-and-killers-c6" />}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Rose Tower]] is a location guarded by Luminians and [[Imperial Guard]].<ref name="ee-sea-03-of-kings-and-killers-c6" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Rose Tower]] is a location guarded by Luminian{{!}}Luminians and [[Imperial Guard]].<ref name="ee-sea-03-of-kings-and-killers-c6" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Rose Tower]] is being attacked.<ref name="ee-sea-03-of-kings-and-killers-c7">''Of Kings and Killers'', chapter 7</ref>}}</li>
 </ul></div>
 
 == Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Rose]] Tower is a seven-story rectangular structure featuring white walls and serves as the location for an upcoming meeting. Situated at a base where [[Estyr Six]] stands, the tower is accessed via an archway and contains a large square room furnished with a long table and chairs. To ensure security, the [[Consultants]] secured various exits around the perimeter of the building. During a battle between [[Estyr]] and two [[Guild Heads]], the top of the tower shook, after which [[Shera]] and [[Meia]] exited the premises.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Rose]] Tower is a seven-story rectangular structure featuring white walls and serves as the location for an upcoming meeting. Situated at a base where [[Estyr Six]] stands, the tower is accessed through an archway and contains a large square room furnished with chairs and a long table. Before the gathering, the [[Consultants]] secured various exits around the perimeter of the building. During a battle between [[Estyr]] and two [[Guild Heads]], the top of the tower shook, after which [[Shera]] and [[Meia]] exited the premises.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -43,4 +43,3 @@
 [[Category:Of Killers and Kings]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire locations]]
-[[Category:Structures]]

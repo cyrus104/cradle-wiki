@@ -2,13 +2,13 @@
 
 {{Infobox location
 | name = Grayweather house library
-| introduced = Of Sea and Shadow
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 == Of Sea and Shadow ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jyrine]] and [[Calder]] are hiding in the [[Grayweather house library]].<ref name="ee-sea-01-of-sea-and-shadow-c19">''Of Sea and Shadow'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Jyrine Tessella Marten{{!}}Jyrine and [[Calder]] are hiding in the [[Grayweather house library]].<ref name="ee-sea-01-of-sea-and-shadow-c19">''Of Sea and Shadow'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -20,4 +20,3 @@
 [[Category:Of Sea and Shadow]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire locations]]
-[[Category:Structures]]

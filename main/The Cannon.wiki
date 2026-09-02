@@ -1,4 +1,20 @@
-#REDIRECT [[the Cannon]]
+{{Expand}}
+
+{{Infobox artifact
+| name = the Cannon
+| introduced = [[The Knight (novel)|The Knight]]
+}}
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|the Cannon{{!}}The Cannon has chosen the group.<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
 
 [[Category:Artifacts]]
 [[Category:The Knight]]

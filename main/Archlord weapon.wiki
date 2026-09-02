@@ -1,6 +1,6 @@
 {{Infobox artifact
 | name = Archlord weapon
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 == Underlord ==
@@ -12,7 +12,7 @@
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|[[Naian]] slams his claws into the flat of [[Lindon]]'s [[Archlord weapon]].<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|Naian Blackflame{{!}}Naian slams his claws into the flat of [[Lindon]]'s [[Archlord weapon]].<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
 </ul></div>
 
 == Wintersteel ==

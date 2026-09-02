@@ -1,12 +1,12 @@
 {{Infobox concept
 | name = Elder (The Elder Empire: Sea)
-| introduced = Of Sea and Shadow
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Elder (The Elder Empire: Sea) Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Elders]] are immensely powerful, immortal entities that possess dominion over fundamental forces such as time, space, knowledge, memory, and the cycle of [[life]] and death. They are capable of instantly generating living flesh and can manipulate reality in ways that surpass human capability. These beings travel between worlds through a [[void]], often pursuing individualistic goals: Ach’magut seeks knowledge, [[Nakothi]] pursues an equilibrium between [[life]] and death, [[Urg’naut]] strives for total nothingness, and [[Tharlos]] seeks change. While they generally operate independently of one another, their collective presence is a constant threat to human civilization, as they often desire the collapse of the Empire. A distinction exists between [[Great Elders]] and their lesser offspring, known as [[Elderspawn]]. [[Great Elders]] like [[Kelarac]] have historically interacted with humanity; [[Kelarac]], for instance, would grant wishes in exchange for valuable items such as blood, sanity, or artifacts. [[The Emperor]] has maintained control over the Empire by utilizing [[Elder power]] to elevate himself above humanity, acting as a stabilizing force against their incursions. Currently, the absence of [[Emperor (Elder Empire)|the Emperor]] has led to increased Elder activity. Various factions interact with these beings: the [[Blackwatch]] studies their biology for defense, Navigators use [[Elderspawn]] as guides to traverse the [[Aion Sea]], and some vessels even attempt to chain or summon [[Elders]] to assist in voyages. Despite these interactions, the [[Elders]] often harbor resentment toward human authority and maintain their own ancient, calculating agendas.}}
+{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Elders]] are immensely powerful, immortal beings that possess dominion over fundamental forces such as time, space, knowledge, memory, and the cycle of life and death. They are capable of instantly generating living flesh and can manipulate reality in ways that surpass human ability. While most [[Great Elders]] operate independently, pursuing distinct cosmic goals—such as the search for knowledge, absolute nothingness, or a balance between life and death—they generally do not interact with one another. They utilize the void for travel and communication between different worlds. In relation to humanity, [[Elders]] are viewed as existential threats that desire the collapse of civilization and the fragmentation of The Empire{{!}}the Empire. Historically, the Emperor maintained order by harnessing [[Elder power]] to rule as a figure comparable to a [[Great Elder]]. Currently, The Empire{{!}}the Empire employs various groups, such as the [[Blackwatch]] and Navigators, to study Elder biology, contain their influence, and utilize [[Elderspawn]] as guides across the [[Aion Sea]]. Some maritime vessels even attempt to bind or chain Elder creatures to assist in navigation. Despite their immense power, individual [[Elders]] can be bound through deals or marks, though they often harbor resentment toward human Authority{{!}}authority and maintain their own long-term ambitions.}}
 
 == Of Sea and Shadow ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
@@ -17,13 +17,13 @@
 </ul></div>
 
 == Of Dawn and Darkness ==
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Elders]] are powerful entities capable of capsizing entire ships. They possess the ability to manifest as rapidly growing flesh upon walls, a process that can also be used to heal wounds. While they represent a specific type of power found within [[Jerri's Vessel]], they are distinct from the sparks observed by [[Urzaia]]. To manage these beings, specialized chains can be invested to successfully restrain an Elder.}}
+{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Elders]] are formidable entities possessing the strength required to capsize entire ships. They exhibit a unique biological ability to manifest as rapidly growing flesh upon walls, which serves to heal wounds. While they are a type of power contained within [[Jerri's Vessel]], they can be restrained through the use of [[invested chains]]. It is noted that certain sparks observed by Urzaia Woodsman{{!}}Urzaia do not actually belong to an Elder.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Chains can be invested to restrain an Elder.<ref name="ee-sea-02-of-dawn-and-darkness-c2">''Of Dawn and Darkness'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Elders]] can manifest as flesh on walls that grows rapidly and heals wounds.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The sparks seen by [[Urzaia]] are not Elder.<ref name="ee-sea-02-of-dawn-and-darkness-c7">''Of Dawn and Darkness'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The sparks seen by Urzaia Woodsman{{!}}Urzaia are not Elder.<ref name="ee-sea-02-of-dawn-and-darkness-c7">''Of Dawn and Darkness'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Elder is a type of power found in [[Jerri's Vessel]].<ref name="ee-sea-02-of-dawn-and-darkness-c12">''Of Dawn and Darkness'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Elders]] are powerful entities that can capsize ships.<ref name="ee-sea-02-of-dawn-and-darkness-c21">''Of Dawn and Darkness'', chapter 21</ref>}}</li>
 </ul></div>
@@ -31,7 +31,7 @@
 == Of Kings and Killers ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Elders]] desire the fall of the Empire.<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Elders]] desire the fall of The Empire{{!}}the Empire.<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Tommison]]'s crew died under mysterious Elder-related circumstances.<ref name="ee-sea-03-of-kings-and-killers-c16">''Of Kings and Killers'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] [[Read]] an Elder.<ref name="ee-sea-03-of-kings-and-killers-c21">''Of Kings and Killers'', chapter 21</ref>}}</li>
 </ul></div>
@@ -47,4 +47,3 @@
 [[Category:Of Kings and Killers]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire concepts]]
-[[Category:Lifeforms]]

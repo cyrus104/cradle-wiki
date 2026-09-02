@@ -2,14 +2,14 @@
 
 {{Infobox artifact
 | name = Blackflame Truegold's scales
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|[[Eithan]] has located scales from a [[Blackflame]] [[Truegold]].<ref name="cradle-03-blackflame-c15">''Blackflame'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|Scales from the [[Path of Black Flame]] can accelerate cycling.<ref name="cradle-03-blackflame-c15" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Eithan]] has located [[scales]] from a [[Blackflame]] [[Truegold]].<ref name="cradle-03-blackflame-c15">''Blackflame'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|Scales from the [[Path of Black Flame]] can accelerate [[cycling]].<ref name="cradle-03-blackflame-c15" />}}</li>
 </ul></div>
 
 == Notes ==

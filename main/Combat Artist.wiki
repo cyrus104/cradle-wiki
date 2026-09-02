@@ -1,19 +1,19 @@
 {{Infobox technique
 | name = Combat Artist
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Combat Artist Timeline]]''
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|Combat Artists are specialized fighters who utilize [[Combat Arts]], which involve channeling [[Aether]] to empower their physical strikes or conjured weapons. These arts are distinct from traditional magic spells, as both disciplines require intense concentration and resonance with the [[Aether]]; attempting to use them simultaneously can cause a combatant to interfere with their own abilities. While [[Combat Arts]] are not meant for long-term sustainment, they can be used to enhance defense, manipulate projectiles, or deliver devastating offensive blows capable of destroying heavy machinery. Combat Artists vary significantly in species, strength, and combat style. While some are humans who may use [[Aethertech]] augmentations or specialized equipment like beaded necklaces to facilitate their arts, others belong to species such as the [[Visiri]], [[Karoshan]], or [[Lagomorphs]]. Some Combat Artists specialize in melee combat with swords, while others master arts used in conjunction with firearms. In terms of threat level, highly skilled practitioners can be classified as destroyer-class threats. Despite their power, Combat Artists often face limitations regarding physical stamina and can be vulnerable to opponents who identify gaps in their technique or pace. Their roles range from [[arena]] competitors and ship security specialists to disaster relief workers and elite frontline soldiers.}}
+{{spoiler|book=lh-04-the-pilot|Combat Artists are specialized warriors who master [[Combat Arts]], which involve channeling [[Aether]] to empower their physical strikes or manipulate energy. These techniques are distinct from traditional spellcasting, as both disciplines require intense concentration and [[resonance]] with the [[Aether]]; attempting to use them simultaneously can cause a combatant to interfere with their own abilities. While [[Combat Arts]] are not sustained spells, they can be used to enhance weaponry—ranging from swords and shields to heavy firearms—or to conjure blades and defensive fields. Some artists utilize specialized equipment, such as beaded necklaces for field generation or [[Aethertech]] augmentations, to aid their performance. Combat Artists vary significantly in power and role. High-level practitioners can be classified as destroyer-class threats, capable of delivering apocalyptic force or even performing feats associated with The Perfected{{!}}the Perfected. Their combat styles can focus on brute offensive power, such as breaking through armor and mechs, or on sophisticated defense. Despite their superhuman speed and strength, they are limited by physical stamina and the human body beneath their gear. While certain species like the [[Visiri]] or [[Karoshan]] are naturally suited for these arts, others, such as the [[Aethril]], often lack the physical strength required. Combat Artists serve in various capacities, including ship security, arena fighting, disaster relief, and elite boarding units.}}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The narrator casts a spell at the [[Combat Artist]].<ref name="lh-01-the-captain-c13">''The Captain'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Combat Artist]] is a destroyer-class threat in combat.<ref name="lh-01-the-captain-c13" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Combat Artists are high-level magic users.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Combat Artist{{!}}Combat Artists are high-level magic users.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}</li>
 </ul></div>
 
 == The Engineer ==
@@ -25,24 +25,23 @@
 </ul></div>
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|Combat Artist is a specialized fighting role and skill possessed by [[Kyri Prest]]. These experienced combatants are defined by their use of intentional movements during battle. As a rule, those who hold this role avoid facing mages within the ring. During their engagement with [[Varic]], Combat Artists utilized devastating blows to attack him.}}
+{{spoiler|book=lh-03-the-knight|Combat Artist is a specialized role and type of fighter possessed by [[Kyri Prest]]. These experienced individuals are defined by their use of intentional movements during battle. Within the [[ring]], Combat Artists typically avoid facing mages. However, they have also been known to attack Varic Vallenar{{!}}Varic with devastating blows.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Combat Artist]] is a skill possessed by [[Kyri Prest]].<ref name="lh-03-the-knight-c1">''The Knight'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|A [[Combat Artist]] is a type of fighter or role.<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Combat Artists are experienced individuals characterized by intentional movements.<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Combat Artists are fighters who avoid facing mages in the ring.<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Combat Artists attacked [[Varic]] with devastating blows.<ref name="lh-03-the-knight-c30" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Combat Artist{{!}}Combat Artists are experienced individuals characterized by intentional movements.<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Combat Artist{{!}}Combat Artists are fighters who avoid facing mages in the [[ring]].<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Combat Artist{{!}}Combat Artists attacked Varic Vallenar{{!}}Varic with devastating blows.<ref name="lh-03-the-knight-c30" />}}</li>
 </ul></div>
 
 == The Pilot ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|There are at least fifty Combat Artists on the planet where [[Aila]] is located.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Combat Artists of the [[Lagomorph Contract]] are muscled individuals who take point in combat.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Lutoch]] is not a [[Combat Artist]].<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Combat Artists are personnel prepared for boarders.<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|There are at least fifty Combat Artist{{!}}Combat Artists on the planet where Aila Escalon{{!}}Aila is located.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Combat Artist{{!}}Combat Artists of the [[Lagomorph Contract]] are muscled individuals who take point in combat.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Combat Artist{{!}}Combat Artists are personnel prepared for boarders.<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}</li>
 </ul></div>
 
 == Notes ==

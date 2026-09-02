@@ -10,10 +10,19 @@
 }}
 
 == Overview ==
-{{spoiler|book=lh-02-the-engineer|The Undermaker is a middle-aged human male who serves as the protector of [[Tunnel City]]. He is an [[Advocate]], identifiable by a bronze 'A' insignia on his black and bronze combat suit, which features temperature regulation capabilities. He possesses the specialized ability to create temporary structures, such as walls and bridges, out of false matter. In combat, he utilizes a technique known as [[Combat Art]], which allows him to deliver powerful strikes through specific hand movements. Despite his role, he has a controversial history involving numerous starship accidents and crashes. He is proficient in the [[Trade]] language and has engaged in direct physical confrontation with [[Raion]].}}
+{{spoiler|book=lh-02-the-engineer|The Undermaker is a middle-aged human man who serves as the protector of [[Tunnel City]]. He is an [[Advocate]], distinguished by a black suit featuring bronze accents and an 'A' emblem on his chest. His physical appearance is characterized by weathered skin and graying hair. He possesses the specialized ability to create artificial matter, which he uses to rapidly build structures like walls or bridges during rescue operations. In combat, he utilizes a [[technique]] known as [[Combat Art]], which allows him to deliver powerful strikes. Despite his role, he has a controversial history involving numerous starship accidents and crashes. He is proficient in the [[Trade]] language and operates a starship equipped with temperature regulation technology.}}
+
+== Appearance ==
+{{spoiler|book=lh-02-the-engineer|This middle-aged human man possesses weathered skin and graying hair. He wears a skintight black combat suit featuring bronze highlights, temperature regulation functions, and an [[Advocate]] �A� displayed on his chest.}}
+
+== Personality ==
+{{spoiler|book=lh-02-the-engineer|Serving as the Defender of [[Tunnel City]], he works as an [[Advocate]] dedicated to disaster relief. He operates as a [[Combat Artist]] within his role.}}
+
+== Abilities ==
+{{spoiler|book=lh-02-the-engineer|As a [[Combat Artist]], he has the power to [[construct]] walls and bridges by generating false matter.}}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|A middle-aged human man with weathered skin and graying hair, the Undermaker serves as a [[Combat Artist]] and an [[Advocate]] pilot. Working in disaster relief, he holds the position of Defender of [[Tunnel City]]. He utilizes his unique ability to generate false matter to [[construct]] essential structures like walls and bridges. For his duties, he wears a skintight black combat suit featuring bronze highlights, temperature regulation functions, and an [[Advocate]] 'A' displayed on his chest.}}
+{{spoiler|book=lh-02-the-engineer|A middle-aged human man with weathered skin and graying hair, the Undermaker serves as a [[Combat Artist]] and an [[Advocate]] pilot. While working in disaster relief, he acts as the Defender of [[Tunnel City]]. He utilizes his unique ability to generate false matter to [[construct]] essential structures such as walls and bridges. For his duties, he wears a skintight black combat suit featuring bronze highlights, an [[Advocate]] 'A' on the chest, and a temperature regulation function.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -35,6 +44,3 @@
 [[Category:The Engineer]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon characters]]
-[[Category:Advocate]]
-[[Category:Titled characters]]
-[[Category:Sacred artists]]

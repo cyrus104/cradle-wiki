@@ -11,34 +11,46 @@
 ''See also: [[Doctor Nova Timeline]]''
 
 == Overview ==
-{{spoiler|book=lh-03-the-knight|Doctor Nova, also known as [[Mell D-One-Twenty-Five]], is a Master [[Aether Technician]] and the inventor of the [[Divine Titans]]. She is recognized by her signature creations, [[Nova-Bots]], which typically feature a single red light in the center of their visors. While she is considered a highly wanted fugitive by some, she has also been held in unlawful captivity. Her professional attire consists of an elaborate white coat with blue edges, a visor, and various [[Aethertech]] consoles and tools attached to her arms and belt. Beyond her work with [[Titans]], she is the creator of the android [[Starhammer]], though she has expressed concerns regarding his malfunctioning state and violent behavior. She is noted for her expertise in [[Aethertech]] and her interest in research regarding genetic engineering.}}
+{{spoiler|book=lh-03-the-knight|Doctor Nova, also known as [[Mell D-One-Twenty-Five]], is a Aether Technician{{!}}Master Aether Technician and the inventor of the [[Divine Titans]]. She is recognized by her signature creation, [[Nova-Bots]], which typically feature a single red light on their visors. While she has been classified as a wanted fugitive, she was previously held in unlawful captivity before being freed by Varic Vallenar{{!}}Varic. Her professional attire consists of an elaborate white coat with blue edges, a visor, and various [[Aethertech]] console{{!}}consoles and tools attached to her arms and belt. Beyond her work with [[Titans]], she is the creator of the android [[Starhammer]], though she has expressed concerns regarding his malfunctioning and violent behavior. Her expertise includes research into genetic engineering and various technical fields, though she notes her abilities do not extend to biological modification.}}
 
-== The Engineer ==
-{{spoiler|book=lh-02-the-engineer|Also known as [[Mell D-One-Twenty-Five]], Doctor Nova is an [[Aether Technician]] and [[Archmage of sealing and binding]] who created [[Starhammer]]. As the designer of [[Nova-Bots]] featuring a single red light in their visors, she was present during the initial activation of [[Starhammer]]'s [[Evolution Engine]]. Though once held in custody by the Advocates, she became a legendary criminal alongside [[Spellbinder]] and was eventually branded a wanted fugitive. After being targeted and kidnapped, her current location remains unknown, though she is recognized for her deceptive nature and her past connection to the narrator.}}
+== Personality ==
+{{spoiler|book=lh-03-the-knight|Known for a capacity to deceive, this individual was once a legendary criminal alongside [[Spellbinder]]. They have been targeted by others and were previously held in custody by [[the Advocates]].}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
+== Abilities ==
+{{spoiler|book=lh-03-the-knight|As an [[Aether Technician]], they possess specialized technical knowledge. They are also an [[Archmage of sealing and binding]].}}
+
+== History ==
+=== {{spoiler|book=lh-02-the-engineer|Life as an Aether Technician}} ===
+{{spoiler|book=lh-02-the-engineer|Mentioned by Mell D-One-Twenty-Five{{!}}Mell, Doctor Nova is an individual whom [[Starhammer]] once visited.<ref name="lh-02-the-engineer-c6">''The Engineer'', chapter 6</ref><ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref> A wanted fugitive and former partner to the narrator in an alternate life, Nova has since been kidnapped.<ref name="lh-02-the-engineer-c11">''The Engineer'', chapter 11</ref><ref name="lh-02-the-engineer-c16">''The Engineer'', chapter 16</ref><ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref> The creator of a specific Nova-Bots{{!}}Nova-Bot design characterized by a single red light in their visors, this individual was targeted by an unknown party.<ref name="lh-02-the-engineer-c32">''The Engineer'', chapter 32</ref><ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref> Also known as [[Mell D-One-Twenty-Five]], this [[Aether Technician]] was previously held in custody by [[the Advocates]].<ref name="lh-02-the-engineer-c35">''The Engineer'', chapter 35</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is a character mentioned by [[Mell]].<ref name="lh-02-the-engineer-c6">''The Engineer'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Starhammer]] visited [[Doctor Nova]].<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is a wanted fugitive.<ref name="lh-02-the-engineer-c11">''The Engineer'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|The narrator was [[Doctor Nova]]’s partner in an alternate [[life]].<ref name="lh-02-the-engineer-c16">''The Engineer'', chapter 16</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] has been kidnapped.<ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is the creator of a specific design for [[Nova-Bots]] featuring a single red light in their visors.<ref name="lh-02-the-engineer-c32">''The Engineer'', chapter 32</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] was targeted by someone.<ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is an [[Aether Technician]] who was held in custody by the Advocates.<ref name="lh-02-the-engineer-c35">''The Engineer'', chapter 35</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is a character mentioned by Mell D-One-Twenty-Five{{!}}Mell.<ref name="lh-02-the-engineer-c6" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Starhammer]] visited [[Doctor Nova]].<ref name="lh-02-the-engineer-c8" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is a wanted fugitive.<ref name="lh-02-the-engineer-c11" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The narrator was [[Doctor Nova]]’s partner in an alternate life.<ref name="lh-02-the-engineer-c16" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] has been kidnapped.<ref name="lh-02-the-engineer-c31" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is the creator of a specific design for [[Nova-Bots]] featuring a single red light in their visors.<ref name="lh-02-the-engineer-c32" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] was targeted by someone.<ref name="lh-02-the-engineer-c33" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is an [[Aether Technician]] who was held in custody by [[the Advocates]].<ref name="lh-02-the-engineer-c35" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is also known as [[Mell D-One-Twenty-Five]].<ref name="lh-02-the-engineer-c35" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] was present during the first activation of [[Starhammer]]'s [[Evolution Engine]].<ref name="lh-02-the-engineer-c40">''The Engineer'', chapter 40</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is [[Mell]]'s voice and an [[Archmage of sealing and binding]].<ref name="lh-02-the-engineer-c47">''The Engineer'', chapter 47</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] and [[Spellbinder]] were legendary criminals throughout the galaxy.<ref name="lh-02-the-engineer-c49">''The Engineer'', chapter 49</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is a person whose location is unknown.<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] made [[Starhammer]].<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is known for her ability to deceive.<ref name="lh-02-the-engineer-c54">''The Engineer'', chapter 54</ref>}}</li>
 </ul></div>
 
-== The Knight ==
+=== {{spoiler|book=lh-02-the-engineer|Legendary criminal era}} ===
+{{spoiler|book=lh-02-the-engineer|Doctor Nova was present for the initial activation of [[Starhammer]]'s [[Evolution Engine]].<ref name="lh-02-the-engineer-c40">''The Engineer'', chapter 40</ref> Serving as Mell D-One-Twenty-Five{{!}}Mell's voice, she is an [[Archmage]] specializing in sealing and [[binding]].<ref name="lh-02-the-engineer-c47">''The Engineer'', chapter 47</ref> Alongside [[Spellbinder]], she was considered a legendary criminal across the galaxy.<ref name="lh-02-the-engineer-c49">''The Engineer'', chapter 49</ref> Though she is known for her capacity to deceive, her current location remains unknown.<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref><ref name="lh-02-the-engineer-c54">''The Engineer'', chapter 54</ref> She is also credited as the creator of [[Starhammer]].<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] was present during the first activation of [[Starhammer]]'s [[Evolution Engine]].<ref name="lh-02-the-engineer-c40" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is Mell D-One-Twenty-Five{{!}}Mell's voice and an [[Archmage of sealing and binding]].<ref name="lh-02-the-engineer-c47" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] and [[Spellbinder]] were legendary criminals throughout the galaxy.<ref name="lh-02-the-engineer-c49" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is a person whose location is unknown.<ref name="lh-02-the-engineer-c51" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] made [[Starhammer]].<ref name="lh-02-the-engineer-c52" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Doctor Nova]] is known for her ability to deceive.<ref name="lh-02-the-engineer-c54" />}}</li>
+</ul></div>
+
+{{spoiler|book=lh-03-the-knight|The persona or title known as Doctor Nova is used by Mell D-One-Twenty-Five{{!}}Mell.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|[[Doctor Nova]] is a persona or title used by [[Mell]].<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Doctor Nova]] is a persona or title used by Mell D-One-Twenty-Five{{!}}Mell.<ref name="lh-03-the-knight-c4" />}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -55,5 +67,3 @@
 [[Category:The Knight]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon characters]]
-[[Category:Advocates]]
-[[Category:Titled characters]]

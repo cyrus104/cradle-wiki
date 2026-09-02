@@ -1,26 +1,26 @@
 {{Infobox location
 | name = Iron Hive
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 ''See also: [[Iron Hive Timeline]]''
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|[[The Iron]] [[Hive]] is a massive, bulbous structure serving as a central hub for the [[Iron Legion]]'s fleet. These entities are composed of fused metal from various crashed starships and can reach the size of a small moon or even a planet. They lack defensive shields to facilitate the rapid deployment and retrieval of fighter craft, making them vulnerable to direct energy attacks. The [[Hives]] function as biological and mechanical nurseries; they are capable of producing [[Iron King]] leaders and are populated by various soldiers, such as [[Pawns]]. While some [[Hives]] operate under the coordination of a [[Bishop]] to manage magical protections, those without such leadership act independently like wild animals, seeking out nearby planets or colonies to consume and infest. The most significant of these structures is the [[Grand Hive]], which has been described as a planet-sized skull made of black iron and white skin. This particular [[Hive]] served as the fortress for the last [[Iron King]] and has been subject to various fates, including being hollowed out, destroyed, or left as smoldering debris.}}
+{{spoiler|book=lh-04-the-pilot|[[The Iron]] [[Hive]] is a massive, bulbous structure serving as a central hub for the [[Iron Legion]] fleet. These entities are composed of fused metal from various crashed starships and can reach sizes comparable to small moons or planets. Physically, they are described as pulsating masses of Iron{{!}}iron and organic matter that resemble hearts or even [[giant]] skulls. The [[Grand Hive]], a specific and significant version of these structures, features black Iron{{!}}iron and white skin with long, tusk-like spikes protruding from its hangar bays. Because they must allow fighters to enter and exit freely, [[Hives]] lack defensive shields, making them vulnerable to direct [[plasma]] fire. Functionally, [[Hives]] act as mobile bases and breeding grounds for the [[Legion]]. They can produce a vast number of soldiers known as [[Pawns]] and are capable of gestating an [[Iron King]]. While some [[Hives]] operate under the direction of a Bishop of the Iron Legion{{!}}Bishop, those without such leadership act independently like wild animals, seeking out nearby planets to consume. The structures are highly active in galactic conflicts, often appearing near inhabited worlds to invade or snatch colonies. Though they can be destroyed by concentrated power, their core components and [[ritual]] elements are vital to the [[Legion]]'s ability to produce new leaders.}}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|Constructed from the metal of crashed starships, the [[Iron]] [[Hive]] is a shifting environment that can be destabilized by large weapons and mapped using holograms. During an invasion of the location, the narrator fought through its interior to destroy the [[Iron King]], an act that resulted in the total destruction of the [[Hive]]. This battle was intense enough to leave the narrator's plasma cannons warped. Beyond being a specific location, an [[Iron]] [[Hive]] is also recognized as a type of entity or organization for which one might serve as a [[Shepherd]].}}
+{{spoiler|book=lh-01-the-captain|Constructed from the metal of crashed starships, the [[Iron]] [[Hive]] is a shifting environment that can be destabilized by large weapons and mapped using holograms. During an invasion of the location, the narrator fought through its interior to destroy the [[Iron King]], resulting in the total [[destruction]] of the [[Hive]]. This conflict was intense enough that the narrator's [[plasma cannons]] were warped following the battle. Beyond this specific site, an [[Iron]] [[Hive]] is also recognized as a type of entity or organization that one might serve as a Shepherd for.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|The narrator's plasma cannons were warped after a battle at the [[Iron Hive]].<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The narrator's [[plasma cannons]] were warped after a battle at the [[Iron Hive]].<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Iron Hive]] is a shifting environment that can be destabilized by large weapons.<ref name="lh-01-the-captain-c17">''The Captain'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Iron Hive]] is a location that can be mapped via hologram.<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The narrator fought through the [[Iron Hive]].<ref name="lh-01-the-captain-c18" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Iron Hive]] was made from the metal of crashed starships.<ref name="lh-01-the-captain-c19">''The Captain'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Iron Hive]] was destroyed.<ref name="lh-01-the-captain-c19" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The narrator invaded the [[Iron Hive]] and destroyed the [[Iron King]].<ref name="lh-01-the-captain-c21">''The Captain'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|An [[Iron Hive]] is a type of entity or organization that one might become a [[Shepherd]] for.<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|An [[Iron Hive]] is a type of entity or organization that one might become a Shepherd for.<ref name="lh-01-the-captain-c36">''The Captain'', chapter 36</ref>}}</li>
 </ul></div>
 
 == The Engineer ==
@@ -53,4 +53,3 @@
 [[Category:The Pilot]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon locations]]
-[[Category:Structures]]

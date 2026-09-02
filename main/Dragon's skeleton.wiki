@@ -1,0 +1,28 @@
+{{Expand}}
+
+{{Infobox construct
+| name = dragon's skeleton
+| introduced = [[Blackflame (novel)|Blackflame]]
+}}
+
+== Blackflame ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-03-blackflame|A [[dragon's skeleton]] in a chamber flickers with black fire.<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|Some [[coffins]] contained only a [[dragon's skeleton]].<ref name="cradle-10-reaper-c11">''Reaper'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Constructs]]
+[[Category:Blackflame]]
+[[Category:Reaper]]
+[[Category:Cradle]]

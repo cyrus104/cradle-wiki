@@ -2,13 +2,13 @@
 
 {{Infobox group
 | name = Pawns of the Iron Legion
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|[[Pawns of the Iron Legion]] are enemies approaching [[Sola]].<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Pawns of the Iron Legion]] are enemies approaching Sola Kalter{{!}}Sola.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Pawns of the Iron Legion]] are creatures made of flesh and metal.<ref name="lh-01-the-captain-c20">''The Captain'', chapter 20</ref>}}</li>
 </ul></div>
 

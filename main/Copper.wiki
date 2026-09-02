@@ -1,12 +1,12 @@
 {{Infobox concept
 | name = Copper
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Copper Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|Copper represents the initial stage of the [[sacred arts]] and serves as the foundational step for practitioners. At this level, an individual's spirit opens, allowing them to perceive and harvest the [[vital aura]] present in the natural world. By cycling this energy from the heavens and earth, a Copper can process it into [[madra]] to fuel their own body. This ability provides them with a more expansive and effective supply of power compared to those at lower levels, such as the [[Unsouled]]. While a Copper possesses significant advantages over an [[Unsouled]]—who may struggle to defend themselves against one—they remain quantitatively inferior to those at the [[Iron stage]], who possess superhuman physical capabilities. In terms of progression, most individuals reach the [[Copper stage]] by age thirteen. While some may advance naturally through the refinement of their innate spirit, others may use specific medicines to aid the process. The stage is characterized by a unique sensory experience known as [[Copper sight]], which allows practitioners to see the colors and movements of various types of [[aura]]. Beyond spiritual development, Copper is also a material used in the construction of various objects, ranging from mechanical skeletons and doors to specialized tools and treasures.}}
+{{spoiler|book=cradle-12-waybound|Copper represents the foundational stage of the [[sacred arts]], serving as the initial step for practitioners. At this level, an individual's [[spirit]] opens, allowing them to perceive and harvest the [[vital aura]] present in the natural world. By [[cycling]] this energy from the heavens and earth, a Copper can process it into [[madra]], providing them with a more expansive and effective power supply to fuel their bodies. This ability to see [[aura]] is often described as a significant sensory shift, as those at this stage can perceive the world through colored visual representations of different elemental energies. While reaching this stage is a common milestone for many by age thirteen, it remains a vital prerequisite for further [[advancement]]. In terms of combat and physical capability, [[Coppers]] possess a distinct advantage over those who are unsouled, though they remain significantly less powerful than those at the [[Iron stage]], who possess superhuman physical attributes.}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
@@ -18,21 +18,19 @@
 </ul></div>
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|Copper serves as a specific stage of progression and advancement that represents a certain level of strength. Within this rank, individuals gain the ability to see [[aura]] and experience enhanced senses. While Copper can also function as a regional form of currency, it is a status held by [[Tash]] and a level reached by [[Lindon]]. Ultimately, [[Lindon]]'s Copper core was transmuted into [[Iron]] as he progressed beyond this stage.}}
+{{spoiler|book=cradle-02-soulsmith|Copper represents a specific stage of progression and [[advancement]] within the realm. At this level, an individual can perceive [[aura]] and possesses heightened senses. While it serves as a rank or status held by [[Tash]], the term also functions as a type of currency or value in the region. For [[Lindon]], reaching this stage meant one of his cores attained the rank, though it was eventually transmuted from Copper to [[Iron]].}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|At the [[Copper stage]], one can see [[aura]].<ref name="cradle-02-soulsmith-c2">''Soulsmith'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|One of [[Lindon]]'s cores has reached the [[Copper stage]].<ref name="cradle-02-soulsmith-c2" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Copper]] is a stage of progression.<ref name="cradle-02-soulsmith-c4">''Soulsmith'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|A [[Copper]] is a type of currency or value in the region.<ref name="cradle-02-soulsmith-c8">''Soulsmith'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Lindon]] is [[Copper stage]].<ref name="cradle-02-soulsmith-c10">''Soulsmith'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|[[Copper]] is a level of strength.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|[[Copper]] is a level of advancement.<ref name="cradle-02-soulsmith-c13">''Soulsmith'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Copper]] is a level of [[advancement]].<ref name="cradle-02-soulsmith-c13">''Soulsmith'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Copper]] is a rank or status held by [[Tash]].<ref name="cradle-02-soulsmith-c14">''Soulsmith'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Lindon's core]] was transmuted from [[Copper]] to [[Iron]].<ref name="cradle-02-soulsmith-c16">''Soulsmith'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Copper]] is a stage of senses for [[Lindon]].<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|[[The Copper]] is dead and had reached [[Iron]].<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Copper]] is a sense or rank mentioned by [[Lindon]].<ref name="cradle-02-soulsmith-c19">''Soulsmith'', chapter 19</ref>}}</li>
 </ul></div>
 
@@ -53,7 +51,7 @@
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|An [[Overlord]] is little better than a [[Copper]] on the scale of [[Monarchs]] and [[Dreadgods]].<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|An Overlord is little better than a [[Copper]] on the [[scale]] of [[Monarchs]] and [[Dreadgods]].<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Coppers]] are individuals who can sweep.<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}</li>
 </ul></div>
 
@@ -70,4 +68,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Terminology]]

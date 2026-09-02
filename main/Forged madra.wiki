@@ -1,15 +1,15 @@
 {{Infobox madra
 | name = Forged madra
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Forged madra Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|[[Forged]] [[madra]] is a specialized state of energy achieved when a practitioner uses techniques to condense, shape, or solidify their [[madra]] into tangible structures. This process can result in a wide variety of forms, ranging from simple tools like needles, scales, and discs to complex constructs such as weapons, armor, shields, limbs, or even massive stone giants. The stability and physical properties of these creations vary significantly based on the skill of the user and the specific type of [[madra]] involved; some [[Forged]] structures are incredibly dense and feel like [[steel]], while others are fragile as glass or dissipate shortly after being formed. Advanced practitioners and [[Soulsmiths]] can use [[Forging]] to create intricate items, such as Divine Treasures or specialized clothing, often utilizing [[scripts]] and bindings to maintain the integrity of the constructs. [[Forging]] can also be used as a combat technique, allowing users to manifest temporary attacks like extra blades, claws, or projectiles. While some [[Forged]] [[madra]] is created through intentional technique, it can also be found naturally in the remnants of powerful beings or used to power complex machinery like cloudships. The process of [[Forging]] can be physically demanding, potentially straining a user's madra channels if done excessively or without sufficient stability.}}
+{{spoiler|book=cradle-13-threshold|[[Forged]] [[madra]] is a specialized state of energy achieved when a practitioner uses techniques to condense, shape, and solidify [[madra]] into tangible [[constructs]]. This process allows the energy to take on physical properties, such as appearing as blades, shields, [[scales]], armor, or even complex structures like limbs and massive [[stone]] giants. The resulting material can range from fragile, glass-like objects that shatter easily to incredibly dense structures that feel like [[steel]] or [[stone]]. Depending on the skill of the user, [[Forged]] [[madra]] can be used for temporary combat maneuvers—often referred to as [[Forger techniques]]—that dissipate after a few seconds, or it can be crafted into stable, long-lasting items and Divine Treasure{{!}}Divine Treasures through the advanced art of [[Soulsmithing]]. The characteristics of [[Forged]] [[madra]] are heavily influenced by the specific aspect or color of the energy used, such as fire, Shadow{{!}}shadow, storm, or [[dream madra]]. While [[pure madra]] is highly adaptable and compatible with most other elements, [[Forged]] [[constructs]] often possess unique properties; some may be liquid in nature, while others might react to light or pressure in unpredictable ways. Advanced practitioners can even imbue these [[constructs]] with temporary life or use them to store and nourish power. However, the act of [[Forging]] can be physically demanding, potentially straining a user's [[madra channels]] or core if done too frequently or without sufficient stability.}}
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|[[Forged]] [[madra]] is a substance capable of forming dense structures comparable to [[steel]]. During an encounter, [[Yerin]] successfully deflected a spike made of this material. It is also known that the [[madra]] can be utilized to [[construct]] extremely stable barriers. A [[Soulsmith]] must distinguish between the handling of forged [[madra]] and [[dead matter]]. Additionally, a shining bar of this substance was discovered within a wardrobe.}}
+{{spoiler|book=cradle-02-soulsmith|[[Forged]] [[madra]] possesses the unique ability to form dense structures comparable to [[steel]]. During a confrontation, [[Yerin]] successfully deflected a spike composed of this substance. This material can also be utilized to [[construct]] extremely stable barriers. A [[Soulsmith]] must distinguish between the handling of forged [[madra]] and [[dead matter]]. Additionally, a shining bar of this [[madra]] was discovered hidden within a wardrobe.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -21,22 +21,22 @@
 </ul></div>
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|[[Forged]] [[madra]] is a substance that can manifest in various physical forms, including liquid, sludge, pebbles, or glass-like shards. This [[madra]] consists of seven basic aspects and combinations that can result in a chaotic blend of colors. It possesses a distinct destruction aura and is capable of being utilized to [[construct]] mechanical limbs.}}
+{{spoiler|book=cradle-03-blackflame|[[Forged]] [[madra]] manifests as a chaotic blend of colors and can exist in various physical forms, ranging from liquid and sludge to pebbles or glass-like shards. This substance is comprised of seven basic [[aspects]] and combinations. It possesses a distinct [[destruction aura]] and can even be utilized to [[construct]] mechanical limbs.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Forged madra]] can be used to create mechanical limbs.<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Forged madra]] can be a chaotic blend of colors.<ref name="cradle-03-blackflame-c1" />}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|[[Forged madra]] has seven basic aspects and combinations.<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Forged madra]] has seven basic [[aspects]] and combinations.<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Forged madra]] can exist in different forms such as liquid, sludge, pebbles, or glass-like shards.<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|[[Forged madra]] has a destruction aura.<ref name="cradle-03-blackflame-c15">''Blackflame'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Forged madra]] has a [[destruction aura]].<ref name="cradle-03-blackflame-c15">''Blackflame'', chapter 15</ref>}}</li>
 </ul></div>
 
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|The walls of [[Akura clan territory]] are made of black [[Forged madra]].<ref name="cradle-04-skysworn-c14">''Skysworn'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|He caught a glimpse of the glowing mass of [[Forged madra]] at the heart of the cloud [[construct]] before it dissipated into [[essence]].<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|He caught a glimpse of the glowing mass of [[Forged madra]] at the heart of the cloud [[construct]] before it dissipated into essence.<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}</li>
 </ul></div>
 
 == Ghostwater ==
@@ -44,7 +44,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Mercy]] uses dark green [[Forged madra]] to create a tent.<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Yerin]] has [[Forged madra]] limbs.<ref name="cradle-05-ghostwater-c14">''Ghostwater'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|The tent's dark green madra is [[Forged madra]].<ref name="cradle-05-ghostwater-c17">''Ghostwater'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The tent's dark [[green madra]] is [[Forged madra]].<ref name="cradle-05-ghostwater-c17">''Ghostwater'', chapter 17</ref>}}</li>
 </ul></div>
 
 == Underlord ==
@@ -72,12 +72,12 @@
 </ul></div>
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Forged]] [[madra]] can be compressed within a pouch made of scripted purple cloth. This substance is utilized in the construction of barriers, such as those seen in Heaven’s Glory, and can be shaped into transparent, glass-like panes. When these panes are shattered, they burn with the intensity of live coals. Additionally, a brick composed of brown [[Forged]] [[madra]] has served as a weapon, and the light emitted from [[Samara's ring]] is also composed of this [[madra]].}}
+{{spoiler|book=cradle-09-bloodline|[[Forged]] [[madra]] is a substance that can be compressed within pouches made of scripted purple cloth. It serves as a component in the construction of barriers, such as those seen in Heaven's Glory{{!}}Heaven’s Glory, and can be shaped into transparent, glass-like panes. When these panes are shattered, they burn with the intensity of live coals. This [[madra]] can also be fashioned into solid objects like brown bricks for use as weapons, or manifest as the light emitted from [[Samara's ring]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|The pouch of scripted purple cloth compresses [[Forged madra]].<ref name="cradle-09-bloodline-c3">''Bloodline'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|The Heaven’s Glory barrier was partially made of [[Forged madra]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[pouch of scripted purple cloth]] compresses [[Forged madra]].<ref name="cradle-09-bloodline-c3">''Bloodline'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The Heaven's Glory{{!}}Heaven’s Glory barrier was partially made of [[Forged madra]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Forged madra]] can be used to create transparent panes of glass-like coverings.<ref name="cradle-09-bloodline-c7">''Bloodline'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Forged madra]] panes burn like live coals when broken.<ref name="cradle-09-bloodline-c7" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|A brick of brown [[Forged madra]] was used as a weapon.<ref name="cradle-09-bloodline-c15">''Bloodline'', chapter 15</ref>}}</li>
@@ -104,7 +104,7 @@
 == Threshold: Stories from Cradle ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|[[Forged madra]] supports civilizations within the trees of the Forest Monarch's territory.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Forged madra]] supports civilizations within the trees of [[the Forest]] [[Monarch]]'s territory.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Forged madra]] was not used in the construction of the primitive castles.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
 </ul></div>
 

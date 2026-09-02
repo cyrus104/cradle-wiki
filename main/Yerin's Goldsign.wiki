@@ -1,10 +1,10 @@
 {{Infobox construct
 | name = Yerin's Goldsign
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-06-underlord|A [[Goldsign]] is a manifestation granted to individuals who have reached the [[Gold stage]] of their [[Path]], serving as a visible indicator of their progression and specific discipline. These features are produced when a person holds a [[Remnant]] within their core, providing an additional capability beyond standard abilities. While different [[Paths]] produce various forms—such as green clouds or serpents—[[Yerin's Goldsigns]] take the form of silver, [[steel]]-like bladed arms that emerge from her body. These appendages function as highly effective offensive tools, capable of deflecting attacks, striking enemies with precision, and channeling [[sword madra]] more efficiently than her fingernails. As [[Yerin]]'s strength increases, the number of these silver arms can grow, and they become more physically solid and defined. They are integral to her combat style, allowing her to execute advanced techniques like the [[Endless Sword]] by gathering [[aura]] around multiple blades simultaneously.}}
+{{spoiler|book=cradle-06-underlord|A [[Goldsign]] is a unique manifestation granted to individuals who have achieved the [[Gold]] rank by holding a [[Remnant]] within their core. These marks serve as a visual indicator of an individual's specific [[Path]]. [[Yerin]] possesses multiple Goldsign{{!}}Goldsigns that appear as silvery [[steel]] blades or arms emerging from her body, often positioned near her shoulder or back. These [[constructs]] function as powerful offensive tools that can be used to deflect attacks, strike enemies, or channel [[sword madra]] and [[aura]]. While [[Yerin]] has occasionally struggled with precise control over these manifestations, she has become increasingly proficient at utilizing them in combat, even integrating them into advanced techniques like the [[Endless Sword]]. Her Goldsign{{!}}Goldsigns can manifest in various quantities, ranging from a single blade to six distinct arms, and their appearance can shift from shimmering light to looking like solid physical [[steel]].}}
 
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
@@ -17,7 +17,7 @@
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|[[Yerin's Goldsign]] is a silver arm ending in a blade like a scorpion’s stinger.<ref name="cradle-03-blackflame-c3">''Blackflame'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Yerin's Goldsign]] is a silver arm ending in a blade like a scorpion’s [[stinger]].<ref name="cradle-03-blackflame-c3">''Blackflame'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Yerin]] possesses a [[Goldsign]] that can arch.<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Yerin]] has a [[Goldsign]] that sometimes slips from her control.<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}</li>
 </ul></div>

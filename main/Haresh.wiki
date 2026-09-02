@@ -7,10 +7,16 @@
 }}
 
 == Overview ==
-{{spoiler|book=tg-02-crimson-vault|Haresh is known as the [[Arbiter]] of Betrayal. Introduced by [[Grandmaster Naraka]], he serves a judicial role centered on punishing those who have violated trust. He uses an ash-gray rope to carry out death sentences, specifically through hanging. During his actions, he has pronounced [[King]] [[Zakareth]] guilty and targeted the Heir of [[Damasca]], [[Talos]], for perceived betrayals. Haresh has been observed emerging from the [[Ragnarus Gate]] and interacting with the silver doors of the [[Vault]].}}
+{{spoiler|book=tg-02-crimson-vault|Haresh is known as the [[Arbiter]] of Betrayal. Introduced by [[Grandmaster Naraka]], he functions as a [[judge]] who pronounces death sentences upon those he deems guilty of violating trust. He utilizes an ash-gray rope to carry out these executions, demonstrating a proficiency for tying complex knots. During his actions, he has been observed dragging individuals toward him and confronting figures such as King Zakareth VI{{!}}King Zakareth and the Heir of [[Damasca]], whom he accuses of betrayal.}}
+
+== Appearance ==
+{{spoiler|book=tg-02-crimson-vault|Haresh is an elderly, non-human being with red skin. He carries a long noose crafted from ash that is gray in color.}}
+
+== Abilities ==
+{{spoiler|book=tg-02-crimson-vault|As an [[Arbiter]], he holds the title of the [[Arbiter]] of Betrayal. He utilizes an ash-gray rope in his actions.}}
 
 == The Crimson Vault ==
-{{spoiler|book=tg-02-crimson-vault|Haresh is a non-human, red-skinned old man who serves as an [[Arbiter]]. Known specifically as the [[Arbiter]] of Betrayal, he carries a long noose crafted from ash. This ash-gray rope serves as a defining tool of his station.}}
+{{spoiler|book=tg-02-crimson-vault|Haresh is a non-human, red-skinned old man who serves as an [[Arbiter]]. Known specifically as the [[Arbiter]] of Betrayal, he carries a long noose crafted from ash. This ash-gray rope serves as his distinct tool.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -33,4 +39,3 @@
 [[Category:The Crimson Vault]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate characters]]
-[[Category:Titled characters]]

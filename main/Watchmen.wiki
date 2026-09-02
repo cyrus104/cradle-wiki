@@ -1,12 +1,12 @@
 {{Infobox group
 | name = Watchmen
-| introduced = Of Sea and Shadow
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 ''See also: [[Watchmen Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The Watchmen are members of a disciplined and regimented order known as the [[Blackwatch]]. Identified by their distinctive black uniforms, often featuring silver buttons, they serve as a specialized force within the [[Empire]]. While some view them as reclusive or shady figures, they are officially sworn to protect humanity from incomprehensible and unspeakable threats. Their authority is significant, as they are reputed to hold power even over [[Elders]], and common citizens often avoid them out of fear or deference. The order was established by a woman who chose the title to avoid appearing superior to her male peers. Members of the [[Blackwatch]] have been involved in various high-stakes operations, such as mining for a [[Heart]] on [[Nakothi's island]] in an attempt to achieve eternal [[life]]. Their duties can range from combat and guarding to performing grim tasks like manual excavation in biological environments. While some suspect they may be acolytes of the [[Elders]] or tools used by [[Emperor (Elder Empire)|the Emperor]] to install disposable rulers, others maintain they are essential guardians standing between the public and supernatural dangers.}}
+{{spoiler|book=ee-sea-03-of-kings-and-killers|The Watchmen are members of the [[Blackwatch]], a disciplined and regimented order characterized by their distinctive long black coats, often adorned with silver buttons. Founded by a woman who chose the title to maintain equality with her male peers, the organization is viewed with a mixture of reverence and fear. While some see them as essential guardians protecting humanity from incomprehensible, unspeakable threats, others suspect they are a shady group or even an Elder cults{{!}}Elder cult that performs rituals to facilitate the end of the world. They are known to possess Authority{{!}}authority over [[Elders]] and have been involved in dangerous tasks, such as mining the flesh-like soil of [[Nakothi's island]] to harvest a Heart in pursuit of eternal life. Members of the order are often described as reclusive or suspicious, and some believe they develop a heightened intuition through years of service. The [[Blackwatch]] is led by figures such as Bliss of the Blackwatch{{!}}Bliss and her aide, [[Alsa Grayweather]], with the Blackwatch Guild Head{{!}}Head of the Blackwatch being a young woman. Beyond their role as protectors, there are theories that the Watchmen serve to produce disposable [[Emperors]] for the [[Elders]]. Their history and duties are documented in the [[Blackwatch]] Bestiary of [[Elders]], and they have been known to operate alongside other groups like [[Imperial Guards]], [[Magisters]], and Navigators.}}
 
 == Of Sea and Shadow ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
@@ -18,17 +18,17 @@
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Watchmen]] are mining a crater on the [[island]].<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Six [[Watchmen]] were digging at [[Nakothi]]’s [[Heart]].<ref name="ee-shadow-01-of-shadow-and-sea-c10" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Watchmen]] are mining a crater on the island.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Six [[Watchmen]] were digging at Heart of Nakothi{{!}}Nakothi’s Heart.<ref name="ee-shadow-01-of-shadow-and-sea-c10" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Watchmen]] aim to produce a series of disposable [[Emperors]].<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
 </ul></div>
 
 == Of Dawn and Darkness ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Bliss]] summoned [[Watchmen]] to secure the courtyard.<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Watchmen]] were wounded in the courtyard.<ref name="ee-sea-02-of-dawn-and-darkness-c8" />}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The assassin killed two [[Watchmen]].<ref name="ee-sea-02-of-dawn-and-darkness-c10">''Of Dawn and Darkness'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Bliss of the Blackwatch{{!}}Bliss summoned [[Watchmen]] to secure the [[courtyard]].<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Watchmen]] were wounded in the [[courtyard]].<ref name="ee-sea-02-of-dawn-and-darkness-c8" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[assassin]] killed two [[Watchmen]].<ref name="ee-sea-02-of-dawn-and-darkness-c10">''Of Dawn and Darkness'', chapter 10</ref>}}</li>
 </ul></div>
 
 == Of Darkness and Dawn ==
@@ -42,7 +42,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Watchmen]] are tending to the injured in the surgery.<ref name="ee-sea-03-of-kings-and-killers-c7">''Of Kings and Killers'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Watchmen]] used to man the fort on the [[island]].<ref name="ee-sea-03-of-kings-and-killers-c20">''Of Kings and Killers'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Watchmen]] used to man the fort on the island.<ref name="ee-sea-03-of-kings-and-killers-c20">''Of Kings and Killers'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Notes ==

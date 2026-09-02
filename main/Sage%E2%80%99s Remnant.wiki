@@ -1,6 +1,6 @@
 {{Infobox construct
 | name = Sage’s Remnant
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Wintersteel ==
@@ -12,14 +12,14 @@
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|The [[Sage’s Remnant]] is a regenerating skeleton that can write on a board.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Sage’s Remnant]] is a regenerating [[skeleton]] that can write on a board.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
 </ul></div>
 
 == Threshold: Stories from Cradle ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|A [[Sage]]'s [[Remnant]] is a being that can bond with others.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-13-threshold|[[Reigan Shen]]'s only inheritance is the [[Sage’s Remnant]].<ref name="cradle-13-threshold-c1" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Reigan Shen]]'s only [[inheritance]] is the [[Sage’s Remnant]].<ref name="cradle-13-threshold-c1" />}}</li>
 </ul></div>
 
 == Notes ==

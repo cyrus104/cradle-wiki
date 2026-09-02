@@ -1,12 +1,12 @@
 {{Infobox concept
 | name = Fate
-| introduced = Skysworn
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Fate Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|Fate is a fundamental force and a tangible direction in which life tends to flow, often compared to a river moving downhill. It is distinct from the future; while it represents the most probable path or destiny for an individual or world, it is not a certainty. Events can deviate from their fated course through intervention, chaos, or the actions of powerful beings. Fate is composed of various strands and branches representing different possibilities, some more likely than others, though these can be obscured, severed, or manipulated. Certain entities possess the ability to perceive and interact with this force. Some can view it through [[dreams]], while others use specialized abilities, such as runic eyes or oracle codices, to observe the various paths of possibility. Highly powerful beings, including certain [[Monarchs]] and members of the [[Abidan Court]] like [[Judges]] and [[Hounds]], can actively influence, weave, or steer the flow of causality to achieve specific outcomes. However, reading Fate is considered an art rather than a precise science, as it remains subject to error and can be warped by chaotic presences or intentional meddling.}}
+{{spoiler|book=cradle-13-threshold|Fate is a fundamental force in the world that represents a direction or tendency for events to occur, rather than being synonymous with the future itself. It is often described as a collection of possible paths or strands, where some outcomes are more likely than others. While fate provides a most probable trajectory for a life or a world, it is not absolute; destiny can be altered by intervention, chaos, or the specific intentions of individuals. Consequently, what is destined to happen does not always come to pass. Various powerful entities and specialized groups interact with this force. Certain individuals, such as the [[Abidan Judges]] or specific [[Monarchs]], possess the ability to see, read, or even manipulate the flow of fate. For example, some can observe potential futures as branching paths or threads, while others, like the [[Hound Division]], work to steer causality and manage these possibilities. However, reading fate is considered an art rather than a precise science, as it can be obscured by chaos, corrupted by powerful presences, or hidden by those with significant strength. While most natural cause and effect should not change the flow of fate, certain extraordinary beings or events can disrupt it, causing the established paths to shift or dissolve.}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -30,17 +30,20 @@
 </ul></div>
 
 == Reaper ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+{{spoiler|book=cradle-10-reaper|[[Elder Whisper]] occasionally experiences glimpses of Fate within his [[dreams]]. During his travels, [[Eithan]] identifies the concept as a potential explanation for the sensations he is experiencing, though he soon detects a significant disruption in its flow. While [[Makiel]] contends that any attempt to save the world would constitute a deviation from this path, [[Eithan]] eventually gains the ability to see and arrange Fate itself.}}
+
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Elder Whisper]] can sometimes catch glimpses of [[Fate]] in his [[dreams]].<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Eithan]] identifies [[Fate{{!}}fate]] as a possibility for what he is sensing.<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Eithan]] identifies Fate{{!}}fate as a possibility for what he is sensing.<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Eithan]] senses a disruption in [[Fate]].<ref name="cradle-10-reaper-c9">''Reaper'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Makiel]] argued that saving the world would be a deviation from [[Fate]].<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Mercy]]'s friends only survived because of [[Fate]].<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Eithan]] can see and arrange [[Fate]].<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==
+{{spoiler|book=cradle-11-dreadgod|Fate is a fundamental concept that governs the destiny and various branches of worlds. These branches consist of flows that possess the ability to dissolve, and they bend in response to the actions taken by Ozriel. While intentions can influence these flows, [[Daruman]] maintains the ability to twist them. Additionally, Judge Suriel{{!}}Suriel can scan Fate in order to read upcoming events.}}
+
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Fate]] consists of branches that can dissolve.<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
@@ -48,13 +51,15 @@
 <li>{{spoiler|book=cradle-11-dreadgod|[[Fate]] is a concept that governs the destiny and branches of worlds.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Daruman]] can twist [[Fate]].<ref name="cradle-11-dreadgod-c20">''Dreadgod'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Intentions influence [[Fate]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Judge Suriel{{!}}Suriel]] can scan [[Fate]] to read events.<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Judge Suriel{{!}}Suriel can scan [[Fate]] to read events.<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
 </ul></div>
 
 == Waybound ==
+{{spoiler|book=cradle-12-waybound|During the unfolding events, Judge Suriel{{!}}Suriel's runic eyes were able to perceive Fate as it was being woven. This essence was observed by [[Makiel]], who witnessed the force split and twist. When the [[Penance arrow]] thundered through space, it also tore through Fate itself. The [[oracle codex]] was used to check the state of Fate, revealing its true flow. Finally, [[Malice]] gazed into the shadows cast by Fate.}}
+
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Judge Suriel{{!}}Suriel]]'s runic eyes can see the [[Fate]] being woven.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Judge Suriel{{!}}Suriel's runic eyes can see the [[Fate]] being woven.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Makiel]] saw [[Fate]] split and twist.<ref name="cradle-12-waybound-c6" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Penance arrow]] thundered through space and [[Fate]].<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[oracle codex]] checked [[Fate]].<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref>}}</li>
@@ -63,9 +68,11 @@
 </ul></div>
 
 == Threshold: Stories from Cradle ==
+{{spoiler|book=cradle-13-threshold|Fate is a phenomenon that can be physically touched through Way{{!}}the Way. It offers projections of future events, which even [[Dross]] is capable of glimpsing. However, reading these projections can result in inaccuracies. Currently, Fate has not yet stabilized, and the [[OTEP]] possesses no greater access to it than any other [[Presence]].}}
+
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|[[Fate]] is something that can be touched through [[Way{{!}}the Way]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Fate]] is something that can be touched through Way{{!}}the Way.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Fate]] provides projections of future events.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Dross]] can glimpse [[Fate]].<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Reading]] [[Fate]] can lead to being wrong.<ref name="cradle-13-threshold-c11">''Threshold: Stories from Cradle'', chapter 11</ref>}}</li>
@@ -75,7 +82,7 @@
 
 == Notable quotes ==
 * {{spoiler|book=cradle-01-unsouled|“Fate is not the future. What is destined to occur does not always occur.”<ref name="cradle-01-unsouled-c11" />}}
-* {{spoiler|book=cradle-10-reaper|“If I was indeed sensing a disruption in Fate, as now seems likely, then it must have been caused by someone.”<ref name="cradle-10-reaper-c9" />}}
+* {{spoiler|book=cradle-10-reaper|“If I was indeed sensing a disruption in Fate, as now seems likely, then it must have been caused by someone.<ref name="cradle-10-reaper-c9" />}}
 
 == Notes ==
 <references />

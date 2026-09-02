@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = magic-resistant cuffs
+| introduced = [[The Engineer (novel)|The Engineer]]
+}}
+
+== The Engineer ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|The narrator was wearing [[magic-resistant cuffs]].<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Artifacts]]
+[[Category:The Engineer]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon artifacts]]

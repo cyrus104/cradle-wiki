@@ -1,23 +1,23 @@
 {{Infobox concept
 | name = Waveriders
-| introduced = Of Shadow and Sea
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 ''See also: [[Waveriders Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Waveriders are a type of [[Kameira]] of the sea, characterized by their innate ability to control the movement of water. They are utilized as mounts and have been used by the [[Am’haranai]] for centuries to facilitate rapid, stealthy travel. These creatures are specifically bred for speed, allowing them to skim across the surface of waves, though they are not designed for rider comfort. [[Traveling]] on a Waverider can be an intense experience, often leaving riders soaked by icy ocean spray and waves. They are capable of moving quickly across the water's surface, making them useful for tasks such as transporting prisoners or acting as scouts.}}
+{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Waveriders are a type of [[Kameira]] of the sea, characterized by their innate ability to control the movement of [[water]]. They are utilized as mounts and have been used by the [[Am’haranai]] for centuries to facilitate rapid and quiet travel. Specifically bred for speed, these creatures skim across the tops of waves during journeys, though they are not designed to provide comfort for their riders. [[Traveling]] on a Waverider can be a physically taxing experience, often leaving passengers soaked by icy spray or exposed to harsh elements. They are capable of moving quickly across the [[water]]'s surface and can be found at docks or waiting in surf. In addition to being used for transport, they can serve roles such as scouts.}}
 
 == Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Waveriders are [[Kameira]] of the sea that possess the natural ability to command the motion of water. These mountable entities are associated with the [[Mason]] and utilize docks for their travel. While a Waverider can be found waiting at a dock, [[Shera]] has imagined a hidden bay filled with these creatures.}}
+{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Waveriders are [[Kameira]] of the sea that possess the natural ability to command the motion of [[water]]. These entities serve as mounts for the [[Am’haranai]] and are associated with the [[Mason]]. While they travel by docks, a Waverider can be found waiting at a dock to be mounted. In her thoughts, [[Shera]] imagines a hidden bay that is filled with these creatures.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Waveriders]] are [[Kameira]] of the sea that can command the motion of water.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Waveriders]] are mounts used by the [[Am’haranai]] that have natural powers over water.<ref name="ee-shadow-01-of-shadow-and-sea-c4" />}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Waverider is a creature waiting at the dock.<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Waverider is a creature or entity that can be mounted.<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Waverider is associated with the [[Mason]].<ref name="ee-shadow-01-of-shadow-and-sea-c8" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Waveriders]] are [[Kameira]] of the sea that can command the motion of [[water]].<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Waveriders]] are mounts used by the [[Am’haranai]] that have natural powers over [[water]].<ref name="ee-shadow-01-of-shadow-and-sea-c4" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Waveriders{{!}}Waverider is a creature waiting at the dock.<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Waveriders{{!}}Waverider is a creature or entity that can be mounted.<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Waveriders{{!}}Waverider is associated with the [[Mason]].<ref name="ee-shadow-01-of-shadow-and-sea-c8" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Shera]] imagines a hidden bay filled with [[Waveriders]].<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Waveriders]] travel by docks.<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
 </ul></div>
@@ -25,7 +25,7 @@
 == Of Darkness and Dawn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Waverider is a method of transport back to the [[Capital]].<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Waveriders{{!}}Waverider is a method of transport back to the Capital.<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Lucan]] and [[Shera]] could snare [[Waveriders]].<ref name="ee-shadow-02-of-darkness-and-dawn-c4">''Of Darkness and Dawn'', chapter 4</ref>}}</li>
 </ul></div>
 
@@ -39,4 +39,3 @@
 [[Category:Of Darkness and Dawn]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire concepts]]
-[[Category:Lifeforms]]

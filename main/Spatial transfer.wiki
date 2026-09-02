@@ -1,4 +1,34 @@
-#REDIRECT [[spatial transfer]]
+{{Infobox technique
+| name = spatial transfer
+| introduced = [[Uncrowned (novel)|Uncrowned]]
+}}
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|A [[spatial transfer]] occurred in the [[Ninecloud]] arena.<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}</li>
+</ul></div>
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|[[Charity]] and [[Fury]] used a [[spatial transfer]] to vanish.<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|spatial transfer{{!}}Spatial transfer is [[Calan Archer]]'s ultimate trump card.<ref name="cradle-08-wintersteel-c17" />}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|The [[Storm Sage]] was skilled in [[spatial transfer]].<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-07-uncrowned|“All guests, prepare for imminent spatial transfer—”<ref name="cradle-07-uncrowned-c21" />}}
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Techniques]]
 [[Category:Uncrowned]]

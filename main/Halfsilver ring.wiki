@@ -1,0 +1,29 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = halfsilver ring
+| introduced = [[Soulsmith (novel)|Soulsmith]]
+}}
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|Ziel of the Wasteland{{!}}Ziel wears halfsilver ring{{!}}halfsilver rings that restrict his [[madra]].<ref name="cradle-09-bloodline-c10">''Bloodline'', chapter 10</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|halfsilver{{!}}Halfsilver rings are used to restrict the flow of power in an arm.<ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Bloodline]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

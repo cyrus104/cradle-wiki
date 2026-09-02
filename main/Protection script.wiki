@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox concept
+| name = protection script
+| introduced = [[Waybound (novel)|Waybound]]
+}}
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|The [[protection script]] has gaps under surveillance.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Concepts]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle concepts]]

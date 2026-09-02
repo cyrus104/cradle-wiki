@@ -1,10 +1,10 @@
 {{Infobox location
 | name = Rainworth
-| introduced = Of Kings and Killers
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
 }}
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|Rainworth is a long-standing town located near the [[Empire]]'s [[Capital]]. Throughout its fifteen-hundred-year history, it has served various roles, including a center for culture and art from the [[Heartland]], a refuge for those fleeing conflict, and a hub for businesses that operate outside the [[Capital]]. The town is known for its significant fishing industry, which includes large-scale industrial warehouses and docks. Currently, the town is a crowded location housing many members of the [[Order]] and various [[Independents]], leading to constant preparations for potential attacks. The area contains several notable landmarks, such as the [[Rainworth Imperial Library]]—which features a large underground emergency shelter—and is subject to seismic activity. The town's workforce and docks are heavily influenced by the [[Consultant]]’s [[Guild]], which utilizes workers and [[Masons]] to gather information. Additionally, Rainworth is a place where many individuals are born and raised, possessing an intimate knowledge of its streets and inhabitants.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Rainworth is an ancient town located near The Empire{{!}}the Empire's Capital. Throughout its fifteen-hundred-year history, it has served various roles, including a center for culture and art, a sanctuary for refugees, and a hub for businesses that operate outside the Capital. The town is also known for its significant fishing industry, which includes large-[[scale]] industrial warehouses and docks. Currently, the town is a major location for various factions; it serves as a gathering point for the [[Independents]] and houses most of the [[Order]], though only a small crew remains at their [[fortress]]. The area contains several notable landmarks, such as the [[Rainworth Imperial Library]]—which features a large emergency shelter underneath it and has recently been closed to the public—and various residential shops. The town's geography is characterized by ancient [[stone]] structures and proximity to the Capital, though it has recently experienced seismic activity caused by [[Estyr]]'s fits.}}
 
 == Of Kings and Killers ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
@@ -18,7 +18,7 @@
 == Of Killers and Kings ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Rainworth]] is a city located close to the [[Capital]].<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Rainworth]] is a city located close to the Capital.<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Estyr]]'s first fit caused earthquakes in [[Rainworth]].<ref name="ee-shadow-03-of-killers-and-kings-c10">''Of Killers and Kings'', chapter 10</ref>}}</li>
 </ul></div>
 
@@ -32,4 +32,3 @@
 [[Category:Of Killers and Kings]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire locations]]
-[[Category:Settlements]]

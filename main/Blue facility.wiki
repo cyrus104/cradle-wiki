@@ -1,6 +1,6 @@
 {{Infobox location
 | name = Blue facility
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 == The Knight ==
@@ -11,9 +11,6 @@
 <li>{{spoiler|book=lh-03-the-knight|The word 'BLUE' is stenciled on the side of the [[Blue facility]].<ref name="lh-03-the-knight-c9" />}}</li>
 </ul></div>
 
-== Notable quotes ==
-* {{spoiler|book=lh-03-the-knight|“Now, why don’t the both of you come join me in the Blue facility?”<ref name="lh-03-the-knight-c9" />}}
-
 == Notes ==
 <references />
 
@@ -23,4 +20,3 @@
 [[Category:The Knight]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon locations]]
-[[Category:Structures]]

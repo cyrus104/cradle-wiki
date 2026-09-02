@@ -1,10 +1,10 @@
 {{Infobox concept
 | name = Overlord revelation
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|The [[Overlord]] revelation is a specific type of spiritual insight used to reach the [[Overlord]] stage of advancement. Unlike an [[Underlord revelation]], which focuses on a person's initial motivations, the [[Overlord]] revelation defines who an individual has become in their current state. It serves as a method for a person to recognize and refocus their identity, providing a new understanding of how they relate to the world rather than summarizing their entire being. Achieving this insight is difficult, as many fail due to insufficient talent, resources, or foundational strength; however, those who successfully discover an [[Underlord revelation]] are often capable of attaining the [[Overlord]] insight as well. The revelation can manifest in various ways, such as through [[soulfire]] that refines and strengthens the individual or through specific internal realizations. Examples of these revelations include declarations of personal identity, such as distinguishing oneself from another entity, or realizing one's relationship to others. The successful attainment of this revelation is a prerequisite for further advancement to higher stages, such as [[Archlord]].}}
+{{spoiler|book=cradle-12-waybound|The Overlord [[revelation]] is a specific type of spiritual insight achieved during [[advancement]]. Unlike an [[Underlord revelation]], which focuses on the motivations that drive a person to begin their journey, the Overlord [[revelation]] serves as a way for an individual to recognize and refocus their current identity. It does not provide a complete summary of a person's entire being; rather, it offers a new perspective on how they relate to the world around them. While many people fail to reach this stage due to a lack of resources, talent, or foundation, those who successfully discover an [[Underlord revelation]] are often capable of achieving this higher insight. The process can involve [[soulfire]] that refines and strengthens the individual, and it is a necessary component of [[advancement]] toward higher stages like [[Archlord]].}}
 
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
@@ -45,4 +45,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Terminology]]

@@ -1,12 +1,10 @@
 {{Infobox group
 | name = Wolf Division
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
-''See also: [[Wolf Division Timeline]]''
-
 == Overview ==
-{{spoiler|book=cradle-13-threshold|The [[Wolf]] Division is a specialized branch of the [[Abidan]] composed of warriors who focus on combat and martial excellence. Members of this division train to use the [[Way]] to strengthen their fighting abilities, honing themselves into highly effective instruments of battle. The division is led by [[Razael]], also known as the [[Wolf]], a powerful figure capable of executing high-level threats and [[Judges]]. The division possesses various destructive capabilities that remain largely unrecorded by the public, and its fighters are capable of engaging opponents who possess mountain-leveling strength. Historically, the division has suffered significant losses, including a major battle that resulted in the death of a previous [[Razael]] and the loss of four hundred members. While highly skilled, the division is noted for having a contentious relationship with the [[Reaper Division]].}}
+{{spoiler|book=cradle-13-threshold|Wolf{{!}}The Wolf Division is a specialized branch of the [[Abidan]] composed of highly skilled combatants. Led by [[Razael]], also known as the [[Wolf]], the division focuses on honing their bodies through Way{{!}}the Way to become efficient instruments of war. The group possesses numerous destructive capabilities that are not part of the public record, and its members have demonstrated the ability to hold their own against warriors capable of leveling mountains. While they are noted for their combat prowess, the division has also suffered significant losses in major conflicts; one historical battle resulted in the deaths of four hundred members and led to the capture of an [[Iteration]]. The division maintains a sense of disdain for the [[Reaper Division]] and is considered one of the [[Abidan]]'s greatest assets. Recruits undergo training in large compounds consisting of multiple floors of identical pods, and the division has recently seen new talent arriving from various worlds.}}
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -21,15 +19,14 @@
 </ul></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|As one of the [[Abidan]] divisions, the [[Wolf]] Division serves as a combat-oriented unit. The division operates out of a training compound that houses hundreds of recruits. Within this facility, the group utilizes a device capable of materializing items. Despite their martial nature, [[Jek’nan]] has no reason to fear this specific division.}}
+{{spoiler|book=cradle-13-threshold|As one of the combat-oriented divisions of the [[Abidan]], the [[Wolf]] Division serves as a specialized military force. The division operates out of a training compound that houses hundreds of recruits. Within this facility, the group utilizes a device capable of materializing items. Despite their martial nature, individuals such as [[Jek’nan]] have no reason to fear the division.}}
 
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|The [[Wolf Division]] is one of the [[Abidan]] divisions.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Jek’nan]] has no reason to fear the [[Wolf Division]].<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Wolf Division]] is a combat-oriented [[Abidan]] division.<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Wolf Division]] is a training compound containing hundreds of recruits.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=cradle-13-threshold|The [[Wolf Division]] is an [[Abidan]] division.<ref name="cradle-13-threshold-c10" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Wolf Division]] had a device that materializes items.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
 </ul></div>
 

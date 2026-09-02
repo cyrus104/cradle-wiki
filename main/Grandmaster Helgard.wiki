@@ -6,7 +6,16 @@
 }}
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|Grandmaster [[Helgard]] is the leader of a council of [[Grandmasters]] and serves as the representative for his specific [[Territory]]. A large, bearded man with broad shoulders, he is recognized by his blue cloak lined with white fur and is reputed to be the most talented [[Helgard Traveler]] in the city. His followers, known as [[Helgard Travelers]], are identifiable by their fur-lined coats and bone necklaces. In combat or magical practice, [[Helgard]] has demonstrated the ability to use a Gate to summon massive entities, such as a blue giant's fist, and possesses eyes that can emit a blue-green light. He is a vocal opponent of the rule of Ragnarus, arguing that the control [[Damasca]] exerts over the various [[Territories]] is illegitimate and that the [[Incarnations]] should be used to destroy [[Damasca]] rather than being imprisoned. [[Helgard]] is characterized by a fierce, sometimes aggressive temperament, often displaying a predatory or menacing demeanor during confrontations.}}
+{{spoiler|book=tg-03-city-of-light|Grandmaster [[Helgard]] is the leader of a council of [[Grandmasters]] and serves as a representative for his specific [[Territory]]. A large, bearded man with broad shoulders, he is recognized by his blue cloak lined with white fur and is reputed to be the most talented [[Helgard Traveler]] in the city. His followers, known as [[Helgard Travelers]], are identifiable by their fur-lined coats and necklaces made of sharpened bones. In his political role, [[Helgard]] opposes the rule of Ragnarus the Crimson Vault{{!}}Ragnarus, arguing that the control [[Damasca]] holds over the Territories is unjust and lacks divine Authority{{!}}authority. He advocates for the [[destruction]] of [[Damasca]] and seeks to utilize the power of the [[Incarnations]], whom he believes should be liberated from their three-century imprisonment. During conflicts, [[Helgard]] has demonstrated significant power, such as summoning a massive blue fist from a blizzard to strike soldiers and using his Gate to perform complex chants. He is characterized by an intense, sometimes aggressive temperament, often displaying a predatory or menacing demeanor during confrontations.}}
+
+== Appearance ==
+{{spoiler|book=tg-03-city-of-light|Grandmaster [[Helgard]] is a shaggy, bear-like man. He possesses a bushy brown beard.}}
+
+== Personality ==
+{{spoiler|book=tg-03-city-of-light|He views the rule of Ragnarus the Crimson Vault{{!}}Ragnarus over the various Territories as unjust and unnatural. Driven by these beliefs, he suggested that [[Talos]] be handed over to [[Asphodel]].}}
+
+== Abilities ==
+{{spoiler|book=tg-03-city-of-light|He is a skilled [[Helgard Traveler]].}}
 
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
@@ -21,12 +30,9 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Grandmaster Helgard]] is a skilled [[Helgard Traveler]] and a shaggy man with a brown beard.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|[[Grandmaster Helgard]] believes the reign of Ragnarus over all other [[Territories]] is unnatural and unjust.<ref name="tg-03-city-of-light-c2" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Grandmaster Helgard]] believes the reign of Ragnarus the Crimson Vault{{!}}Ragnarus over all other Territories is unnatural and unjust.<ref name="tg-03-city-of-light-c2" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Helgard]] was a Grandmaster who was executed by the [[Elysian Incarnation]].<ref name="tg-03-city-of-light-c5">''City of Light'', chapter 5</ref>}}</li>
 </ul></div>
-
-== Notable quotes ==
-* {{spoiler|book=tg-02-crimson-vault|"Grandmaster Helgard glared at the prisoner over his bushy beard, one hand curling almost unconsciously into a fist."<ref name="tg-02-crimson-vault-c15" />}}
 
 == Notes ==
 <references />
@@ -38,5 +44,3 @@
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate characters]]
-[[Category:Titled characters]]
-[[Category:Travelers]]

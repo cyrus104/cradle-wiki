@@ -1,10 +1,10 @@
 {{Infobox technique
 | name = Combat Arts
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|Combat Arts are specialized abilities utilized by individuals known as Combat Artists. These techniques are distinct from spells, as they are not intended for long-term maintenance and require intense concentration. Because using a [[Combat Art]] necessitates focusing on the [[Aether]], it is nearly impossible for a combatant to perform one while simultaneously casting a proper spell without interfering with their own abilities. Combat Artists can manifest various elemental or energetic effects, such as flames, flowing water, solar-like flares, or orange light. These arts can be applied to different combat styles, ranging from defensive maneuvers like creating shields or reflecting projectiles to offensive strikes that can damage limbs or tear away magic. While most Combat Arts are used in close-quarters fighting—often involving superhuman speed—some rare masters can apply these abilities to firearms, though the effectiveness of such an art is limited by the mechanical specifications of the weapon. The specific nature and utility of a [[Combat Art]], such as whether it favors defense or offense, defines the specialty of the artist.}}
+{{spoiler|book=lh-04-the-pilot|Combat Arts are specialized abilities utilized by individuals known as Combat Artist{{!}}Combat Artists, a group that includes certain [[Red]] and Green classifications. These arts are used for personal combat and can manifest in various forms, such as elemental effects like flowing [[water]], massive waves of flame, or intense light resembling solar flares. Combat Artist{{!}}Combat Artists can apply these abilities to different types of weaponry; while most combatants use them for melee or magical strikes, some rare masters can utilize them with handguns. The arts are often used for both offensive maneuvers and sophisticated defensive techniques, such as creating shields, reflecting projectiles like missiles, or generating floating hands to intercept attacks. Unlike spells, Combat Arts are not intended for long-term maintenance. Furthermore, because both arts and spells require intense concentration to resonate with the [[Aether]], it is extremely difficult for a person to use them simultaneously without causing interference.}}
 
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
@@ -12,7 +12,7 @@
 <li>{{spoiler|book=lh-03-the-knight|[[Combat Arts]] have a limited effect on guns.<ref name="lh-03-the-knight-c12">''The Knight'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Visiri]] have a legendary predilection for [[Combat Arts]].<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|[[Combat Arts]] can be mastered in the use of pistols.<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|[[Combat Arts]] can involve the manipulation of crimson flame and deadly shadow.<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Combat Arts]] can involve the manipulation of crimson flame and deadly Shadow{{!}}shadow.<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref>}}</li>
 </ul></div>
 
 == The Pilot ==

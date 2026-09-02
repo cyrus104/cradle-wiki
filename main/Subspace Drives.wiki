@@ -2,13 +2,13 @@
 
 {{Infobox concept
 | name = Subspace Drives
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|[[Subspace Drives]] under [[Tanner Hall]]'s control are faster, more stable, and use less fuel.<ref name="lh-01-the-captain-c21">''The Captain'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Subspace Drives]] under Tanner [[Hall]]'s control are faster, more stable, and use less fuel.<ref name="lh-01-the-captain-c21">''The Captain'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Denon Javal's gift allows him to make [[Subspace Drives]].<ref name="lh-01-the-captain-c35">''The Captain'', chapter 35</ref>}}</li>
 </ul></div>
 

@@ -1,13 +1,13 @@
 {{Infobox location
 | name = Ghostwater facility
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Eye of the Deep]] is the key to the [[Ghostwater facility]].<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|The [[Ghostwater facility]] is a cave with an oracle tree.<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Ghostwater facility]] is a cave with an [[oracle tree]].<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Uncrowned ==
@@ -19,7 +19,7 @@
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|[[Yan Shoumei]] entered the [[Ghostwater facility]] as part of tournament preparation.<ref name="cradle-08-wintersteel-c21">''Wintersteel'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Yan Shoumei]] entered the [[Ghostwater facility]] as part of [[tournament]] preparation.<ref name="cradle-08-wintersteel-c21">''Wintersteel'', chapter 21</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -33,4 +33,3 @@
 [[Category:Wintersteel]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Structures]]

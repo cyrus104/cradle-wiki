@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = silver wand
+| introduced = [[The Knight (novel)|The Knight]]
+}}
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|[[Varic Vallenar]] uses a [[silver wand]] that glows blue.<ref name="lh-03-the-knight-c29">''The Knight'', chapter 29</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Artifacts]]
+[[Category:The Knight]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon artifacts]]

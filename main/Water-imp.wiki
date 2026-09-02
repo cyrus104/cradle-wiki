@@ -1,0 +1,38 @@
+{{Infobox character
+| name = water-imp
+| residence = {{spoiler|book=tg-01-house-of-blades|bath pool}}{{spoiler|book=tg-03-city-of-light|, [[healing pool]]}}
+| appears_in = Traveler's Gate
+| introduced = [[House of Blades (novel)|House of Blades]]
+}}
+
+== Overview ==
+{{spoiler|book=tg-03-city-of-light|Water-imps are small, aggressive creatures that inhabit healing pools. Physically, they resemble children in size and possess greenish, ridged skin with a texture similar to rough bark. Their heads are topped with thorny spikes, and they feature red, reflective eyes along with [[needle]]-like teeth and metallic claws. Despite their small stature, they possess significant physical strength and can attack in groups. These creatures act as protectors of the pools, typically attacking individuals who remain in the [[water]] for extended periods or attempt to leave. They inflict painful, burning lacerations on their victims; however, because the pools possess restorative properties, these wounds heal almost immediately. The imps are known to attempt to drown their targets by dragging them beneath the surface. While they can be fought off, killing one may cause others to arrive for defense or even provoke their mother to appear. To avoid escalating a conflict, it is often more effective to allow a struggling imp to swim away once it has been subdued.}}
+
+== House of Blades ==
+{{spoiler|book=tg-01-house-of-blades|Residing within the bath pool, [[water]]-imps are small, impish creatures characterized by ridged greenish skin that resembles twisted, moss-covered bark. These entities possess red, reflective eyes and [[needle]]-sharp teeth, while their head spikes and fingernails take on the appearance of rusty nails. When encountering victims, these creatures work in coordination to attempt to drown them.}}
+
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-01-house-of-blades|Water-imps are small, impish creatures with ridged greenish skin and thorny spikes on their heads that live in the bath pool.<ref name="tg-01-house-of-blades-c6">''House of Blades'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|Water-imps have red and reflective eyes and [[needle]]-sharp teeth.<ref name="tg-01-house-of-blades-c6" />}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|The skin of a [[water-imp]] looks like twisted moss-covered bark.<ref name="tg-01-house-of-blades-c6" />}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|Water-imps have fingernails and head spikes that look like rusty nails.<ref name="tg-01-house-of-blades-c6" />}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|Water-imps work together to try and drown their victims.<ref name="tg-01-house-of-blades-c6" />}}</li>
+</ul></div>
+
+== City of Light ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-03-city-of-light|A [[water-imp]] with rough, leathery bark skin and metallic nails is in the [[healing pool]].<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Characters]]
+[[Category:House of Blades]]
+[[Category:City of Light]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate characters]]

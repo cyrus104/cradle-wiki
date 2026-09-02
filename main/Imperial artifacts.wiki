@@ -1,13 +1,13 @@
 {{Infobox artifact
 | name = Imperial artifacts
-| introduced = Of Sea and Shadow
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 == Of Sea and Shadow ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Imperial artifacts]] are tools used by [[Emperor (Elder Empire)|the Emperor]] in his everyday [[life]] that harbor a measure of his limitless [[Intent]].<ref name="ee-sea-01-of-sea-and-shadow-c6">''Of Sea and Shadow'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Imperial artifacts]] are objects touched by [[Emperor (Elder Empire)|the Emperor]].<ref name="ee-sea-01-of-sea-and-shadow-c12">''Of Sea and Shadow'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Imperial artifacts]] are tools used by the Emperor in his everyday life that harbor a measure of his limitless [[Intent]].<ref name="ee-sea-01-of-sea-and-shadow-c6">''Of Sea and Shadow'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Imperial artifacts]] are objects touched by the Emperor.<ref name="ee-sea-01-of-sea-and-shadow-c12">''Of Sea and Shadow'', chapter 12</ref>}}</li>
 </ul></div>
 
 == Of Shadow and Sea ==

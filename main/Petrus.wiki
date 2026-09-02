@@ -5,7 +5,10 @@
 }}
 
 == Overview ==
-{{spoiler|book=tg-02-crimson-vault|Petrus is an aging, stout [[Naraka Traveler]] characterized by his balding head and pudgy physique. He serves as an attendant or companion to [[Lady]] [[Adrienne]], often guiding her through various locations and providing information regarding the dangers of [[Naraka]]. During a confrontation involving [[Simon]], Petrus attempted to defend himself using a swarm of large, glowing orange wasps summoned from his red-marked hand. However, he was severely injured when the blade [[Azura]] severed his left hand at the wrist, leaving him in a state of shock and requiring [[Malachi]] to apply a makeshift tourniquet to prevent him from bleeding to death. Throughout his interactions, he has demonstrated knowledge regarding the [[Naraka Incarnation]] and the nature of the environment, though he often expresses a sense of dread or resignation regarding their circumstances.}}
+{{spoiler|book=tg-02-crimson-vault|Petrus is an elderly, stout [[Naraka Traveler]] characterized by his balding head and pudgy physique. He serves as an attendant or companion to Lady [[Adrienne]], assisting her with navigation and providing information regarding the nature of [[Naraka]] and its [[Incarnation]]. During a confrontation, Petrus demonstrated defensive capabilities by summoning a swarm of large, glowing orange wasps from his red-marked hand. During this conflict, he sustained a severe injury when the blade Azura severed his left hand at the wrist. Following the attack, [[Malachi]] applied a belt as a tourniquet to prevent Petrus from bleeding to death. Throughout his interactions, Petrus has acted as a guide, using the light from his glowing palm to lead others through dark tunnels.}}
+
+== Appearance ==
+{{spoiler|book=tg-02-crimson-vault|Petrus is a pudgy, balding man who wears red robes. He is a one-armed individual with a bleeding hand that bears a red mark.}}
 
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
@@ -33,4 +36,3 @@
 [[Category:The Crimson Vault]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate characters]]
-[[Category:Travelers]]

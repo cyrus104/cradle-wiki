@@ -7,7 +7,7 @@
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|The [[Jai Underlord]] entrusted a task to [[Jai Long]] and [[Gokren]].<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Jai Underlord]] entrusted a task to [[Jai Long]] and Sandviper Gokren{{!}}Gokren.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Renfei]] planned to confront the [[Jai Underlord]].<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}</li>
 </ul></div>
 

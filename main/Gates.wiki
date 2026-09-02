@@ -2,7 +2,7 @@
 
 {{Infobox concept
 | name = Gates
-| introduced = The Crimson Vault
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 == The Crimson Vault ==
@@ -16,9 +16,6 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Travelers]] used to live in [[Alin's Territory]] to hold [[Gates]] open.<ref name="tg-03-city-of-light-c15">''City of Light'', chapter 15</ref>}}</li>
 </ul></div>
-
-== Notable quotes ==
-* {{spoiler|book=tg-03-city-of-light|"You should have seen it when Travelers lived here to hold Gates open, and people came and went..."<ref name="tg-03-city-of-light-c15" />}}
 
 == Notes ==
 <references />

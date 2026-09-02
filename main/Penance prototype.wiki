@@ -1,14 +1,14 @@
 {{Infobox artifact
 | name = Penance prototype
-| introduced = Waybound
+| introduced = [[Waybound (novel)|Waybound]]
 }}
 
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Ozmanthus Arelius]] left prototypes of [[Penance]] scattered throughout the world.<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|Three [[Penance]] prototypes were hidden in the [[labyrinth]].<ref name="cradle-12-waybound-c5" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|A [[Penance prototype]] is tipped with a curved black triangle with a sharp [[steel]] edge and emanates death [[madra]].<ref name="cradle-12-waybound-c5" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Three [[Penance]] prototypes were hidden in labyrinth{{!}}the labyrinth.<ref name="cradle-12-waybound-c5" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|A [[Penance prototype]] is tipped with a curved black triangle with a sharp [[steel]] edge and emanates death-madra{{!}}death madra.<ref name="cradle-12-waybound-c5" />}}</li>
 </ul></div>
 
 == Notes ==

@@ -2,13 +2,13 @@
 
 {{Infobox location
 | name = Imperial Palace treasury
-| introduced = Of Sea and Shadow
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
 == Of Sea and Shadow ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Naberius]] has the keys to the [[Imperial Palace treasury]].<ref name="ee-sea-01-of-sea-and-shadow-c14">''Of Sea and Shadow'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Naberius Clayborn{{!}}Naberius has the keys to the [[Imperial Palace treasury]].<ref name="ee-sea-01-of-sea-and-shadow-c14">''Of Sea and Shadow'', chapter 14</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -20,4 +20,3 @@
 [[Category:Of Sea and Shadow]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire locations]]
-[[Category:Structures]]

@@ -2,14 +2,14 @@
 
 {{Infobox location
 | name = Valinhall entry hall
-| introduced = The Crimson Vault
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-02-crimson-vault|The [[Valinhall entry hall]] contains red-cushioned furniture, lights, mirrors, and [[sword]] racks.<ref name="tg-02-crimson-vault-c7">''The Crimson Vault'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|The [[Valinhall Gate]] unfolds into a vision of the [[Valinhall]] entry room.<ref name="tg-02-crimson-vault-c25">''The Crimson Vault'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Valinhall entry hall]] contains red-cushioned [[furniture]], lights, mirrors, and [[sword]] racks.<ref name="tg-02-crimson-vault-c7">''The Crimson Vault'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Valinhall Gate]] unfolds into a vision of the Valinhall entry hall{{!}}Valinhall entry room.<ref name="tg-02-crimson-vault-c25">''The Crimson Vault'', chapter 25</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -21,4 +21,3 @@
 [[Category:The Crimson Vault]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate locations]]
-[[Category:Structures]]

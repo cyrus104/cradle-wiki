@@ -1,6 +1,6 @@
 {{Infobox madra
 | name = Twin Stars
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 == Blackflame ==
@@ -12,13 +12,13 @@
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] can forge constructs out of his [[Twin Stars]] [[madra]].<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] can forge [[constructs]] out of his [[Twin Stars]] [[madra]].<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}</li>
 </ul></div>
 
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|[[Twin Stars]] wipes away the spirit.<ref name="cradle-08-wintersteel-c23">''Wintersteel'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Twin Stars]] wipes away the [[spirit]].<ref name="cradle-08-wintersteel-c23">''Wintersteel'', chapter 23</ref>}}</li>
 </ul></div>
 
 == Threshold: Stories from Cradle ==

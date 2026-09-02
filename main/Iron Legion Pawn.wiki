@@ -1,16 +1,16 @@
 {{Infobox group
 | name = Iron Legion Pawn
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == Overview ==
-{{spoiler|book=lh-03-the-knight|[[Iron Legion]] [[Pawns]] are grotesque, humanoid abominations produced by the [[Iron Legion]]. They are constructed from a combination of organic flesh and mechanical components, often utilizing leftover materials from the creation of other [[Legion]] entities. Physically, they have been described as resembling four-limbed [[spiders]] composed of corpses and machinery, sometimes featuring a humanoid head that emerges from a metallic shell. Due to their twisted appearance, encountering them can cause intense, paralyzing revulsion in many individuals, requiring specialized combat training to manage the psychological shock. They serve as standard infantry for the [[Legion]] and are frequently found in large numbers within [[Iron Hives]] or as crews on short-range boarding devices known as [[Penetrators]]. The [[Legion]]'s primary objective is to assimilate all matter into its collective, and those defeated by the [[Legion]] risk being converted into [[Pawns]] themselves.}}
+{{spoiler|book=lh-03-the-knight|[[Iron Legion]] [[Pawns]] are grotesque, humanoid abominations produced by the [[Iron Legion]]. They are constructed from a combination of organic flesh and mechanical parts, often utilizing leftover materials from the creation of other [[Legion]] entities. Physically, they are described as resembling four-limbed [[spiders]] composed of corpses and machinery, sometimes featuring a humanoid head that emerges from a metallic shell. Due to their twisted appearance, encountering them can cause profound psychological shock and instinctive revulsion in soldiers, requiring specialized training to manage. In combat roles, [[Pawns]] serve as the standard infantry for the [[Legion]] and are frequently found in large numbers within [[Iron Hives]] or stationed aboard short-range boarding devices known as [[Penetrators]]. They are often deployed in groups alongside other specialized units like [[Sentries]], Shepherds, or [[Reavers]]. The [[Legion]] utilizes these creatures to spread like a virus, consuming both organic and mechanical matter to replicate their forces. If captured or defeated, individuals risk being converted into [[Pawns]] themselves.}}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|The [[Captain]] previously used plasma bolts against the [[Iron Legion]] [[Pawns]].<ref name="lh-01-the-captain-c13">''The Captain'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|[[Iron Legion]] [[Pawns]] are colorless.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The Captain previously used plasma bolt{{!}}plasma bolts against the Iron Legion Pawn{{!}}Iron Legion Pawns.<ref name="lh-01-the-captain-c13">''The Captain'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|Iron Legion Pawn{{!}}Iron Legion Pawns are colorless.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref>}}</li>
 </ul></div>
 
 == The Engineer ==
@@ -23,11 +23,11 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|[[Iron]] [[Pawns]] are soldiers of the [[Iron Legion]].<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|[[Iron Legion]] [[Pawns]] have a shocking stench.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Iron Legion Pawn{{!}}Iron Legion Pawns have a shocking stench.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=lh-03-the-knight|"Send Omega," I said, as I put a bullet through an Iron Pawn with one hand and sealed a Reaver to the ceiling with the other.<ref name="lh-03-the-knight-c4" />}}
+* {{spoiler|book=lh-03-the-knight|“Send Omega,” I said, as I put a bullet through an Iron Pawn with one hand and sealed a Reaver to the ceiling with the other.<ref name="lh-03-the-knight-c4" />}}
 
 == Notes ==
 <references />

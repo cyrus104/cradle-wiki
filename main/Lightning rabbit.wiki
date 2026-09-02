@@ -1,0 +1,24 @@
+{{Expand}}
+
+{{Infobox character
+| name = lightning rabbit
+| appears_in = The Last Horizon
+| introduced = [[The Engineer (novel)|The Engineer]]
+}}
+
+== The Engineer ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|A summoned rabbit made of lightning attacked [[Starhammer]].<ref name="lh-02-the-engineer-c14">''The Engineer'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[lightning rabbit]] uses time manipulation abilities.<ref name="lh-02-the-engineer-c14" />}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Characters]]
+[[Category:The Engineer]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon characters]]

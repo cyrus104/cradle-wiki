@@ -1,16 +1,16 @@
 {{Infobox event
 | name = Guild War
-| introduced = Of Shadow and Sea
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|A [[Guild]] War is a large-scale conflict involving the various [[Imperial Guilds]] that serve to maintain balance within the [[Empire]]. While these organizations were traditionally united by their shared commitment to the [[Empire]], this bond has frayed, leading to intense hostilities. The conflict is characterized by factions divided between those who wish to restore an [[Emperor (Elder Empire)|Emperor]] to the throne and those seeking to move beyond [[Imperial]] restrictions. The war has manifested in various ways, including territorial closures by groups like the [[Greenwardens]] and the [[Luminian Order]], as well as direct physical combat between members. This instability has had severe consequences, such as the weakening of defenses around [[Elder]] tombs and a breakdown in the cooperation required to secure the [[Great Elders]]. Although some viewed the chaos as beneficial for business, others noted that the fighting strained essential relationships and left the [[Empire]] vulnerable. The war eventually reached a formal conclusion when the [[Regents]] declared an end to the internal fighting following the discovery of criminal activities by the [[Imperial Steward]].}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|A [[Guild]] War is a large-[[scale]] conflict involving the various organized factions within The Empire{{!}}the Empire. Historically, these [[Guilds]] served to maintain imperial balance and settle disputes through institutional means rather than private armies. However, the absence of an Emperor caused their shared dedication to The Empire{{!}}the Empire to fray, leading to intense internal strife. The conflict escalated from minor sabotages and border reinforcements into a full-[[scale]] war that pushed the capital to its limits. This warfare resulted in significant consequences, including the weakening of defenses around Great Elder tombs{{!}}Elder tombs and a breakdown in the cooperation required to secure the [[Great Elders]]. The war eventually reached an end when the remaining [[Regents]] declared it over following the discovery of criminal activities by the [[Imperial Steward]]. In the aftermath, regional governors began attempting to establish their own independent versions of the various [[Guilds]].}}
 
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Shera]] expresses surprise at the risk of a [[Guild War]].<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A full-scale [[Guild War]] is being set.<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A full-[[scale]] [[Guild War]] is being set.<ref name="ee-shadow-01-of-shadow-and-sea-c26">''Of Shadow and Sea'', chapter 26</ref>}}</li>
 </ul></div>
 
 == Of Kings and Killers ==
@@ -25,12 +25,12 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The internal conflict is called the [[Guild War]].<ref name="ee-shadow-03-of-killers-and-kings-c18">''Of Killers and Kings'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Guild War]] has strained the relationship between [[Guilds]].<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Guild War]] weakened the defenses around the [[Elder]] tombs.<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Guild War]] weakened the defenses around the Great Elder tombs{{!}}Elder tombs.<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
-* {{spoiler|book=ee-sea-03-of-kings-and-killers|“The Guild War doesn’t matter,” Calder gasped.<ref name="ee-sea-03-of-kings-and-killers-c11" />}}
 * {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Shera couldn’t conceal her surprise. “We’re risking a Guild War?”<ref name="ee-shadow-01-of-shadow-and-sea-c10" />}}
+* {{spoiler|book=ee-sea-03-of-kings-and-killers|“The Guild War doesn’t matter,” Calder gasped.<ref name="ee-sea-03-of-kings-and-killers-c11" />}}
 
 == Notes ==
 <references />

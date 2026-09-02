@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = sacred artist’s clothes
+| introduced = [[Wintersteel (novel)|Wintersteel]]
+}}
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|sacred artist{{!}}Sacred artist’s clothes provide inherent spiritual protection.<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Wintersteel]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

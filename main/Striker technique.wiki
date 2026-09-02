@@ -1,12 +1,12 @@
 {{Infobox technique
 | name = Striker technique
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
 ''See also: [[Striker technique Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|A [[Striker]] technique is a method of combat used by [[sacred artists]] to project power outward, typically through individual attacks that carry significant force behind a single motion. These techniques are characterized by having a clear input and output, often appearing as elongated or traveling projectiles such as beams of light, fireballs, needles, or elemental shapes like snakes and birds. While they can be used to project [[madra]] over distances—ranging from a few inches to hundreds of yards—they are generally slower and less powerful than [[Enforcer techniques]], which focus on enhancing the user's physical movements. [[Striker techniques]] can be highly diverse, manifesting as simple pulses of [[madra]] or complex, coordinated volleys that resemble swarms or symphonies. Advanced users can imbue these attacks with their own will, allowing the techniques to act with a level of autonomy similar to spirits. They can be integrated with various elements, such as shadow, blood, lightning, or force, and can even be combined with sacred instruments or specific [[Paths]] to increase their lethality. In combat, they are often used to disrupt an opponent's madra channels, force defensive reactions, or deliver decisive blows from a distance.}}
+{{spoiler|book=cradle-13-threshold|A [[Striker]] [[technique]] is a method of combat used by [[sacred artists]] to project power outward, typically through an individual attack. While [[Enforcer techniques]] focus on enhancing a single motion or movement, [[Striker techniques]] are characterized by their ability to launch energy—such as light, fire, or elemental [[madra]]—away from the user's body. These techniques can vary significantly in complexity and power, ranging from simple thrusts and pulses of [[madra]] to highly advanced manifestations that carry a living will or act with the autonomy of a [[spirit]]. In practice, [[Striker techniques]] can take many forms: they may appear as beams of light, projectiles like birds or serpents, waves of energy, or even liquid-like substances. They are often used to attack from a distance, disrupt an opponent's [[madra channels]], or follow up on other movements. While they can be incredibly lethal and capable of devastating environments, using them often requires specific [[cycling]] patterns to build power before release. Some advanced users can coordinate multiple techniques simultaneously or integrate them with sacred instruments and weapons to create more complex, multi-step attacks.}}
 
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -15,7 +15,7 @@
 </ul></div>
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|[[Striker techniques]] are combat methods utilized by [[Jai Daishou]]. During a confrontation, [[Yerin]] employs one of these techniques, which is described as [[dragon]] breath. [[Lindon]] later attempts to practice a version of the technique by imitating a [[dragon]]'s breath. Eventually, [[Lindon]] successfully uses a [[Striker]] technique himself.}}
+{{spoiler|book=cradle-03-blackflame|[[Striker techniques]] are combat methods utilized by [[Jai Daishou]]. During a confrontation, [[Yerin]] employs one of these techniques, which is described as [[dragon]] breath. [[Lindon]] later attempts to practice a [[Striker]] [[technique]] by imitating the breath of a [[dragon]]. He eventually succeeds in using a [[Striker]] [[technique]] himself.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -29,20 +29,20 @@
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|A [[Striker technique]] can manifest as a beam of white light.<ref name="cradle-04-skysworn-c6">''Skysworn'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|A [[Striker technique]] can manifest as a beam of [[white light]].<ref name="cradle-04-skysworn-c6">''Skysworn'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|The [[Striker]] technique is a specific type of technique utilized by Enkai and [[Ekeri]], as well as one that was kindled by Sophara. During his journey, [[Lindon]]'s arm devours this technique, which is ultimately located within his white arm. This technique manifests as a thin shadow-blade and can be mimicked when [[Lindon]] pushes [[Dross]] out of his core as if he were releasing it.}}
+{{spoiler|book=cradle-05-ghostwater|The [[Striker]] [[technique]] is a specific type of [[technique]] utilized by Mu Enkai{{!}}Enkai and [[Ekeri]]. During various encounters, Sopharanatoth{{!}}Sophara has also kindled this [[technique]], while a thin [[shadow-blade]] was identified as a [[Striker]] [[technique]]. The [[technique]] is located within [[Lindon's white arm]], an area that previously devoured the skill. In a notable display of power, [[Lindon]] once pushed [[Dross]] out of his core in a manner resembling the release of a [[Striker]] [[technique]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|The [[Striker technique]] is a type of technique used by Enkai.<ref name="cradle-05-ghostwater-c1">''Ghostwater'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|[[Striker technique]] is a technique that [[Lindon]]'s arm devours.<ref name="cradle-05-ghostwater-c10">''Ghostwater'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Striker technique]] is a type of [[technique]] used by Mu Enkai{{!}}Enkai.<ref name="cradle-05-ghostwater-c1">''Ghostwater'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Striker technique]] is a [[technique]] that Lindon's skeletal Remnant arm{{!}}Lindon's arm devours.<ref name="cradle-05-ghostwater-c10">''Ghostwater'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Ekeri]] uses a [[Striker technique]].<ref name="cradle-05-ghostwater-c10" />}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|Sophara kindled a [[Striker technique]].<ref name="cradle-05-ghostwater-c10" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|Sopharanatoth{{!}}Sophara kindled a [[Striker technique]].<ref name="cradle-05-ghostwater-c10" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] pushed [[Dross]] out of his core like he was releasing a [[Striker technique]].<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|The thin shadow-blade was a [[Striker technique]].<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The thin [[shadow-blade]] was a [[Striker technique]].<ref name="cradle-05-ghostwater-c18">''Ghostwater'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|The [[Striker technique]] is located in [[Lindon's white arm]].<ref name="cradle-05-ghostwater-c18" />}}</li>
 </ul></div>
 
@@ -54,7 +54,7 @@
 </ul></div>
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|[[Striker techniques]] are combat methods that function by projecting [[madra]]. These attacks possess enough power to tear a person in half, and they can be successfully landed even from the top of a pillar. While such techniques can be caught by a bronze plate or deflected by [[Yerin]], they are also components of more complex layering techniques. Such advanced maneuvers may require the simultaneous use of a [[Forger technique]], a [[Striker]] technique, and a [[Ruler technique]].}}
+{{spoiler|book=cradle-07-uncrowned|[[Striker techniques]] are combat methods that function by projecting [[madra]]. These attacks possess enough power to tear a person in half, and they can be successfully landed even from the top of a pillar. While such techniques can be caught by a bronze plate or deflected by [[Yerin]], they are also integral components of more complex layering techniques. Such advanced maneuvers may require the simultaneous use of a [[Forger technique]], a [[Striker]] [[technique]], and a [[Ruler technique]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -67,48 +67,48 @@
 </ul></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Striker]] is a specific category of technique that can be imbued with a living will. While these techniques are utilized by enemies during battle and by [[Overlords]] to intervene in duels, they present a risk where attackers may hit one another if used improperly. During the conflict, [[Yan Shoumei]] employed a red needle [[Striker]] technique, and both the [[Blood Sage]] and an unnamed assailant launched techniques toward [[Yerin]]. Although [[Yerin]] possesses a [[Striker]] technique, the [[Winter Sage]] deems her version acceptable but not worth further development. [[Eithan]] is able to counter these attacks, as his [[Hollow King’s Mantle]] can hurl a [[Striker]] technique back at its source.}}
+{{spoiler|book=cradle-08-wintersteel|[[Striker]] is a specific category of [[technique]] that can be imbued with a living will. While these techniques are utilized by enemies during battle and by Overlords to intervene in duels, they present a risk where attackers may hit one another if used improperly. During the conflict, [[Yan Shoumei]] deployed a red [[needle]] [[Striker]] [[technique]], and the [[Blood Sage]] also launched one toward [[Yerin]]. Although [[Yerin]]'s own [[Striker]] [[technique]] was deemed acceptable by the [[Winter Sage]], it was not considered worth further development. In response to these attacks, [[Eithan]]'s [[Hollow King’s Mantle]] demonstrated the ability to hurl a [[Striker]] [[technique]] back at its source.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The attackers cannot use [[Striker techniques]] without hitting each other.<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Striker]] is a type of technique.<ref name="cradle-08-wintersteel-c1" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Striker]] is a type of [[technique]].<ref name="cradle-08-wintersteel-c1" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yerin]]'s [[Striker technique]] is considered fine but not worth working on by the [[Winter Sage]].<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Striker techniques]] can be imbued with a living will.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|A [[Striker technique]] was blasted toward [[Yerin]].<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Overlords]] would use [[Striker techniques]] to intervene in duels.<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Overlords would use [[Striker techniques]] to intervene in duels.<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Striker techniques]] were used by enemies during the battle.<ref name="cradle-08-wintersteel-c19" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Yan Shoumei]] used a red needle [[Striker technique]].<ref name="cradle-08-wintersteel-c22">''Wintersteel'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Yan Shoumei]] used a red [[needle]] [[Striker technique]].<ref name="cradle-08-wintersteel-c22">''Wintersteel'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Eithan]]'s [[Hollow King’s Mantle]] can hurl a [[Striker technique]] back.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Blood Sage]] launched a [[Striker technique]].<ref name="cradle-08-wintersteel-c27" />}}</li>
 </ul></div>
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Striker techniques]] are combat abilities that can manifest in various forms, such as a streaking line of golden madra or [[Jai Long]]'s white snake of [[madra]]. These techniques can be used to push targets with force or inflict the illusion of pain upon an opponent. During various conflicts, these abilities have been deployed by security constructs, the Matriarch, and bystanders targeting [[Eithan]] and his house. Finally, a [[Titan]] utilizes a [[Striker]] technique against [[Lindon]] that appears as a burst of bright golden light.}}
+{{spoiler|book=cradle-09-bloodline|[[Striker techniques]] are abilities that can manifest as streaking lines of [[golden madra]] or, in the case of [[Jai Long]], a white snake of [[madra]]. These techniques can be used to push targets with force or inflict the illusion of pain. During various conflicts, Security constructs{{!}}security constructs, bystanders, and the Jai Matriarch{{!}}Matriarch have all utilized these abilities. While one girl used a [[sword]]-arm to flick a [[technique]] out of the air, the [[Titan]] eventually directed a [[Striker]] [[technique]] appearing as bright golden light against [[Lindon]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|The security constructs kindle their [[Striker techniques]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|A [[Striker technique]] can manifest as a streaking line of golden madra.<ref name="cradle-09-bloodline-c6" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The Security constructs{{!}}security constructs kindle their [[Striker techniques]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|A [[Striker technique]] can manifest as a streaking line of [[golden madra]].<ref name="cradle-09-bloodline-c6" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|One of the girl's [[sword]]-arms flicked a [[Striker technique]] out of the air.<ref name="cradle-09-bloodline-c7">''Bloodline'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Jai Long]]'s [[Striker technique]] manifests as a white snake of [[madra]].<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Striker techniques]] can be used to push targets with force.<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Striker technique]] can be used to inflict the illusion of pain.<ref name="cradle-09-bloodline-c12" />}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|The Matriarch used a [[Striker technique]].<ref name="cradle-09-bloodline-c13">''Bloodline'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The Jai Matriarch{{!}}Matriarch used a [[Striker technique]].<ref name="cradle-09-bloodline-c13">''Bloodline'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Striker techniques]] were used by bystanders against the house and [[Eithan]].<ref name="cradle-09-bloodline-c13" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Titan]] is going to use a [[Striker technique]] against [[Lindon]].<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Titan]] uses a [[Striker technique]] that appears as bright golden light.<ref name="cradle-09-bloodline-c20">''Bloodline'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|[[Striker techniques]] are typically characterized by an elongated structure featuring distinct inputs and outputs. These techniques produce [[madra]] capable of washing over existing barriers, a property demonstrated when [[Eithan]] utilized a miniature version of the method. While [[Reigan Shen]] employed an orange-colored technique, [[Ozmanthus]] showed that these abilities can be dismantled, as seen during his interaction with a prisoner.}}
+{{spoiler|book=cradle-10-reaper|[[Striker techniques]] are typically characterized by elongated structures with distinct inputs and outputs. These techniques produce [[madra]] capable of washing over barriers, a property demonstrated when [[Eithan]] utilized a miniature version. While [[Reigan Shen]] employed an orange-colored [[technique]], Ozmanthus Arelius{{!}}Ozmanthus showed the ability to dismantle a prisoner's use of the art.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Eithan]] used a tiny [[Striker technique]].<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Striker techniques]] are usually elongated with clear input and output.<ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Striker technique]] produces [[madra]] that can wash over barriers.<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Ozmanthus]] demonstrates dismantling a prisoner's [[Striker technique]].<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Ozmanthus Arelius{{!}}Ozmanthus demonstrates dismantling a prisoner's [[Striker technique]].<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Reigan Shen]] used an orange [[Striker technique]].<ref name="cradle-10-reaper-c17">''Reaper'', chapter 17</ref>}}</li>
 </ul></div>
 
@@ -117,20 +117,20 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The lightning eagle gathered a powerful [[Striker technique]].<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Red Faith]] uses a [[Striker technique]] layered over an [[Enforcer technique]].<ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|A [[Striker technique]] of death and destruction can cause a colorless slash.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|A [[Striker technique]] of death and [[destruction]] can cause a colorless slash.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[The Fleshripper]] released a [[Striker technique]] that split into twelve projectiles.<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
 </ul></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|During the unfolding conflicts, [[Reigan Shen]] unleashed a rapid barrage of [[Striker techniques]]. [[Northstrider]] later employed a technique manifesting as a crimson serpent of [[blood madra]] with white edges. As the battles progressed, [[Calling Storms]] prepared a [[Striker]] technique for use, while [[Orthos]] demonstrated immense power by crushing such techniques in his hands. In a significant moment, [[Lindon]] consumed a [[Striker]] technique taken from the Dragon, and the [[Wandering Titan]] also utilized a [[Striker]] technique.}}
+{{spoiler|book=cradle-12-waybound|During the conflicts of [[Waybound]], [[Reigan Shen]] initiates combat by unleashing a barrage of [[Striker techniques]]. [[Northstrider]] later employs a specific [[technique]] manifested as a crimson serpent of [[blood madra]] with white edges. As the battles progress, Sage of Calling Storms{{!}}Calling Storms prepares a [[technique]] for use, while [[Orthos]] demonstrates immense power by crushing [[Striker techniques]] with his hands. In a pivotal moment, [[Lindon]] consumes a [[technique]] directly from the dragons{{!}}Dragon. Finally, the [[Wandering Titan]] utilizes a [[Striker]] [[technique]] during the unfolding events.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Reigan Shen]] unleashes a barrage of [[Striker techniques]].<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Northstrider]] used a [[Striker technique]] that was a white-edged crimson serpent of [[blood madra]].<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Calling Storms]] has a [[Striker technique]] prepared.<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Sage of Calling Storms{{!}}Calling Storms has a [[Striker technique]] prepared.<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Orthos]] crushed [[Striker techniques]] in his hands.<ref name="cradle-12-waybound-c19">''Waybound'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] consumes a [[Striker technique]] from the Dragon.<ref name="cradle-12-waybound-c19" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] consumes a [[Striker technique]] from the dragons{{!}}Dragon.<ref name="cradle-12-waybound-c19" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Wandering Titan]] uses a [[Striker technique]].<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
 </ul></div>
 

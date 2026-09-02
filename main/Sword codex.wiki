@@ -1,0 +1,23 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = sword codex
+| introduced = [[Wintersteel (novel)|Wintersteel]]
+}}
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|A [[sword codex]] contains the memories of thousands of [[sword artists]] across all [[advancement]] levels.<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The dark, shimmering brick is the [[sword codex]] from [[Emriss Silentborn]].<ref name="cradle-08-wintersteel-c20">''Wintersteel'', chapter 20</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Wintersteel]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

@@ -1,0 +1,23 @@
+{{Expand}}
+
+{{Infobox character
+| name = mirka
+| appears_in = Traveler's Gate
+| introduced = [[City of Light (novel)|City of Light]]
+}}
+
+== City of Light ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-03-city-of-light|Mirka are humanoid monsters from [[Helgard]] with four limbs.<ref name="tg-03-city-of-light-c3">''City of Light'', chapter 3</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Characters]]
+[[Category:City of Light]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate characters]]

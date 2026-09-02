@@ -2,7 +2,7 @@
 
 {{Infobox concept
 | name = Arbiter
-| introduced = The Crimson Vault
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 == The Crimson Vault ==
@@ -14,7 +14,7 @@
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|[[Simon]]'s appearance was like an [[Arbiter]] of [[Naraka]].<ref name="tg-03-city-of-light-c23">''City of Light'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Simon]]'s appearance was like an Arbiter{{!}}Arbiter of Naraka.<ref name="tg-03-city-of-light-c23">''City of Light'', chapter 23</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -27,4 +27,3 @@
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate concepts]]
-[[Category:Lifeforms]]

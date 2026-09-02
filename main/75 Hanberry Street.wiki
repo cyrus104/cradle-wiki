@@ -2,13 +2,13 @@
 
 {{Infobox location
 | name = 75 Hanberry Street
-| introduced = Of Shadow and Sea
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[75 Hanberry Street]] is the location where members of the [[Consultant]]’s [[Guild]] investigated [[Maxwell]]'s crimes.<ref name="ee-shadow-01-of-shadow-and-sea-c3">''Of Shadow and Sea'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[75 Hanberry Street]] is the location where members of the Consultant's Guild{{!}}Consultant’s Guild investigated Rudeus Maxwell{{!}}Maxwell's crimes.<ref name="ee-shadow-01-of-shadow-and-sea-c3">''Of Shadow and Sea'', chapter 3</ref>}}</li>
 </ul></div>
 
 == Notes ==

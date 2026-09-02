@@ -1,10 +1,7 @@
 {{Infobox construct
 | name = rune-lights
-| introduced = Skysworn
+| introduced = [[Skysworn (novel)|Skysworn]]
 }}
-
-== Overview ==
-{{spoiler|book=cradle-11-dreadgod|Rune-lights are illumination sources powered by [[scripts]] or runes. They can appear as glowing circles on walls, such as those used to mimic windows in [[stone]] rooms, or as lights embedded in ceilings. While they are typically found in various colors, they can also manifest as identical white lights. These light sources require maintenance to remain functional; if neglected for long periods, they may become damaged or flicker. Additionally, these [[scripts]] can be activated or deactivated by users, and in some instances, they are capable of producing significant energy when triggered.}}
 
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
@@ -17,7 +14,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Mercy]] deactivated the [[rune-lights]] in her office.<ref name="cradle-11-dreadgod-c8">''Dreadgod'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[rune-lights{{!}}Rune-lights]] are usually many different colors.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|rune-lights{{!}}Rune-lights are usually many different colors.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
 </ul></div>
 
 == Notes ==

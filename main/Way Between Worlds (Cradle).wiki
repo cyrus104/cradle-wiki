@@ -1,21 +1,21 @@
 {{Infobox concept
 | name = Way Between Worlds (Cradle)
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|[[The Way]] Between [[Worlds]], also known as the [[Way]], is a fundamental force of pure order that serves as the framework for reality. It appears visually as an endless expanse of textured blue light, resembling a combination of cloth and sapphire-colored tunnels or a vast web. This cosmic structure branches out from a central core, with various paths leading to different [[Iterations]], which are individual worlds scattered throughout the [[Way]] like berries on a branch. [[The Way]] functions as a medium for travel, communication, and the preservation of information. Messages can be sent through it to reach all connected worlds and members of the [[Abidan]]. It also contains a [[Dreamway]], which acts as a massive repository for knowledge through shared dreams. While it allows for navigation between worlds, entering the [[Way]] can be dangerous, potentially casting a traveler into an entirely different and unexpected location. The stability of the [[Way]] is influenced by the worlds connected to it; for instance, populations on certain planets can tether those worlds more firmly to the structure. However, the [[Way]] can also be subject to corruption or thinning, as seen near [[Cradle]] due to [[Vroshir]] influence. Certain individuals, known as [[Waybound]], possess the potential to bind themselves to this force, often resulting in a significant impact on the cosmos.}}
+{{spoiler|book=cradle-13-threshold|[[The Way]] Between [[Worlds]], also referred to as Way{{!}}the Way or the [[Dreamway]], is a fundamental force of pure order that holds reality in place. It manifests as an endless expanse of blue light, often described as a [[sapphire]]-colored space or a textured tunnel resembling a mix of cloth and light. Visually, it can appear as a map consisting of a central blue core with branching rivers of light that connect various points known as [[Iterations]], which resemble small white berries hanging from branches. This cosmic structure serves as a medium for communication among the [[Abidan]] and allows for travel between different worlds, though navigating it can be unpredictable and may result in travelers being shunted to unintended locations. [[The Way]] functions as a connective web for the cosmos, though it is susceptible to corruption and instability. Some [[Iterations]] have been lost to gray corruption, shattered, or stolen by the [[Vroshir]]. Certain entities, such as those from the [[Vroshir]] homeworlds, can use their presence to tether worlds more tightly to Way{{!}}the Way. While it facilitates movement and information sharing, the connection can become thin or unstable in certain sectors; for instance, the connection near [[Cradle]] has grown weak and gray due to [[Vroshir]] influence. Additionally, specialized areas like the [[Dreamway]] function as a massive repository of knowledge within Way{{!}}the Way.}}
 
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|[[The Way]] Between [[Worlds]] can be tapped into to open a celestial lens.<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[The Way]] Between [[Worlds]] can be tapped into to open a Celestial lenses{{!}}celestial lens.<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
 </ul></div>
 
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|Messages travel through the [[Way]] Between [[Worlds]].<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Messages travel through Way{{!}}the Way Between [[Worlds]].<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==
@@ -35,7 +35,7 @@
 == Threshold: Stories from Cradle ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|[[Northstrider]] can normally reach the [[Way]] Between [[Worlds]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Northstrider]] can normally reach Way{{!}}the Way Between [[Worlds]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -51,4 +51,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Terminology]]

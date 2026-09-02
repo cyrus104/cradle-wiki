@@ -1,31 +1,31 @@
 {{Infobox location
 | name = Tal’gullour
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
 ''See also: [[Tal’gullour Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|Tal’gullour is a massive, planet-sized fortress and spacecraft that floats in space. Originally forged by [[Daruman]], also known as [[the Mad King]], from his original [[Iteration]], the vessel serves as his citadel and headquarters. [[The Mad King]] maintains absolute authority over every part of the structure, which is saturated with his power. The fortress houses a population of approximately one billion people who maintain the vessel's shielding and manage its vast collections of rare, unique, and powerful objects. It also serves as the base for the [[Silent Servants]], a cult dedicated to the tiger [[Dreadgod]] known as the [[Silent King]]. Tal’gullour is equipped with formidable defenses, including ancient golden rune-circles capable of locking down space and launching powerful barrages. The stronghold is noted for its immense splendor, rivaling the size of a planet and outshining other major fortresses.}}
+{{spoiler|book=cradle-12-waybound|Tal’gullour is a massive, planet-sized [[fortress]] and spacecraft that floats in space. Originally forged by [[Daruman]], also known as The Mad King{{!}}the Mad King, from his original [[Iteration]], the vessel serves as his citadel and headquarters. The [[fortress]] is saturated with The Mad King{{!}}the Mad King's Authority{{!}}authority, making him its absolute master. It houses a population of approximately one billion individuals who maintain the vessel's shielding and manage its vast collection of rare, powerful, and unique treasures. The stronghold is noted for its splendor, rivaling even The Mad King{{!}}the Mad King's other fortresses in size and beauty. It contains various specialized areas, such as the [[Crystal Halls]] and several Treasure Halls. The [[fortress]] is heavily defended by ancient rune-circles and golden light attacks capable of warping space, which can be used to target enemies or seal off entire worlds. Additionally, the stronghold serves as the base for the [[Silent Servants]], a cult dedicated to the [[Silent King]].}}
 
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Tal’gullour]] is a stronghold in [[Vroshir]].<ref name="cradle-07-uncrowned-c18">''Uncrowned'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[Tal’gullour]] is a planet-sized fortress floating in space.<ref name="cradle-07-uncrowned-c18" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Tal’gullour]] is a planet-sized [[fortress]] floating in space.<ref name="cradle-07-uncrowned-c18" />}}</li>
 </ul></div>
 
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|[[Daruman]] forged his original [[Iteration]] into the fortress [[Tal’gullour]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|[[Tal’gullour]] is the Fortress of [[the Mad King]].<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Daruman]] forged his original [[Iteration]] into the [[fortress]] [[Tal’gullour]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Tal’gullour]] is the Fortress of The Mad King{{!}}the Mad King.<ref name="cradle-09-bloodline-c9">''Bloodline'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Tal’gullour]] is the fortress and homeworld of [[Daruman]].<ref name="cradle-11-dreadgod-c20">''Dreadgod'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Tal’gullour]] is the [[fortress]] and homeworld of [[Daruman]].<ref name="cradle-11-dreadgod-c20">''Dreadgod'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Tal’gullour]] is larger than most habitable planets.<ref name="cradle-11-dreadgod-c20" />}}</li>
 </ul></div>
 
@@ -48,4 +48,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Structures]]

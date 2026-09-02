@@ -1,13 +1,16 @@
 {{Infobox character
 | name = Chon Ma
-| titles = {{spoiler|book=cradle-04-skysworn|[[Underlord]], head of the Cloud Hammer School}}{{spoiler|book=cradle-05-ghostwater|, Cloud Hammer Underlord}}
+| titles = {{spoiler|book=cradle-04-skysworn|[[Underlord]], head of the Cloud Hammer School, number-one Underlord}}{{spoiler|book=cradle-05-ghostwater|, Cloud Hammer Underlord}}
 | affiliations = {{spoiler|book=cradle-04-skysworn|[[Blackflame Empire]], [[Cloud Hammer School]]}}
 | appears_in = Cradle
 | introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-05-ghostwater|Chon Ma is the highest-ranking [[Underlord]] within the [[Blackflame Empire]]. A physically imposing man described as having a bear-like build, he engages in aerial combat by running across black clouds that form beneath his feet. In battle, he wields two black one-handed hammers and is capable of fighting amidst storms. During combat against members of [[Redmoon Hall]], he has demonstrated both vulnerability to precise strikes and a tendency to deliver speeches regarding honor even while wounded.}}
+{{spoiler|book=cradle-05-ghostwater|Chon Ma is the highest-ranking [[Underlord]] within the [[Blackflame Empire]]. A physically imposing man, he fights using two black one-handed hammers and moves through the sky by stepping upon dark clouds that form beneath his feet. During combat, he has been observed engaging in aerial battles and has faced opponents from [[Redmoon Hall]]. Despite being wounded in battle, he is noted for his ability to deliver speeches regarding honor.}}
+
+== Appearance ==
+{{spoiler|book=cradle-05-ghostwater|Chon Ma is a bear of a man who can be seen scowling beneath a cloud. He has a cut on his face that causes him to bleed.}}
 
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
@@ -37,5 +40,3 @@
 [[Category:Ghostwater]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Cloud Hammer School]]
-[[Category:Titled characters]]

@@ -2,13 +2,13 @@
 
 {{Infobox artifact
 | name = Forged toys
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|Wei Shi [[Seisha]]'s bag contains [[Forged toys]] and tools.<ref name="cradle-10-reaper-c5">''Reaper'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Seisha{{!}}Wei Shi Seisha's bag contains [[Forged toys]] and tools.<ref name="cradle-10-reaper-c5">''Reaper'', chapter 5</ref>}}</li>
 </ul></div>
 
 == Notes ==

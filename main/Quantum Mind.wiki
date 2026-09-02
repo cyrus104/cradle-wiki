@@ -2,13 +2,13 @@
 
 {{Infobox concept
 | name = Quantum Mind
-| introduced = The Pilot
+| introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|[[Quantum Mind]] is a name [[Prism]] liked being called.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Quantum Mind]] is a name Void Prism{{!}}Prism liked being called.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
 </ul></div>
 
 == Notes ==

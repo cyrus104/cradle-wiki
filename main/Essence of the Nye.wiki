@@ -1,0 +1,27 @@
+{{Infobox madra
+| name = essence of the Nye
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
+}}
+
+== The Crimson Vault ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-02-crimson-vault|Essence of [[the Nye]] is a power used by [[Valin]].<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
+</ul></div>
+
+== City of Light ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-03-city-of-light|Calling the [[essence of the Nye]] slows the world.<ref name="tg-03-city-of-light-c19">''City of Light'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Simon]] called the [[essence of the Nye]].<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Madra]]
+[[Category:The Crimson Vault]]
+[[Category:City of Light]]
+[[Category:Traveler's Gate]]

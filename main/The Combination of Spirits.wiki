@@ -2,13 +2,13 @@
 
 {{Infobox artifact
 | name = The Combination of Spirits
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|[[The Combination of Spirits]] is a hand-written book given to [[Lindon]] by Gesha.<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[The Combination of Spirits]] is a hand-written book given to [[Lindon]] by Fisher Gesha{{!}}Gesha.<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
 </ul></div>
 
 == Notes ==

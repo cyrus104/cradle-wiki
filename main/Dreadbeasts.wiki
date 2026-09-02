@@ -1,4 +1,97 @@
-#REDIRECT [[dreadbeasts]]
+{{Infobox concept
+| name = dreadbeasts
+| introduced = [[Soulsmith (novel)|Soulsmith]]
+}}
+
+''See also: [[dreadbeasts Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-11-dreadgod|Dreadbeasts are monstrous, corrupted entities that function as lesser versions of [[sacred beasts]]. While true [[sacred beasts]] undergo a refinement process that enhances their beauty and intelligence, dreadbeasts appear diseased, rotting, and physically deformed, often looking like mismatched or cobbled-together creatures. They are characterized by a chaotic blend of conflicting auras and possess high levels of physical strength and [[advancement]], often exceeding that of the [[sacred artists]] they encounter. A defining feature of dreadbeasts is their connection to [[hunger madra]]. They consume both animals and [[Remnants]], with the latter providing them with [[madra]]. Unlike [[Remnants]], dreadbeasts retain their souls within their bodies and do not leave [[Remnants]] behind upon death. They also contain internal binding{{!}}bindings that can be harvested; these binding{{!}}bindings are sometimes used to create powerful tools, such as spears capable of stealing [[madra]]. Dreadbeasts are heavily influenced by the presence of [[Dreadgods]], becoming enraged or driven mad by their approach. Some theories suggest that dreadbeasts may be the failed attempts at creating the [[Dreadgods]], or perhaps their lesser copies. They are found in various environments, including the [[Desolate Wilds]] and within certain ruins that may serve as their birthplace.}}
+
+== Soulsmith ==
+{{spoiler|book=cradle-02-soulsmith|Dreadbeasts are multi-headed masses of corrupted flesh that crash into the land like waves of the sea. These creatures gather in areas where [[vital aura]] is thick, often appearing within the [[Ruins]] to stand in the way of progress. Because they appear suddenly to attack Miners{{!}}miners, mining crews require constant protection from them. During their incursions, [[Yerin]] fought a pack of twisted dreadbeasts, while an attack on [[Lindon]] resulted in him suffering from twisted fingers.}}
+
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|dreadbeasts{{!}}Dreadbeasts crash into the land like waves of the sea.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|dreadbeasts{{!}}Dreadbeasts are creatures that mining crews need protection from.<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|dreadbeasts{{!}}Dreadbeasts are found in the [[Ruins]].<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|dreadbeasts{{!}}Dreadbeasts are coming to the area.<ref name="cradle-02-soulsmith-c14">''Soulsmith'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|dreadbeasts{{!}}Dreadbeasts appear suddenly and attack Miners{{!}}miners.<ref name="cradle-02-soulsmith-c14" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Yerin]] fought a pack of twisted [[dreadbeasts]].<ref name="cradle-02-soulsmith-c16">''Soulsmith'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|A dreadbeasts{{!}}dreadbeast attacked [[Lindon]], causing twisted fingers.<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|dreadbeasts{{!}}Dreadbeasts are creatures that stand in the way of progress.<ref name="cradle-02-soulsmith-c17" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|dreadbeasts{{!}}Dreadbeasts gather where [[vital aura]] is thick.<ref name="cradle-02-soulsmith-c17" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|dreadbeasts{{!}}Dreadbeasts are multi-headed masses of corrupted flesh.<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Blackflame ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-03-blackflame|dreadbeasts{{!}}Dreadbeasts keep their souls in their bodies and leave no [[Remnants]].<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|dreadbeasts{{!}}Dreadbeasts can eat [[Remnants]] to process their [[madra]].<ref name="cradle-03-blackflame-c1" />}}</li>
+</ul></div>
+
+== Skysworn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-04-skysworn|dreadbeasts{{!}}Dreadbeasts use [[white madra]] in their binding{{!}}bindings.<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|dreadbeasts{{!}}Dreadbeasts attack with [[madra]] of all [[aspects]].<ref name="cradle-04-skysworn-c7" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|dreadbeasts{{!}}Dreadbeasts contain binding{{!}}bindings inside them.<ref name="cradle-04-skysworn-c7" />}}</li>
+</ul></div>
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|dreadbeasts{{!}}Dreadbeasts are monsters that infested the garden.<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
+</ul></div>
+
+== Underlord ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-06-underlord|Hunger binding{{!}}bindings were taken from [[dreadbeasts]].<ref name="cradle-06-underlord-c14">''Underlord'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|Monsters that do not leave [[Remnants]] might be [[dreadbeasts]].<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
+</ul></div>
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|dreadbeasts{{!}}Dreadbeasts are creatures warped by [[hunger madra]].<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
+</ul></div>
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|dreadbeasts{{!}}Dreadbeasts are famously enraged by the approach of [[Dreadgods]].<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Mercy]]'s Lens spotted a pack of [[dreadbeasts]] in the trees.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Orthos]] eliminates [[dreadbeasts]].<ref name="cradle-09-bloodline-c19" />}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|Signs of battle against [[dreadbeasts]] mar the walls and streets of [[Refuge]].<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|dreadbeasts{{!}}Dreadbeasts had half-merged into the flesh of the chamber's creature.<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
+</ul></div>
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|dreadbeasts{{!}}Dreadbeasts inhabit the ruins around labyrinth{{!}}the labyrinth.<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-11-dreadgod|“Dreadbeasts,” Orthos said, disgusted. He blew smoke at the specks crawling in and out of the ruins.<ref name="cradle-11-dreadgod-c7" />}}
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Concepts]]
 [[Category:Soulsmith]]
@@ -13,4 +106,3 @@
 [[Category:Dreadgod]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Lifeforms]]

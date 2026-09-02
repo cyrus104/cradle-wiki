@@ -1,0 +1,34 @@
+{{Infobox madra
+| name = cloud madra
+| introduced = [[Soulsmith (novel)|Soulsmith]]
+}}
+
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|[[Cloud]] [[madra]] can be used to make levitation plates.<ref name="cradle-02-soulsmith-c10">''Soulsmith'', chapter 10</ref>}}</li>
+</ul></div>
+
+== Blackflame ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-03-blackflame|Four pillars produce and control the [[cloud madra]] for the [[Thousand-Mile Cloud]].<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Cloud]] [[madra]] is used to power the flying house.<ref name="cradle-03-blackflame-c6" />}}</li>
+</ul></div>
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|Eithan{{!}}Eithan Arelius spoke into a cushion of dense [[cloud madra]].<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Madra]]
+[[Category:Soulsmith]]
+[[Category:Blackflame]]
+[[Category:Bloodline]]
+[[Category:Cradle]]

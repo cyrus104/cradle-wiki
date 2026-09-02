@@ -2,13 +2,13 @@
 
 {{Infobox location
 | name = Rythar
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 == The Engineer ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|[[Rythar]] is a home that was destroyed by seven proton bombs.<ref name="lh-02-the-engineer-c1">''The Engineer'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Rythar]] is a home that was destroyed by seven [[proton bombs]].<ref name="lh-02-the-engineer-c1">''The Engineer'', chapter 1</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -20,4 +20,3 @@
 [[Category:The Engineer]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon locations]]
-[[Category:Settlements]]

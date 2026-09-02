@@ -2,13 +2,13 @@
 
 {{Infobox group
 | name = Fox Division
-| introduced = Threshold: Stories from Cradle
+| introduced = [[Threshold: Stories from Cradle (novel)|Threshold: Stories from Cradle]]
 }}
 
 == Threshold: Stories from Cradle ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|The [[Fox Division]] binds the [[Way]] to destinations to allow travel between and within [[Iterations]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Fox Division]] binds Way{{!}}the Way to destinations to allow travel between and within [[Iterations]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|A woman from the [[Fox Division]] escorted [[Gadrael]].<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
 </ul></div>
 

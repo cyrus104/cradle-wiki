@@ -1,0 +1,21 @@
+{{Expand}}
+
+{{Infobox madra
+| name = blood
+| introduced = [[Waybound (novel)|Waybound]]
+}}
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[Yerin]]'s [[madra]] has a [[blood]] component.<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Madra]]
+[[Category:Waybound]]
+[[Category:Cradle]]

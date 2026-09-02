@@ -2,19 +2,13 @@
 
 {{Infobox concept
 | name = Zakareth's eye
-| introduced = House of Blades
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
-
-== House of Blades ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|[[Zakareth the Sixth]] has a red stone replacing his left eye that gleams bright red.<ref name="tg-01-house-of-blades-c23">''House of Blades'', chapter 23</ref>}}</li>
-</ul></div>
 
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|[[Zakareth]]'s left eye socket contains a rolling crimson flame that replaced his glowing red stone.<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Zakareth]]'s left eye socket contains a rolling crimson flame that replaced his glowing red [[stone]].<ref name="tg-03-city-of-light-c2">''City of Light'', chapter 2</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -23,7 +17,6 @@
 {{Traveler's Gate nav}}
 
 [[Category:Concepts]]
-[[Category:House of Blades]]
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate concepts]]

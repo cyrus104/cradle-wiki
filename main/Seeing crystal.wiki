@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = seeing crystal
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
+}}
+
+== The Crimson Vault ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-02-crimson-vault|The [[seeing crystal]] is an object that can be used for scrying.<ref name="tg-02-crimson-vault-c3">''The Crimson Vault'', chapter 3</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Artifacts]]
+[[Category:The Crimson Vault]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate artifacts]]

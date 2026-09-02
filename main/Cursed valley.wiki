@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox location
+| name = cursed valley
+| introduced = [[Skysworn (novel)|Skysworn]]
+}}
+
+== Skysworn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-04-skysworn|The [[cursed valley]] is considered little more than a legend, though evidence suggests it exists to the west.<ref name="cradle-04-skysworn-c9">''Skysworn'', chapter 9</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Locations]]
+[[Category:Skysworn]]
+[[Category:Cradle]]
+[[Category:Cradle locations]]

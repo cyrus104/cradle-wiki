@@ -6,12 +6,6 @@
 | introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
-== House of Blades ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|[[Gold]]-armored [[Elysian bears]] appeared in [[Alin]]'s bedroom.<ref name="tg-01-house-of-blades-c23">''House of Blades'', chapter 23</ref>}}</li>
-</ul></div>
-
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -24,7 +18,6 @@
 {{Traveler's Gate nav}}
 
 [[Category:Characters]]
-[[Category:House of Blades]]
 [[Category:The Crimson Vault]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate characters]]

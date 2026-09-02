@@ -1,22 +1,22 @@
 {{Infobox technique
 | name = Striker techniques
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 ''See also: [[Striker techniques Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|[[Striker]] techniques are individual offensive attacks characterized by a distinct input and output, often appearing as elongated projections of power. They are used to enhance specific motions or project [[madra]] outward, such as in the form of beams, projectiles, or elemental manifestations like lightning, shadows, or serpents. While they can be used to strike physical targets, some advanced versions possess spiritual aspects that allow them to damage a target's soul or disrupt madra channels. Some highly advanced users can imbue these techniques with a living will, making them behave like spirits or sentient entities. [[Striker]] techniques are often compared to [[Enforcer techniques]]; while [[Enforcers]] focus on enhancing a single motion and can be more powerful, they are frequently clumsier and leave the user vulnerable. [[Striker]] techniques can also overlap with [[Enforcer]] styles depending on a practitioner's [[Path]]. In combat, these attacks can be used in rapid succession to create a continuous flow of destruction, or they can be launched in massive volleys from constructs, weapons, or even portals. They are capable of being blocked by shields and barriers, though powerful versions can shatter such defenses or bypass them through spiritual damage.}}
+{{spoiler|book=cradle-12-waybound|[[Striker]] techniques are specialized combat maneuvers characterized by a distinct input and output, typically manifesting as elongated attacks that project power outward. While they are often categorized alongside [[Enforcer techniques]]—which enhance single motions and can be more powerful but leave a user vulnerable—[[Striker]] techniques are generally slower and weaker than full-body techniques. However, they can be used to disrupt an opponent's [[madra channels]] or target their [[spirit]]. These techniques vary widely in form, ranging from simple projectiles like [[needles]], spears, or arrows to complex manifestations such as lightning, shadows, elemental breaths, or even living entities like birds and snakes. Advanced users can imbue these attacks with their own will, allowing the techniques to act with a level of autonomy similar to spirits. They can be launched from various sources, including the user's hands, weapons, or specialized launcher construct{{!}}launcher constructs, and can be coordinated into massive volleys or precise, symphonic strikes.}}
 
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[Striker techniques]] can be released by Underlords.<ref name="cradle-06-underlord-c18">''Underlord'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Striker techniques]] can be released by Underlord{{!}}Underlords.<ref name="cradle-06-underlord-c18">''Underlord'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|The techniques mentioned ([[Spear of the Golden Sun]], [[Heart-seizing Claw]], [[Phoenix Wing Burst]], [[Song of Falling Ash]], [[Gravetouch]], and [[black dragon's breath]]) are all [[Striker techniques]].<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|[[Striker]] techniques are powerful combat methods utilized by [[Yerin's Blood Shadow]]. These attacks possess the ability to project power outward and can even be directed at flying targets. During combat, [[Akura Grace]] incorporates these techniques into her various attack patterns. The intensity of these strikes is such that they can scorch the air, though they can also be wiped away by [[Eithan]]'s power.}}
+{{spoiler|book=cradle-07-uncrowned|[[Striker]] techniques are powerful combat methods utilized by [[Yerin's Blood Shadow]]. These attacks function by projecting power outward and are capable of being used against flying targets. During combat, [[Akura Grace]] integrates these techniques into her various attack patterns. The sheer force of the methods can scorch the air, as seen during a battle involving [[Lindon]], though [[Eithan]]'s power was once able to wipe them away.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -41,8 +41,8 @@
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|Attackers used [[Striker techniques]] to slice through stone.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] uses a barrage of [[Striker techniques]] against the [[Elder]].<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|Attackers used [[Striker techniques]] to slice through [[stone]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] uses a barrage of [[Striker techniques]] against the Elder.<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Striker techniques]] manifest as pulses of light in every color.<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|Hurling [[Striker techniques]] from outside the field did nothing to the [[Titan]].<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
 </ul></div>
@@ -64,7 +64,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Northstrider]] used [[Striker techniques]].<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Weeping Dragon]]'s hallmark is draconic serpents of blue-and-gold lightning [[Striker techniques]].<ref name="cradle-12-waybound-c15">''Waybound'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Weeping Dragon{{!}}The Weeping Dragon's hallmark is draconic serpents of blue-and-gold lightning [[Striker techniques]].<ref name="cradle-12-waybound-c15">''Waybound'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Striker techniques]] are used by [[Arelius artists]].<ref name="cradle-12-waybound-c15" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Mercy]] and [[Yerin]] used [[Striker techniques]] against [[Malice]].<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
 </ul></div>

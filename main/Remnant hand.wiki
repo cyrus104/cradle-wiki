@@ -1,6 +1,6 @@
 {{Infobox construct
 | name = Remnant hand
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 == Ghostwater ==
@@ -18,13 +18,13 @@
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] uses his [[Remnant hand]] to catch [[Daji]].<ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] uses his [[Remnant hand]] to catch Seishen Daji{{!}}Daji.<ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref>}}</li>
 </ul></div>
 
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|A beam of golden light sank into [[Lindon]]'s [[Remnant hand]].<ref name="cradle-09-bloodline-c7">''Bloodline'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|A beam of golden light sank into Lindon's skeletal Remnant arm{{!}}Lindon's Remnant hand.<ref name="cradle-09-bloodline-c7">''Bloodline'', chapter 7</ref>}}</li>
 </ul></div>
 
 == Notes ==

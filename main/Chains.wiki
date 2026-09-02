@@ -1,0 +1,28 @@
+{{Infobox concept
+| name = chains
+| introduced = [[House of Blades (novel)|House of Blades]]
+}}
+
+== House of Blades ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-01-house-of-blades|The more a person uses their powers and draws on [[Valinhall]], the more [[Kai]]'s [[chains]] will grow.<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|The longer one resists using their powers, the more the [[chains]] shrink.<ref name="tg-01-house-of-blades-c13" />}}</li>
+</ul></div>
+
+== City of Light ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-03-city-of-light|The user's [[chains]] grow from the wrists and can encase the ribs like Iron{{!}}iron bands.<ref name="tg-03-city-of-light-c11">''City of Light'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Concepts]]
+[[Category:House of Blades]]
+[[Category:City of Light]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate concepts]]

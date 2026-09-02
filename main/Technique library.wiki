@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox location
+| name = technique library
+| introduced = [[Skysworn (novel)|Skysworn]]
+}}
+
+== Skysworn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-04-skysworn|The [[Skysworn]] [[technique library]] is ranked third in [[Stormrock]], behind [[Soulsmith]] tablets.<ref name="cradle-04-skysworn-c10">''Skysworn'', chapter 10</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Locations]]
+[[Category:Skysworn]]
+[[Category:Cradle]]
+[[Category:Cradle locations]]

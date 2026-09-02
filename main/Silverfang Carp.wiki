@@ -1,15 +1,15 @@
 {{Infobox concept
 | name = Silverfang Carp
-| introduced = Ghostwater
+| introduced = [[Ghostwater (novel)|Ghostwater]]
 }}
 
 ''See also: [[Silverfang Carp Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-06-underlord|Silverfang Carp are large fish that inhabit a specific habitat and function as a food source for larger [[Ghostwater]] specimens, such as [[Diamondscale Sea Drakes]]. They are raised in a manner similar to livestock. While they possess savage power and can attack in large schools, making the air appear hazy with their movement, they are also capable of being hunted and consumed. However, human consumption of the fish is dangerous; eating the meat can cause severe medical emergencies, including organ failure, seizures, and paralyzing pain.}}
+{{spoiler|book=cradle-06-underlord|Silverfang Carp are large aquatic creatures that possess significant power and can swim through the air. They were raised in their habitat similarly to livestock, serving as a food source for larger [[Ghostwater]] specimens, such as [[Diamondscale Sea Drakes]]. While the fish can be consumed by humans, their meat is extremely dangerous; eating it can cause severe physical harm, including organ failure, seizures, and paralyzing pain. Despite these risks, the meat is potent enough to provide strength and lightness to those who digest it. In combat, these fish can move in large schools, creating a hazy environment that resembles swimming through smoke.}}
 
 == Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|Silverfang Carp are schooling fish that were raised like cattle to serve as food for larger [[Ghostwater]] specimens. Although they are not intended for human consumption, their meat can be eaten to promote muscle growth and physical vitality. As the fish approached the habitat, [[Lindon]] and [[Orthos]] managed to finish a specimen nearly a week prior. The creature was ultimately killed by the strike of [[Lindon]]'s [[Remnant]] fist, and its meat served to nourish [[Lindon's body]].}}
+{{spoiler|book=cradle-05-ghostwater|The Silverfang Carp are schooling fish that were raised like cattle to serve as food for larger [[Ghostwater]] specimens. Although they are not intended for human consumption, their meat is known to promote muscle growth and physical vitality. As the fish approached the habitat, [[Lindon]] and [[Orthos]] managed to finish a specimen nearly a week prior by killing it with a [[Remnant]] fist. Ultimately, the meat from the Silverfang Carp served to nourish [[Lindon's body]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -39,4 +39,3 @@
 [[Category:Underlord]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Lifeforms]]

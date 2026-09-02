@@ -1,12 +1,12 @@
 {{Infobox concept
 | name = Endross Incarnation
-| introduced = The Crimson Vault
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 ''See also: [[Endross Incarnation Timeline]]''
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|[[Incarnations]] are powerful, noble entities that function as forces of nature. However, remaining in the physical world for extended periods causes them to lose their sanity, making them behave like violent, rabid animals. The [[Endross]] [[Incarnation]] is a specific type of this entity, characterized by being fueled by rage. This nature makes them particularly susceptible to the territory of [[Asphodel]], which can subdue them by feeding on their emotions. In terms of appearance and behavior, an [[Endross]] [[Incarnation]] may possess wings made of dark stormclouds, eyes that glow like lightning, and limbs that emit electrical energy. They are known to act as natural disasters, causing widespread destruction to the land and its inhabitants. Historically, individuals have attempted to transform into these beings to achieve demigod status; for example, one traveler successfully became an [[Incarnation]] after the previous one was defeated. While they are often unpredictable and destructive, some have been observed displaying unusual restraint or erratic behavior during confrontations.}}
+{{spoiler|book=tg-03-city-of-light|[[Incarnations]] are powerful, noble beings that function as forces of nature. However, remaining in the world for extended periods causes them to lose their sanity, making them behave like rabid animals. The [[Endross]] [[Incarnation]] specifically functions as a natural disaster, capable of devastating landscapes and populations. This entity is fueled by rage, making the [[Territory]] of [[Asphodel]] a suitable counter because it feeds on emotions. Visually, an [[Endross]] [[Incarnation]] may possess stormcloud wings, eyes that resemble lightning bolts, and skin or limbs that glow with electricity. They are often associated with creatures that emerge from clouds of sparks and can manifest elemental powers like thunderstorms. While [[Incarnations]] are typically driven to madness, some have been known to act with unusual restraint or perform theatrical speeches. Historically, the first [[Endross]] [[Incarnation]] was defeated by a group of [[Travelers]], which led a follower to attempt the transformation himself to achieve demigod status. These beings are often kept imprisoned by [[Damasca]], and their liberation frequently results in a desire to destroy that nation.}}
 
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -15,7 +15,7 @@
 </ul></div>
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|After the second [[Endross]] [[Incarnation]] vanished and fell silent, [[Leah]] grew fearful that his violent moods could lead to the destruction of various outposts. Appearing as a man wreathed in blue-white lightning, he descended upon crowds while performing displays of light and sound. He later hovered over the [[Damascan camp]] using wings made of stormclouds, embodying the nature of an [[Incarnation]] by tearing through land and people like a natural disaster. This entity was ultimately part of a setup involving [[King Zakareth the Sixth]], participating in a staged contest against him. During the ensuing battle, the [[Endross]] [[Incarnation]] served as the sole [[Incarnation]] present, launching attacks from his wings of lightning and cloud.}}
+{{spoiler|book=tg-03-city-of-light|After the second [[Endross]] [[Incarnation]] vanished and fell silent, [[Leah]] grew fearful that his violent moods could lead to the [[destruction]] of various outposts. Appearing as a man wreathed in blue-white lightning, he descended upon crowds to perform displays of light and sound. He later hovered over the [[Damascan camp]] using wings made of stormclouds, embodying the nature of an [[Incarnation]] by tearing through land and people like a natural disaster. This entity was ultimately part of a setup involving [[King Zakareth the Sixth]], participating in a staged contest against the monarch. During the ensuing battle, the [[Endross]] [[Incarnation]] served as the sole [[Incarnation]] present while attacking on wings of lightning and cloud.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -26,7 +26,7 @@
 <li>{{spoiler|book=tg-03-city-of-light|The [[Endross Incarnation]] hovers over the [[Damascan camp]] on stormcloud wings.<ref name="tg-03-city-of-light-c22">''City of Light'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Endross]] [[Incarnations]] act like natural disasters, tearing the land and people apart.<ref name="tg-03-city-of-light-c22" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Endross Incarnation]] is a participant in a staged contest against [[King Zakareth the Sixth]].<ref name="tg-03-city-of-light-c22" />}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|The [[Endross Incarnation]] was part of a setup involving [[King]] [[Zakareth]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|The [[Endross Incarnation]] was part of a setup involving King Zakareth VI{{!}}King Zakareth.<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The [[Endross Incarnation]] attacks on wings of cloud and lightning.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|The only [[Incarnation]] on the battlefield was the [[Endross Incarnation]].<ref name="tg-03-city-of-light-c27" />}}</li>
 </ul></div>
@@ -41,4 +41,3 @@
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate concepts]]
-[[Category:Lifeforms]]

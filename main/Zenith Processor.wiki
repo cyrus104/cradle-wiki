@@ -1,15 +1,15 @@
 {{Infobox artifact
 | name = Zenith Processor
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 ''See also: [[Zenith Processor Timeline]]''
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|The [[Zenith]] [[Processor]] is one of seven ancient technological creations from the era of humanity's past. As a powerful device, it possesses the ability to process vast amounts of data and can communicate with others. It appears capable of interacting with or inhabiting a host, as evidenced by its presence within an individual's mind. The entity is capable of monitoring events across the galaxy and can make predictions regarding its opponents. It is part of a larger group of awakened [[Zenith Devices]], which collectively hold significant power.}}
+{{spoiler|book=lh-04-the-pilot|The [[Zenith]] [[Processor]] is one of seven ancient technological creations from the era of humanity's past. As a sentient [[Zenith Device]], it possesses immense power and is capable of processing vast amounts of information across the galaxy. It has demonstrated the ability to communicate directly with individuals, even manifesting within a person's mind. The entity is capable of making predictions and appears to be part of a collective group of awakened devices. It has shown the capacity to interact with other powerful objects, such as the [[Void Prism]], and possesses a level of consciousness that allows it to express disappointment or regret regarding the actions of others.}}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|The [[Zenith]] [[Processor]] is a mysterious [[Zenith Device]] and AI projection of shimmering yellow lights that serves as the identity of [[Void Prism]]. This entity hosts meetings via an avatar of sparks, communicates through [[Subline]] calls, and is used to vet new recruits. While [[Varic]] tracked the device, it provided guidance to [[Lichborn wizards]] for a counterspell and assisted [[Solstice]] by preventing [[The Last Horizon]] from following. Though it functions as a data receiver for [[Lutoch Terelle]] and provides protection against mental magic, the processor is actually an entity residing within [[Lutoch]]'s skull. Ultimately, the device fell into enemy hands when a [[Solstice]] captive was taken with the processor inside her head.}}
+{{spoiler|book=lh-04-the-pilot|The [[Zenith]] [[Processor]] is a mysterious [[Zenith Device]] and AI projection of shimmering yellow lights that serves as the identity of [[Void Prism]]. This entity, which communicates through [[Subline]] calls and receives data from [[Lutoch Terelle]], functions as a tool to vet new recruits and make predictions. While it has guided [[Lichborn wizards]] in crafting counterspells and helped [[Solstice]] prevent [[The Last Horizon]] from following, the device is also capable of counteracting teleportation magic. Residing within [[Lutoch Terelle]]'s skull, the [[Processor]] allows her to feel the protective [[Aethertech]] network and provides protection against [[mental magic]] through a full bond. Despite its association with [[Solstice]], the device eventually falls into enemy hands, where it warns that a speaker has doomed both themselves and the galaxy.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">25</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -17,7 +17,7 @@
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Processor]] is a mysterious entity that hosts the meeting and uses an avatar made of shimmering yellow sparks.<ref name="lh-04-the-pilot-c2">''The Pilot'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Processor]] is a type of [[Zenith Device]] appearing as an AI projection of yellow lights.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Processor]] is used to vet new recruits.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Processor]] is an object [[Varic]] is tracking.<ref name="lh-04-the-pilot-c11">''The Pilot'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Processor]] is an object Varic Vallenar{{!}}Varic is tracking.<ref name="lh-04-the-pilot-c11">''The Pilot'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Processor]] is capable of making predictions.<ref name="lh-04-the-pilot-c12">''The Pilot'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Processor]] guided [[Lichborn wizards]] in creating a counterspell.<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Processor]] communicates via [[Subline]] calls.<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}</li>
@@ -33,8 +33,8 @@
 <li>{{spoiler|book=lh-04-the-pilot|The enemy possesses the [[Zenith Processor]].<ref name="lh-04-the-pilot-c35">''The Pilot'', chapter 35</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Processor]] was not involved in the store explosion.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Processor]] is an entity residing within [[Lutoch Terelle]]'s skull.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Lutoch]] feels the protective network of [[Aethertech]] through her connection to the [[Zenith Processor]].<ref name="lh-04-the-pilot-c43" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Being fully bonded to the [[Zenith Processor]] provides protection against mental magic.<ref name="lh-04-the-pilot-c43" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Lutoch Terelle{{!}}Lutoch feels the protective network of [[Aethertech]] through her connection to the [[Zenith Processor]].<ref name="lh-04-the-pilot-c43" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Being fully bonded to the [[Zenith Processor]] provides protection against [[mental magic]].<ref name="lh-04-the-pilot-c43" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|A captive from [[Solstice]] has the [[Zenith Processor]] in her head.<ref name="lh-04-the-pilot-c44">''The Pilot'', chapter 44</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Processor]] likely organized the [[Subspace lock]].<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Processor]] warned that the speaker had doomed themselves and the galaxy.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>

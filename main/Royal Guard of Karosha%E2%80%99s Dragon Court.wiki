@@ -2,7 +2,7 @@
 
 {{Infobox group
 | name = Royal Guard of Karosha’s Dragon Court
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
 == The Engineer ==
@@ -14,7 +14,7 @@
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|The [[Karoshan]] royal guard is under attack and requesting assistance from [[The Last Horizon]].<ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The Royal Guard of Karosha’s Dragon Court{{!}}Karoshan royal guard is under attack and requesting assistance from [[The Last Horizon]].<ref name="lh-03-the-knight-c17">''The Knight'', chapter 17</ref>}}</li>
 </ul></div>
 
 == Notes ==

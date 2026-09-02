@@ -2,14 +2,14 @@
 
 {{Infobox location
 | name = Pioneer 8089
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Pioneer 8089]] is a newly formed world with grasslands and crude huts.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|[[Pioneer 8089]] is a location where [[Ozriel]]'s population was sent.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Pioneer 8089]] is a location where Ozriel's population was sent.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -21,4 +21,3 @@
 [[Category:Blackflame]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Otherworldly locations]]

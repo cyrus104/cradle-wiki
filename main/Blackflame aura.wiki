@@ -1,18 +1,14 @@
+{{Expand}}
+
 {{Infobox madra
 | name = Blackflame aura
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Little Blue]] can scrub [[Yerin's spirit]] clean of the [[Blackflame aura]] buildup.<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}</li>
-</ul></div>
-
-== Ghostwater ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] needs to generate [[Blackflame aura]].<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Waybound ==
@@ -28,6 +24,5 @@
 
 [[Category:Madra]]
 [[Category:Blackflame]]
-[[Category:Ghostwater]]
 [[Category:Waybound]]
 [[Category:Cradle]]

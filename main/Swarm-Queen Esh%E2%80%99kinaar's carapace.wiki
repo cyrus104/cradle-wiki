@@ -2,13 +2,13 @@
 
 {{Infobox artifact
 | name = Swarm-Queen Esh’kinaar's carapace
-| introduced = The Pilot
+| introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|Relics of the [[Swarm-Queen]] [[Esh’kinaar]] include crossed [[scythe]]-like spines, one black and one rainbow colored.<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Relics of the [[Swarm-Queen]] [[Esh’kinaar]] include crossed scythe-like spines, one black and one rainbow colored.<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
 </ul></div>
 
 == Notes ==

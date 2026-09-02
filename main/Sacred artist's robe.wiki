@@ -1,0 +1,46 @@
+{{Infobox artifact
+| name = sacred artist's robe
+| introduced = [[Soulsmith (novel)|Soulsmith]]
+}}
+
+== Overview ==
+{{spoiler|book=cradle-10-reaper|sacred artist{{!}}Sacred artist's robes are specialized garments worn by practitioners of the [[sacred arts]]. These clothes serve various functions, ranging from simple attire for teachers and messengers to elaborate, multi-layered formal wear used by high-ranking individuals or for important social greetings. The robes often feature specific colors, intricate embroidery, or symbols that denote a practitioner's affiliation with a particular clan, sect, or organization. For example, some robes display family crests like the Arelius family{{!}}Arelius symbol, while others feature emblems such as a red turtle, a twin star, or a red moon. Beyond their aesthetic and symbolic roles, these garments possess practical properties. They are typically constructed from sturdy materials and benefit from the wearer's inherent spiritual protection, making them more resistant to damage during combat than standard clothing. While they are generally durable, extreme circumstances or powerful attacks can leave them tattered, singed, or stained. In some instances, highly skilled practitioners may use [[Soulsmithing]] to Forge garments that appear lifelike or carry a piece of their [[Remnant]]. The style and condition of the robes can also reflect a practitioner's status, with some appearing pristine and flawless while others are weathered or worn from travel and battle.}}
+
+== Blackflame ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-03-blackflame|[[Yerin]] wears a tattered coal-black sacred artist's robe{{!}}sacred artist’s robe.<ref name="cradle-03-blackflame-c3">''Blackflame'', chapter 3</ref>}}</li>
+</ul></div>
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|sacred artist{{!}}Sacred artist's robes are worn by a woman in the room.<ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Ekerinatoth]] wears a [[sacred artist's robe]] of Jade{{!}}jade-colored silk.<ref name="cradle-05-ghostwater-c10">''Ghostwater'', chapter 10</ref>}}</li>
+</ul></div>
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Lowgold]] woman wears warm yellow sacred artist's robe{{!}}sacred artist robes.<ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref>}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] is wearing black-and-red sacred artist's robe{{!}}sacred artist's robes prepared by [[Eithan]].<ref name="cradle-10-reaper-c5">''Reaper'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Jai Chen]] wears sacred artist's robe{{!}}sacred artists robes trimmed in blue and burnt orange.<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Blackflame]]
+[[Category:Ghostwater]]
+[[Category:Wintersteel]]
+[[Category:Reaper]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

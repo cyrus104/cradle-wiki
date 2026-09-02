@@ -2,13 +2,13 @@
 
 {{Infobox location
 | name = Luminian sanatorium
-| introduced = Of Dawn and Darkness
+| introduced = [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]]
 }}
 
 == Of Dawn and Darkness ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Reader]] who used the [[Optasia]] was sent to a [[Luminian sanatorium]].<ref name="ee-sea-02-of-dawn-and-darkness-c18">''Of Dawn and Darkness'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Reader who used the [[Optasia]] was sent to a [[Luminian sanatorium]].<ref name="ee-sea-02-of-dawn-and-darkness-c18">''Of Dawn and Darkness'', chapter 18</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -20,4 +20,3 @@
 [[Category:Of Dawn and Darkness]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire locations]]
-[[Category:Structures]]

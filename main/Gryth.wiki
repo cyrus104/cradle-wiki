@@ -1,6 +1,5 @@
 {{Infobox character
 | name = Gryth
-| abilities = {{spoiler|book=cradle-12-waybound|see everything in a person's void space and pocket}}
 | titles = {{spoiler|book=cradle-12-waybound|officer}}
 | affiliations = {{spoiler|book=cradle-12-waybound|Import Processing}}
 | professions = {{spoiler|book=cradle-12-waybound|officer}}
@@ -9,17 +8,23 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|Gryth is an individual residing on [[Kareia]], a planet within the [[United Worlds]]. He appears to hold a professional role involving investigation or enforcement, as he possesses the ability to perceive contents within a person's [[void]] space and pockets. During an encounter with [[Lindon]], Gryth attempts to maintain a professional demeanor while questioning the origins of certain items. Although he initially tries to resolve situations through reason and negotiation, his attitude can shift toward a more stern or cold warning if met with resistance. He expresses significant concern regarding the presence of [[Silverlords]], noting that they are impossible to combat and suggesting that cooperation is the only way to ensure survival.}}
+{{spoiler|book=cradle-12-waybound|Gryth is an individual encountered on [[Kareia]], a planet within the [[United Worlds]]. He appears to hold a professional role involving investigation or enforcement, as he possesses the ability to perceive contents within a person's pocket and [[void space]]. During an interaction with [[Lindon]], Gryth transitions from a calm and welcoming demeanor to a more stern, professional attitude when questioning the origins of an item. He warns against resistance, noting that his group has previously detained [[Monarchs]] and suggesting that a prior strike was merely a warning. While he attempts to negotiate for survival by suggesting cooperation before Planetary [[Security]] arrives, he also expresses significant fear regarding the presence of a Silverlords{{!}}Silverlord, claiming such entities are impossible to combat.}}
+
+== Appearance ==
+{{spoiler|book=cradle-12-waybound|Gryth is a man characterized by his gray hair. He possesses a left eye that gleams.}}
+
+== Abilities ==
+{{spoiler|book=cradle-12-waybound|He has the power to see everything contained within a person's pocket and [[void space]].}}
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|Gryth is a gray-haired officer serving within [[Import Processing]]. He possesses the unique ability to see everything contained within an individual's pocket and [[void]] space. During his encounter with [[Lindon]], the man found himself trapped within the protagonist's grip.}}
+{{spoiler|book=cradle-12-waybound|Gryth is a gray-haired man distinguished by a gleaming left eye. Serving as an officer of Import Processing, he possesses the ability to see everything contained within a person's pocket and [[void space]]. During his encounter with [[Lindon]], he found himself trapped within the man's grip.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Gryth]] is a gray-haired man with a gleaming left eye.<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Gryth]]'s name is [[Gryth]].<ref name="cradle-12-waybound-c36" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Gryth]] is an officer of [[Import Processing]].<ref name="cradle-12-waybound-c36" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Gryth]] can see everything in a person's [[void]] space and pocket.<ref name="cradle-12-waybound-c36" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Gryth]] is an officer of Import Processing.<ref name="cradle-12-waybound-c36" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Gryth]] can see everything in a person's [[void space]] and pocket.<ref name="cradle-12-waybound-c36" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Gryth]] was stuck in [[Lindon]]'s grip.<ref name="cradle-12-waybound-c36" />}}</li>
 </ul></div>
 
@@ -35,4 +40,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Titled characters]]

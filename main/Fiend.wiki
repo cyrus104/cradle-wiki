@@ -1,15 +1,15 @@
 {{Infobox concept
 | name = Fiend
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|A Fiend is a creature warped by the Void, existing outside the normal order of reality. This transformation occurs when an individual stays in the [[void]] for too long, causing the environment to corrupt them and break down their connection to the [[Way]] until they become an incomprehensible entity. If this process is not halted by finding a fragment or an [[Iteration]], the individual eventually ceases to exist. [[Fiends]] are categorized by threat levels, such as Class Two, Class Three, or Class Four. While a [[Class Four Fiend]] poses a danger to cities or low-power civilizations, they can still be resisted by strong mortals. Some [[Fiends]] are powerful enough to contend with [[Judges]], and others exist as [[Fiends of Chaos]] trapped within seals. These entities can manifest warped realities, such as environments featuring fleshy trees and distorted gravity. Individual [[Fiends]] exhibit diverse and horrific forms, ranging from demonic figures with horned crowns to transparent, puppet-like constructs or creatures resembling centipedes with human hands. They are known to interact through a brushing of minds rather than traditional conversation and can be found lurking in the darkness between stars or within the [[void]] itself.}}
+{{spoiler|book=cradle-13-threshold|A Fiend is a creature or entity that has been warped by the Void, placing it outside the natural order. This transformation can occur if an individual survives in the void for too long, as the environment begins to corrupt them and break down their connection to Way{{!}}the Way. Such a process can eventually turn a person into an incomprehensible being that may cease to exist entirely if they cannot find a [[fragment]] or iteration to latch onto. [[Fiends]] are categorized by threat levels, such as Class Two, Class Three, or Class Four. While a [[Class Four Fiend]] is considered a threat to cities or low-power civilizations, they can still be resisted by strong mortals. Some [[Fiends]] are powerful enough to contend with [[Judges]]. These entities can manifest in various forms, ranging from demonic figures with horned crowns and crimson eyes to strange shapes like soft centipedes with human hands, or even wooden marionette-like [[constructs]]. They are often associated with chaos and can exist in the darkness between stars or within the depths of the void. Communication between [[Fiends]] typically involves a brushing of minds rather than traditional conversation.}}
 
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|Being broken down by the [[void]] can turn a person into an incomprehensible [[Fiend]].<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|Being broken down by the void can turn a person into an incomprehensible [[Fiend]].<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
 </ul></div>
 
 == Reaper ==
@@ -42,4 +42,3 @@
 [[Category:Threshold: Stories from Cradle]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Lifeforms]]

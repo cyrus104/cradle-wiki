@@ -1,10 +1,18 @@
+{{Expand}}
+
 {{Infobox group
 | name = D’iss
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 == The Knight ==
-{{spoiler|book=lh-03-the-knight|The D�iss are insectoid aliens that infest planets.}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|The D�iss are insectoid aliens that infest planets.<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
 
 {{The Last Horizon nav}}
 

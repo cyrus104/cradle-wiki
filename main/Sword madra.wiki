@@ -1,4 +1,42 @@
-#REDIRECT [[sword madra]]
+{{Infobox madra
+| name = sword madra
+| introduced = [[Soulsmith (novel)|Soulsmith]]
+}}
+
+== Overview ==
+{{spoiler|book=cradle-08-wintersteel|Sword [[madra]] is a specialized form of energy used by practitioners on the [[Path of the Endless Sword]]. It can be utilized to strengthen physical weapons or manifested into various combat forms. Through techniques such as [[Enforcement]], a user can pour [[madra]] into a blade to gather [[aura]], causing the weapon to grow more powerful as it moves. This energy can be shaped into diverse offensive maneuvers, including crescent-shaped waves known as [[Rippling Sword]] or massive, translucent replicas of a weapon called a [[Final Sword]]. Beyond enhancing existing blades, [[sword]] [[madra]] can be [[Forged]] into entirely new structures. This includes creating razor-thin edges, dense limbs that function like [[steel]], or even multiple floating arms used for combat. It can also be condensed into specialized [[constructs]] such as crystals, spikes, or long-lasting bars of energy. When combined with other elements like [[soulfire]], [[blood madra]], or ice, it creates complex combat effects. While highly effective for cutting and shredding, the strength of [[sword]] [[madra]] can be influenced by the user's current state or the specific techniques they employ, such as the [[Flowing Sword]].}}
+
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|[[Yerin]] has a core packed with [[sword madra]].<ref name="cradle-02-soulsmith-c8">''Soulsmith'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|sword madra{{!}}Sword madra can be gathered onto sharp edges.<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Yerin]] uses colorless [[sword madra]].<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Yerin]] used [[sword madra]] to shred a spider and her unseen bonds.<ref name="cradle-02-soulsmith-c20">''Soulsmith'', chapter 20</ref>}}</li>
+</ul></div>
+
+== Underlord ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-06-underlord|[[Yerin]] uses pulses of tightly controlled [[sword madra]].<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
+</ul></div>
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|A [[sacred artist]] used Sword-aspect madra{{!}}sword-madra against [[Lindon]].<ref name="cradle-07-uncrowned-c11">''Uncrowned'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|There is a mass of [[sword madra]] outside the door.<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Madra]]
 [[Category:Soulsmith]]

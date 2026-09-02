@@ -10,7 +10,7 @@
 == Of Sea and Shadow ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[island]] contains the flesh of a dead [[Elder]].<ref name="ee-sea-01-of-sea-and-shadow-c11">''Of Sea and Shadow'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The island contains the flesh of a dead Elder.<ref name="ee-sea-01-of-sea-and-shadow-c11">''Of Sea and Shadow'', chapter 11</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -22,4 +22,3 @@
 [[Category:Of Sea and Shadow]]
 [[Category:Elder Empire]]
 [[Category:Elder Empire characters]]
-[[Category:Great Elders]]

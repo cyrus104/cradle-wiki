@@ -1,0 +1,50 @@
+{{Infobox concept
+| name = soul-oath
+| introduced = [[Unsouled (novel)|Unsouled]]
+}}
+
+''See also: [[soul-oath Timeline]]''
+
+== Overview ==
+{{spoiler|book=cradle-12-waybound|A soul-oath is a [[binding]] vow made upon an individual's [[spirit]]. These oaths function as a [[technique]] to establish trust, ensure loyalty, or formalize commitments between parties. The strength and [[binding]] nature of an oath are directly tied to the power of the souls involved; more powerful spirits create much more significant and serious obligations. While traditional wisdom suggests these vows cannot be coerced, it is possible to create weaker but still [[binding]] oaths through compulsion. Violating a soul-oath carries severe consequences, though the exact nature of these punishments is often shrouded in rumor. The severity of the penalty appears to [[scale]] with the practitioner's power level, potentially resulting in damage to one's core or even crippling a person's future potential. Oaths can be mutual, creating a shared bond between two people, or one-sided, which possesses less [[binding]] force. Some specialized tools, such as the [[Grand Oath Array]], may also be used in relation to these vows.}}
+
+== Unsouled ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-01-unsouled|A [[soul-oath]] is a promise where individuals swear on their souls to build trust.<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|The [[binding]] power of a [[soul-oath]] increases with the strength of the practitioner's [[spirit]].<ref name="cradle-01-unsouled-c16" />}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|Violating a [[soul-oath]] can cause damage to a practitioner's core, with the severity depending on their level.<ref name="cradle-01-unsouled-c16" />}}</li>
+</ul></div>
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|A soul-oath{{!}}soul oath binds [[Yerin]] and [[Red Faith]].<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Compelled soul-oath{{!}}soul oaths are weaker than traditional ones.<ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|A soul-oath{{!}}soul oath is a type of [[binding]] agreement.<ref name="cradle-11-dreadgod-c14">''Dreadgod'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|A soul-oath{{!}}soul oath can [[judge]] a person's honesty.<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[Akura Malice]]'s soul-oath{{!}}soul oath released her when the battle ended.<ref name="cradle-12-waybound-c21">''Waybound'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Tiberian Arelius{{!}}Tiberian has broken many soul-oath{{!}}soul oaths.<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] requires a soul-oath{{!}}soul oath from those attending the meeting to keep the peace.<ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-01-unsouled|“We both swear on our souls, and we can trust each other.<ref name="cradle-01-unsouled-c16" />}}
+* {{spoiler|book=cradle-12-waybound|“You shouldn’t break so many soul oaths.”<ref name="cradle-12-waybound-c22" />}}
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Concepts]]
+[[Category:Unsouled]]
+[[Category:Dreadgod]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle concepts]]

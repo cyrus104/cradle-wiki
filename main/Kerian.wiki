@@ -3,7 +3,7 @@
 | abilities = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Gardener’s shear}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, collapsed the Bastion's Veil}}
 | titles = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[High Councilor]], Guild Representative}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, head of the Gardeners}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[High Gardener]], leader of the Consultant assassins}}
 | affiliations = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Consultant's Guild|Consultant’s Guild]]}}{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|, [[Council of Architects]]}}
-| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Chronicler}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, [[Consultant]], [[assassin]], [[Gardener]], [[Imperial Guard]]}}
+| professions = {{spoiler|book=ee-sea-01-of-sea-and-shadow|Chronicler}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, [[Consultant]], [[assassin]], [[Gardener]], [[Imperial Guard]], Guild Representative}}
 | birthplace = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Heartlander]]}}
 | appears_in = Elder Empire
 | introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
@@ -12,77 +12,85 @@
 ''See also: [[Kerian Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|Kerian is a dark-skinned [[Heartlander]] woman in her forties characterized by hair styled into hundreds of small braids and a pale scar running down the center of her face. A former assassin with extensive experience, she previously served as the head of the [[Gardeners]]. She currently holds a leadership position as one of three leaders within the [[Consultant's Guild]] and is a member of the [[Council of Architects]], with aspirations toward becoming a [[High Councilor]]. Despite her background in assassination, she is considered a proven ally to [[Shera]]. Physically, she utilizes a cane or crutch due to a knee injury caused by being kicked. In her professional capacity, she has demonstrated a range of temperaments, from maintaining a neutral and pleasant facade to displaying sudden, lethal aggression with a bronze blade. She is also noted for her ability to manage various roles, including overseeing the appointment of new [[Gardeners]] and facilitating visits to local chapter houses.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Kerian is a dark-skinned [[Heartlander]] woman in her forties who possesses a pale scar running down the center of her face and hair styled into hundreds of small braids. A former [[assassin]] with extensive experience, she previously served as the head of the [[Gardeners]]. She currently holds a leadership position as one of three leaders within the [[Consultant's Guild]] and is a member of the [[Council of Architects]], with aspirations toward becoming a [[High Councilor]]. Despite her background in assassination, she has acted as a proven ally to [[Shera]] over many years. Physically, she uses a sturdy cane or crutch due to a knee injury caused by a recent physical altercation. In her professional capacity, she has demonstrated a range of temperaments, from maintaining a neutral and pleasant facade to displaying sudden, lethal aggression with a bronze blade. She is also noted for her ability to manage complex political and organizational matters, such as appointing new [[Gardeners]] and overseeing the movement of valuables at a chapter house.}}
 
-== Of Sea and Shadow ==
+== Appearance ==
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Kerian is a dark-skinned [[Heartlander]] woman who wears purple clothing and carries a leather satchel. Her face features a long white scar running down the center, along with an additional mark on her forehead.}}
+
+== Personality ==
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|As an [[assassin]], she does not believe that murder is the answer to every problem. She acts as a cautious mentor who warns others against entering contracts with untrustworthy individuals.}}
+
+== Abilities ==
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|A trained [[Gardener]] and born [[Imperial Guard]], she is an exceptional leader who serves as the head of the [[Gardeners]]. She utilizes [[shears]] that have grown broad and shine with a deep blue light, and she possesses the power to collapse the [[Bastion's Veil]].}}
+
+== History ==
+=== {{spoiler|book=ee-sea-01-of-sea-and-shadow|Consultant and Gardener}} ===
+{{spoiler|book=ee-sea-01-of-sea-and-shadow|Kerian is a [[Heartlander]] woman who bears a long white scar running down the center of her face.<ref name="ee-sea-01-of-sea-and-shadow-c20">''Of Sea and Shadow'', chapter 20</ref> This mark includes a scar located on her forehead.<ref name="ee-sea-01-of-sea-and-shadow-c20" /> As a Chronicler, she conducts business with Imperial Steward Calder Marten{{!}}Calder Marten.<ref name="ee-sea-01-of-sea-and-shadow-c20" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Kerian]] is a [[Heartlander]] woman with a long white scar down the center of her face.<ref name="ee-sea-01-of-sea-and-shadow-c20">''Of Sea and Shadow'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Kerian]] is a [[Chronicler]] who conducts business with [[Calder Marten]].<ref name="ee-sea-01-of-sea-and-shadow-c20" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Kerian]] is a [[Heartlander]] woman with a long white scar down the center of her face.<ref name="ee-sea-01-of-sea-and-shadow-c20" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Kerian]] is a Chronicler who conducts business with Imperial Steward Calder Marten{{!}}Calder Marten.<ref name="ee-sea-01-of-sea-and-shadow-c20" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Kerian]] has a scar on her forehead.<ref name="ee-sea-01-of-sea-and-shadow-c20" />}}</li>
 </ul></div>
 
-== Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A [[High Councilor]] and the [[Guild]] Representative for a local chapter of the [[Consultant]]’s [[Guild]], Kerian serves as a [[Consultant]] and an assassin who avoids murder whenever possible. A former student of [[Zhen]], this [[Heartlander]] carries a leather satchel and was seen reading 'The Adventures of [[Lady]] Clearlove' while tending to a prisoner's ribs with bandages. During interactions with [[Shera]] and [[Yala]], Kerian prepared essential items and waterproof pouches for [[Shera]], even suggesting that she kill Clayborn. As a trained [[Gardener]] and born [[Imperial Guard]], Kerian noted the ancient history of the [[Garden]] and used shears to guide [[Shera]] through a maze. While dressed in purple, Kerian observed the destruction of the forest and the [[Children]] lunging through the trees.}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
+{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Kerian serves as a [[Consultant]] and acts as the [[Guild]] Representative for a local chapter house of the Consultant's Guild{{!}}Consultant’s Guild.<ref name="ee-shadow-01-of-shadow-and-sea-c1">''Of Shadow and Sea'', chapter 1</ref><ref name="ee-shadow-01-of-shadow-and-sea-c3">''Of Shadow and Sea'', chapter 3</ref> Though an [[assassin]] by trade, Kerian does not view murder as the solution to every problem and carries a leather satchel.<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref><ref name="ee-shadow-01-of-shadow-and-sea-c3" /> During a conversation with [[Shera]] and Yala the High Mason{{!}}Yala, it is noted that Kerian was once a student of Zhen of the Masons{{!}}Zhen.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref><ref name="ee-shadow-01-of-shadow-and-sea-c5">''Of Shadow and Sea'', chapter 5</ref> While reading 'The Adventures of Lady Clearlove', Kerian wrapped bandages around a prisoner's ribs.<ref name="ee-shadow-01-of-shadow-and-sea-c5" /> Kerian wanted [[Shera]] to kill Clayborn and assisted her by preparing essential items and waterproof pouches.<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref> A trained [[Gardener]] and born [[Imperial Guard]], Kerian noted that the Garden has existed since the dawn of The Empire{{!}}the Empire.<ref name="ee-shadow-01-of-shadow-and-sea-c7">''Of Shadow and Sea'', chapter 7</ref> As a [[High Councilor]], Kerian carries a set of [[shears]].<ref name="ee-shadow-01-of-shadow-and-sea-c13">''Of Shadow and Sea'', chapter 13</ref> Dressed in purple, this [[Consultant]] guided [[Shera]] out of a maze.<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref><ref name="ee-shadow-01-of-shadow-and-sea-c19">''Of Shadow and Sea'', chapter 19</ref> The [[Heartlander]], wearing a purple dress and using [[Gardener’s shears]], observed the [[destruction]] of the forest and the [[Children]] lunging in the trees.<ref name="ee-shadow-01-of-shadow-and-sea-c21">''Of Shadow and Sea'', chapter 21</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">18</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a [[Consultant]].<ref name="ee-shadow-01-of-shadow-and-sea-c1">''Of Shadow and Sea'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is an assassin who does not see murder as the solution to every problem.<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is the [[Guild]] Representative for a local chapter house of the [[Consultant]]’s [[Guild]].<ref name="ee-shadow-01-of-shadow-and-sea-c3">''Of Shadow and Sea'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a [[Consultant]].<ref name="ee-shadow-01-of-shadow-and-sea-c1" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is an [[assassin]] who does not see murder as the solution to every problem.<ref name="ee-shadow-01-of-shadow-and-sea-c2" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is the [[Guild]] Representative for a local chapter house of the Consultant's Guild{{!}}Consultant’s Guild.<ref name="ee-shadow-01-of-shadow-and-sea-c3" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] wears a leather satchel.<ref name="ee-shadow-01-of-shadow-and-sea-c3" />}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a character who participates in the conversation with [[Shera]] and [[Yala]].<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a former student of [[Zhen]].<ref name="ee-shadow-01-of-shadow-and-sea-c5">''Of Shadow and Sea'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] reads a book titled 'The Adventures of [[Lady]] Clearlove'.<ref name="ee-shadow-01-of-shadow-and-sea-c5" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a character who participates in the conversation with [[Shera]] and Yala the High Mason{{!}}Yala.<ref name="ee-shadow-01-of-shadow-and-sea-c4" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a former student of Zhen of the Masons{{!}}Zhen.<ref name="ee-shadow-01-of-shadow-and-sea-c5" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] reads a book titled 'The Adventures of Lady Clearlove'.<ref name="ee-shadow-01-of-shadow-and-sea-c5" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] wrapped bandages around the prisoner's ribs.<ref name="ee-shadow-01-of-shadow-and-sea-c5" />}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] wanted [[Shera]] to kill Clayborn.<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] wanted [[Shera]] to kill Clayborn.<ref name="ee-shadow-01-of-shadow-and-sea-c6" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a character who prepares waterproof pouches and essential items for [[Shera]].<ref name="ee-shadow-01-of-shadow-and-sea-c6" />}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] stated that the [[Garden]] has existed since the dawn of the [[Empire]].<ref name="ee-shadow-01-of-shadow-and-sea-c7">''Of Shadow and Sea'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a character mentioned by [[Lucan]].<ref name="ee-shadow-01-of-shadow-and-sea-c7" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] stated that the Garden has existed since the dawn of The Empire{{!}}the Empire.<ref name="ee-shadow-01-of-shadow-and-sea-c7" />}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a trained [[Gardener]] and a born [[Imperial Guard]].<ref name="ee-shadow-01-of-shadow-and-sea-c7" />}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a [[High Councilor]].<ref name="ee-shadow-01-of-shadow-and-sea-c13">''Of Shadow and Sea'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] carries a set of shears.<ref name="ee-shadow-01-of-shadow-and-sea-c13" />}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a [[Consultant]] wearing purple who carries shears.<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] guided [[Shera]] out of a maze.<ref name="ee-shadow-01-of-shadow-and-sea-c19">''Of Shadow and Sea'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a [[Heartlander]] wearing a purple dress who uses a [[Gardener]]’s shear.<ref name="ee-shadow-01-of-shadow-and-sea-c21">''Of Shadow and Sea'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] observed the destruction of the forest and the [[Children]] lunging in the trees.<ref name="ee-shadow-01-of-shadow-and-sea-c21" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a [[High Councilor]].<ref name="ee-shadow-01-of-shadow-and-sea-c13" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] carries a set of [[shears]].<ref name="ee-shadow-01-of-shadow-and-sea-c13" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a [[Consultant]] wearing purple who carries [[shears]].<ref name="ee-shadow-01-of-shadow-and-sea-c17" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] guided [[Shera]] out of a maze.<ref name="ee-shadow-01-of-shadow-and-sea-c19" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] is a [[Heartlander]] wearing a purple dress who uses a [[Gardener]]’s [[shear]].<ref name="ee-shadow-01-of-shadow-and-sea-c21" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Kerian]] observed the [[destruction]] of the forest and the [[Children]] lunging in the trees.<ref name="ee-shadow-01-of-shadow-and-sea-c21" />}}</li>
 </ul></div>
 
-== Of Darkness and Dawn ==
-{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|An exceptional older [[Gardener]], Kerian once demonstrated immense power by collapsing the [[Bastion's Veil]] during a battle. Having risen to become the head of the [[Gardeners]], he eventually transitioned into a role as a retired [[Gardener]] and a member of the [[Council of Architects]]. During a period where he expected his enemies to stall, Kerian suffered an injury and was carried by a river toward the [[Spear of Tharlos]].}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|As an older member of the [[Gardeners]], Kerian is regarded as an exceptional individual.<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref> During a battle, he successfully collapsed the [[Bastion's Veil]].<ref name="ee-shadow-02-of-darkness-and-dawn-c2" /> He currently serves as the head of the [[Gardeners]].<ref name="ee-shadow-02-of-darkness-and-dawn-c3">''Of Darkness and Dawn'', chapter 3</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] is an older [[Gardener]] and is considered exceptional.<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] is an older [[Gardener]] and is considered exceptional.<ref name="ee-shadow-02-of-darkness-and-dawn-c2" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] collapsed the [[Bastion's Veil]] during a battle.<ref name="ee-shadow-02-of-darkness-and-dawn-c2" />}}</li>
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] is the head of the [[Gardeners]].<ref name="ee-shadow-02-of-darkness-and-dawn-c3">''Of Darkness and Dawn'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] is a retired [[Gardener]] and a member of the [[Council of Architects]].<ref name="ee-shadow-02-of-darkness-and-dawn-c12">''Of Darkness and Dawn'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] has an injury.<ref name="ee-shadow-02-of-darkness-and-dawn-c17">''Of Darkness and Dawn'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] expected the enemy to stall.<ref name="ee-shadow-02-of-darkness-and-dawn-c19">''Of Darkness and Dawn'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] is a [[Gardener]].<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] is the head of the [[Gardeners]].<ref name="ee-shadow-02-of-darkness-and-dawn-c3" />}}</li>
+</ul></div>
+
+=== {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Council of Architects}} ===
+{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A member of the [[Council of Architects]], Kerian is a retired [[Gardener]].<ref name="ee-shadow-02-of-darkness-and-dawn-c12">''Of Darkness and Dawn'', chapter 12</ref> While dealing with an injury, Kerian had anticipated that the enemy would stall.<ref name="ee-shadow-02-of-darkness-and-dawn-c17">''Of Darkness and Dawn'', chapter 17</ref><ref name="ee-shadow-02-of-darkness-and-dawn-c19">''Of Darkness and Dawn'', chapter 19</ref> The individual was eventually carried by a river toward the [[Spear of Tharlos]].<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] is a retired [[Gardener]] and a member of the [[Council of Architects]].<ref name="ee-shadow-02-of-darkness-and-dawn-c12" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] has an injury.<ref name="ee-shadow-02-of-darkness-and-dawn-c17" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] expected the enemy to stall.<ref name="ee-shadow-02-of-darkness-and-dawn-c19" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Kerian]] is a person who was carried by a river towards the [[Spear of Tharlos]].<ref name="ee-shadow-02-of-darkness-and-dawn-c21" />}}</li>
 </ul></div>
 
-== Of Kings and Killers ==
+=== {{spoiler|book=ee-sea-03-of-kings-and-killers|High Gardener}} ===
+{{spoiler|book=ee-sea-03-of-kings-and-killers|Kerian is a dark-skinned woman from the Heartland{{!}}Heartlands who serves as the [[High Gardener]].<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref> In this capacity, she also acts as the leader of the [[Consultant assassins]].<ref name="ee-sea-03-of-kings-and-killers-c6" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Kerian]] is a dark-skinned [[Heartlander]] woman and the [[High Gardener]], leader of the [[Consultant assassins]].<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Kerian]] is a dark-skinned [[Heartlander]] woman and the [[High Gardener]], leader of the [[Consultant assassins]].<ref name="ee-sea-03-of-kings-and-killers-c6" />}}</li>
 </ul></div>
 
-== Of Killers and Kings ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|Appearing without a shroud over his face, Kerian wore black clothing and granted [[Lucan]] permission to retrieve the minutes from an [[Architect]] [[Council]] meeting. A worshiper of [[Emperor (Elder Empire)|the Emperor]], he possessed hair similar in appearance to [[Loreli]]'s and interacted easily with [[Estyr]]. During a confrontation, he physically dragged [[Yala]] away. As a [[Gardener]], his shears had grown broader and emitted a deep blue shine. While he cautioned [[Shera]] against entering contracts with untrustworthy individuals, she ultimately considered him a person who was wasting away.}}
-
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|Dressed in black without a shroud covering his face, Kerian granted [[Lucan]] permission to retrieve the minutes from an Council of Architects{{!}}Architect Council meeting.<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref><ref name="ee-shadow-03-of-killers-and-kings-c7">''Of Killers and Kings'', chapter 7</ref> A worshiper of the Emperor, he possesses hair similar in appearance to [[Loreli]]'s.<ref name="ee-shadow-03-of-killers-and-kings-c9">''Of Killers and Kings'', chapter 9</ref><ref name="ee-shadow-03-of-killers-and-kings-c19">''Of Killers and Kings'', chapter 19</ref> During a physical confrontation, Kerian dragged Yala the High Mason{{!}}Yala away.<ref name="ee-shadow-03-of-killers-and-kings-c21">''Of Killers and Kings'', chapter 21</ref> As a [[Gardener]], his [[shears]] have become broader and emit a deep blue shine.<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref> He also provided [[Shera]] with a caution regarding the dangers of entering contracts with untrustworthy individuals.<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kerian]] wore black without a shroud over his face.<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Lucan]] retrieved [[Architect]] [[Council]] meeting minutes with [[Kerian]]'s permission.<ref name="ee-shadow-03-of-killers-and-kings-c7">''Of Killers and Kings'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kerian]] worshiped [[Emperor (Elder Empire)|the Emperor]].<ref name="ee-shadow-03-of-killers-and-kings-c9">''Of Killers and Kings'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kerian]]'s hair is similar to [[Loreli]]'s.<ref name="ee-shadow-03-of-killers-and-kings-c19">''Of Killers and Kings'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kerian]] responded easily to [[Estyr]].<ref name="ee-shadow-03-of-killers-and-kings-c21">''Of Killers and Kings'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kerian]] physically dragged [[Yala]] off.<ref name="ee-shadow-03-of-killers-and-kings-c21" />}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kerian]] is a [[Gardener]] whose shears have grown broader and shine deep blue.<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kerian]] cautioned [[Shera]] about entering a contract with someone untrustworthy.<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kerian]] is a person [[Shera]] considers wasting.<ref name="ee-shadow-03-of-killers-and-kings-c26">''Of Killers and Kings'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kerian]] wore black without a shroud over his face.<ref name="ee-shadow-03-of-killers-and-kings-c6" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Lucan]] retrieved Council of Architects{{!}}Architect Council meeting minutes with [[Kerian]]'s permission.<ref name="ee-shadow-03-of-killers-and-kings-c7" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kerian]] worshiped the Emperor.<ref name="ee-shadow-03-of-killers-and-kings-c9" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kerian]]'s hair is similar to [[Loreli]]'s.<ref name="ee-shadow-03-of-killers-and-kings-c19" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kerian]] physically dragged Yala the High Mason{{!}}Yala off.<ref name="ee-shadow-03-of-killers-and-kings-c21" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kerian]] is a [[Gardener]] whose [[shears]] have grown broader and shine deep blue.<ref name="ee-shadow-03-of-killers-and-kings-c24" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Kerian]] cautioned [[Shera]] about entering a contract with someone untrustworthy.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
 </ul></div>
 
 == Notable quotes ==

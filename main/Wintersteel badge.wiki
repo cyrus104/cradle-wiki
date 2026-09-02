@@ -1,4 +1,30 @@
-#REDIRECT [[wintersteel badge]]
+{{Infobox artifact
+| name = wintersteel badge
+| introduced = [[Wintersteel (novel)|Wintersteel]]
+}}
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]]'s [[wintersteel badge]] is cold in weight.<ref name="cradle-09-bloodline-c3">''Bloodline'', chapter 3</ref>}}</li>
+</ul></div>
+
+== Reaper ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] possesses a [[wintersteel badge]].<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
+</ul></div>
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] wears a wintersteel badge{{!}}Wintersteel badge with one character in the old language.<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Artifacts]]
 [[Category:Bloodline]]

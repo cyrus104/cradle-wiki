@@ -1,12 +1,12 @@
 {{Infobox location
 | name = Desolate Wilds
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Desolate Wilds Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|The Desolate Wilds, also known as the Wilds, is a vast and treacherous expanse of blighted wilderness located west of [[Sacred Valley]]. Characterized by its harshness, the region features landscapes of rolling hills, blackened forests, and scorched ruins. The vegetation is often corrupted, consisting of stringy black grass, dark-petaled flowers with smoldering red spots, and thorny bushes with burning berries. The environment is frequently described as a nightmare of ash, shadow, and decay. Historically, the Wilds were a lawless territory inhabited by barbaric factions and rogue [[sacred artists]] who ruled through strength. Over time, various groups like the [[Jai clan]] attempted to unify the region through violent conquest. The area is also home to numerous dangerous entities, including unpredictable [[Remnants]] and highly aggressive [[dreadbeasts]], which are known to increase in number and ferocity during the approach of a [[Dreadgod]]. Within this territory, there are limited livable pockets where venom aura and [[dreadbeasts]] are held at bay. Notable landmarks include the [[Purelake]], a crystalline body of water that provides nourishment to the wilds, and the [[Transcendent Ruins]], which serve as a corner of a massive [[labyrinth]] stretching across the continent.}}
+{{spoiler|book=cradle-12-waybound|The Desolate Wilds, also known as the Wilds, is a vast and treacherous region located to the west of [[Sacred Valley]]. Characterized by its harshness, it is a blighted landscape featuring black-leaved trees, scorched earth, and patches of ash. The terrain is often described as a dark, corrupted mess, containing pockets of livable space where the influence of [[venom aura]] and [[dreadbeasts]] has been pushed back. The region is home to various non-human entities, including [[Remnants]] and [[dreadbeasts]], which can be unpredictable or outright predatory. Historically, the area was a lawless expanse inhabited by barbaric factions and rogue [[sacred artists]] until it was unified by a woman wielding a shining spear. Among its notable [[inhabitants]] are the [[Jai clan]], who utilized light-aspected techniques to rule the region through violent means. The Wilds are also home to the [[Transcendent Ruins]], a massive labyrinthine structure that serves as a significant landmark within the territory. The region's environment is so volatile that it has been known to quake and suffer from intense [[aura]]-storms, particularly when influenced by the presence of a [[Dreadgod]].}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -15,13 +15,13 @@
 </ul></div>
 
 == Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|The Desolate Wilds is a blighted stretch of wilderness considered to be the back-end of nowhere. Nearly a thousand years ago, this lawless region was plagued by beasts and served as the place of [[Jai Long]]'s banishment. While it is a harsh area home to the [[Sandviper sect]] and [[dreadbeasts]] with rotting leaves, it remains a location where [[sacred artists]] reside to [[construct]] structures. Though the region contains only one [[Underlord]], it is a place that causes [[Yerin]] concern regarding being alone.}}
+{{spoiler|book=cradle-02-soulsmith|The Desolate Wilds is a blighted stretch of wilderness and a remote region often described as the back-end of nowhere. Nearly a thousand years ago, this lawless land was plagued by beasts and served as the place of [[Jai Long]]'s banishment. While it is a harsh area home to the [[Sandviper sect]] and inhabited by [[sacred artists]] who [[construct]] structures there, it contains only a single [[Underlord]]. The region is populated by [[dreadbeasts]] with rotting leaves, creating an environment so daunting that [[Yerin]] expressed concern about being alone within it.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|The Wilds is a region where [[sacred artists]] [[construct]] structures.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The Desolate Wilds{{!}}Wilds is a region where [[sacred artists]] [[construct]] structures.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Desolate Wilds]] were lawless and plagued by beasts nearly a thousand years ago.<ref name="cradle-02-soulsmith-c6">''Soulsmith'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|The Wilds is a place where [[Jai Long]] was banished.<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The Desolate Wilds{{!}}Wilds is a place where [[Jai Long]] was banished.<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Desolate Wilds]] contains only one [[Underlord]].<ref name="cradle-02-soulsmith-c7" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Desolate Wilds]] is a stretch of blighted wilderness.<ref name="cradle-02-soulsmith-c7" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Desolate Wilds]] are described as the back-end of nowhere.<ref name="cradle-02-soulsmith-c10">''Soulsmith'', chapter 10</ref>}}</li>
@@ -32,17 +32,17 @@
 </ul></div>
 
 == Blackflame ==
-{{spoiler|book=cradle-03-blackflame|The Desolate Wilds is a western region characterized by an abundance of water madra. Though [[the Emperor]] holds the title to this land, it is a place where [[Sandvipers]] have resided for months, hunting local beasts in crawling packs. This location served as the site of a cave containing the resources for [[Lindon]]'s [[Bloodforged Iron body]] and was also the place from which [[Jai Chen]] was taken. While legends speak of a hidden valley in the mountains to its west, [[Lindon]] and [[Yerin]] eventually entered the Wilds themselves.}}
+{{spoiler|book=cradle-03-blackflame|The Desolate Wilds is a western region characterized by an abundance of [[water madra]]. Though the Emperor holds title to this land, it is a place where [[Sandvipers]] have resided for months, hunting local beasts in crawling packs. This location provided the necessary resources from a cave to form [[Lindon]]'s [[Bloodforged Iron body]], and it is also the place from which [[Jai Chen]] was taken. While legends speak of a hidden valley in the mountains to the west, [[Lindon]] and [[Yerin]] eventually entered the Wilds themselves.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|The [[Desolate Wilds]] is a region where water madra is common.<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|The Wilds is a location where the [[Sandvipers]] have been for months.<ref name="cradle-03-blackflame-c2">''Blackflame'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Desolate Wilds]] is a region where [[water madra]] is common.<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The Desolate Wilds{{!}}Wilds is a location where the [[Sandvipers]] have been for months.<ref name="cradle-03-blackflame-c2">''Blackflame'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Sandvipers]] specialize in hunting the beasts of the [[Desolate Wilds]].<ref name="cradle-03-blackflame-c4">''Blackflame'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|There is a legend of a hidden valley in the mountains to the west of the [[Desolate Wilds]].<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Desolate Wilds]] is a location.<ref name="cradle-03-blackflame-c6" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The group departed from the [[Desolate Wilds]] a month ago.<ref name="cradle-03-blackflame-c7">''Blackflame'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|[[The Emperor]] holds the title to the [[Desolate Wilds]].<ref name="cradle-03-blackflame-c8">''Blackflame'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The Emperor holds the title to the [[Desolate Wilds]].<ref name="cradle-03-blackflame-c8">''Blackflame'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The resources for [[Lindon]]'s [[Bloodforged Iron body]] came from a cave in the [[Desolate Wilds]].<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Desolate Wilds]] lie to the west.<ref name="cradle-03-blackflame-c12">''Blackflame'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Desolate Wilds]] is a location from which [[Jai Chen]] was taken.<ref name="cradle-03-blackflame-c16">''Blackflame'', chapter 16</ref>}}</li>
@@ -59,7 +59,7 @@
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|The poison in the garden reminded [[Lindon]] of the [[Desolate Wilds]].<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The [[poison]] in the garden reminded [[Lindon]] of the [[Desolate Wilds]].<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
 </ul></div>
 
 == Underlord ==
@@ -70,7 +70,7 @@
 </ul></div>
 
 == Bloodline ==
-{{spoiler|book=cradle-09-bloodline|The Desolate Wilds is a blackened forest characterized by leaves tinged with corruption. Within this region, [[Sages]] are regarded as nothing more than legends, and the area is considered too weak to attract the interest of the [[Wandering Titan]]. [[Jai Long]] maintains various contacts throughout the territory, which was once part of a plan involving [[Jai Chen]] and her followers.}}
+{{spoiler|book=cradle-09-bloodline|The Desolate Wilds is a blackened forest characterized by leaves tinged with corruption. Within this region, [[Sages]] are viewed as nothing more than legends, and the area is considered too weak to attract the interest of the [[Wandering Titan]]. [[Jai Long]] maintains various contacts throughout the territory, which was also a focal point for a plan developed by [[Jai Chen]] and her followers.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -78,7 +78,7 @@
 <li>{{spoiler|book=cradle-09-bloodline|The [[Desolate Wilds]] is a location where [[Jai Long]] has contacts.<ref name="cradle-09-bloodline-c10">''Bloodline'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Desolate Wilds]] are considered too weak to interest the [[Wandering Titan]].<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Desolate Wilds]] have leaves tinged black with corruption.<ref name="cradle-09-bloodline-c18" />}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|[[Jai Chen]] and her followers had a plan for the Wilds.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Jai Chen]] and her followers had a plan for the Desolate Wilds{{!}}Wilds.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Desolate Wilds]] is a location where [[Sages]] are considered legends.<ref name="cradle-09-bloodline-c21" />}}</li>
 </ul></div>
 
@@ -120,4 +120,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Regions]]

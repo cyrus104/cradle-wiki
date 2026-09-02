@@ -1,15 +1,15 @@
 {{Infobox location
 | name = Shatterspine Castle
-| introduced = Dreadgod
+| introduced = [[Dreadgod (novel)|Dreadgod]]
 }}
 
 ''See also: [[Shatterspine Castle Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|Shatterspine Castle is an ancient, fortified structure characterized by black walls that rise into sharp peaks. Once the center of a large city that has since turned to dust, the castle served as the residence for one of the final black [[dragon]] emperors of the [[Blackflame Empire]]. This ruler was a [[Herald]] who engaged in a long-standing conflict with a [[Sage]] of the [[Path]] of the Last Oath. The resulting battles contributed to the creation of the Wastelands, an area filled with abandoned battlefields from powerful ancient figures. The [[Sage]] eventually secured victory by utilizing the [[Grand Oath Array]] to seal the [[dragon]]'s [[Remnant]] and much of his kin. While the castle was once moved a great distance by the [[Rune Queen]], it has recently been subject to significant destruction and structural failure. In more recent events, the building was lifted into the air by a [[Ruler technique]] to expose an underground chamber, and it has been used as a site for intense combat involving [[dragons]] and humans.}}
+{{spoiler|book=cradle-12-waybound|Shatterspine Castle is an ancient, fortified structure characterized by dark walls that rise into sharp peaks. Once the residence of a Black dragons{{!}}black dragon emperor from the [[Blackflame Empire]], the castle was located near a massive city that has since been destroyed. The site became part of the Wasteland{{!}}Wastelands following intense combat between a [[Herald]] and a [[Sage]] on the Path of Last Oath{{!}}Path of the Last Oath; the [[Sage]] eventually secured victory by using the [[Grand Oath Array]] to seal the [[Herald]]'s [[Remnant]] and much of his kin. For centuries, powerful figures like [[Sages]] and [[Heralds]] attempted to breach the castle's defenses, but they were unable to overcome the [[Grand Oath Array]] through force or unravel its mechanics. In more recent events, the castle has undergone significant physical changes, including being moved by the [[Rune Queen]] and later being lifted into the air by a [[Ruler technique]]. During these movements, parts of the structure have crumbled or fallen apart, exposing underground chambers and remnants.}}
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|Resembling the structures found within the [[Wasteland]], Shatterspine Castle is a desert location that fell nearly a millennium ago. Originally moved by the [[Rune Queen]], the site contains a basement beneath its ruins. During a battle, the castle begins to fall apart, leaving portions of it in a state of crumbled stone. Within a dark room at the bottom of these ruins, [[Ziel]] and [[Orthos]] are located.}}
+{{spoiler|book=cradle-11-dreadgod|Located within a desert, Shatterspine Castle is a structure reminiscent of those found throughout the [[Wasteland]]. Having fallen almost a thousand years ago, the castle was originally moved by the [[Rune Queen]]. During a recent battle, the [[fortress]] began falling apart, leaving its basement in a state of ruin. Within a dark room of crumbled [[stone]] at the bottom of the castle, Ziel of the Wasteland{{!}}Ziel and [[Orthos]] were located.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -18,8 +18,8 @@
 <li>{{spoiler|book=cradle-11-dreadgod|[[Shatterspine Castle]] has a basement.<ref name="cradle-11-dreadgod-c13">''Dreadgod'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Shatterspine Castle]] was moved by the [[Rune Queen]].<ref name="cradle-11-dreadgod-c13" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Shatterspine Castle]] is falling apart during the battle.<ref name="cradle-11-dreadgod-c13" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Orthos]] and [[Ziel]] are in a dark room of crumbled stone at the bottom of [[Shatterspine Castle]].<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Shatterspine Castle]] is a location where [[Ziel]] is located.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Orthos]] and Ziel of the Wasteland{{!}}Ziel are in a dark room of crumbled [[stone]] at the bottom of [[Shatterspine Castle]].<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Shatterspine Castle]] is a location where Ziel of the Wasteland{{!}}Ziel is located.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Shatterspine Castle]] is located in a desert.<ref name="cradle-11-dreadgod-c19" />}}</li>
 </ul></div>
 
@@ -40,4 +40,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Structures]]

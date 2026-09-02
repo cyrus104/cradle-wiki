@@ -2,7 +2,7 @@
 | name = Renfei
 | aliases = Pai Ren
 | spouse = {{spoiler|book=cradle-03-blackflame|[[Bai Rou]]}}
-| abilities = {{spoiler|book=cradle-05-ghostwater|[[Cloud Hammer madra]]}}{{spoiler|book=cradle-06-underlord|, [[Path of the Cloud Hammer]]}}
+| abilities = {{spoiler|book=cradle-05-ghostwater|[[Cloud Hammer madra]], dark cloud}}{{spoiler|book=cradle-06-underlord|, [[Path of the Cloud Hammer]]}}
 | titles = {{spoiler|book=cradle-05-ghostwater|[[Truegold]]}}
 | affiliations = {{spoiler|book=cradle-03-blackflame|[[Skysworn]]}}{{spoiler|book=cradle-05-ghostwater|, [[Cloud Hammer sect]]}}
 | appears_in = Cradle
@@ -12,52 +12,62 @@
 ''See also: [[Renfei Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-06-underlord|Renfei, also known as Pai Ren, was a member of the [[Skysworn]]. A slight woman with black hair worn in a ponytail, she was characterized by her composed and controlled demeanor. She utilized [[Cloud Hammer madra]] to create protective hazes and possessed a [[Goldsign]] in the form of a gray cloud that hovered above her. As an [[Underlord]], she held significant status within the [[Empire]], though this rank did not grant her the power to restrict the freedom of other Underlords. Renfei served alongside her partner, [[Bai Rou]], and was tasked with supervising trainees such as Wei Shi [[Lindon]]. Her career included earning her place in the [[Skysworn]] years prior, and she took great pride in the organization's prestige and recruitment standards. Renfei eventually died following a single attack from [[Akura Harmony]].}}
+{{spoiler|book=cradle-06-underlord|Renfei, also known as Pai Ren, was a member of the [[Skysworn]]. She was a [[Truegold]] who possessed a hammer and utilized [[Cloud Hammer madra]], which she could spread into a protective haze. In combat or movement, she often utilized emerald green Thousand-Mile Cloud{{!}}Thousand-Mile Clouds, which are symbols of the [[Skysworn]], and was accompanied by a personal raincloud [[Goldsign]]. Renfei was characterized by her composed and controlled demeanor, appearing calm and ready to act even when facing high-pressure situations. As a member of the [[Skysworn]], she served the [[Blackflame Empire]] and was tasked with supervising trainees and maintaining high organizational standards. Her career included earning her way into the [[Skysworn]] through training, and she eventually died following a single attack from [[Akura Harmony]].}}
 
-== Blackflame ==
+== Appearance ==
+{{spoiler|book=cradle-06-underlord|Renfei has black hair styled in a tail and is accompanied by a gray cloud hovering over her head. She carries a dark hammer.}}
+
+== Personality ==
+{{spoiler|book=cradle-06-underlord|She possesses an authoritative voice and maintains a calm, composed temperament. As a member of the [[Skysworn]], she performs duties such as scanning hosts before they are allowed into the group.}}
+
+== Abilities ==
+{{spoiler|book=cradle-06-underlord|Renfei follows the [[Path of the Cloud Hammer]] and utilizes [[Cloud Hammer madra]]. Her techniques include generating dark platforms of solid cloud to stand on and using dark clouds as an attack.}}
+
+== History ==
+=== {{spoiler|book=cradle-03-blackflame|Blackflame}} ===
+{{spoiler|book=cradle-03-blackflame|Renfei is a member of the [[Skysworn]].<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref> As a partner of [[Bai Rou]], Renfei carries a hammer into battle.<ref name="cradle-03-blackflame-c22" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|[[Renfei]] is a member of the [[Skysworn]].<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Renfei]] is a member of the [[Skysworn]].<ref name="cradle-03-blackflame-c22" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Renfei]] is a partner of [[Bai Rou]].<ref name="cradle-03-blackflame-c22" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Renfei]] carries a hammer.<ref name="cradle-03-blackflame-c22" />}}</li>
 </ul></div>
 
-== Skysworn ==
-{{spoiler|book=cradle-04-skysworn|Renfei is a [[Highgold]] and a member of the [[Skysworn]] who carries a dark hammer. Characterized by her calm composure, she has black hair tied in a tail and is often seen with a gray cloud hovering over her head. During an incident, she assisted in dragging [[Lindon]] into a building and performed a scan of the host before granting her entry into the [[Skysworn]]. As part of the group supervising [[Lindon]]'s squad, she utilizes her [[madra]] to stand upon dark platforms of solid cloud.}}
-
+=== {{spoiler|book=cradle-04-skysworn|Skysworn}} ===
+{{spoiler|book=cradle-04-skysworn|Renfei is a calm and composed [[Highgold]] [[Skysworn]] who carries a dark hammer.<ref name="cradle-04-skysworn-c3">''Skysworn'', chapter 3</ref><ref name="cradle-04-skysworn-c6">''Skysworn'', chapter 6</ref><ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref> She possesses black hair tied in a tail and is accompanied by a gray cloud hovering over her head.<ref name="cradle-04-skysworn-c3" /> After helping to drag [[Lindon]] into a building, she scanned the host before permitting her entry into the [[Skysworn]].<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref> As a member of the group supervising [[Lindon]]'s squad, Renfei stands upon dark platforms of solid cloud generated by her [[madra]].<ref name="cradle-04-skysworn-c15">''Skysworn'', chapter 15</ref><ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] carries a dark hammer.<ref name="cradle-04-skysworn-c3">''Skysworn'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] carries a dark hammer.<ref name="cradle-04-skysworn-c3" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] is calm and composed with black hair in a tail and a gray cloud hovering over her head.<ref name="cradle-04-skysworn-c3" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] is a [[Skysworn]] who uses a hammer.<ref name="cradle-04-skysworn-c6">''Skysworn'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|Pai Ren is a member of the [[Skysworn]].<ref name="cradle-04-skysworn-c8">''Skysworn'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] is a [[Highgold]].<ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] helped drag [[Lindon]] into a building.<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] is a [[Skysworn]] who uses a hammer.<ref name="cradle-04-skysworn-c6" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|Renfei{{!}}Pai Ren is a member of the [[Skysworn]].<ref name="cradle-04-skysworn-c8">''Skysworn'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] is a [[Highgold]].<ref name="cradle-04-skysworn-c11" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] helped drag [[Lindon]] into a building.<ref name="cradle-04-skysworn-c13" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] scanned the host before allowing her into the [[Skysworn]].<ref name="cradle-04-skysworn-c13" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] is a member of the group supervising [[Lindon]]'s squad.<ref name="cradle-04-skysworn-c15">''Skysworn'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] stands on dark platforms of solid cloud generated with her [[madra]].<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] is a member of the group supervising [[Lindon]]'s squad.<ref name="cradle-04-skysworn-c15" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] stands on dark platforms of solid cloud generated with her [[madra]].<ref name="cradle-04-skysworn-c16" />}}</li>
 </ul></div>
 
-== Ghostwater ==
-{{spoiler|book=cradle-05-ghostwater|A [[Truegold]] of the [[Cloud Hammer sect]], Renfei is a [[Skysworn]] known for her authoritative voice. During combat, she cycles [[madra]] to draw wisps of dark cloud around her armor and utilizes this substance as a method of attack. Using [[Cloud Hammer madra]], she eventually sent a message to [[Bai Rou]] concerning the presence of multiple enemies. Renfei was also noted in a mention by [[Mercy]].}}
-
+=== {{spoiler|book=cradle-05-ghostwater|Ghostwater}} ===
+{{spoiler|book=cradle-05-ghostwater|Renfei is an authoritative [[Skysworn]] who utilizes [[Cloud Hammer madra]].<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref> As a [[Truegold]] from the [[Cloud Hammer sect]], she can employ dark clouds as an attack.<ref name="cradle-05-ghostwater-c2" /><ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref> While [[cycling]] [[madra]], wisps of dark cloud gathered around her armor.<ref name="cradle-05-ghostwater-c3" /> She sent a message to [[Bai Rou]] concerning the presence of multiple enemies, and she was also mentioned by [[Mercy]].<ref name="cradle-05-ghostwater-c4">''Ghostwater'', chapter 4</ref><ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|[[Renfei]] is a [[Skysworn]] with an authoritative voice.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Renfei]] is a [[Skysworn]] with an authoritative voice.<ref name="cradle-05-ghostwater-c2" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Renfei]] uses [[Cloud Hammer madra]].<ref name="cradle-05-ghostwater-c2" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Renfei]] is a character who can use dark cloud as an attack.<ref name="cradle-05-ghostwater-c2" />}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|[[Renfei]] was cycling [[madra]] that drew wisps of dark cloud around her armor.<ref name="cradle-05-ghostwater-c3">''Ghostwater'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Renfei]] was [[cycling]] [[madra]] that drew wisps of dark cloud around her armor.<ref name="cradle-05-ghostwater-c3" />}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Renfei]] was a [[Truegold]] from the [[Cloud Hammer sect]].<ref name="cradle-05-ghostwater-c3" />}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|[[Renfei]] sent a message to [[Bai Rou]] regarding multiple enemies.<ref name="cradle-05-ghostwater-c4">''Ghostwater'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|[[Renfei]] is someone [[Mercy]] mentioned.<ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Renfei]] sent a message to [[Bai Rou]] regarding multiple enemies.<ref name="cradle-05-ghostwater-c4" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Renfei]] is someone [[Mercy]] mentioned.<ref name="cradle-05-ghostwater-c7" />}}</li>
 </ul></div>
 
-== Underlord ==
+=== {{spoiler|book=cradle-06-underlord|Underlord}} ===
+{{spoiler|book=cradle-06-underlord|Renfei is an individual associated with [[Naru Gwei]].<ref name="cradle-06-underlord-c3">''Underlord'', chapter 3</ref> Though Renfei followed the [[Path of the Cloud Hammer]], they are now deceased.<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref><ref name="cradle-06-underlord-c16">''Underlord'', chapter 16</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[Renfei]] is a person [[Naru Gwei]] is involved with.<ref name="cradle-06-underlord-c3">''Underlord'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[Renfei]] is dead.<ref name="cradle-06-underlord-c4">''Underlord'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[Renfei]] has the [[Path of the Cloud Hammer]].<ref name="cradle-06-underlord-c16">''Underlord'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Renfei]] is a person [[Naru Gwei]] is involved with.<ref name="cradle-06-underlord-c3" />}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Renfei]] is dead.<ref name="cradle-06-underlord-c4" />}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Renfei]] has the [[Path of the Cloud Hammer]].<ref name="cradle-06-underlord-c16" />}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -76,4 +86,3 @@
 [[Category:Underlord]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Viewpoint characters]]

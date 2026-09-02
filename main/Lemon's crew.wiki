@@ -2,13 +2,13 @@
 
 {{Infobox group
 | name = Lemon's crew
-| introduced = The Pilot
+| introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|Every member of [[Lemon's crew]] is a Nova-Bot.<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Every member of [[Lemon's crew]] is a Nova-Bots{{!}}Nova-Bot.<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}</li>
 </ul></div>
 
 == Notes ==

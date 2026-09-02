@@ -1,6 +1,6 @@
 {{Infobox event
 | name = Trial
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 == Unsouled ==
@@ -12,7 +12,7 @@
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|The [[Trial]] is an ancient training course.<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Trial]] is an ancient [[training course]].<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Trial]] lasts six weeks for [[Lindon]].<ref name="cradle-03-blackflame-c15">''Blackflame'', chapter 15</ref>}}</li>
 </ul></div>
 

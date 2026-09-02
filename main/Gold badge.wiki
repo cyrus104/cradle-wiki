@@ -2,13 +2,13 @@
 
 {{Infobox artifact
 | name = gold badge
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|[[Adama]] commissioned a [[gold badge]] carved with the emblem of a [[sword]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Timaias Adama{{!}}Adama commissioned a [[gold badge]] carved with the emblem of a [[sword]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -18,6 +18,5 @@
 
 [[Category:Artifacts]]
 [[Category:Wintersteel]]
-[[Category:Unsouled]]
 [[Category:Cradle]]
 [[Category:Cradle artifacts]]

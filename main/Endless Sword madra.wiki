@@ -1,6 +1,6 @@
 {{Infobox madra
 | name = Endless Sword madra
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 == Blackflame ==
@@ -12,7 +12,7 @@
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[Yerin]]'s tent contains slowly cycling [[Endless Sword madra]].<ref name="cradle-06-underlord-c12">''Underlord'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Yerin]]'s tent contains slowly [[cycling]] [[Endless Sword madra]].<ref name="cradle-06-underlord-c12">''Underlord'', chapter 12</ref>}}</li>
 </ul></div>
 
 == Wintersteel ==

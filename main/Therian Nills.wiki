@@ -10,7 +10,16 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-08-wintersteel|Therian Nills, also known as Therian, is a member of the [[Stormcallers]]. Formerly an ordinary man who had lost everything, he was taken in and trained by the [[Stormcallers]], a group that follows the [[Dreadgod]] to capture its unique [[madra]] and utilize divine techniques to take [[madra]] from others. As a chosen of [[Reigan Shen]], Therian participated in a tournament where he faced Ziel of the [[Dawnwing Sect]], who was chosen by [[Northstrider]]. During this match, Therian utilized a pair of long spears emitting yellow light and displayed lightning-like rings around his arms. Despite appearing to struggle against Ziel's hammer, the combat ended when Ziel crushed Therian's head, causing his body and blood to dissolve into white light.}}
+{{spoiler|book=cradle-08-wintersteel|Therian Nills, also known as Therian, was a member of the [[Stormcallers]]. Originally an ordinary man who had lost everything, he was taken in, trained, and sheltered by the [[Stormcallers]], a group that follows the [[Dreadgod]] to capture its unique [[madra]] and utilize divine techniques to take [[madra]] from others. As a chosen of [[Reigan Shen]], Therian participated in a [[tournament]] where he faced Ziel of the Wasteland{{!}}Ziel of the [[Dawnwing Sect]], who was chosen by [[Northstrider]]. During this match, Therian struggled significantly against Ziel of the Wasteland{{!}}Ziel's hammer, appearing heavily injured throughout the fight. The bout concluded when Ziel of the Wasteland{{!}}Ziel crushed Therian's head, causing his body and [[blood]] to dissolve into [[white light]].}}
+
+== Appearance ==
+{{spoiler|book=cradle-08-wintersteel|Therian Nills carries a pair of long spears that are covered in a smooth yellow light. He is an ordinary man who comes from a lineage of farmers.}}
+
+== Personality ==
+{{spoiler|book=cradle-08-wintersteel|A former farmer and son of farmers, Therian Nills is a chosen of [[Reigan Shen]] and the [[Stormcallers]]. He has expressed a desire to have joined [[Calan Archer]] if given the opportunity.}}
+
+== Abilities ==
+{{spoiler|book=cradle-08-wintersteel|Therian Nills has undergone an [[Underlord transformation]]. He utilizes a pair of long spears that crawl with smooth yellow light as his weapons.}}
 
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -19,7 +28,7 @@
 </ul></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|Originally an ordinary man born to a family of farmers, Therian Nills eventually underwent an [[Underlord transformation]]. As a chosen of [[Reigan Shen]], he wields a pair of long spears that are characterized by a smooth yellow light. Though his path diverged from others, he would have joined [[Calan Archer]] if the opportunity had been permitted.}}
+{{spoiler|book=cradle-08-wintersteel|Originally an ordinary man born to a family of farmers, Therian Nills eventually underwent an [[Underlord transformation]]. As a chosen of [[Reigan Shen]], he wields a pair of long spears that are characterized by a crawling, smooth yellow light. Though his path diverged from others, he would have joined [[Calan Archer]] if the opportunity had been allowed.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -27,7 +36,7 @@
 <li>{{spoiler|book=cradle-08-wintersteel|[[Therian Nills]] has undergone an [[Underlord transformation]].<ref name="cradle-08-wintersteel-c5" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Therian Nills]] is a chosen of [[Reigan Shen]].<ref name="cradle-08-wintersteel-c5" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Therian Nills]]'s weapons are a pair of long spears that crawl with smooth yellow light.<ref name="cradle-08-wintersteel-c5" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|Therian would have joined [[Calan Archer]] if allowed.<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Therian Nills{{!}}Therian would have joined [[Calan Archer]] if allowed.<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -40,5 +49,3 @@
 [[Category:Wintersteel]]
 [[Category:Cradle]]
 [[Category:Cradle characters]]
-[[Category:Stormcallers]]
-[[Category:Titled characters]]

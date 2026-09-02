@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = dawnfruit
+| introduced = [[Unsouled (novel)|Unsouled]]
+}}
+
+== Unsouled ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-01-unsouled|Dawnfruit is described as looking like a miniature golden pear.<ref name="cradle-01-unsouled-c15">''Unsouled'', chapter 15</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Unsouled]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

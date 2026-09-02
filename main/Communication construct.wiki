@@ -1,0 +1,40 @@
+{{Infobox artifact
+| name = communication construct
+| introduced = [[Underlord (novel)|Underlord]]
+}}
+
+== Overview ==
+{{spoiler|book=cradle-12-waybound|Communication [[constructs]] are specialized tools used to transmit messages and thoughts over distances. They function by projecting words or mental impressions directly into the minds of recipients, sometimes even reaching a person's soul. While some versions can facilitate instantaneous communication between different entities, others may have limited range and efficiency. These [[constructs]] are not simple or disposable items; they can be complex enough to possess a level of consciousness and personality, allowing them to speak or respond. They can be integrated into armor, used as standalone items in a pocket, or part of larger networks within structures like cloud fortresses. Users can activate them using [[madra]] to send specific commands or broadcast information, though some methods of transmission may inadvertently project images into the surrounding air for others to see.}}
+
+== Underlord ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-06-underlord|[[Lindon]] has a butterfly-shaped [[communication construct]] on his bracer.<ref name="cradle-06-underlord-c18">''Underlord'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|Communication [[constructs]] are being passed out.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Mercy]] uses a [[communication construct]] in her pocket.<ref name="cradle-09-bloodline-c13">''Bloodline'', chapter 13</ref>}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[Cladia]] uses a blue-and-white crystal [[communication construct]] to speak to [[Mercy]].<ref name="cradle-12-waybound-c15">''Waybound'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Mercy]]'s [[communication construct]] in her ear cracked and fell apart.<ref name="cradle-12-waybound-c15" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Larian's armor]] contains a [[communication construct]].<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Underlord]]
+[[Category:Bloodline]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

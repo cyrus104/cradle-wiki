@@ -1,12 +1,12 @@
 {{Infobox group
 | name = Judges
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Judges Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|The Judges are a powerful and highly individualistic group of elite entities within the [[Abidan Court]]. Traditionally consisting of seven members, they serve as authoritative figures who oversee vast numbers of worlds and manage the stability of existence. While they often operate independently within their specific areas of expertise, they can act in unison to confront significant threats. Their roles involve making monumental decisions that balance the [[fate]] of countless lives, such as implementing world-spanning quarantines or authorizing programs like the [[Executors]] to remove existential threats. Individual Judges possess immense combat potential and unique specializations, though their specific power levels are kept confidential for security reasons. Notable members include [[Makiel]] (the [[Hound]]), who directs causality and [[fate]]; [[Ozriel]] (the [[Reaper]]), an irreplaceable figure associated with the [[Reaper Division]]; [[Suriel]] (the [[Phoenix]]), who acts as a vital mediator and bridge between other Judges; [[Gadrael]] (the [[Titan]]); [[Razael]] (the [[Wolf]]); [[Zerachiel]] (the [[Fox]]); and [[Telariel]] (the [[Spider]]). The group's authority is so absolute that they can influence the course of individual lives and command respect from even the most formidable beings, though they are occasionally targeted by high-level threats like [[the Mad King]] or specialized hunters.}}
+{{spoiler|book=cradle-13-threshold|The Judges are a powerful and highly individualistic group of elite entities within the [[Abidan Court]]. Typically numbering seven, these figures possess immense Authority{{!}}authority and combat potential, often operating independently within their specific areas of expertise. While they are known for being difficult to persuade and fiercely autonomous, they can act in unison to stabilize reality or confront major threats. Their presence alone can reinforce the stability of an [[Iteration]], and they are capable of making decisions that balance the Fate{{!}}fate of countless lives. Individual Judges hold distinct roles and titles, such as [[Makiel]] The Hound{{!}}the Hound, who serves as the [[Judge]] of [[Fate]] and possesses exceptional predictive abilities. Other members include Judge Suriel{{!}}Suriel The Phoenix{{!}}the Phoenix, who acts as a vital bridge for cooperation between other Judges; Ozriel, the celestial executioner and eighth [[Judge]]; [[Gadrael]] the [[Titan]]; [[Razael]] the [[Wolf]]; [[Zerachiel]] the [[Fox]]; and Telariel{{!}}Telariel the Spider. While they are often viewed as nearly invincible, certain entities like The Mad King{{!}}the Mad King or specialized groups like the [[Silverlords]] pose significant challenges to them. Despite their immense power, Judges can be targeted by specific traps designed to exploit the fact that they can only focus their full strength on one world at a time.}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -30,7 +30,7 @@
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|The [[Judges]] have never made an open call like [[Suriel]]'s.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Judges]] have never made an open call like Judge Suriel{{!}}Suriel's.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Judges]] are entities that [[Fiends of Chaos]] are powerful enough to contend with.<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Judges]] are responsible for keeping the [[Vroshir]] locked down.<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
 </ul></div>
@@ -39,7 +39,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Judges]] are unable to travel directly into the [[Hall of Judgment]].<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Ozriel]] has hidden from the [[Judges]] for centuries.<ref name="cradle-11-dreadgod-c1" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Ozriel has hidden from the [[Judges]] for centuries.<ref name="cradle-11-dreadgod-c1" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Judges]] can only focus their full power on one world at a time.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Judges]] are a group of beings that move to check [[Vroshir]] advances in different Sectors.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 </ul></div>
@@ -47,7 +47,7 @@
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|The [[Judges]] were engaged in a fight with [[the Mad King]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Judges]] were engaged in a fight with The Mad King{{!}}the Mad King.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|There are three [[Judges]] present in the [[Iteration]].<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|Two [[Judges]] arranged for the protection of [[Cradle]].<ref name="cradle-12-waybound-c35">''Waybound'', chapter 35</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Judges]] are a group that includes [[Eithan]].<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>

@@ -8,7 +8,7 @@
 }}
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|The Knight is a specialized role within the starship known as [[The Last Horizon]], responsible for managing both internal and external security. This position encompasses the oversight of various shield systems and specific inner security protocols. The role is uniquely designed for individuals possessing a heroic temperament, specifically those willing to sacrifice themselves for their companions. A Knight serves as a conduit through which a master of [[Combat Arts]] can channel their abilities, providing the ship with a potent Aetheric pattern and significant energy to bolster its armor and shields. Furthermore, the Knight's influence enhances the vessel's close-range weaponry, such as point-defense turrets and plasma cutters. [[Raion Raithe]] is identified as a [[Knight of The Last Horizon]].}}
+{{spoiler|book=lh-04-the-pilot|The Knight is a specialized role within the starship known as [[The Last Horizon]], responsible for managing both internal and external security. This position oversees various shield systems and specific inner security protocols. The role is uniquely designed for individuals possessing a heroic temperament and a willingness to [[sacrifice]] themselves for their companions. A Knight serves as a conduit through which a master of [[Combat Arts]] can channel their abilities, providing the ship with significant energy and a robust Aetheric pattern to strengthen its armor and shields. Furthermore, the Knight's [[Combat Art]] enhances the vessel's close-range weaponry, such as its [[point-defense turrets]] and [[plasma cutters]]. [[Raion Raithe]] is identified as a [[Knight of The Last Horizon]].}}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -22,7 +22,7 @@
 <li>{{spoiler|book=lh-03-the-knight|The narrator has a Knight to check on.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The Knight channels power through short-range weapons.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The narrator has a Knight they must stop from doing something stupid.<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|It is the Knight's job to defend their crew with their [[life]].<ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|It is the Knight's job to defend their crew with their life.<ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref>}}</li>
 </ul></div>
 
 == The Pilot ==
@@ -43,4 +43,3 @@
 [[Category:The Pilot]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon characters]]
-[[Category:Titled characters]]

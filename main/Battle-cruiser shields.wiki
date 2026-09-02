@@ -1,0 +1,21 @@
+{{Expand}}
+
+{{Infobox construct
+| name = battle-cruiser shields
+| introduced = [[The Captain (novel)|The Captain]]
+}}
+
+== The Captain ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-01-the-captain|The [[battle-cruiser shields]] were dangerously unstable.<ref name="lh-01-the-captain-c27">''The Captain'', chapter 27</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Constructs]]
+[[Category:The Captain]]
+[[Category:The Last Horizon]]

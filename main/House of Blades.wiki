@@ -1,13 +1,14 @@
+<div class="hatnote wv-hatnote">''This article is about the place. For the novel, see [[House of Blades (novel)|''House of Blades'']].''</div>
 {{Infobox location
 | name = House of Blades
-| introduced = The Crimson Vault
+| introduced = [[The Crimson Vault (novel)|The Crimson Vault]]
 }}
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|The [[House]] of Blades is a significant location and source of power associated with [[Valinhall]]. It serves as a repository for various abilities, allowing individuals to bolster their physical resilience by strengthening muscles and bones, hardening skin, neutralizing toxins, accelerating healing, or mitigating pain and physical strikes. While it offers extensive protection against bodily harm, it provides limited defense against mental assaults. The structure contains several distinct areas, including an entry hall with weapon racks, a hallway, bedrooms, and a graveyard. It is also noted as being a unique neutral ground where individuals can meet without fear of being watched. Within [[the House]], certain rules regarding weaponry apply; while [[Travelers]] in external territories can call their weapons from [[the House]], those physically located inside cannot summon blades from the outside. Additionally, specific weapons like Dragon's Fangs can be moved between territories to prevent them from being banished back to [[Valinhall]] unless the weapons are touched directly.}}
+{{spoiler|book=tg-03-city-of-light|House{{!}}The House of Blades is a significant location that serves as a source of immense power for [[Valinhall Travelers]]. It functions as a repository from which these individuals can summon their weapons into the outside world, though [[Travelers]] located within [[the House]] itself are unable to call blades from external sources. The structure provides various physical enhancements and defensive capabilities, allowing a user to bolster their strength, accelerate healing, neutralize toxins, and resist physical strikes. However, it offers limited protection against mental assaults. House{{!}}The House contains several distinct areas, including an [[entry hall]] with weapon racks, a [[graveyard]], and private living quarters. It also serves as a rare neutral ground where individuals can meet without fear of being watched. The facility is subject to political and military importance, as controlling or destroying it is a strategic goal for those seeking to undermine [[Valinhall Travelers]].}}
 
 == City of Light ==
-{{spoiler|book=tg-03-city-of-light|The [[House]] of Blades serves as a faction engaged in conflict against the [[City of Light]]. Within its halls, which feature hallways and floors composed of neat squares of smoothly polished tile, [[Ilana]] might have found greater safety. During his journey, [[Indirial]] experienced a mental opening comparable to walking through [[the House]] of Blades while he was present in its hallway. Ultimately, the location provides a unique neutral ground where [[Simon]], [[Alin]], and [[Leah]] are able to meet without being observed.}}
+{{spoiler|book=tg-03-city-of-light|House{{!}}The House of Blades serves as a faction engaged in conflict against the [[City of Light]]. Within this location, which features hallways and floors composed of neat squares of smoothly polished tile, [[Ilana]] might have found greater safety. During his journey, [[Indirial]] experienced a mental opening comparable to walking through [[the House]] of Blades while he was present in its hallways. Ultimately, the site functions as the sole neutral ground where [[Simon]], [[Alin]], and [[Leah]] are able to convene without observation.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -28,4 +29,3 @@
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate locations]]
-[[Category:Structures]]

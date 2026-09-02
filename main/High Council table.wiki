@@ -2,13 +2,13 @@
 
 {{Infobox artifact
 | name = High Council table
-| introduced = Of Shadow and Sea
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[High Council table]] is an ancient artifact created by the greatest [[Readers]] and alchemists of the early [[Empire]].<ref name="ee-shadow-01-of-shadow-and-sea-c23">''Of Shadow and Sea'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[High Council table]] is an ancient artifact created by the greatest [[Readers]] and Alchemists{{!}}alchemists of the early Empire.<ref name="ee-shadow-01-of-shadow-and-sea-c23">''Of Shadow and Sea'', chapter 23</ref>}}</li>
 </ul></div>
 
 == Notes ==

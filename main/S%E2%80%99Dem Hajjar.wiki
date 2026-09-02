@@ -2,13 +2,13 @@
 
 {{Infobox group
 | name = S’Dem Hajjar
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|Shyrax has trained with the [[S’Dem Hajjar]] in the art of distraction.<ref name="lh-03-the-knight-c42">''The Knight'', chapter 42</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax has trained with the [[S’Dem Hajjar]] in the art of distraction.<ref name="lh-03-the-knight-c42">''The Knight'', chapter 42</ref>}}</li>
 </ul></div>
 
 == Notes ==

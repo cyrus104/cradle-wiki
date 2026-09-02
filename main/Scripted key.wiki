@@ -1,0 +1,22 @@
+{{Expand}}
+
+{{Infobox artifact
+| name = scripted key
+| introduced = [[Dreadgod (novel)|Dreadgod]]
+}}
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|A tiny [[scripted key]] hanging from a string can create a circular doorway in midair.<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Dreadgod]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

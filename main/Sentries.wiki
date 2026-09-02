@@ -11,7 +11,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Sentries]] are larger and smarter than [[Pawns]] and are typically made from a single corpse.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|A Sentry is part of the standard crew complement for an [[Iron Legion]] Penetrator.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|A Sentries{{!}}Sentry is part of the standard crew complement for an [[Iron Legion]] Penetrator.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
 </ul></div>
 
 == Notes ==

@@ -2,14 +2,14 @@
 
 {{Infobox concept
 | name = Executors
-| introduced = Bloodline
+| introduced = [[Bloodline (novel)|Bloodline]]
 }}
 
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Ozriel]] was raising [[Executors]].<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Executors]] are beings that [[Ozriel]] suggests could be used to destroy [[Fiend]] summoners.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|Ozriel was raising [[Executors]].<ref name="cradle-11-dreadgod-c1">''Dreadgod'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Executors]] are beings that Ozriel suggests could be used to destroy [[Fiend]] summoners.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -24,4 +24,3 @@
 [[Category:Dreadgod]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Lifeforms]]

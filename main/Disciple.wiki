@@ -1,0 +1,23 @@
+{{Expand}}
+
+{{Infobox character
+| name = disciple
+| appears_in = Cradle
+| introduced = [[Skysworn (novel)|Skysworn]]
+}}
+
+== Skysworn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-04-skysworn|[[Eithan]] has a [[disciple]] who has lost an arm.<ref name="cradle-04-skysworn-c6">''Skysworn'', chapter 6</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Characters]]
+[[Category:Skysworn]]
+[[Category:Cradle]]
+[[Category:Cradle characters]]

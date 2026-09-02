@@ -2,13 +2,13 @@
 
 {{Infobox concept
 | name = Founder
-| introduced = City of Light
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|The [[Eldest]] hopes to walk away with a new [[Founder]].<ref name="tg-03-city-of-light-c20">''City of Light'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|Eldest{{!}}The Eldest hopes to walk away with a new [[Founder]].<ref name="tg-03-city-of-light-c20">''City of Light'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|A [[Founder]] is needed to take charge of [[Valinhall]].<ref name="tg-03-city-of-light-c25">''City of Light'', chapter 25</ref>}}</li>
 </ul></div>
 
@@ -21,4 +21,3 @@
 [[Category:City of Light]]
 [[Category:Traveler's Gate]]
 [[Category:Traveler's Gate concepts]]
-[[Category:Titles]]

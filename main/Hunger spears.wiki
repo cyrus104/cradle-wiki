@@ -1,0 +1,33 @@
+{{Infobox artifact
+| name = hunger spears
+| introduced = [[Dreadgod (novel)|Dreadgod]]
+}}
+
+== Overview ==
+{{spoiler|book=cradle-12-waybound|Hunger spears are specialized weapons crafted from pure [[white hunger madra]]. These devices feature etched [[scripts]] designed to channel the energy of the [[madra]] directly into an attacker. While versions originally intended for [[Gold-level]] soldiers exist within labyrinth{{!}}the labyrinth, they can be upgraded or recreated for more advanced combatants. Some iterations of these weapons are reinforced with additional frames, and certain models possess unique internal binding{{!}}bindings, such as the [[Blighted Sky]], which can release a wide array of destructive orange spikes. These weapons are capable of delivering immense power, sometimes rivaling the strength of an [[Archlord]]'s strike.}}
+
+== Dreadgod ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-11-dreadgod|Hunger spears are stored in labyrinth{{!}}the labyrinth.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The hunger spears{{!}}hunger spear is an object that can be pulled from [[Yerin]]'s soul.<ref name="cradle-11-dreadgod-c9">''Dreadgod'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The hunger spears{{!}}hunger spear can be filled with [[pure madra]].<ref name="cradle-11-dreadgod-c14">''Dreadgod'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Yerin]] uses a hunger spears{{!}}hunger spear.<ref name="cradle-11-dreadgod-c14" />}}</li>
+</ul></div>
+
+== Waybound ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] gifted [[Jai Chen]] a hunger spears{{!}}hunger spear.<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Artifacts]]
+[[Category:Dreadgod]]
+[[Category:Waybound]]
+[[Category:Cradle]]
+[[Category:Cradle artifacts]]

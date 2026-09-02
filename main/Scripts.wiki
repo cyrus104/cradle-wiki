@@ -1,4 +1,45 @@
-#REDIRECT [[scripts]]
+{{Infobox sacred-art
+| name = scripts
+| introduced = [[Soulsmith (novel)|Soulsmith]]
+}}
+
+== Overview ==
+{{spoiler|book=cradle-09-bloodline|Scripts are patterns or shapes used to guide and manipulate [[madra]]. They function as drawings that can be etched into various materials, ranging from loose soil and wood to metal, [[stone]], and bedrock. While they are less complex than binding{{!}}bindings—which are described as three-dimensional like statues—scripts serve to activate, control, or modify the effects of other objects and powers. They can be used to create protective wards, power flying weapons, facilitate vision, or manage the functions of complex machinery like cloudships. Scripts can interact with different types of [[aura]] and [[madra]], though their efficiency varies depending on the material they are inscribed upon and the specific [[aspects]] of energy they process. They can be used to power [[constructs]], which are essentially puppets driven by a central [[binding]] but refined by additional scripts. Depending on their [[scale]] and power source, scripts can range from small, delicate markings to massive, miles-long networks etched into the earth. However, scripts are subject to physical limitations; if a Script{{!}}script is too powerful for its medium, it can cause the material to crack, deform, or break.}}
+
+== Soulsmith ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-02-soulsmith|scripts{{!}}Scripts are shapes that guide [[madra]].<ref name="cradle-02-soulsmith-c11">''Soulsmith'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Blackflame ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-03-blackflame|scripts{{!}}Scripts can be used to customize and tweak [[construct]] functions.<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
+</ul></div>
+
+== Skysworn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-04-skysworn|scripts{{!}}Scripts can speed up the process of adjusting to a [[construct]] but will eventually restrict it.<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}</li>
+</ul></div>
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|scripts{{!}}Scripts contain and control the pieces that make the soldiers work.<ref name="cradle-07-uncrowned-c11">''Uncrowned'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|Basic [[scripts]] can repel [[madra]] and keep out [[Remnants]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
 
 [[Category:Sacred Arts]]
 [[Category:Soulsmith]]

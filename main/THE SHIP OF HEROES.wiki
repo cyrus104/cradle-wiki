@@ -1,6 +1,6 @@
 {{Infobox icon
 | name = THE SHIP OF HEROES
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
 == The Captain ==
@@ -12,8 +12,8 @@
 == The Engineer ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|The Ship of Heroes is a group that [[Starhammer]] can challenge.<ref name="lh-02-the-engineer-c23">''The Engineer'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|The Ship of Heroes is a comparison used for how [[Horizon]] went down.<ref name="lh-02-the-engineer-c48">''The Engineer'', chapter 48</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The THE SHIP OF HEROES{{!}}Ship of Heroes is a group that [[Starhammer]] can challenge.<ref name="lh-02-the-engineer-c23">''The Engineer'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The THE SHIP OF HEROES{{!}}Ship of Heroes is a comparison used for how [[Horizon]] went down.<ref name="lh-02-the-engineer-c48">''The Engineer'', chapter 48</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==

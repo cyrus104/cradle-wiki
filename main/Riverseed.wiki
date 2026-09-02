@@ -1,17 +1,17 @@
 {{Infobox concept
 | name = Riverseed
-| introduced = Blackflame
+| introduced = [[Blackflame (novel)|Blackflame]]
 }}
 
 ''See also: [[Riverseed Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|[[Sylvan]] [[Riverseeds]] are natural spirits that emerge from environments containing a perfectly balanced and extremely potent [[vital aura]]. Unlike [[Remnants]], which result from the passing of a [[sacred artist]], [[Riverseeds]] are formed through the accumulation of [[aura]]. They are characterized by their gentle nature and high degree of flexibility, allowing them to work with almost any aspect of power to provide support or supplementation. Because they are so malleable, skilled artisans can transform them into various items, including weapons, guides, power sources, guardians, elixirs, or even luxury beverages. In their unintelligent state, they can be utilized in the process of [[Soulsmithing]]. Individually, these spirits possess significant spiritual weight and can manifest with distinct personalities, communicating through chimes or squeaks. They are capable of interacting directly with a person's madra channels, often providing soothing or restorative effects to the spirit.}}
+{{spoiler|book=cradle-12-waybound|Sylvan Riverseed{{!}}Sylvan Riverseeds are natural spirits that emerge from locations where [[vital aura]] is both perfectly balanced and exceptionally potent. Unlike [[Remnants]], which result from the passing of a [[sacred artist]], [[Riverseeds]] are created by the accumulation of [[aura]]. They are characterized by their gentle nature and high degree of flexibility, allowing them to interact with and support almost any type of power. Because they are so malleable, skilled artisans can repurpose them into various forms, including weapons, guides, power sources, guardians, [[elixirs]], or even luxury beverages. In their unintelligent state, they can also serve as materials for [[Soulsmithing]] or assist in growing specific plants that require neutral [[aura]] environments. Individually, they possess significant spiritual weight and can exhibit personality through chimes, gestures, and emotional responses. They are capable of interacting with [[madra channels]] to soothe or stabilize them, and they can occupy substantial space within a person's [[soulspace]].}}
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|When infused with [[soulfire]], a [[Riverseed]]'s color changes from bright blue-green to deep sapphire.<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|When infused with [[soulfire]], a [[Riverseed]]'s color changes from bright blue-green to deep [[sapphire]].<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Riverseed]] is another name for [[Little Blue]].<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Sylvan Riverseed]] can be used to cleanse [[Orthos]].<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Riverseed]] is a [[Sylvan]].<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
@@ -52,4 +52,3 @@
 [[Category:Waybound]]
 [[Category:Cradle]]
 [[Category:Cradle concepts]]
-[[Category:Lifeforms]]

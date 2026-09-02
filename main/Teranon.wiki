@@ -1,6 +1,6 @@
 {{Infobox character
 | name = Teranon
-| abilities = {{spoiler|book=lh-01-the-captain|analysis spells}}{{spoiler|book=lh-04-the-pilot|, manifest an orange-ish magic circle over his eye to examine data}}
+| abilities = {{spoiler|book=lh-01-the-captain|analysis spells}}
 | titles = {{spoiler|book=lh-01-the-captain|[[Archmage]]}}{{spoiler|book=lh-03-the-knight|, advisor}}
 | affiliations = {{spoiler|book=lh-03-the-knight|Benri's team}}
 | professions = {{spoiler|book=lh-01-the-captain|mentor}}{{spoiler|book=lh-03-the-knight|, advisor}}
@@ -11,37 +11,48 @@
 ''See also: [[Teranon Timeline]]''
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|Teranon is a veteran [[Archmage]] and an elderly half-Aethril characterized by gray, star-speckled hair and skin with a subtle blue tint. He has served as a long-term mentor to [[Benri]] and has been associated with the [[Vallenar Corporation]] for many decades. Within his professional capacity, he possesses significant seniority and expertise in magical disciplines, including the use of divination, telekinesis, and vision-based spells. His responsibilities involve managing magical preparations, overseeing investigation teams, and analyzing data through [[Aetheric symbols]] or specialized magic circles. Teranon has also been involved in addressing serious matters such as potential treaty violations involving [[World Spirits]].}}
+{{spoiler|book=lh-04-the-pilot|Teranon is a seasoned [[Archmage]] and an elderly [[half-Aethril]], characterized by wrinkled skin with a subtle blue tint and gray hair containing star-like sparkles. He has served as a mentor to Benri Vallenar{{!}}Benri for many years and has maintained a long-standing professional relationship with the [[Vallenar Corporation]]. As a senior figure, he possesses significant Authority{{!}}authority and experience, though he has expressed concerns regarding the dangers of certain magical developments. His magical capabilities include the use of [[telekinesis]], divination, and specialized vision spells involving [[Aetheric symbols]] or magical lenses. Throughout his duties, he has been involved in investigating mysterious origins, managing magical preparations for teams, and addressing serious breaches of treaty involving [[World Spirits]].}}
 
-== The Captain ==
+== Appearance ==
+{{spoiler|book=lh-04-the-pilot|Teranon is a visibly aged [[half-Aethril]]. His gray hair contains lights that sparkle like stars.}}
+
+== Personality ==
+{{spoiler|book=lh-04-the-pilot|As a wise man and longtime [[Archmage]], Teranon serves as an expert advisor and friend to [[Benri Vallenar]]. He has acted as a mentor to Benri Vallenar{{!}}Benri and is a member of Benri Vallenar{{!}}Benri's team, though he does not hold a leadership role.}}
+
+== Abilities ==
+{{spoiler|book=lh-04-the-pilot|Teranon utilizes analysis spells to perform his work. He is capable of manifesting an orange-ish [[magic circle]] over his eye to examine data.}}
+
+== History ==
+=== {{spoiler|book=lh-01-the-captain|The Captain}} ===
+{{spoiler|book=lh-01-the-captain|Teranon is a wise, longtime [[Archmage]] who previously served as one of Benri Vallenar{{!}}Benri's mentors.<ref name="lh-01-the-captain-c2">''The Captain'', chapter 2</ref> A visibly aged [[half-Aethril]], he possesses hair filled with lights that sparkle like stars.<ref name="lh-01-the-captain-c2" /> During his interactions with Benri Vallenar{{!}}Benri and Varic Vallenar{{!}}Varic, he performs various analysis spells.<ref name="lh-01-the-captain-c2" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|[[Teranon]] is a wise man and a longtime [[Archmage]] who was one of [[Benri]]'s mentors.<ref name="lh-01-the-captain-c2">''The Captain'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|[[Teranon]] is a visibly aged half-Aethril with lights that sparkle like stars in his hair.<ref name="lh-01-the-captain-c2" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|[[Teranon]] is a character who interacts with [[Benri]] and [[Varic]].<ref name="lh-01-the-captain-c2" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Teranon]] is a wise man and a longtime [[Archmage]] who was one of Benri Vallenar{{!}}Benri's mentors.<ref name="lh-01-the-captain-c2" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Teranon]] is a visibly aged [[half-Aethril]] with lights that sparkle like stars in his hair.<ref name="lh-01-the-captain-c2" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Teranon]] is a character who interacts with Benri Vallenar{{!}}Benri and Varic Vallenar{{!}}Varic.<ref name="lh-01-the-captain-c2" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Teranon]] performs analysis spells.<ref name="lh-01-the-captain-c2" />}}</li>
 </ul></div>
 
-== The Knight ==
+=== {{spoiler|book=lh-03-the-knight|The Knight}} ===
+{{spoiler|book=lh-03-the-knight|Teranon is a [[half-Aethril]] who serves as an advisor to [[Benri Vallenar]].<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref> Additionally, Teranon is a member of Benri Vallenar{{!}}Benri's team.<ref name="lh-03-the-knight-c21" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|[[Teranon]] is a half-Aethril and an advisor to [[Benri Vallenar]].<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|[[Teranon]] is a member of [[Benri]]'s team.<ref name="lh-03-the-knight-c21" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Teranon]] is a [[half-Aethril]] and an advisor to [[Benri Vallenar]].<ref name="lh-03-the-knight-c21" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Teranon]] is a member of Benri Vallenar{{!}}Benri's team.<ref name="lh-03-the-knight-c21" />}}</li>
 </ul></div>
 
-== The Pilot ==
-{{spoiler|book=lh-04-the-pilot|As a friend and magical mentor to [[Benri]], Teranon serves as an expert in his field rather than a leader. His gray hair possesses a unique sparkle derived from his half-Aethril heritage, and he has the ability to manifest an orange magic circle over his eye to examine data. During a later interaction, [[Benri]] borrowed a spell from him and spoke with Teranon before a call concluded. At this time, Teranon remained unaware of the [[life]]-saving clone measure [[Benri]] had implemented.}}
-
+=== {{spoiler|book=lh-04-the-pilot|The Pilot}} ===
+{{spoiler|book=lh-04-the-pilot|Teranon is a friend and former magical mentor to Benri Vallenar{{!}}Benri.<ref name="lh-04-the-pilot-c5">''The Pilot'', chapter 5</ref> While he is considered an expert, he does not hold a leadership role.<ref name="lh-04-the-pilot-c5" /> He possesses gray hair that sparkles with the stars of a [[half-Aethril]] and has the ability to manifest an orange-ish [[magic circle]] over his eye to examine data.<ref name="lh-04-the-pilot-c11">''The Pilot'', chapter 11</ref> After Benri Vallenar{{!}}Benri borrowed a spell from him, Teranon spoke to Benri Vallenar{{!}}Benri before the call ended.<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref> At that time, Teranon was unaware of the life-saving clone measure involving Benri Vallenar{{!}}Benri.<ref name="lh-04-the-pilot-c39" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] is [[Benri]]'s friend.<ref name="lh-04-the-pilot-c5">''The Pilot'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] was one of [[Benri]]'s magical mentors.<ref name="lh-04-the-pilot-c5" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] is Benri Vallenar{{!}}Benri's friend.<ref name="lh-04-the-pilot-c5" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] was one of Benri Vallenar{{!}}Benri's magical mentors.<ref name="lh-04-the-pilot-c5" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] is an expert but not a leader.<ref name="lh-04-the-pilot-c5" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] has gray hair that sparkles with the stars of a half-Aethril.<ref name="lh-04-the-pilot-c11">''The Pilot'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] can manifest an orange-ish magic circle over his eye to examine data.<ref name="lh-04-the-pilot-c11" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Benri]] borrowed a spell from [[Teranon]].<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] spoke to [[Benri]] before the call ended.<ref name="lh-04-the-pilot-c39" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] was unaware of [[Benri]]'s [[life]]-saving clone measure.<ref name="lh-04-the-pilot-c39" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] has gray hair that sparkles with the stars of a [[half-Aethril]].<ref name="lh-04-the-pilot-c11" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] can manifest an orange-ish [[magic circle]] over his eye to examine data.<ref name="lh-04-the-pilot-c11" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Benri Vallenar{{!}}Benri borrowed a spell from [[Teranon]].<ref name="lh-04-the-pilot-c39" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] spoke to Benri Vallenar{{!}}Benri before the call ended.<ref name="lh-04-the-pilot-c39" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Teranon]] was unaware of Benri Vallenar{{!}}Benri's life-saving clone measure.<ref name="lh-04-the-pilot-c39" />}}</li>
 </ul></div>
 
 == Notable quotes ==
@@ -59,4 +70,3 @@
 [[Category:The Pilot]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon characters]]
-[[Category:Titled characters]]

@@ -1,15 +1,22 @@
-'''Vault''' may refer to:
+{{Expand}}
 
-* [[Vault (The Last Horizon)]]
-* [[Vault (The Traveler's Gate Trilogy)]]
+{{Infobox location
+| name = vault
+| introduced = [[Underlord (novel)|Underlord]]
+}}
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+== Underlord ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-06-underlord|[[Akura Charity]] swept her hand over a [[vault]].<ref name="cradle-06-underlord-c21">''Underlord'', chapter 21</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
 
 {{Cradle nav}}
 
-[[Category:Disambiguation]]
 [[Category:Locations]]
 [[Category:Underlord]]
 [[Category:Cradle]]
 [[Category:Cradle locations]]
-[[Category:Structures]]

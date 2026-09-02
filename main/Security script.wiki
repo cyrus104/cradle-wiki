@@ -1,0 +1,21 @@
+{{Expand}}
+
+{{Infobox technique
+| name = security script
+| introduced = [[Bloodline (novel)|Bloodline]]
+}}
+
+== Bloodline ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-09-bloodline|A [[security script]] in the street inside the gate traps [[Lindon]] and [[Yerin]].<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Techniques]]
+[[Category:Bloodline]]
+[[Category:Cradle]]

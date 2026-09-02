@@ -1,0 +1,22 @@
+{{Infobox location
+| name = separated space
+| introduced = [[Wintersteel (novel)|Wintersteel]]
+}}
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|The [[separated space]] opened by the tile is a temporary [[pocket world]] untethered from normal time.<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The temporary [[pocket world]] can support three to five people for one day before ejection.<ref name="cradle-08-wintersteel-c19" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Thirty-six days pass inside the temporary [[pocket world]] for every one day spent there.<ref name="cradle-08-wintersteel-c19" />}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Locations]]
+[[Category:Wintersteel]]
+[[Category:Cradle]]
+[[Category:Cradle locations]]
