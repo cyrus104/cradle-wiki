@@ -10,7 +10,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The narrator uses a [[plasma pistol]].<ref name="lh-01-the-captain-c13">''The Captain'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Sola Kalter{{!}}Sola utilizes a [[plasma pistol]] as a weapon.<ref name="lh-01-the-captain-c17">''The Captain'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Sola Kalter|Sola]] utilizes a [[plasma pistol]] as a weapon.<ref name="lh-01-the-captain-c17">''The Captain'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|A [[plasma pistol]] is a weapon that can pierce a hood.<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|Nelthan uses a pistol to aim at Vallenar.<ref name="lh-01-the-captain-c37">''The Captain'', chapter 37</ref>}}</li>
 </ul></div>

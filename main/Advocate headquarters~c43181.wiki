@@ -1,0 +1,33 @@
+{{Infobox location
+| name = Advocate headquarters
+| introduced = [[The Engineer (novel)|The Engineer]]
+}}
+
+== Overview ==
+{{spoiler|book=lh-04-the-pilot|The [[Advocate]] headquarters serves as the central base for [[the Advocates]], an organization that originated as a band of vigilantes before evolving into a group with quasi-official [[Authority|authority]] within the [[Free Worlds]]. The facility is described as a floating, disc-shaped city featuring a prominent central tower. It is a highly secure location, utilizing defenses comparable to top-tier corporate vaults and containing specialized areas such as secure hangars and lockups. Historically, the headquarters has been a site of significant internal conflict regarding whether the organization should expand its influence across the galaxy or remain within its original mandate. The site has also suffered physical and emotional damage following a battle between [[Starhammer]] and a [[Zenith Device]], leaving the structure in poor condition despite the presence of [[Aether Technician|Aether Technicians]].}}
+
+== The Engineer ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|[[Advocate headquarters]] is a destination mentioned by [[Omega]].<ref name="lh-02-the-engineer-c30">''The Engineer'', chapter 30</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Advocate headquarters]] is a floating disc-shaped city with a single tower.<ref name="lh-02-the-engineer-c50">''The Engineer'', chapter 50</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The interrogation of [[Varic Vallenar]] took place at the heart of [[Advocate headquarters]].<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Advocate headquarters]] is a colony.<ref name="lh-02-the-engineer-c53">''The Engineer'', chapter 53</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|[[Advocate headquarters|Advocate Headquarters]] was destroyed during a battle with [[Starhammer]].<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Locations]]
+[[Category:The Engineer]]
+[[Category:The Pilot]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon locations]]

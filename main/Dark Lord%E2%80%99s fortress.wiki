@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox location
 | name = Dark Lord’s fortress
-| introduced = Waybound
+| introduced = [[Waybound (novel)|Waybound]]
 }}
 
-== Waybound ==
-{{spoiler|book=cradle-12-waybound|The Dark [[Lord]]'s fortress contains a chamber where wizards cast spells.}}
-
 [[Category:Locations]]
-[[Category:Waybound]]

@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Ozmanthus’ Soulsmith inheritance
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
-== Reaper ==
-{{spoiler|book=cradle-10-reaper|[[Ozmanthus]]' [[Soulsmith inheritance]] is located at the bottom of [[the labyrinth]].}}
-
 [[Category:Artifacts]]
-[[Category:Reaper]]

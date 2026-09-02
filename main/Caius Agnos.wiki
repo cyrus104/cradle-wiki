@@ -2,7 +2,6 @@
 | name = Caius Agnos
 | aliases = Caius
 | spouse = {{spoiler|book=tg-03-city-of-light|[[Olissa Agnos]]}}
-| parents = {{spoiler|book=tg-01-house-of-blades|[[Lycus]]}}{{spoiler|book=tg-02-crimson-vault|, [[Andra Agnos|Andra]]}}
 | children = {{spoiler|book=tg-01-house-of-blades|[[Lycus]]}}{{spoiler|book=tg-02-crimson-vault|, [[Andra Agnos|Andra]]}}
 | professions = {{spoiler|book=tg-02-crimson-vault|trader}}{{spoiler|book=tg-03-city-of-light|, blacksmith}}
 | appears_in = Traveler's Gate
@@ -12,31 +11,34 @@
 ''See also: [[Caius Agnos Timeline]]''
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|Caius [[Agnos]], also known as [[Kai]], is a merchant and skilled craftsman who is part of the [[Agnos family]]. A balding man with a warm smile and a muscular build, he often wears a blacksmith's leather apron. While he was previously known as a trader of general supplies throughout the realms of [[Malachi]] and [[Deborah]], he has also demonstrated significant skill in metalworking, such as repairing armor plates and working at a forge. He is married to [[Olissa Agnos]], and together they have two children, [[Lycus]] and Andra Agnos{{!}}Andra. The family had intended to settle on a plot of land near the border, but their lives were disrupted by various conflicts. During a confrontation with an [[Incarnation]], Caius attempted to defend himself with a smith's hammer before being injured. He later suffered a severe wound to his right side that left him in a critical, semi-conscious state, requiring urgent healing.}}
+{{spoiler|book=tg-03-city-of-light|Caius [[Agnos]], also known as [[Kai]], is a merchant and skilled craftsman who is part of the [[Agnos family]]. A balding man with a warm smile and a muscular build, he often wears a blacksmith's leather apron. While he was previously known as a trader of general supplies throughout the realms of [[Malachi]] and [[Deborah]], he has also demonstrated significant skill in metalworking, such as repairing armor plates and working at a forge. He is married to [[Olissa Agnos]], and together they have two children, [[Lycus]] and [[Andra Agnos|Andra]]. The family had intended to settle on a plot of land near the border, but their lives were disrupted by various conflicts. During a confrontation with an [[Incarnation]], Caius attempted to defend himself with a smith's hammer before being injured. He later suffered a severe wound to his right side that left him in a critical, semi-conscious state, requiring urgent healing.}}
+
+== Relationships ==
+{{spoiler|book=tg-03-city-of-light|Caius is the husband of [[Olissa Agnos]]. He is also the father of [[Lycus]] and [[Andra Agnos|Andra]].}}
 
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|Caius Agnos{{!}}Caius stands at the edge of a [[ring]] of firelight with Olissa Agnos{{!}}Olissa.<ref name="tg-01-house-of-blades-c14">''House of Blades'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=tg-01-house-of-blades|Caius Agnos{{!}}Caius is a person who carries large crates in the camp.<ref name="tg-01-house-of-blades-c14" />}}</li>
-<li>{{spoiler|book=tg-01-house-of-blades|Caius Agnos{{!}}Caius is a person in the wagon with a great dark stain on his right side.<ref name="tg-01-house-of-blades-c15">''House of Blades'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=tg-01-house-of-blades|Caius Agnos{{!}}Caius was carried into [[Valinhall]] by Olissa Agnos{{!}}Olissa and [[Lycus]].<ref name="tg-01-house-of-blades-c15" />}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Caius Agnos|Caius]] stands at the edge of a [[ring]] of firelight with [[Olissa Agnos|Olissa]].<ref name="tg-01-house-of-blades-c14">''House of Blades'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Caius Agnos|Caius]] is a person who carries large crates in the camp.<ref name="tg-01-house-of-blades-c14" />}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Caius Agnos|Caius]] is a person in the wagon with a great dark stain on his right side.<ref name="tg-01-house-of-blades-c15">''House of Blades'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Caius Agnos|Caius]] was carried into [[Valinhall]] by [[Olissa Agnos|Olissa]] and [[Lycus]].<ref name="tg-01-house-of-blades-c15" />}}</li>
 </ul></div>
 
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-02-crimson-vault|Caius Agnos{{!}}Caius is [[Lycus]] and Andra Agnos{{!}}Andra's father.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|Caius Agnos{{!}}Caius is a [[Damascan]] trader.<ref name="tg-02-crimson-vault-c2" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Caius Agnos|Caius]] is [[Lycus]] and Andra Agnos{{!}}Andra's father.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Caius Agnos|Caius]] is a [[Damascan]] trader.<ref name="tg-02-crimson-vault-c2" />}}</li>
 </ul></div>
 
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-03-city-of-light|[[Caius Agnos]] is Olissa Agnos{{!}}Olissa's husband and a blacksmith.<ref name="tg-03-city-of-light-c8">''City of Light'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|Caius Agnos{{!}}Caius is the husband of [[Olissa Agnos]].<ref name="tg-03-city-of-light-c8" />}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|Caius Agnos{{!}}Caius was holding onto a table to catch his breath.<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|Caius Agnos{{!}}Caius was present in [[Simon]]'s bedroom.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Caius Agnos|Caius]] is the husband of [[Olissa Agnos]].<ref name="tg-03-city-of-light-c8" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Caius Agnos|Caius]] was holding onto a table to catch his breath.<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Caius Agnos|Caius]] was present in [[Simon]]'s bedroom.<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
 </ul></div>
 
 == Notes ==

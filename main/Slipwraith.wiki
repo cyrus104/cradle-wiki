@@ -9,7 +9,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|A [[slipwraith]] resembles a humanoid figure of transparent plastic film, hundreds of yards long with innumerable whip-thin arms.<ref name="lh-02-the-engineer-c9">''The Engineer'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Raion Raithe{{!}}Raion and [[Omega]] must fight or drive away a [[slipwraith]].<ref name="lh-02-the-engineer-c9" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Raion Raithe|Raion]] and [[Omega]] must fight or drive away a [[slipwraith]].<ref name="lh-02-the-engineer-c9" />}}</li>
 </ul></div>
 
 == Notes ==

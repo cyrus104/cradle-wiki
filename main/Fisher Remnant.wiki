@@ -8,7 +8,7 @@
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|A [[Fisher Remnant]] was used by [[Lindon]] and Fisher Gesha{{!}}Gesha for dissection.<ref name="cradle-04-skysworn-c4">''Skysworn'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|A [[Fisher Remnant]] was used by [[Lindon]] and [[Fisher Gesha|Gesha]] for dissection.<ref name="cradle-04-skysworn-c4">''Skysworn'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|A [[Fisher Remnant]] arm can have a Snare [[binding]].<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}</li>
 </ul></div>
 

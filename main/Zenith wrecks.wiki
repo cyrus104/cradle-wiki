@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox construct
 | name = Zenith wrecks
-| introduced = The Captain
+| introduced = [[The Captain (novel)|The Captain]]
 }}
 
-== The Captain ==
-{{spoiler|book=lh-01-the-captain|[[Zenith wrecks]] are early spacefaring vehicle wreckage found on [[Dornoth IV]].}}
-
 [[Category:Constructs]]
-[[Category:The Captain]]

@@ -18,7 +18,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Yerin]] and [[Eithan]] use cloudships.<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|The [[cloudship]] was damaged by gold black dragon's breath{{!}}dragon's breath.<ref name="cradle-07-uncrowned-c8" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[cloudship]] was damaged by gold [[black dragon's breath|dragon's breath]].<ref name="cradle-07-uncrowned-c8" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[cloudship]] is run by a network of [[scripts]] and [[constructs]].<ref name="cradle-07-uncrowned-c8" />}}</li>
 </ul></div>
 

@@ -4,7 +4,7 @@
 }}
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Guild]] of Witnesses is an [[Imperial]] organization dedicated to the impartial recording and verification of historical events. Functioning as a source of truth, the [[Guild]] provides accurate descriptions of significant occurrences, which can influence public opinion and political stability across The Empire{{!}}the Empire. Their reports are highly influential; for example, they can verify or deny stories released by other entities and provide official documentation for major events like the appointment of an [[Imperial]] heir. Because they speak only the unvarnished truth, their testimony can be used to expose lies or hold other factions accountable. Members of the [[Guild]] typically operate in pairs consisting of two distinct roles: [[Chroniclers]], who are responsible for transcribing and memorizing information, and [[Silent Ones]], who serve as protectors for the [[Chroniclers]]. [[Chroniclers]] are identified by the wax candles they carry at their waists, while [[Silent Ones]] keep their mouths covered and are equipped with various weapons. [[The Guild]] is led by twin heads, Azea Farstrider{{!}}Azea and [[Calazan Farstrider]], who are notable for their ability to perform both roles interchangeably. The leadership is characterized by their shared appearance, featuring pale hair and similar attire consisting of loose-fitting clothing tied at the wrists and ankles.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Guild]] of Witnesses is an [[Imperial]] organization dedicated to the impartial recording and verification of historical events. Functioning as a source of truth, the [[Guild]] provides accurate descriptions of significant occurrences, which can influence public opinion and political stability across [[The Empire|the Empire]]. Their reports are highly influential; for example, they can verify or deny stories released by other entities and provide official documentation for major events like the appointment of an [[Imperial]] heir. Because they speak only the unvarnished truth, their testimony can be used to expose lies or hold other factions accountable. Members of the [[Guild]] typically operate in pairs consisting of two distinct roles: [[Chroniclers]], who are responsible for transcribing and memorizing information, and [[Silent Ones]], who serve as protectors for the [[Chroniclers]]. [[Chroniclers]] are identified by the wax candles they carry at their waists, while [[Silent Ones]] keep their mouths covered and are equipped with various weapons. [[The Guild]] is led by twin heads, [[Azea Farstrider|Azea]] and [[Calazan Farstrider]], who are notable for their ability to perform both roles interchangeably. The leadership is characterized by their shared appearance, featuring pale hair and similar attire consisting of loose-fitting clothing tied at the wrists and ankles.}}
 
 == Of Sea and Shadow ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -15,7 +15,7 @@
 == Of Dawn and Darkness ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Guild of Witnesses{{!}}Witness’ Guild supervises tutors to ensure everyone can understand [[Imperial]].<ref name="ee-sea-02-of-dawn-and-darkness-c1">''Of Dawn and Darkness'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Guild of Witnesses|Witness’ Guild]] supervises tutors to ensure everyone can understand [[Imperial]].<ref name="ee-sea-02-of-dawn-and-darkness-c1">''Of Dawn and Darkness'', chapter 1</ref>}}</li>
 </ul></div>
 
 == Of Kings and Killers ==
@@ -23,13 +23,13 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Guild of Witnesses]] records and distributes records of historic occurrences.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Guild of Witnesses]] is led by twin Heads [[Calazan and Azea Farstrider]].<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Guild of Witnesses{{!}}Witness’ Guild is an organization.<ref name="ee-sea-03-of-kings-and-killers-c16">''Of Kings and Killers'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Guild of Witnesses|Witness’ Guild]] is an organization.<ref name="ee-sea-03-of-kings-and-killers-c16">''Of Kings and Killers'', chapter 16</ref>}}</li>
 </ul></div>
 
 == Of Killers and Kings ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Heads of the Guild of Witnesses{{!}}Witness’ Guild perform the roles of Chronicler and [[Silent One]] interchangeably.<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Heads of the [[Guild of Witnesses|Witness’ Guild]] perform the roles of Chronicler and [[Silent One]] interchangeably.<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Guild of Witnesses]] speaks the unvarnished truth.<ref name="ee-shadow-03-of-killers-and-kings-c10">''Of Killers and Kings'', chapter 10</ref>}}</li>
 </ul></div>
 

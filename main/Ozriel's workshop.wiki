@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox location
 | name = Ozriel's workshop
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
-== Reaper ==
-{{spoiler|book=cradle-10-reaper|[[Ozriel's workshop]] contains the sounds of failure after [[Reigan Shen]] dropped into the abyss.}}
-
 [[Category:Locations]]
-[[Category:Reaper]]

@@ -25,7 +25,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|Constructs can be stored in a [[soulspace]].<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|sacred instrument{{!}}Sacred instruments must be carried in a [[soulspace]].<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[sacred instrument|Sacred instruments]] must be carried in a [[soulspace]].<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|Items can be kept in [[soulspace]].<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
 </ul></div>
 
@@ -41,8 +41,8 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] drew his bow into his [[soulspace]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|Reigan Shen{{!}}Reigan can reach his [[spiritual perception]] into his [[soulspace]].<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|soulspace{{!}}Soulspace is a place where items like hammers can be stored.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Reigan Shen|Reigan]] can reach his [[spiritual perception]] into his [[soulspace]].<ref name="cradle-12-waybound-c22">''Waybound'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[soulspace|Soulspace]] is a place where items like hammers can be stored.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] can produce items from his [[soulspace]].<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>
 </ul></div>
 

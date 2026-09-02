@@ -24,7 +24,7 @@
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|The [[Nethergate]] is the exit to labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c21">''Reaper'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The [[Nethergate]] is the exit to [[labyrinth|the labyrinth]].<ref name="cradle-10-reaper-c21">''Reaper'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Nethergate]] is a location that can crack or swing open.<ref name="cradle-10-reaper-c21" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|The [[Nethergate]] is a gate that [[Yerin]] and [[Eithan]] approached.<ref name="cradle-10-reaper-c24">''Reaper'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Reigan Shen]] exited through the [[Nethergate]].<ref name="cradle-10-reaper-c24" />}}</li>
@@ -34,7 +34,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|The [[Nethergate]] is a [[giant]] [[stone]] door carved with the image of the [[Slumbering Wraith]].<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] and Naru Cassias Arelius{{!}}Cassias watched an exodus from the [[Nethergate]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] and [[Naru Cassias Arelius|Cassias]] watched an exodus from the [[Nethergate]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
 </ul></div>
 
 == Waybound ==

@@ -12,7 +12,7 @@
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-01-unsouled|sacred arts{{!}}Sacred arts are the path of refining a [[spirit]] and pursuing connection to all of creation.<ref name="cradle-01-unsouled-c4">''Unsouled'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[sacred arts|Sacred arts]] are the path of refining a [[spirit]] and pursuing connection to all of creation.<ref name="cradle-01-unsouled-c4">''Unsouled'', chapter 4</ref>}}</li>
 </ul></div>
 
 == Soulsmith ==
@@ -20,19 +20,19 @@
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|sacred arts{{!}}Sacred arts involve advancing through realms.<ref name="cradle-02-soulsmith-c2">''Soulsmith'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|sacred arts{{!}}Sacred arts are a field of knowledge or practice.<ref name="cradle-02-soulsmith-c2" />}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|sacred arts{{!}}Sacred arts are used by practitioners to manipulate the world.<ref name="cradle-02-soulsmith-c6">''Soulsmith'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[sacred arts|Sacred arts]] involve advancing through realms.<ref name="cradle-02-soulsmith-c2">''Soulsmith'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[sacred arts|Sacred arts]] are a field of knowledge or practice.<ref name="cradle-02-soulsmith-c2" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[sacred arts|Sacred arts]] are used by practitioners to manipulate the world.<ref name="cradle-02-soulsmith-c6">''Soulsmith'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|Revenge is considered part of the [[sacred arts]].<ref name="cradle-02-soulsmith-c13">''Soulsmith'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[sacred arts]] are described as a game where life is the only bet.<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|sacred arts{{!}}Sacred arts possess immense force compared to physical strength.<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[sacred arts|Sacred arts]] possess immense force compared to physical strength.<ref name="cradle-02-soulsmith-c17">''Soulsmith'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The nature of the [[sacred arts]] is that each [[advancement]] causes one to leave behind everyone they know.<ref name="cradle-02-soulsmith-c20">''Soulsmith'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|sacred arts{{!}}Sacred arts must be learned the right way to survive [[Jai Long]].<ref name="cradle-03-blackflame-c3">''Blackflame'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[sacred arts|Sacred arts]] must be learned the right way to survive [[Jai Long]].<ref name="cradle-03-blackflame-c3">''Blackflame'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Arelius family]] collects information pertinent to the [[sacred arts]].<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
 </ul></div>
 
@@ -40,7 +40,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Eithan]] wants to pursue the [[sacred arts]] to their height.<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|sacred arts{{!}}Sacred arts are described as real power that can stand over the entire world.<ref name="cradle-04-skysworn-c17">''Skysworn'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[sacred arts|Sacred arts]] are described as real power that can stand over the entire world.<ref name="cradle-04-skysworn-c17">''Skysworn'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Lindon]] desired [[advancement]] in the [[sacred arts]].<ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[sacred arts]] are said to be lonely.<ref name="cradle-04-skysworn-c18" />}}</li>
 </ul></div>
@@ -54,13 +54,13 @@
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|Prince Seishen Kiro{{!}}Kiro cannot match Riyusai Meira{{!}}Meira in the [[sacred arts]].<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Prince Seishen Kiro|Kiro]] cannot match Riyusai Meira{{!}}Meira in the [[sacred arts]].<ref name="cradle-06-underlord-c6">''Underlord'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|Sopharanatoth{{!}}Sophara can use the [[sacred arts]] at a high level.<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] can use the [[sacred arts]] at a high level.<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The goal of all [[sacred arts]] is complete control.<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
 </ul></div>
 

@@ -2,22 +2,7 @@
 
 {{Infobox concept
 | name = Fire tree
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
-== Underlord ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|The fire tree has leaves that blaze and produces fruit.<ref name="cradle-06-underlord-c3">''Underlord'', chapter 3</ref>}}</li>
-</ul></div>
-
-== Notes ==
-<references />
-
-{{Cradle nav}}
-
 [[Category:Concepts]]
-[[Category:Underlord]]
-[[Category:Cradle]]
-[[Category:Cradle concepts]]
-[[Category:Lifeforms]]

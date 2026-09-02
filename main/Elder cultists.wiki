@@ -22,7 +22,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Regents]] have looked into the [[Elder cultists]].<ref name="ee-shadow-03-of-killers-and-kings-c2">''Of Killers and Kings'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] views [[Calder]] as a potential Elder cultists{{!}}Elder cultist.<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] views [[Calder]] as a potential [[Elder cultists|Elder cultist]].<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Elder cultists]] are known to be real.<ref name="ee-shadow-03-of-killers-and-kings-c14" />}}</li>
 </ul></div>
 

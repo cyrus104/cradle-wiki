@@ -8,8 +8,8 @@
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|aura{{!}}Aura can be drawn into [[madra]] to change its nature and add power.<ref name="cradle-02-soulsmith-c2">''Soulsmith'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|aura{{!}}Aura is something that can be tasted.<ref name="cradle-02-soulsmith-c10">''Soulsmith'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[aura|Aura]] can be drawn into [[madra]] to change its nature and add power.<ref name="cradle-02-soulsmith-c2">''Soulsmith'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[aura|Aura]] is something that can be tasted.<ref name="cradle-02-soulsmith-c10">''Soulsmith'', chapter 10</ref>}}</li>
 </ul></div>
 
 == Notes ==

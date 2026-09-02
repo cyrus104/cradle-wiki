@@ -13,7 +13,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Urg’naut]]'s [[Shades]] will not show themselves to [[Estyr]].<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Shades of Urg’naut{{!}}Crawling Shades of Urg’naut are dangerous.<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Shades of Urg’naut|Crawling Shades of Urg’naut]] are dangerous.<ref name="ee-shadow-03-of-killers-and-kings-c14">''Of Killers and Kings'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Shades of Urg’naut]] are difficult to spot and track.<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
 </ul></div>
 

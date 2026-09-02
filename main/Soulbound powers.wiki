@@ -6,7 +6,7 @@
 == Of Dawn and Darkness ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Urzaia Woodsman{{!}}Urzaia became immune to many [[Soulbound powers]] through training.<ref name="ee-sea-02-of-dawn-and-darkness-c9">''Of Dawn and Darkness'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Urzaia Woodsman|Urzaia]] became immune to many [[Soulbound powers]] through training.<ref name="ee-sea-02-of-dawn-and-darkness-c9">''Of Dawn and Darkness'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Of Darkness and Dawn ==
@@ -19,7 +19,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Tyria]] used [[Soulbound powers]] to create golden thorny ropes.<ref name="ee-sea-03-of-kings-and-killers-c15">''Of Kings and Killers'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Independents]]' Blackwatch Guild Head{{!}}Guild Head has [[Soulbound powers]].<ref name="ee-sea-03-of-kings-and-killers-c15" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Independents]]' [[Blackwatch Guild Head|Guild Head]] has [[Soulbound powers]].<ref name="ee-sea-03-of-kings-and-killers-c15" />}}</li>
 </ul></div>
 
 == Notes ==

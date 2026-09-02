@@ -10,7 +10,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|An [[Awakened object]] cannot gain new [[Intent]] but can use the [[Intent]] it has already collected.<ref name="ee-sea-01-of-sea-and-shadow-c13">''Of Sea and Shadow'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Even the brightest minds in The Empire{{!}}the Empire know very little about the nature of [[Awakened objects]].<ref name="ee-sea-01-of-sea-and-shadow-c15">''Of Sea and Shadow'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Even the brightest minds in [[The Empire|the Empire]] know very little about the nature of [[Awakened objects]].<ref name="ee-sea-01-of-sea-and-shadow-c15">''Of Sea and Shadow'', chapter 15</ref>}}</li>
 </ul></div>
 
 == Of Shadow and Sea ==

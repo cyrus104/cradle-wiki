@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox technique
 | name = Forger echo technique
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
-== Reaper ==
-{{spoiler|book=cradle-10-reaper|The [[Forger echo technique]] involves superimposing a massive [[Forged]] fist onto an attack.}}
-
 [[Category:Techniques]]
-[[Category:Reaper]]

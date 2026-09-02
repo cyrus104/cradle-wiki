@@ -2,21 +2,7 @@
 
 {{Infobox group
 | name = Pioneer workers
-| introduced = Threshold: Stories from Cradle
+| introduced = [[Threshold: Stories from Cradle (novel)|Threshold: Stories from Cradle]]
 }}
 
-== Threshold: Stories from Cradle ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|The [[Pioneer workers]] are the people [[Mercy]] and [[Fury]] are interacting with.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
-</ul></div>
-
-== Notes ==
-<references />
-
-{{Cradle nav}}
-
 [[Category:Groups]]
-[[Category:Threshold: Stories from Cradle]]
-[[Category:Cradle]]
-[[Category:Cradle groups]]

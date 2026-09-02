@@ -7,7 +7,7 @@
 {{spoiler|book=lh-01-the-captain|Pawns are grotesque, humanoid combatants utilized by the [[Iron Legion]]. Composed of a mixture of biological remains and mechanical components, these entities are often described as unholy abominations that resemble four-limbed [[spiders]]. Their physical forms are so distorted and twisted that it is difficult to determine their original species, though they possess bald humanoid heads that can emerge from [[steel]] shells. Encountering them often triggers a profound, paralyzing sense of revulsion in those seeing them for the first time, necessitating specialized psychological training for soldiers. In combat scenarios, Pawns are frequently deployed in large numbers or as part of ambush tactics alongside other [[Legion]] units like Shepherds and [[Reavers]]. They are capable of attacking from various angles and can discharge small projectiles of purple light.}}
 
 == The Captain ==
-{{spoiler|book=lh-01-the-captain|Pawns are unholy abominations composed of leftover machinery and corpses that resemble four-limbed [[spiders]]. Serving as a standard part of an [[Iron Legion]] Penetrator's crew, these creatures function as an army capable of drowning targets in a mass of flesh. They are used to capture individuals for conversion into Shepherds, and they were observed swarming the barrier of the [[Hive]] before evaporating upon approaching Sola Kalter{{!}}Sola. Should a mission fail, the crew members themselves face being transformed into Pawns.}}
+{{spoiler|book=lh-01-the-captain|Pawns are unholy abominations composed of leftover machinery and corpses that resemble four-limbed [[spiders]]. Serving as a standard part of an [[Iron Legion]] Penetrator's crew, these creatures function as an army capable of drowning targets in a mass of flesh. They are used to capture individuals for conversion into Shepherds, and they were observed swarming the barrier of the [[Hive]] before evaporating upon approaching [[Sola Kalter|Sola]]. Should a mission fail, the crew members themselves face being transformed into Pawns.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -16,7 +16,7 @@
 <li>{{spoiler|book=lh-01-the-captain|[[Pawns]] are unholy abominations of metal and flesh that resemble four-limbed [[spiders]] made from corpses and leftover machinery.<ref name="lh-01-the-captain-c10" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Pawns]] can be used to capture individuals and turn them into Shepherds.<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Pawns]] swarm around the barrier of the [[Hive]].<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|[[Pawns]] evaporate when they get near Sola Kalter{{!}}Sola.<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Pawns]] evaporate when they get near [[Sola Kalter|Sola]].<ref name="lh-01-the-captain-c18" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|If the mission fails, the crew members will be made into [[Pawns]].<ref name="lh-01-the-captain-c40">''The Captain'', chapter 40</ref>}}</li>
 </ul></div>
 

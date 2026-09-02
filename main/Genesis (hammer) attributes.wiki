@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Genesis (hammer) attributes
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
-== Reaper ==
-{{spoiler|book=cradle-10-reaper|The hammer [[Genesis]] is made of an unidentified black metal and has a rough handle.}}
-
 [[Category:Artifacts]]
-[[Category:Reaper]]

@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Alchemical stove
-| introduced = Of Shadow and Sea
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
 }}
 
-== Of Shadow and Sea ==
-{{spoiler|book=ee-shadow-01-of-shadow-and-sea|An alchemical stove is a clean-burning device used by professional [[alchemists]] and old, rich families.}}
-
 [[Category:Artifacts]]
-[[Category:Of Shadow and Sea]]

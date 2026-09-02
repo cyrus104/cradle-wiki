@@ -9,7 +9,7 @@
 == Of Sea and Shadow ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Elder Empire{{!}}The Elder Empire is located in the First Sea.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Elder Empire|The Elder Empire]] is located in the First Sea.<ref name="ee-sea-01-of-sea-and-shadow-c28">''Of Sea and Shadow'', chapter 28</ref>}}</li>
 </ul></div>
 
 == Of Shadow and Sea ==
@@ -27,13 +27,13 @@
 == Of Darkness and Dawn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The book is titled 'Elder Empire{{!}}The Elder Empire, Book Two: [[Shadow]]'.<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The book is titled '[[Elder Empire|The Elder Empire]], Book Two: [[Shadow]]'.<ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}</li>
 </ul></div>
 
 == Of Kings and Killers ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Elder Empire{{!}}The Elder Empire is the name of the series or setting context.<ref name="ee-sea-03-of-kings-and-killers-c26">''Of Kings and Killers'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Elder Empire|The Elder Empire]] is the name of the series or setting context.<ref name="ee-sea-03-of-kings-and-killers-c26">''Of Kings and Killers'', chapter 26</ref>}}</li>
 </ul></div>
 
 == Of Killers and Kings ==

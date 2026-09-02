@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox technique
 | name = Sage’s command
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
-== Reaper ==
-{{spoiler|book=cradle-10-reaper|A [[Sage’s command]] carries a heavy [[authority]].}}
-
 [[Category:Techniques]]
-[[Category:Reaper]]

@@ -12,8 +12,8 @@
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|The narrator tossed a [[magic circle]] to Queen Shyrax{{!}}Shyrax.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Ryzer Raithe{{!}}Ryzer cannot read magic circle{{!}}magic circles.<ref name="lh-03-the-knight-c13">''The Knight'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The narrator tossed a [[magic circle]] to [[Queen Shyrax|Shyrax]].<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Ryzer Raithe|Ryzer]] cannot read magic circle{{!}}magic circles.<ref name="lh-03-the-knight-c13">''The Knight'', chapter 13</ref>}}</li>
 </ul></div>
 
 == The Pilot ==

@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Northstrider's gift
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
-== Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Northstrider's gift]] is a ceramic tile with a [[script]] that acts as a key to open a separated space.}}
-
 [[Category:Artifacts]]
-[[Category:Wintersteel]]

@@ -18,7 +18,7 @@
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|Some types of [[madra]] can only be manipulated by Goldsteel{{!}}goldsteel tools.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|Some types of [[madra]] can only be manipulated by [[Goldsteel|goldsteel]] tools.<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
 </ul></div>
 
 == Blackflame ==
@@ -32,20 +32,20 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Goldsteel]] is required to manipulate [[Remnant]] parts.<ref name="cradle-04-skysworn-c7">''Skysworn'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|madra{{!}}Madra cannot pass through Goldsteel{{!}}goldsteel.<ref name="cradle-04-skysworn-c7" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[madra|Madra]] cannot pass through Goldsteel{{!}}goldsteel.<ref name="cradle-04-skysworn-c7" />}}</li>
 </ul></div>
 
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[Fisher Gesha]] has a hooked blade of gleaming Goldsteel{{!}}goldsteel.<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Fisher Gesha]] has a hooked blade of gleaming [[Goldsteel|goldsteel]].<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
 </ul></div>
 
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Goldsteel]] is resistant to various types of [[madra]].<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] rested his fingers on the Goldsteel{{!}}goldsteel.<ref name="cradle-09-bloodline-c12" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] rested his fingers on the [[Goldsteel|goldsteel]].<ref name="cradle-09-bloodline-c12" />}}</li>
 </ul></div>
 
 == Notes ==

@@ -9,12 +9,12 @@
 {{spoiler|book=ee-sea-03-of-kings-and-killers|The Witnesses are a specialized guild responsible for maintaining and distributing official records of significant historical events, such as the appointment of an [[Imperial]] heir. They function with a high degree of neutrality, which is formally verified by groups consisting of pairs of individuals: [[Chroniclers]], who carry belts of wax candles, and [[Silent Ones]], who keep their mouths covered and are heavily armed. The guild's testimony holds significant weight in public affairs, such as confirming the true nature of political conflicts or accusations involving high-ranking officials.}}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|A pair of members from the Witnesses, an [[Imperial]] [[Guild]], approached [[Calder]] with a request to transport them to an island for the retrieval of a relic. During their interactions with [[Calder]] and Andel Petronus{{!}}Andel, the group maintained a tight grip on their weapons, though [[Calder]] noted he had dealt with these individuals in the past. Despite appearing tired, the group demonstrated their unique ability to relive recorded memories through the burning of specific candles. This guild has a history of working alongside the [[Blackwatch]], and their status is further evidenced by [[Guards]] who serve them.}}
+{{spoiler|book=ee-sea-01-of-sea-and-shadow|A pair of members from the Witnesses, an [[Imperial]] [[Guild]], approached [[Calder]] with a request to transport them to an island for the retrieval of a relic. During their interactions with [[Calder]] and [[Andel Petronus|Andel]], the group maintained a tight grip on their weapons, though [[Calder]] noted he had dealt with these individuals in the past. Despite appearing tired, the group demonstrated their unique ability to relive recorded memories through the burning of specific candles. This guild has a history of working alongside the [[Blackwatch]], and their status is further evidenced by [[Guards]] who serve them.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A pair of Witnesses wants to hire [[Calder]] to take them to an island and withdraw a relic.<ref name="ee-sea-01-of-sea-and-shadow-c1">''Of Sea and Shadow'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Witnesses are a group that [[Calder]] and Andel Petronus{{!}}Andel are interacting with.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Witnesses are a group that [[Calder]] and [[Andel Petronus|Andel]] are interacting with.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] has past experience with Witnesses.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Witnesses kept a tight grip on their weapons.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The Witnesses are one of the [[Imperial Guilds]].<ref name="ee-sea-01-of-sea-and-shadow-c4">''Of Sea and Shadow'', chapter 4</ref>}}</li>
@@ -39,7 +39,7 @@
 == Of Kings and Killers ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Andel Petronus{{!}}Andel is looking for a position with the Witnesses.<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Andel Petronus|Andel]] is looking for a position with the Witnesses.<ref name="ee-sea-03-of-kings-and-killers-c4">''Of Kings and Killers'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Witnesses can provide testimony regarding the actions of [[Regents]] and the [[Imperial Steward]].<ref name="ee-sea-03-of-kings-and-killers-c7">''Of Kings and Killers'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The Witnesses are silently observing.<ref name="ee-sea-03-of-kings-and-killers-c7" />}}</li>
 </ul></div>

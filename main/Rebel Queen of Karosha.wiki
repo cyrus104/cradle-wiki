@@ -1,15 +1,28 @@
 {{Infobox character
 | name = Rebel Queen of Karosha
+| aliases = Queen of Karosha
+| titles = {{spoiler|book=lh-02-the-engineer|[[Rebel Queen of Karosha|Queen of Karosha]], The Captain}}
+| professions = {{spoiler|book=lh-02-the-engineer|Captain}}
 | appears_in = The Last Horizon
-| introduced = [[The Knight (novel)|The Knight]]
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
+== Overview ==
+{{spoiler|book=lh-03-the-knight|[[Shyrax the Third]] is the rightful ruler of the planet [[Karosha]], though she currently exists in exile. Having ascended to the [[throne]] nine years ago following her mother's abdication, she was later convicted of treason by the [[Dragon Court]]. This conviction allowed her cousin, [[King Regent|King Regent Felrex]], to claim the [[throne]] in her stead. Now leading a rebel movement, she commands a fleet of [[Karoshan]] starships and seeks to reclaim her position as the legitimate monarch. Physically, she is characterized by bronze skin, golden hair-cables, and a commanding presence. She is often seen in combat-ready attire featuring [[dragon]] motifs and integrated shield generators, and she has demonstrated significant physical strength and magical ability in battle. [[Queen Shyrax|Shyrax]] has formed alliances with various groups, including the crew of [[The Last Horizon]], as she navigates an imperial civil war to restore her rule.}}
+
+== The Engineer ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-02-the-engineer|The Captain is the exiled [[Rebel Queen of Karosha|Queen of Karosha]].<ref name="lh-02-the-engineer-c10">''The Engineer'', chapter 10</ref>}}</li>
+</ul></div>
+
 == The Knight ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|The narrator has allied themselves with the [[Rebel Queen of Karosha]].<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|The [[Rebel Queen of Karosha]] is mentioned by Benri Vallenar{{!}}Benri.<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Rebel Queen of Karosha]] is mentioned by [[Benri Vallenar|Benri]].<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Raion Raithe{{!}}Raion's crew took up with the [[Rebel Queen of Karosha]].<ref name="lh-03-the-knight-c26">''The Knight'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Rebel Queen of Karosha|Queen of Karosha]] is in control of a vessel or station with controls.<ref name="lh-03-the-knight-c42">''The Knight'', chapter 42</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -18,6 +31,7 @@
 {{The Last Horizon nav}}
 
 [[Category:Characters]]
+[[Category:The Engineer]]
 [[Category:The Knight]]
 [[Category:The Last Horizon]]
 [[Category:The Last Horizon characters]]

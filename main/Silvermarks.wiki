@@ -13,7 +13,7 @@
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A silvermarks{{!}}silvermark is a unit of currency or value used by [[Tombstone]].<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A [[silvermarks|silvermark]] is a unit of currency or value used by [[Tombstone]].<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Silvermarks are a form of currency.<ref name="ee-shadow-01-of-shadow-and-sea-c3">''Of Shadow and Sea'', chapter 3</ref>}}</li>
 </ul></div>
 

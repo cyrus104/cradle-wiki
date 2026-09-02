@@ -9,8 +9,8 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Simon]] asks the hooded man if he is the [[Forest Demon]].<ref name="tg-01-house-of-blades-c1">''House of Blades'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=tg-01-house-of-blades|The Forest Demon{{!}}Demon of the forest has tangled, wiry white hair.<ref name="tg-01-house-of-blades-c5">''House of Blades'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=tg-01-house-of-blades|The Forest Demon{{!}}Demon of the forest possesses a [[sword]] with a blade six or seven feet long.<ref name="tg-01-house-of-blades-c5" />}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|The [[Forest Demon|Demon of the forest]] has tangled, wiry white hair.<ref name="tg-01-house-of-blades-c5">''House of Blades'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|The [[Forest Demon|Demon of the forest]] possesses a [[sword]] with a blade six or seven feet long.<ref name="tg-01-house-of-blades-c5" />}}</li>
 </ul></div>
 
 == The Crimson Vault ==

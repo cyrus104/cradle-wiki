@@ -5,12 +5,16 @@
 | introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
 }}
 
+<div class="wv-epigraph">{{spoiler|book=ee-sea-01-of-sea-and-shadow|Sadesthenes once said, “As it is in the hearts of men to seek authority, the path to unity can only end in one Empire.”}}<div class="wv-epigraph-cite">{{spoiler|book=ee-sea-01-of-sea-and-shadow|— ''Of Sea and Shadow'', chapter 9}}</div></div>
 {{spoiler|book=ee-sea-03-of-kings-and-killers|'''Identity:''' later revealed to be [[Emperor (Elder Empire)]], the immortal Emperor of the Aurelian Empire.}}
 
 ''See also: [[Sadesthenes Timeline]]''
 
 == Overview ==
 {{spoiler|book=ee-sea-03-of-kings-and-killers|Sadesthenes was a renowned philosopher, historian, and the former [[Imperial Steward]] of the [[Aurelian Empire]]. Known by various titles such as the Father of Knowledge, the [[Lord]] of a [[Thousand Eyes]], and He who knows all, he was an ancient figure whose foundational works are studied alongside classical [[Imperial]] history. His teachings cover a wide range of subjects, including leadership, the inevitability of war, the nature of wisdom, and the importance of preserving life. His philosophy often contrasts the actions of wise individuals with those of fools, particularly regarding emotions, combat, and wealth. While some accounts suggest he was the self-educated son of a wine merchant, other traditions link his origins to an Elder who sought total knowledge and is credited with the birth of human civilization. His legacy remains influential, though some consider his wisdom to be forbidden.}}
+
+== Relationships ==
+{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] quotes Sadesthenes when discussing the philosophy of combat.}}
 
 == History ==
 === {{spoiler|book=ee-sea-01-of-sea-and-shadow|Philosophical teachings}} ===
@@ -40,12 +44,12 @@
 </ul></div>
 
 === {{spoiler|book=ee-sea-03-of-kings-and-killers|Political writings}} ===
-{{spoiler|book=ee-sea-03-of-kings-and-killers|In his writings, Sadesthenes asserted that the words of a true leader cannot be easily ignored.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref> He further argued that a wise individual shows no hesitation when confronted with necessity.<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref> Regarding the nature of supreme power, he claimed that being an Emperor requires one to carry The Empire{{!}}the Empire.<ref name="ee-sea-03-of-kings-and-killers-c19">''Of Kings and Killers'', chapter 19</ref> He also noted that while a wise man makes plans for his death, he does not plan to die.<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref> Finally, Sadesthenes observed that mercy is a rare virtue, particularly among kings and killers.<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}
+{{spoiler|book=ee-sea-03-of-kings-and-killers|In his writings, Sadesthenes asserted that the words of a true leader cannot be easily ignored.<ref name="ee-sea-03-of-kings-and-killers-c2">''Of Kings and Killers'', chapter 2</ref> He further argued that a wise individual shows no hesitation when confronted with necessity.<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref> Regarding the nature of supreme power, he claimed that being an Emperor requires one to carry [[The Empire|the Empire]].<ref name="ee-sea-03-of-kings-and-killers-c19">''Of Kings and Killers'', chapter 19</ref> He also noted that while a wise man makes plans for his death, he does not plan to die.<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref> Finally, Sadesthenes observed that mercy is a rare virtue, particularly among kings and killers.<ref name="ee-sea-03-of-kings-and-killers-c25">''Of Kings and Killers'', chapter 25</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Sadesthenes]] once wrote that a true leader's words are not easily ignored.<ref name="ee-sea-03-of-kings-and-killers-c2" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Sadesthenes]] said that a wise man does not hesitate when faced with necessity.<ref name="ee-sea-03-of-kings-and-killers-c9" />}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Sadesthenes]] said, 'To be the Emperor is to carry The Empire{{!}}the Empire.'<ref name="ee-sea-03-of-kings-and-killers-c19" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Sadesthenes]] said, 'To be the Emperor is to carry [[The Empire|the Empire]].'<ref name="ee-sea-03-of-kings-and-killers-c19" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Sadesthenes]] said, "The wise man plans for his death, but does not plan to die."<ref name="ee-sea-03-of-kings-and-killers-c24" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Sadesthenes]] is the author of the quote 'The quality of mercy is among the rarest of virtues, and rarest of all in killers and kings.'<ref name="ee-sea-03-of-kings-and-killers-c25" />}}</li>
 </ul></div>

@@ -1,14 +1,13 @@
 {{Infobox character
 | name = Void Prism
 | aliases = Prism
-| spouse = {{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]]}}
-| siblings = {{spoiler|book=lh-04-the-pilot|[[Horizon]]}}
 | abilities = {{spoiler|book=lh-04-the-pilot|[[pathfinding magic]], counter magic, analyze magic}}
 | titles = {{spoiler|book=lh-04-the-pilot|[[Zenith Processor]], [[Zenith Device]]}}
 | appears_in = The Last Horizon
 | introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
+<div class="wv-epigraph">{{spoiler|book=lh-04-the-pilot|“Down!” Prism shouted into her mind again, and she pressed her face into the truck beneath her.}}<div class="wv-epigraph-cite">{{spoiler|book=lh-04-the-pilot|— ''The Pilot'', chapter 43}}</div></div>
 ''See also: [[Void Prism Timeline]]''
 
 == Overview ==
@@ -19,6 +18,9 @@
 
 == Personality ==
 {{spoiler|book=lh-04-the-pilot|Void Prism is an urgent [[communicator]] who has expressed relief upon arriving at a destination. They are motivated by the belief that enemies will not settle for peace, leading them to declare they will bring pain. Additionally, the character theorizes that the [[Aether]] is attempting to protect itself from a future threat.}}
+
+== Relationships ==
+{{spoiler|book=lh-04-the-pilot|Void Prism is the partner of [[Queen Shyrax{{!}}Shyrax]]. This character also maintains a mental connection with [[Lutoch Terelle]], allowing for private communication via a mental voice. Additionally, Void Prism is identified as one of the brothers of [[Horizon]].}}
 
 == Abilities ==
 {{spoiler|book=lh-04-the-pilot|As a [[Zenith Processor]], this character utilizes [[pathfinding magic]] and can project a map of the galaxy into the air. They possess sharp sensors used to analyze magic, find countermeasures against navigational spells, and guide wizards in countering magic. Furthermore, they can take over communication devices, block transmissions, and communicate privately with [[Lutoch Terelle]] via a mental voice.}}
@@ -38,9 +40,9 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] is a character with very sharp sensors.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] is a [[Zenith Processor]] that appears as a swirl of yellow light resembling a double helix.<ref name="lh-04-the-pilot-c22">''The Pilot'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] can shift into a humanoid form.<ref name="lh-04-the-pilot-c22" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Void Prism{{!}}Prism is a [[Void Prism]].<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Void Prism|Prism]] is a [[Void Prism]].<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Void Prism{{!}}Prism's form is a snake made of yellow sparks.<ref name="lh-04-the-pilot-c23" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Void Prism{{!}}Prism theorizes that the [[Aether]] is attempting to protect itself from an upcoming threat.<ref name="lh-04-the-pilot-c23" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Void Prism|Prism]] theorizes that the [[Aether]] is attempting to protect itself from an upcoming threat.<ref name="lh-04-the-pilot-c23" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] is a [[Zenith Device]].<ref name="lh-04-the-pilot-c23" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]]'s ship is coming out of [[Subspace]].<ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] uses [[pathfinding magic]].<ref name="lh-04-the-pilot-c24" />}}</li>
@@ -53,14 +55,14 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] is in the second position of the [[ritual]].<ref name="lh-04-the-pilot-c38">''The Pilot'', chapter 38</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] shimmered and appeared over the [[tank]] containing his host.<ref name="lh-04-the-pilot-c38" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] projects a map of the galaxy into the air.<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Void Prism{{!}}Prism communicates with Lutoch Terelle{{!}}Lutoch mentally.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Void Prism{{!}}Prism is a character who can communicate with Lutoch Terelle{{!}}Lutoch privately via mental voice.<ref name="lh-04-the-pilot-c43" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] is a character who can communicate with Lutoch Terelle{{!}}Lutoch privately via mental voice.<ref name="lh-04-the-pilot-c43" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Void Prism{{!}}Prism expressed relief at arriving.<ref name="lh-04-the-pilot-c43" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Void Prism|Prism]] communicates with Lutoch Terelle{{!}}Lutoch mentally.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Void Prism|Prism]] is a character who can communicate with Lutoch Terelle{{!}}Lutoch privately via mental voice.<ref name="lh-04-the-pilot-c43" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] is a character who can communicate with [[Lutoch Terelle|Lutoch]] privately via mental voice.<ref name="lh-04-the-pilot-c43" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Void Prism|Prism]] expressed relief at arriving.<ref name="lh-04-the-pilot-c43" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] can take over communication devices.<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Void Prism{{!}}Prism is blocking transmissions.<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Void Prism|Prism]] is blocking transmissions.<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Void Prism]] is a character who spoke urgently to the Captain.<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Void Prism{{!}}Prism projects himself through a wrist [[console]].<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Void Prism|Prism]] projects himself through a wrist [[console]].<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==

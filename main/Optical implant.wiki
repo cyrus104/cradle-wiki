@@ -8,8 +8,8 @@
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila has an [[optical implant]] that allows her to see video simulations.<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax uses an [[optical implant]] to project footage.<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] has an [[optical implant]] that allows her to see video simulations.<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] uses an [[optical implant]] to project footage.<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Notes ==

@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Nimblethorn
-| introduced = Wintersteel
+| introduced = [[Wintersteel (novel)|Wintersteel]]
 }}
 
-== Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|[[Nimblethorn]] is a substance used by the elders to poison [[Adama]].}}
-
 [[Category:Artifacts]]
-[[Category:Wintersteel]]

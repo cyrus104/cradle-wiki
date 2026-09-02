@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox technique
 | name = Shyrax's Technician gift
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
-== The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[Shyrax's Technician gift]] is 'efficiency', which modifies systems to work slightly better.}}
-
 [[Category:Techniques]]
-[[Category:The Engineer]]

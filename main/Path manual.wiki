@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Path manual
-| introduced = Bloodline
+| introduced = [[Bloodline (novel)|Bloodline]]
 }}
 
-== Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Kelsa]] studied her [[Path manual]] while in exile.}}
-
 [[Category:Artifacts]]
-[[Category:Bloodline]]

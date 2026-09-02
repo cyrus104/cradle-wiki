@@ -19,8 +19,8 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Fisher Gesha]] uses a [[spider-construct]].<ref name="cradle-03-blackflame-c2">''Blackflame'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|A swarm of spider-construct{{!}}spider-constructs escorted [[Fisher Gesha]].<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|Fisher Gesha{{!}}Gesha positioned half a dozen spider-construct{{!}}spider constructs at an entrance.<ref name="cradle-03-blackflame-c17" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A swarm of [[spider-construct|spider-constructs]] escorted [[Fisher Gesha]].<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Fisher Gesha|Gesha]] positioned half a dozen spider-construct{{!}}spider constructs at an entrance.<ref name="cradle-03-blackflame-c17" />}}</li>
 </ul></div>
 
 == Notes ==

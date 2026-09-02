@@ -7,7 +7,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Simon]] lives in [[Myria village]].<ref name="tg-01-house-of-blades-c1">''House of Blades'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=tg-01-house-of-blades|[[Myria village]] is located inside the realm of Malachi{{!}}Overlord Malachi.<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Myria village]] is located inside the realm of [[Malachi|Overlord Malachi]].<ref name="tg-01-house-of-blades-c4">''House of Blades'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The walls of [[Myria village]] were made of sharpened sticks bound by ropes.<ref name="tg-01-house-of-blades-c7">''House of Blades'', chapter 7</ref>}}</li>
 </ul></div>
 

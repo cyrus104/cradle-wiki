@@ -266,3 +266,9 @@ ul.wv-fact-list > li::before { content: "❧"; position: absolute; left: 0; top:
 .wv-featured { border: 1px solid #d5d9e2; border-left: 4px solid #b58b2a; border-radius: 2px;
   padding: .6em .9em; margin: .2em 0 1em; background: #fbfbf9; overflow: hidden; }
 .wv-featured .floatleft { margin: .1em .8em .3em 0; }
+
+/* Opening epigraph on character articles (pipeline/render.py pick_epigraph) */
+.wv-epigraph { font-family: var(--wv-serif, Georgia, serif); font-style: italic; font-size: 105%;
+  color: #3a4256; border-left: 3px solid #c9a227; padding: .35em 0 .35em .9em;
+  margin: .2em 0 1.1em; max-width: 46em; }
+.wv-epigraph-cite { font-style: normal; font-size: 82%; color: #6b7280; margin-top: .25em; }

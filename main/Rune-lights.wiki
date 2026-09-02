@@ -14,7 +14,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Mercy]] deactivated the [[rune-lights]] in her office.<ref name="cradle-11-dreadgod-c8">''Dreadgod'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|rune-lights{{!}}Rune-lights are usually many different colors.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[rune-lights|Rune-lights]] are usually many different colors.<ref name="cradle-11-dreadgod-c15">''Dreadgod'', chapter 15</ref>}}</li>
 </ul></div>
 
 == Notes ==

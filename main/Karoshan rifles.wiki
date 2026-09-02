@@ -8,8 +8,8 @@
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|[[Karoshan rifles]] are weapons used by Karoshan forces{{!}}Karoshan soldiers.<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|[[Karoshan rifles]] fire plasma bolt{{!}}plasma bolts.<ref name="lh-01-the-captain-c6" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Karoshan rifles]] are weapons used by [[Karoshan forces|Karoshan soldiers]].<ref name="lh-01-the-captain-c6">''The Captain'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Karoshan rifles]] fire [[plasma bolt|plasma bolts]].<ref name="lh-01-the-captain-c6" />}}</li>
 </ul></div>
 
 == Notes ==

@@ -8,6 +8,7 @@
 | introduced = [[The Captain (novel)|The Captain]]
 }}
 
+<div class="wv-epigraph">{{spoiler|book=lh-01-the-captain|Some were big enough to crash through planets, while others were “merely” the size of cities.}}<div class="wv-epigraph-cite">{{spoiler|book=lh-01-the-captain|— ''The Captain'', chapter 32}}</div></div>
 ''See also: [[Behemoth Timeline]]''
 
 == Overview ==
@@ -16,12 +17,15 @@
 == Appearance ==
 {{spoiler|book=lh-03-the-knight|This hulking beast is composed of both flesh and metal, featuring city-sized armored plates. Depending on the specific model, they may possess limbs woven from meat and machine, building-sized camera eyes, and starship armor. Their massive [[scale]] ranges from the size of cities to creatures large enough to crash through planets.}}
 
+== Relationships ==
+{{spoiler|book=lh-03-the-knight|[[Raion Raithe|Raion]] has engaged in combat with the Behemoth. This individual previously fought the creature and also went all-out against it.}}
+
 == Abilities ==
 {{spoiler|book=lh-03-the-knight|These creatures possess a resistance to magic and the ability to interact with [[Subspace]]. They are powerful enough to fight a [[Divine Titan]] in hand-to-hand combat.}}
 
 == History ==
 === {{spoiler|book=lh-01-the-captain|The Captain}} ===
-{{spoiler|book=lh-01-the-captain|The Behemoth is a hulking beast composed of metal and flesh that features city-sized armored plates, though it can be defeated if five [[Divine Titans]] combine their strength.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref> As a trump card for the [[Iron Legion]], these creatures are constructed in shipyards using staggering amounts of resources and cyborg components like digital brain-[[chips]] and metal skeletons.<ref name="lh-01-the-captain-c32">''The Captain'', chapter 32</ref> Most bodies are formed from astral megafauna or scavenged dreadnoughts, and they possess cybernetic pieces, magic resistance, and the ability to interact with [[Subspace]].<ref name="lh-01-the-captain-c32" /> While their sizes vary from city-[[scale]] to being large enough to crash through planets, a Behemoth made from a [[contrasaur]] specifically features starship armor, building-sized camera eyes, and limbs woven from meat and machine.<ref name="lh-01-the-captain-c32" /> These entities are capable of fighting a [[Divine Titan]] fist-to-fist, and there are perhaps only ten in existence throughout the galaxy.<ref name="lh-01-the-captain-c33">''The Captain'', chapter 33</ref><ref name="lh-01-the-captain-c34">''The Captain'', chapter 34</ref> During various conflicts, Raion Raithe{{!}}Raion went all-out against a Behemoth, and an insectoid variant was once seen hunting the [[Galactic Union fleet]].<ref name="lh-01-the-captain-c39">''The Captain'', chapter 39</ref><ref name="lh-01-the-captain-c44">''The Captain'', chapter 44</ref>}}
+{{spoiler|book=lh-01-the-captain|The Behemoth is a hulking beast composed of metal and flesh that features city-sized armored plates, though it can be defeated if five [[Divine Titans]] combine their strength.<ref name="lh-01-the-captain-c31">''The Captain'', chapter 31</ref> As a trump card for the [[Iron Legion]], these creatures are constructed in shipyards using staggering amounts of resources and cyborg components like digital brain-[[chips]] and metal skeletons.<ref name="lh-01-the-captain-c32">''The Captain'', chapter 32</ref> Most bodies are formed from astral megafauna or scavenged dreadnoughts, and they possess cybernetic pieces, magic resistance, and the ability to interact with [[Subspace]].<ref name="lh-01-the-captain-c32" /> While their sizes vary from city-[[scale]] to being large enough to crash through planets, a Behemoth made from a [[contrasaur]] specifically features starship armor, building-sized camera eyes, and limbs woven from meat and machine.<ref name="lh-01-the-captain-c32" /> These entities are capable of fighting a [[Divine Titan]] fist-to-fist, and there are perhaps only ten in existence throughout the galaxy.<ref name="lh-01-the-captain-c33">''The Captain'', chapter 33</ref><ref name="lh-01-the-captain-c34">''The Captain'', chapter 34</ref> During various conflicts, [[Raion Raithe|Raion]] went all-out against a Behemoth, and an insectoid variant was once seen hunting the [[Galactic Union fleet]].<ref name="lh-01-the-captain-c39">''The Captain'', chapter 39</ref><ref name="lh-01-the-captain-c44">''The Captain'', chapter 44</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|A [[Behemoth]] can be defeated by combining five [[Divine Titans]].<ref name="lh-01-the-captain-c31" />}}</li>
@@ -37,7 +41,7 @@
 <li>{{spoiler|book=lh-01-the-captain|The [[Behemoth]] is a trump card of the [[Iron Legion]].<ref name="lh-01-the-captain-c32" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|A [[Behemoth]] is a creature that can fight a [[Divine Titan]] fist-to-fist.<ref name="lh-01-the-captain-c33" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|There are perhaps ten Behemoths in the entire galaxy.<ref name="lh-01-the-captain-c34" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Raion Raithe{{!}}Raion went all-out against the [[Behemoth]].<ref name="lh-01-the-captain-c39" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Raion Raithe|Raion]] went all-out against the [[Behemoth]].<ref name="lh-01-the-captain-c39" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|An insectoid [[Behemoth]] was hunting the [[Galactic Union fleet]].<ref name="lh-01-the-captain-c44" />}}</li>
 </ul></div>
 
@@ -49,10 +53,10 @@
 </ul></div>
 
 === {{spoiler|book=lh-03-the-knight|The Knight}} ===
-{{spoiler|book=lh-03-the-knight|Raion Raithe{{!}}Raion had engaged in combat with the Behemoth during a previous encounter.<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}
+{{spoiler|book=lh-03-the-knight|[[Raion Raithe|Raion]] had engaged in combat with the Behemoth during a previous encounter.<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|Raion Raithe{{!}}Raion previously fought the [[Behemoth]].<ref name="lh-03-the-knight-c35" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Raion Raithe|Raion]] previously fought the [[Behemoth]].<ref name="lh-03-the-knight-c35" />}}</li>
 </ul></div>
 
 == Notable quotes ==

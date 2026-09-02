@@ -6,7 +6,7 @@
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|[[Makiel's Presence]] greeted Judge Suriel{{!}}Suriel.<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Makiel's Presence]] greeted [[Judge Suriel|Suriel]].<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
 </ul></div>
 
 == Uncrowned ==
@@ -18,7 +18,7 @@
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|Makiel's Presence{{!}}Makiel’s Presence is a floating purple eye.<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Makiel's Presence|Makiel’s Presence]] is a floating purple eye.<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
 </ul></div>
 
 == Notes ==

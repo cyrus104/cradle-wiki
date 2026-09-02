@@ -13,13 +13,16 @@
 == Overview ==
 {{spoiler|book=cradle-13-threshold|Kahn Mala is an [[Archlady]] associated with [[Redmoon Hall]]. She possesses a [[Blood Shadow]] that takes the form of a scarlet cobra wrapped around her neck. Physically, she is characterized by gray-streaked hair and skin that appears tightly drawn over her [[skeleton]]. As a leader, she manages various [[Lords]] and [[Ladies]] and has experience with spatial transport and manipulating [[force aura]] to access items through a [[void key]]. While she maintains a composed and scornful exterior, she has expressed feelings of bitterness regarding her responsibilities and personal losses, such as the death of her brother. In political matters, she has navigated difficult alliances for the sake of survival, expressing reluctance to work with powerful youths while acknowledging the necessity of such connections. She has also demonstrated awareness of various political threats, including the vulnerability of her group following the loss of protection from [[Red Faith]] and the potential dangers posed by the [[Void Sage]].}}
 
+== Relationships ==
+{{spoiler|book=cradle-13-threshold|Kahn Mala expresses gratitude toward [[Lindon]]. She is a [[Lord]] who bows to [[Larian]].}}
+
 == History ==
 === {{spoiler|book=cradle-11-dreadgod|Red Faith Archlady}} ===
-{{spoiler|book=cradle-11-dreadgod|Kahn Mala serves as the [[Archlady]] of the [[Red Faith]].<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref> During her actions, she pours a shining green elixirs{{!}}elixir over the [[Sage]].<ref name="cradle-11-dreadgod-c17" />}}
+{{spoiler|book=cradle-11-dreadgod|Kahn Mala serves as the [[Archlady]] of the [[Red Faith]].<ref name="cradle-11-dreadgod-c17">''Dreadgod'', chapter 17</ref> During her actions, she pours a shining green [[elixirs|elixir]] over the [[Sage]].<ref name="cradle-11-dreadgod-c17" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Kahn Mala]] is [[Red Faith]]'s [[Archlady]].<ref name="cradle-11-dreadgod-c17" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Kahn Mala]] pours a shining green elixirs{{!}}elixir over the [[Sage]].<ref name="cradle-11-dreadgod-c17" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Kahn Mala]] pours a shining green [[elixirs|elixir]] over the [[Sage]].<ref name="cradle-11-dreadgod-c17" />}}</li>
 </ul></div>
 
 === {{spoiler|book=cradle-12-waybound|Redmoon Hall}} ===
@@ -38,11 +41,11 @@
 </ul></div>
 
 === {{spoiler|book=cradle-13-threshold|Silent King Cultist}} ===
-{{spoiler|book=cradle-13-threshold|Kahn Mala is a Jai Matriarch{{!}}Matriarch and the former cult leader of the [[Silent King]].<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref> Known to the [[Stormcallers]] as the [[Daughter of Dread]], she is a [[sacred artist]] who possesses a [[Blood Shadow]].<ref name="cradle-13-threshold-c8" /> She is a [[Lord]] who bows to [[Larian]].<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}
+{{spoiler|book=cradle-13-threshold|Kahn Mala is a [[Jai Matriarch|Matriarch]] and the former cult leader of the [[Silent King]].<ref name="cradle-13-threshold-c8">''Threshold: Stories from Cradle'', chapter 8</ref> Known to the [[Stormcallers]] as the [[Daughter of Dread]], she is a [[sacred artist]] who possesses a [[Blood Shadow]].<ref name="cradle-13-threshold-c8" /> She is a [[Lord]] who bows to [[Larian]].<ref name="cradle-13-threshold-c13">''Threshold: Stories from Cradle'', chapter 13</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[Kahn Mala]] is the former cult leader of the [[Silent King]].<ref name="cradle-13-threshold-c8" />}}</li>
-<li>{{spoiler|book=cradle-13-threshold|[[Kahn Mala]] is a Jai Matriarch{{!}}Matriarch.<ref name="cradle-13-threshold-c8" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Kahn Mala]] is a [[Jai Matriarch|Matriarch]].<ref name="cradle-13-threshold-c8" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Kahn Mala]] is called [[Daughter of Dread]] by the [[Stormcallers]].<ref name="cradle-13-threshold-c8" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Kahn Mala]] has a [[Blood Shadow]].<ref name="cradle-13-threshold-c8" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Kahn Mala]] is a [[sacred artist]].<ref name="cradle-13-threshold-c8" />}}</li>

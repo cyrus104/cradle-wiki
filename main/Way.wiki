@@ -11,7 +11,7 @@
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-01-unsouled|A [[spatial rift]] is a slit in Way{{!}}the Way.<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|A [[spatial rift]] is a slit in [[Way|the Way]].<ref name="cradle-01-unsouled-c11">''Unsouled'', chapter 11</ref>}}</li>
 </ul></div>
 
 == Blackflame ==
@@ -20,13 +20,13 @@
 <li>{{spoiler|book=cradle-03-blackflame|[[The Way]] is a force that provides stability and order to worlds.<ref name="cradle-03-blackflame-c13">''Blackflame'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[The Way]] can be used to reinforce structures for stability.<ref name="cradle-03-blackflame-c13" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[The Way]] is a vine that connects [[Iterations]].<ref name="cradle-03-blackflame-c21">''Blackflame'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|Judge Suriel{{!}}Suriel stepped into Way{{!}}the Way.<ref name="cradle-03-blackflame-c21" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Judge Suriel|Suriel]] stepped into Way{{!}}the Way.<ref name="cradle-03-blackflame-c21" />}}</li>
 </ul></div>
 
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[The Way]] is a power that can be manipulated and provides Authority{{!}}authority to [[Judges]].<ref name="cradle-06-underlord-c1">''Underlord'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[The Way]] is a power that can be manipulated and provides [[Authority|authority]] to [[Judges]].<ref name="cradle-06-underlord-c1">''Underlord'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[The Way]] can be rendered powerless to Abidans in a world.<ref name="cradle-06-underlord-c1" />}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[The Way]] can be severed.<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
 </ul></div>
@@ -35,21 +35,21 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[The Way]] is mapped as a single blue light with branches of [[sapphire]] light and white spots representing [[Iterations]].<ref name="cradle-07-uncrowned-c2">''Uncrowned'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[Charity]] can pull people through a fold in Way{{!}}the Way.<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Charity]] can pull people through a fold in [[Way|the Way]].<ref name="cradle-07-uncrowned-c7">''Uncrowned'', chapter 7</ref>}}</li>
 </ul></div>
 
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[The Way]] is a method of reaching through space.<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Northstrider]] stepped into Way{{!}}the Way.<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Northstrider]] stepped into [[Way|the Way]].<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
 </ul></div>
 
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[The Way]] provides power used by the [[Abidan]].<ref name="cradle-09-bloodline-c1">''Bloodline'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|Judge Suriel{{!}}Suriel can channel Way{{!}}the Way to restore order and reverse damage.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Judge Suriel|Suriel]] can channel Way{{!}}the Way to restore order and reverse damage.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[The Way]] is a branching structure of existence where [[Iterations]] are spots of light.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
 </ul></div>
 
@@ -57,58 +57,58 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[The Way]] is being disrupted by chaotic interference.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|The hold of Way{{!}}the Way can slip.<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|Fathom is located between Way{{!}}the Way and the Void.<ref name="cradle-10-reaper-c15" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|Armor flows through Way{{!}}the Way.<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|The hold of [[Way|the Way]] can slip.<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Fathom is located between [[Way|the Way]] and the Void.<ref name="cradle-10-reaper-c15" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|Armor flows through [[Way|the Way]].<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[The Way]] is a strange [[sapphire]] world located beyond space that serves as a connection between realms. This connection can be weakened if planets are destroyed, and a world's temporal stability is directly linked to its relationship with it. During an attempt to escape, the [[Sage]] tries to travel through this expanse. While Judge Suriel{{!}}Suriel refers to it simply as the Way, [[Lindon]] demonstrates its physical nature by punching his fist into it.}}
+{{spoiler|book=cradle-11-dreadgod|[[The Way]] is a strange [[sapphire]] world located beyond space that serves as a connection between realms. This connection can be weakened if planets are destroyed, and a world's temporal stability is directly linked to its relationship with it. During an attempt to escape, the [[Sage]] tries to travel through this expanse. While [[Judge Suriel|Suriel]] refers to it simply as the Way, [[Lindon]] demonstrates its physical nature by punching his fist into it.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[The Way]] is a strange [[sapphire]] world beyond space.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[The Way]] is a connection that can be weakened by destroying planets.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|The [[Sage]] attempts to escape by traveling through Way{{!}}the Way.<ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|Judge Suriel{{!}}Suriel refers to Way{{!}}the Way Between [[Worlds]] simply as Way{{!}}the Way.<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] can punch his fist into Way{{!}}the Way.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|A world's temporal stability is linked to its relationship with Way{{!}}the Way.<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|The [[Sage]] attempts to escape by traveling through [[Way|the Way]].<ref name="cradle-11-dreadgod-c11">''Dreadgod'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Judge Suriel|Suriel]] refers to Way{{!}}the Way Between [[Worlds]] simply as [[Way|the Way]].<ref name="cradle-11-dreadgod-c22">''Dreadgod'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] can punch his fist into [[Way|the Way]].<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|A world's temporal stability is linked to its relationship with [[Way|the Way]].<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
 </ul></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|[[The Way]] is a chaotic, rich blue river characterized by shifting currents and flows that can buffet travelers. While the [[Bow of the Silent King]] touches its surface, [[Northstrider]] once emerged from a bright blue twist within the river. Although it can be used as a means of escape, the [[Weeping Dragon]]'s will prevents such travel, and Reigan Shen{{!}}Reigan once attempted to touch it. Within labyrinth{{!}}the labyrinth, [[Lindon]] granted [[Northstrider]] permission to open the Way, after which [[Yerin]] cut a hole in it. The river can be commanded to restore damage, and [[Lindon]] eventually hoped to achieve a deeper connection to the entity.}}
+{{spoiler|book=cradle-12-waybound|[[The Way]] is a chaotic, rich blue river characterized by shifting currents and flows that can buffet travelers. While the [[Bow of the Silent King]] touches its surface, [[Northstrider]] once emerged from a bright blue twist within the river. Although it can be used as a means of escape, the [[Weeping Dragon]]'s will prevents such travel, and [[Reigan Shen|Reigan]] once attempted to touch it. Within [[labyrinth|the labyrinth]], [[Lindon]] granted [[Northstrider]] permission to open the Way, after which [[Yerin]] cut a hole in it. The river can be commanded to restore damage, and [[Lindon]] eventually hoped to achieve a deeper connection to the entity.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|[[The Way]] is a rich blue river with currents.<ref name="cradle-12-waybound-c1">''Waybound'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Bow of the Silent King]] touches Way{{!}}the Way.<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Bow of the Silent King]] touches [[Way|the Way]].<ref name="cradle-12-waybound-c5">''Waybound'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[The Way]] has currents.<ref name="cradle-12-waybound-c5" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[The Way]] can shift.<ref name="cradle-12-waybound-c5" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[The Way]] is a chaotic place.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Northstrider]] emerged from a bright blue twist in Way{{!}}the Way.<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Northstrider]] emerged from a bright blue twist in [[Way|the Way]].<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[The Way]] can be used to escape.<ref name="cradle-12-waybound-c17">''Waybound'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|Weeping Dragon{{!}}The Weeping Dragon's will prevents escape through Way{{!}}the Way.<ref name="cradle-12-waybound-c19">''Waybound'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] gives [[Northstrider]] permission to open Way{{!}}the Way within labyrinth{{!}}the labyrinth.<ref name="cradle-12-waybound-c24">''Waybound'', chapter 24</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|Reigan Shen{{!}}Reigan tried to touch Way{{!}}the Way.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Yerin]] cut a hole in Way{{!}}the Way.<ref name="cradle-12-waybound-c31">''Waybound'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] gives [[Northstrider]] permission to open [[Way|the Way]] within labyrinth{{!}}the labyrinth.<ref name="cradle-12-waybound-c24">''Waybound'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Reigan Shen|Reigan]] tried to touch Way{{!}}the Way.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Yerin]] cut a hole in [[Way|the Way]].<ref name="cradle-12-waybound-c31">''Waybound'', chapter 31</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[The Way]] can be commanded to restore damage.<ref name="cradle-12-waybound-c34">''Waybound'', chapter 34</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] hoped for a deeper connection to Way{{!}}the Way.<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] hoped for a deeper connection to [[Way|the Way]].<ref name="cradle-12-waybound-c36">''Waybound'', chapter 36</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[The Way]] consists of flows that can buffet travelers.<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>
 </ul></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|Existing outside the world, the Way is a medium involved in the process of creation that contains various branches and can be entered through portals. The [[Fox Division]] is able to bind this space to specific destinations, though a world's human population serves as the tie to it. While the [[Abidan]] hold special Authority{{!}}authority over this realm, [[Lindon]] does not draw power from it, even though it can manifest as a symbol complex within his [[spirit]]. Accessing this medium requires learning to sense oneself, a connection that [[Cirian]] was unable to muster.}}
+{{spoiler|book=cradle-13-threshold|Existing outside the world, the Way is a medium involved in the process of creation that contains various branches and can be entered through portals. The [[Fox Division]] is able to bind this space to specific destinations, though a world's human population serves as the tie to it. While the [[Abidan]] hold special [[Authority|authority]] over this realm, [[Lindon]] does not draw power from it, even though it can manifest as a symbol complex within his [[spirit]]. Accessing this medium requires learning to sense oneself, a connection that [[Cirian]] was unable to muster.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-13-threshold|[[The Way]] is a medium or space that can be bound to destinations by the [[Fox Division]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[The Way]] exists outside the world.<ref name="cradle-13-threshold-c4" />}}</li>
-<li>{{spoiler|book=cradle-13-threshold|A world's human population ties them to Way{{!}}the Way.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-13-threshold|[[Lindon]] does not draw on Way{{!}}the Way for power.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|A world's human population ties them to [[Way|the Way]].<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Lindon]] does not draw on [[Way|the Way]] for power.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[The Way]] can manifest as a symbol complex in [[Lindon]]'s [[spirit]].<ref name="cradle-13-threshold-c7" />}}</li>
-<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] have special Authority{{!}}authority over Way{{!}}the Way.<ref name="cradle-13-threshold-c7" />}}</li>
-<li>{{spoiler|book=cradle-13-threshold|[[Cirian]] could not muster his connection to Way{{!}}the Way.<ref name="cradle-13-threshold-c7" />}}</li>
-<li>{{spoiler|book=cradle-13-threshold|Sensing Way{{!}}the Way begins with learning to sense oneself.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] have special [[Authority|authority]] over Way{{!}}the Way.<ref name="cradle-13-threshold-c7" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Cirian]] could not muster his connection to [[Way|the Way]].<ref name="cradle-13-threshold-c7" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|Sensing [[Way|the Way]] begins with learning to sense oneself.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[The Way]] is a location that can be entered via portals and contains branches.<ref name="cradle-13-threshold-c12">''Threshold: Stories from Cradle'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[The Way]] is involved in the process of creation.<ref name="cradle-13-threshold-c12" />}}</li>
 </ul></div>

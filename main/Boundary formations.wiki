@@ -4,32 +4,32 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-09-bloodline|Boundary formations are magical configurations used to manipulate [[vital aura]] within a specific area to achieve various effects. They function on principles similar to smaller script-circle{{!}}script-circles, where components such as banners or flags must be placed in a precise [[ring]] at equal distances to activate the [[aura]] effectively; sloppy placement can prevent the formation from triggering entirely. The complexity and energy requirements of a boundary increase alongside its size, with simple versions serving as alarms while more advanced ones can cover vast distances. These formations serve diverse roles, including defensive security, environmental control, and combat support. Some are designed to detect intruders or trigger alarms, while others act as physical barriers that prevent objects from passing through. Specialized versions, such as the [[White Fox boundary formation]], utilize specific [[aspects]] of [[aura]]—like light or [[dreams]]—to facilitate training for particular [[Paths]] or to confuse opponents with illusory images and sounds. Other formations can be used to keep elements like [[water]] at bay or to siphon strength away from those within the field. While some boundaries are meant to be subtle, others can create significant visual phenomena, such as walls of light or hazy atmospheres.}}
+{{spoiler|book=cradle-09-bloodline|Boundary formations are magical configurations used to manipulate [[vital aura]] within a specific area to achieve various effects. They function on principles similar to smaller [[script-circle|script-circles]], where components such as banners or flags must be placed in a precise [[ring]] at equal distances to activate the [[aura]] effectively; sloppy placement can prevent the formation from triggering entirely. The complexity and energy requirements of a boundary increase alongside its size, with simple versions serving as alarms while more advanced ones can cover vast distances. These formations serve diverse roles, including defensive security, environmental control, and combat support. Some are designed to detect intruders or trigger alarms, while others act as physical barriers that prevent objects from passing through. Specialized versions, such as the [[White Fox boundary formation]], utilize specific [[aspects]] of [[aura]]—like light or [[dreams]]—to facilitate training for particular [[Paths]] or to confuse opponents with illusory images and sounds. Other formations can be used to keep elements like [[water]] at bay or to siphon strength away from those within the field. While some boundaries are meant to be subtle, others can create significant visual phenomena, such as walls of light or hazy atmospheres.}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-01-unsouled|[[Boundary formations]] activate the [[vital aura]] in an area to fuel a result when script-circle{{!}}script-circles are evenly placed in a [[ring]].<ref name="cradle-01-unsouled-c15">''Unsouled'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Boundary formations]] activate the [[vital aura]] in an area to fuel a result when [[script-circle|script-circles]] are evenly placed in a [[ring]].<ref name="cradle-01-unsouled-c15">''Unsouled'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|[[Rulers]] can put down a barrier formation to stop someone from escaping.<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}</li>
 </ul></div>
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|A Boundary formations{{!}}boundary formation was placed around [[Eithan]].<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|The Boundary formations{{!}}boundary formation stops physical objects from passing.<ref name="cradle-03-blackflame-c20">''Blackflame'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A [[Boundary formations|boundary formation]] was placed around [[Eithan]].<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Boundary formations|boundary formation]] stops physical objects from passing.<ref name="cradle-03-blackflame-c20">''Blackflame'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|The Boundary formations{{!}}boundary formation is designed to keep out [[water]] rather than creatures.<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Boundary formations|boundary formation]] is designed to keep out [[water]] rather than creatures.<ref name="cradle-05-ghostwater-c11">''Ghostwater'', chapter 11</ref>}}</li>
 </ul></div>
 
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|A Boundary formations{{!}}boundary formation can suppress power and agitate [[aura]].<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|A [[Boundary formations|boundary formation]] can suppress power and agitate [[aura]].<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
 </ul></div>
 
 == Notes ==

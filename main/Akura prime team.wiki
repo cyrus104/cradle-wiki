@@ -7,9 +7,9 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Akura prime team]] includes [[Akura Mercy]].<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|The Akura prime team{{!}}Akura team is being chased.<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[Eithan]] called the Akura prime team{{!}}Akura team to them.<ref name="cradle-07-uncrowned-c13" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|The Akura prime team{{!}}Akura team is present in the arena.<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Akura prime team|Akura team]] is being chased.<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Eithan]] called the [[Akura prime team|Akura team]] to them.<ref name="cradle-07-uncrowned-c13" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Akura prime team|Akura team]] is present in the arena.<ref name="cradle-07-uncrowned-c16">''Uncrowned'', chapter 16</ref>}}</li>
 </ul></div>
 
 == Notes ==

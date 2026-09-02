@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Ozriel's Scythe
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
-== Reaper ==
-{{spoiler|book=cradle-10-reaper|The [[Vroshir]] have [[Ozriel's Scythe]].}}
-
 [[Category:Artifacts]]
-[[Category:Reaper]]

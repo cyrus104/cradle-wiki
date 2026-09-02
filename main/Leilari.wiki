@@ -1,6 +1,6 @@
 {{Infobox character
 | name = Leilari
-| spouse = {{spoiler|book=lh-02-the-engineer|[[Starhammer]], [[Clockworker]]}}
+| spouse = {{spoiler|book=lh-02-the-engineer|[[Clockworker]]}}
 | abilities = {{spoiler|book=lh-02-the-engineer|[[pathfinding magic|pathfinding spells]]}}
 | professions = {{spoiler|book=lh-02-the-engineer|actress}}
 | residence = {{spoiler|book=lh-02-the-engineer|the prison}}
@@ -14,7 +14,10 @@
 {{spoiler|book=lh-04-the-pilot|Leilari is a [[High Councilor]] within an organization known as [[the Advocates]], a position that faced opposition from some members of the group. She possesses [[Aethertech]] augmentations and an [[ocular implant]] that allows her to read messages. Throughout various events, she has been associated with [[Starhammer]], noting that he once saved her life and was responsible for the death of [[Clockworker]] due to a betrayal. Leilari has experienced periods of confusion and distress, including an instance where she was found in a white robe without her wrist [[console]]. She has also spent time alone on a private luxury transport vessel located on the dark side of a dead moon, which featured life support and an emergency beacon.}}
 
 == Appearance ==
-{{spoiler|book=lh-04-the-pilot|Leilari utilizes synth-flesh putty to The mask{{!}}mask her facial structure. She also wears a [[gray flight suit]] for emergency situations and has [[Aethertech]] implants located in her jaw. Additionally, she wears a [[steel]] band on her left forearm that serves as a backup [[console]].}}
+{{spoiler|book=lh-04-the-pilot|Leilari utilizes synth-flesh putty to [[The mask|mask]] her facial structure. She also wears a [[gray flight suit]] for emergency situations and has [[Aethertech]] implants located in her jaw. Additionally, she wears a [[steel]] band on her left forearm that serves as a backup [[console]].}}
+
+== Relationships ==
+{{spoiler|book=lh-04-the-pilot|Leilari is the wife of both [[Starhammer]] and [[Clockworker]]. Additionally, she was discovered in a hiding place by [[Varic Vallenar|Varic]] through the use of pathfinding magic{{!}}pathfinding spells.}}
 
 == History ==
 === {{spoiler|book=lh-02-the-engineer|Actress in Starhammer VI}} ===
@@ -31,10 +34,10 @@
 </ul></div>
 
 === {{spoiler|book=lh-02-the-engineer|In the prison}} ===
-{{spoiler|book=lh-02-the-engineer|Leilari is an individual located within the prison.<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref> Using pathfinding magic{{!}}pathfinding spells, Varic Vallenar{{!}}Varic eventually discovered her in a hiding place.<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}
+{{spoiler|book=lh-02-the-engineer|Leilari is an individual located within the prison.<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref> Using [[pathfinding magic|pathfinding spells]], [[Varic Vallenar|Varic]] eventually discovered her in a hiding place.<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] was found in a hiding place by Varic Vallenar{{!}}Varic using pathfinding magic{{!}}pathfinding spells.<ref name="lh-02-the-engineer-c46" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] was found in a hiding place by [[Varic Vallenar|Varic]] using pathfinding magic{{!}}pathfinding spells.<ref name="lh-02-the-engineer-c46" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Leilari]] is a person who can be found in the prison.<ref name="lh-02-the-engineer-c51" />}}</li>
 </ul></div>
 

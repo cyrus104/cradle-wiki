@@ -6,7 +6,7 @@
 ''See also: [[pathfinding magic Timeline]]''
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|Pathfinding magic is a form of [[navigational magic]] that functions by requesting a route from the [[Aether]] to a specific destination. To be successful, the magic requires three fundamental conditions: a defined target, a knowable location for that target, and a reachable path between the caster and the destination. The spells typically manifest as golden or white lights, such as glowing roads, shimmering computer data, or strands of light in the caster's vision. While many variations exist, they are generally based on divination circles. This magic is highly versatile but has distinct limitations. It cannot locate targets that are hidden by powerful magical protections, such as those used by the The Zenith Starship{{!}}Zenith Starship or [[Galactic Union]] vessels, and it fails if a target enters [[Subspace]] or if no possible route exists. Because the magic only provides direction rather than intent, it cannot reveal a person's motivations. Some advanced applications include the [[Cosmic Path]], a pinnacle spell used for high-speed starship navigation across different star systems, and [[Eyes of Malice]], a specialized spell that identifies paths an enemy might take to reach the caster. While the magic is difficult to detect without specialized tools, skilled users can potentially trace these spells back to their source.}}
+{{spoiler|book=lh-04-the-pilot|Pathfinding magic is a form of [[navigational magic]] that functions by requesting a route from the [[Aether]] to a specific destination. To be successful, the magic requires three fundamental conditions: a defined target, a knowable location for that target, and a reachable path between the caster and the destination. The spells typically manifest as golden or white lights, such as glowing roads, shimmering computer data, or strands of light in the caster's vision. While many variations exist, they are generally based on divination circles. This magic is highly versatile but has distinct limitations. It cannot locate targets that are hidden by powerful magical protections, such as those used by the [[The Zenith Starship|Zenith Starship]] or [[Galactic Union]] vessels, and it fails if a target enters [[Subspace]] or if no possible route exists. Because the magic only provides direction rather than intent, it cannot reveal a person's motivations. Some advanced applications include the [[Cosmic Path]], a pinnacle spell used for high-speed starship navigation across different star systems, and [[Eyes of Malice]], a specialized spell that identifies paths an enemy might take to reach the caster. While the magic is difficult to detect without specialized tools, skilled users can potentially trace these spells back to their source.}}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -17,8 +17,8 @@
 == The Engineer ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|pathfinding magic{{!}}Pathfinding spells show a white trail leading to Mell D-One-Twenty-Five{{!}}Mell.<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Varic Vallenar{{!}}Varic used pathfinding magic{{!}}pathfinding spells to find [[Leilari]]'s hiding place.<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[pathfinding magic|Pathfinding spells]] show a white trail leading to Mell D-One-Twenty-Five{{!}}Mell.<ref name="lh-02-the-engineer-c12">''The Engineer'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Varic Vallenar|Varic]] used pathfinding magic{{!}}pathfinding spells to find [[Leilari]]'s hiding place.<ref name="lh-02-the-engineer-c46">''The Engineer'', chapter 46</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[pathfinding magic]] can be adapted by others to track a target.<ref name="lh-02-the-engineer-c47">''The Engineer'', chapter 47</ref>}}</li>
 </ul></div>
 
@@ -27,29 +27,29 @@
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|pathfinding magic{{!}}Pathfinding magic is a spell meant to lead the caster to a source of assistance.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|The narrator has used pathfinding magic{{!}}pathfinding spells in the past.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|pathfinding magic{{!}}Pathfinding spells can show if allies are being watched.<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[pathfinding magic|Pathfinding magic]] is a spell meant to lead the caster to a source of assistance.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The narrator has used [[pathfinding magic|pathfinding spells]] in the past.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[pathfinding magic|Pathfinding spells]] can show if allies are being watched.<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The narrator learned [[pathfinding magic]] in a previous life to be a mercenary pilot.<ref name="lh-03-the-knight-c15">''The Knight'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|pathfinding magic{{!}}Pathfinding magic is used to find a journey between two points and determine if a point still exists.<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|pathfinding magic{{!}}Pathfinding spells confirmed the [[destruction]] of the [[Swarm-Queen]] corpses.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[pathfinding magic|Pathfinding magic]] is used to find a journey between two points and determine if a point still exists.<ref name="lh-03-the-knight-c16">''The Knight'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[pathfinding magic|Pathfinding spells]] confirmed the [[destruction]] of the [[Swarm-Queen]] corpses.<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
 </ul></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|The narrator utilizes pathfinding magic that is rooted in the use of divination circles. This ability, which earns the respect of Void Prism{{!}}Prism, allows for the tracing of routes and the searching of potential paths. By chanting specific spells, the narrator can see through dust, though the magic is limited to answering only those questions that are explicitly asked. These spells manifest as golden strands and can be used to track leads or identify overlaps in various orders and shipments. While the magic is versatile, it is a skill that can be mastered through brute repetition.}}
+{{spoiler|book=lh-04-the-pilot|The narrator utilizes pathfinding magic that is rooted in the use of divination circles. This ability, which earns the respect of [[Void Prism|Prism]], allows for the tracing of routes and the searching of potential paths. By chanting specific spells, the narrator can see through dust, though the magic is limited to answering only those questions that are explicitly asked. These spells manifest as golden strands and can be used to track leads or identify overlaps in various orders and shipments. While the magic is versatile, it is a skill that can be mastered through brute repetition.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The narrator's [[pathfinding magic]] is based on divination circles.<ref name="lh-04-the-pilot-c7">''The Pilot'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Void Prism{{!}}Prism respects the Captain's [[pathfinding magic]].<ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|pathfinding magic{{!}}Pathfinding magic allows the narrator to see through dust.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|The narrator requires chanting pathfinding magic{{!}}pathfinding spells to see through dust.<ref name="lh-04-the-pilot-c26" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|pathfinding magic{{!}}Pathfinding magic can be mastered through brute repetition.<ref name="lh-04-the-pilot-c31">''The Pilot'', chapter 31</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Void Prism|Prism]] respects the Captain's [[pathfinding magic]].<ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[pathfinding magic|Pathfinding magic]] allows the narrator to see through dust.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The narrator requires chanting [[pathfinding magic|pathfinding spells]] to see through dust.<ref name="lh-04-the-pilot-c26" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[pathfinding magic|Pathfinding magic]] can be mastered through brute repetition.<ref name="lh-04-the-pilot-c31">''The Pilot'', chapter 31</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The narrator uses [[pathfinding magic]] to search for a route.<ref name="lh-04-the-pilot-c34">''The Pilot'', chapter 34</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|pathfinding magic{{!}}Pathfinding spells are useful for tracing routes.<ref name="lh-04-the-pilot-c35">''The Pilot'', chapter 35</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|The narrator uses pathfinding magic{{!}}pathfinding spells that appear as golden strands.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|pathfinding magic{{!}}Pathfinding magic can only answer questions specifically asked.<ref name="lh-04-the-pilot-c37" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|pathfinding magic{{!}}Pathfinding spells can be used to trace leads and find overlaps in shipments and orders.<ref name="lh-04-the-pilot-c40">''The Pilot'', chapter 40</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[pathfinding magic|Pathfinding spells]] are useful for tracing routes.<ref name="lh-04-the-pilot-c35">''The Pilot'', chapter 35</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The narrator uses [[pathfinding magic|pathfinding spells]] that appear as golden strands.<ref name="lh-04-the-pilot-c37">''The Pilot'', chapter 37</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[pathfinding magic|Pathfinding magic]] can only answer questions specifically asked.<ref name="lh-04-the-pilot-c37" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[pathfinding magic|Pathfinding spells]] can be used to trace leads and find overlaps in shipments and orders.<ref name="lh-04-the-pilot-c40">''The Pilot'', chapter 40</ref>}}</li>
 </ul></div>
 
 == Notes ==

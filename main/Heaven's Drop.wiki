@@ -4,7 +4,7 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|Heaven’s Drops{{!}}Heaven's Drops are powerful [[constructs]] that can be used to facilitate significant spiritual [[advancement]]. In their natural state, they appear as dull, colorless, or gray-green objects. To function correctly, they must be activated using a [[soul-strengthening elixir]]; the effectiveness of this process is determined by the quality of the liquid used. Depending on the catalyst, a Heaven's Drop can provide a minor boost or trigger a permanent transformation that fundamentally alters an individual's soul. When properly catalyzed, these [[constructs]] can glow with intense light and emit energy such as lightning. Once consumed or integrated, they can nourish a user's channels and cores, fill them with power, and push specific cores to their maximum capacity. They have also been used to help individuals reach the limits of stages like [[Truegold]].}}
+{{spoiler|book=cradle-12-waybound|[[Heaven’s Drops|Heaven's Drops]] are powerful [[constructs]] that can be used to facilitate significant spiritual [[advancement]]. In their natural state, they appear as dull, colorless, or gray-green objects. To function correctly, they must be activated using a [[soul-strengthening elixir]]; the effectiveness of this process is determined by the quality of the liquid used. Depending on the catalyst, a Heaven's Drop can provide a minor boost or trigger a permanent transformation that fundamentally alters an individual's soul. When properly catalyzed, these [[constructs]] can glow with intense light and emit energy such as lightning. Once consumed or integrated, they can nourish a user's channels and cores, fill them with power, and push specific cores to their maximum capacity. They have also been used to help individuals reach the limits of stages like [[Truegold]].}}
 
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
@@ -18,7 +18,7 @@
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] has materials for another Heaven's Drop{{!}}Heaven’s Drop.<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] has materials for another [[Heaven's Drop|Heaven’s Drop]].<ref name="cradle-10-reaper-c7">''Reaper'', chapter 7</ref>}}</li>
 </ul></div>
 
 == Waybound ==

@@ -1,0 +1,29 @@
+{{Expand}}
+
+{{Infobox location
+| name = Naraka Quarters
+| introduced = [[House of Blades (novel)|House of Blades]]
+}}
+
+== House of Blades ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-01-house-of-blades|The [[Naraka Quarters]] has a flat roof.<ref name="tg-01-house-of-blades-c16">''House of Blades'', chapter 16</ref>}}</li>
+</ul></div>
+
+== The Crimson Vault ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Naraka Quarters|Naraka quarters]] are located in the [[Grandmasters’ palace]].<ref name="tg-02-crimson-vault-c19">''The Crimson Vault'', chapter 19</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Locations]]
+[[Category:House of Blades]]
+[[Category:The Crimson Vault]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate locations]]

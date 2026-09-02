@@ -5,6 +5,7 @@
 | introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
+<div class="wv-epigraph">{{spoiler|book=tg-01-house-of-blades|“Is that a doll? Were you talking to the doll?” “Well, I...yes,” Simon said. That sounded lame, so he tried again. “It’s a talking doll.”}}<div class="wv-epigraph-cite">{{spoiler|book=tg-01-house-of-blades|— ''House of Blades'', chapter 18}}</div></div>
 ''See also: [[Otoku Timeline]]''
 
 == Overview ==
@@ -15,6 +16,9 @@
 
 == Personality ==
 {{spoiler|book=tg-03-city-of-light|This character communicates with tones of self-satisfaction and is prone to using sarcasm or jokes. Otoku is known to mock [[Kai]] and provides commentary regarding victory, defeat, and the learning process.}}
+
+== Relationships ==
+{{spoiler|book=tg-03-city-of-light|Otoku shares a connection with [[Kai]], whom she mocks and who seeks to protect and avenge her. She also communicates with [[Simon]] by providing him with combat instructions and warnings. Additionally, Azura has sensed an image of the doll with her face partially torn away.}}
 
 == Abilities ==
 {{spoiler|book=tg-03-city-of-light|Otoku is a talking doll capable of movement and communication through a hazy mental voice heard within [[Simon]]'s mind. She provides combat instructions, offers warnings, and can alert [[Kai]] to incoming strikes.}}

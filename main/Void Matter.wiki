@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Void Matter
-| introduced = Waybound
+| introduced = [[Waybound (novel)|Waybound]]
 }}
 
-== Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Void Matter]] is the ultimate treasure of destruction aura and resembles a flickering, buzzing gray droplet.}}
-
 [[Category:Artifacts]]
-[[Category:Waybound]]

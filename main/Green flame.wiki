@@ -1,23 +1,8 @@
 {{Expand}}
 
-{{Infobox character
-| name = green flame
-| appears_in = Elder Empire
-| introduced = [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]]
+{{Infobox technique
+| name = Green flame
+| introduced = [[Of Darkness and Dawn (novel)|Of Darkness and Dawn]]
 }}
 
-== Of Dawn and Darkness ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[green flame]] spoke to the others.<ref name="ee-sea-02-of-dawn-and-darkness-c3">''Of Dawn and Darkness'', chapter 3</ref>}}</li>
-</ul></div>
-
-== Notes ==
-<references />
-
-{{Elder Empire nav}}
-
-[[Category:Characters]]
-[[Category:Of Dawn and Darkness]]
-[[Category:Elder Empire]]
-[[Category:Elder Empire characters]]
+[[Category:Techniques]]

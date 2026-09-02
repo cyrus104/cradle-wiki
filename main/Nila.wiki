@@ -9,10 +9,13 @@
 ''See also: [[Nila Timeline]]''
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|Nila is a human woman characterized by her short stature, black hair styled in a ponytail, and the use of glasses to assist with reading technical data. She operates ship console{{!}}consoles and wrist-mounted devices, demonstrating proficiency in managing docking requests and monitoring flight paths. While she performs duties under specific orders, she is kept largely in the dark regarding the true identity and motives of her superiors. She has revealed that their mission involves traveling to [[Dornoth]] via a circuitous route, though she lacks information regarding the reasoning behind this detour. Nila appears to be under significant stress due to the mysterious nature of her employers, who she suspects have widespread influence. Her personal motivations include the protection of her son, and she has been observed reacting to violent situations with a lack of emotion.}}
+{{spoiler|book=lh-04-the-pilot|Nila is a human woman characterized by her short stature, black hair styled in a ponytail, and the use of glasses to assist with reading technical data. She operates ship [[console|consoles]] and wrist-mounted devices, demonstrating proficiency in managing docking requests and monitoring flight paths. While she performs duties under specific orders, she is kept largely in the dark regarding the true identity and motives of her superiors. She has revealed that their mission involves traveling to [[Dornoth]] via a circuitous route, though she lacks information regarding the reasoning behind this detour. Nila appears to be under significant stress due to the mysterious nature of her employers, who she suspects have widespread influence. Her personal motivations include the protection of her son, and she has been observed reacting to violent situations with a lack of emotion.}}
+
+== Relationships ==
+{{spoiler|book=lh-04-the-pilot|Nila serves as the personal attendant to [[Benri Vallenar]]. She is also a [[Solstice]] agent who was promised a role within the [[Vallenar Corporation]] in exchange for reporting on [[Benri Vallenar|Benri]].}}
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|Nila is a human woman with black hair and glasses who serves as the personal attendant to [[Benri Vallenar]]. While working for [[Solstice]], she inspects a ship's autopilot and maintains the appearance of her role by wearing a [[Vallenar Corporation]] uniform. As a [[Solstice]] agent, she was promised a position within the [[Vallenar Corporation]] in exchange for reporting on Benri Vallenar{{!}}Benri. Her motivations involve her son, and her actions eventually lead to Benri Vallenar{{!}}Benri receiving a recording of a conversation involving her.}}
+{{spoiler|book=lh-04-the-pilot|Nila is a human woman with black hair and glasses who serves as the personal attendant to [[Benri Vallenar]]. While working for [[Solstice]], she inspects a ship's autopilot and maintains the appearance of her role by wearing a [[Vallenar Corporation]] uniform. As a [[Solstice]] agent, she was promised a position within the [[Vallenar Corporation]] in exchange for reporting on [[Benri Vallenar|Benri]]. Her motivations involve her son, and her actions eventually lead to [[Benri Vallenar|Benri]] receiving a recording of a conversation involving her.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -20,9 +23,9 @@
 <li>{{spoiler|book=lh-04-the-pilot|[[Nila]] is a human woman with black hair and glasses.<ref name="lh-04-the-pilot-c2" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Nila]] is inspecting a ship's autopilot.<ref name="lh-04-the-pilot-c5">''The Pilot'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Nila]] works for [[Solstice]].<ref name="lh-04-the-pilot-c5" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Nila]] was promised a position in the [[Vallenar Corporation]] for reporting on Benri Vallenar{{!}}Benri.<ref name="lh-04-the-pilot-c5" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Nila]] was promised a position in the [[Vallenar Corporation]] for reporting on [[Benri Vallenar|Benri]].<ref name="lh-04-the-pilot-c5" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Nila]] has a son.<ref name="lh-04-the-pilot-c5" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Benri Vallenar{{!}}Benri received a recording of a conversation with [[Nila]].<ref name="lh-04-the-pilot-c5" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Benri Vallenar|Benri]] received a recording of a conversation with [[Nila]].<ref name="lh-04-the-pilot-c5" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Nila]] is a [[Solstice]] agent.<ref name="lh-04-the-pilot-c39">''The Pilot'', chapter 39</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Nila]] wears a [[Vallenar Corporation]] uniform.<ref name="lh-04-the-pilot-c39" />}}</li>
 </ul></div>

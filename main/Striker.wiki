@@ -1,12 +1,12 @@
 {{Infobox concept
 | name = Striker
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Striker Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|A [[Striker technique]] is a method of projecting [[madra]] outward from the body to perform individual, offensive attacks. While these techniques can be used with various weapons or even through simple hand motions like an [[Empty Palm]], they are distinct from [[Enforcer techniques]], which primarily enhance a single physical movement. [[Striker techniques]] can vary significantly in power and form, ranging from simple pulses of [[madra]] or lances of light to complex, sentient-like [[constructs]] such as serpents, birds, or meteors. Some specialized versions, like those used by [[White Fox Strikers]], utilize foxfire to inflict intense spiritual pain and illusions without causing physical damage. Although some practitioners consider them weaker than other paths, they offer significant advantages in combat by allowing for ranged engagement and the ability to disrupt an opponent's [[madra channels]]. The effectiveness of a [[Striker technique]] is often tied to the user's talent and authority, and they can be integrated into specialized gear through Striker bindings.}}
+{{spoiler|book=cradle-12-waybound|A [[Striker technique]] is a method of projecting [[madra]] outward from the body to perform individual attacks. While these techniques can be used with various weapons, they are distinct from [[Forged]] [[constructs]] and [[Enforcer techniques]], which primarily focus on enhancing physical motions or speed. Striker moves are often characterized by their ability to project power across distances, ranging from a few inches to over a hundred yards. Although some practitioners consider them weaker than other paths, they offer specific tactical advantages, such as the ability to disrupt an opponent's [[madra channels]] or inflict spiritual pain without necessarily causing physical damage. [[Striker techniques]] manifest in diverse forms, including lances of light, fireballs, elemental serpents, and even illusions like the [[Foxfire|foxfire]] used by [[White Fox]] Strikers. These attacks can be highly destructive, capable of shattering [[stone]], dissolving essence, or piercing through armor. However, utilizing these techniques can leave a user vulnerable to counterattacks, and the complexity of their application varies; some are simple pulses of [[madra]], while others involve intricate [[binding|bindings]] or massive volleys. In certain specialized contexts, such as the [[Path of the White Fox]], these techniques can be used to manipulate vision or create phantom lights to cloud an enemy's perception.}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
@@ -18,7 +18,7 @@
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|[[Striker]] is a move used by bandits.<ref name="cradle-02-soulsmith-c3">''Soulsmith'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Striker]] is a move used by [[Bandits|bandits]].<ref name="cradle-02-soulsmith-c3">''Soulsmith'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Striker]] is a [[technique]] used by [[Yerin]].<ref name="cradle-02-soulsmith-c3" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Striker]] is a type of [[technique]].<ref name="cradle-02-soulsmith-c4">''Soulsmith'', chapter 4</ref>}}</li>
 </ul></div>
@@ -26,7 +26,7 @@
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|Strikers can produce foxfire.<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|Strikers can produce [[Foxfire|foxfire]].<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The wall forces the use of [[Striker techniques]].<ref name="cradle-03-blackflame-c15">''Blackflame'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Striker]] is a [[technique]] used by [[Lindon]].<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
 </ul></div>
@@ -49,7 +49,7 @@
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|[[Striker]] is a [[technique]] used by Highgolds.<ref name="cradle-06-underlord-c3">''Underlord'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Striker]] is a [[technique]] used by [[Highgold|Highgolds]].<ref name="cradle-06-underlord-c3">''Underlord'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|A [[Striker technique]] can blast at an opponent's eyes.<ref name="cradle-06-underlord-c11">''Underlord'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Striker]] is a [[technique]] that can be released from a weapon or a hand.<ref name="cradle-06-underlord-c20">''Underlord'', chapter 20</ref>}}</li>
 </ul></div>
@@ -65,7 +65,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Striker technique]] can destroy arrows.<ref name="cradle-08-wintersteel-c16">''Wintersteel'', chapter 16</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|Sophara uses huge [[Striker techniques]].<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] uses huge [[Striker techniques]].<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
 </ul></div>
 
 == Bloodline ==
@@ -78,13 +78,13 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|A [[Striker technique]] slammed into [[Tiberian's Remnant]].<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Striker]] is a [[technique]] used by Archlords.<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Striker]] is a [[technique]] used by [[Archlord|Archlords]].<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
 </ul></div>
 
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Noroloth]] matches a [[Striker technique]] with [[dragon]]'s breath.<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Noroloth]] matches a [[Striker technique]] with [[black dragon's breath|dragon's breath]].<ref name="cradle-12-waybound-c12">''Waybound'', chapter 12</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==

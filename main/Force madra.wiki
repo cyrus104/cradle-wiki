@@ -17,9 +17,9 @@
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|The Akura clan{{!}}Akura triggered a [[binding]] that released [[force madra]].<ref name="cradle-07-uncrowned-c6">''Uncrowned'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Akura clan|Akura]] triggered a [[binding]] that released [[force madra]].<ref name="cradle-07-uncrowned-c6">''Uncrowned'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] vented a bolt of stolen [[force madra]].<ref name="cradle-07-uncrowned-c11">''Uncrowned'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|The puppet construct{{!}}puppet-construct radiates [[earth aura]] and [[force madra]].<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[puppet construct|puppet-construct]] radiates [[earth aura]] and [[force madra]].<ref name="cradle-07-uncrowned-c19">''Uncrowned'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Reaper ==
@@ -32,15 +32,15 @@
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|Ziel of the Wasteland{{!}}Ziel believed one of the door symbols was meant to be powered by [[force madra]].<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Ziel of the Wasteland|Ziel]] believed one of the door symbols was meant to be powered by [[force madra]].<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]] forged the [[force madra]] into a perfect orb of cloudy gray.<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
 </ul></div>
 
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|Ziel of the Wasteland{{!}}Ziel uses [[force madra]].<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|force madra{{!}}Force madra provides [[Lindon]] with a platform.<ref name="cradle-12-waybound-c19">''Waybound'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Ziel of the Wasteland|Ziel]] uses [[force madra]].<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[force madra|Force madra]] provides [[Lindon]] with a platform.<ref name="cradle-12-waybound-c19">''Waybound'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Notes ==

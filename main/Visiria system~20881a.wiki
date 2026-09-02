@@ -1,0 +1,29 @@
+{{Infobox location
+| name = Visiria system
+| introduced = [[The Knight (novel)|The Knight]]
+}}
+
+== The Knight ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|The [[Visiria system]] contains the planet [[Visiria]].<ref name="lh-03-the-knight-c33">''The Knight'', chapter 33</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|A wall of fire sliced the [[Visiria system]] in half.<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Major news is expected around the [[Visiria system|Visiria System]].<ref name="lh-03-the-knight-c45">''The Knight'', chapter 45</ref>}}</li>
+</ul></div>
+
+== The Pilot ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|The [[Visiria system]] is located at the edge of where [[Aila Escalon|Aila]] hunts [[giant]] insects.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{The Last Horizon nav}}
+
+[[Category:Locations]]
+[[Category:The Knight]]
+[[Category:The Pilot]]
+[[Category:The Last Horizon]]
+[[Category:The Last Horizon locations]]

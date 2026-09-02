@@ -8,13 +8,13 @@
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The woman walked into a Workshop{{!}}workshop.<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The woman walked into a [[Workshop{{!}}workshop]].<ref name="ee-shadow-01-of-shadow-and-sea-c2">''Of Shadow and Sea'', chapter 2</ref>}}</li>
 </ul></div>
 
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|The Workshop{{!}}workshop is located near the [[vault]].<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Workshop{{!}}workshop]] is located near the [[vault]].<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
 </ul></div>
 
 == Notes ==
@@ -29,4 +29,3 @@
 [[Category:The Last Horizon]]
 [[Category:Elder Empire locations]]
 [[Category:The Last Horizon locations]]
-[[Category:Amalgam]]

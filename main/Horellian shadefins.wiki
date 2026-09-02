@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox construct
 | name = Horellian shadefins
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
-== The Knight ==
-{{spoiler|book=lh-03-the-knight|[[Horellian shadefins]] are living fish made of [[shadow]] that swim inside marble.}}
-
 [[Category:Constructs]]
-[[Category:The Knight]]

@@ -7,7 +7,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|The [[stone amulet]] is a power used by [[Kai]] to armor his skin.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|Denner Weeks{{!}}Denner notes that someone does not have the [[stone amulet]].<ref name="tg-02-crimson-vault-c18">''The Crimson Vault'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Denner Weeks|Denner]] notes that someone does not have the [[stone amulet]].<ref name="tg-02-crimson-vault-c18">''The Crimson Vault'', chapter 18</ref>}}</li>
 </ul></div>
 
 == City of Light ==

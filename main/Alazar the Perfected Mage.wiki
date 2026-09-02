@@ -8,7 +8,7 @@
 }}
 
 == Overview ==
-{{spoiler|book=lh-03-the-knight|Alazar, also known as The Perfected{{!}}the Perfected Mage, is a powerful figure associated with the [[Karoshan Empire]]. He commands a Mage Corps and possesses significant magical Authority{{!}}authority, as his subordinates require his direct confirmation before they can execute large-[[scale]] preparations or casting. Alazar utilizes advanced tools such as an ancient [[scrying mirror]] to monitor the state of the [[Aether]] across distant systems. His presence is formidable; he is capable of matching powerful enemy spells, and his absence from a fleet can make certain magical maneuvers appear suicidal. The term "[[Perfected]]" refers to a state of being that provides enhanced resistance to magic and ensures an individual lacks deficiencies in training, equipment, or magical ability.}}
+{{spoiler|book=lh-03-the-knight|Alazar, also known as [[The Perfected|the Perfected]] Mage, is a powerful figure associated with the [[Karoshan Empire]]. He commands a Mage Corps and possesses significant magical [[Authority|authority]], as his subordinates require his direct confirmation before they can execute large-[[scale]] preparations or casting. Alazar utilizes advanced tools such as an ancient [[scrying mirror]] to monitor the state of the [[Aether]] across distant systems. His presence is formidable; he is capable of matching powerful enemy spells, and his absence from a fleet can make certain magical maneuvers appear suicidal. The term "[[Perfected]]" refers to a state of being that provides enhanced resistance to magic and ensures an individual lacks deficiencies in training, equipment, or magical ability.}}
 
 == Abilities ==
 {{spoiler|book=lh-03-the-knight|Alazar is a mage with the capability to match the spells of his enemies. He may also possess access to various magical treasures belonging to the royal court.}}
@@ -17,15 +17,15 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Alazar the Perfected Mage]] is a mage who slew the narrator in a previous life.<ref name="lh-02-the-engineer-c5">''The Engineer'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Alazar the Perfected Mage{{!}}Alazar is known as The Perfected{{!}}the Perfected Mage.<ref name="lh-02-the-engineer-c55">''The Engineer'', chapter 55</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Alazar the Perfected Mage|Alazar]] is known as The Perfected{{!}}the Perfected Mage.<ref name="lh-02-the-engineer-c55">''The Engineer'', chapter 55</ref>}}</li>
 </ul></div>
 
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|Alazar the Perfected Mage{{!}}Alazar is a figure whose presence would allow the Karoshan{{!}}Karoshans to overcome [[D’Niss]] magic.<ref name="lh-03-the-knight-c33">''The Knight'', chapter 33</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Alazar the Perfected Mage{{!}}Alazar is capable of matching enemy spells.<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Alazar the Perfected Mage{{!}}Alazar is a mage who may have access to the royal court's magical treasures.<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Alazar the Perfected Mage|Alazar]] is a figure whose presence would allow the Karoshan{{!}}Karoshans to overcome [[D’Niss]] magic.<ref name="lh-03-the-knight-c33">''The Knight'', chapter 33</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Alazar the Perfected Mage|Alazar]] is capable of matching enemy spells.<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Alazar the Perfected Mage|Alazar]] is a mage who may have access to the royal court's magical treasures.<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}</li>
 </ul></div>
 
 == Notes ==

@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Unsouled badge
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
-== Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|[[Lindon]] has an [[Unsouled badge]] tied to a ribbon of blue shadesilk.}}
-
 [[Category:Artifacts]]
-[[Category:Soulsmith]]

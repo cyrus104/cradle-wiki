@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Varic's shield
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
-== The Knight ==
-{{spoiler|book=lh-03-the-knight|[[Varic]] uses a shield that can be covered in acid.}}
-
 [[Category:Artifacts]]
-[[Category:The Knight]]

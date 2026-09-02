@@ -35,14 +35,14 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Elder Whisper]] can sometimes catch glimpses of [[Fate]] in his [[dreams]].<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Eithan]] identifies Fate{{!}}fate as a possibility for what he is sensing.<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Eithan]] identifies [[Fate|fate]] as a possibility for what he is sensing.<ref name="cradle-10-reaper-c8">''Reaper'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Eithan]] senses a disruption in [[Fate]].<ref name="cradle-10-reaper-c9">''Reaper'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Makiel]] argued that saving the world would be a deviation from [[Fate]].<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Eithan]] can see and arrange [[Fate]].<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|Fate is a fundamental concept that governs the destiny and various branches of worlds. These branches consist of flows that possess the ability to dissolve, and they bend in response to the actions taken by Ozriel. While intentions can influence these flows, [[Daruman]] maintains the ability to twist them. Additionally, Judge Suriel{{!}}Suriel can scan Fate in order to read upcoming events.}}
+{{spoiler|book=cradle-11-dreadgod|Fate is a fundamental concept that governs the destiny and various branches of worlds. These branches consist of flows that possess the ability to dissolve, and they bend in response to the actions taken by Ozriel. While intentions can influence these flows, [[Daruman]] maintains the ability to twist them. Additionally, [[Judge Suriel|Suriel]] can scan Fate in order to read upcoming events.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -51,7 +51,7 @@
 <li>{{spoiler|book=cradle-11-dreadgod|[[Fate]] is a concept that governs the destiny and branches of worlds.<ref name="cradle-11-dreadgod-c10">''Dreadgod'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Daruman]] can twist [[Fate]].<ref name="cradle-11-dreadgod-c20">''Dreadgod'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|Intentions influence [[Fate]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|Judge Suriel{{!}}Suriel can scan [[Fate]] to read events.<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Judge Suriel|Suriel]] can scan [[Fate]] to read events.<ref name="cradle-11-dreadgod-c24">''Dreadgod'', chapter 24</ref>}}</li>
 </ul></div>
 
 == Waybound ==
@@ -68,11 +68,11 @@
 </ul></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|Fate is a phenomenon that can be physically touched through Way{{!}}the Way. It offers projections of future events, which even [[Dross]] is capable of glimpsing. However, reading these projections can result in inaccuracies. Currently, Fate has not yet stabilized, and the [[OTEP]] possesses no greater access to it than any other [[Presence]].}}
+{{spoiler|book=cradle-13-threshold|Fate is a phenomenon that can be physically touched through [[Way|the Way]]. It offers projections of future events, which even [[Dross]] is capable of glimpsing. However, reading these projections can result in inaccuracies. Currently, Fate has not yet stabilized, and the [[OTEP]] possesses no greater access to it than any other [[Presence]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|[[Fate]] is something that can be touched through Way{{!}}the Way.<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Fate]] is something that can be touched through [[Way|the Way]].<ref name="cradle-13-threshold-c4">''Threshold: Stories from Cradle'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Fate]] provides projections of future events.<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Dross]] can glimpse [[Fate]].<ref name="cradle-13-threshold-c6" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Reading]] [[Fate]] can lead to being wrong.<ref name="cradle-13-threshold-c11">''Threshold: Stories from Cradle'', chapter 11</ref>}}</li>

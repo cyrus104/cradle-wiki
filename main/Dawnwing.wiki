@@ -2,24 +2,7 @@
 
 {{Infobox group
 | name = Dawnwing
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
-== Uncrowned ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|[[Dawnwing]] is the name of [[Ziel]]'s sect.<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
-</ul></div>
-
-== Notable quotes ==
-* {{spoiler|book=cradle-07-uncrowned|"Dawnwing!" The man recognized the symbol of Ziel’s sect.<ref name="cradle-07-uncrowned-c15" />}}
-
-== Notes ==
-<references />
-
-{{Cradle nav}}
-
 [[Category:Groups]]
-[[Category:Uncrowned]]
-[[Category:Cradle]]
-[[Category:Cradle groups]]

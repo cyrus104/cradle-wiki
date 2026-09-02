@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Forged sword
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
-== Uncrowned ==
-{{spoiler|book=cradle-07-uncrowned|The [[Sword Sage]] uses a silver-white [[Forged sword]].}}
-
 [[Category:Artifacts]]
-[[Category:Uncrowned]]

@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox group
 | name = Voidhoppers
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
-== The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[Voidhoppers]] are rabbits that can move in and out of [[Subspace]] to stall fighters.}}
-
 [[Category:Groups]]
-[[Category:The Engineer]]

@@ -18,7 +18,7 @@
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|[[Endross Travelers]] are travelers that Naraka Traveler{{!}}Naraka Travelers run with.<ref name="tg-03-city-of-light-c17">''City of Light'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Endross Travelers]] are travelers that [[Naraka Traveler|Naraka Travelers]] run with.<ref name="tg-03-city-of-light-c17">''City of Light'', chapter 17</ref>}}</li>
 </ul></div>
 
 == Notes ==

@@ -27,16 +27,16 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|The [[Bishop of the Iron Legion]] is a consciousness bound to manage certain [[Iron Legion]] [[Hives]] that forms faces out of walls.<ref name="lh-01-the-captain-c3">''The Captain'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|A Bishop of the Iron Legion{{!}}Bishop is the awakened consciousness of a [[Hive]].<ref name="lh-01-the-captain-c17">''The Captain'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The Bishop of the Iron Legion{{!}}Bishop is an entity capable of breaking barriers.<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The Bishop of the Iron Legion{{!}}Bishop is integrated with the [[Hive]] and has clawed hands that erupt from walls.<ref name="lh-01-the-captain-c18" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Bishop of the Iron Legion{{!}}Bishops control the [[Iron Legion]].<ref name="lh-01-the-captain-c28">''The Captain'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|A [[Bishop of the Iron Legion|Bishop]] is the awakened consciousness of a [[Hive]].<ref name="lh-01-the-captain-c17">''The Captain'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Bishop of the Iron Legion|Bishop]] is an entity capable of breaking barriers.<ref name="lh-01-the-captain-c18">''The Captain'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Bishop of the Iron Legion|Bishop]] is integrated with the [[Hive]] and has clawed hands that erupt from walls.<ref name="lh-01-the-captain-c18" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Bishop of the Iron Legion|Bishops]] control the [[Iron Legion]].<ref name="lh-01-the-captain-c28">''The Captain'', chapter 28</ref>}}</li>
 </ul></div>
 
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|A Bishop of the Iron Legion{{!}}Bishop can control a [[Hive]].<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|A [[Bishop of the Iron Legion|Bishop]] can control a [[Hive]].<ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref>}}</li>
 </ul></div>
 
 == Notes ==

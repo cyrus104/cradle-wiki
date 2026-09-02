@@ -8,7 +8,7 @@
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|The Archlord{{!}}Archlords use an [[evacuation portal]] as an emergency escape.<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Archlord|Archlords]] use an [[evacuation portal]] as an emergency escape.<ref name="cradle-08-wintersteel-c26">''Wintersteel'', chapter 26</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[evacuation portal]] connects to a network of permanent gates.<ref name="cradle-08-wintersteel-c26" />}}</li>
 </ul></div>
 

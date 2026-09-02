@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Eithan's golden badge
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
-== Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|[[Eithan]] possesses an intricately filigreed golden badge with a black crescent moon on white and sapphires.}}
-
 [[Category:Artifacts]]
-[[Category:Soulsmith]]

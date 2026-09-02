@@ -8,7 +8,7 @@
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|There are rumors of Bandits{{!}}bandits moving in and out of the Latari forest.<ref name="tg-01-house-of-blades-c5">''House of Blades'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|There are rumors of [[Bandits|bandits]] moving in and out of the Latari forest.<ref name="tg-01-house-of-blades-c5">''House of Blades'', chapter 5</ref>}}</li>
 </ul></div>
 
 == Of Kings and Killers ==
@@ -29,4 +29,3 @@
 [[Category:Elder Empire]]
 [[Category:Traveler's Gate groups]]
 [[Category:Elder Empire groups]]
-[[Category:Amalgam]]

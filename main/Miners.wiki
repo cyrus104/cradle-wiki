@@ -4,7 +4,7 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-02-soulsmith|The Miners are a small, specialized order within the [[Consultants]], consisting of only forty-two students. They function as archivists responsible for maintaining and organizing the extensive records that constitute the true wealth of the [[Consultants]]. Their training ensures that no detail, such as the habits of individuals, is ever lost or misplaced. Due to their access to sensitive personnel records for [[Gray Island]], members of this order are bound by strict oaths of secrecy. As part of the Consultants' Guild{{!}}Consultant Guild, they are characterized as highly disciplined individuals who follow orders precisely and rarely offer personal opinions. While the term is also used to describe laborers performing dangerous tasks like digging or harvesting [[aura]] in high-risk environments, the formal order serves as the primary keepers of information for their organization.}}
+{{spoiler|book=cradle-02-soulsmith|The Miners are a small, specialized order within the [[Consultants]], consisting of only forty-two students. They serve as the organization's archivists, tasked with the meticulous preservation and sorting of all [[Consultant]] records to ensure that no information is ever lost. Due to their access to sensitive personnel files for [[Gray Island]], members of this order are bound by strict oaths of secrecy. As part of the [[Consultants' Guild|Consultant Guild]], they are characterized by a disciplined nature, typically following orders precisely and remaining silent unless required by their duties. While the term can refer to laborers performing manual tasks like digging or hauling, in a technical context, it describes individuals who use specialized equipment to harvest [[aura]] from thick environments, a process that is highly dangerous and often results in significant casualties.}}
 
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
@@ -39,4 +39,3 @@
 [[Category:Cradle]]
 [[Category:Elder Empire groups]]
 [[Category:Cradle groups]]
-[[Category:Amalgam]]

@@ -17,13 +17,13 @@
 == The Engineer ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|[[Aetheric manipulation]] is a basic [[technique]] Varic Vallenar{{!}}Varic can use.<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Aetheric manipulation]] is a basic [[technique]] [[Varic Vallenar|Varic]] can use.<ref name="lh-02-the-engineer-c51">''The Engineer'', chapter 51</ref>}}</li>
 </ul></div>
 
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|[[Aetheric manipulation]] can be used to perform sealing magic{{!}}binding and sealing magic.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Aetheric manipulation]] can be used to perform [[sealing magic|binding and sealing magic]].<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
 </ul></div>
 
 == The Pilot ==

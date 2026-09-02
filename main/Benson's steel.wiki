@@ -12,7 +12,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|[[Benson's steel]] is a resource used by [[Simon]] that can be depleted.<ref name="tg-01-house-of-blades-c11">''House of Blades'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=tg-01-house-of-blades|[[Simon]] used Benson's steel{{!}}Benson's liquid steel to power his legs.<ref name="tg-01-house-of-blades-c12">''House of Blades'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Simon]] used [[Benson's steel|Benson's liquid steel]] to power his legs.<ref name="tg-01-house-of-blades-c12">''House of Blades'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Benson's steel]] flows through [[Simon]].<ref name="tg-01-house-of-blades-c15">''House of Blades'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Benson's steel]] protected [[Simon]] from the impact against the wall.<ref name="tg-01-house-of-blades-c18">''House of Blades'', chapter 18</ref>}}</li>
 </ul></div>
@@ -21,7 +21,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-02-crimson-vault|[[Indirial]] is powered by [[Benson's steel]].<ref name="tg-02-crimson-vault-c1">''The Crimson Vault'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|Benson's steel{{!}}Benson’s steel is something [[Kai]] holds to protect his throat.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Benson's steel|Benson’s steel]] is something [[Kai]] holds to protect his throat.<ref name="tg-02-crimson-vault-c4">''The Crimson Vault'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[Simon]] can release [[Benson's steel]].<ref name="tg-02-crimson-vault-c9">''The Crimson Vault'', chapter 9</ref>}}</li>
 </ul></div>
 

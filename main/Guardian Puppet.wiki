@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox construct
 | name = Guardian Puppet
-| introduced = Bloodline
+| introduced = [[Bloodline (novel)|Bloodline]]
 }}
 
-== Bloodline ==
-{{spoiler|book=cradle-09-bloodline|The [[Guardian Puppet]] is a dormant wood and bronze humanoid puppet construct that requires constant [[madra]] infusion.}}
-
 [[Category:Constructs]]
-[[Category:Bloodline]]

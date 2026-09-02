@@ -4,7 +4,7 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|[[Archlord]] [[soulfire]] represents the highest level of [[soulfire]]. It is characterized by a blue-white appearance and has a consistency similar to quicksilver. This form of energy is used in the peak of traditional [[Soulsmithing]] to create artifacts, and even when tempering high-level remnants like those of a [[Monarch]] or [[Herald]], the resulting weapon is only slightly superior to one made with actual [[Archlord]] [[soulfire]]. Beyond crafting, it serves various functional roles: it can be used to refine a practitioner's [[spirit]], bones, and organs; it can support the process of physical and spiritual transformation; and it can be utilized to influence or manipulate the [[aura]] of a mind. Additionally, it can be woven into techniques to create [[destruction]] auras or used to empower specific abilities, such as black dragon's breath{{!}}dragon's breath, which can melt through defenses with ease.}}
+{{spoiler|book=cradle-12-waybound|[[Archlord]] [[soulfire]] represents the highest level of [[soulfire]]. It is characterized by a blue-white appearance and has a consistency similar to quicksilver. This form of energy is used in the peak of traditional [[Soulsmithing]] to create artifacts, and even when tempering high-level remnants like those of a [[Monarch]] or [[Herald]], the resulting weapon is only slightly superior to one made with actual [[Archlord]] [[soulfire]]. Beyond crafting, it serves various functional roles: it can be used to refine a practitioner's [[spirit]], bones, and organs; it can support the process of physical and spiritual transformation; and it can be utilized to influence or manipulate the [[aura]] of a mind. Additionally, it can be woven into techniques to create [[destruction]] auras or used to empower specific abilities, such as [[black dragon's breath|dragon's breath]], which can melt through defenses with ease.}}
 
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
@@ -17,7 +17,7 @@
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Archlord soulfire]] can refine black dragon's breath{{!}}dragon's breath.<ref name="cradle-11-dreadgod-c13">''Dreadgod'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Archlord soulfire]] can refine [[black dragon's breath|dragon's breath]].<ref name="cradle-11-dreadgod-c13">''Dreadgod'', chapter 13</ref>}}</li>
 </ul></div>
 
 == Waybound ==

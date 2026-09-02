@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Fathom orbital guns
-| introduced = The Pilot
+| introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
-== The Pilot ==
-{{spoiler|book=lh-04-the-pilot|[[Fathom orbital guns]] are defense satellites used to target [[Omega]].}}
-
 [[Category:Artifacts]]
-[[Category:The Pilot]]

@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox technique
 | name = Smoke
-| introduced = City of Light
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
-== City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Kai]] can call smoke to teleport.}}
-
 [[Category:Techniques]]
-[[Category:City of Light]]

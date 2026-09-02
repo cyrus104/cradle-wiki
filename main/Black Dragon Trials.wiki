@@ -8,7 +8,7 @@
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|The [[Black Dragon Trials]] were designed for a team of five Lowgold{{!}}Lowgolds trained to work as a unit.<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Black Dragon Trials]] were designed for a team of five [[Lowgold|Lowgolds]] trained to work as a unit.<ref name="cradle-03-blackflame-c11">''Blackflame'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Black Dragon Trials]] are located in a narrow canyon.<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}</li>
 </ul></div>
 

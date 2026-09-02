@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox event
 | name = Dreadgod corpses
-| introduced = Waybound
+| introduced = [[Waybound (novel)|Waybound]]
 }}
 
-== Waybound ==
-{{spoiler|book=cradle-12-waybound|[[Larian]] and [[Del’rek]] attempted to take pieces of the [[Dreadgod corpses]].}}
-
 [[Category:Events]]
-[[Category:Waybound]]

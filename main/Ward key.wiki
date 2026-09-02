@@ -8,13 +8,13 @@
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|A [[ward key]] can be used against script-circle{{!}}script-circles to activate them.<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|A [[ward key]] can be used against [[script-circle|script-circles]] to activate them.<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
 </ul></div>
 
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|A ward key{{!}}ward-key at [[Lindon]]'s belt makes him an exception to the Script{{!}}script.<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|A [[ward key|ward-key]] at [[Lindon]]'s belt makes him an exception to the [[Script|script]].<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}</li>
 </ul></div>
 
 == Notes ==

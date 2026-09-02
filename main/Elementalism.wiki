@@ -14,7 +14,7 @@
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|elementalism{{!}}Elementalism does not require chanting, though incantations can benefit it.<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[elementalism|Elementalism]] does not require chanting, though incantations can benefit it.<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref>}}</li>
 </ul></div>
 
 == Notes ==

@@ -11,7 +11,10 @@
 ''See also: [[The Wanderer Timeline]]''
 
 == Overview ==
-{{spoiler|book=tg-03-city-of-light|The Wanderer, also known as [[Valin]], is a legendary figure who was once human but evolved into something more. He arrived in [[the House]] through a sudden, violent flash of light and sound, appearing as if he had been cast from another location. Upon his arrival, he claimed [[the House]] and renamed it [[Valinhall]]. Through his own expertise and the study of collected books, he created a key to establish a Gate connecting his world to others. He also forged keys for the twelve original soldiers of the [[Dragon Army]] and created the Dragon's Fang{{!}}Dragon's Fangs in his Workshop{{!}}workshop. Physically, he is described with striking and unsettling features, most notably eyes that lack whites; instead, they consist of solid blackness with metallic silver irises. He has been seen appearing as a disheveled figure in stained robes with a long beard, or as a tall man in travel-worn clothing carrying an enormous book. As the Valinhall Incarnation{{!}}Incarnation of Valinhall, he possesses a profound connection to his territory, causing the environment to reshape itself into polished wood and carved structures as he moves. While some [[Travelers]] summon elemental forces or beasts to fight, the nature of [[Valinhall]]'s power is distinct. Though he once held the status of an [[Incarnation]], he has expressed that this power fades over time, eventually leaving him as a mere guardian of the rooms.}}
+{{spoiler|book=tg-03-city-of-light|The Wanderer, also known as [[Valin]], is a legendary figure who was once human but evolved into something more. He arrived in [[the House]] through a sudden, violent flash of light and sound, appearing as if he had been cast from another location. Upon his arrival, he claimed [[the House]] and renamed it [[Valinhall]]. Through his own expertise and the study of collected books, he created a key to establish a Gate connecting his world to others. He also forged keys for the twelve original soldiers of the [[Dragon Army]] and created the [[Dragon's Fang|Dragon's Fangs]] in his Workshop{{!}}workshop. Physically, he is described with striking and unsettling features, most notably eyes that lack whites; instead, they consist of solid blackness with metallic silver irises. He has been seen appearing as a disheveled figure in stained robes with a long beard, or as a tall man in travel-worn clothing carrying an enormous book. As the [[Valinhall Incarnation|Incarnation of Valinhall]], he possesses a profound connection to his territory, causing the environment to reshape itself into polished wood and carved structures as he moves. While some [[Travelers]] summon elemental forces or beasts to fight, the nature of [[Valinhall]]'s power is distinct. Though he once held the status of an [[Incarnation]], he has expressed that this power fades over time, eventually leaving him as a mere guardian of the rooms.}}
+
+== Relationships ==
+{{spoiler|book=tg-03-city-of-light|The Wanderer once questioned [[Simon]] regarding his desires. Additionally, [[Kai]] is identified by the title of Wanderer.}}
 
 == History ==
 === {{spoiler|book=tg-01-house-of-blades|Arrival in Valinhall}} ===
@@ -23,10 +26,10 @@
 <li>{{spoiler|book=tg-01-house-of-blades|[[The Wanderer]] forged the [[Demon Fang]] Azura.<ref name="tg-01-house-of-blades-c13" />}}</li>
 </ul></div>
 
-{{spoiler|book=tg-02-crimson-vault|During his time in the forge, The Wanderer crafted the Dragon's Fang{{!}}Dragon’s Fangs.<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}
+{{spoiler|book=tg-02-crimson-vault|During his time in the forge, The Wanderer crafted the [[Dragon's Fang|Dragon’s Fangs]].<ref name="tg-02-crimson-vault-c2">''The Crimson Vault'', chapter 2</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-02-crimson-vault|[[The Wanderer]] made the Dragon's Fang{{!}}Dragon’s Fangs in the forge.<ref name="tg-02-crimson-vault-c2" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[The Wanderer]] made the [[Dragon's Fang|Dragon’s Fangs]] in the forge.<ref name="tg-02-crimson-vault-c2" />}}</li>
 </ul></div>
 
 === {{spoiler|book=tg-02-crimson-vault|Disappearance and Legacy}} ===
@@ -37,8 +40,8 @@
 <li>{{spoiler|book=tg-02-crimson-vault|[[The Wanderer]] has a grave in [[the House]].<ref name="tg-02-crimson-vault-c4" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[The Wanderer]] is the original owner of [[Mithra]].<ref name="tg-02-crimson-vault-c9" />}}</li>
 <li>{{spoiler|book=tg-02-crimson-vault|[[The Wanderer]] spoke of metaphysical distance and the link between a [[Territory]] and its powers.<ref name="tg-02-crimson-vault-c14" />}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|The [[Valinhall Travelers]] are set to face the The Wanderer{{!}}Wanderer once again.<ref name="tg-02-crimson-vault-c17" />}}</li>
-<li>{{spoiler|book=tg-02-crimson-vault|[[Kai]] is referred to as a The Wanderer{{!}}Wanderer.<ref name="tg-02-crimson-vault-c20" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[Valinhall Travelers]] are set to face the [[The Wanderer|Wanderer]] once again.<ref name="tg-02-crimson-vault-c17" />}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|[[Kai]] is referred to as a [[The Wanderer|Wanderer]].<ref name="tg-02-crimson-vault-c20" />}}</li>
 </ul></div>
 
 === {{spoiler|book=tg-03-city-of-light|Guardian of the Room}} ===

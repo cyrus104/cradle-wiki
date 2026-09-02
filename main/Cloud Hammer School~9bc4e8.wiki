@@ -1,0 +1,39 @@
+{{Infobox group
+| name = Cloud Hammer School
+| introduced = [[Blackflame (novel)|Blackflame]]
+}}
+
+== Overview ==
+{{spoiler|book=cradle-06-underlord|The [[Cloud Hammer]] School is a prestigious institution known for its mastery of the [[Path of the Cloud Hammer]], a discipline characterized by high mobility and significant force. Practitioners of this path often utilize [[madra]] that manifests as clouds or mist to facilitate their techniques, which can include [[binding]] [[Enforcer]] methods or creating protective hazes. The school's members are identified by a [[Goldsign]] featuring a raincloud, and many carry hammers at their hips. The school is led by an [[Underlord]] who is often associated with a stormcloud that reflects his temperament. Notable disciples include [[Renfei]], a high-ranking member of the [[Skysworn]] who possesses significant [[Authority|authority]] due to her status within the school.}}
+
+== Blackflame ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-03-blackflame|The [[Cloud Hammer School]] spread word of the [[Arelius family]]'s coming.<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Eithan]] might have trained with the [[Cloud Hammer School]].<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Renfei]] is a [[disciple]] of the [[Cloud Hammer School]].<ref name="cradle-03-blackflame-c22">''Blackflame'', chapter 22</ref>}}</li>
+</ul></div>
+
+== Skysworn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-04-skysworn|[[Chon Ma]] is the head of the [[Cloud Hammer School]].<ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Underlord ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-06-underlord|The [[Cloud Hammer School|Cloud Hammer school]] has an [[Underlord]] named [[Chon Ma]].<ref name="cradle-06-underlord-c17">''Underlord'', chapter 17</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Groups]]
+[[Category:Blackflame]]
+[[Category:Skysworn]]
+[[Category:Underlord]]
+[[Category:Cradle]]
+[[Category:Cradle groups]]

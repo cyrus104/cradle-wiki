@@ -19,7 +19,7 @@
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|Path of Twin Stars{{!}}The Path of Twin Stars allows a person to theoretically hold two types of [[madra]] in the same body.<ref name="cradle-02-soulsmith-c2">''Soulsmith'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Path of Twin Stars|The Path of Twin Stars]] allows a person to theoretically hold two types of [[madra]] in the same body.<ref name="cradle-02-soulsmith-c2">''Soulsmith'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Heart of Twin Stars]] [[technique]] manual is now [[Lindon]]'s instruction manual for the [[Path of Twin Stars]].<ref name="cradle-02-soulsmith-c2" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Lindon]] keeps records for the [[Path of Twin Stars]].<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Lindon]] must cycle according to the [[Path of Twin Stars]] to restore his [[madra]].<ref name="cradle-02-soulsmith-c13">''Soulsmith'', chapter 13</ref>}}</li>
@@ -30,21 +30,21 @@
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] records his [[advancement]] in Path of Twin Stars{{!}}The Path of Twin Stars manual.<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Lindon]] records his [[advancement]] in [[Path of Twin Stars|The Path of Twin Stars]] manual.<ref name="cradle-03-blackflame-c5">''Blackflame'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Lindon]]'s [[Path of Twin Stars]] manual was in his pack.<ref name="cradle-03-blackflame-c18">''Blackflame'', chapter 18</ref>}}</li>
 </ul></div>
 
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|Path of Twin Stars{{!}}The Path of Twin Stars does not have an actual [[Enforcer technique]] for [[Lindon]].<ref name="cradle-04-skysworn-c6">''Skysworn'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Path of Twin Stars|The Path of Twin Stars]] does not have an actual [[Enforcer technique]] for [[Lindon]].<ref name="cradle-04-skysworn-c6">''Skysworn'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] has not developed a Full-body Enforcer technique{{!}}full-body Enforcer technique for his [[Path of Twin Stars]].<ref name="cradle-05-ghostwater-c5">''Ghostwater'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|Path of Twin Stars{{!}}The Path of Twin Stars takes a long time to raise.<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]] has not developed a [[Full-body Enforcer technique|full-body Enforcer technique]] for his [[Path of Twin Stars]].<ref name="cradle-05-ghostwater-c5">''Ghostwater'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Path of Twin Stars|The Path of Twin Stars]] takes a long time to raise.<ref name="cradle-05-ghostwater-c15">''Ghostwater'', chapter 15</ref>}}</li>
 </ul></div>
 
 == Wintersteel ==
@@ -63,7 +63,7 @@
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|Path of Twin Stars{{!}}The Path of Twin Stars is a book.<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Path of Twin Stars|The Path of Twin Stars]] is a book.<ref name="cradle-12-waybound-c32">''Waybound'', chapter 32</ref>}}</li>
 </ul></div>
 
 == Notes ==

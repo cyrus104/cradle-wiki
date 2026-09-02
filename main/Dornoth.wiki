@@ -6,7 +6,7 @@
 ''See also: [[Dornoth Timeline]]''
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|Dornoth refers to a star system located within the [[Galactic Union]]. The system is home to several planets, including [[Dornoth One]], which serves as a sibling world to the [[Lichborn]] homeworld. [[Dornoth Two]] is noted for experiencing storms, while [[Dornoth Three]] is a purple-surfaced planet encased in metal satellites and stations; however, its volatile volcanoes frequently launch corrosive chemicals and debris into orbit. Dornoth IV{{!}}Dornoth Four is the homeworld of the [[Lichborn]], housing roughly one hundred million residents on the surface and billions more on surrounding space stations. This planet is characterized by a toxic landscape featuring infectious flames, poisonous swamps, and acid clouds, earning it a reputation as one of the most inhospitable inhabited worlds in the galaxy. The system also contains an uninhabited moon near [[Dornoth Three]] that hosts an automated spaceport. The system is culturally and technologically defined by the [[Lichborn]], whose ships typically feature skeletal designs and green engine fire. One of the system's most valuable natural resources is night-diamonds, a type of powdered diamond that requires special government permission to acquire. The [[Dornoth system]] is also an area of significant corporate and military activity, involving the [[Vallenar Corporation]] and various naval fleets. Additionally, the system has been a site of conflict involving the D’Niss{{!}}D'Niss swarm and the [[Grand Hive]].}}
+{{spoiler|book=lh-04-the-pilot|Dornoth refers to a star system located within the [[Galactic Union]]. The system is home to several planets, including [[Dornoth One]], which serves as a sibling world to the [[Lichborn]] homeworld. [[Dornoth Two]] is noted for experiencing storms, while [[Dornoth Three]] is a purple-surfaced planet encased in metal satellites and stations; however, its volatile volcanoes frequently launch corrosive chemicals and debris into orbit. [[Dornoth IV|Dornoth Four]] is the homeworld of the [[Lichborn]], housing roughly one hundred million residents on the surface and billions more on surrounding space stations. This planet is characterized by a toxic landscape featuring infectious flames, poisonous swamps, and acid clouds, earning it a reputation as one of the most inhospitable inhabited worlds in the galaxy. The system also contains an uninhabited moon near [[Dornoth Three]] that hosts an automated spaceport. The system is culturally and technologically defined by the [[Lichborn]], whose ships typically feature skeletal designs and green engine fire. One of the system's most valuable natural resources is night-diamonds, a type of powdered diamond that requires special government permission to acquire. The [[Dornoth system]] is also an area of significant corporate and military activity, involving the [[Vallenar Corporation]] and various naval fleets. Additionally, the system has been a site of conflict involving the [[D’Niss|D'Niss]] swarm and the [[Grand Hive]].}}
 
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
@@ -18,7 +18,7 @@
 == The Engineer ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|[[Dornoth]] is a location where Varic Vallenar{{!}}Varic dumped [[Benri Vallenar]].<ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Dornoth]] is a location where [[Varic Vallenar|Varic]] dumped [[Benri Vallenar]].<ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}</li>
 </ul></div>
 
 == The Knight ==
@@ -29,12 +29,12 @@
 </ul></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|Dornoth serves as a destination for Benri Vallenar{{!}}Benri and [[Nila]], with Benri Vallenar{{!}}Benri officially ordering a course toward the location. As the ship travels on its set path, it approaches Dornoth's orbit. The destination is a place containing various lockups and possesses a long, proud history regarding the gift for armor.}}
+{{spoiler|book=lh-04-the-pilot|Dornoth serves as a destination for [[Benri Vallenar|Benri]] and [[Nila]], with [[Benri Vallenar|Benri]] officially ordering a course toward the location. As the ship travels on its set path, it approaches Dornoth's orbit. The destination is a place containing various lockups and possesses a long, proud history regarding the gift for armor.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|[[Dornoth]] is a destination for Benri Vallenar{{!}}Benri and [[Nila]].<ref name="lh-04-the-pilot-c5">''The Pilot'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Benri Vallenar{{!}}Benri ordered a course for [[Dornoth]].<ref name="lh-04-the-pilot-c5" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Dornoth]] is a destination for [[Benri Vallenar|Benri]] and [[Nila]].<ref name="lh-04-the-pilot-c5">''The Pilot'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Benri Vallenar|Benri]] ordered a course for [[Dornoth]].<ref name="lh-04-the-pilot-c5" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The ship is set on a course for [[Dornoth]].<ref name="lh-04-the-pilot-c9">''The Pilot'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Dornoth]] has an orbit.<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Dornoth]] is a location that contains lockups.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>

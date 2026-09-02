@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Blackflame dead matter
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
-== Underlord ==
-{{spoiler|book=cradle-06-underlord|The resonance cannon is made of [[Blackflame dead matter]].}}
-
 [[Category:Artifacts]]
-[[Category:Underlord]]

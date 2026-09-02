@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Enforcer badge
-| introduced = Bloodline
+| introduced = [[Bloodline (novel)|Bloodline]]
 }}
 
-== Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Mon Teris]] wears an [[Enforcer badge]].}}
-
 [[Category:Artifacts]]
-[[Category:Bloodline]]

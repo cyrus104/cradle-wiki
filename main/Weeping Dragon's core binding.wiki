@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox construct
 | name = Weeping Dragon's core binding
-| introduced = Waybound
+| introduced = [[Waybound (novel)|Waybound]]
 }}
 
-== Waybound ==
-{{spoiler|book=cradle-12-waybound|The [[Weeping Dragon's core binding]] is a faceted golden jewel with blue lightning in its depths.}}
-
 [[Category:Constructs]]
-[[Category:Waybound]]

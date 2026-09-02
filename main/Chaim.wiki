@@ -10,6 +10,7 @@
 | introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
+<div class="wv-epigraph">{{spoiler|book=tg-01-house-of-blades|Chaim poked his face in, his eyes growing huge as he took in the Gate. “What is that?” he asked.}}<div class="wv-epigraph-cite">{{spoiler|book=tg-01-house-of-blades|— ''House of Blades'', chapter 15}}</div></div>
 ''See also: [[Chaim Timeline]]''
 
 == Overview ==
@@ -19,10 +20,13 @@
 {{spoiler|book=tg-02-crimson-vault|Chaim is described as a large man. He was once held as a captive with his hands bound by hemp rope.}}
 
 == Personality ==
-{{spoiler|book=tg-02-crimson-vault|He serves as an Authority{{!}}authority figure and leader for the [[Myrians]]. Additionally, he holds a position of influence as an advisor to the Mayor.}}
+{{spoiler|book=tg-02-crimson-vault|He serves as an [[Authority|authority]] figure and leader for the [[Myrians]]. Additionally, he holds a position of influence as an advisor to the Mayor.}}
+
+== Relationships ==
+{{spoiler|book=tg-02-crimson-vault|Chaim is the son of Moseth and the father of [[Orlina]]. He also shares an acquaintance with [[Leah]].}}
 
 == House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|A large man and the son of Moseth, Chaim served as an advisor to the Mayor and acted as a figure of Authority{{!}}authority for the Myrian people. As the father of [[Orlina]], he was among the villagers from [[Myria]] who were taken into captivity with his hands bound by hemp rope. During his imprisonment, he poked his face through the canvas to inquire about the nature of the Gate. Ultimately, Chaim managed to escape his confinement.}}
+{{spoiler|book=tg-01-house-of-blades|A large man and the son of Moseth, Chaim served as an advisor to the Mayor and acted as a figure of [[Authority|authority]] for the Myrian people. As the father of [[Orlina]], he was among the villagers from [[Myria]] who were taken into captivity with his hands bound by hemp rope. During his imprisonment, he poked his face through the canvas to inquire about the nature of the Gate. Ultimately, Chaim managed to escape his confinement.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -33,7 +37,7 @@
 <li>{{spoiler|book=tg-01-house-of-blades|[[Chaim]] is a captive whose hands were tied with hemp rope.<ref name="tg-01-house-of-blades-c15">''House of Blades'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Chaim]] is a person from [[Myria]] who stands among the villagers.<ref name="tg-01-house-of-blades-c15" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Chaim]] poked his face into the canvas and asked what the Gate was.<ref name="tg-01-house-of-blades-c15" />}}</li>
-<li>{{spoiler|book=tg-01-house-of-blades|[[Chaim]] is a leader or figure of Authority{{!}}authority for the [[Myrians]].<ref name="tg-01-house-of-blades-c17">''House of Blades'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Chaim]] is a leader or figure of [[Authority|authority]] for the [[Myrians]].<ref name="tg-01-house-of-blades-c17">''House of Blades'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[Chaim]] is a Myrian who escaped captivity.<ref name="tg-01-house-of-blades-c17" />}}</li>
 </ul></div>
 

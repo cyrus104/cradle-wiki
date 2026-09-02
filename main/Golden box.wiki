@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Golden box
-| introduced = House of Blades
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
-== House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|A large pure gold box carved with whirling symbols sits just inside the gates of [[Elysia]] and can shoot a thousand glowing golden arrows.}}
-
 [[Category:Artifacts]]
-[[Category:House of Blades]]

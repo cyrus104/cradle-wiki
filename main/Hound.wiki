@@ -11,21 +11,24 @@
 ''See also: [[Hound Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|[[The Hounds]] serve as the [[First Division]] under [[Makiel]] and are represented by a blue, three-headed dog symbol. As a division, they possess the specialized ability to observe and influence [[Fate]], allowing talented members to glimpse the destinies of various [[Iterations]]. They can identify where different fates overlap and investigate potential violations, though their foresight is limited to a thirty-year window within [[Cradle]]. Their power allows them to manipulate chance and bend [[Fate]], which can increase the likelihood of a [[Dreadgod]] noticing certain events. While they are currently stretched thin due to an ongoing war, they provide reports and simulations regarding the stability and future of different worlds. [[Makiel]] is a prominent figure within the [[Hounds]], described as a [[Judge]] with the Authority{{!}}authority to direct other [[Judges]] and steer causality to avoid chaos or nonexistence. [[Makiel]] is depicted as a rat-like man with dark, beady eyes and a thin beard, often appearing in white armor. Despite his appearance, he possesses immense power, including the ability to manifest a broad two-handed [[sword]] and command the disappearance of powerful weapons. He has also demonstrated the Authority{{!}}authority to revoke the ability of others to view or manipulate [[Fate]], imposing strict restrictions on their sight and access to certain tools.}}
+{{spoiler|book=cradle-13-threshold|[[The Hounds]] serve as the [[First Division]] under [[Makiel]] and are represented by a blue, three-headed dog symbol. As a division, they possess the specialized ability to observe and influence [[Fate]], allowing talented members to glimpse the destinies of various [[Iterations]]. They can identify where different fates overlap and investigate potential violations, though their foresight is limited to a thirty-year window within [[Cradle]]. Their power allows them to manipulate chance and bend [[Fate]], which can increase the likelihood of a [[Dreadgod]] noticing certain events. While they are currently stretched thin due to an ongoing war, they provide reports and simulations regarding the stability and future of different worlds. [[Makiel]] is a prominent figure within the [[Hounds]], described as a [[Judge]] with the [[Authority|authority]] to direct other [[Judges]] and steer causality to avoid chaos or nonexistence. [[Makiel]] is depicted as a rat-like man with dark, beady eyes and a thin beard, often appearing in white armor. Despite his appearance, he possesses immense power, including the ability to manifest a broad two-handed [[sword]] and command the disappearance of powerful weapons. He has also demonstrated the [[Authority|authority]] to revoke the ability of others to view or manipulate [[Fate]], imposing strict restrictions on their sight and access to certain tools.}}
 
 == Appearance ==
 {{spoiler|book=cradle-13-threshold|[[The Hound]] is a messenger that possesses a rat-like face. This entity wears full battle armor consisting of white plating.}}
 
 == Personality ==
-{{spoiler|book=cradle-13-threshold|As a role within the [[Abidan]], The Hound{{!}}the Hound possesses observational Authority{{!}}authority and directs the [[Judges]]. This entity acts as a guide for [[Fate]].}}
+{{spoiler|book=cradle-13-threshold|As a role within the [[Abidan]], [[The Hound|the Hound]] possesses observational Authority{{!}}authority and directs the [[Judges]]. This entity acts as a guide for [[Fate]].}}
+
+== Relationships ==
+{{spoiler|book=cradle-13-threshold|[[Eithan]] possesses the vision of [[The Hound|the Hound]]. [[The Hound]] also maintains [[Authority|authority]] over the [[Judges]], whom it directs.}}
 
 == Abilities ==
-{{spoiler|book=cradle-13-threshold|The will of The Hound{{!}}the Hound is capable of bending [[Fate]]. Additionally, their specific techniques allow for the acquisition of several extra senses.}}
+{{spoiler|book=cradle-13-threshold|The will of [[The Hound|the Hound]] is capable of bending [[Fate]]. Additionally, their specific techniques allow for the acquisition of several extra senses.}}
 
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|The will of The Hound{{!}}the Hound bends [[Fate]].<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The will of [[The Hound|the Hound]] bends [[Fate]].<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
 </ul></div>
 
 == Wintersteel ==
@@ -37,9 +40,9 @@
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|[[Makiel]] is The Hound{{!}}the Hound and wears full battle armor.<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Makiel]] is [[The Hound|the Hound]] and wears full battle armor.<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[The Hound]] directs the [[Judges]] and guides [[Fate]].<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Eithan]] has the vision of The Hound{{!}}the Hound.<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Eithan]] has the vision of [[The Hound|the Hound]].<ref name="cradle-10-reaper-c26">''Reaper'', chapter 26</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==
@@ -51,7 +54,7 @@
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[The Hound]] has observational Authority{{!}}authority.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[The Hound]] has observational [[Authority|authority]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Threshold: Stories from Cradle ==

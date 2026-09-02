@@ -2,21 +2,7 @@
 
 {{Infobox artifact
 | name = Ragnarus eye
-| introduced = City of Light
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
-== City of Light ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|The [[Ragnarus eye]] is intended to be surgically inserted into the user's skull.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
-</ul></div>
-
-== Notes ==
-<references />
-
-{{Traveler's Gate nav}}
-
 [[Category:Artifacts]]
-[[Category:City of Light]]
-[[Category:Traveler's Gate]]
-[[Category:Traveler's Gate artifacts]]

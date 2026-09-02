@@ -18,15 +18,15 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Enforcer techniques]] consist of five basic categories.<ref name="cradle-07-uncrowned-c4">''Uncrowned'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|Enforcer techniques{{!}}Enforcer attack techniques are individual attacks that enhance the effect of a single motion.<ref name="cradle-07-uncrowned-c4" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|Enforcer techniques{{!}}Enforcer attack techniques carry more power than full-body techniques but can be clumsier and leave the user open for counterattack.<ref name="cradle-07-uncrowned-c4" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Enforcer techniques|Enforcer attack techniques]] are individual attacks that enhance the effect of a single motion.<ref name="cradle-07-uncrowned-c4" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Enforcer techniques|Enforcer attack techniques]] carry more power than full-body techniques but can be clumsier and leave the user open for counterattack.<ref name="cradle-07-uncrowned-c4" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Altavian Arelius]] specializes in [[Enforcer techniques]].<ref name="cradle-07-uncrowned-c17">''Uncrowned'', chapter 17</ref>}}</li>
 </ul></div>
 
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|Akura Pride{{!}}Pride was [[cycling]] two different [[Enforcer techniques]] at once.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Akura Pride|Pride]] was [[cycling]] two different [[Enforcer techniques]] at once.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon's body]] handled the strain of [[Enforcer techniques]] unscathed.<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}</li>
 </ul></div>
 

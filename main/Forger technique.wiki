@@ -6,7 +6,7 @@
 ''See also: [[Forger technique Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|A [[Forger]] [[technique]] is a method of manipulating [[madra]] to give it physical form or create complex illusions. This discipline involves weaving [[madra]] into specific patterns and rhythms to manifest [[constructs]], which can range from simple tools like [[needles]] or [[scales]] to massive objects such as hammers, walls, and even weapons. While some [[Forged]] [[constructs]] are solid enough to interact with the physical world, others—particularly those associated with the [[Path of the White Fox]]—are illusions made of light and [[dreams]] that lack substance but can mimic reality with extreme precision. [[Forging]] is often used for defensive purposes, such as creating shields or disguises, but it can also be applied offensively to duplicate weapons, enlarge existing arms, or manifest elemental attacks like claws and projectiles. Advanced users can layer [[Forger techniques]] with [[Enforcer]] or [[Striker]] disciplines to create more potent, multi-faceted effects. However, the process is demanding; creating stable and dense [[constructs]] requires intense concentration and can strain a practitioner's [[madra channels]], potentially causing permanent damage if overused. The [[technique]] is also a fundamental skill for [[Soulsmiths]], who use [[Forging]] to create functional shells around binding{{!}}bindings or to manipulate [[dead matter]] and [[Remnants]].}}
+{{spoiler|book=cradle-12-waybound|A [[Forger]] [[technique]] is a method of manipulating [[madra]] to give it physical form or create complex illusions. This discipline involves weaving [[madra]] into specific patterns and rhythms to manifest [[constructs]], which can range from simple tools like [[needles]] or [[scales]] to massive objects such as hammers, walls, and even weapons. While some [[Forged]] [[constructs]] are solid enough to interact with the physical world, others—particularly those associated with the [[Path of the White Fox]]—are illusions made of light and [[dreams]] that lack substance but can mimic reality with extreme precision. [[Forging]] is often used for defensive purposes, such as creating shields or disguises, but it can also be applied offensively to duplicate weapons, enlarge existing arms, or manifest elemental attacks like claws and projectiles. Advanced users can layer [[Forger techniques]] with [[Enforcer]] or [[Striker]] disciplines to create more potent, multi-faceted effects. However, the process is demanding; creating stable and dense [[constructs]] requires intense concentration and can strain a practitioner's [[madra channels]], potentially causing permanent damage if overused. The [[technique]] is also a fundamental skill for [[Soulsmiths]], who use [[Forging]] to create functional shells around [[binding|bindings]] or to manipulate [[dead matter]] and [[Remnants]].}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -44,8 +44,8 @@
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-06-underlord|Prince Seishen Kiro{{!}}Kiro activated his [[Forger technique]]: the [[Titan’s Blade]].<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|Seishen Daji{{!}}Daji can release his [[Forger technique]] to return blades to their original length.<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Prince Seishen Kiro|Kiro]] activated his [[Forger technique]]: the [[Titan’s Blade]].<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Seishen Daji|Daji]] can release his [[Forger technique]] to return blades to their original length.<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Uncrowned ==
@@ -80,7 +80,7 @@
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|A specific [[Forger technique]] in labyrinth{{!}}the labyrinth can create an echo of a person.<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|A specific [[Forger technique]] in [[labyrinth|the labyrinth]] can create an echo of a person.<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
 </ul></div>
 
 == Waybound ==

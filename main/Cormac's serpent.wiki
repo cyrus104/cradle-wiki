@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox construct
 | name = Cormac's serpent
-| introduced = House of Blades
+| introduced = [[House of Blades (novel)|House of Blades]]
 }}
 
-== House of Blades ==
-{{spoiler|book=tg-01-house-of-blades|[[Cormac's serpent]] is a deep green scaled creature with glowing blue eyes and fangs that glow blue from internal lightning.}}
-
 [[Category:Constructs]]
-[[Category:House of Blades]]

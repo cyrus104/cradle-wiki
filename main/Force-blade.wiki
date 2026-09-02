@@ -11,10 +11,10 @@
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|Queen Shyrax{{!}}Shyrax uses a [[force-blade]] that ignites with golden brilliance.<ref name="lh-01-the-captain-c12">''The Captain'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Queen Shyrax|Shyrax]] uses a [[force-blade]] that ignites with golden brilliance.<ref name="lh-01-the-captain-c12">''The Captain'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|A [[force-blade]] can be activated by thumbing its hilt to produce a laser-edged plane of light.<ref name="lh-01-the-captain-c14">''The Captain'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Raion Raithe{{!}}Raion possesses a [[force-blade]].<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Raion Raithe{{!}}Raion drew a [[force-blade]] while in his [[Divine Titan]].<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Raion Raithe|Raion]] possesses a [[force-blade]].<ref name="lh-01-the-captain-c16">''The Captain'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Raion Raithe|Raion]] drew a [[force-blade]] while in his [[Divine Titan]].<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
 </ul></div>
 
 == The Engineer ==
@@ -23,10 +23,10 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]] carries a [[force-blade]].<ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax uses a [[force-blade]].<ref name="lh-02-the-engineer-c3" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax carries a generic [[force-blade]].<ref name="lh-02-the-engineer-c10">''The Engineer'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] uses a [[force-blade]].<ref name="lh-02-the-engineer-c3" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] carries a generic [[force-blade]].<ref name="lh-02-the-engineer-c10">''The Engineer'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Raion Raithe]] uses a [[force-blade]].<ref name="lh-02-the-engineer-c37">''The Engineer'', chapter 37</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Raion Raithe{{!}}Raion stabbed [[Starhammer]] with his [[force-blade]].<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Raion Raithe|Raion]] stabbed [[Starhammer]] with his [[force-blade]].<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}</li>
 </ul></div>
 
 == The Knight ==
@@ -38,10 +38,10 @@
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila uses a [[force-blade]] in combat.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] uses a [[force-blade]] in combat.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|A [[force-blade]] is a type of weapon distinct from metal swords.<ref name="lh-04-the-pilot-c1" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|A [[force-blade]] is a weapon capable of carving through creatures.<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila uses a bright orange [[force-blade]].<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] uses a bright orange [[force-blade]].<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
 </ul></div>
 
 == Notes ==

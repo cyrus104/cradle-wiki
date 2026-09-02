@@ -19,9 +19,9 @@
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|The Desolate Wilds{{!}}Wilds is a region where [[sacred artists]] [[construct]] structures.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Desolate Wilds|Wilds]] is a region where [[sacred artists]] [[construct]] structures.<ref name="cradle-02-soulsmith-c5">''Soulsmith'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Desolate Wilds]] were lawless and plagued by beasts nearly a thousand years ago.<ref name="cradle-02-soulsmith-c6">''Soulsmith'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|The Desolate Wilds{{!}}Wilds is a place where [[Jai Long]] was banished.<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Desolate Wilds|Wilds]] is a place where [[Jai Long]] was banished.<ref name="cradle-02-soulsmith-c7">''Soulsmith'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Desolate Wilds]] contains only one [[Underlord]].<ref name="cradle-02-soulsmith-c7" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Desolate Wilds]] is a stretch of blighted wilderness.<ref name="cradle-02-soulsmith-c7" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Desolate Wilds]] are described as the back-end of nowhere.<ref name="cradle-02-soulsmith-c10">''Soulsmith'', chapter 10</ref>}}</li>
@@ -37,7 +37,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">12</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Desolate Wilds]] is a region where [[water madra]] is common.<ref name="cradle-03-blackflame-c1">''Blackflame'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|The Desolate Wilds{{!}}Wilds is a location where the [[Sandvipers]] have been for months.<ref name="cradle-03-blackflame-c2">''Blackflame'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Desolate Wilds|Wilds]] is a location where the [[Sandvipers]] have been for months.<ref name="cradle-03-blackflame-c2">''Blackflame'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Sandvipers]] specialize in hunting the beasts of the [[Desolate Wilds]].<ref name="cradle-03-blackflame-c4">''Blackflame'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|There is a legend of a hidden valley in the mountains to the west of the [[Desolate Wilds]].<ref name="cradle-03-blackflame-c6">''Blackflame'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Desolate Wilds]] is a location.<ref name="cradle-03-blackflame-c6" />}}</li>
@@ -78,7 +78,7 @@
 <li>{{spoiler|book=cradle-09-bloodline|The [[Desolate Wilds]] is a location where [[Jai Long]] has contacts.<ref name="cradle-09-bloodline-c10">''Bloodline'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Desolate Wilds]] are considered too weak to interest the [[Wandering Titan]].<ref name="cradle-09-bloodline-c18">''Bloodline'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Desolate Wilds]] have leaves tinged black with corruption.<ref name="cradle-09-bloodline-c18" />}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|[[Jai Chen]] and her followers had a plan for the Desolate Wilds{{!}}Wilds.<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Jai Chen]] and her followers had a plan for the [[Desolate Wilds|Wilds]].<ref name="cradle-09-bloodline-c21">''Bloodline'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Desolate Wilds]] is a location where [[Sages]] are considered legends.<ref name="cradle-09-bloodline-c21" />}}</li>
 </ul></div>
 

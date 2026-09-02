@@ -6,19 +6,19 @@
 ''See also: [[binding Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|A binding is a crystallized [[technique]] that serves as the essential core of a [[construct]]. While [[scripts]] are used to control various components or add properties to an object, the binding provides the actual heart and soul of a [[construct]]; without one, an object is merely a scripted item made of material. Bindings possess significant weight and depth, often described as being more substantial than simple drawings or [[scripts]], comparable to a statue or a pearl. In practice, bindings can take many forms, such as spiraling drills, [[white light]], or even organic shapes resembling hearts or stars. They can be embedded into physical vessels by [[Soulsmiths]], who use [[madra]] to merge the binding with a framework. The functionality of a binding is often determined by how [[madra]] is circulated through it, and some advanced bindings can produce multiple different techniques or even fuse several techniques into a single, perfected unit. Bindings are highly sensitive to the type of [[madra]] used with them; for instance, a binding might change its effect or become damaged if it absorbs incompatible energy. Some bindings are specifically designed to devour [[madra]], such as hunger binding{{!}}hunger bindings, which can be used to pull power from others. While most bindings are single-purpose, rare and powerful versions—such as those found in [[Dreadgods]]—can possess multiple integrated functions and maintain their own balance.}}
+{{spoiler|book=cradle-12-waybound|A binding is a crystallized [[technique]] that serves as the essential core of a [[construct]]. While [[scripts]] are used to control various components or add properties to an object, the binding provides the actual heart and soul of a [[construct]]; without one, an object is merely a scripted item made of material. Bindings possess significant weight and depth, often described as being more substantial than simple drawings or [[scripts]], comparable to a statue or a pearl. In practice, bindings can take many forms, such as spiraling drills, [[white light]], or even organic shapes resembling hearts or stars. They can be embedded into physical vessels by [[Soulsmiths]], who use [[madra]] to merge the binding with a framework. The functionality of a binding is often determined by how [[madra]] is circulated through it, and some advanced bindings can produce multiple different techniques or even fuse several techniques into a single, perfected unit. Bindings are highly sensitive to the type of [[madra]] used with them; for instance, a binding might change its effect or become damaged if it absorbs incompatible energy. Some bindings are specifically designed to devour [[madra]], such as [[hunger binding|hunger bindings]], which can be used to pull power from others. While most bindings are single-purpose, rare and powerful versions—such as those found in [[Dreadgods]]—can possess multiple integrated functions and maintain their own balance.}}
 
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|Bindings are concentrations of power within a [[Remnant]].<ref name="cradle-02-soulsmith-c12">''Soulsmith'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|The binding{{!}}bindings are at the heart of the [[Jai clan]]'s spear and function as mechanisms that drain [[madra]] from victims.<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[binding|bindings]] are at the heart of the [[Jai clan]]'s spear and function as mechanisms that drain [[madra]] from victims.<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}</li>
 </ul></div>
 
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|The [[binding]] is a [[technique]] that [[Lindon's madra]] channels might struggle with due to the Lindon's skeletal Remnant arm{{!}}Remnant arm.<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The [[binding]] is a [[technique]] that [[Lindon's madra]] channels might struggle with due to the [[Lindon's skeletal Remnant arm|Remnant arm]].<ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}</li>
 </ul></div>
 
 == Ghostwater ==
@@ -30,7 +30,7 @@
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|There are three different binding{{!}}bindings used to make the soldiers.<ref name="cradle-07-uncrowned-c11">''Uncrowned'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|There are three different [[binding|bindings]] used to make the soldiers.<ref name="cradle-07-uncrowned-c11">''Uncrowned'', chapter 11</ref>}}</li>
 </ul></div>
 
 == Reaper ==

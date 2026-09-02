@@ -6,7 +6,7 @@
 ''See also: [[Soulsmiths Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|Soulsmiths are specialized craftsmen who manipulate spiritual essence to create various objects. Their work includes forging weapons, developing [[constructs]], and crafting prosthetics or sacred instruments. They are also capable of transplanting binding{{!}}bindings from [[Remnants]] into [[sacred artists]] or creating specialized items like memory [[constructs]]. This profession is highly respected and can serve as a significant source of wealth for clans or families, though the training required is extensive and does not necessarily provide combat advantages. A fundamental skill for a [[Soulsmith]] is the ability to reshape [[madra]], which involves filling gaps in [[dead matter]] to create functional shells around binding{{!}}bindings. Success in this craft requires a precise understanding of [[Remnant]] structures, as even similar spirits can have different internal configurations. To assist in this analytical process, Soulsmiths often create drudges—specialized [[constructs]] that serve as assistants, encyclopedias, and scanning tools to identify valuable binding{{!}}bindings. The craft involves significant risk; incompatibility between a [[Soulsmith]]'s power and the materials used can result in useless or dangerous products. Mastery of the art often requires specialized tools, such as hammers used to inject a smith's will into an object, and dedicated workspaces like foundries. At the highest levels of the craft, Soulsmiths may utilize advanced locations or tools like a [[Soulforge]] to imbue items with the Authority{{!}}authority and [[willpower]] of powerful beings.}}
+{{spoiler|book=cradle-12-waybound|Soulsmiths are specialized craftsmen who manipulate spiritual essence to create various objects. Their work includes forging weapons, developing [[constructs]], and crafting prosthetics or sacred instruments. They are also capable of transplanting [[binding|bindings]] from [[Remnants]] into [[sacred artists]] or creating specialized items like memory [[constructs]]. This profession is highly respected and can serve as a significant source of wealth for clans or families, though the training required is extensive and does not necessarily provide combat advantages. A fundamental skill for a [[Soulsmith]] is the ability to reshape [[madra]], which involves filling gaps in [[dead matter]] to create functional shells around [[binding|bindings]]. Success in this craft requires a precise understanding of [[Remnant]] structures, as even similar spirits can have different internal configurations. To assist in this analytical process, Soulsmiths often create drudges—specialized [[constructs]] that serve as assistants, encyclopedias, and scanning tools to identify valuable [[binding|bindings]]. The craft involves significant risk; incompatibility between a [[Soulsmith]]'s power and the materials used can result in useless or dangerous products. Mastery of the art often requires specialized tools, such as hammers used to inject a smith's will into an object, and dedicated workspaces like foundries. At the highest levels of the craft, Soulsmiths may utilize advanced locations or tools like a [[Soulforge]] to imbue items with the [[Authority|authority]] and [[willpower]] of powerful beings.}}
 
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
@@ -20,7 +20,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|[[Soulsmiths]] dispose of [[dead matter]] in chambers.<ref name="cradle-03-blackflame-c8">''Blackflame'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|The Path of Last Oath{{!}}Path of the Last Oath was designed for and by [[Soulsmiths]].<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Path of Last Oath|Path of the Last Oath]] was designed for and by [[Soulsmiths]].<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Soulsmiths]] made a prosthetic for [[Lady Nakali]].<ref name="cradle-03-blackflame-c10">''Blackflame'', chapter 10</ref>}}</li>
 </ul></div>
 
@@ -54,7 +54,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|[[Soulsmiths]] who can directly manipulate their [[willpower]] are [[Lords]].<ref name="cradle-10-reaper-c11">''Reaper'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Dross]] feeds the memories of other [[Soulsmiths]] into [[Lindon]]'s mind.<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|A team of [[Soulsmiths]] previously owned labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|A team of [[Soulsmiths]] previously owned [[labyrinth|the labyrinth]].<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
 </ul></div>
 
 == Waybound ==

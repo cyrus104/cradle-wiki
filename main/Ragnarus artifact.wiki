@@ -8,7 +8,7 @@
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|Ragnarus the Crimson Vault{{!}}Ragnarus artifacts require [[blood]] as a price.<ref name="tg-01-house-of-blades-c14">''House of Blades'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[Ragnarus the Crimson Vault|Ragnarus]] artifacts require [[blood]] as a price.<ref name="tg-01-house-of-blades-c14">''House of Blades'', chapter 14</ref>}}</li>
 </ul></div>
 
 == Notes ==

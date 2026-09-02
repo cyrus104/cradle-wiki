@@ -52,20 +52,20 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Empty Palm]] can be used to disable an enemy's core.<ref name="cradle-07-uncrowned-c5">''Uncrowned'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|The [[Empty Palm]] can be used to light up concentric rings on a Script{{!}}script.<ref name="cradle-07-uncrowned-c5" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Empty Palm]] can be used to light up concentric rings on a [[Script|script]].<ref name="cradle-07-uncrowned-c5" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] gathered [[madra]] into his [[Empty Palm]].<ref name="cradle-07-uncrowned-c6">''Uncrowned'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] worked on the [[Empty Palm]] [[technique]] using [[Akura Fury]]'s advice.<ref name="cradle-07-uncrowned-c20">''Uncrowned'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|The [[Empty]] Palm is a specialized [[technique]] designed to slam directly into a target's core. To utilize [[Hollow King]] [[madra]], the method would require complete reinvention. During his journey, [[Lindon]] employed the [[technique]] to blast a chunk out of the storm gecko known as [[Remnant]] and later used it against Seishen Daji{{!}}Daji. He eventually utilized the [[Empty]] Palm to successfully strike the core of an enemy [[Underlord]].}}
+{{spoiler|book=cradle-08-wintersteel|The [[Empty]] Palm is a specialized [[technique]] designed to slam directly into a target's core. To utilize [[Hollow King]] [[madra]], the method would require complete reinvention. During his journey, [[Lindon]] employed the [[technique]] to blast a chunk out of the storm gecko known as [[Remnant]] and later used it against [[Seishen Daji|Daji]]. He eventually utilized the [[Empty]] Palm to successfully strike the core of an enemy [[Underlord]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Empty Palm]] is a [[technique]] used to slam into a target's core.<ref name="cradle-08-wintersteel-c4">''Wintersteel'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[Empty Palm]] is a [[technique]] that would require reinvention to adopt [[Hollow King]] [[madra]].<ref name="cradle-08-wintersteel-c8">''Wintersteel'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] used [[Empty Palm]] to blast a chunk out of the storm gecko [[Remnant]].<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] uses the [[Empty Palm]] [[technique]] on Seishen Daji{{!}}Daji.<ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] uses the [[Empty Palm]] [[technique]] on [[Seishen Daji|Daji]].<ref name="cradle-08-wintersteel-c12">''Wintersteel'', chapter 12</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] used his [[Empty Palm]] to strike an enemy [[Underlord]]’s core.<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
 </ul></div>
 
@@ -106,7 +106,7 @@
 <li>{{spoiler|book=cradle-12-waybound|[[Empty Palm]] disarmed an [[Archlord]]’s [[puppet construct]].<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Little Blue]] used an [[Empty Palm]] the size of her new human body to wipe out [[Striker techniques]].<ref name="cradle-12-waybound-c19">''Waybound'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] used an [[Empty Palm]] that projected a blue-white handprint.<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|Empty Palm{{!}}Empty Palms is a [[technique]] that covers the sky and warps regional [[aura]].<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Empty Palm|Empty Palms]] is a [[technique]] that covers the sky and warps regional [[aura]].<ref name="cradle-12-waybound-c27">''Waybound'', chapter 27</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Empty Palm]] is [[Lindon]]'s first and oldest [[technique]].<ref name="cradle-12-waybound-c27" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|An [[Empty Palm]] can dissolve an arrow.<ref name="cradle-12-waybound-c27" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]]'s [[Empty Palm]] is a [[technique]] he has perfected the most.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>

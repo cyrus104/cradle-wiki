@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Worldslayer cannon
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
-== The Knight ==
-{{spoiler|book=lh-03-the-knight|The [[Worldslayer cannon]] can pierce multiple heads of the D�Niss.}}
-
 [[Category:Artifacts]]
-[[Category:The Knight]]

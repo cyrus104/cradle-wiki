@@ -6,10 +6,10 @@
 ''See also: [[Stormrock Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|Stormrock is a massive floating city constructed from dark, obsidian-like [[stone]] and built upon a large green cloudbank. Resembling a jagged [[fortress]] in the sky, the city features sharp-peaked buildings and is anchored by a central, dominant tower known as [[Starsweep Tower]]. This tower serves as the headquarters for the [[Skysworn]], an organization that includes both full members and trainees. The city is a self-sustaining environment capable of housing nearly two million people, including merchants, farmers, and various families such as the [[Redflowers]]. To maintain its flight, the city requires a significant amount of [[wind]] [[scales]] and relies on many Underlord{{!}}Underlords who specialize in cloud and [[wind]] [[Paths]]. The streets of Stormrock are diverse, hosting various individuals and creatures utilizing different [[Paths]]. Due to its robust construction and protective [[scripts]], the city is designed to withstand extreme conditions, including the presence of a [[Dreadgod]]. It can also undergo rapid acceleration, which causes significant physical shaking throughout the structure.}}
+{{spoiler|book=cradle-13-threshold|Stormrock is a massive floating city constructed from dark, obsidian-like [[stone]] and built upon a large green cloudbank. Resembling a jagged [[fortress]] in the sky, the city features sharp-peaked buildings and is anchored by a central, dominant tower known as [[Starsweep Tower]]. This tower serves as the headquarters for the [[Skysworn]], an organization that includes both full members and trainees. The city is a self-sustaining environment capable of housing nearly two million people, including merchants, farmers, and various families such as the [[Redflowers]]. To maintain its flight, the city requires a significant amount of [[wind]] [[scales]] and relies on many [[Underlord|Underlords]] who specialize in cloud and [[wind]] [[Paths]]. The streets of Stormrock are diverse, hosting various individuals and creatures utilizing different [[Paths]]. Due to its robust construction and protective [[scripts]], the city is designed to withstand extreme conditions, including the presence of a [[Dreadgod]]. It can also undergo rapid acceleration, which causes significant physical shaking throughout the structure.}}
 
 == Skysworn ==
-{{spoiler|book=cradle-04-skysworn|Stormrock serves as the [[cloudship]] city for the [[Skysworn]], maintaining a population of nearly two million people when necessary. The city houses approximately five thousand [[Skysworn]] or trainees and maintains detailed records of [[cloudship]] departures. During its travels, the city is set to pass over [[Serpent's Grave]]. Following the recent departure of Naru Cassias Arelius{{!}}Cassias, Stormrock continued rushing away even after the [[Dreadgod]]'s scream had quieted.}}
+{{spoiler|book=cradle-04-skysworn|Stormrock serves as the [[cloudship]] city for the [[Skysworn]], maintaining a population of nearly two million people when necessary. The city houses approximately five thousand [[Skysworn]] or trainees and maintains detailed records of [[cloudship]] departures. During its travels, the city is set to pass over [[Serpent's Grave]]. Following the recent departure of [[Naru Cassias Arelius|Cassias]], Stormrock continued rushing away even after the [[Dreadgod]]'s scream had quieted.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -18,7 +18,7 @@
 <li>{{spoiler|book=cradle-04-skysworn|[[Stormrock]] contains about five thousand [[Skysworn]] or trainees.<ref name="cradle-04-skysworn-c10" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Stormrock]] is a city with records of [[cloudship]] departures.<ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Stormrock]] will pass over [[Serpent's Grave]].<ref name="cradle-04-skysworn-c13">''Skysworn'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Stormrock]] is a location Naru Cassias Arelius{{!}}Cassias recently left.<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Stormrock]] is a location [[Naru Cassias Arelius|Cassias]] recently left.<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|The [[Dreadgod]]'s scream had quieted, but [[Stormrock]] was still rushing away.<ref name="cradle-04-skysworn-c16" />}}</li>
 </ul></div>
 
@@ -44,7 +44,7 @@
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Stormrock]] is a [[Skysworn]] city located near Serpent's Grave{{!}}Serpent’s Grave.<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Stormrock]] is a [[Skysworn]] city located near [[Serpent's Grave|Serpent’s Grave]].<ref name="cradle-11-dreadgod-c21">''Dreadgod'', chapter 21</ref>}}</li>
 </ul></div>
 
 == Threshold: Stories from Cradle ==

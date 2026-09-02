@@ -12,7 +12,7 @@
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|The the Valley{{!}}Valley is the location [[Lindon]] returned to.<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[the Valley|Valley]] is the location [[Lindon]] returned to.<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|The [[Titan]] could reach [[the Valley]] within an hour.<ref name="cradle-09-bloodline-c13">''Bloodline'', chapter 13</ref>}}</li>
 </ul></div>
 

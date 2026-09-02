@@ -9,14 +9,14 @@
 == Of Sea and Shadow ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|goldmarks{{!}}Goldmarks are used for monumental investments like hiring a [[Navigator]] to sail across the [[Aion]].<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|goldmarks{{!}}Goldmarks are a form of currency.<ref name="ee-sea-01-of-sea-and-shadow-c20">''Of Sea and Shadow'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[goldmarks|Goldmarks]] are used for monumental investments like hiring a [[Navigator]] to sail across the [[Aion]].<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[goldmarks|Goldmarks]] are a form of currency.<ref name="ee-sea-01-of-sea-and-shadow-c20">''Of Sea and Shadow'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|goldmarks{{!}}Goldmarks are a form of currency found in [[Gray Island]] vaults.<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[goldmarks|Goldmarks]] are a form of currency found in [[Gray Island]] vaults.<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}</li>
 </ul></div>
 
 == Of Dawn and Darkness ==

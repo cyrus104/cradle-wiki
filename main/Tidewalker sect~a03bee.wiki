@@ -1,0 +1,38 @@
+{{Infobox group
+| name = Tidewalker sect
+| introduced = [[Ghostwater (novel)|Ghostwater]]
+}}
+
+== Ghostwater ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Tidewalker sect]] is a group in [[Ghostwater]].<ref name="cradle-05-ghostwater-c19">''Ghostwater'', chapter 19</ref>}}</li>
+</ul></div>
+
+== Uncrowned ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Tidewalker sect]] is in a battle.<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Tidewalker sect]] is a group that can conjure bubbles of dark liquid [[madra]].<ref name="cradle-07-uncrowned-c13" />}}</li>
+</ul></div>
+
+== Wintersteel ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=cradle-08-wintersteel|The [[Tidewalker sect|Tidewalker Sect]] has a [[Herald]].<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=cradle-07-uncrowned|“I think the Tidewalker sect is in a battle.<ref name="cradle-07-uncrowned-c13" />}}
+
+== Notes ==
+<references />
+
+{{Cradle nav}}
+
+[[Category:Groups]]
+[[Category:Ghostwater]]
+[[Category:Uncrowned]]
+[[Category:Wintersteel]]
+[[Category:Cradle]]
+[[Category:Cradle groups]]

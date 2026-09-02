@@ -1,22 +1,8 @@
 {{Expand}}
 
 {{Infobox artifact
-| name = sword
-| introduced = [[Waybound (novel)|Waybound]]
+| name = Sword
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
-== Waybound ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] produced a [[sword]] from his [[soulspace]] with a white [[wintersteel]] core and a crimson edge.<ref name="cradle-12-waybound-c37">''Waybound'', chapter 37</ref>}}</li>
-</ul></div>
-
-== Notes ==
-<references />
-
-{{Cradle nav}}
-
 [[Category:Artifacts]]
-[[Category:Waybound]]
-[[Category:Cradle]]
-[[Category:Cradle artifacts]]

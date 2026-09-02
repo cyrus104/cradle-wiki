@@ -7,7 +7,7 @@
 
 == Overview ==
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Guilds]] are a collection of ten influential organizations that serve as the backbone of the [[Aurelian Empire]]. Operating with specialized expertise, they function almost like a private governing body that manages imperial affairs while the general population benefits from their services. Some [[Guilds]] are described as being part of a system that seeks to maintain outdated imperial structures, while others view the absence of an Emperor as an opportunity to operate without legal restrictions. The various organizations are often interconnected, with certain groups providing essential support that allows others to function. Notable [[Guilds]] include: * **[[Consultants]]:** The oldest and most loyal organization, holding the Emperor's trust for two millennia. They provide dedicated guidance to clients and are known to employ assassins to eliminate threats.
-* **[[Champions]]:** The second oldest Guild, historically tied to the unification of The Empire{{!}}the Empire. While they once selected members through violent combat trials, the formal Guild is facing dissolution.
+* **[[Champions]]:** The second oldest Guild, historically tied to the unification of [[The Empire|the Empire]]. While they once selected members through violent combat trials, the formal Guild is facing dissolution.
 * **[[Greenwardens]]:** Originally known as the Sisters of Peace, this group was founded in the seventh century to combat the worship of [[Ach'magut]]. They are considered one of the weaker [[Guilds]] in terms of wealth and political influence, though their members are [[Soulbound]] with the ability to heal wounds and restore crops.
 * **[[Magisters]]:** A group that offers various career paths for the educated.
 * **Navigators:** An organization characterized by some as dishonest pirates or con artists.
@@ -24,7 +24,7 @@
 == Of Dawn and Darkness ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Navigator’s ship{{!}}Navigator's ship belonged to the [[Guild]].<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Navigator’s ship|Navigator's ship]] belonged to the [[Guild]].<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Of Darkness and Dawn ==
@@ -38,7 +38,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] worked on behalf of the [[Guild]].<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Pardoning [[Lucan]] and [[Shera]] would have split the [[Guild]] against Yala the High Mason{{!}}Yala.<ref name="ee-shadow-03-of-killers-and-kings-c21">''Of Killers and Kings'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Pardoning [[Lucan]] and [[Shera]] would have split the [[Guild]] against [[Yala the High Mason|Yala]].<ref name="ee-shadow-03-of-killers-and-kings-c21">''Of Killers and Kings'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Guild]] provides care for [[Ayana]].<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Testament]] is the fastest ship in the [[Guild]].<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}</li>
 </ul></div>

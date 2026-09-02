@@ -11,6 +11,9 @@
 == Overview ==
 {{spoiler|book=tg-01-house-of-blades|Rock [[worms]] are massive, slow-moving creatures that resemble large maggots or thick segments of connected boulders. Their bodies are covered in rocky armor, such as granite plates, which can protect them but may also crack to reveal pale flesh underneath. They possess wide, canyon-like mouths filled with teeth similar to obsidian shards and have large, glowing blue eyes. When active, these creatures can produce loud vocalizations that sound like a combination of a trumpet and a lion's roar. They are often found in large numbers, sometimes congregating in massive, tangled nests within cavernous spaces. While they can be formidable, they may also exhibit behaviors similar to temperamental animals. Their internal anatomy includes a glowing blue fluid, and they can be killed by piercing their brains or striking the vulnerable area between their head and body.}}
 
+== Relationships ==
+{{spoiler|book=tg-01-house-of-blades|A rock-worm's teeth caused damage to the clothing of a person named [[Simon]].}}
+
 == House of Blades ==
 {{spoiler|book=tg-01-house-of-blades|These creatures are massive beings composed of boulder-like chunks and possess bodies as fat as cows. They inhabit nests within caves where they can be disturbed by movement, often congregating in chambers where thousands of them tangle together like mating snakes. A rock worm is characterized by granite eyelids, searing blue eyes the size of two hands, and a mouth filled with teeth resembling obsidian [[chips]]. While corpses have been discovered in tunnels, the living creatures are capable of using their teeth to shred clothing during encounters.}}
 
@@ -18,8 +21,8 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=tg-01-house-of-blades|A [[rock worm]] is a creature in the cave described as being as fat as a cow and made of boulder-like chunks.<ref name="tg-01-house-of-blades-c11">''House of Blades'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|A [[giant]] [[rock worm]]'s corpse was found in the tunnel.<ref name="tg-01-house-of-blades-c12">''House of Blades'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=tg-01-house-of-blades|A chamber contains thousands of huge rock worm{{!}}rock-worms tangled together like mating snakes.<ref name="tg-01-house-of-blades-c12" />}}</li>
-<li>{{spoiler|book=tg-01-house-of-blades|The cave floor contained [[giant]] rock worm{{!}}rock-worms.<ref name="tg-01-house-of-blades-c12" />}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|A chamber contains thousands of huge [[rock worm|rock-worms]] tangled together like mating snakes.<ref name="tg-01-house-of-blades-c12" />}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|The cave floor contained [[giant]] [[rock worm|rock-worms]].<ref name="tg-01-house-of-blades-c12" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|Rock-[[worms]] inhabit a nest and can be woken by movement.<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|Rock-[[worms]] have granite eyelids and mouths filled with teeth like obsidian [[chips]].<ref name="tg-01-house-of-blades-c13" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|Rock-[[worms]] have searing blue eyes the size of two hands.<ref name="tg-01-house-of-blades-c13" />}}</li>

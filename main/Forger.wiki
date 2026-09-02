@@ -1,12 +1,12 @@
 {{Infobox concept
 | name = Forger
-| introduced = Unsouled
+| introduced = [[Unsouled (novel)|Unsouled]]
 }}
 
 ''See also: [[Forger Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-11-dreadgod|A Forger is a type of [[sacred artist]] who specializes in the manipulation and shaping of [[madra]] into physical or illusionary forms. This discipline is closely related to [[Soulsmithing]], as both involve taking control of power to give it structure. While [[Soulsmiths]] focus on working with the essence of spirits and [[dead matter]] to create functional [[constructs]], Forgers utilize techniques to manifest various effects ranging from defensive barriers to offensive weaponry. Forgers follow different [[Paths]], which dictate the nature of their abilities. Those on the [[Path of the White Fox]] utilize the [[Fox Mirror technique]] to create highly detailed illusions made of light and [[dreams]]. These deceptions can mimic reality—such as false walls, clothing, or even duplicates of people—but they lack physical substance and can be easily destroyed. Other Forgers, such as those on the [[Path]] of the [[Mountain's Heart]], can conjure solid [[constructs]] like weapons or crushing tools. Advanced [[Forging]] techniques allow artists to create complex objects, such as flying swords, multiple weapon echoes, or even [[constructs]] that appear to possess life. The hammer serves as the symbolic badge for those in this discipline.}}
+{{spoiler|book=cradle-11-dreadgod|A Forger is a type of [[sacred artist]] who specializes in the manipulation and shaping of [[madra]] into physical or illusory forms. This discipline is considered one of the four fundamental skills required to become a complete [[sacred artist]], and practitioners often use hammer-shaped badges to signify their expertise. [[Forging]] is a foundational skill for [[Soulsmiths]], who use it to create functional shells around [[binding|bindings]] or to manipulate [[dead matter]]. While some Forgers focus on creating tangible [[constructs]]—such as weapons, shields, or even complex tools like drudges—others specialize in the creation of illusions. One prominent application of [[Forging]] is found on the [[Path of the White Fox]], where practitioners utilize the [[Fox Mirror technique]]. This method allows them to craft highly detailed deceptions made of light and [[dreams]], such as false walls, duplicate people, or camouflaged environments. While these illusions can appear indistinguishable from reality, they lack physical substance and are easily destroyed by attacks. Advanced Forgers may be able to imbue their creations with a semblance of life or produce multiple copies of an object, such as a single weapon appearing as several simultaneous strikes. The complexity and stability of a [[Forged]] object often depend on the artist's skill, as many techniques are temporary and dissipate after a short period.}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
@@ -27,7 +27,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|Forgers can make solid illusions.<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|[[Forger]] is a type of [[technique]].<ref name="cradle-03-blackflame-c9" />}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|Pure [[madra]] is not an effective weapon even for a [[Forger]].<ref name="cradle-03-blackflame-c16">''Blackflame'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[pure madra|Pure madra]] is not an effective weapon even for a [[Forger]].<ref name="cradle-03-blackflame-c16">''Blackflame'', chapter 16</ref>}}</li>
 </ul></div>
 
 == Bloodline ==

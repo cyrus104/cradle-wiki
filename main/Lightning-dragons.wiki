@@ -10,7 +10,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|Lightning-[[dragons]] are pursuing [[Little Blue]].<ref name="cradle-12-waybound-c19">''Waybound'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|Lightning-[[dragons]] are battling [[Yerin]], [[Mercy]], and Ziel of the Wasteland{{!}}Ziel.<ref name="cradle-12-waybound-c19" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|Lightning-[[dragons]] are battling [[Yerin]], [[Mercy]], and [[Ziel of the Wasteland|Ziel]].<ref name="cradle-12-waybound-c19" />}}</li>
 </ul></div>
 
 == Notes ==

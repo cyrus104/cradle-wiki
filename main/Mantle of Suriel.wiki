@@ -7,7 +7,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-01-unsouled|The [[Mantle of Suriel]] appears like a river of burning light tied around the neck.<ref name="cradle-01-unsouled-c6">''Unsouled'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-01-unsouled|Judge Suriel{{!}}Suriel wears the [[Mantle of Suriel]].<ref name="cradle-01-unsouled-c20">''Unsouled'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Judge Suriel|Suriel]] wears the [[Mantle of Suriel]].<ref name="cradle-01-unsouled-c20">''Unsouled'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Soulsmith ==
@@ -19,7 +19,7 @@
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|Judge Suriel{{!}}Suriel uses the [[Mantle of Suriel]] to catch the wave of chaos-fire.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Judge Suriel|Suriel]] uses the [[Mantle of Suriel]] to catch the wave of chaos-fire.<ref name="cradle-09-bloodline-c19">''Bloodline'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Notes ==

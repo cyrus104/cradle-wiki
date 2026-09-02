@@ -8,8 +8,8 @@
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|The cargo ship has scorch marks from plasma bolt{{!}}plasma bolts.<ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|The ship is moving through a minefield of plasma bolt{{!}}plasma bolts.<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The cargo ship has scorch marks from [[plasma bolt|plasma bolts]].<ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The ship is moving through a minefield of [[plasma bolt|plasma bolts]].<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
 </ul></div>
 
 == Notes ==

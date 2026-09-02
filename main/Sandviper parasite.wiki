@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox construct
 | name = Sandviper parasite
-| introduced = Soulsmith
+| introduced = [[Soulsmith (novel)|Soulsmith]]
 }}
 
-== Soulsmith ==
-{{spoiler|book=cradle-02-soulsmith|[[Sandvipers]] possess parasite serpents forged from acid-green madra.}}
-
 [[Category:Constructs]]
-[[Category:Soulsmith]]

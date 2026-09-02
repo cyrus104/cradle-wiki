@@ -12,7 +12,7 @@
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|Sopharanatoth{{!}}Sophara uses [[Flowing Flame madra]].<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Sopharanatoth|Sophara]] uses [[Flowing Flame madra]].<ref name="cradle-08-wintersteel-c6">''Wintersteel'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yerin]]'s left hand was burned by [[Flowing Flame madra]].<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}</li>
 </ul></div>
 

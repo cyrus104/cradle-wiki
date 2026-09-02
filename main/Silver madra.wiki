@@ -6,7 +6,7 @@
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|Naru Cassias Arelius{{!}}Cassias uses [[silver madra]].<ref name="cradle-04-skysworn-c9">''Skysworn'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Naru Cassias Arelius|Cassias]] uses [[silver madra]].<ref name="cradle-04-skysworn-c9">''Skysworn'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Ghostwater ==

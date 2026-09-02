@@ -24,7 +24,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon's white arm]] is filled with the power of his [[pure core]].<ref name="cradle-05-ghostwater-c8">''Ghostwater'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|Lindon's core{{!}}Lindon's pure core was almost out of [[madra]].<ref name="cradle-05-ghostwater-c8" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Lindon's core|Lindon's pure core]] was almost out of [[madra]].<ref name="cradle-05-ghostwater-c8" />}}</li>
 </ul></div>
 
 == Underlord ==
@@ -37,7 +37,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] gained weeks worth of [[advancement]] in his [[pure core]] from the power drain.<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|Lindon's core{{!}}Lindon's pure core was almost half-full.<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Lindon's core|Lindon's pure core]] was almost half-full.<ref name="cradle-08-wintersteel-c14">''Wintersteel'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Lindon]] adds energy to his [[pure core]].<ref name="cradle-08-wintersteel-c27">''Wintersteel'', chapter 27</ref>}}</li>
 </ul></div>
 

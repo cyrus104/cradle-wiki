@@ -1,0 +1,22 @@
+{{Infobox concept
+| name = White Light
+| introduced = [[City of Light (novel)|City of Light]]
+}}
+
+== City of Light ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=tg-03-city-of-light|The [[White Light]] represents selflessness and pure devotion to the service of another at one's own expense.<ref name="tg-03-city-of-light-c7">''City of Light'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[White Light]] can only be used on another's behalf.<ref name="tg-03-city-of-light-c27">''City of Light'', chapter 27</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Simon]] has [[White Light]] leaking out of him.<ref name="tg-03-city-of-light-c27" />}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Traveler's Gate nav}}
+
+[[Category:Concepts]]
+[[Category:City of Light]]
+[[Category:Traveler's Gate]]
+[[Category:Traveler's Gate concepts]]

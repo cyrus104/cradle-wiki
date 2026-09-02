@@ -9,12 +9,12 @@
 {{spoiler|book=ee-shadow-03-of-killers-and-kings|A Vessel is an [[Awakened object]] that serves as a source of power for individuals known as [[Soulbound]]. These objects, which can range from small items like earrings or knives to massive ships, allow their users to harness the abilities of [[Elders]] or [[Kameira]]. The connection between a [[Soulbound]] and their Vessel is deeply personal, often feeling like an extension of the user's own body or a secondary mind. This bond can be complex; [[Vessels]] may possess their own wills, expressing themselves through impulses, impressions, or even mental resistance. While most [[Vessels]] are unobtrusive, some [[Soulbound]] are tied to massive, specialized ships. These Awakened vessels, such as those used by Navigators, are often constructed from seamless, fused wood and may incorporate parts of an Elder to function. Such ships can possess unique characteristics, like the ability to sail without [[wind]] or to move through flames. Because a Vessel is central to a [[Soulbound]]'s power, identifying and destroying it is a primary strategy in combat.}}
 
 == Of Sea and Shadow ==
-{{spoiler|book=ee-sea-01-of-sea-and-shadow|A Vessel serves as a sealable source of power, such as the one Jyrine Tessella Marten{{!}}Jyrine seeks to have returned. These objects are bonded to a [[Soulbound]], making it vital to identify which Vessel belongs to a specific individual as quickly as possible. Because a [[Soulbound]] can fight their way to freedom if they are brought back to their Vessel, [[Calder]]'s own Vessel is officially classified as property of the [[Aurelian Empire]]. Meanwhile, [[Jerri]] expresses a desire for her Vessel to provide her with protection.}}
+{{spoiler|book=ee-sea-01-of-sea-and-shadow|A Vessel serves as a sealable source of power, such as the one [[Jyrine Tessella Marten|Jyrine]] seeks to have returned. These objects are bonded to a [[Soulbound]], making it vital to identify which Vessel belongs to a specific individual as quickly as possible. Because a [[Soulbound]] can fight their way to freedom if they are brought back to their Vessel, [[Calder]]'s own Vessel is officially classified as property of the [[Aurelian Empire]]. Meanwhile, [[Jerri]] expresses a desire for her Vessel to provide her with protection.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Vessel]] is a source of power that can be sealed.<ref name="ee-sea-01-of-sea-and-shadow-c9">''Of Sea and Shadow'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Jyrine Tessella Marten{{!}}Jyrine possesses a [[Vessel]] that she wishes to have returned.<ref name="ee-sea-01-of-sea-and-shadow-c9" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jyrine Tessella Marten|Jyrine]] possesses a [[Vessel]] that she wishes to have returned.<ref name="ee-sea-01-of-sea-and-shadow-c9" />}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Soulbound]] bonds a [[Vessel]].<ref name="ee-sea-01-of-sea-and-shadow-c14">''Of Sea and Shadow'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|It is critical to identify a [[Soulbound]]'s [[Vessel]] quickly.<ref name="ee-sea-01-of-sea-and-shadow-c21">''Of Sea and Shadow'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Soulbound]] can fight their way free if they are brought to their [[Vessel]].<ref name="ee-sea-01-of-sea-and-shadow-c25">''Of Sea and Shadow'', chapter 25</ref>}}</li>
@@ -26,7 +26,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A [[Vessel]] is an [[Awakened object]] that provides [[Soulbound]] with the abilities of an Elder or a [[Kameira]].<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Vessel]] is a device containing [[silver mist]] that once raised Bastion's Veil{{!}}Bastion’s Veil.<ref name="ee-shadow-01-of-shadow-and-sea-c23">''Of Shadow and Sea'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Vessel]] is a device containing [[silver mist]] that once raised [[Bastion's Veil|Bastion’s Veil]].<ref name="ee-shadow-01-of-shadow-and-sea-c23">''Of Shadow and Sea'', chapter 23</ref>}}</li>
 </ul></div>
 
 == Of Dawn and Darkness ==

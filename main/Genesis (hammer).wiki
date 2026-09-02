@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Genesis (hammer)
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
-== Reaper ==
-{{spoiler|book=cradle-10-reaper|[[Lindon]] creates a black hammer with a double-sided head, one side blue and one red, named [[Genesis]].}}
-
 [[Category:Artifacts]]
-[[Category:Reaper]]

@@ -14,7 +14,7 @@
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|Constructs can have script-circle{{!}}script-circles inscribed on them to contain [[madra]] or serve other functions.<ref name="cradle-05-ghostwater-c6">''Ghostwater'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|Constructs can have [[script-circle|script-circles]] inscribed on them to contain [[madra]] or serve other functions.<ref name="cradle-05-ghostwater-c6">''Ghostwater'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Notes ==

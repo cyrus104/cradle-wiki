@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Iron King's resurrection device
-| introduced = The Pilot
+| introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
-== The Pilot ==
-{{spoiler|book=lh-04-the-pilot|The last [[Iron King]] used a twisted, half-melted metal cage device to resurrect himself.}}
-
 [[Category:Artifacts]]
-[[Category:The Pilot]]

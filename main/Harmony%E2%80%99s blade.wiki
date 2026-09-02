@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Harmony’s blade
-| introduced = Underlord
+| introduced = [[Underlord (novel)|Underlord]]
 }}
 
-== Underlord ==
-{{spoiler|book=cradle-06-underlord|[[Lindon]]'s blade is [[Harmony’s blade]].}}
-
 [[Category:Artifacts]]
-[[Category:Underlord]]

@@ -12,7 +12,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-03-blackflame|The [[Path of Grasping Sky]] is the [[Path]] of the imperial clan.<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|The Path of Grasping Sky{{!}}Grasping Sky [[Path]] was eliminated due to its political implications.<ref name="cradle-03-blackflame-c9" />}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Path of Grasping Sky|Grasping Sky]] [[Path]] was eliminated due to its political implications.<ref name="cradle-03-blackflame-c9" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Path of Grasping Sky]] is illegal.<ref name="cradle-03-blackflame-c9" />}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|The [[Naru family]]'s [[Path of Grasping Sky]] is associated with green wings.<ref name="cradle-03-blackflame-c17">''Blackflame'', chapter 17</ref>}}</li>
 </ul></div>
@@ -27,7 +27,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The [[Path of Grasping Sky]] is a path associated with an emerald green [[Goldsign]].<ref name="cradle-06-underlord-c11">''Underlord'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|Path of Grasping Sky{{!}}Grasping Sky is a [[madra]] used by [[Naru Saeya]].<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Path of Grasping Sky|Grasping Sky]] is a [[madra]] used by [[Naru Saeya]].<ref name="cradle-06-underlord-c19">''Underlord'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Uncrowned ==
@@ -45,7 +45,7 @@
 == Waybound ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Jai Chen]]'s [[Path]] includes Path of Grasping Sky{{!}}Grasping Sky.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Jai Chen]]'s [[Path]] includes [[Path of Grasping Sky|Grasping Sky]].<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==

@@ -2,20 +2,7 @@
 
 {{Infobox technique
 | name = Blades of Shadow
-| introduced = Waybound
+| introduced = [[Waybound (novel)|Waybound]]
 }}
 
-== Waybound ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Blades of Shadow]] is a technique used by [[Mercy]].<ref name="cradle-12-waybound-c15">''Waybound'', chapter 15</ref>}}</li>
-</ul></div>
-
-== Notes ==
-<references />
-
-{{Cradle nav}}
-
 [[Category:Techniques]]
-[[Category:Waybound]]
-[[Category:Cradle]]

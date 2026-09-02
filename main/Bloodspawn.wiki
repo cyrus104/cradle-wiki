@@ -6,16 +6,20 @@
 | introduced = [[Skysworn (novel)|Skysworn]]
 }}
 
+<div class="wv-epigraph">{{spoiler|book=cradle-04-skysworn|“I assumed so, but there are hundreds of bloodspawn at ground level.}}<div class="wv-epigraph-cite">{{spoiler|book=cradle-04-skysworn|— ''Skysworn'', chapter 9}}</div></div>
 ''See also: [[Bloodspawn Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|Bloodspawn are creatures of [[blood]] and [[madra]] created by the [[Bleeding Phoenix]]. They emerge from spilled [[blood]] once it has left a host's body and [[spirit]], meaning they cannot form while the liquid is still under an individual's control. These entities act as puppets or parodies of living beings, often taking on crude, shifting shapes such as gnarled trees, gas clouds, jagged crystals, or humanoid figures. Some can even mimic the [[madra]] of those they consume, appearing as blocky clay men or advanced warriors wielding weapons. These creatures serve several roles within The Phoenix{{!}}the Phoenix's influence. They can act as hunters that roam in packs, or they can [[sacrifice]] themselves to kill [[sacred artists]] by latching onto them and transforming into strangling crimson vines. They are capable of rapid reproduction; every new wound that spills [[blood]] can result in the birth of another spawn. As the [[Dreadgod]] awakens, the threat posed by these creatures increases, potentially turning every drop of [[blood]] within a hundred-mile radius into a monster. While they are considered lesser creations compared to other manifestations of The Phoenix{{!}}the Phoenix, they can form massive armies that pose a significant regional emergency.}}
+{{spoiler|book=cradle-12-waybound|Bloodspawn are creatures of [[blood]] and [[madra]] created by the [[Bleeding Phoenix]]. They emerge from spilled [[blood]] once it has left a host's body and [[spirit]], meaning they cannot form while the liquid is still under an individual's control. These entities act as puppets or parodies of living beings, often taking on crude, shifting shapes such as gnarled trees, gas clouds, jagged crystals, or humanoid figures. Some can even mimic the [[madra]] of those they consume, appearing as blocky clay men or advanced warriors wielding weapons. These creatures serve several roles within The Phoenix{{!}}the Phoenix's influence. They can act as hunters that roam in packs, or they can [[sacrifice]] themselves to kill [[sacred artists]] by latching onto them and transforming into strangling crimson vines. They are capable of rapid reproduction; every new wound that spills [[blood]] can result in the birth of another spawn. As the [[Dreadgod]] awakens, the threat posed by these creatures increases, potentially turning every drop of [[blood]] within a hundred-mile radius into a monster. While they are considered lesser creations compared to other manifestations of [[The Phoenix|the Phoenix]], they can form massive armies that pose a significant regional emergency.}}
 
 == Appearance ==
 {{spoiler|book=cradle-12-waybound|Some of these creatures possess bodies that seem to contain a wooden [[skeleton]], while others feature limbs made of flourishing tree branches. They can also take on human-like shapes equipped with swords.}}
 
 == Personality ==
 {{spoiler|book=cradle-12-waybound|These creatures are characterized by a malicious [[hunger]]. They roam in packs to hunt resistance and have the capacity to ruin towns or tear apart refugees.}}
+
+== Relationships ==
+{{spoiler|book=cradle-12-waybound|[[Mercy]] and [[Renfei]] engaged in combat against the bloodspawn. Additionally, [[Orthos]] acts as a force that eliminates these creatures.}}
 
 == Abilities ==
 {{spoiler|book=cradle-12-waybound|Composed of [[madra]], these entities can explode into scarlet leaves and crimson vines or burst into thorns when approached. They are capable of performing suicide attacks upon death.}}
@@ -25,25 +29,25 @@
 {{spoiler|book=cradle-04-skysworn|Bloodspawn are creatures that can be created from human injuries, with some individuals possessing bodies that appear to contain a wooden [[skeleton]].<ref name="cradle-04-skysworn-c9">''Skysworn'', chapter 9</ref> Certain specimens are known to explode into branches of crimson vines adorned with scarlet leaves.<ref name="cradle-04-skysworn-c9" /> Hundreds of these entities exist at ground level and possess the capability to ruin entire towns.<ref name="cradle-04-skysworn-c9" /><ref name="cradle-04-skysworn-c11">''Skysworn'', chapter 11</ref> Originating from a [[Dreadgod]], these creatures are part of The Phoenix{{!}}the Phoenix's power and hatch from [[blood]] when the [[Dreadgod]] wakes.<ref name="cradle-04-skysworn-c11" /><ref name="cradle-04-skysworn-c12">''Skysworn'', chapter 12</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|Bloodspawn{{!}}bloodspawn can be created from human injuries.<ref name="cradle-04-skysworn-c9" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|some Bloodspawn{{!}}bloodspawn have bodies that appear to have a [[skeleton]] of wood underneath.<ref name="cradle-04-skysworn-c9" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|certain Bloodspawn{{!}}bloodspawn explode into branches of crimson vines covered in scarlet leaves.<ref name="cradle-04-skysworn-c9" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|There are hundreds of Bloodspawn{{!}}bloodspawn at ground level.<ref name="cradle-04-skysworn-c9" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Bloodspawn|bloodspawn]] can be created from human injuries.<ref name="cradle-04-skysworn-c9" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|some [[Bloodspawn|bloodspawn]] have bodies that appear to have a [[skeleton]] of wood underneath.<ref name="cradle-04-skysworn-c9" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|certain [[Bloodspawn|bloodspawn]] explode into branches of crimson vines covered in scarlet leaves.<ref name="cradle-04-skysworn-c9" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|There are hundreds of [[Bloodspawn|bloodspawn]] at ground level.<ref name="cradle-04-skysworn-c9" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Bloodspawn]] can ruin towns.<ref name="cradle-04-skysworn-c11" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Bloodspawn]] are part of The Phoenix{{!}}the Phoenix's power and hatch from [[blood]] when the [[Dreadgod]] wakes.<ref name="cradle-04-skysworn-c11" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|The Bloodspawn{{!}}bloodspawn originated from a [[Dreadgod]].<ref name="cradle-04-skysworn-c12" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The [[Bloodspawn|bloodspawn]] originated from a [[Dreadgod]].<ref name="cradle-04-skysworn-c12" />}}</li>
 </ul></div>
 
 === {{spoiler|book=cradle-04-skysworn|Conflict in Arelius}} ===
-{{spoiler|book=cradle-04-skysworn|Composed of [[madra]], the Bloodspawn have ravaged homes throughout Arelius family{{!}}Arelius.<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref> These creatures can burst into thorns when approached or perform suicide attacks, and they even explode upon death.<ref name="cradle-04-skysworn-c16" /><ref name="cradle-04-skysworn-c17">''Skysworn'', chapter 17</ref> As they appear overhead in increasing numbers, some have been seen forming in midair or slamming against doors.<ref name="cradle-04-skysworn-c16" /><ref name="cradle-04-skysworn-c17" /> While they are capable of slithering through gaps in webs, they vanished once the red [[aura]] withdrew.<ref name="cradle-04-skysworn-c17" /><ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}
+{{spoiler|book=cradle-04-skysworn|Composed of [[madra]], the Bloodspawn have ravaged homes throughout [[Arelius family|Arelius]].<ref name="cradle-04-skysworn-c16">''Skysworn'', chapter 16</ref> These creatures can burst into thorns when approached or perform suicide attacks, and they even explode upon death.<ref name="cradle-04-skysworn-c16" /><ref name="cradle-04-skysworn-c17">''Skysworn'', chapter 17</ref> As they appear overhead in increasing numbers, some have been seen forming in midair or slamming against doors.<ref name="cradle-04-skysworn-c16" /><ref name="cradle-04-skysworn-c17" /> While they are capable of slithering through gaps in webs, they vanished once the red [[aura]] withdrew.<ref name="cradle-04-skysworn-c17" /><ref name="cradle-04-skysworn-c18">''Skysworn'', chapter 18</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|[[Bloodspawn]] have ravaged Arelius family{{!}}Arelius homes.<ref name="cradle-04-skysworn-c16" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|a pair of Bloodspawn{{!}}bloodspawn formed beneath him in midair.<ref name="cradle-04-skysworn-c16" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Bloodspawn]] have ravaged [[Arelius family|Arelius]] homes.<ref name="cradle-04-skysworn-c16" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|a pair of [[Bloodspawn|bloodspawn]] formed beneath him in midair.<ref name="cradle-04-skysworn-c16" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Bloodspawn]] are composed of [[madra]].<ref name="cradle-04-skysworn-c16" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Bloodspawn]] can burst into thorns when approached.<ref name="cradle-04-skysworn-c16" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Bloodspawn]] can perform suicide attacks.<ref name="cradle-04-skysworn-c16" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|A Bloodspawn{{!}}bloodspawn slammed on the door.<ref name="cradle-04-skysworn-c16" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|A [[Bloodspawn|bloodspawn]] slammed on the door.<ref name="cradle-04-skysworn-c16" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Bloodspawn]] are creatures that explode upon death.<ref name="cradle-04-skysworn-c17" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Bloodspawn]] are appearing overhead in increasing numbers.<ref name="cradle-04-skysworn-c17" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Bloodspawn]] are creatures that can slither through gaps in webs.<ref name="cradle-04-skysworn-c17" />}}</li>
@@ -53,7 +57,7 @@
 {{spoiler|book=cradle-05-ghostwater|During the conflict, [[Mercy]] and [[Renfei]] engaged in combat against the bloodspawn.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|[[Mercy]] and [[Renfei]] fought against the Bloodspawn{{!}}bloodspawn.<ref name="cradle-05-ghostwater-c2" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Mercy]] and [[Renfei]] fought against the [[Bloodspawn|bloodspawn]].<ref name="cradle-05-ghostwater-c2" />}}</li>
 </ul></div>
 
 {{spoiler|book=cradle-09-bloodline|Bloodspawn are creatures capable of emerging from bandages.<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref> These entities rise wherever [[blood]] drips from the ground and possess the ability to tear apart refugees.<ref name="cradle-09-bloodline-c17" />}}
@@ -72,9 +76,9 @@
 <li>{{spoiler|book=cradle-09-bloodline|[[Bloodspawn]] are creatures that rise from red trails.<ref name="cradle-09-bloodline-c18" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Bloodspawn]] are creatures characterized by malicious [[hunger]].<ref name="cradle-09-bloodline-c18" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Bloodspawn]] can be shaped like humans with swords.<ref name="cradle-09-bloodline-c18" />}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|Some Bloodspawn{{!}}bloodspawn have flourishing tree branches for limbs.<ref name="cradle-09-bloodline-c18" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|Some [[Bloodspawn|bloodspawn]] have flourishing tree branches for limbs.<ref name="cradle-09-bloodline-c18" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Bloodspawn]] are creatures that can be torn to essence.<ref name="cradle-09-bloodline-c18" />}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|[[Orthos]] eliminates Bloodspawn{{!}}bloodspawn.<ref name="cradle-09-bloodline-c19" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Orthos]] eliminates [[Bloodspawn|bloodspawn]].<ref name="cradle-09-bloodline-c19" />}}</li>
 </ul></div>
 
 === {{spoiler|book=cradle-11-dreadgod|Dreadgod and Resistance}} ===

@@ -6,7 +6,7 @@
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|The protagonist used a [[binding spell]] to pin Raion Raithe{{!}}Raion against the wall.<ref name="lh-01-the-captain-c39">''The Captain'', chapter 39</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The protagonist used a [[binding spell]] to pin [[Raion Raithe|Raion]] against the wall.<ref name="lh-01-the-captain-c39">''The Captain'', chapter 39</ref>}}</li>
 </ul></div>
 
 == The Engineer ==
@@ -18,7 +18,7 @@
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|binding{{!}}Binding spells are easier to resist with [[aura]] and slower than [[elementalism]].<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[binding|Binding]] spells are easier to resist with [[aura]] and slower than [[elementalism]].<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}</li>
 </ul></div>
 
 == Notes ==

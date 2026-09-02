@@ -6,8 +6,8 @@
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|The [[veil]] is a [[technique]] used by Underlord{{!}}Underlords to hide and contain their power.<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|The [[veil]] is a [[technique]] that allows one to The mask{{!}}mask their power.<ref name="cradle-04-skysworn-c1" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The [[veil]] is a [[technique]] used by [[Underlord|Underlords]] to hide and contain their power.<ref name="cradle-04-skysworn-c1">''Skysworn'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|The [[veil]] is a [[technique]] that allows one to [[The mask|mask]] their power.<ref name="cradle-04-skysworn-c1" />}}</li>
 </ul></div>
 
 == Ghostwater ==
@@ -19,7 +19,7 @@
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] has been working on his veil{{!}}veils.<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] has been working on his [[veil|veils]].<ref name="cradle-10-reaper-c6">''Reaper'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Notes ==

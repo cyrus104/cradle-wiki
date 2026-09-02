@@ -1,196 +1,205 @@
 {{Infobox character
 | name = Queen Shyrax
-| aliases = Shyrax
+| aliases = Shyrax, Queen Shyrax the Third
 | siblings = {{spoiler|book=lh-04-the-pilot|[[Prince Veshran|Veshran]]}}
-| children = {{spoiler|book=lh-02-the-engineer|[[Mell D-One-Twenty-Five|Mell]]}}
 | abilities = {{spoiler|book=lh-02-the-engineer|[[telekinesis]], [[t’rshentha]], [[Enhancement]], manifest a golden dragon's wing}}{{spoiler|book=lh-03-the-knight|, [[Perfected infiltration]], magic of enhancement and amplification}}{{spoiler|book=lh-04-the-pilot|, draconic magic}}
 | titles = {{spoiler|book=lh-01-the-captain|[[Queen]]}}{{spoiler|book=lh-02-the-engineer|, Highness, [[Commander]], Exiled Queen of Karosha, [[Rebel Queen]], Your Highness, exiled Queen of Karosha}}
 | affiliations = {{spoiler|book=lh-01-the-captain|rebels}}{{spoiler|book=lh-03-the-knight|, Varic's crew}}{{spoiler|book=lh-04-the-pilot|, The Last Horizon's crew, [[Karoshan Alliance]]}}
-| professions = {{spoiler|book=lh-01-the-captain|[[Queen]]}}{{spoiler|book=lh-02-the-engineer|, [[Commander|commander]], journeyman Technician, Captain, bodyguard, [[Soldier|soldier]]}}{{spoiler|book=lh-03-the-knight|, [[Aether Technician]]}}
+| professions = {{spoiler|book=lh-01-the-captain|[[Queen]]}}{{spoiler|book=lh-02-the-engineer|, [[Commander|commander]], journeyman Technician, Captain, bodyguard, [[Soldier|soldier]]}}{{spoiler|book=lh-03-the-knight|, [[Aether Technician]]}}{{spoiler|book=lh-04-the-pilot|, Guardian of Shadow Ark}}
 | residence = {{spoiler|book=lh-04-the-pilot|[[Basyrryx]]}}
 | appears_in = The Last Horizon
 | introduced = [[The Captain (novel)|The Captain]]
 }}
 
+<div class="wv-epigraph">{{spoiler|book=lh-01-the-captain|“It was my understanding that we were competing for control of The Last Horizon,” she said.}}<div class="wv-epigraph-cite">{{spoiler|book=lh-01-the-captain|— ''The Captain'', chapter 15}}</div></div>
 ''See also: [[Queen Shyrax Timeline]]''
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|[[Shyrax the Third]] is the nine-foot-tall, bronze-skinned rightful [[Queen]] of the planet [[Karosha]]. Standing at forty-one years of age, she has ruled for nine years following the abdication of her mother, Shyrax the Second. Her reign was marked by a conviction for treason by the [[Dragon Court]], which allowed her cousin, [[Felrex]], to claim the [[throne]] as [[King Regent]]. Shyrax has a history of familial conflict, having previously turned against her mother to protect her people and later being betrayed by [[Felrex]]. She currently holds the titles of Guardian of [[Shadow Ark]] and [[Commander]] of [[The Last Horizon]]. A formidable warrior and leader, Shyrax is characterized by her golden hair-cables, a silver diadem, and an intense, commanding presence. She is highly skilled in various forms of combat, including the use of a [[golden force]]-blade, pistols, and magic. She is capable of performing large-[[scale]] incantations that manifest as golden [[dragon]] shapes and possesses physical strength sufficient to lift a ten-foot man with one hand. Beyond martial prowess, she has demonstrated mastery in piloting, command, and even technical repairs. As a leader, she is driven by an unrelenting pursuit of victory and a deep commitment to her people, often taking on the mantle of a rebel queen to direct forces against her enemies.}}
+{{spoiler|book=lh-04-the-pilot|[[Queen]] [[Shyrax the Third]] is the rightful sovereign of the planet [[Karosha]]. A nine-foot-tall [[Karoshan]] with bronze skin and glowing golden hair-cables, she is a formidable leader characterized by her intense pursuit of victory and commanding presence. Her reign began nine years ago following the abdication of her mother, Shyrax the Second, but she was later convicted of treason by the [[Dragon Court]]. This led to her cousin, [[Felrex]], seizing the [[throne]] as [[King Regent]]. Shyrax views [[Felrex]] as a usurper and has sought to reclaim her position, even having physically cast her mother aside for failing the [[Karoshan people]]. As a warrior and commander, Shyrax possesses diverse combat skills, including the use of magic, wands, and a [[golden force]]-blade. She is proficient in various disciplines, ranging from piloting and tactical maneuvering to weapons repair and the art of distraction. Beyond her physical prowess, she exerts a powerful influence that can dominate a room and even the [[Aether]]. In her role as a leader, she has served as the Guardian of [[Shadow Ark]] and eventually assumed the position of [[Commander]] of the starship [[The Last Horizon]]. While she is a rebel queen who leads [[Karoshan forces]] and refugees, she maintains a strict sense of duty to her people. She is known for her high standards, her willingness to challenge others in contests of skill to prove her worth, and her refusal to accept any leadership role less than Captain.}}
 
 == Appearance ==
-{{spoiler|book=lh-04-the-pilot|This [[Karoshan]] woman possesses dull bronze skin, golden eyes, and large yellow hands. Her hair consists of thick gold cables or braids that emanate a golden light.}}
+{{spoiler|book=lh-04-the-pilot|A [[Karoshan]] woman with dull bronze skin, golden eyes, and large yellow hands. Her hair consists of thick, glowing gold cable braids, and she wears ornate black battle armor featuring elaborate [[dragon]] designs. She also possesses a massive bronze fist.}}
 
 == Personality ==
-{{spoiler|book=lh-04-the-pilot|A determined leader and the exiled [[Rebel Queen]], Shyrax pursues victory at any cost. She is a commanding Authority{{!}}authority figure who manages soldiers and rebels while maintaining a focus on reclaiming [[Karosha]].}}
+{{spoiler|book=lh-04-the-pilot|A determined leader and hunter who pursues victory at any cost. She is a focused commander driven by the goal of reclaiming [[Karosha]] and believes in monitoring specific individuals to ensure stability.}}
+
+== Relationships ==
+{{spoiler|book=lh-04-the-pilot|She is the sister of [[Prince Veshran|Veshran]] and the mother of children hidden from [[Felrex]], who also betrayed her. She is a teammate of the narrator, responds to the Captain's commands, and has taken [[Mell D-One-Twenty-Five|Mell]]. Additionally, she rallied forces against [[Starhammer]] and is a contact for [[Varic Vallenar|Varic]].}}
 
 == Abilities ==
-{{spoiler|book=lh-04-the-pilot|Shyrax is a journeyman Technicians{{!}}Technician who utilizes [[t’rshentha]], also known as [[Enhancement]], to empower weapons and systems. Her draconic magic allows her to manifest a golden [[dragon]]'s wing for protection, use [[telekinesis]], and project holographic footage. Additionally, she wields a [[golden force]]-blade and a [[wand]] to perform magic of amplification.}}
+{{spoiler|book=lh-04-the-pilot|Shyrax utilizes draconic magic to manifest a golden [[dragon]]'s wing for protection and uses [[telekinesis]]. As a journeyman [[Technicians|Technician]], she possesses the [[t’rshentha]] enhancement gift and can use magic for amplification. Her skills include [[Perfected infiltration]], projecting holograms from an [[optical implant]], and wielding a [[golden force]]-blade and a thick [[wand]].}}
 
 == History ==
 === {{spoiler|book=lh-01-the-captain|Competition for The Last Horizon}} ===
-{{spoiler|book=lh-01-the-captain|[[Queen]] Shyrax is driven by a relentless pursuit of victory regardless of the cost.<ref name="lh-01-the-captain-c12">''The Captain'', chapter 12</ref> During her competition for control of [[The Last Horizon]], she leaned back in her seat with her arms folded.<ref name="lh-01-the-captain-c15">''The Captain'', chapter 15</ref> She noted that she had work to do while awaiting her invitation.<ref name="lh-01-the-captain-c15" /> Rumors suggest that [[the Queen]] and her rebels are currently located in this sector.<ref name="lh-01-the-captain-c39">''The Captain'', chapter 39</ref>}}
+{{spoiler|book=lh-01-the-captain|[[Queen]] Shyrax is driven by a relentless pursuit of victory regardless of the cost.<ref name="lh-01-the-captain-c12">''The Captain'', chapter 12</ref> During her competition for control of [[The Last Horizon]], she leaned back in her seat with her arms folded.<ref name="lh-01-the-captain-c15">''The Captain'', chapter 15</ref> She noted that she had work to do while awaiting her invitation.<ref name="lh-01-the-captain-c15" /> Rumors suggest that [[the Queen]] and her rebels are currently located within this sector.<ref name="lh-01-the-captain-c39">''The Captain'', chapter 39</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-01-the-captain|[[Queen Shyrax]] pursues victory no matter what.<ref name="lh-01-the-captain-c12" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Queen Shyrax{{!}}Shyrax was competing for control of [[The Last Horizon]].<ref name="lh-01-the-captain-c15" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Queen Shyrax{{!}}Shyrax folded her arms and leaned back in her seat.<ref name="lh-01-the-captain-c15" />}}</li>
-<li>{{spoiler|book=lh-01-the-captain|Queen Shyrax{{!}}Shyrax stated she awaits her invitation and has work to do.<ref name="lh-01-the-captain-c15" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Queen Shyrax|Shyrax]] was competing for control of [[The Last Horizon]].<ref name="lh-01-the-captain-c15" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Queen Shyrax|Shyrax]] folded her arms and leaned back in her seat.<ref name="lh-01-the-captain-c15" />}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Queen Shyrax|Shyrax]] stated she awaits her invitation and has work to do.<ref name="lh-01-the-captain-c15" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|[[Queen Shyrax]] and her rebels are rumored to be in this sector.<ref name="lh-01-the-captain-c39" />}}</li>
 </ul></div>
 
-=== {{spoiler|book=lh-02-the-engineer|Crew of The Last Horizon}} ===
-{{spoiler|book=lh-02-the-engineer|[[Queen]] Shyrax is a [[Karoshan]] woman and the Highness who rules as the [[Queen of Karosha]].<ref name="lh-02-the-engineer-c2">''The Engineer'', chapter 2</ref><ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref><ref name="lh-02-the-engineer-c4">''The Engineer'', chapter 4</ref> As a commander of her own personal battlecruiser and a leader with soldiers under her command, she maintains a hundred-yard long personal training room.<ref name="lh-02-the-engineer-c3" /><ref name="lh-02-the-engineer-c4" /> While serving as a member of the crew, she refused transport until her orders were finished and utilized [[telekinesis]] to strap on her armor.<ref name="lh-02-the-engineer-c10">''The Engineer'', chapter 10</ref> During her time aboard the bridge of [[The Last Horizon]], she opened a prison cell wall and manifested a golden [[dragon]]'s wing from her back for protection.<ref name="lh-02-the-engineer-c15">''The Engineer'', chapter 15</ref><ref name="lh-02-the-engineer-c16">''The Engineer'', chapter 16</ref> She projected the actions of the [[Advocate]] ships into a hologram and possesses a command that can echo in the [[Aether]].<ref name="lh-02-the-engineer-c17">''The Engineer'', chapter 17</ref><ref name="lh-02-the-engineer-c18">''The Engineer'', chapter 18</ref> A journeyman Technicians{{!}}Technician of the crew, Shyrax possesses the [[t’rshentha]] or [[Enhancement]] gift, though she has not yet completed her masterwork.<ref name="lh-02-the-engineer-c19">''The Engineer'', chapter 19</ref><ref name="lh-02-the-engineer-c21">''The Engineer'', chapter 21</ref> Her hair-strands emanate golden light and she intends to sharpen the [[Fallen Sword]], serving as a source for empowering weapons in the envisioned fleet.<ref name="lh-02-the-engineer-c21" /><ref name="lh-02-the-engineer-c24">''The Engineer'', chapter 24</ref> This [[Karoshan]] with large yellow hands feels older than the Captain and previously served as his bodyguard.<ref name="lh-02-the-engineer-c26">''The Engineer'', chapter 26</ref><ref name="lh-02-the-engineer-c30">''The Engineer'', chapter 30</ref><ref name="lh-02-the-engineer-c32">''The Engineer'', chapter 32</ref> Believing the Alliance will harvest them for genetics to create new [[Perfected]], she took Mell D-One-Twenty-Five{{!}}Mell and may have entered an agreement with the The Zenith Starship{{!}}Zenith Starship crew.<ref name="lh-02-the-engineer-c32" /><ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref> While inspecting a holographic map of the system, this teammate of the narrator responded to the Captain's command.<ref name="lh-02-the-engineer-c34">''The Engineer'', chapter 34</ref><ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}
+=== {{spoiler|book=lh-02-the-engineer|Crew of the Zenith Stars}} ===
+{{spoiler|book=lh-02-the-engineer|A [[Karoshan]] woman and a Highness, Shyrax serves as the [[Rebel Queen of Karosha|Queen of Karosha]].<ref name="lh-02-the-engineer-c2">''The Engineer'', chapter 2</ref><ref name="lh-02-the-engineer-c3">''The Engineer'', chapter 3</ref> As a commander with soldiers under her command, she operates a personal battlecruiser and maintains a training room measuring one hundred yards in length.<ref name="lh-02-the-engineer-c3" /><ref name="lh-02-the-engineer-c4">''The Engineer'', chapter 4</ref> While serving as a member of the crew, she once refused transport until her orders were finalized and utilized [[telekinesis]] to secure her armor.<ref name="lh-02-the-engineer-c10">''The Engineer'', chapter 10</ref> During various encounters, she opened a prison cell wall and manifested a golden [[dragon]]'s wing from her back for protection.<ref name="lh-02-the-engineer-c15">''The Engineer'', chapter 15</ref> While aboard the bridge of [[The Last Horizon]], she projected the actions of the [[Advocate]] ships into a hologram.<ref name="lh-02-the-engineer-c16">''The Engineer'', chapter 16</ref><ref name="lh-02-the-engineer-c17">''The Engineer'', chapter 17</ref> Her command can echo in the [[Aether]], and her hair-strands emanate a golden light.<ref name="lh-02-the-engineer-c18">''The Engineer'', chapter 18</ref><ref name="lh-02-the-engineer-c21">''The Engineer'', chapter 21</ref> A journeyman [[Technicians|Technician]], she possesses the gift of [[Enhancement]], known as [[t’rshentha]], though she has not yet completed her masterwork.<ref name="lh-02-the-engineer-c21" /> She intends to sharpen the [[Fallen Sword]] and serves as a source for empowering weapons in the envisioned fleet.<ref name="lh-02-the-engineer-c21" /><ref name="lh-02-the-engineer-c24">''The Engineer'', chapter 24</ref> This [[Karoshan]] with large yellow hands feels older than the Captain and previously served as his bodyguard.<ref name="lh-02-the-engineer-c26">''The Engineer'', chapter 26</ref><ref name="lh-02-the-engineer-c30">''The Engineer'', chapter 30</ref><ref name="lh-02-the-engineer-c32">''The Engineer'', chapter 32</ref> Believing the Alliance will harvest them for genetics to create new [[Perfected]], she took [[Mell D-One-Twenty-Five|Mell]] and may have entered an agreement with the crew of the The Zenith Starship{{!}}Zenith Starship.<ref name="lh-02-the-engineer-c32" /><ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">30</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax is a [[Karoshan]] woman and the [[Queen of Karosha]].<ref name="lh-02-the-engineer-c2" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] is a [[Karoshan]] woman and the [[Rebel Queen of Karosha|Queen of Karosha]].<ref name="lh-02-the-engineer-c2" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]] is the commander of a personal battlecruiser.<ref name="lh-02-the-engineer-c3" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax is a Highness.<ref name="lh-02-the-engineer-c3" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax is a [[Queen]].<ref name="lh-02-the-engineer-c4" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax possesses a personal training room that is a hundred yards long.<ref name="lh-02-the-engineer-c4" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax is a leader who has soldiers under her command.<ref name="lh-02-the-engineer-c4" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax is a member of the crew who has refused transport until she finished giving orders.<ref name="lh-02-the-engineer-c10" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax uses [[telekinesis]] to strap her armor.<ref name="lh-02-the-engineer-c10" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax opened the back of the prison cell wall.<ref name="lh-02-the-engineer-c15" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax can manifest a golden [[dragon]]'s wing from her back for protection.<ref name="lh-02-the-engineer-c15" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax was aboard the bridge of [[The Last Horizon]].<ref name="lh-02-the-engineer-c16" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax projected the [[Advocate]] ships' actions into a hologram.<ref name="lh-02-the-engineer-c17" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] is a Highness.<ref name="lh-02-the-engineer-c3" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] is a [[Queen]].<ref name="lh-02-the-engineer-c4" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] possesses a personal training room that is a hundred yards long.<ref name="lh-02-the-engineer-c4" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] is a leader who has soldiers under her command.<ref name="lh-02-the-engineer-c4" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] is a member of the crew who has refused transport until she finished giving orders.<ref name="lh-02-the-engineer-c10" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] uses [[telekinesis]] to strap her armor.<ref name="lh-02-the-engineer-c10" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] opened the back of the prison cell wall.<ref name="lh-02-the-engineer-c15" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] can manifest a golden [[dragon]]'s wing from her back for protection.<ref name="lh-02-the-engineer-c15" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] was aboard the bridge of [[The Last Horizon]].<ref name="lh-02-the-engineer-c16" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] projected the [[Advocate]] ships' actions into a hologram.<ref name="lh-02-the-engineer-c17" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax's command can echo in the [[Aether]].<ref name="lh-02-the-engineer-c18" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax is a member of the crew.<ref name="lh-02-the-engineer-c19" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] is a member of the crew.<ref name="lh-02-the-engineer-c19">''The Engineer'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax's hair-strands emanate golden light.<ref name="lh-02-the-engineer-c21" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]] is a journeyman Technicians{{!}}Technician.<ref name="lh-02-the-engineer-c21" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]]'s Technicians{{!}}Technician gift is called [[t’rshentha]] or [[Enhancement]].<ref name="lh-02-the-engineer-c21" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]] is a journeyman [[Technicians|Technician]].<ref name="lh-02-the-engineer-c21" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]]'s [[Technicians|Technician]] gift is called [[t’rshentha]] or [[Enhancement]].<ref name="lh-02-the-engineer-c21" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]] has not yet completed her masterwork.<ref name="lh-02-the-engineer-c21" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]] intends to sharpen the [[Fallen Sword]].<ref name="lh-02-the-engineer-c21" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax is a source for empowering weapons in the envisioned fleet.<ref name="lh-02-the-engineer-c24" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax feels older than the Captain.<ref name="lh-02-the-engineer-c26" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax is a [[Karoshan]] with large yellow hands.<ref name="lh-02-the-engineer-c30" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax is a member of the crew and was previously the Captain's bodyguard.<ref name="lh-02-the-engineer-c32" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax believes the Alliance will harvest them for genetics to make new [[Perfected]].<ref name="lh-02-the-engineer-c32" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]] took Mell D-One-Twenty-Five{{!}}Mell and may have entered an agreement with the crew of the The Zenith Starship{{!}}Zenith Starship.<ref name="lh-02-the-engineer-c33" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax inspects a holographic map of the system.<ref name="lh-02-the-engineer-c34" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax is a teammate of the narrator.<ref name="lh-02-the-engineer-c38" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax responds to the Captain's command.<ref name="lh-02-the-engineer-c38" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax has golden eyes.<ref name="lh-02-the-engineer-c39">''The Engineer'', chapter 39</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax is addressed as Your Highness and [[Commander]].<ref name="lh-02-the-engineer-c39" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] is a source for empowering weapons in the envisioned fleet.<ref name="lh-02-the-engineer-c24" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] feels older than the Captain.<ref name="lh-02-the-engineer-c26" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] is a [[Karoshan]] with large yellow hands.<ref name="lh-02-the-engineer-c30" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] is a member of the crew and was previously the Captain's bodyguard.<ref name="lh-02-the-engineer-c32" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] believes the Alliance will harvest them for genetics to make new [[Perfected]].<ref name="lh-02-the-engineer-c32" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax]] took [[Mell D-One-Twenty-Five|Mell]] and may have entered an agreement with the crew of the The Zenith Starship{{!}}Zenith Starship.<ref name="lh-02-the-engineer-c33" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] inspects a holographic map of the system.<ref name="lh-02-the-engineer-c34">''The Engineer'', chapter 34</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] is a teammate of the narrator.<ref name="lh-02-the-engineer-c38">''The Engineer'', chapter 38</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] responds to the Captain's command.<ref name="lh-02-the-engineer-c38" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] has golden eyes.<ref name="lh-02-the-engineer-c39">''The Engineer'', chapter 39</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] is addressed as Your Highness and [[Commander]].<ref name="lh-02-the-engineer-c39" />}}</li>
 </ul></div>
 
 {{spoiler|book=lh-02-the-engineer|Upon returning to her fleet, [[Queen]] Shyrax began instructing her children using battle-maps.<ref name="lh-02-the-engineer-c45">''The Engineer'', chapter 45</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax returned to her fleet and was instructing her children with battle-maps.<ref name="lh-02-the-engineer-c45" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] returned to her fleet and was instructing her children with battle-maps.<ref name="lh-02-the-engineer-c45" />}}</li>
 </ul></div>
 
-=== {{spoiler|book=lh-02-the-engineer|Rebel Queen of Karosha}} ===
-{{spoiler|book=lh-02-the-engineer|Shyrax is the exiled [[Queen of Karosha]] who has taken up the mantle of the [[Rebel Queen]].<ref name="lh-02-the-engineer-c50">''The Engineer'', chapter 50</ref><ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref> She wields a [[wand]] characterized by a tip that glows gold.<ref name="lh-02-the-engineer-c52" /> In her struggle, she rallied both [[the Advocates]] and her own forces against [[Starhammer]].<ref name="lh-02-the-engineer-c54">''The Engineer'', chapter 54</ref>}}
+=== {{spoiler|book=lh-02-the-engineer|Exiled Rebel Queen}} ===
+{{spoiler|book=lh-02-the-engineer|Shyrax is the exiled [[Rebel Queen of Karosha|Queen of Karosha]] who also serves as the [[Rebel Queen]].<ref name="lh-02-the-engineer-c50">''The Engineer'', chapter 50</ref><ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref> She utilizes a [[wand]] characterized by a tip that glows gold.<ref name="lh-02-the-engineer-c52" /> During her campaign, Shyrax rallied both her forces and [[the Advocates]] to stand against [[Starhammer]].<ref name="lh-02-the-engineer-c54">''The Engineer'', chapter 54</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax is the exiled [[Queen of Karosha]].<ref name="lh-02-the-engineer-c50" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax is the [[Rebel Queen]].<ref name="lh-02-the-engineer-c52" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax uses a [[wand]] that glows gold at the tip.<ref name="lh-02-the-engineer-c52" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Queen Shyrax{{!}}Shyrax rallied her forces and [[the Advocates]] against [[Starhammer]].<ref name="lh-02-the-engineer-c54" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] is the exiled Rebel Queen of Karosha{{!}}Queen of Karosha.<ref name="lh-02-the-engineer-c50" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] is the [[Rebel Queen]].<ref name="lh-02-the-engineer-c52" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] uses a [[wand]] that glows gold at the tip.<ref name="lh-02-the-engineer-c52" />}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Queen Shyrax|Shyrax]] rallied her forces and [[the Advocates]] against [[Starhammer]].<ref name="lh-02-the-engineer-c54" />}}</li>
 </ul></div>
 
-{{spoiler|book=lh-03-the-knight|The narrator feels it is necessary to go and check on the status of [[Queen]] Shyrax.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}
+{{spoiler|book=lh-03-the-knight|The narrator feels the need to check on the status of [[Queen]] Shyrax.<ref name="lh-03-the-knight-c4">''The Knight'', chapter 4</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|The narrator needs to check on Queen Shyrax{{!}}Shyrax.<ref name="lh-03-the-knight-c4" />}}</li>
-</ul></div>
-
-=== {{spoiler|book=lh-03-the-knight|Captain and Commander}} ===
-{{spoiler|book=lh-03-the-knight|[[Queen Shyrax the Third]] serves as both a Captain and the crew's [[Commander]].<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref><ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref> She possesses dull bronze skin and gold hair-cables, often appearing in ornate black and gold battle armor plated with elaborate [[dragon]] designs and disguised shield generators.<ref name="lh-03-the-knight-c5" /><ref name="lh-03-the-knight-c18">''The Knight'', chapter 18</ref> Equipped with a [[wand]] and a [[golden force]]-blade, she is willing to accept the consequences of using magic in a specific way.<ref name="lh-03-the-knight-c5" /><ref name="lh-03-the-knight-c37">''The Knight'', chapter 37</ref> Shyrax believes the technology of the [[Zenith Cannon]] will be vital for reclaiming [[Karosha]], a goal she pursues alongside her dark, rectangular ships.<ref name="lh-03-the-knight-c8" /><ref name="lh-03-the-knight-c18" /> During combat on the bridge, she cut through Karoshan{{!}}Karoshans and commanded her former soldiers to stand.<ref name="lh-03-the-knight-c18" /> She intends to monitor [[Benri Vallenar]]'s behavior and utilizes [[Perfected infiltration]].<ref name="lh-03-the-knight-c23">''The Knight'', chapter 23</ref><ref name="lh-03-the-knight-c24">''The Knight'', chapter 24</ref> After focusing enhancement systems on the engines, she materialized onto the bridge to fight a green-skinned [[Perfected Karoshan]] using blue [[Combat Art]].<ref name="lh-03-the-knight-c28">''The Knight'', chapter 28</ref><ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref><ref name="lh-03-the-knight-c37" /> Using her [[wand]] to perform magic of enhancement and amplification, she woke Sola Kalter{{!}}Sola and remains a member of a group capable of drawing up battle plans.<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref><ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref>}}
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">28</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax is a Captain.<ref name="lh-03-the-knight-c5" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax is [[Queen Shyrax the Third]].<ref name="lh-03-the-knight-c5" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax has skin of dull bronze and gold hair-cables.<ref name="lh-03-the-knight-c5" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax wears armor plating with elaborate [[dragon]] designs and disguised shield generators.<ref name="lh-03-the-knight-c5" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax carries a [[force-blade]] and a [[wand]].<ref name="lh-03-the-knight-c5" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax is willing to live with the consequences of using magic in a specific way.<ref name="lh-03-the-knight-c5" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax is the crew's [[Commander]].<ref name="lh-03-the-knight-c8" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax believes the [[Zenith Cannon]]'s technology will be invaluable for reclaiming [[Karosha]].<ref name="lh-03-the-knight-c8" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|The [[Karoshan]] agent is compared in age to Queen Shyrax{{!}}Shyrax's son.<ref name="lh-03-the-knight-c13">''The Knight'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola's intensity reminded the narrator of Queen Shyrax{{!}}Shyrax.<ref name="lh-03-the-knight-c15">''The Knight'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax's ships are dark and rectangular in shape.<ref name="lh-03-the-knight-c18" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax wears ornate battle armor that is black worked in gold.<ref name="lh-03-the-knight-c18" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax cut through the Karoshan{{!}}Karoshans on the bridge.<ref name="lh-03-the-knight-c18" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax told her former soldiers to stand.<ref name="lh-03-the-knight-c18" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax intends to monitor [[Benri Vallenar]]'s behavior.<ref name="lh-03-the-knight-c23" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax is a character who can glance back over others.<ref name="lh-03-the-knight-c23" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax uses [[Perfected infiltration]].<ref name="lh-03-the-knight-c24" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax is someone Varic Vallenar{{!}}Varic orders to be contacted.<ref name="lh-03-the-knight-c28" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax focused the enhancement systems on the engines.<ref name="lh-03-the-knight-c28" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax has rebels.<ref name="lh-03-the-knight-c32">''The Knight'', chapter 32</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax materialized onto the bridge.<ref name="lh-03-the-knight-c35" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax wields a [[golden force]]-blade.<ref name="lh-03-the-knight-c37" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax was fighting a [[Perfected Karoshan]] with green skin and blue [[Combat Art]].<ref name="lh-03-the-knight-c37" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax uses a [[wand]] and magic of enhancement and amplification.<ref name="lh-03-the-knight-c40" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax is a character who can be freed to help wake others.<ref name="lh-03-the-knight-c40" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax woke Sola Kalter{{!}}Sola.<ref name="lh-03-the-knight-c40" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax is part of a group that can draw up battle plans.<ref name="lh-03-the-knight-c41" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax is a person the Captain intends to put in charge.<ref name="lh-03-the-knight-c41" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The narrator needs to check on [[Queen Shyrax|Shyrax]].<ref name="lh-03-the-knight-c4" />}}</li>
 </ul></div>
 
 === {{spoiler|book=lh-03-the-knight|Commander of The Last Horizon}} ===
-{{spoiler|book=lh-03-the-knight|As a crew member of [[The Last Horizon]], Shyrax entered the call and observed the energy capacity restrictions affecting the [[Divine Titans]].<ref name="lh-03-the-knight-c42">''The Knight'', chapter 42</ref> Acting as an Authority{{!}}authority figure on the bridge, Shyrax provides the crew with tactical information and scans.<ref name="lh-03-the-knight-c43">''The Knight'', chapter 43</ref><ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref> While reporting on the status of the ship's shields, Shyrax was observed watching the monitors in the distance.<ref name="lh-03-the-knight-c44" />}}
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+{{spoiler|book=lh-03-the-knight|[[Queen]] [[Shyrax the Third]] is a Captain who possesses dull bronze skin and gold hair-cables.<ref name="lh-03-the-knight-c5">''The Knight'', chapter 5</ref> She wears armor plating featuring elaborate [[dragon]] designs and disguised shield generators while carrying a [[wand]] and a [[force-blade]].<ref name="lh-03-the-knight-c5" /> Willing to accept the consequences of her specific use of magic, she serves as the crew's [[Commander]].<ref name="lh-03-the-knight-c5" /><ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref> She believes the technology of the [[Zenith Cannon]] will be vital for reclaiming [[Karosha]].<ref name="lh-03-the-knight-c8" /> Her ships are dark and rectangular in shape, and she is often seen in ornate black and gold battle armor.<ref name="lh-03-the-knight-c18">''The Knight'', chapter 18</ref> During a confrontation on the bridge, she cut through the [[Karoshan|Karoshans]] and commanded her former soldiers to stand.<ref name="lh-03-the-knight-c18" /> As the ruler of [[The Last Horizon]], she intends to monitor the behavior of [[Benri Vallenar]].<ref name="lh-03-the-knight-c21">''The Knight'', chapter 21</ref><ref name="lh-03-the-knight-c23">''The Knight'', chapter 23</ref> Utilizing [[Perfected infiltration]], she was ordered to be contacted by [[Varic Vallenar|Varic]].<ref name="lh-03-the-knight-c24">''The Knight'', chapter 24</ref><ref name="lh-03-the-knight-c28">''The Knight'', chapter 28</ref> After focusing enhancement systems on the engines, she materialized onto the bridge to wield a [[golden force]]-blade against a green-skinned [[Perfected Karoshan]].<ref name="lh-03-the-knight-c28" /><ref name="lh-03-the-knight-c35">''The Knight'', chapter 35</ref><ref name="lh-03-the-knight-c37">''The Knight'', chapter 37</ref> Using a [[wand]] to perform magic of amplification and enhancement, she woke [[Sola Kalter|Sola]].<ref name="lh-03-the-knight-c40">''The Knight'', chapter 40</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">30</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax is a crew member of [[The Last Horizon]] who entered the call.<ref name="lh-03-the-knight-c42" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax notes the energy capacity restrictions of the [[Divine Titans]].<ref name="lh-03-the-knight-c42" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax is a leader or Authority{{!}}authority figure on the bridge.<ref name="lh-03-the-knight-c43" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax provides scans and tactical information to the crew.<ref name="lh-03-the-knight-c44" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax reports on the ship's shields.<ref name="lh-03-the-knight-c44" />}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax was seen looking into the distance on monitors.<ref name="lh-03-the-knight-c44" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] is a Captain.<ref name="lh-03-the-knight-c5" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] is Queen Shyrax{{!}}Queen Shyrax the Third.<ref name="lh-03-the-knight-c5" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] has skin of dull bronze and gold hair-cables.<ref name="lh-03-the-knight-c5" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] wears armor plating with elaborate [[dragon]] designs and disguised shield generators.<ref name="lh-03-the-knight-c5" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] carries a [[force-blade]] and a [[wand]].<ref name="lh-03-the-knight-c5" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] is willing to live with the consequences of using magic in a specific way.<ref name="lh-03-the-knight-c5" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] is the crew's [[Commander]].<ref name="lh-03-the-knight-c8" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] believes the [[Zenith Cannon]]'s technology will be invaluable for reclaiming [[Karosha]].<ref name="lh-03-the-knight-c8" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Karoshan]] agent is compared in age to Queen Shyrax{{!}}Shyrax's son.<ref name="lh-03-the-knight-c13">''The Knight'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Sola Kalter{{!}}Sola's intensity reminded the narrator of Queen Shyrax{{!}}Shyrax.<ref name="lh-03-the-knight-c15">''The Knight'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Queen Shyrax{{!}}Shyrax's ships are dark and rectangular in shape.<ref name="lh-03-the-knight-c18" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] wears ornate battle armor that is black worked in gold.<ref name="lh-03-the-knight-c18" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] cut through the Karoshan{{!}}Karoshans on the bridge.<ref name="lh-03-the-knight-c18" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] told her former soldiers to stand.<ref name="lh-03-the-knight-c18" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Queen Shyrax the Third]] is the ruler of [[The Last Horizon]].<ref name="lh-03-the-knight-c21" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] intends to monitor [[Benri Vallenar]]'s behavior.<ref name="lh-03-the-knight-c23" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] is a character who can glance back over others.<ref name="lh-03-the-knight-c23" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] uses [[Perfected infiltration]].<ref name="lh-03-the-knight-c24" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] is someone Varic Vallenar{{!}}Varic orders to be contacted.<ref name="lh-03-the-knight-c28" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] focused the enhancement systems on the engines.<ref name="lh-03-the-knight-c28" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] has rebels.<ref name="lh-03-the-knight-c32">''The Knight'', chapter 32</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] materialized onto the bridge.<ref name="lh-03-the-knight-c35" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] wields a [[golden force]]-blade.<ref name="lh-03-the-knight-c37" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] was fighting a [[Perfected Karoshan]] with green skin and blue [[Combat Art]].<ref name="lh-03-the-knight-c37" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] uses a [[wand]] and magic of enhancement and amplification.<ref name="lh-03-the-knight-c40" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] is a character who can be freed to help wake others.<ref name="lh-03-the-knight-c40" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] woke Sola Kalter{{!}}Sola.<ref name="lh-03-the-knight-c40" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] is part of a group that can draw up battle plans.<ref name="lh-03-the-knight-c41">''The Knight'', chapter 41</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] is a person the Captain intends to put in charge.<ref name="lh-03-the-knight-c41" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] is a crew member of [[The Last Horizon]] who entered the call.<ref name="lh-03-the-knight-c42">''The Knight'', chapter 42</ref>}}</li>
 </ul></div>
 
-{{spoiler|book=lh-04-the-pilot|As the [[Commander]] of [[The Last Horizon]], [[Queen]] Shyrax rules over the planet [[Basyrryx]] and possesses the ability to lend [[Technicians]].<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref><ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref> While her children remain hidden across the galaxy from [[Felrex]], she utilizes a variant of draconic magic for her spells.<ref name="lh-04-the-pilot-c6" /><ref name="lh-04-the-pilot-c7">''The Pilot'', chapter 7</ref> The narrator once served as her bodyguard.<ref name="lh-04-the-pilot-c7" /> She spends time studying monitors and checking sensor data, even inquiring about the potential uses for [[Iron Hive]] core components.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref> After requesting the deployment of ships, her fist became covered in golden energy.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref> As a member of the crew, she nearly tore the bridge apart.<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}
+{{spoiler|book=lh-03-the-knight|While serving as an [[Authority|authority]] figure on the bridge, Shyrax observes the energy capacity restrictions inherent to the [[Divine Titans]].<ref name="lh-03-the-knight-c42" /><ref name="lh-03-the-knight-c43">''The Knight'', chapter 43</ref> She actively supports the crew by providing tactical information and scans.<ref name="lh-03-the-knight-c44">''The Knight'', chapter 44</ref> Her duties include reporting on the status of the ship's shields while she is seen monitoring the distance via various screens.<ref name="lh-03-the-knight-c44" />}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] notes the energy capacity restrictions of the [[Divine Titans]].<ref name="lh-03-the-knight-c42" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] is a leader or Authority{{!}}authority figure on the bridge.<ref name="lh-03-the-knight-c43" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] provides scans and tactical information to the crew.<ref name="lh-03-the-knight-c44" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] reports on the ship's shields.<ref name="lh-03-the-knight-c44" />}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Queen Shyrax|Shyrax]] was seen looking into the distance on monitors.<ref name="lh-03-the-knight-c44" />}}</li>
+</ul></div>
+
+{{spoiler|book=lh-04-the-pilot|As the [[Commander]] of [[The Last Horizon]], [[Queen]] Shyrax rules over the planet [[Basyrryx]] and possesses the ability to lend [[Technicians]].<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref><ref name="lh-04-the-pilot-c6">''The Pilot'', chapter 6</ref> To protect her children from [[Felrex]], she has hidden them across the galaxy.<ref name="lh-04-the-pilot-c6" /> Her spells are derived from a variant of draconic magic, and she was once served by the narrator, who acted as her bodyguard.<ref name="lh-04-the-pilot-c7">''The Pilot'', chapter 7</ref> While studying monitors and checking sensor data, she inquired about the potential uses for [[Iron Hive]] core components.<ref name="lh-04-the-pilot-c10">''The Pilot'', chapter 10</ref> After requesting the deployment of ships, her fist became covered in golden energy.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref> As a member of the crew, she nearly tore the bridge apart.<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax can lend [[Technicians]].<ref name="lh-04-the-pilot-c4" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax rules over the planet [[Basyrryx]].<ref name="lh-04-the-pilot-c6" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax is the [[Commander]] of [[The Last Horizon]].<ref name="lh-04-the-pilot-c6" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] can lend [[Technicians]].<ref name="lh-04-the-pilot-c4" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] rules over the planet [[Basyrryx]].<ref name="lh-04-the-pilot-c6" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] is the [[Commander]] of [[The Last Horizon]].<ref name="lh-04-the-pilot-c6" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax's children are hidden across the galaxy from [[Felrex]].<ref name="lh-04-the-pilot-c6" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax's spells come from a variant of draconic magic.<ref name="lh-04-the-pilot-c7" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The narrator was once Queen Shyrax{{!}}Shyrax’s bodyguard.<ref name="lh-04-the-pilot-c7" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax studies monitors and checks sensor data.<ref name="lh-04-the-pilot-c10" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax asks what can be done with the core components of an [[Iron Hive]].<ref name="lh-04-the-pilot-c10" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax requested the deployment of ships.<ref name="lh-04-the-pilot-c14" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] studies monitors and checks sensor data.<ref name="lh-04-the-pilot-c10" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] asks what can be done with the core components of an [[Iron Hive]].<ref name="lh-04-the-pilot-c10" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] requested the deployment of ships.<ref name="lh-04-the-pilot-c14" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax's fist is covered by golden energy.<ref name="lh-04-the-pilot-c14" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax is a member of [[The Last Horizon]]'s crew who nearly tore the bridge apart.<ref name="lh-04-the-pilot-c16" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] is a member of [[The Last Horizon]]'s crew who nearly tore the bridge apart.<ref name="lh-04-the-pilot-c16" />}}</li>
 </ul></div>
 
 === {{spoiler|book=lh-04-the-pilot|Guardian of Shadow Ark}} ===
-{{spoiler|book=lh-04-the-pilot|As the Guardian of [[Shadow Ark]] and [[Commander]] of [[The Last Horizon]], Shyrax is a [[Karoshan]] who has a twin brother named Prince Veshran{{!}}Veshran.<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref><ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref> A member of the crew capable of projecting footage from her [[optical implant]], she has previously fought against [[Felrex]], who betrayed her a few years after her reign began.<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref><ref name="lh-04-the-pilot-c21">''The Pilot'', chapter 21</ref><ref name="lh-04-the-pilot-c36">''The Pilot'', chapter 36</ref> While observing the battlefield from a gigantic chair, she exulted in her heart after defeating the enemy.<ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref><ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref> During combat, Shyrax gives orders and grants permission to engage personally, utilizing a [[wand]] as thick as a human arm.<ref name="lh-04-the-pilot-c28">''The Pilot'', chapter 28</ref><ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref> She directs the fleet via a [[communicator]] and [[console]], though her jaw tightened during a discussion where she argued that [[Omega]] does not deserve to be executed.<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref> Claiming to be a hunter without peer, the [[Commander]] is characterized by her massive bronze fist and yellow glowing cable braids.<ref name="lh-04-the-pilot-c35">''The Pilot'', chapter 35</ref><ref name="lh-04-the-pilot-c36" />}}
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
+{{spoiler|book=lh-04-the-pilot|[[Queen]] Shyrax serves as both the Guardian of [[Shadow Ark]] and the [[Commander]] of [[The Last Horizon]].<ref name="lh-04-the-pilot-c19">''The Pilot'', chapter 19</ref> She is the twin sister of [[Prince Veshran|Veshran]].<ref name="lh-04-the-pilot-c19" /> As a member of the crew, she possesses the ability to project footage using her [[optical implant]].<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax is the Guardian of [[Shadow Ark]] and the [[Commander]] of [[The Last Horizon]].<ref name="lh-04-the-pilot-c19" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax has a twin brother named Prince Veshran{{!}}Veshran.<ref name="lh-04-the-pilot-c19" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax is a member of the crew who can project footage from her [[optical implant]].<ref name="lh-04-the-pilot-c20" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax has fought against [[Felrex]].<ref name="lh-04-the-pilot-c21" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax has a gigantic chair.<ref name="lh-04-the-pilot-c24" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax's children could be in danger if the ship were destroyed.<ref name="lh-04-the-pilot-c24" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax is observing the battlefield.<ref name="lh-04-the-pilot-c25" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax exulted in her heart after defeating the enemy.<ref name="lh-04-the-pilot-c25" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax is giving orders during the combat.<ref name="lh-04-the-pilot-c28" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax grants permission to engage personally.<ref name="lh-04-the-pilot-c29" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax has a [[wand]] as thick as a human arm.<ref name="lh-04-the-pilot-c29" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax directs the fleet using a [[communicator]] and [[console]].<ref name="lh-04-the-pilot-c30" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax's jaw tightened during the discussion.<ref name="lh-04-the-pilot-c30" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax believes [[Omega]] does not deserve to be executed.<ref name="lh-04-the-pilot-c30" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax claims to be a hunter without peer.<ref name="lh-04-the-pilot-c35" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax is a [[Commander]] with a massive bronze fist and cable braids.<ref name="lh-04-the-pilot-c36" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Commander]] Queen Shyrax{{!}}Shyrax has a braid of thick cables that glow yellow.<ref name="lh-04-the-pilot-c36" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax was betrayed by [[Felrex]] a few years after her reign began.<ref name="lh-04-the-pilot-c36" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax is the sister of Prince Veshran{{!}}Veshran and a [[Karoshan]].<ref name="lh-04-the-pilot-c45" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] is the Guardian of [[Shadow Ark]] and the [[Commander]] of [[The Last Horizon]].<ref name="lh-04-the-pilot-c19" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] has a twin brother named Prince Veshran{{!}}Veshran.<ref name="lh-04-the-pilot-c19" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] is a member of the crew who can project footage from her [[optical implant]].<ref name="lh-04-the-pilot-c20" />}}</li>
 </ul></div>
 
-=== {{spoiler|book=lh-04-the-pilot|Post-battle recovery}} ===
-{{spoiler|book=lh-04-the-pilot|Following a recent engagement, [[Queen]] Shyrax's ship sustained a significant hull breach.<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref> She was observed drifting within a debris field, surrounded by pearls of [[blood]].<ref name="lh-04-the-pilot-c47" /> Should the [[Galactic Union]] decide to target the [[Karoshan Alliance]], Shyrax would be the first to perish.<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref> She was subsequently placed in Medical for treatment.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+=== {{spoiler|book=lh-04-the-pilot|Battle against Felrex}} ===
+{{spoiler|book=lh-04-the-pilot|Having previously fought against [[Felrex]], [[Queen]] Shyrax sits upon a gigantic chair while observing the battlefield.<ref name="lh-04-the-pilot-c21">''The Pilot'', chapter 21</ref><ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref><ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref> She feels a sense of internal exultation after defeating the enemy, though she remains mindful that her children could be in danger if the ship were destroyed.<ref name="lh-04-the-pilot-c24" /><ref name="lh-04-the-pilot-c25" /> During combat, Shyrax issues orders and grants permission for personal engagement using a [[wand]] as thick as a human arm.<ref name="lh-04-the-pilot-c28">''The Pilot'', chapter 28</ref><ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref> She directs the fleet via a [[communicator]] and [[console]], her jaw tightening during discussions where she expresses her belief that [[Omega]] does not deserve execution.<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref> Claiming to be a hunter without peer, the [[Commander]] is distinguished by her massive bronze fist and thick cable braids that glow yellow.<ref name="lh-04-the-pilot-c35">''The Pilot'', chapter 35</ref><ref name="lh-04-the-pilot-c36">''The Pilot'', chapter 36</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">14</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax has a ship with a hull breach.<ref name="lh-04-the-pilot-c47" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax was seen floating in a debris field with pearls of [[blood]].<ref name="lh-04-the-pilot-c47" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax would die first if the [[Galactic Union]] targeted the [[Karoshan Alliance]].<ref name="lh-04-the-pilot-c48" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax was in Medical.<ref name="lh-04-the-pilot-c49" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] has fought against [[Felrex]].<ref name="lh-04-the-pilot-c21" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] has a gigantic chair.<ref name="lh-04-the-pilot-c24" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax's children could be in danger if the ship were destroyed.<ref name="lh-04-the-pilot-c24" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] is observing the battlefield.<ref name="lh-04-the-pilot-c25" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] exulted in her heart after defeating the enemy.<ref name="lh-04-the-pilot-c25" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] is giving orders during the combat.<ref name="lh-04-the-pilot-c28" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] grants permission to engage personally.<ref name="lh-04-the-pilot-c29" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] has a [[wand]] as thick as a human arm.<ref name="lh-04-the-pilot-c29" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] directs the fleet using a [[communicator]] and [[console]].<ref name="lh-04-the-pilot-c30" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Queen Shyrax{{!}}Shyrax's jaw tightened during the discussion.<ref name="lh-04-the-pilot-c30" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] believes [[Omega]] does not deserve to be executed.<ref name="lh-04-the-pilot-c30" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] claims to be a hunter without peer.<ref name="lh-04-the-pilot-c35" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] is a [[Commander]] with a massive bronze fist and cable braids.<ref name="lh-04-the-pilot-c36" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Commander]] [[Queen Shyrax|Shyrax]] has a braid of thick cables that glow yellow.<ref name="lh-04-the-pilot-c36" />}}</li>
+</ul></div>
+
+=== {{spoiler|book=lh-04-the-pilot|Aftermath of the battle}} ===
+{{spoiler|book=lh-04-the-pilot|A [[Karoshan]] and the sister of [[Prince Veshran|Veshran]], Shyrax experienced a betrayal by [[Felrex]] only a few years into her reign.<ref name="lh-04-the-pilot-c36" /><ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref> Following a hull breach on her ship, she was observed floating within a debris field surrounded by pearls of [[blood]].<ref name="lh-04-the-pilot-c47">''The Pilot'', chapter 47</ref> While she was placed in Medical, it was noted that she would be the first to die should the [[Galactic Union]] target the [[Karoshan Alliance]].<ref name="lh-04-the-pilot-c48">''The Pilot'', chapter 48</ref><ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">6</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] was betrayed by [[Felrex]] a few years after her reign began.<ref name="lh-04-the-pilot-c36" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] is the sister of Prince Veshran{{!}}Veshran and a [[Karoshan]].<ref name="lh-04-the-pilot-c45" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] has a ship with a hull breach.<ref name="lh-04-the-pilot-c47" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] was seen floating in a debris field with pearls of [[blood]].<ref name="lh-04-the-pilot-c47" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] would die first if the [[Galactic Union]] targeted the [[Karoshan Alliance]].<ref name="lh-04-the-pilot-c48" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Queen Shyrax|Shyrax]] was in Medical.<ref name="lh-04-the-pilot-c49" />}}</li>
 </ul></div>
 
 == Notable quotes ==

@@ -7,6 +7,7 @@
 | introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
+<div class="wv-epigraph">{{spoiler|book=lh-02-the-engineer|He wore a full-body suit of bronze with the Advocate “A” on his chest.}}<div class="wv-epigraph-cite">{{spoiler|book=lh-02-the-engineer|— ''The Engineer'', chapter 40}}</div></div>
 ''See also: [[Clockworker Timeline]]''
 
 == Overview ==
@@ -17,6 +18,9 @@
 
 == Personality ==
 {{spoiler|book=lh-02-the-engineer|A prominent member of [[the Advocates]], [[Jyrid]] eventually betrayed his organization. His actions resulted in him letting [[Starhammer]] down.}}
+
+== Relationships ==
+{{spoiler|book=lh-02-the-engineer|Clockworker is also known as [[Jyrid]]. He was a member of [[the Advocates]] who eventually betrayed them, and he let [[Starhammer]] down.}}
 
 == Abilities ==
 {{spoiler|book=lh-02-the-engineer|He possesses the power to lock physical objects in place.}}

@@ -9,16 +9,20 @@
 | introduced = [[The Pilot (novel)|The Pilot]]
 }}
 
+<div class="wv-epigraph">{{spoiler|book=lh-04-the-pilot|Unfortunately,” Elios said, “her Aethertech affinity is particularly rare.}}<div class="wv-epigraph-cite">{{spoiler|book=lh-04-the-pilot|— ''The Pilot'', chapter 13}}</div></div>
 ''See also: [[Aila Escalon Timeline]]''
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|Aila Escalon is a skilled [[Combat Artist]] who utilizes [[Aethertech]] augmentations to enhance her abilities. In battle, she wields the [[Zenith Blade]] and has been known to use a weapon called [[Hallow Divide]]. While her augmentations provide significant advantages, she has faced difficulties when fighting the D’Niss{{!}}D'Niss or dealing with starship explosions and enemy swarms. Aila has a connection to the [[Escalon Company]] and has been associated with [[Subspace]], a dark zone she can enter or use to drag others into. She is characterized by her frequent use of mocking grins and laughter during combat, often appearing delighted or excited while fighting. Her history includes defending her home planet and engaging in intense confrontations with various entities, including the [[Zenith Blade]] and Fathom.}}
+{{spoiler|book=lh-04-the-pilot|Aila Escalon is a skilled [[Combat Artist]] who utilizes [[Aethertech]] augmentations to enhance her abilities. In battle, she wields the [[Zenith Blade]] and has been known to use a weapon called [[Hallow Divide]]. While her augmentations provide significant advantages, she has faced difficulties when fighting the [[D’Niss|D'Niss]] or dealing with starship explosions and enemy swarms. Aila has a connection to the [[Escalon Company]] and has been associated with [[Subspace]], a dark zone she can enter or use to drag others into. She is characterized by her frequent use of mocking grins and laughter during combat, often appearing delighted or excited while fighting. Her history includes defending her home planet and engaging in intense confrontations with various entities, including the [[Zenith Blade]] and Fathom.}}
 
 == Appearance ==
 {{spoiler|book=lh-04-the-pilot|Aila is a ten-year-old girl with brown hair and eyes that glow with an orange light. Her body is almost entirely composed of high-grade [[Aethertech]], featuring augmentations in her eyes similar to those used by [[Omega]].}}
 
 == Personality ==
-{{spoiler|book=lh-04-the-pilot|Driven by an internal motivation, Aila is a member of [[Solstice]] who has joined the enemy. She has fought against several individuals simultaneously, including [[Omega]] and Sola Kalter{{!}}Sola.}}
+{{spoiler|book=lh-04-the-pilot|Driven by an internal motivation, Aila is a member of [[Solstice]] who has joined the enemy. She has fought against several individuals simultaneously, including [[Omega]] and [[Sola Kalter|Sola]].}}
+
+== Relationships ==
+{{spoiler|book=lh-04-the-pilot|Aila is the daughter of [[Omega]]. She has engaged in combat with [[Omega]], [[Raion Raithe|Raion]], [[Sola Kalter|Sola]], and [[Horizon]] simultaneously. Additionally, she stood alongside [[Zykaros]] and was struck by [[Starhammer]].}}
 
 == Abilities ==
 {{spoiler|book=lh-04-the-pilot|As a [[Combat Artist]], Aila utilizes the [[Hallow Divide]], the [[Watchtower Stance]], and can manifest an orange shield or pull a [[force-blade]] from [[Subspace]]. She possesses a [[Zenith Device]] to wield the [[Zenith Blade]], can split into clones, and uses a [[Combat Art]] to reflect missiles into energy. Additionally, she can grow four hands from her back that melt into dark goo and possesses a regeneration mass stored in [[Subspace]] that allows her wounds to dissolve into black ooze.}}
@@ -28,55 +32,55 @@
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">49</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila is a character who possesses an internal [[Drive]].<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] is a character who possesses an internal [[Drive]].<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila's body is almost entirely made of high-grade [[Aethertech]].<ref name="lh-04-the-pilot-c1" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] is a [[Combat Artist]].<ref name="lh-04-the-pilot-c1" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] can pull a [[force-blade]] from [[Subspace]].<ref name="lh-04-the-pilot-c1" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] uses the [[Watchtower Stance]].<ref name="lh-04-the-pilot-c1" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila struck with the [[Zenith Blade]] to begin a battle.<ref name="lh-04-the-pilot-c12">''The Pilot'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila is a ten-year-old girl with brown hair.<ref name="lh-04-the-pilot-c13">''The Pilot'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila can grow four hands from her back that melt into dark goo.<ref name="lh-04-the-pilot-c13" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila has a rare [[Aethertech]] affinity.<ref name="lh-04-the-pilot-c13" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] struck with the [[Zenith Blade]] to begin a battle.<ref name="lh-04-the-pilot-c12">''The Pilot'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] is a ten-year-old girl with brown hair.<ref name="lh-04-the-pilot-c13">''The Pilot'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] can grow four hands from her back that melt into dark goo.<ref name="lh-04-the-pilot-c13" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] has a rare [[Aethertech]] affinity.<ref name="lh-04-the-pilot-c13" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] launched an attack that shook the ship.<ref name="lh-04-the-pilot-c14">''The Pilot'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] is the daughter of [[Omega]].<ref name="lh-04-the-pilot-c14" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] uses a [[Combat Art]].<ref name="lh-04-the-pilot-c14" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] possesses a [[Zenith Device]].<ref name="lh-04-the-pilot-c14" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] is the full name of Aila Escalon{{!}}Aila.<ref name="lh-04-the-pilot-c14" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila has a human form.<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] is the full name of [[Aila Escalon|Aila]].<ref name="lh-04-the-pilot-c14" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] has a human form.<ref name="lh-04-the-pilot-c15">''The Pilot'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] has a human form.<ref name="lh-04-the-pilot-c15" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] was dragging the ship into [[Subspace]].<ref name="lh-04-the-pilot-c15" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila was waiting in a [[life-pod]] for the [[Lichborn crews]] to remove her.<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila has joined the enemy.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] was waiting in a [[life-pod]] for the [[Lichborn crews]] to remove her.<ref name="lh-04-the-pilot-c16">''The Pilot'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] has joined the enemy.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] is piloting a star-fighter and stands in the way of the narrator.<ref name="lh-04-the-pilot-c28">''The Pilot'', chapter 28</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila is a member of [[Solstice]].<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila uses a [[Combat Art]] to reflect missiles into energy.<ref name="lh-04-the-pilot-c29" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] is a member of [[Solstice]].<ref name="lh-04-the-pilot-c29">''The Pilot'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] uses a [[Combat Art]] to reflect missiles into energy.<ref name="lh-04-the-pilot-c29" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila's vision is based on augmentations similar to [[Omega]]'s.<ref name="lh-04-the-pilot-c29" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila can strike through the [[Absolute Burial]] spell with multiple [[Zenith]] Blades.<ref name="lh-04-the-pilot-c29" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] can strike through the [[Absolute Burial]] spell with multiple [[Zenith]] Blades.<ref name="lh-04-the-pilot-c29" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila's chest was pierced by beams of [[white light]] from behind.<ref name="lh-04-the-pilot-c29" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila can execute strikes of her [[Combat Art]].<ref name="lh-04-the-pilot-c29" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila has [[Aethertech]] augmentations in her eyes.<ref name="lh-04-the-pilot-c29" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila possesses the [[Zenith Blade]].<ref name="lh-04-the-pilot-c29" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila can split into clones.<ref name="lh-04-the-pilot-c29" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] can execute strikes of her [[Combat Art]].<ref name="lh-04-the-pilot-c29" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] has [[Aethertech]] augmentations in her eyes.<ref name="lh-04-the-pilot-c29" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] possesses the [[Zenith Blade]].<ref name="lh-04-the-pilot-c29" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] can split into clones.<ref name="lh-04-the-pilot-c29" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila's regeneration mass is stored in a pocket of [[Subspace]].<ref name="lh-04-the-pilot-c29" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila uses the [[Hallow Divide]] to fight.<ref name="lh-04-the-pilot-c29" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila fought [[Omega]].<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] uses the [[Hallow Divide]] to fight.<ref name="lh-04-the-pilot-c29" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] fought [[Omega]].<ref name="lh-04-the-pilot-c30">''The Pilot'', chapter 30</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila's eyes burn orange.<ref name="lh-04-the-pilot-c33">''The Pilot'', chapter 33</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila required induced artificial aging to grow past the age of ten.<ref name="lh-04-the-pilot-c33" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila has made hunting [[Omega]]'s ancient enemies difficult.<ref name="lh-04-the-pilot-c36">''The Pilot'', chapter 36</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila can be called back when an alert is made.<ref name="lh-04-the-pilot-c40">''The Pilot'', chapter 40</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] required induced artificial aging to grow past the age of ten.<ref name="lh-04-the-pilot-c33" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] has made hunting [[Omega]]'s ancient enemies difficult.<ref name="lh-04-the-pilot-c36">''The Pilot'', chapter 36</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] can be called back when an alert is made.<ref name="lh-04-the-pilot-c40">''The Pilot'', chapter 40</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]]'s eyes glow with orange light.<ref name="lh-04-the-pilot-c43">''The Pilot'', chapter 43</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] can use the [[Hallow Divide]] ability.<ref name="lh-04-the-pilot-c44">''The Pilot'', chapter 44</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] has fought Raion Raithe{{!}}Raion, Sola Kalter{{!}}Sola, [[Omega]], and [[Horizon]] simultaneously.<ref name="lh-04-the-pilot-c44" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] has fought [[Raion Raithe|Raion]], [[Sola Kalter|Sola]], [[Omega]], and [[Horizon]] simultaneously.<ref name="lh-04-the-pilot-c44" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila's father is mentioned by Aila Escalon{{!}}Aila.<ref name="lh-04-the-pilot-c44" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila can manifest an orange shield.<ref name="lh-04-the-pilot-c44" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila is fighting the [[Red Divine Titan]].<ref name="lh-04-the-pilot-c44" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila withdrew the [[Zenith Blade]] and stood next to [[Zykaros]].<ref name="lh-04-the-pilot-c44" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] can manifest an orange shield.<ref name="lh-04-the-pilot-c44" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] is fighting the [[Red Divine Titan]].<ref name="lh-04-the-pilot-c44" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] withdrew the [[Zenith Blade]] and stood next to [[Zykaros]].<ref name="lh-04-the-pilot-c44" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] is an enemy who can pass through [[Subspace]] and carries a [[Zenith Device]].<ref name="lh-04-the-pilot-c45">''The Pilot'', chapter 45</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon]] has two remaining clones.<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila's body was partially blown apart by [[Starhammer]]'s fist.<ref name="lh-04-the-pilot-c46" />}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila's wounds dissolve into black ooze and begin to regenerate immediately.<ref name="lh-04-the-pilot-c46" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Aila Escalon{{!}}Aila used the [[Zenith Blade]] for protection.<ref name="lh-04-the-pilot-c46" />}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|Sola Kalter{{!}}Sola had been fighting Aila Escalon{{!}}Aila.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]] used the [[Zenith Blade]] for protection.<ref name="lh-04-the-pilot-c46" />}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[Sola Kalter|Sola]] had been fighting Aila Escalon{{!}}Aila.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==

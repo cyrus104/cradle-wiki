@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Hullbreaker VII
-| introduced = The Knight
+| introduced = [[The Knight (novel)|The Knight]]
 }}
 
-== The Knight ==
-{{spoiler|book=lh-03-the-knight|[[Sola]] used a [[Hullbreaker VII]] to blow the door to the bridge inward.}}
-
 [[Category:Artifacts]]
-[[Category:The Knight]]

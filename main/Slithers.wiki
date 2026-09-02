@@ -12,7 +12,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Slithers]] have strange horizontal-split jaws.<ref name="ee-sea-03-of-kings-and-killers-c12">''Of Kings and Killers'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Slithers{{!}}Othaghor’s Slithers have a slow-acting [[poison]] in their teeth.<ref name="ee-sea-03-of-kings-and-killers-c14">''Of Kings and Killers'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Slithers|Othaghor’s Slithers]] have a slow-acting [[poison]] in their teeth.<ref name="ee-sea-03-of-kings-and-killers-c14">''Of Kings and Killers'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Slithers]] are small creatures that attack with stingers.<ref name="ee-sea-03-of-kings-and-killers-c14" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Slithers]] are mindless spawn of [[Othaghor]].<ref name="ee-sea-03-of-kings-and-killers-c14" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Slithers]] are creatures that bite.<ref name="ee-sea-03-of-kings-and-killers-c16">''Of Kings and Killers'', chapter 16</ref>}}</li>

@@ -7,7 +7,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|The bone-hafted axe is an [[Underlord]]-level [[sacred instrument]].<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|sacred instrument{{!}}Sacred instruments include weapons and [[Skysworn armor]].<ref name="cradle-06-underlord-c15">''Underlord'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[sacred instrument|Sacred instruments]] include weapons and [[Skysworn armor]].<ref name="cradle-06-underlord-c15">''Underlord'', chapter 15</ref>}}</li>
 </ul></div>
 
 == Uncrowned ==

@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Sophara’s void key
-| introduced = Bloodline
+| introduced = [[Bloodline (novel)|Bloodline]]
 }}
 
-== Bloodline ==
-{{spoiler|book=cradle-09-bloodline|[[Lindon]] found a device in [[Sophara’s void key]] that can open rifts to houses.}}
-
 [[Category:Artifacts]]
-[[Category:Bloodline]]

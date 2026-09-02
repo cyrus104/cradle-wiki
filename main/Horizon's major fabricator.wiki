@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox construct
 | name = Horizon's major fabricator
-| introduced = The Engineer
+| introduced = [[The Engineer (novel)|The Engineer]]
 }}
 
-== The Engineer ==
-{{spoiler|book=lh-02-the-engineer|[[Horizon's major fabricator]] is a fifteen-foot tall mechanical [[forge]] made of dark metal tinged blue-green.}}
-
 [[Category:Constructs]]
-[[Category:The Engineer]]

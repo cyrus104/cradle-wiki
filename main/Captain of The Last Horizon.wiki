@@ -6,7 +6,7 @@
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|To use [[Horizon]]'s magic, Varic Vallenar{{!}}Varic had to redefine himself as the [[Captain of The Last Horizon]].<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|To use [[Horizon]]'s magic, [[Varic Vallenar|Varic]] had to redefine himself as the [[Captain of The Last Horizon]].<ref name="lh-01-the-captain-c45">''The Captain'', chapter 45</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[ritual]] prepared the narrator to become the [[Captain of The Last Horizon]].<ref name="lh-01-the-captain-c45" />}}</li>
 </ul></div>
 

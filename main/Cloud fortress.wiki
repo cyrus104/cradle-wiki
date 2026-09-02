@@ -16,7 +16,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|A [[cloud fortress]] is a type of [[cloudship]] designed for permanence.<ref name="cradle-09-bloodline-c5">''Bloodline'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|The [[cloud fortress]] has a Script{{!}}script to protect it from [[Sages]] and [[Heralds]].<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[cloud fortress]] has a [[Script|script]] to protect it from [[Sages]] and [[Heralds]].<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==

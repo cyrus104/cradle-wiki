@@ -2,22 +2,7 @@
 
 {{Infobox location
 | name = Akura Soulsmith library
-| introduced = Uncrowned
+| introduced = [[Uncrowned (novel)|Uncrowned]]
 }}
 
-== Uncrowned ==
-<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
-<ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|The [[Akura Soulsmith library]] lacks relevant information because each member has their own built-in armor.<ref name="cradle-07-uncrowned-c12">''Uncrowned'', chapter 12</ref>}}</li>
-</ul></div>
-
-== Notes ==
-<references />
-
-{{Cradle nav}}
-
 [[Category:Locations]]
-[[Category:Uncrowned]]
-[[Category:Cradle]]
-[[Category:Cradle locations]]
-[[Category:Structures]]

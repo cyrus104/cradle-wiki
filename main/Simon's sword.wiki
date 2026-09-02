@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Simon's sword
-| introduced = City of Light
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
-== City of Light ==
-{{spoiler|book=tg-03-city-of-light|[[Simon's sword]] can be banished and summoned by [[Valinhall]] users.}}
-
 [[Category:Artifacts]]
-[[Category:City of Light]]

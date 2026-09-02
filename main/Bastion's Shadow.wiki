@@ -11,9 +11,9 @@
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Bastion's Shadow{{!}}Bastion’s Shadow is a ship with a closed eye on top of its mast.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Bastion's Shadow|Bastion’s Shadow]] is a ship with a closed eye on top of its mast.<ref name="ee-shadow-01-of-shadow-and-sea-c10">''Of Shadow and Sea'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Bastion's Shadow]] is a location with a beach.<ref name="ee-shadow-01-of-shadow-and-sea-c11">''Of Shadow and Sea'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Bastion's Shadow{{!}}Bastion’s Shadow is a ship that can sail through Bastion's Veil{{!}}Bastion’s Veil.<ref name="ee-shadow-01-of-shadow-and-sea-c13">''Of Shadow and Sea'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Bastion's Shadow|Bastion’s Shadow]] is a ship that can sail through Bastion's Veil{{!}}Bastion’s Veil.<ref name="ee-shadow-01-of-shadow-and-sea-c13">''Of Shadow and Sea'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Heart affected the [[Consultants]] on [[Bastion's Shadow]] after two days of exposure.<ref name="ee-shadow-01-of-shadow-and-sea-c13" />}}</li>
 </ul></div>
 
@@ -27,15 +27,15 @@
 == Of Kings and Killers ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|Bastion's Shadow{{!}}Bastion’s Shadow is a ship sailing behind others in the fleet.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Bastion's Shadow|Bastion’s Shadow]] is a ship sailing behind others in the fleet.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
 </ul></div>
 
 == Of Killers and Kings ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Bastion's Shadow{{!}}Bastion’s Shadow is a [[Consultant]] ship.<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Bastion's Shadow{{!}}Bastion’s Shadow is a ship.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Bastion's Shadow{{!}}Bastion’s Shadow has a captain.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion's Shadow|Bastion’s Shadow]] is a [[Consultant]] ship.<ref name="ee-shadow-03-of-killers-and-kings-c25">''Of Killers and Kings'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion's Shadow|Bastion’s Shadow]] is a ship.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Bastion's Shadow|Bastion’s Shadow]] has a captain.<ref name="ee-shadow-03-of-killers-and-kings-c25" />}}</li>
 </ul></div>
 
 == Notes ==

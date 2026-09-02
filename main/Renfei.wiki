@@ -1,7 +1,6 @@
 {{Infobox character
 | name = Renfei
 | aliases = Pai Ren
-| spouse = {{spoiler|book=cradle-03-blackflame|[[Bai Rou]]}}
 | abilities = {{spoiler|book=cradle-05-ghostwater|[[Cloud Hammer madra]], dark cloud}}{{spoiler|book=cradle-06-underlord|, [[Path of the Cloud Hammer]]}}
 | titles = {{spoiler|book=cradle-05-ghostwater|[[Truegold]]}}
 | affiliations = {{spoiler|book=cradle-03-blackflame|[[Skysworn]]}}{{spoiler|book=cradle-05-ghostwater|, [[Cloud Hammer sect]]}}
@@ -12,13 +11,16 @@
 ''See also: [[Renfei Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-06-underlord|Renfei, also known as Pai Ren, was a member of the [[Skysworn]]. She was a [[Truegold]] who possessed a hammer and utilized [[Cloud Hammer madra]], which she could spread into a protective haze. In combat or movement, she often utilized emerald green Thousand-Mile Cloud{{!}}Thousand-Mile Clouds, which are symbols of the [[Skysworn]], and was accompanied by a personal raincloud [[Goldsign]]. Renfei was characterized by her composed and controlled demeanor, appearing calm and ready to act even when facing high-pressure situations. As a member of the [[Skysworn]], she served the [[Blackflame Empire]] and was tasked with supervising trainees and maintaining high organizational standards. Her career included earning her way into the [[Skysworn]] through training, and she eventually died following a single attack from [[Akura Harmony]].}}
+{{spoiler|book=cradle-06-underlord|Renfei, also known as Pai Ren, was a member of the [[Skysworn]]. She was a [[Truegold]] who possessed a hammer and utilized [[Cloud Hammer madra]], which she could spread into a protective haze. In combat or movement, she often utilized emerald green [[Thousand-Mile Cloud|Thousand-Mile Clouds]], which are symbols of the [[Skysworn]], and was accompanied by a personal raincloud [[Goldsign]]. Renfei was characterized by her composed and controlled demeanor, appearing calm and ready to act even when facing high-pressure situations. As a member of the [[Skysworn]], she served the [[Blackflame Empire]] and was tasked with supervising trainees and maintaining high organizational standards. Her career included earning her way into the [[Skysworn]] through training, and she eventually died following a single attack from [[Akura Harmony]].}}
 
 == Appearance ==
 {{spoiler|book=cradle-06-underlord|Renfei has black hair styled in a tail and is accompanied by a gray cloud hovering over her head. She carries a dark hammer.}}
 
 == Personality ==
 {{spoiler|book=cradle-06-underlord|She possesses an authoritative voice and maintains a calm, composed temperament. As a member of the [[Skysworn]], she performs duties such as scanning hosts before they are allowed into the group.}}
+
+== Relationships ==
+{{spoiler|book=cradle-06-underlord|Renfei is the partner of [[Bai Rou]]. She is also connected to [[Mercy]], who has mentioned her, and [[Naru Gwei]], who is involved with her. Additionally, Renfei assisted [[Lindon]] by helping to drag him into a building.}}
 
 == Abilities ==
 {{spoiler|book=cradle-06-underlord|Renfei follows the [[Path of the Cloud Hammer]] and utilizes [[Cloud Hammer madra]]. Her techniques include generating dark platforms of solid cloud to stand on and using dark clouds as an attack.}}
@@ -40,7 +42,7 @@
 <li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] carries a dark hammer.<ref name="cradle-04-skysworn-c3" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] is calm and composed with black hair in a tail and a gray cloud hovering over her head.<ref name="cradle-04-skysworn-c3" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] is a [[Skysworn]] who uses a hammer.<ref name="cradle-04-skysworn-c6" />}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|Renfei{{!}}Pai Ren is a member of the [[Skysworn]].<ref name="cradle-04-skysworn-c8">''Skysworn'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Renfei|Pai Ren]] is a member of the [[Skysworn]].<ref name="cradle-04-skysworn-c8">''Skysworn'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] is a [[Highgold]].<ref name="cradle-04-skysworn-c11" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] helped drag [[Lindon]] into a building.<ref name="cradle-04-skysworn-c13" />}}</li>
 <li>{{spoiler|book=cradle-04-skysworn|[[Renfei]] scanned the host before allowing her into the [[Skysworn]].<ref name="cradle-04-skysworn-c13" />}}</li>

@@ -1,7 +1,6 @@
 {{Infobox character
 | name = Jak Escalon
 | aliases = Jak
-| parents = {{spoiler|book=lh-04-the-pilot|[[Aila Escalon|Aila]]}}
 | titles = {{spoiler|book=lh-01-the-captain|President of the Escalon Company, president of the Escalon Company}}
 | affiliations = {{spoiler|book=lh-01-the-captain|[[Escalon Company]]}}
 | professions = {{spoiler|book=lh-01-the-captain|arms dealer}}{{spoiler|book=lh-04-the-pilot|, president of a galactic corporation}}
@@ -19,6 +18,9 @@
 
 == Personality ==
 {{spoiler|book=lh-04-the-pilot|As an arms dealer and the president of a galactic corporation, Jak has been accused of smuggling and illegal weapon manufacturing. He is uncooperative with Nafir Nuren.}}
+
+== Relationships ==
+{{spoiler|book=lh-04-the-pilot|Jak is the son of [[Aila Escalon|Aila]] and the grandson of [[Omega]]. He is also the nephew of the narrator.}}
 
 == History ==
 === {{spoiler|book=lh-01-the-captain|The Captain}} ===
@@ -44,7 +46,7 @@
 </ul></div>
 
 === {{spoiler|book=lh-04-the-pilot|The Pilot}} ===
-{{spoiler|book=lh-04-the-pilot|Jak Escalon serves as the president of a galactic corporation and is the son of Aila Escalon{{!}}Aila.<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref> Approaching fifty years of age, he is a thin and weaselly man characterized by graying temples and a nervous expression tattooed upon his face.<ref name="lh-04-the-pilot-c1" /><ref name="lh-04-the-pilot-c42">''The Pilot'', chapter 42</ref> He was formerly a captive of [[the Advocates]].<ref name="lh-04-the-pilot-c42" />}}
+{{spoiler|book=lh-04-the-pilot|Jak Escalon serves as the president of a galactic corporation and is the son of [[Aila Escalon|Aila]].<ref name="lh-04-the-pilot-c1">''The Pilot'', chapter 1</ref> Approaching fifty years of age, he is a thin and weaselly man characterized by graying temples and a nervous expression tattooed upon his face.<ref name="lh-04-the-pilot-c1" /><ref name="lh-04-the-pilot-c42">''The Pilot'', chapter 42</ref> He was formerly a captive of [[the Advocates]].<ref name="lh-04-the-pilot-c42" />}}
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|Jak is the president of a galactic corporation and Aila Escalon{{!}}Aila's son.<ref name="lh-04-the-pilot-c1" />}}</li>

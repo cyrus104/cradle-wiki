@@ -4,7 +4,7 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|The [[Path]] of the [[Hungry Deep]] is a [[hunger madra]]-based [[Path]] that remains the most powerful of its kind currently in use. It was created when [[Northstrider]] integrated certain binding{{!}}bindings discovered within a [[labyrinth]] into his [[blood madra]]. This [[Path]] is characterized by its focus on consuming the spiritual and physical power of [[dragons]], as well as their latent Authority{{!}}authority, to increase the user's own strength. While its techniques are generally considered basic, they can achieve high levels of complexity when utilized with a [[Dragon Icon]]. Practitioners of this [[Path]], such as [[Northstrider]], often hunt powerful prey in the deepest parts of the world to bring their acquired power back to the surface. The [[Path]] is associated with figures such as the [[Monarch of the Hungry Deep]] and the [[Sage of the Hungry Deep]].}}
+{{spoiler|book=cradle-12-waybound|The [[Path]] of the [[Hungry Deep]] is a [[hunger madra]]-based [[Path]] that remains the most powerful of its kind currently in use. It was created when [[Northstrider]] integrated certain [[binding|bindings]] discovered within a [[labyrinth]] into his [[blood madra]]. This [[Path]] is characterized by its focus on consuming the spiritual and physical power of [[dragons]], as well as their latent [[Authority|authority]], to increase the user's own strength. While its techniques are generally considered basic, they can achieve high levels of complexity when utilized with a [[Dragon Icon]]. Practitioners of this [[Path]], such as [[Northstrider]], often hunt powerful prey in the deepest parts of the world to bring their acquired power back to the surface. The [[Path]] is associated with figures such as the [[Monarch of the Hungry Deep]] and the [[Sage of the Hungry Deep]].}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -15,8 +15,8 @@
 == Uncrowned ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-07-uncrowned|The [[Path of the Hungry Deep]] was born when [[Northstrider]] integrated binding{{!}}bindings found in a [[labyrinth]] into his [[blood madra]].<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|The [[Path of the Hungry Deep]] focuses on devouring the physical and spiritual strength of [[dragons]], as well as their latent Authority{{!}}authority.<ref name="cradle-07-uncrowned-c21" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Path of the Hungry Deep]] was born when [[Northstrider]] integrated [[binding|bindings]] found in a [[labyrinth]] into his [[blood madra]].<ref name="cradle-07-uncrowned-c21">''Uncrowned'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Path of the Hungry Deep]] focuses on devouring the physical and spiritual strength of [[dragons]], as well as their latent [[Authority|authority]].<ref name="cradle-07-uncrowned-c21" />}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Path of the Hungry Deep]] is the most powerful [[hunger madra]] [[Path]] still in modern use.<ref name="cradle-07-uncrowned-c21" />}}</li>
 </ul></div>
 

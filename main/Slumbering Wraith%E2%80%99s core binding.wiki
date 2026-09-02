@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox artifact
 | name = Slumbering Wraith’s core binding
-| introduced = Reaper
+| introduced = [[Reaper (novel)|Reaper]]
 }}
 
-== Reaper ==
-{{spoiler|book=cradle-10-reaper|[[Reigan Shen]] obtained the [[Slumbering Wraith’s core binding]].}}
-
 [[Category:Artifacts]]
-[[Category:Reaper]]

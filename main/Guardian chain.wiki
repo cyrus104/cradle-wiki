@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox construct
 | name = Guardian chain
-| introduced = City of Light
+| introduced = [[City of Light (novel)|City of Light]]
 }}
 
-== City of Light ==
-{{spoiler|book=tg-03-city-of-light|A guardian chain is a massive [[steel]] chain that acts as a guardian.}}
-
 [[Category:Constructs]]
-[[Category:City of Light]]

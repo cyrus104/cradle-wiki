@@ -1,10 +1,8 @@
+{{Expand}}
+
 {{Infobox construct
 | name = Lindon's puppet-construct
-| introduced = Dreadgod
+| introduced = [[Dreadgod (novel)|Dreadgod]]
 }}
 
-== Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|[[Lindon]] has a puppet-construct that uses gray [[force madra]].}}
-
 [[Category:Constructs]]
-[[Category:Dreadgod]]

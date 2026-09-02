@@ -4,7 +4,7 @@
 }}
 
 == Overview ==
-{{spoiler|book=lh-04-the-pilot|The [[Karoshan]] fleet is a military force composed of various vessel classes, including thousands of small and medium ships, several dozen larger vessels, and a significant number of starfighters. The fleet's aesthetic is characterized by black, blocky designs, though some ships appear as dark-metal birds or feature organic shapes with blue-green glowing seams. A primary component of their naval power is a massive, six-mile-long dreadnought flagship that serves as a devastating engine of [[destruction]]. Many vessels within the fleet contain golden spots and are piloted by mass-produced [[Nova-Bots]]. The fleet's composition and allegiances vary depending on the faction in control. Forces sent by King Regent{{!}}King Regent Felrex consist of black, blocky ships, while an exiled [[Queen]] leads a separate rebel fleet. These [[Karoshan forces]] have been utilized for various tactical roles, such as establishing military blockades, screening weaker vessels, and acting as a defensive wedge to absorb pressure from opposing militaries. While the fleet has engaged in planetary invasions and large-[[scale]] system-wide combat, they have also been known to prioritize withdrawal over standing their ground in certain engagements.}}
+{{spoiler|book=lh-04-the-pilot|The [[Karoshan]] fleet is a military force composed of various vessel classes, including thousands of small and medium ships, several dozen larger vessels, and a significant number of starfighters. The fleet's aesthetic is characterized by black, blocky designs, though some ships appear as dark-metal birds or feature organic shapes with blue-green glowing seams. A primary component of their naval power is a massive, six-mile-long dreadnought flagship that serves as a devastating engine of [[destruction]]. Many vessels within the fleet contain golden spots and are piloted by mass-produced [[Nova-Bots]]. The fleet's composition and allegiances vary depending on the faction in control. Forces sent by [[King Regent|King Regent Felrex]] consist of black, blocky ships, while an exiled [[Queen]] leads a separate rebel fleet. These [[Karoshan forces]] have been utilized for various tactical roles, such as establishing military blockades, screening weaker vessels, and acting as a defensive wedge to absorb pressure from opposing militaries. While the fleet has engaged in planetary invasions and large-[[scale]] system-wide combat, they have also been known to prioritize withdrawal over standing their ground in certain engagements.}}
 
 == The Engineer ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
@@ -16,14 +16,14 @@
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|[[Horizon]] stays between the [[Karoshan fleet]] and Raion Raithe{{!}}Raion.<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|[[Horizon]] stays between the [[Karoshan fleet]] and [[Raion Raithe|Raion]].<ref name="lh-03-the-knight-c14">''The Knight'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Karoshan fleet]] is facing two D�iss.<ref name="lh-03-the-knight-c36">''The Knight'', chapter 36</ref>}}</li>
 </ul></div>
 
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|The [[Karoshan fleet]] is commanded by King Regent{{!}}King Regent Felrex and the top [[Perfected]].<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Karoshan fleet]] is commanded by [[King Regent|King Regent Felrex]] and the top [[Perfected]].<ref name="lh-04-the-pilot-c20">''The Pilot'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|A [[Karoshan fleet]] is invading [[Zykaros]].<ref name="lh-04-the-pilot-c46">''The Pilot'', chapter 46</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|The [[Karoshan fleet]] was retreating.<ref name="lh-04-the-pilot-c49">''The Pilot'', chapter 49</ref>}}</li>
 </ul></div>

@@ -6,91 +6,91 @@
 ''See also: [[labyrinth Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|western labyrinth{{!}}The labyrinth is an ancient, massive, and incredibly complex structure that spans the entire world. While it has many different names—including the [[Dreadgod labyrinth]], the First [[Tomb]], and the forgotten maze—its primary hub is located deep underground within [[Sacred Valley]]. The structure is characterized by its extreme difficulty to navigate because it constantly shifts and reconfigures its internal layout. Rather than a fixed physical map, understanding the labyrinth requires mastering the patterns that govern these constant changes. Functionally, the labyrinth serves as a sophisticated tool for spatial transportation; its various branches are conceptually treated as the same location regardless of their actual geographic position. It also possesses powerful defensive capabilities, including suppression fields that can weaken [[Dreadgods]] and security measures left behind by the ancient [[Soulsmiths]]. These defenses include legendary Script{{!}}script formations, invisible walls, and the ability to lock down spatial travel. western labyrinth{{!}}The labyrinth is also capable of preserving memories or echoes of individuals within its depths. The structure has had many different owners and guardians throughout history. It is currently controlled by [[Lindon]], who can command its movements and use its Authority{{!}}authority to manipulate space. western labyrinth{{!}}The labyrinth's origins are tied to ancient creators, including the seven founders and the [[Abidan]], and it contains various layers ranging from shallow outer rooms to deep, highly secured prisons and ancient workshops.}}
+{{spoiler|book=cradle-12-waybound|[[western labyrinth|The labyrinth]] is an ancient, massive, and incredibly complex structure that spans the entire world. While it has many different names—including the [[Dreadgod labyrinth]], the First [[Tomb]], and the forgotten maze—its primary hub is located deep underground within [[Sacred Valley]]. The structure is characterized by its extreme difficulty to navigate because it constantly shifts and reconfigures its internal layout. Rather than a fixed physical map, understanding the labyrinth requires mastering the patterns that govern these constant changes. Functionally, the labyrinth serves as a sophisticated tool for spatial transportation; its various branches are conceptually treated as the same location regardless of their actual geographic position. It also possesses powerful defensive capabilities, including suppression fields that can weaken [[Dreadgods]] and security measures left behind by the ancient [[Soulsmiths]]. These defenses include legendary [[Script|script]] formations, invisible walls, and the ability to lock down spatial travel. [[western labyrinth|The labyrinth]] is also capable of preserving memories or echoes of individuals within its depths. The structure has had many different owners and guardians throughout history. It is currently controlled by [[Lindon]], who can command its movements and use its [[Authority|authority]] to manipulate space. western labyrinth{{!}}The labyrinth's origins are tied to ancient creators, including the seven founders and the [[Abidan]], and it contains various layers ranging from shallow outer rooms to deep, highly secured prisons and ancient workshops.}}
 
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|western labyrinth{{!}}The labyrinth has legendary defenses.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The entrances to labyrinth{{!}}the labyrinth remain sealed.<ref name="cradle-08-wintersteel-c9" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[western labyrinth|The labyrinth]] has legendary defenses.<ref name="cradle-08-wintersteel-c9">''Wintersteel'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The entrances to [[labyrinth|the labyrinth]] remain sealed.<ref name="cradle-08-wintersteel-c9" />}}</li>
 </ul></div>
 
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|western labyrinth{{!}}The labyrinth is a place where [[Dreadgod]] research may be conducted.<ref name="cradle-09-bloodline-c14">''Bloodline'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[western labyrinth|The labyrinth]] is a place where [[Dreadgod]] research may be conducted.<ref name="cradle-09-bloodline-c14">''Bloodline'', chapter 14</ref>}}</li>
 </ul></div>
 
 == Reaper ==
-{{spoiler|book=cradle-10-reaper|Serving as a repository for ancient truths and the workplace of legendary [[Soulsmiths]], the labyrinth is an environment that demands immense [[willpower]] to navigate. While its outer entrances can be opened by Underlord{{!}}Underlords, the facility is not locked and functions with a [[suppression field]] that was eventually deactivated. The interior consists of symbol-marked tunnels and chambers that shift seemingly at will through spatial transmission, even producing a roar that shakes the entire structure. Within its halls, which include a long oval room with a trench, the labyrinth has fed upon [[Mercy]]'s mother and was originally intended to serve as a prison for [[Subject One]]. During the exploration by [[Lindon]] and [[Yerin]], the labyrinth broke its own rules to trap them when its controller twisted space to lock the group in a room, eventually becoming the site of a battle between [[Lindon]] and [[Reigan Shen]].}}
+{{spoiler|book=cradle-10-reaper|Serving as a repository for ancient truths and the workplace of legendary [[Soulsmiths]], the labyrinth is an environment that demands immense [[willpower]] to navigate. While its outer entrances can be opened by [[Underlord|Underlords]], the facility is not locked and functions with a [[suppression field]] that was eventually deactivated. The interior consists of symbol-marked tunnels and chambers that shift seemingly at will through spatial transmission, even producing a roar that shakes the entire structure. Within its halls, which include a long oval room with a trench, the labyrinth has fed upon [[Mercy]]'s mother and was originally intended to serve as a prison for [[Subject One]]. During the exploration by [[Lindon]] and [[Yerin]], the labyrinth broke its own rules to trap them when its controller twisted space to lock the group in a room, eventually becoming the site of a battle between [[Lindon]] and [[Reigan Shen]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|western labyrinth{{!}}The labyrinth is a repository of ancient truths and the home/workplace of history's greatest [[Soulsmiths]].<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|western labyrinth{{!}}The labyrinth is an environment that requires [[willpower]] to navigate.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|western labyrinth{{!}}The labyrinth has outer entrances that can be opened by Underlord{{!}}Underlords.<ref name="cradle-10-reaper-c3" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] and [[Yerin]] plan to explore labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|western labyrinth{{!}}The labyrinth is not locked.<ref name="cradle-10-reaper-c9">''Reaper'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[western labyrinth|The labyrinth]] is a repository of ancient truths and the home/workplace of history's greatest [[Soulsmiths]].<ref name="cradle-10-reaper-c2">''Reaper'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[western labyrinth|The labyrinth]] is an environment that requires [[willpower]] to navigate.<ref name="cradle-10-reaper-c3">''Reaper'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[western labyrinth|The labyrinth]] has outer entrances that can be opened by Underlord{{!}}Underlords.<ref name="cradle-10-reaper-c3" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Lindon]] and [[Yerin]] plan to explore [[labyrinth|the labyrinth]].<ref name="cradle-10-reaper-c4">''Reaper'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[western labyrinth|The labyrinth]] is not locked.<ref name="cradle-10-reaper-c9">''Reaper'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|western labyrinth{{!}}The labyrinth's [[suppression field]] was turned off.<ref name="cradle-10-reaper-c9" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|western labyrinth{{!}}The labyrinth has tunnels marked with symbols.<ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|western labyrinth{{!}}The labyrinth uses spatial transmission to move its chambers.<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|western labyrinth{{!}}The labyrinth shifts seemingly at will.<ref name="cradle-10-reaper-c14" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[western labyrinth|The labyrinth]] has tunnels marked with symbols.<ref name="cradle-10-reaper-c12">''Reaper'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[western labyrinth|The labyrinth]] uses spatial transmission to move its chambers.<ref name="cradle-10-reaper-c14">''Reaper'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[western labyrinth|The labyrinth]] shifts seemingly at will.<ref name="cradle-10-reaper-c14" />}}</li>
 <li>{{spoiler|book=cradle-10-reaper|A roar shakes the entire [[labyrinth]].<ref name="cradle-10-reaper-c14" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|western labyrinth{{!}}The labyrinth contains a long, narrow oval room with a trench at the bottom.<ref name="cradle-10-reaper-c18">''Reaper'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|western labyrinth{{!}}The labyrinth fed upon [[Mercy]]'s mother.<ref name="cradle-10-reaper-c18" />}}</li>
-<li>{{spoiler|book=cradle-10-reaper|western labyrinth{{!}}The labyrinth broke its own rules to trap them.<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[western labyrinth|The labyrinth]] contains a long, narrow oval room with a trench at the bottom.<ref name="cradle-10-reaper-c18">''Reaper'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[western labyrinth|The labyrinth]] fed upon [[Mercy]]'s mother.<ref name="cradle-10-reaper-c18" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[western labyrinth|The labyrinth]] broke its own rules to trap them.<ref name="cradle-10-reaper-c19">''Reaper'', chapter 19</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|western labyrinth{{!}}The labyrinth's controller twisted space to lock the group in a room.<ref name="cradle-10-reaper-c20">''Reaper'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|western labyrinth{{!}}The labyrinth is a location where [[Reigan Shen]] and [[Lindon]] fight.<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|western labyrinth{{!}}The labyrinth was intended as a prison for [[Subject One]].<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|[[Malice]] wanted to keep [[Mercy]]'s friends out of labyrinth{{!}}the labyrinth.<ref name="cradle-10-reaper-c25" />}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[western labyrinth|The labyrinth]] is a location where [[Reigan Shen]] and [[Lindon]] fight.<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[western labyrinth|The labyrinth]] was intended as a prison for [[Subject One]].<ref name="cradle-10-reaper-c25">''Reaper'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Malice]] wanted to keep [[Mercy]]'s friends out of [[labyrinth|the labyrinth]].<ref name="cradle-10-reaper-c25" />}}</li>
 </ul></div>
 
 == Dreadgod ==
-{{spoiler|book=cradle-11-dreadgod|Following his [[inheritance]] of the entire structure, Ozmanthus Arelius{{!}}Ozmanthus oversees a labyrinth that utilizes its branches for transportation. These tendrils spread beneath [[Sacred Valley]] and extend for a thousand miles, providing the majority of the energy required for travel through space. Within its shifting architecture, which features rooms that can be moved individually, the labyrinth contains various echoes and records. While a distant entrance remains visible, [[Lindon]], [[Dross]], and Ziel of the Wasteland{{!}}Ziel have already ventured inside.}}
+{{spoiler|book=cradle-11-dreadgod|Following his [[inheritance]] of the entire structure, [[Ozmanthus Arelius|Ozmanthus]] oversees a labyrinth that utilizes its branches for transportation. These tendrils spread beneath [[Sacred Valley]] and extend for a thousand miles, providing the majority of the energy required for travel through space. Within its shifting architecture, which features rooms that can be moved individually, the labyrinth contains various echoes and records. While a distant entrance remains visible, [[Lindon]], [[Dross]], and [[Ziel of the Wasteland|Ziel]] have already ventured inside.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|Ozmanthus Arelius{{!}}Ozmanthus has inherited the entire [[labyrinth]].<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|western labyrinth{{!}}The labyrinth has transportation abilities via its branches.<ref name="cradle-11-dreadgod-c2" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|western labyrinth{{!}}The labyrinth provides most of the energy for transportation.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Ozmanthus Arelius|Ozmanthus]] has inherited the entire [[labyrinth]].<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[western labyrinth|The labyrinth]] has transportation abilities via its branches.<ref name="cradle-11-dreadgod-c2" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[western labyrinth|The labyrinth]] provides most of the energy for transportation.<ref name="cradle-11-dreadgod-c3">''Dreadgod'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|western labyrinth{{!}}The labyrinth's tendrils spread beneath [[Sacred Valley]] and for a thousand miles.<ref name="cradle-11-dreadgod-c3" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|western labyrinth{{!}}The labyrinth contains echoes and records.<ref name="cradle-11-dreadgod-c3" />}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|western labyrinth{{!}}The labyrinth is used for traveling through space.<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]], [[Dross]], and Ziel of the Wasteland{{!}}Ziel walked into a [[labyrinth]].<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|western labyrinth{{!}}The labyrinth has rooms that can be moved one at a time.<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[western labyrinth|The labyrinth]] contains echoes and records.<ref name="cradle-11-dreadgod-c3" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[western labyrinth|The labyrinth]] is used for traveling through space.<ref name="cradle-11-dreadgod-c5">''Dreadgod'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Lindon]], [[Dross]], and [[Ziel of the Wasteland|Ziel]] walked into a [[labyrinth]].<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[western labyrinth|The labyrinth]] has rooms that can be moved one at a time.<ref name="cradle-11-dreadgod-c7">''Dreadgod'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|There is a [[labyrinth entrance]] in the distance.<ref name="cradle-11-dreadgod-c19">''Dreadgod'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|western labyrinth{{!}}The labyrinth serves as a complex structure of scattered halls and reinforced [[stone]] walls that [[Lindon]] controls, having inherited it from his ancestors in [[Sacred Valley]] along with [[Eithan]] and the [[Abidan]]. It possesses functions that reach beyond boundaries, including the ability to fill gaps in projected memory patterns and preserve specific memories, such as those belonging to [[Northstrider]]. While the labyrinth's restoration Authority{{!}}authority is strained by the projection of the [[Wandering Titan]], whose appearance is depicted in its murals, it can also provide defensive [[scripts]] that allow [[Lindon]] to survive three [[Monarchs]] simultaneously. Beyond its physical presence, the labyrinth maintains a connection to everyone its [[hunger aura]] has ever fed on and can even move [[Lindon]] without a direct order.}}
+{{spoiler|book=cradle-12-waybound|[[western labyrinth|The labyrinth]] serves as a complex structure of scattered halls and reinforced [[stone]] walls that [[Lindon]] controls, having inherited it from his ancestors in [[Sacred Valley]] along with [[Eithan]] and the [[Abidan]]. It possesses functions that reach beyond boundaries, including the ability to fill gaps in projected memory patterns and preserve specific memories, such as those belonging to [[Northstrider]]. While the labyrinth's restoration [[Authority|authority]] is strained by the projection of the [[Wandering Titan]], whose appearance is depicted in its murals, it can also provide defensive [[scripts]] that allow [[Lindon]] to survive three [[Monarchs]] simultaneously. Beyond its physical presence, the labyrinth maintains a connection to everyone its [[hunger aura]] has ever fed on and can even move [[Lindon]] without a direct order.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">25</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] reached out to labyrinth{{!}}the labyrinth to summon people.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Sword Sage]]'s echo is a [[binding]] taken from labyrinth{{!}}the labyrinth.<ref name="cradle-12-waybound-c8">''Waybound'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|western labyrinth{{!}}The labyrinth fills gaps in projected memory patterns.<ref name="cradle-12-waybound-c8" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] reached out to [[labyrinth|the labyrinth]] to summon people.<ref name="cradle-12-waybound-c6">''Waybound'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Sword Sage]]'s echo is a [[binding]] taken from [[labyrinth|the labyrinth]].<ref name="cradle-12-waybound-c8">''Waybound'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[western labyrinth|The labyrinth]] fills gaps in projected memory patterns.<ref name="cradle-12-waybound-c8" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Master of the Labyrinth]] is above labyrinth{{!}}the labyrinth's heart.<ref name="cradle-12-waybound-c9">''Waybound'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] knows how to activate labyrinth{{!}}the labyrinth's defensive [[scripts]].<ref name="cradle-12-waybound-c9" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|western labyrinth{{!}}The labyrinth's defenses allow [[Lindon]] to survive three [[Monarchs]] at once.<ref name="cradle-12-waybound-c9" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|A memory was preserved in labyrinth{{!}}the labyrinth.<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|A memory was preserved in [[labyrinth|the labyrinth]].<ref name="cradle-12-waybound-c10">''Waybound'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The [[Silent King]] is only a [[Sage]] without his [[labyrinth]] and his bow.<ref name="cradle-12-waybound-c10" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|western labyrinth{{!}}The labyrinth's restoration Authority{{!}}authority is strained.<ref name="cradle-12-waybound-c11">''Waybound'', chapter 11</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|western labyrinth{{!}}The labyrinth has functions that can reach beyond boundaries.<ref name="cradle-12-waybound-c11" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] inherited labyrinth{{!}}the labyrinth from the [[Abidan]], [[Eithan]], and his ancestors in [[Sacred Valley]].<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|western labyrinth{{!}}The labyrinth remembers everyone its [[hunger aura]] has ever fed on.<ref name="cradle-12-waybound-c14" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[western labyrinth|The labyrinth]] has functions that can reach beyond boundaries.<ref name="cradle-12-waybound-c11" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] inherited [[labyrinth|the labyrinth]] from the [[Abidan]], [[Eithan]], and his ancestors in [[Sacred Valley]].<ref name="cradle-12-waybound-c14">''Waybound'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[western labyrinth|The labyrinth]] remembers everyone its [[hunger aura]] has ever fed on.<ref name="cradle-12-waybound-c14" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|western labyrinth{{!}}The labyrinth's power is being strained by projecting the [[Wandering Titan]].<ref name="cradle-12-waybound-c15">''Waybound'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|western labyrinth{{!}}The labyrinth has scattered halls.<ref name="cradle-12-waybound-c15" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[western labyrinth|The labyrinth]] has scattered halls.<ref name="cradle-12-waybound-c15" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Lindon]] was sitting on the [[stone]] floor of a [[labyrinth]].<ref name="cradle-12-waybound-c17">''Waybound'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[spatial tunnel]] is not as advanced as labyrinth{{!}}the labyrinth.<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] and [[Dross]] will test a weapon in labyrinth{{!}}the labyrinth.<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] could arrive at [[Northstrider]]'s [[fortress]] sooner if he travels from the nearest branch of labyrinth{{!}}the labyrinth.<ref name="cradle-12-waybound-c23" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|western labyrinth{{!}}The labyrinth contains [[Northstrider]]'s memories.<ref name="cradle-12-waybound-c24">''Waybound'', chapter 24</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|western labyrinth{{!}}The labyrinth has reinforced [[stone]] walls.<ref name="cradle-12-waybound-c24" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|western labyrinth{{!}}The labyrinth might have brought [[Lindon]] somewhere without him giving an order.<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] controls labyrinth{{!}}the labyrinth.<ref name="cradle-12-waybound-c25" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|The [[Wandering Titan]]'s appearance is depicted on murals in labyrinth{{!}}the labyrinth.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Dross]] tells someone to get him to labyrinth{{!}}the labyrinth.<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Sacred Valley]] is located far above labyrinth{{!}}the labyrinth.<ref name="cradle-12-waybound-c34">''Waybound'', chapter 34</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[spatial tunnel]] is not as advanced as [[labyrinth|the labyrinth]].<ref name="cradle-12-waybound-c18">''Waybound'', chapter 18</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] and [[Dross]] will test a weapon in [[labyrinth|the labyrinth]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] could arrive at [[Northstrider]]'s [[fortress]] sooner if he travels from the nearest branch of [[labyrinth|the labyrinth]].<ref name="cradle-12-waybound-c23" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[western labyrinth|The labyrinth]] contains [[Northstrider]]'s memories.<ref name="cradle-12-waybound-c24">''Waybound'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[western labyrinth|The labyrinth]] has reinforced [[stone]] walls.<ref name="cradle-12-waybound-c24" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[western labyrinth|The labyrinth]] might have brought [[Lindon]] somewhere without him giving an order.<ref name="cradle-12-waybound-c25">''Waybound'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Lindon]] controls [[labyrinth|the labyrinth]].<ref name="cradle-12-waybound-c25" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|The [[Wandering Titan]]'s appearance is depicted on murals in [[labyrinth|the labyrinth]].<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Dross]] tells someone to get him to [[labyrinth|the labyrinth]].<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Sacred Valley]] is located far above [[labyrinth|the labyrinth]].<ref name="cradle-12-waybound-c34">''Waybound'', chapter 34</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==

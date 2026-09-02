@@ -6,8 +6,8 @@
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-01-unsouled|orus wood{{!}}Orus wood is a material used to build [[Lindon]]'s house.<ref name="cradle-01-unsouled-c2">''Unsouled'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-01-unsouled|orus wood{{!}}Orus wood is used for unadorned walls.<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[orus wood|Orus wood]] is a material used to build [[Lindon]]'s house.<ref name="cradle-01-unsouled-c2">''Unsouled'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[orus wood|Orus wood]] is used for unadorned walls.<ref name="cradle-01-unsouled-c16">''Unsouled'', chapter 16</ref>}}</li>
 </ul></div>
 
 == Bloodline ==

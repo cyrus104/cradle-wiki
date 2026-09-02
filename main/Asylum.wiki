@@ -27,7 +27,7 @@
 == Reaper ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-10-reaper|[[Asylum]] is a world in Sector Eleven{{!}}Sector 11.<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|[[Asylum]] is a world in [[Sector Eleven|Sector 11]].<ref name="cradle-10-reaper-c15">''Reaper'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-10-reaper|[[Asylum]] is a strategically valuable world in range.<ref name="cradle-10-reaper-c22">''Reaper'', chapter 22</ref>}}</li>
 </ul></div>
 
