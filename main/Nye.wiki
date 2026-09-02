@@ -13,7 +13,7 @@
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|[[The Nye]] are [[Shadow|shadow-folk]] described as humanoids made of cloth and Shadow{{!}}shadow who attempt to strangle outsiders with [[chains]].<ref name="tg-01-house-of-blades-c7">''House of Blades'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|[[The Nye]] are [[Shadow|shadow-folk]] described as humanoids made of cloth and [[Shadow|shadow]] who attempt to strangle outsiders with [[chains]].<ref name="tg-01-house-of-blades-c7">''House of Blades'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[The Nye]] serve as the keepers of [[the House]].<ref name="tg-01-house-of-blades-c7" />}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[The Nye]] craft thin leather shoes.<ref name="tg-01-house-of-blades-c8">''House of Blades'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|[[The Nye]] cannot be killed by a [[sword]] and seek such injuries as badges of honor.<ref name="tg-01-house-of-blades-c8" />}}</li>
