@@ -7,15 +7,15 @@ A central component of this system is [[Intent]]. This concept involves lending 
 
 Notable entities within this system include the [[Great Elders]]. These beings are powerful enough to blight the weather, and some islands are even haunted by them. While most [[Great Elders]] view themselves as benefactors, a mortal man can be bound to the heart of a [[Great Elder]]. Additionally, [[Elderspawn]] are clawed creatures that may not experience fatigue in the human sense. Some groups, like the [[Sleepless]], seek to communicate with [[Great Elders]] to gain their wisdom, while others have designed specific techniques to combat the spawn of certain [[Great Elders]].}}
 
-== The Great Elders ==
+== Great Elders ==
 <table class="wikitable wv-roster">
 <tr><th>Great Elder</th><th>Description</th></tr>
-<tr class="spoiler-fact" data-book="ee-sea-01-of-sea-and-shadow"><td>[[Nakothi]]</td><td>A mad [[Great Elder]] and unknown entity that seeks the destruction of humankind while pursuing a perfect balance between life and death.</td></tr>
-<tr class="spoiler-fact" data-book="ee-sea-01-of-sea-and-shadow"><td>[[Kelarac]]</td><td>A [[Great Elder]] residing beneath the sea who gathers power by granting wishes in exchange for valuable items.</td></tr>
-<tr class="spoiler-fact" data-book="ee-sea-01-of-sea-and-shadow"><td>[[Ach'magut]]</td><td>A dead [[Great Elder]] and mass of appendages imprisoned beneath [[Silverreach]] that feasts on the collected knowledge of humanity.</td></tr>
+<tr class="spoiler-fact" data-book="ee-sea-01-of-sea-and-shadow"><td>[[Nakothi]]</td><td>A mad [[Great Elder]] and unknown entity that seeks the destruction of humankind while warping humans into the [[Children]].</td></tr>
+<tr class="spoiler-fact" data-book="ee-sea-01-of-sea-and-shadow"><td>[[Kelarac]]</td><td>A [[Great Elder]] residing beneath the sea that gathers power by granting wishes in exchange for valuable items.</td></tr>
+<tr class="spoiler-fact" data-book="ee-sea-01-of-sea-and-shadow"><td>[[Ach'magut]]</td><td>A dead [[Great Elder]] and mass of appendages sealed beneath [[Silverreach]] that feasts on the collected knowledge of humanity.</td></tr>
 <tr class="spoiler-fact" data-book="ee-sea-01-of-sea-and-shadow"><td>[[Urg’naut]]</td><td>A [[Great Elder]] known as the [[Creeping Shadow]] that seeks to destroy the world to achieve absolute nothingness.</td></tr>
 <tr class="spoiler-fact" data-book="ee-sea-01-of-sea-and-shadow"><td>[[Othaghor]]</td><td>An unknown entity of endless biology that creates living creatures and divides people into pieces to be devoured.</td></tr>
-<tr class="spoiler-fact" data-book="ee-sea-01-of-sea-and-shadow"><td>[[Tharlos, the Formless Legion]]</td><td>An unknown, shifting entity that pursues constant change and possesses the power to alter a person's skin.</td></tr>
+<tr class="spoiler-fact" data-book="ee-sea-01-of-sea-and-shadow"><td>[[Tharlos, the Formless Legion]]</td><td>An unknown, shifting entity known as the Formless [[Legion]] that pursues constant change and possesses the power to alter a person's skin.</td></tr>
 </table>
 
 == Notable items ==
