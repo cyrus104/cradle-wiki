@@ -1,8 +1,29 @@
-'''Awakened''' may refer to:
+{{Expand}}
 
-* [[Awakened (The Elder Empire: Sea)]]
-* [[Awakened (The Elder Empire: Shadow)]]
+{{Infobox concept
+| name = Awakened
+| introduced = [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]]
+}}
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+== Of Dawn and Darkness ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Awakening]] a weapon can change its physical shape.<ref name="ee-sea-02-of-dawn-and-darkness-c2">''Of Dawn and Darkness'', chapter 2</ref>}}</li>
+</ul></div>
 
-[[Category:Disambiguation]]
+== Of Darkness and Dawn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Darius Allbright{{!}}Darius]]'s pen is [[Awakened]].<ref name="ee-shadow-02-of-darkness-and-dawn-c6">''Of Darkness and Dawn'', chapter 6</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Concepts]]
+[[Category:Of Dawn and Darkness]]
+[[Category:Of Darkness and Dawn]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire concepts]]

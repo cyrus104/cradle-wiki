@@ -1,8 +1,31 @@
-'''Head of the Imperial Guard''' may refer to:
+{{Expand}}
 
-* [[Head of the Imperial Guard (The Elder Empire: Sea)]]
-* [[Head of the Imperial Guard (The Elder Empire: Shadow)]]
+{{Infobox character
+| name = Head of the Imperial Guard
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
+}}
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+<div class="wv-epigraph">{{spoiler|book=ee-sea-03-of-kings-and-killers|Finally, the Head of the Imperial Guard turned to address the entire column. “Forward!” she bellowed}}<div class="wv-epigraph-cite">{{spoiler|book=ee-sea-03-of-kings-and-killers|— ''Of Kings and Killers'', chapter 6}}</div></div>
 
-[[Category:Disambiguation]]
+== Of Kings and Killers ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Head of the Imperial Guard]] commands the column to move forward.<ref name="ee-sea-03-of-kings-and-killers-c6">''Of Kings and Killers'', chapter 6</ref>}}</li>
+</ul></div>
+
+== Of Killers and Kings ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Head of the Imperial Guard]] gestured for her people to line the way into the tower.<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Characters]]
+[[Category:Of Kings and Killers]]
+[[Category:Of Killers and Kings]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire characters]]

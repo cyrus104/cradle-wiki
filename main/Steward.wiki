@@ -1,8 +1,57 @@
-'''Steward''' may refer to:
+{{Infobox character
+| name = Steward
+| introduced = [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]]
+| aliases = Captain (The Elder Empire: Sea), Steward (The Elder Empire: Shadow), Steward (The Elder Empire: Sea)
+| titles = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Captain}}{{spoiler|book=ee-sea-03-of-kings-and-killers|, [[Steward]]}}
+| professions = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Captain}}
+| appears_in = Elder Empire
+}}
 
-* [[Steward (The Elder Empire: Sea)]]
-* [[Steward (The Elder Empire: Shadow)]]
+''See also: [[Steward Timeline]]''
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+== Overview ==
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Imperial Steward]] is a high-ranking leadership position within the [[Aurelian Empire]], serving as a caretaker and protector during periods of transition. The role is intended to manage the empire's affairs while sitting on the throne until a true Emperor can be established. [[Calder Marten]], a [[Navigator]] and captain of the ship [[The Testament]], was appointed to this position by the loyal [[Guild Heads]] to provide unified leadership and defend against the incursions of the [[Great Elders]]. As Steward, [[Calder]] is tasked with representing the people, addressing crises such as atmospheric anomalies, and maintaining order among the various [[Guilds]]. The role carries significant political weight, often involving interactions with [[Regents]] and regional governors, though it can also be a source of instability; previous holders of the title have been driven to madness by the imperial throne or faced challenges from those who prefer the [[Authority{{!}}authority]] of a [[Regent]].}}
 
-[[Category:Disambiguation]]
+== Of Dawn and Darkness ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Captain is a rank that can be confused between [[Navigator]] captains and military captains.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] is a Captain.<ref name="ee-sea-02-of-dawn-and-darkness-c18">''Of Dawn and Darkness'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Of Kings and Killers ==
+{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] holds the title of Steward, a role through which he communicates by sending messages via senior [[Guards]]. Following an incident where the Steward's body was found pulseless and bleeding, the individual's armor had to be removed. During these events, a little girl with hair redder than the Captain's was present. Although [[Jerri]] refers to [[Calder]] as the Captain, he contemplates reclaiming his former position as Steward to further a future grudge against [[Shera]].}}
+
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Steward]] sends messages through senior [[Guards]].<ref name="ee-sea-03-of-kings-and-killers-c11">''Of Kings and Killers'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Steward]] is a title or role held by [[Calder]].<ref name="ee-sea-03-of-kings-and-killers-c13">''Of Kings and Killers'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Steward]]'s body was bleeding and he had no pulse.<ref name="ee-sea-03-of-kings-and-killers-c15">''Of Kings and Killers'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Steward]]'s body is wearing armor that needs to be removed.<ref name="ee-sea-03-of-kings-and-killers-c17">''Of Kings and Killers'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The little girl has hair redder than the Captain's.<ref name="ee-sea-03-of-kings-and-killers-c17" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] considers reclaiming the [[Steward]]'s position as a way to pursue his grudge against [[Shera]] later.<ref name="ee-sea-03-of-kings-and-killers-c21">''Of Kings and Killers'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Jerri]] refers to [[Calder]] as the Captain.<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}</li>
+</ul></div>
+
+== Of Killers and Kings ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Steward]] is an ordinary man and a child.<ref name="ee-shadow-03-of-killers-and-kings-c12">''Of Killers and Kings'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Steward]] was gone along with the [[Champions]].<ref name="ee-shadow-03-of-killers-and-kings-c18">''Of Killers and Kings'', chapter 18</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=ee-sea-02-of-dawn-and-darkness|“You should recognize when a battle is lost, Captain.”<ref name="ee-sea-02-of-dawn-and-darkness-c18" />}}
+* {{spoiler|book=ee-sea-03-of-kings-and-killers|“We need you to get the armor off the Steward’s body without breaking it,” Rosephus said to the room.<ref name="ee-sea-03-of-kings-and-killers-c17" />}}
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Characters]]
+[[Category:Of Dawn and Darkness]]
+[[Category:Of Kings and Killers]]
+[[Category:Of Killers and Kings]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire characters]]

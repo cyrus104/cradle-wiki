@@ -1,30 +1,30 @@
 {{Infobox character
 | name = Pilgrim
+| introduced = [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]]
 | titles = {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Knight-Adjunct]]}}
 | affiliations = {{spoiler|book=ee-sea-03-of-kings-and-killers|[[Luminian Order]], [[The Guild|the Guild]]}}
 | appears_in = Elder Empire
-| introduced = [[Of Dawn and Darkness (novel)|Of Dawn and Darkness]]
 }}
 
 ''See also: [[Pilgrim Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Pilgrims]] are members of the [[Luminian Order]], a disciplined organization characterized by its silver-armored knights and its many white-clad members. They are easily identified by their pristine white clothing and silver medallions featuring the [[White Sun]], a symbol of their order. These individuals often serve as healers or protectors, and some possess the ability to create barriers of light. While many [[Pilgrims]] use alchemy and medical expertise to heal, more powerful members can become [[Soulbound]], a status achieved only after years of service and successfully opposing various [[Elders]]. The most elite [[Pilgrims]] carry medallions that act as Beacons, serving as focuses for immense restorative and light-based power. The order is led by a [[Blackwatch Guild Head|Guild Head]], such as [[Jameson Allbright]], who wears distinct ceremonial attire. Historically, the role is rooted in the legacy of [[Loreli]], Daughter of the Emperor, who was considered the first Pilgrim. Though they are viewed as symbols of righteousness and light, some [[Pilgrims]] may develop an intense religious zeal due to the [[Awakening]] process, while others may fail to fully bond with their medallions.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Pilgrims]] are members of the [[Luminian Order]], an organized and disciplined group characterized by their all-white clothing and silver sun medallions. They serve as symbols of healing and protection, often acting as religious figures or companions to imperial officials. While many [[Pilgrims]] focus on medical skills and alchemy, the [[Order]] maintains strict requirements for those seeking to wield more significant power. To become a [[Soulbound]], an individual must serve the [[Guild]] for many years, combat various [[Elders]], and demonstrate proficiency in traditional healing. Through a process known as [[Awakening]], some [[Pilgrims]] gain the ability to manifest light barriers or other abilities, though this process can sometimes result in mental instability or a fanatical obsession with destroying [[Elderspawn]]. The most powerful among them possess medallions that function as Beacons, capable of providing profound restoration and light. The [[Order]] is led by a [[Blackwatch Guild Head{{!}}Guild Head]], and its history is rooted in the legacy of [[Loreli]], Daughter of the Emperor, who was considered the first Pilgrim. While they are generally viewed as righteous protectors, their role can range from performing incantations to drive away shadows to serving in high-ranking capacities within [[The Empire{{!}}the Empire]].}}
 
 == Appearance ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Pilgrim is a man dressed in white robes. He also wears a medallion featuring the [[White Sun]].}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Pilgrim is a man dressed in white robes. He carries a copy of [[Meditations on the Unknown God]] and wears a medallion featuring a [[White Sun]].}}
 
 == Relationships ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Pilgrim addresses [[Darius Allbright|Darius]] by the title of [[Knight-Adjunct]]. Additionally, [[Shera]] issues an order for [[the Reader]] to be brought before a Pilgrim.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Pilgrim addresses [[Darius Allbright{{!}}Darius]] as [[Knight-Adjunct]]. [[Dalton Foster{{!}}Foster]] has expressed a desire for a Pilgrim he can trust, and [[Shera]] has issued orders for [[the Reader]] to be brought before a Pilgrim.}}
 
 == Abilities ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Pilgrims]] of the [[Luminian Order]] utilize alchemy and medical skill to heal others. To possess [[Soulbound]] power, they must serve the [[Guild]] for years and oppose [[Elders]].}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Pilgrims]] of the [[Luminian Order]] utilize alchemy and medical skill to heal others. They also possess [[Soulbound]] power and recite an incantation when they suspect a spawn of the [[Creeping Shadow]].}}
 
 == Of Dawn and Darkness ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Pilgrim]] is a type of person that can be taken into custody.<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Andel Petronus|Andel]] is a [[Pilgrim]].<ref name="ee-sea-02-of-dawn-and-darkness-c19">''Of Dawn and Darkness'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Andel Petronus{{!}}Andel]] is a [[Pilgrim]].<ref name="ee-sea-02-of-dawn-and-darkness-c19">''Of Dawn and Darkness'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Of Darkness and Dawn ==
@@ -33,13 +33,13 @@
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Pilgrims]] recite an incantation when they suspect a spawn of the [[Creeping Shadow]].<ref name="ee-shadow-02-of-darkness-and-dawn-c6">''Of Darkness and Dawn'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Pilgrim]] is a man in white robes who carries a copy of [[Meditations on the Unknown God]].<ref name="ee-shadow-02-of-darkness-and-dawn-c6" />}}</li>
 <li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Pilgrim]] wears a [[White Sun medallion]].<ref name="ee-shadow-02-of-darkness-and-dawn-c6" />}}</li>
-<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Pilgrim]] addresses [[Darius Allbright|Darius]] as [[Knight-Adjunct]].<ref name="ee-shadow-02-of-darkness-and-dawn-c6" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The [[Pilgrim]] addresses [[Darius Allbright{{!}}Darius]] as [[Knight-Adjunct]].<ref name="ee-shadow-02-of-darkness-and-dawn-c6" />}}</li>
 </ul></div>
 
 == Of Kings and Killers ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Dalton Foster|Foster]] called for a [[Pilgrim]] he could trust.<ref name="ee-sea-03-of-kings-and-killers-c17">''Of Kings and Killers'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Dalton Foster{{!}}Foster]] called for a [[Pilgrim]] he could trust.<ref name="ee-sea-03-of-kings-and-killers-c17">''Of Kings and Killers'', chapter 17</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Pilgrims]] of the [[Luminian Order]] must serve the [[Guild]] for years, oppose [[Elders]], and heal people with alchemy and medical skill to possess [[Soulbound]] power.<ref name="ee-sea-03-of-kings-and-killers-c17" />}}</li>
 </ul></div>
 

@@ -1,8 +1,32 @@
-'''High Priestess of the Void''' may refer to:
+{{Expand}}
 
-* [[High Priestess of the Void (The Elder Empire: Sea)]]
-* [[High Priestess of the Void (The Elder Empire: Shadow)]]
+{{Infobox concept
+| name = High Priestess of the Void
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
+}}
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+== Of Kings and Killers ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Great Ones{{!}}Great One]] refers to [[Jerri]] as his [[High Priestess of the Void]].<ref name="ee-sea-03-of-kings-and-killers-c20">''Of Kings and Killers'', chapter 20</ref>}}</li>
+</ul></div>
 
-[[Category:Disambiguation]]
+== Of Killers and Kings ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Jyrine Tessella Marten{{!}}Jyrine]] is addressed as the [[High Priestess of the Void]] by a [[Shadow{{!}}shadow]] voice.<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=ee-shadow-03-of-killers-and-kings|“Deliver a message for me, High Priestess of the Void.”<ref name="ee-shadow-03-of-killers-and-kings-c20" />}}
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Concepts]]
+[[Category:Of Kings and Killers]]
+[[Category:Of Killers and Kings]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire concepts]]

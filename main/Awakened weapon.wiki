@@ -1,8 +1,41 @@
-'''Awakened weapon''' may refer to:
+{{Infobox concept
+| name = Awakened weapon
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
+}}
 
-* [[Awakened weapon (The Elder Empire: Sea)]]
-* [[Awakened weapon (The Elder Empire: Shadow)]]
+== Of Sea and Shadow ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Anyone may use an [[Awakened weapon]].<ref name="ee-sea-01-of-sea-and-shadow-c21">''Of Sea and Shadow'', chapter 21</ref>}}</li>
+</ul></div>
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+== Of Shadow and Sea ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Calder Marten]] may possess an [[Awakened weapon]].<ref name="ee-shadow-01-of-shadow-and-sea-c23">''Of Shadow and Sea'', chapter 23</ref>}}</li>
+</ul></div>
 
-[[Category:Disambiguation]]
+== Of Dawn and Darkness ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|An [[Awakened weapon]] is an object created through the intentional flow of [[Intent]].<ref name="ee-sea-02-of-dawn-and-darkness-c5">''Of Dawn and Darkness'', chapter 5</ref>}}</li>
+</ul></div>
+
+== Of Kings and Killers ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Steward]] had an [[Awakened weapon]].<ref name="ee-sea-03-of-kings-and-killers-c15">''Of Kings and Killers'', chapter 15</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Concepts]]
+[[Category:Of Sea and Shadow]]
+[[Category:Of Dawn and Darkness]]
+[[Category:Of Kings and Killers]]
+[[Category:Of Shadow and Sea]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire concepts]]

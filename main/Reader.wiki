@@ -1,8 +1,137 @@
-'''Reader''' may refer to:
+{{Infobox character
+| name = Reader
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
+| aliases = Reader (The Elder Empire: Shadow), Reader (The Elder Empire: Sea)
+| abilities = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Reading]], cancel out Intent, reading impressions, investing objects, sense changes, sense Intent through the air, sense Intent}}{{spoiler|book=ee-shadow-01-of-shadow-and-sea|, [[Reader senses]], Awaken an object}}{{spoiler|book=ee-sea-02-of-dawn-and-darkness|, perform Readings, use the Optasia, vivid visions}}
+| titles = {{spoiler|book=ee-sea-01-of-sea-and-shadow|The Chronicler}}
+| affiliations = {{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Navigator’s Guild|Guild of Navigators]], [[Blackwatch|Blackwatch Guild]]}}
+| professions = {{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Chroniclers]], investigating crimes, crafting tools, creating weapons, enacting subtle sabotage, manipulating information}}
+| appears_in = Elder Empire
+}}
 
-* [[Reader (The Elder Empire: Sea)]]
-* [[Reader (The Elder Empire: Shadow)]]
+<div class="wv-epigraph">{{spoiler|book=ee-sea-01-of-sea-and-shadow|“This is Guild business, Calder. Certainly, we can always use more Readers, but we haven’t fallen so low as to recruit...men as young as yourself.”}}<div class="wv-epigraph-cite">{{spoiler|book=ee-sea-01-of-sea-and-shadow|— ''Of Sea and Shadow'', chapter 8}}</div></div>
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+''See also: [[Reader Timeline]]''
 
-[[Category:Disambiguation]]
+== Overview ==
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Readers]] are individuals capable of consciously perceiving and manipulating [[Intent]], a fundamental force found within people and objects. This discipline allows them to perform various specialized tasks, such as investigating crimes by sensing an object's history, crafting or enhancing tools, and detecting lies. While they do not possess superior intelligence or physical beauty, their ability to sense and alter [[Intent]] provides significant advantages in many fields. Some highly advanced [[Readers]], known as [[Soulbound]], can reach the pinnacle of this power to perform miraculous feats, though those who attempt to harness [[Elder powers]] instead of [[Kameira]] often face rapid insanity. A major danger associated with the practice is '[[Reader burn]],' which occurs when a person's abilities exceed their physical constitution. Furthermore, attempting to directly sense the [[Intent]] of [[Great Elders]] is a severe taboo that typically results in madness. Despite these risks, [[Readers]] play vital roles within [[The Empire{{!}}the Empire]]; they serve as investigators, craftsmen, and even leaders. The Emperor is noted as the most powerful Reader in history, possessing a level of skill that allows him to manipulate [[Intent]] on a massive scale. Because of their unique abilities, [[Readers]] often exist outside standard legal constraints, as they can frequently bypass physical restraints or evade punishment through their mastery of [[Intent]].}}
+
+== History ==
+=== {{spoiler|book=ee-sea-01-of-sea-and-shadow|Definition and Guild roles}} ===
+{{spoiler|book=ee-sea-01-of-sea-and-shadow|A Reader is a classification of skill or power that may be able to explain how a message was written.<ref name="ee-sea-01-of-sea-and-shadow-c1">''Of Sea and Shadow'', chapter 1</ref><ref name="ee-sea-01-of-sea-and-shadow-c19">''Of Sea and Shadow'', chapter 19</ref> These individuals are capable of verifying objects through reading impressions and are required to check belongings for suspicious items.<ref name="ee-sea-01-of-sea-and-shadow-c2">''Of Sea and Shadow'', chapter 2</ref> While laymen often perceive them as superhuman, [[Readers]] possess the inherent advantage of sensing changes made during the investment of objects to appropriately alter their [[Intent]].<ref name="ee-sea-01-of-sea-and-shadow-c4">''Of Sea and Shadow'', chapter 4</ref><ref name="ee-sea-01-of-sea-and-shadow-c6">''Of Sea and Shadow'', chapter 6</ref> This ability includes sensing [[Intent]] through the air and even canceling it out.<ref name="ee-sea-01-of-sea-and-shadow-c14">''Of Sea and Shadow'', chapter 14</ref><ref name="ee-sea-01-of-sea-and-shadow-c26">''Of Sea and Shadow'', chapter 26</ref> The [[Chronicler]] is noted as a Reader of impressive skill, and individuals such as [[Calder]] and [[Lucan]] also hold this status.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref><ref name="ee-sea-01-of-sea-and-shadow-c15">''Of Sea and Shadow'', chapter 15</ref><ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref> [[Readers]] serve as a position within the [[Blackwatch{{!}}Blackwatch Guild]], which is currently in need of them, and they are also individuals that the [[Navigator’s Guild{{!}}Guild of Navigators]] can recruit.<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref><ref name="ee-sea-01-of-sea-and-shadow-c10">''Of Sea and Shadow'', chapter 10</ref> However, the [[Heart of Nakothi]] can pry at a [[Reader’s senses{{!}}Reader's senses]].<ref name="ee-sea-01-of-sea-and-shadow-c23" />}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">19</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Reader]] is someone [[Jyrine Tessella Marten{{!}}Jyrine]] mentions might be able to explain how a message was written.<ref name="ee-sea-01-of-sea-and-shadow-c1" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Reader]] is a person capable of verifying objects through reading impressions.<ref name="ee-sea-01-of-sea-and-shadow-c2" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Reader]] is required to check belongings for suspicious items.<ref name="ee-sea-01-of-sea-and-shadow-c2" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Chronicler]] is a [[Reader]] of impressive skill.<ref name="ee-sea-01-of-sea-and-shadow-c3" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Readers]] are often perceived as superhuman by laymen.<ref name="ee-sea-01-of-sea-and-shadow-c4" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Reader]] would have sensed if [[Jerri]] was [[Soulbound]].<ref name="ee-sea-01-of-sea-and-shadow-c5">''Of Sea and Shadow'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Readers]] have inherent advantages in the process of investing objects, most importantly the ability to sense changes they make and alter their [[Intent]] appropriately.<ref name="ee-sea-01-of-sea-and-shadow-c6" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Readers]] are individuals that the [[Navigator’s Guild{{!}}Guild of Navigators]] can recruit.<ref name="ee-sea-01-of-sea-and-shadow-c8" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Blackwatch{{!}}Blackwatch Guild]] is in need of [[Readers]].<ref name="ee-sea-01-of-sea-and-shadow-c8" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jyrine Tessella Marten{{!}}Jyrine]] is not a [[Reader]].<ref name="ee-sea-01-of-sea-and-shadow-c9">''Of Sea and Shadow'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Reader]] is a position within the [[Blackwatch{{!}}Blackwatch Guild]].<ref name="ee-sea-01-of-sea-and-shadow-c10" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Andel Petronus{{!}}Andel]] is not a [[Reader]].<ref name="ee-sea-01-of-sea-and-shadow-c11">''Of Sea and Shadow'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Readers]] can sense [[Intent]] through the air.<ref name="ee-sea-01-of-sea-and-shadow-c14" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] is a [[Reader]].<ref name="ee-sea-01-of-sea-and-shadow-c15" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Reader]] is a classification of skill or power.<ref name="ee-sea-01-of-sea-and-shadow-c19" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Jerri]] is not a [[Reader]].<ref name="ee-sea-01-of-sea-and-shadow-c21">''Of Sea and Shadow'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Lucan]] is a [[Reader]].<ref name="ee-sea-01-of-sea-and-shadow-c23" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Heart of Nakothi]] pries at [[Reader’s senses]].<ref name="ee-sea-01-of-sea-and-shadow-c23" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Reader]] has the ability to cancel out [[Intent]].<ref name="ee-sea-01-of-sea-and-shadow-c26" />}}</li>
+</ul></div>
+
+=== {{spoiler|book=ee-shadow-01-of-shadow-and-sea|Disciplines of Reading}} ===
+{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Readers]] are a specific type of individual, some of whom possess the ability to lay curses for hire.<ref name="ee-shadow-01-of-shadow-and-sea-c1">''Of Shadow and Sea'', chapter 1</ref> By definition, [[Chroniclers]] are considered talented [[Readers]], and the discipline itself involves sensing and manipulating human [[Intent]].<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref><ref name="ee-shadow-01-of-shadow-and-sea-c14">''Of Shadow and Sea'', chapter 14</ref> These individuals can consciously observe and manipulate the [[Intent]] stored within objects, a process that allows them to [[Awaken]] them.<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref><ref name="ee-shadow-01-of-shadow-and-sea-c19">''Of Shadow and Sea'', chapter 19</ref> Through the use of [[Reading]], they can determine information via touch, though bringing out an object's full potential requires significant strength and focus.<ref name="ee-shadow-01-of-shadow-and-sea-c7">''Of Shadow and Sea'', chapter 7</ref> Utilizing their unique [[Reader senses]], they are proficient at investigating crimes, crafting tools and weapons, enacting subtle sabotage, or manipulating information received by other [[Readers]].<ref name="ee-shadow-01-of-shadow-and-sea-c6" /><ref name="ee-shadow-01-of-shadow-and-sea-c11">''Of Shadow and Sea'', chapter 11</ref> A Reader can even feel the power of [[Nakothi's song]] directly through their senses.<ref name="ee-shadow-01-of-shadow-and-sea-c15">''Of Shadow and Sea'', chapter 15</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Readers]] are a type of individual, with some being able to lay curses for hire.<ref name="ee-shadow-01-of-shadow-and-sea-c1" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Chroniclers]] are talented [[Readers]] by definition.<ref name="ee-shadow-01-of-shadow-and-sea-c4" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The prisoner requests a [[Reader]] to test him.<ref name="ee-shadow-01-of-shadow-and-sea-c5">''Of Shadow and Sea'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Readers]] can consciously observe and manipulate the [[Intent]] stored in objects.<ref name="ee-shadow-01-of-shadow-and-sea-c6" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Readers]] are better at crafting tools, investigating crimes, creating weapons, enacting subtle sabotage, and manipulating information received by other [[Readers]].<ref name="ee-shadow-01-of-shadow-and-sea-c6" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Readers]] can use [[Reading]] to determine information through touch.<ref name="ee-shadow-01-of-shadow-and-sea-c7" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Reading]] requires focus and strength to bring out an object's full potential.<ref name="ee-shadow-01-of-shadow-and-sea-c7" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Readers]] possess [[Reader senses]].<ref name="ee-shadow-01-of-shadow-and-sea-c11" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Shera]] is not a [[Reader]].<ref name="ee-shadow-01-of-shadow-and-sea-c12">''Of Shadow and Sea'', chapter 12</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Reading]] is a discipline involving the ability to sense and manipulate human [[Intent]].<ref name="ee-shadow-01-of-shadow-and-sea-c14" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A [[Reader]] can feel the power of [[Nakothi's song]] directly with their senses.<ref name="ee-shadow-01-of-shadow-and-sea-c15" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A [[Reader]] is a person who can [[Awaken]] an object.<ref name="ee-shadow-01-of-shadow-and-sea-c19" />}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Emperor needs a [[Reader]] that meets several criteria, including age.<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}</li>
+</ul></div>
+
+=== {{spoiler|book=ee-sea-02-of-dawn-and-darkness|Use of the Optasia}} ===
+{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A Reader is an individual capable of performing the act of [[Reading]], a process that allows them to use the [[Optasia]] to magnify their natural talents.<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref><ref name="ee-sea-02-of-dawn-and-darkness-c13">''Of Dawn and Darkness'', chapter 13</ref> Through this ability, they can experience vivid visions of distant locations and perform Readings to sense [[Intent]].<ref name="ee-sea-02-of-dawn-and-darkness-c4" /><ref name="ee-sea-02-of-dawn-and-darkness-c11">''Of Dawn and Darkness'', chapter 11</ref> These skills enable a Reader to investigate the history of an artifact or uncover the truth behind a crime.<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref> While a Reader from the [[Imperial Prisons]] was once utilized to test the [[Optasia]], some practitioners follow a custom of blinding themselves to achieve a clearer sense of [[Intent]].<ref name="ee-sea-02-of-dawn-and-darkness-c18">''Of Dawn and Darkness'', chapter 18</ref><ref name="ee-sea-02-of-dawn-and-darkness-c22">''Of Dawn and Darkness'', chapter 22</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Reader]] is someone who can use the [[Optasia]] to magnify their talents.<ref name="ee-sea-02-of-dawn-and-darkness-c4" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Readers]] can experience vivid visions of other places.<ref name="ee-sea-02-of-dawn-and-darkness-c4" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Reader]] is someone who can perform Readings to sense [[Intent]].<ref name="ee-sea-02-of-dawn-and-darkness-c11" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Readers]] are individuals who can perform the act of [[Reading]].<ref name="ee-sea-02-of-dawn-and-darkness-c13" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Reader]] can investigate the truth of a crime or the history of an artifact.<ref name="ee-sea-02-of-dawn-and-darkness-c14" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|A [[Reader]] from the [[Imperial Prisons]] was used to test the [[Optasia]].<ref name="ee-sea-02-of-dawn-and-darkness-c18" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|Some [[Readers]] practice a custom of blinding themselves to sense [[Intent]] more clearly.<ref name="ee-sea-02-of-dawn-and-darkness-c22" />}}</li>
+</ul></div>
+
+=== {{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Powers and limitations}} ===
+{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Readers]] are specialized individuals possessing powers that [[Shera]] can target with her blade, making them significantly more powerful than the prisoners she has killed.<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref> While they possess very little [[Intent]] to manipulate, these individuals can pick up on strong emotions or retrieve visions from stored [[Intent]].<ref name="ee-shadow-02-of-darkness-and-dawn-c3">''Of Darkness and Dawn'', chapter 3</ref><ref name="ee-shadow-02-of-darkness-and-dawn-c4">''Of Darkness and Dawn'', chapter 4</ref> Governed by specific rules regarding their capabilities, [[Readers]] are a group capable of influencing the course of weapons.<ref name="ee-shadow-02-of-darkness-and-dawn-c7">''Of Darkness and Dawn'', chapter 7</ref><ref name="ee-shadow-02-of-darkness-and-dawn-c11">''Of Darkness and Dawn'', chapter 11</ref> Despite possessing certain sensitivities and advantages, they frequently complain that their [[Reading]] lacks detail.<ref name="ee-shadow-02-of-darkness-and-dawn-c14">''Of Darkness and Dawn'', chapter 14</ref><ref name="ee-shadow-02-of-darkness-and-dawn-c18">''Of Darkness and Dawn'', chapter 18</ref> One of the [[Architects]] is a Reader, and [[Shera]]'s current target is also one.<ref name="ee-shadow-02-of-darkness-and-dawn-c19">''Of Darkness and Dawn'', chapter 19</ref> The state of being a Reader causes the mind to expand and swirl upon the mists, though such an individual would be unable to uncover Rudeus's connection to the [[Consultants]] once his blacks are burned.<ref name="ee-shadow-02-of-darkness-and-dawn-c21">''Of Darkness and Dawn'', chapter 21</ref><ref name="ee-shadow-02-of-darkness-and-dawn-c22">''Of Darkness and Dawn'', chapter 22</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">13</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A [[Reader]] is a type of individual with specific powers that [[Shera]] can target with her blade.<ref name="ee-shadow-02-of-darkness-and-dawn-c2" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A [[Reader]] is much more powerful than the prisoners [[Shera]] killed.<ref name="ee-shadow-02-of-darkness-and-dawn-c2" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Readers]] have very little [[Intent]] to manipulate.<ref name="ee-shadow-02-of-darkness-and-dawn-c3" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A [[Reader]] is someone who can pick up visions from stored [[Intent]].<ref name="ee-shadow-02-of-darkness-and-dawn-c4" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A [[Reader]] can pick up on strong emotions through [[Intent]].<ref name="ee-shadow-02-of-darkness-and-dawn-c4" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Readers]] have rules regarding what they can and cannot do.<ref name="ee-shadow-02-of-darkness-and-dawn-c7" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Readers]] are a group of people who can influence the course of weapons with their power.<ref name="ee-shadow-02-of-darkness-and-dawn-c11" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Readers]] possess certain advantages and sensitivities.<ref name="ee-shadow-02-of-darkness-and-dawn-c14" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Readers]] often complain about a lack of detail in their [[Reading]].<ref name="ee-shadow-02-of-darkness-and-dawn-c18" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|One of the [[Architects]] is a [[Reader]].<ref name="ee-shadow-02-of-darkness-and-dawn-c19" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|[[Shera]]'s target is a [[Reader]].<ref name="ee-shadow-02-of-darkness-and-dawn-c19" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|Being a [[Reader]] causes the mind to expand and swirl on the mists.<ref name="ee-shadow-02-of-darkness-and-dawn-c21" />}}</li>
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|A [[Reader]] would not be able to uncover Rudeus's connection to the [[Consultants]] after his blacks are burned.<ref name="ee-shadow-02-of-darkness-and-dawn-c22" />}}</li>
+</ul></div>
+
+=== {{spoiler|book=ee-sea-03-of-kings-and-killers|Awakening and identity}} ===
+{{spoiler|book=ee-sea-03-of-kings-and-killers|A Reader must possess the capability to operate at the same level as the [[Regents]], a role that [[Tyria]] does not fulfill.<ref name="ee-sea-03-of-kings-and-killers-c9">''Of Kings and Killers'', chapter 9</ref><ref name="ee-sea-03-of-kings-and-killers-c15">''Of Kings and Killers'', chapter 15</ref> While a sane Reader would avoid examining [[iron-and-crystal manacles{{!}}manacles]] closely, they serve as one of the three essential sources of [[Intent]] during the [[Awakening]] process.<ref name="ee-sea-03-of-kings-and-killers-c16">''Of Kings and Killers'', chapter 16</ref><ref name="ee-sea-03-of-kings-and-killers-c17">''Of Kings and Killers'', chapter 17</ref> A Reader is required to verify the identity of [[Calder]], though they are instructed to avoid looking at the [[Elders]], particularly when using a looking-glass.<ref name="ee-sea-03-of-kings-and-killers-c20">''Of Kings and Killers'', chapter 20</ref><ref name="ee-sea-03-of-kings-and-killers-c21">''Of Kings and Killers'', chapter 21</ref> [[Calder]] relies on intuition rather than his Reader powers to sense [[Loreli]]'s intentions, especially since a Reader can be deceived if someone controls their [[Intent]] to conceal memories.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref><ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">8</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|A [[Reader]] is needed who understands full capabilities and can operate on the level of the [[Regents]].<ref name="ee-sea-03-of-kings-and-killers-c9" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Tyria]] is not a [[Reader]].<ref name="ee-sea-03-of-kings-and-killers-c15" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|No [[Reader]] in their right mind would examine the [[iron-and-crystal manacles{{!}}manacles]] closely.<ref name="ee-sea-03-of-kings-and-killers-c16" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Reader]] is one of the three sources of [[Intent]] in the [[Awakening]] process.<ref name="ee-sea-03-of-kings-and-killers-c17" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|A [[Reader]] is needed to verify [[Calder]]'s identity.<ref name="ee-sea-03-of-kings-and-killers-c20" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Readers]] are taught not to look at the [[Elders]], especially with a looking-glass.<ref name="ee-sea-03-of-kings-and-killers-c21" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] senses [[Loreli]]'s intentions through intuition rather than his power as a [[Reader]].<ref name="ee-sea-03-of-kings-and-killers-c23" />}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|A [[Reader]] can be deceived by controlling one's [[Intent]] to hide memories.<ref name="ee-sea-03-of-kings-and-killers-c24" />}}</li>
+</ul></div>
+
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Readers]] are a specific group that includes the individual known as [[Lucan]].<ref name="ee-shadow-03-of-killers-and-kings-c17">''Of Killers and Kings'', chapter 17</ref> Utilizing her unique Reader's awareness, [[Loreli]] is able to sense through the water.<ref name="ee-shadow-03-of-killers-and-kings-c18">''Of Killers and Kings'', chapter 18</ref> During [[Shera]]'s meeting, several [[Readers]] are discovered among the [[Architects]].<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref> A Reader was also located in close proximity while searching for [[Loreli]].<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Readers]] are a group that includes [[Lucan]].<ref name="ee-shadow-03-of-killers-and-kings-c17" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Loreli]] uses her [[Reader]]'s awareness to sense through the water.<ref name="ee-shadow-03-of-killers-and-kings-c18" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Readers]] are found among the [[Architects]] at [[Shera]]'s meeting.<ref name="ee-shadow-03-of-killers-and-kings-c22" />}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|A [[Reader]] was searching for [[Loreli]] close by.<ref name="ee-shadow-03-of-killers-and-kings-c24" />}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“I’ve done nothing! Committed no crime! Let me stand trial, I beg you, and I will prove my innocence!”<ref name="ee-shadow-01-of-shadow-and-sea-c5" />}}
+* {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“I needed a Reader that fit several criteria, including age.<ref name="ee-shadow-01-of-shadow-and-sea-c24" />}}
+* {{spoiler|book=ee-sea-03-of-kings-and-killers|“The boy’s right,” Foster said. “First thing they teach you as a Reader: don’t look at the Elders. Especially not with a looking-glass pressed right against them.”<ref name="ee-sea-03-of-kings-and-killers-c21" />}}
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Characters]]
+[[Category:Of Sea and Shadow]]
+[[Category:Of Dawn and Darkness]]
+[[Category:Of Kings and Killers]]
+[[Category:Of Shadow and Sea]]
+[[Category:Of Darkness and Dawn]]
+[[Category:Of Killers and Kings]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire characters]]

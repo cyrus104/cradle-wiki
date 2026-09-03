@@ -1,8 +1,29 @@
-'''Head of the Champion’s Guild''' may refer to:
+{{Expand}}
 
-* [[Head of the Champion’s Guild (The Elder Empire: Sea)]]
-* [[Head of the Champion’s Guild (The Elder Empire: Shadow)]]
+{{Infobox character
+| name = Head of the Champion’s Guild
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
+}}
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+== Of Kings and Killers ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Head of the Champion’s Guild]] dies after standing vigil.<ref name="ee-sea-03-of-kings-and-killers-c7">''Of Kings and Killers'', chapter 7</ref>}}</li>
+</ul></div>
 
-[[Category:Disambiguation]]
+== Of Killers and Kings ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Baldezar Kern{{!}}Kern]] is the [[Head of the Champion’s Guild]].<ref name="ee-shadow-03-of-killers-and-kings-c6">''Of Killers and Kings'', chapter 6</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Characters]]
+[[Category:Of Kings and Killers]]
+[[Category:Of Killers and Kings]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire characters]]

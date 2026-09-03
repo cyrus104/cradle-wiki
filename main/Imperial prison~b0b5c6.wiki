@@ -1,8 +1,38 @@
-'''Imperial prison''' may refer to:
+{{Infobox location
+| name = Imperial prison
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
+}}
 
-* [[Imperial prison (The Elder Empire: Sea)]]
-* [[Imperial prison (The Elder Empire: Shadow)]]
+== Of Sea and Shadow ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Imperial prison]] is located across [[Candle Bay]].<ref name="ee-sea-01-of-sea-and-shadow-c8">''Of Sea and Shadow'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The sender of a letter to [[Calder Marten]] is the [[Candle Bay Imperial Prison]] and Reformative Facility.<ref name="ee-sea-01-of-sea-and-shadow-c13">''Of Sea and Shadow'', chapter 13</ref>}}</li>
+</ul></div>
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+== Of Shadow and Sea ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Calder Marten]] was once indicted for the destruction of an entire [[Imperial]] Prison.<ref name="ee-shadow-01-of-shadow-and-sea-c4">''Of Shadow and Sea'', chapter 4</ref>}}</li>
+</ul></div>
 
-[[Category:Disambiguation]]
+== Of Darkness and Dawn ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-02-of-darkness-and-dawn|The prisoners are wearing red jumpsuits from an [[Imperial prison]].<ref name="ee-shadow-02-of-darkness-and-dawn-c2">''Of Darkness and Dawn'', chapter 2</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“Twenty-six years old, former Blackwatch, once indicted for the destruction of an entire Imperial Prison.<ref name="ee-shadow-01-of-shadow-and-sea-c4" />}}
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Locations]]
+[[Category:Of Sea and Shadow]]
+[[Category:Of Shadow and Sea]]
+[[Category:Of Darkness and Dawn]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire locations]]

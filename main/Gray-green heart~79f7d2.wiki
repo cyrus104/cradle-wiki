@@ -1,8 +1,29 @@
-'''gray-green heart''' may refer to:
+{{Expand}}
 
-* [[gray-green heart (The Elder Empire: Sea)]]
-* [[gray-green heart (The Elder Empire: Shadow)]]
+{{Infobox artifact
+| name = gray-green heart
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
+}}
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+== Of Sea and Shadow ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Naberius Clayborn{{!}}Naberius]] clutches an oozing, [[gray-green heart]].<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
+</ul></div>
 
-[[Category:Disambiguation]]
+== Of Shadow and Sea ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Emperor wears a sickly [[gray-green heart]] around his chest.<ref name="ee-shadow-01-of-shadow-and-sea-c22">''Of Shadow and Sea'', chapter 22</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Artifacts]]
+[[Category:Of Sea and Shadow]]
+[[Category:Of Shadow and Sea]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire artifacts]]

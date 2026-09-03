@@ -1,8 +1,41 @@
-'''Nightwyrm''' may refer to:
+{{Infobox character
+| name = Nightwyrm
+| introduced = [[Of Shadow and Sea (novel)|Of Shadow and Sea]]
+| aliases = Nightwyrm (The Elder Empire: Sea), Nightwyrm (The Elder Empire: Shadow)
+| appears_in = Elder Empire
+}}
 
-* [[Nightwyrm (The Elder Empire: Sea)]]
-* [[Nightwyrm (The Elder Empire: Shadow)]]
+== Overview ==
+{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The Nightwyrm is a type of [[Kameira]], a class of non-human and non-Elder creatures capable of manipulating the natural world through supernatural means. Within the context of the [[Elder Empire]], it is associated with both the Sea and [[Shadow]]. The creature possesses significant physical advantages, including a constitution that can be utilized in alchemical formulas to grant immunity to most poisons. Additionally, the Nightwyrm is noted for its venom and can be used in biological enhancements to provide strength and durability. In certain instances, the creature exhibits a sentient or instinctual drive, such as demanding direct confrontation during a challenge.}}
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+== Of Sea and Shadow ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|A [[Nightwyrm]] is a draconic creature with black [[scales]].<ref name="ee-sea-01-of-sea-and-shadow-c2">''Of Sea and Shadow'', chapter 2</ref>}}</li>
+</ul></div>
 
-[[Category:Disambiguation]]
+== Of Shadow and Sea ==
+{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Alchemists]] have long claimed to be able to offer the constitution of a Nightwyrm, which is identified as a type of [[Kameira]]. This entity resides inside [[Meia]], where it causes spasms to occur beneath her skin. While the Nightwyrm urges her to retreat from conflict, it also demands that she meet her challenges head-on.}}
+
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Alchemists]] claim to offer the constitution of a [[Nightwyrm]].<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Nightwyrm]] demands that [[Meia]] meet challenges head-on.<ref name="ee-shadow-01-of-shadow-and-sea-c15">''Of Shadow and Sea'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Nightwyrm]] causes spasms under [[Meia]]'s skin.<ref name="ee-shadow-01-of-shadow-and-sea-c19">''Of Shadow and Sea'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Nightwyrm]] is an entity inside [[Meia]] that urges her to retreat.<ref name="ee-shadow-01-of-shadow-and-sea-c23">''Of Shadow and Sea'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Nightwyrm]] is a type of [[Kameira]].<ref name="ee-shadow-01-of-shadow-and-sea-c24">''Of Shadow and Sea'', chapter 24</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=ee-shadow-01-of-shadow-and-sea|“We have solutions that will give you the power of a Hydra, the constitution of a Nightwyrm, the fortitude of a Deepstrider...all the natural advantages that the Kameira have over man, they will be yours!<ref name="ee-shadow-01-of-shadow-and-sea-c8" />}}
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Characters]]
+[[Category:Of Sea and Shadow]]
+[[Category:Of Shadow and Sea]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire characters]]

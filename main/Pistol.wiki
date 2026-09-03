@@ -1,8 +1,38 @@
-'''pistol''' may refer to:
+{{Infobox artifact
+| name = pistol
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
+}}
 
-* [[pistol (The Elder Empire: Sea)]]
-* [[pistol (The Elder Empire: Shadow)]]
+== Of Sea and Shadow ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Calder]] hefts a [[pistol]].<ref name="ee-sea-01-of-sea-and-shadow-c23">''Of Sea and Shadow'', chapter 23</ref>}}</li>
+</ul></div>
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+== Of Shadow and Sea ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Albadol Crane]] used a [[pistol]].<ref name="ee-shadow-01-of-shadow-and-sea-c16">''Of Shadow and Sea'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|An alchemist managed to make a [[pistol]] work on the castle grounds despite its defenses.<ref name="ee-shadow-01-of-shadow-and-sea-c16" />}}</li>
+</ul></div>
 
-[[Category:Disambiguation]]
+== Of Dawn and Darkness ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Dalton Foster{{!}}Foster]] draws his [[pistol]].<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
+</ul></div>
+
+== Notable quotes ==
+* {{spoiler|book=ee-sea-01-of-sea-and-shadow|“Get ready,” Calder said, hefting his pistol.<ref name="ee-sea-01-of-sea-and-shadow-c23" />}}
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Artifacts]]
+[[Category:Of Sea and Shadow]]
+[[Category:Of Dawn and Darkness]]
+[[Category:Of Shadow and Sea]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire artifacts]]

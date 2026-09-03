@@ -1,8 +1,22 @@
-'''Capital mansion''' may refer to:
+{{Expand}}
 
-* [[Capital mansion (The Elder Empire: Sea)]]
-* Capital mansion (The Elder Empire: Shadow)
+{{Infobox location
+| name = Capital mansion
+| introduced = [[Of Kings and Killers (novel)|Of Kings and Killers]]
+}}
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+== Of Kings and Killers ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Calder]] is in an expensive [[Capital mansion]].<ref name="ee-sea-03-of-kings-and-killers-c17">''Of Kings and Killers'', chapter 17</ref>}}</li>
+</ul></div>
 
-[[Category:Disambiguation]]
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Locations]]
+[[Category:Of Kings and Killers]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire locations]]

@@ -1,8 +1,51 @@
-'''Windwatcher''' may refer to:
+{{Infobox character
+| name = Windwatcher
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
+| aliases = Windwatcher (The Elder Empire: Shadow), Windwatcher (The Elder Empire: Sea)
+| species = Kameira
+| titles = {{spoiler|book=ee-sea-02-of-dawn-and-darkness|General Teach's personal Kameira}}
+| appears_in = Elder Empire
+}}
 
-* [[Windwatcher (The Elder Empire: Sea)]]
-* [[Windwatcher (The Elder Empire: Shadow)]]
+== Overview ==
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|The Windwatcher is a rare and near-mythical [[Kameira]], an iridescent bird-like creature characterized by its massive wingspan of at least forty yards. Its physical appearance is described as a work of living art, featuring feathers that glisten with rainbow-like colors, a beak resembling spun glass, and eyes that glow like distant stars. These creatures possess the ability to manipulate air currents, nudging updrafts and catching winds to lift themselves higher into the sky. While some accounts suggest they became extinct centuries ago, they have been known to serve as personal companions to high-ranking individuals, such as [[General Teach]]. They are also capable of being soulbound to specific items, such as boots that use [[Windwatcher feathers]] to control the wind for the wearer.}}
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+== Of Sea and Shadow ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Windwatcher]] is a creature that glides through the air using wind currents.<ref name="ee-sea-01-of-sea-and-shadow-c2">''Of Sea and Shadow'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Windwatcher]] is a vessel used by [[General Teach]].<ref name="ee-sea-01-of-sea-and-shadow-c16">''Of Sea and Shadow'', chapter 16</ref>}}</li>
+</ul></div>
 
-[[Category:Disambiguation]]
+== Of Shadow and Sea ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A [[Windwatcher]] is a type of [[Kameira]].<ref name="ee-shadow-01-of-shadow-and-sea-c7">''Of Shadow and Sea'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|Windwatchers were thought to have gone extinct centuries ago.<ref name="ee-shadow-01-of-shadow-and-sea-c7" />}}</li>
+</ul></div>
+
+== Of Dawn and Darkness ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Windwatcher]] is [[General Teach]]'s personal [[Kameira]].<ref name="ee-sea-02-of-dawn-and-darkness-c4">''Of Dawn and Darkness'', chapter 4</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Windwatcher]] was a [[Kameira]] that is now dead.<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}</li>
+</ul></div>
+
+== Of Killers and Kings ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|A [[Windwatcher]] is an iridescent bird [[Kameira]] with shining feathers.<ref name="ee-shadow-03-of-killers-and-kings-c9">''Of Killers and Kings'', chapter 9</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Characters]]
+[[Category:Of Sea and Shadow]]
+[[Category:Of Dawn and Darkness]]
+[[Category:Of Shadow and Sea]]
+[[Category:Of Killers and Kings]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire characters]]

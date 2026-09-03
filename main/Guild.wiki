@@ -6,12 +6,12 @@
 ''See also: [[Guild Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Guilds]] are a collection of ten influential organizations that serve as the backbone of the [[Aurelian Empire]]. Operating with specialized expertise, they function almost like a private governing body that manages imperial affairs while the general population benefits from their services. Some [[Guilds]] are described as being part of a system that seeks to maintain outdated imperial structures, while others view the absence of an Emperor as an opportunity to operate without legal restrictions. The various organizations are often interconnected, with certain groups providing essential support that allows others to function. Notable [[Guilds]] include: * **[[Consultants]]:** The oldest and most loyal organization, holding the Emperor's trust for two millennia. They provide dedicated guidance to clients and are known to employ assassins to eliminate threats.
-* **[[Champions]]:** The second oldest Guild, historically tied to the unification of [[The Empire|the Empire]]. While they once selected members through violent combat trials, the formal Guild is facing dissolution.
-* **[[Greenwardens]]:** Originally known as the Sisters of Peace, this group was founded in the seventh century to combat the worship of [[Ach'magut]]. They are considered one of the weaker [[Guilds]] in terms of wealth and political influence, though their members are [[Soulbound]] with the ability to heal wounds and restore crops.
-* **[[Magisters]]:** A group that offers various career paths for the educated.
-* **Navigators:** An organization characterized by some as dishonest pirates or con artists.
-* **[[Alchemists]]:** A group involved in specialized professional work. Leadership within the [[Guilds]] can be complex, involving High Councils or elected [[Guild Heads]]. In some instances, leadership is tied to being [[Soulbound]] and bonding with a specific historical weapon. The [[Guilds]] are currently facing challenges from groups like the [[Sleepless]] cabal and political shifts as regional governors attempt to establish their own versions of these institutions.}}
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|The [[Guilds]] are a collection of ten influential organizations that serve as the backbone of the [[Aurelian Empire]]. Operating with specialized expertise, they often function as a private governing force that manages imperial affairs while the general population benefits from their services. While some view them as essential pillars of society, others criticize them for attempting to preserve outdated imperial systems rather than allowing new leadership to emerge. Some [[Guilds]] are noted for their immense political and financial power, while others, such as the [[Greenwardens]], possess limited capital despite their historical significance and unique abilities. Certain members, known as [[Soulbound]], possess miraculous powers like healing or crop restoration, and some [[Guild Heads]] are chosen based on their ability to bond with ancestral weapons. Various specialized [[Guilds]] exist within this system, including: * [[Consultants]]: The most loyal and long-standing Guild, which has maintained the Emperor's trust for two millennia. They provide dedicated guidance to clients and are known to employ assassins to eliminate threats.
+* [[Champions]]: The second oldest Guild, historically tied to the unification of [[The Empire{{!}}the Empire]]. Though once composed of the strongest individuals who proved themselves through violent combat, the formal Guild is facing dissolution.
+* [[Greenwardens]]: Originally established as the Sisters of Peace to combat the worship of [[Ach'magut]], they are a significant [[Imperial]] Guild.
+* [[Magisters]]: A group that offers specialized roles for the educated.
+* Navigators: A group characterized by some as dishonest pirates or con artists.
+* [[Alchemists]]: A Guild involved in various imperial matters and client issues. The [[Guilds]] are led by [[Guild Heads]] and may be overseen by High Councils. They utilize various symbols, such as the [[Golden Crown]] for [[Champions]] or the [[White Sun]] for others, and their crests often grant members significant social access and [[Authority{{!}}authority]].}}
 
 == Of Sea and Shadow ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
@@ -24,7 +24,7 @@
 == Of Dawn and Darkness ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Navigator’s ship|Navigator's ship]] belonged to the [[Guild]].<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The [[Navigator’s ship{{!}}Navigator's ship]] belonged to the [[Guild]].<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
 </ul></div>
 
 == Of Darkness and Dawn ==
@@ -38,7 +38,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera]] worked on behalf of the [[Guild]].<ref name="ee-shadow-03-of-killers-and-kings-c20">''Of Killers and Kings'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Pardoning [[Lucan]] and [[Shera]] would have split the [[Guild]] against [[Yala the High Mason|Yala]].<ref name="ee-shadow-03-of-killers-and-kings-c21">''Of Killers and Kings'', chapter 21</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|Pardoning [[Lucan]] and [[Shera]] would have split the [[Guild]] against [[Yala the High Mason{{!}}Yala]].<ref name="ee-shadow-03-of-killers-and-kings-c21">''Of Killers and Kings'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Guild]] provides care for [[Ayana]].<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[The Testament]] is the fastest ship in the [[Guild]].<ref name="ee-shadow-03-of-killers-and-kings-c24">''Of Killers and Kings'', chapter 24</ref>}}</li>
 </ul></div>

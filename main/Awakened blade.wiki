@@ -1,8 +1,46 @@
-'''Awakened blade''' may refer to:
+{{Infobox artifact
+| name = Awakened blade
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
+}}
 
-* [[Awakened blade (The Elder Empire: Sea)]]
-* [[Awakened blade (The Elder Empire: Shadow)]]
+== Overview ==
+{{spoiler|book=ee-shadow-03-of-killers-and-kings|An [[Awakened]] blade is a tool or weapon that has undergone a mysterious and poorly understood transformation known as [[Awakening]]. This process involves the blending of [[Intent]] from three distinct sources: the object itself, its owner, and [[the Reader]] performing the [[Awakening]]. During this transition, an object's physical form changes once to align with its [[invested Intent]]; however, it cannot be reshaped after this initial change. Once [[Awakened]], an object gains a rudimentary consciousness related to its purpose and can utilize its stored [[Intent]] to achieve goals, though it can no longer accumulate new [[Intent]]. While anyone is capable of using an [[Awakened weapon]], only a [[Soulbound]] can wield its power without restriction. These weapons vary significantly in appearance and capability. Some, such as those with orange-spotted patterns, possess corrosive properties that can dissolve lesser [[Elderspawn]] into sludge. Others may carry heavy emotional residues, such as the resentment of dead men or a desperate yearning for salvation, which can distort the senses of those nearby. Certain [[Awakened objects]] are exceptionally powerful, capable of blighting forests or acting as a bridge between human and imperial powers. In extreme cases, an object may be on the verge of [[Awakening]] itself, or it may be a [[Soulbound]] vessel tied to its captain. While highly effective against many foes, the efficacy of an [[Awakened]] blade depends on the rank of the target, as they may struggle against higher-level entities.}}
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+== Of Sea and Shadow ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|An [[Awakened blade]] is a type of weapon that can hold [[Intent]].<ref name="ee-sea-01-of-sea-and-shadow-c25">''Of Sea and Shadow'', chapter 25</ref>}}</li>
+</ul></div>
 
-[[Category:Disambiguation]]
+== Of Dawn and Darkness ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]] possesses an [[Awakened blade]] granted through a deal with a [[Great Elder]].<ref name="ee-sea-02-of-dawn-and-darkness-c2">''Of Dawn and Darkness'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|An [[Awakened blade]] can reduce lesser [[Elders]] to black sludge with a single cut.<ref name="ee-sea-02-of-dawn-and-darkness-c6">''Of Dawn and Darkness'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[Calder]]'s [[Awakened blade]] has orange-and-black mottled [[steel]] and corrosive [[Intent]].<ref name="ee-sea-02-of-dawn-and-darkness-c10">''Of Dawn and Darkness'', chapter 10</ref>}}</li>
+</ul></div>
+
+== Of Kings and Killers ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The power of the [[Awakened blade]] corrodes [[Elders]] and dissolves [[Elderspawn]] immediately.<ref name="ee-sea-03-of-kings-and-killers-c22">''Of Kings and Killers'', chapter 22</ref>}}</li>
+</ul></div>
+
+== Of Killers and Kings ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-03-of-killers-and-kings|[[Shera's bronze knife{{!}}Shera's Awakened blade]] pushes her toward a ball of energy.<ref name="ee-shadow-03-of-killers-and-kings-c22">''Of Killers and Kings'', chapter 22</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Artifacts]]
+[[Category:Of Sea and Shadow]]
+[[Category:Of Dawn and Darkness]]
+[[Category:Of Kings and Killers]]
+[[Category:Of Killers and Kings]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire artifacts]]

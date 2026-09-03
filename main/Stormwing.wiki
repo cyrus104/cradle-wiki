@@ -1,8 +1,35 @@
-'''Stormwing''' may refer to:
+{{Infobox concept
+| name = Stormwing
+| introduced = [[Of Sea and Shadow (novel)|Of Sea and Shadow]]
+}}
 
-* [[Stormwing (The Elder Empire: Sea)]]
-* [[Stormwing (The Elder Empire: Shadow)]]
+== Overview ==
+{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A Stormwing is a dangerous type of [[Kameira]], specifically one that can be soulbound to a person. These creatures are massive, comparable in size to a large ship, and possess a physical form similar to a manta ray. They are characterized by a bright, rippling luminescence that travels through their spine and along the tip of their tail. This bioluminescence is highly potent; when the creature lashes its tail against the water or an object, it can trigger explosive flashes of light and intense heat. The Stormwing's tail and spine are large enough to span the width of a ship, and they leak a glowing yellow-white fluid when severed. In combat, these creatures can use their tails to cause concussive damage or strike with blinding light. They are known to glide over stormy waves and can be heard screaming or howling during their movements.}}
 
-''This disambiguation page separates different subjects that share a name across the Willverse's series.''
+== Of Sea and Shadow ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|[[Stormwing]] has a lingering aroma.<ref name="ee-sea-01-of-sea-and-shadow-c3">''Of Sea and Shadow'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|Stormwings can create bright explosions by snapping their tails over waves.<ref name="ee-sea-01-of-sea-and-shadow-c5">''Of Sea and Shadow'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Stormwing]] is something the ship needs to catch.<ref name="ee-sea-01-of-sea-and-shadow-c5" />}}</li>
+<li>{{spoiler|book=ee-sea-01-of-sea-and-shadow|The [[Stormwing]] is a creature that the [[Lyathatan]] was asked to fight.<ref name="ee-sea-01-of-sea-and-shadow-c12">''Of Sea and Shadow'', chapter 12</ref>}}</li>
+</ul></div>
 
-[[Category:Disambiguation]]
+== Of Shadow and Sea ==
+<div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
+<ul class="wv-fact-list mw-collapsible-content">
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|A [[Stormwing]]'s stinger can be used for defense.<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|The [[Stormwing]] has an [[Awakened]] tail.<ref name="ee-shadow-01-of-shadow-and-sea-c8">''Of Shadow and Sea'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Stormwing]] provides concussive power.<ref name="ee-shadow-01-of-shadow-and-sea-c11">''Of Shadow and Sea'', chapter 11</ref>}}</li>
+</ul></div>
+
+== Notes ==
+<references />
+
+{{Elder Empire nav}}
+
+[[Category:Concepts]]
+[[Category:Of Sea and Shadow]]
+[[Category:Of Shadow and Sea]]
+[[Category:Elder Empire]]
+[[Category:Elder Empire concepts]]
