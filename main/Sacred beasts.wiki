@@ -31,7 +31,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|The fish are [[sacred beasts]].<ref name="cradle-05-ghostwater-c5">''Ghostwater'', chapter 5</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|The room contains statues of [[giant]] [[sacred beasts]] leaping to battle.<ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The room contains statues of giant [[sacred beasts]] leaping to battle.<ref name="cradle-05-ghostwater-c7">''Ghostwater'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[sacred beast|Sacred beasts]] hunt by [[spiritual perception]] alone.<ref name="cradle-05-ghostwater-c8">''Ghostwater'', chapter 8</ref>}}</li>
 </ul></div>
 

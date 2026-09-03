@@ -18,7 +18,7 @@
 <li>{{spoiler|book=lh-01-the-captain|The [[Subline]] is a network used for news articles and identity registry.<ref name="lh-01-the-captain-c6" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The Captain will look for news on the [[Subline]].<ref name="lh-01-the-captain-c9">''The Captain'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Subline]] is a virtual environment or connection.<ref name="lh-01-the-captain-c10">''The Captain'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=lh-01-the-captain|The [[Subline]] is a [[communicator]] used in the simulation.<ref name="lh-01-the-captain-c11">''The Captain'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[Subline]] is a communicator used in the simulation.<ref name="lh-01-the-captain-c11">''The Captain'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Subline]] is filled with cross-chatter between ships in the simulation.<ref name="lh-01-the-captain-c11" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Subline]] is a location or communication channel where ships respond.<ref name="lh-01-the-captain-c11" />}}</li>
 <li>{{spoiler|book=lh-01-the-captain|The [[Subline]] reception is unavailable inside a simulation.<ref name="lh-01-the-captain-c13">''The Captain'', chapter 13</ref>}}</li>
@@ -35,7 +35,7 @@
 </ul></div>
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|The Subline serves as a multi-faceted network used for recognition, communication, and searching for names or information. This searchable database functions as a level of access and a type of connection within [[Subspace]], providing users with digital games, immersive experiences, and holographic articles. While the [[Union]] maintains a Subline that connects to [[Advocate]] relays, local colonies can access their own versions via [[console|consoles]]. The network has been used to encode transmissions during [[Lichborn]] defensive maneuvers and can even be utilized to eavesdrop on calls or expose secrets. Within this space, which is described as the location where the galaxy has four corners, individuals like [[Jak Escalon]] have been known to prioritize better reception above all else.}}
+{{spoiler|book=lh-02-the-engineer|The Subline serves as a multi-faceted network used for recognition, communication, and searching for names or information. This searchable database functions as a level of access and a type of connection within [[Subspace]], providing users with digital games, immersive experiences, and holographic articles. While the [[Union]] maintains a Subline that connects to [[Advocate]] relays, local colonies can access their own versions via consoles. The network has been used to encode transmissions during [[Lichborn]] defensive maneuvers and can even be utilized to eavesdrop on calls or expose secrets. Within this space, which is described as the location where the galaxy has four corners, individuals like [[Jak Escalon]] have been known to prioritize better reception above all else.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">17</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -48,7 +48,7 @@
 <li>{{spoiler|book=lh-02-the-engineer|The [[Subline]] is a searchable network or database.<ref name="lh-02-the-engineer-c20">''The Engineer'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Subline]] is a source of digital games and immersive experiences.<ref name="lh-02-the-engineer-c22">''The Engineer'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Subline]] can be used to eavesdrop on calls.<ref name="lh-02-the-engineer-c22" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|The local colony has a [[Subline]] that can be accessed via [[console]].<ref name="lh-02-the-engineer-c28">''The Engineer'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The local colony has a [[Subline]] that can be accessed via console.<ref name="lh-02-the-engineer-c28">''The Engineer'', chapter 28</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Starhammer]] uses [[Subline]] communications to contact the fleet.<ref name="lh-02-the-engineer-c33">''The Engineer'', chapter 33</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Subline]] is a location where it is said the galaxy has 'four corners'.<ref name="lh-02-the-engineer-c34">''The Engineer'', chapter 34</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Subline]] is a type of connection used in [[Subspace]].<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>

@@ -13,7 +13,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|[[Foxtail]] is an [[Enforcer technique|Enforcer attack technique]] that bends light and perception to hide movement.<ref name="cradle-09-bloodline-c12">''Bloodline'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] uses the [[Foxtail]] [[technique]] to conceal his movements.<ref name="cradle-09-bloodline-c12" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|[[Lindon]] uses the [[Foxtail]] technique to conceal his movements.<ref name="cradle-09-bloodline-c12" />}}</li>
 </ul></div>
 
 == Notes ==

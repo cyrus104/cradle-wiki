@@ -97,7 +97,7 @@
 </ul></div>
 
 == Threshold: Stories from Cradle ==
-{{spoiler|book=cradle-13-threshold|Existing outside the world, the Way is a medium involved in the process of creation that contains various branches and can be entered through portals. The [[Fox Division]] is able to bind this space to specific destinations, though a world's human population serves as the tie to it. While the [[Abidan]] hold special [[Authority|authority]] over this realm, [[Lindon]] does not draw power from it, even though it can manifest as a symbol complex within his [[spirit]]. Accessing this medium requires learning to sense oneself, a connection that [[Cirian]] was unable to muster.}}
+{{spoiler|book=cradle-13-threshold|Existing outside the world, the Way is a medium involved in the process of creation that contains various branches and can be entered through portals. The [[Fox Division]] is able to bind this space to specific destinations, though a world's human population serves as the tie to it. While the [[Abidan]] hold special [[Authority|authority]] over this realm, [[Lindon]] does not draw power from it, even though it can manifest as a symbol complex within his spirit. Accessing this medium requires learning to sense oneself, a connection that [[Cirian]] was unable to muster.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -105,7 +105,7 @@
 <li>{{spoiler|book=cradle-13-threshold|[[The Way]] exists outside the world.<ref name="cradle-13-threshold-c4" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|A world's human population ties them to [[Way|the Way]].<ref name="cradle-13-threshold-c6">''Threshold: Stories from Cradle'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Lindon]] does not draw on [[Way|the Way]] for power.<ref name="cradle-13-threshold-c7">''Threshold: Stories from Cradle'', chapter 7</ref>}}</li>
-<li>{{spoiler|book=cradle-13-threshold|[[The Way]] can manifest as a symbol complex in [[Lindon]]'s [[spirit]].<ref name="cradle-13-threshold-c7" />}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[The Way]] can manifest as a symbol complex in [[Lindon]]'s spirit.<ref name="cradle-13-threshold-c7" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Abidan]] have special [[Authority|authority]] over [[Way|the Way]].<ref name="cradle-13-threshold-c7" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|[[Cirian]] could not muster his connection to [[Way|the Way]].<ref name="cradle-13-threshold-c7" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Sensing [[Way|the Way]] begins with learning to sense oneself.<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>

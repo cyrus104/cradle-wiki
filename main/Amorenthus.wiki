@@ -7,7 +7,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|[[Amorenthus]] is one of the [[Vroshir]] homeworlds.<ref name="cradle-11-dreadgod-c6">''Dreadgod'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|[[Amorenthus]] is described as an idyllic paradise with rainbow skies, floating islands, and shining [[water]].<ref name="cradle-11-dreadgod-c6" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Amorenthus]] is described as an idyllic paradise with rainbow skies, floating islands, and shining water.<ref name="cradle-11-dreadgod-c6" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Amorenthus]] is a stronghold.<ref name="cradle-11-dreadgod-c6" />}}</li>
 <li>{{spoiler|book=cradle-11-dreadgod|[[Amorenthus]] has a network of satellites and guardians.<ref name="cradle-11-dreadgod-c6" />}}</li>
 </ul></div>

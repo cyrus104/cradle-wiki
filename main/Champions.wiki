@@ -19,7 +19,7 @@
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Champions]] are given resistance to [[poison]] as one of their many gifts.<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Champions]] are given resistance to poison as one of their many gifts.<ref name="ee-shadow-01-of-shadow-and-sea-c6">''Of Shadow and Sea'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[Champions]] have hunting parties that are sabotaged by [[Greenwardens]].<ref name="ee-shadow-01-of-shadow-and-sea-c17">''Of Shadow and Sea'', chapter 17</ref>}}</li>
 </ul></div>
 
@@ -47,11 +47,11 @@
 </ul></div>
 
 == Of Kings and Killers ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The Champions are warriors belonging to [[Calder]] who maintain a chapter house located on Peregrine Street. These individuals are built specifically for battle, though they recently suffered the loss of three members. During an encounter with [[Alchemists|alchemists]], the group faced various hazards including gas, [[darts]], traps, and adhesive. Despite these intense attacks, the Champions do not give up easily. Ultimately, [[Kelarac]] dispatched them to save [[Calder]].}}
+{{spoiler|book=ee-sea-03-of-kings-and-killers|The Champions are warriors belonging to [[Calder]] who maintain a chapter house located on Peregrine Street. These individuals are built specifically for battle, though they recently suffered the loss of three members. During an encounter with [[Alchemists|alchemists]], the group faced various hazards including gas, darts, traps, and adhesive. Despite these intense attacks, the Champions do not give up easily. Ultimately, [[Kelarac]] dispatched them to save [[Calder]].}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Champions]] were attacked by [[Alchemists|alchemists]] using gas, [[darts]], traps, and adhesive.<ref name="ee-sea-03-of-kings-and-killers-c7">''Of Kings and Killers'', chapter 7</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Champions]] were attacked by [[Alchemists|alchemists]] using gas, darts, traps, and adhesive.<ref name="ee-sea-03-of-kings-and-killers-c7">''Of Kings and Killers'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Champions]] do not give up easily.<ref name="ee-sea-03-of-kings-and-killers-c7" />}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[Champions]] are individuals built for battle.<ref name="ee-sea-03-of-kings-and-killers-c13">''Of Kings and Killers'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|The [[Champions]] are warriors belonging to [[Calder]].<ref name="ee-sea-03-of-kings-and-killers-c13" />}}</li>

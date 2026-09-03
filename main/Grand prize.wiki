@@ -8,7 +8,7 @@
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|The [[tournament]] winner is granted one request from the collected [[Monarchs]].<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The tournament winner is granted one request from the collected [[Monarchs]].<ref name="cradle-08-wintersteel-c25">''Wintersteel'', chapter 25</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|There is an additional [[grand prize]] this year that is not in [[Northstrider]]'s power to assign.<ref name="cradle-08-wintersteel-c25" />}}</li>
 </ul></div>
 

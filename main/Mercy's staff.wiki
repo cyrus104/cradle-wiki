@@ -6,13 +6,13 @@
 == Skysworn ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-04-skysworn|[[Mercy's staff]] has a [[dragon]]'s head that snarls and has violet lights for eyes.<ref name="cradle-04-skysworn-c15">''Skysworn'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Mercy's staff]] has a dragon's head that snarls and has violet lights for eyes.<ref name="cradle-04-skysworn-c15">''Skysworn'', chapter 15</ref>}}</li>
 </ul></div>
 
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|[[Mercy]] has a staff made of polished black roots with a [[dragon]] head top.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Mercy]] has a staff made of polished black roots with a dragon head top.<ref name="cradle-05-ghostwater-c2">''Ghostwater'', chapter 2</ref>}}</li>
 </ul></div>
 
 == Underlord ==

@@ -6,7 +6,7 @@
 ''See also: [[Forger technique Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|A [[Forger]] [[technique]] is a method of manipulating [[madra]] to give it physical form or create complex illusions. This discipline involves weaving [[madra]] into specific patterns and rhythms to manifest [[constructs]], which can range from simple tools like [[needles]] or [[scales]] to massive objects such as hammers, walls, and even weapons. While some [[Forged]] [[constructs]] are solid enough to interact with the physical world, others—particularly those associated with the [[Path of the White Fox]]—are illusions made of light and [[dreams]] that lack substance but can mimic reality with extreme precision. [[Forging]] is often used for defensive purposes, such as creating shields or disguises, but it can also be applied offensively to duplicate weapons, enlarge existing arms, or manifest elemental attacks like claws and projectiles. Advanced users can layer [[Forger techniques]] with [[Enforcer]] or [[Striker]] disciplines to create more potent, multi-faceted effects. However, the process is demanding; creating stable and dense [[constructs]] requires intense concentration and can strain a practitioner's [[madra channels]], potentially causing permanent damage if overused. The [[technique]] is also a fundamental skill for [[Soulsmiths]], who use [[Forging]] to create functional shells around [[binding|bindings]] or to manipulate [[dead matter]] and [[Remnants]].}}
+{{spoiler|book=cradle-12-waybound|A [[Forger]] technique is a method of manipulating [[madra]] to give it physical form or create complex illusions. This discipline involves weaving [[madra]] into specific patterns and rhythms to manifest constructs, which can range from simple tools like needles or [[scales]] to massive objects such as hammers, walls, and even weapons. While some [[Forged]] constructs are solid enough to interact with the physical world, others—particularly those associated with the [[Path of the White Fox]]—are illusions made of light and dreams that lack substance but can mimic reality with extreme precision. [[Forging]] is often used for defensive purposes, such as creating shields or disguises, but it can also be applied offensively to duplicate weapons, enlarge existing arms, or manifest elemental attacks like claws and projectiles. Advanced users can layer [[Forger techniques]] with [[Enforcer]] or [[Striker]] disciplines to create more potent, multi-faceted effects. However, the process is demanding; creating stable and dense constructs requires intense concentration and can strain a practitioner's [[madra channels]], potentially causing permanent damage if overused. The technique is also a fundamental skill for [[Soulsmiths]], who use [[Forging]] to create functional shells around [[binding|bindings]] or to manipulate [[dead matter]] and [[Remnants]].}}
 
 == Unsouled ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -17,14 +17,14 @@
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|[[Forging]] is a type of [[technique]] where [[madra]] stays solid for a few seconds before dissipating.<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Forging]] is a type of technique where [[madra]] stays solid for a few seconds before dissipating.<ref name="cradle-02-soulsmith-c15">''Soulsmith'', chapter 15</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|[[Lindon]] was struck by a [[Highgold]]'s [[Forger technique]].<ref name="cradle-02-soulsmith-c20">''Soulsmith'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|[[Jai Daishou]] uses a [[Forger technique]] to create [[needles]].<ref name="cradle-03-blackflame-c20">''Blackflame'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Jai Daishou]] uses a [[Forger technique]] to create needles.<ref name="cradle-03-blackflame-c20">''Blackflame'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Skysworn ==
@@ -36,7 +36,7 @@
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|The [[Forger technique]] used by the [[old woman]] contains a life-[[poison]].<ref name="cradle-05-ghostwater-c1">''Ghostwater'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Forger technique]] used by the [[old woman]] contains a life-poison.<ref name="cradle-05-ghostwater-c1">''Ghostwater'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Ekerinatoth]] uses a whip-like [[Forger technique]].<ref name="cradle-05-ghostwater-c10">''Ghostwater'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Eithan]] uses a [[Forger technique]] to forge stars of [[pure madra]] in the air.<ref name="cradle-05-ghostwater-c14">''Ghostwater'', chapter 14</ref>}}</li>
 </ul></div>
@@ -61,7 +61,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The attackers use [[Forger techniques]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Forger techniques]] were used by enemies during the battle.<ref name="cradle-08-wintersteel-c19">''Wintersteel'', chapter 19</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|A [[fragment]] of a broken [[Forger technique]] left behind pale [[light madra]].<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|A fragment of a broken [[Forger technique]] left behind pale [[light madra]].<ref name="cradle-08-wintersteel-c28">''Wintersteel'', chapter 28</ref>}}</li>
 </ul></div>
 
 == Bloodline ==
@@ -74,7 +74,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-10-reaper|The [[Forger technique]] summons a massive beast claw constructed from bloody [[madra]].<ref name="cradle-10-reaper-c13">''Reaper'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-10-reaper|A [[Forger technique]] was used to launch a [[blood madra]] [[spirit]].<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-10-reaper|A [[Forger technique]] was used to launch a [[blood madra]] spirit.<ref name="cradle-10-reaper-c23">''Reaper'', chapter 23</ref>}}</li>
 </ul></div>
 
 == Dreadgod ==

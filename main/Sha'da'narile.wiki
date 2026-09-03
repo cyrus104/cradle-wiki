@@ -9,7 +9,7 @@
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|[[sha'da'narile]] are creatures that are good for nothing but pointing at a target and setting it loose.<ref name="tg-03-city-of-light-c3">''City of Light'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|sha'da'narile are creatures that are good for nothing but pointing at a target and setting it loose.<ref name="tg-03-city-of-light-c3">''City of Light'', chapter 3</ref>}}</li>
 </ul></div>
 
 == Notes ==

@@ -33,7 +33,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[The Way]] shone through once the barrier lifted.<ref name="cradle-06-underlord-c1">''Underlord'', chapter 1</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[The Way]] does not make a [[Judge]] strong.<ref name="cradle-06-underlord-c1" />}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[The Way]] does not make a Judge strong.<ref name="cradle-06-underlord-c1" />}}</li>
 </ul></div>
 
 == Wintersteel ==

@@ -8,7 +8,7 @@
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|The [[drone bay]] is a wide-open space for [[drone]] assembly and deployment.<ref name="lh-01-the-captain-c29">''The Captain'', chapter 29</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The [[drone bay]] is a wide-open space for drone assembly and deployment.<ref name="lh-01-the-captain-c29">''The Captain'', chapter 29</ref>}}</li>
 </ul></div>
 
 == Notes ==

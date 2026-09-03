@@ -22,7 +22,7 @@
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|[[Seijan]] is a [[sword]] used by [[Andra Agnos|Andra]].<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Seijan]] is a sword used by [[Andra Agnos|Andra]].<ref name="tg-03-city-of-light-c14">''City of Light'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Seijan]] is a short blade speckled with ink.<ref name="tg-03-city-of-light-c21">''City of Light'', chapter 21</ref>}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|[[Seijan]] is a [[Dragon's Fang]].<ref name="tg-03-city-of-light-c24">''City of Light'', chapter 24</ref>}}</li>
 </ul></div>

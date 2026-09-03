@@ -4,7 +4,7 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-13-threshold|The [[Path]] of the [[Dawn Oath]] is a specialized set of [[sacred arts]] utilized by [[Ziel of the Wasteland|Ziel]], the [[Archlord]] of the [[Dawnwing Sect]]. This [[Path]] is an offshoot of the [[Rune Queen]] [[Emala]]'s [[Path of Last Oath|Path of the Last Oath]] and consists of only two techniques. A primary component of this [[Path]] is the [[Oathsign]] [[technique]], which allows the user to forge glowing green runes in circular patterns. These [[scripts]] can be used for various defensive purposes, such as creating concentric circles to resist physical force, [[madra]], or specific elemental auras like [[storm aura]]. Additionally, the [[Path]] enables the user to channel power beyond their own [[spirit]], provided they have a sufficient foundation. Because of its defensive capabilities, the [[Path]] is well-suited for a [[Shield Sage]].}}
+{{spoiler|book=cradle-13-threshold|The [[Path]] of the [[Dawn Oath]] is a specialized set of [[sacred arts]] utilized by [[Ziel of the Wasteland|Ziel]], the [[Archlord]] of the [[Dawnwing Sect]]. This [[Path]] is an offshoot of the [[Rune Queen]] [[Emala]]'s [[Path of Last Oath|Path of the Last Oath]] and consists of only two techniques. A primary component of this [[Path]] is the [[Oathsign]] technique, which allows the user to forge glowing green runes in circular patterns. These [[scripts]] can be used for various defensive purposes, such as creating concentric circles to resist physical force, [[madra]], or specific elemental auras like [[storm aura]]. Additionally, the [[Path]] enables the user to channel power beyond their own spirit, provided they have a sufficient foundation. Because of its defensive capabilities, the [[Path]] is well-suited for a [[Shield Sage]].}}
 
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -28,7 +28,7 @@
 == Threshold: Stories from Cradle ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|The [[Path of the Dawn Oath]] allows a user to channel power beyond their own [[spirit]].<ref name="cradle-13-threshold-c11">''Threshold: Stories from Cradle'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|The [[Path of the Dawn Oath]] allows a user to channel power beyond their own spirit.<ref name="cradle-13-threshold-c11">''Threshold: Stories from Cradle'', chapter 11</ref>}}</li>
 </ul></div>
 
 == Notes ==

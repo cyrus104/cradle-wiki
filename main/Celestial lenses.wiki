@@ -7,7 +7,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-04-skysworn|[[Celestial lenses]] are used by [[Judges]] and high-ranking [[Abidan]] to monitor [[Iterations]] from [[Way|the Way]].<ref name="cradle-04-skysworn-c2">''Skysworn'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-04-skysworn|[[Celestial lenses]] display images of the future that look like [[dreams]].<ref name="cradle-04-skysworn-c2" />}}</li>
+<li>{{spoiler|book=cradle-04-skysworn|[[Celestial lenses]] display images of the future that look like dreams.<ref name="cradle-04-skysworn-c2" />}}</li>
 </ul></div>
 
 == Uncrowned ==

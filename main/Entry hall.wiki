@@ -8,7 +8,7 @@
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|The [[entry hall]] contains mirrors, wooden [[sword]] racks, and soft red couches.<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|The [[entry hall]] contains mirrors, wooden sword racks, and soft red couches.<ref name="tg-01-house-of-blades-c13">''House of Blades'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The [[entry hall]] is a scenery visible through the Gate.<ref name="tg-01-house-of-blades-c15">''House of Blades'', chapter 15</ref>}}</li>
 </ul></div>
 

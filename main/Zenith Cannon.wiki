@@ -36,7 +36,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Cannon]] resembles a small multicolored sun with arms like solar flares.<ref name="lh-04-the-pilot-c23">''The Pilot'', chapter 23</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Cannon]] is a weapon that [[Mell D-One-Twenty-Five|Mell]] studied to develop [[drone]] firepower.<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|The [[Zenith Cannon]] is a weapon that [[Mell D-One-Twenty-Five|Mell]] studied to develop drone firepower.<ref name="lh-04-the-pilot-c25">''The Pilot'', chapter 25</ref>}}</li>
 </ul></div>
 
 == Notable quotes ==

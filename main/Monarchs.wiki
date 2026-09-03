@@ -29,7 +29,7 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Monarchs]] are a level of power or entity mentioned by [[Eithan]].<ref name="cradle-06-underlord-c5">''Underlord'', chapter 5</ref>}}</li>
 <li>{{spoiler|book=cradle-06-underlord|[[Eithan]] believes [[Dross]] will eventually tower over [[Monarchs]].<ref name="cradle-06-underlord-c8">''Underlord'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|All current [[Monarchs]] will be in attendance at the upcoming [[tournament]].<ref name="cradle-06-underlord-c13">''Underlord'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|All current [[Monarchs]] will be in attendance at the upcoming tournament.<ref name="cradle-06-underlord-c13">''Underlord'', chapter 13</ref>}}</li>
 </ul></div>
 
 == Uncrowned ==
@@ -101,13 +101,13 @@
 </ul></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|As the kings and queens of the world, these powerful entities possess the strength to fight [[Dreadgods]] but require immense [[willpower]] to combat. They are known to cycle for years at a time and utilize time-warped pocket dimensions, even financing specific operations. During a mythic war, [[Lindon]] challenged the Monarchs, who were hit by [[black dragon's breath]] and sought to deny him time to prepare. While [[Yerin]] has previously faced them down, the Monarchs must ultimately be removed from the world, a goal supported by the [[soul-oath|soul oath]] designed to prevent their rise.}}
+{{spoiler|book=cradle-12-waybound|As the kings and queens of the world, these powerful entities possess the strength to fight [[Dreadgods]] but require immense willpower to combat. They are known to cycle for years at a time and utilize time-warped pocket dimensions, even financing specific operations. During a mythic war, [[Lindon]] challenged the Monarchs, who were hit by [[black dragon's breath]] and sought to deny him time to prepare. While [[Yerin]] has previously faced them down, the Monarchs must ultimately be removed from the world, a goal supported by the [[soul-oath|soul oath]] designed to prevent their rise.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">15</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-12-waybound|The [[Monarchs]] financed the operation.<ref name="cradle-12-waybound-c2">''Waybound'', chapter 2</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|The characters expect to fight among [[Monarchs]] soon.<ref name="cradle-12-waybound-c2" />}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[Monarchs]] are powerful entities that require [[willpower]] to fight.<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[Monarchs]] are powerful entities that require willpower to fight.<ref name="cradle-12-waybound-c3">''Waybound'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Yerin]] has faced down the [[Monarchs]].<ref name="cradle-12-waybound-c3" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Monarchs]] use time-warped pocket dimensions.<ref name="cradle-12-waybound-c7">''Waybound'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Monarchs]] are known to cycle for years at a time.<ref name="cradle-12-waybound-c7" />}}</li>
@@ -125,7 +125,7 @@
 == Threshold: Stories from Cradle ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-13-threshold|[[Monarchs]] award prizes in the [[tournament]].<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-13-threshold|[[Monarchs]] award prizes in the tournament.<ref name="cradle-13-threshold-c1">''Threshold: Stories from Cradle'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-13-threshold|The [[Monarchs]] are watching the events.<ref name="cradle-13-threshold-c1" />}}</li>
 <li>{{spoiler|book=cradle-13-threshold|Combat between [[Monarchs]] can cause [[spatial cracks]].<ref name="cradle-13-threshold-c10">''Threshold: Stories from Cradle'', chapter 10</ref>}}</li>
 </ul></div>

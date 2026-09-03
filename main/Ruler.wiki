@@ -19,7 +19,7 @@
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|[[Ruler]] is a type of [[technique]].<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|[[Ruler]] is a type of technique.<ref name="cradle-03-blackflame-c9">''Blackflame'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Bloodline ==
@@ -33,7 +33,7 @@
 == Dreadgod ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-11-dreadgod|[[Ruler]] is a [[technique]] used by [[Archlord|Archlords]].<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|[[Ruler]] is a technique used by [[Archlord|Archlords]].<ref name="cradle-11-dreadgod-c23">''Dreadgod'', chapter 23</ref>}}</li>
 </ul></div>
 
 == Notes ==

@@ -11,7 +11,7 @@
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|The [[Bloodforged Iron body]] uses the user's [[spirit]] to accelerate the body's ability to restore and protect itself.<ref name="cradle-02-soulsmith-c16">''Soulsmith'', chapter 16</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[Bloodforged Iron body]] uses the user's spirit to accelerate the body's ability to restore and protect itself.<ref name="cradle-02-soulsmith-c16">''Soulsmith'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Bloodforged Iron body]] is something [[Eithan]] has only read about.<ref name="cradle-02-soulsmith-c16" />}}</li>
 <li>{{spoiler|book=cradle-02-soulsmith|The [[Bloodforged Iron body]] is used by [[Sandvipers]] to combat their own toxins.<ref name="cradle-02-soulsmith-c18">''Soulsmith'', chapter 18</ref>}}</li>
 </ul></div>
@@ -44,7 +44,7 @@
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|The [[Bloodforged Iron body]] was meant to protect against [[poison]].<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Bloodforged Iron body]] was meant to protect against poison.<ref name="cradle-05-ghostwater-c9">''Ghostwater'', chapter 9</ref>}}</li>
 <li>{{spoiler|book=cradle-05-ghostwater|[[Lindon]]'s [[Bloodforged Iron body]] takes longer to heal after channeling [[Blackflame]] for too long.<ref name="cradle-05-ghostwater-c9" />}}</li>
 </ul></div>
 

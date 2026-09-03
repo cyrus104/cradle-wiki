@@ -18,7 +18,7 @@
 == The Crimson Vault ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-02-crimson-vault|The [[City of Light]] is the [[scale]] of [[Alin]]'s massive [[Elysian Gate]].<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=tg-02-crimson-vault|The [[City of Light]] is the scale of [[Alin]]'s massive [[Elysian Gate]].<ref name="tg-02-crimson-vault-c24">''The Crimson Vault'', chapter 24</ref>}}</li>
 </ul></div>
 
 == City of Light ==

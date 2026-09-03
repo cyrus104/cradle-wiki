@@ -14,7 +14,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|The [[White Fox boundary formation|White Fox boundary]] is a formation kept in place by seven short banners woven from purple cloth and stitched with white [[Script|script]].<ref name="cradle-02-soulsmith-c3">''Soulsmith'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|When activated, the [[White Fox boundary formation|White Fox boundary]] summons an [[aura]] of light and [[dreams]] to create a cloud of illusions.<ref name="cradle-02-soulsmith-c3" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|When activated, the [[White Fox boundary formation|White Fox boundary]] summons an aura of light and dreams to create a cloud of illusions.<ref name="cradle-02-soulsmith-c3" />}}</li>
 </ul></div>
 
 == Notes ==

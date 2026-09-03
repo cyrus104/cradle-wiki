@@ -6,7 +6,7 @@
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|The [[Furnace]] is a [[technique]] [[Malachi]] uses to hurl orange fireballs.<ref name="tg-01-house-of-blades-c20">''House of Blades'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|The [[Furnace]] is a technique [[Malachi]] uses to hurl orange fireballs.<ref name="tg-01-house-of-blades-c20">''House of Blades'', chapter 20</ref>}}</li>
 <li>{{spoiler|book=tg-01-house-of-blades|The [[Furnace]] can be called upon by waving a brand in a specific pattern.<ref name="tg-01-house-of-blades-c21">''House of Blades'', chapter 21</ref>}}</li>
 </ul></div>
 

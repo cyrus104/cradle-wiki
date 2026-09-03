@@ -7,9 +7,9 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Prince Seishen Kiro|Kiro]] activated the [[Titan’s Blade|Titan's Blade]].<ref name="cradle-06-underlord-c10">''Underlord'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[Prince Seishen Kiro|Kiro]]'s [[sword]] swells with the [[Titan’s Blade|Titan's Blade]].<ref name="cradle-06-underlord-c20">''Underlord'', chapter 20</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|The [[Titan’s Blade|Titan's Blade]] is a [[technique]] that can be infused into a [[sword]].<ref name="cradle-06-underlord-c20" />}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[Titan’s Blade]] is a [[technique]] that can be injected with [[soulfire]] to create a curved gray wall.<ref name="cradle-06-underlord-c20" />}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Prince Seishen Kiro|Kiro]]'s sword swells with the [[Titan’s Blade|Titan's Blade]].<ref name="cradle-06-underlord-c20">''Underlord'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|The [[Titan’s Blade|Titan's Blade]] is a technique that can be infused into a sword.<ref name="cradle-06-underlord-c20" />}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[Titan’s Blade]] is a technique that can be injected with [[soulfire]] to create a curved gray wall.<ref name="cradle-06-underlord-c20" />}}</li>
 </ul></div>
 
 == Notes ==

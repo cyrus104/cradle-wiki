@@ -15,9 +15,9 @@
 == City of Light ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-03-city-of-light|[[Alin's Territory]] contains a city with walls of white [[stone]], gold edges, and silver plating.<ref name="tg-03-city-of-light-c15">''City of Light'', chapter 15</ref>}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|[[Alin's Territory]] features a [[mural]] of a rising sun made out of precious stones.<ref name="tg-03-city-of-light-c15" />}}</li>
-<li>{{spoiler|book=tg-03-city-of-light|[[Alin's Territory]] has tower-tops in various colors including silver, gold, [[ruby]], white, and green.<ref name="tg-03-city-of-light-c15" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Alin's Territory]] contains a city with walls of white stone, gold edges, and silver plating.<ref name="tg-03-city-of-light-c15">''City of Light'', chapter 15</ref>}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Alin's Territory]] features a mural of a rising sun made out of precious stones.<ref name="tg-03-city-of-light-c15" />}}</li>
+<li>{{spoiler|book=tg-03-city-of-light|[[Alin's Territory]] has tower-tops in various colors including silver, gold, ruby, white, and green.<ref name="tg-03-city-of-light-c15" />}}</li>
 <li>{{spoiler|book=tg-03-city-of-light|A column of light like solid lightning rises from [[Alin's Territory]] into the clouds.<ref name="tg-03-city-of-light-c15" />}}</li>
 </ul></div>
 

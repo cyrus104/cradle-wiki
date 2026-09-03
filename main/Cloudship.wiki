@@ -6,7 +6,7 @@
 ''See also: [[cloudship Timeline]]''
 
 == Overview ==
-{{spoiler|book=cradle-12-waybound|Cloudships are various types of aerial vessels used for transportation, combat, and habitation. They operate by utilizing specialized [[scripts]] and [[constructs]] to manipulate [[wind]] and [[cloud madra]], often resting upon a base of shimmering or colored clouds. These ships are fueled by different energy sources, including stored [[madra]] in [[crystal flasks]], ambient [[vital aura]], or powerful [[rainbow madra]]. While some vessels are small, such as lifeboats or simple rafts, others are massive enough to serve as mobile headquarters or passenger ships capable of carrying thousands of people. A specialized, larger-[[scale]] version known as a [[cloud fortress]] functions more like a permanent flying island or mobile base. The technology and speed of these ships vary significantly, ranging from slow-moving caravans that require frequent refueling to high-speed imperial models equipped with propulsion tubes and [[wind]] [[constructs]]. They are used for diverse purposes, including evacuations, traveling to tournaments, and serving as the foundations for entire cities or sects.}}
+{{spoiler|book=cradle-12-waybound|Cloudships are various types of aerial vessels used for transportation, combat, and habitation. They operate by utilizing specialized [[scripts]] and constructs to manipulate wind and [[cloud madra]], often resting upon a base of shimmering or colored clouds. These ships are fueled by different energy sources, including stored [[madra]] in [[crystal flasks]], ambient [[vital aura]], or powerful [[rainbow madra]]. While some vessels are small, such as lifeboats or simple rafts, others are massive enough to serve as mobile headquarters or passenger ships capable of carrying thousands of people. A specialized, larger-scale version known as a [[cloud fortress]] functions more like a permanent flying island or mobile base. The technology and speed of these ships vary significantly, ranging from slow-moving caravans that require frequent refueling to high-speed imperial models equipped with propulsion tubes and wind constructs. They are used for diverse purposes, including evacuations, traveling to tournaments, and serving as the foundations for entire cities or sects.}}
 
 == Underlord ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
@@ -19,14 +19,14 @@
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[Yerin]] and [[Eithan]] use cloudships.<ref name="cradle-07-uncrowned-c8">''Uncrowned'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|The [[cloudship]] was damaged by gold [[black dragon's breath|dragon's breath]].<ref name="cradle-07-uncrowned-c8" />}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|The [[cloudship]] is run by a network of [[scripts]] and [[constructs]].<ref name="cradle-07-uncrowned-c8" />}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[cloudship]] is run by a network of [[scripts]] and constructs.<ref name="cradle-07-uncrowned-c8" />}}</li>
 </ul></div>
 
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-09-bloodline|The [[cloudship]] is fueled partially by ambient [[vital aura]].<ref name="cradle-09-bloodline-c4">''Bloodline'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=cradle-09-bloodline|The [[cloudship]] uses propulsion [[constructs]] and [[scripts]] to move.<ref name="cradle-09-bloodline-c4" />}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|The [[cloudship]] uses propulsion constructs and [[scripts]] to move.<ref name="cradle-09-bloodline-c4" />}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Akura Malice]]'s fist closed around the [[cloudship]].<ref name="cradle-09-bloodline-c17">''Bloodline'', chapter 17</ref>}}</li>
 </ul></div>
 

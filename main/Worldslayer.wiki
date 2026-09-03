@@ -27,7 +27,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-02-the-engineer|[[Worldslayer]] left a scarlet-edged wound in [[Starhammer]]'s chest.<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|Using [[Worldslayer]] risks the [[destruction]] of the user and others on the colony.<ref name="lh-02-the-engineer-c54">''The Engineer'', chapter 54</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|Using [[Worldslayer]] risks the destruction of the user and others on the colony.<ref name="lh-02-the-engineer-c54">''The Engineer'', chapter 54</ref>}}</li>
 </ul></div>
 
 == The Knight ==

@@ -6,15 +6,15 @@
 == The Knight ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-03-the-knight|An [[Archmage]] of [[water elementalism]] has a strong connection to [[water]].<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|Water [[elementalism]] is a form of [[elementalism]].<ref name="lh-03-the-knight-c24">''The Knight'', chapter 24</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|An [[Archmage]] of [[water elementalism]] has a strong connection to water.<ref name="lh-03-the-knight-c9">''The Knight'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|Water elementalism is a form of elementalism.<ref name="lh-03-the-knight-c24">''The Knight'', chapter 24</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|Using [[water elementalism]] results in disqualification.<ref name="lh-03-the-knight-c30">''The Knight'', chapter 30</ref>}}</li>
 </ul></div>
 
 == The Pilot ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-04-the-pilot|Water [[elementalism]] is an offensive magic that the narrator was not using because they were playing defense.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|Water elementalism is an offensive magic that the narrator was not using because they were playing defense.<ref name="lh-04-the-pilot-c26">''The Pilot'', chapter 26</ref>}}</li>
 </ul></div>
 
 == Notes ==

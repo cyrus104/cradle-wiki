@@ -27,7 +27,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-03-the-knight|No more than two [[Zenith Devices]] have been activated at any one time since the [[Zenith Era]].<ref name="lh-03-the-knight-c8">''The Knight'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is described as the full [[armory]] of the [[Zenith Era]].<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=lh-03-the-knight|The [[Zenith Cannon]] is described as the full armory of the [[Zenith Era]].<ref name="lh-03-the-knight-c22">''The Knight'', chapter 22</ref>}}</li>
 <li>{{spoiler|book=lh-03-the-knight|The [[Zenith Era]] produced the greatest magical wards.<ref name="lh-03-the-knight-c39">''The Knight'', chapter 39</ref>}}</li>
 </ul></div>
 

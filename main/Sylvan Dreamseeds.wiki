@@ -9,7 +9,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-05-ghostwater|[[Sylvan Dreamseeds]] are born under the influence of [[dream aura]].<ref name="cradle-05-ghostwater-c12">''Ghostwater'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-05-ghostwater|[[Sylvan Dreamseeds]] are born in areas where the [[library]] and the Well create the right conditions.<ref name="cradle-05-ghostwater-c12" />}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|[[Sylvan Dreamseeds]] are born in areas where the library and the Well create the right conditions.<ref name="cradle-05-ghostwater-c12" />}}</li>
 </ul></div>
 
 == Notes ==

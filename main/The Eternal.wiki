@@ -6,7 +6,7 @@
 ''See also: [[The Eternal Timeline]]''
 
 == Overview ==
-{{spoiler|book=ee-sea-03-of-kings-and-killers|The Eternal is the vessel commanded by [[Cheska Bennett]], the [[Blackwatch Guild Head|Guild Head]] of the Navigators. An Awakened ship, it is constructed from a single, seamless piece of wood that features a burnt reddish-orange hue. The ship is distinguished by its bright red sails and hull, which are decorated with alchemical paint in a matching shade. A notable characteristic of the vessel is its ability to appear as though it is drifting upon a tide of flame, trailing fire across the [[water]]'s surface when traveling at high speeds. Despite its striking and spectacular appearance, the ship suffered a catastrophic failure when it was torn in half by an explosion, resulting in significant wreckage and survivors being rescued by the crew of [[The Testament]].}}
+{{spoiler|book=ee-sea-03-of-kings-and-killers|The Eternal is the vessel commanded by [[Cheska Bennett]], the [[Blackwatch Guild Head|Guild Head]] of the Navigators. An Awakened ship, it is constructed from a single, seamless piece of wood that features a burnt reddish-orange hue. The ship is distinguished by its bright red sails and hull, which are decorated with alchemical paint in a matching shade. A notable characteristic of the vessel is its ability to appear as though it is drifting upon a tide of flame, trailing fire across the water's surface when traveling at high speeds. Despite its striking and spectacular appearance, the ship suffered a catastrophic failure when it was torn in half by an explosion, resulting in significant wreckage and survivors being rescued by the crew of [[The Testament]].}}
 
 == Of Sea and Shadow ==
 {{spoiler|book=ee-sea-01-of-sea-and-shadow|The Eternal is an approaching Awakened ship characterized by its blazing red sails and a wake of fire. This vessel features a main room and was observed waiting a day's trip away from the [[Gray Island]]. During its travels, a single Guard was noted to remain within the ship while paddling.}}
@@ -25,11 +25,11 @@
 == Of Shadow and Sea ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Eternal]] drifts on a tide of flame rather than [[water]].<ref name="ee-shadow-01-of-shadow-and-sea-c20">''Of Shadow and Sea'', chapter 20</ref>}}</li>
+<li>{{spoiler|book=ee-shadow-01-of-shadow-and-sea|[[The Eternal]] drifts on a tide of flame rather than water.<ref name="ee-shadow-01-of-shadow-and-sea-c20">''Of Shadow and Sea'', chapter 20</ref>}}</li>
 </ul></div>
 
 == Of Dawn and Darkness ==
-{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Eternal is a seaworthy vessel that previously served as the site for a meeting between [[Guild Heads]]. While approaching its current location to the port of [[Calder]], the ship faced [[destruction]] when it was ripped to shreds. Although it would sink if dropped by the [[Lyathatan]], the vessel is expected to return to the [[water]].}}
+{{spoiler|book=ee-sea-02-of-dawn-and-darkness|The Eternal is a seaworthy vessel that previously served as the site for a meeting between [[Guild Heads]]. While approaching its current location to the port of [[Calder]], the ship faced destruction when it was ripped to shreds. Although it would sink if dropped by the [[Lyathatan]], the vessel is expected to return to the water.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">7</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -38,7 +38,7 @@
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Eternal]] was ripped to shreds.<ref name="ee-sea-02-of-dawn-and-darkness-c6" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Eternal]] is a ship where a meeting of [[Guild Heads]] had previously occurred.<ref name="ee-sea-02-of-dawn-and-darkness-c8">''Of Dawn and Darkness'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Eternal]] is a vessel that can be seaworthy.<ref name="ee-sea-02-of-dawn-and-darkness-c14">''Of Dawn and Darkness'', chapter 14</ref>}}</li>
-<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Eternal]] is expected to return to the [[water]].<ref name="ee-sea-02-of-dawn-and-darkness-c14" />}}</li>
+<li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Eternal]] is expected to return to the water.<ref name="ee-sea-02-of-dawn-and-darkness-c14" />}}</li>
 <li>{{spoiler|book=ee-sea-02-of-dawn-and-darkness|[[The Eternal]] is a ship located to the port of [[Calder]]'s position.<ref name="ee-sea-02-of-dawn-and-darkness-c20">''Of Dawn and Darkness'', chapter 20</ref>}}</li>
 </ul></div>
 
@@ -51,7 +51,7 @@
 == Of Kings and Killers ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Eternal]] is a ship that burns [[water]].<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
+<li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Eternal]] is a ship that burns water.<ref name="ee-sea-03-of-kings-and-killers-c23">''Of Kings and Killers'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=ee-sea-03-of-kings-and-killers|[[The Eternal]] is [[Cheska Bennett|Cheska]]'s ship.<ref name="ee-sea-03-of-kings-and-killers-c24">''Of Kings and Killers'', chapter 24</ref>}}</li>
 </ul></div>
 

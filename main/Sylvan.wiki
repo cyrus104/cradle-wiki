@@ -5,13 +5,13 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-05-ghostwater|A Sylvan is a type of natural [[spirit]] formed from the accumulation of [[vital aura]] in environments where that energy is exceptionally powerful and perfectly balanced. Unlike [[Remnants]], which result from the passing of a [[sacred artist]], Sylvans are born naturally. Different types of Sylvans exist depending on the specific [[aspects]] of the local [[aura]]; for example, [[Dreamseeds]] emerge from areas influenced by [[dream aura]]. A specific variety known as the [[Sylvan Riverseed]] is characterized by its gentle and versatile nature, possessing a [[water]]-like aspect. These spirits appear as tiny, finger-sized humanoid figures composed of flowing blue waves or [[madra]] that mimics [[water]]. [[Riverseeds]] are capable of supporting and supplementing various types of power, making them useful for balancing opposing forces, such as the corrosive nature of [[Blackflame]]. They exhibit curious, social, and expressive behaviors, communicating through sounds resembling musical instruments like flutes, bells, or [[wind]] chimes. They can be nourished with [[madra]] or [[scales]] to increase their solidity and color, which ranges from a pale, translucent state to a deeper blue.}}
+{{spoiler|book=cradle-05-ghostwater|A Sylvan is a type of natural spirit formed from the accumulation of [[vital aura]] in environments where that energy is exceptionally powerful and perfectly balanced. Unlike [[Remnants]], which result from the passing of a [[sacred artist]], Sylvans are born naturally. Different types of Sylvans exist depending on the specific aspects of the local aura; for example, [[Dreamseeds]] emerge from areas influenced by [[dream aura]]. A specific variety known as the [[Sylvan Riverseed]] is characterized by its gentle and versatile nature, possessing a water-like aspect. These spirits appear as tiny, finger-sized humanoid figures composed of flowing blue waves or [[madra]] that mimics water. [[Riverseeds]] are capable of supporting and supplementing various types of power, making them useful for balancing opposing forces, such as the corrosive nature of [[Blackflame]]. They exhibit curious, social, and expressive behaviors, communicating through sounds resembling musical instruments like flutes, bells, or wind chimes. They can be nourished with [[madra]] or [[scales]] to increase their solidity and color, which ranges from a pale, translucent state to a deeper blue.}}
 
 == Appearance ==
-{{spoiler|book=cradle-05-ghostwater|This tiny [[spirit]] possesses a translucent blue form. Flowing [[madra]] in her lower half creates the appearance of a dress.}}
+{{spoiler|book=cradle-05-ghostwater|This tiny spirit possesses a translucent blue form. Flowing [[madra]] in her lower half creates the appearance of a dress.}}
 
 == Personality ==
-{{spoiler|book=cradle-05-ghostwater|The Sylvan is a [[spirit]] who has only ever interacted with [[Lindon]].}}
+{{spoiler|book=cradle-05-ghostwater|The Sylvan is a spirit who has only ever interacted with [[Lindon]].}}
 
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
@@ -23,9 +23,9 @@
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|The [[Sylvan]] is a [[spirit]] that has only ever interacted with [[Lindon]].<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Sylvan]] is a spirit that has only ever interacted with [[Lindon]].<ref name="cradle-03-blackflame-c14">''Blackflame'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=cradle-03-blackflame|Sylvans can smell an unwelcome guest.<ref name="cradle-03-blackflame-c14" />}}</li>
-<li>{{spoiler|book=cradle-03-blackflame|A [[Sylvan]] is a tiny [[spirit]].<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|A [[Sylvan]] is a tiny spirit.<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Ghostwater ==

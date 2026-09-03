@@ -8,7 +8,7 @@
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|The narrator uses a [[console]] strapped to their left forearm for transmission.<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|The narrator uses a console strapped to their left forearm for transmission.<ref name="lh-01-the-captain-c1">''The Captain'', chapter 1</ref>}}</li>
 </ul></div>
 
 == The Pilot ==

@@ -9,7 +9,7 @@
 == The Captain ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-01-the-captain|[[Cinnal]] is an [[Aether Technician]] who requested a [[wizard]] to recover abyssal [[Iron|iron]].<ref name="lh-01-the-captain-c5">''The Captain'', chapter 5</ref>}}</li>
+<li>{{spoiler|book=lh-01-the-captain|[[Cinnal]] is an [[Aether Technician]] who requested a wizard to recover abyssal [[Iron|iron]].<ref name="lh-01-the-captain-c5">''The Captain'', chapter 5</ref>}}</li>
 </ul></div>
 
 == Notes ==

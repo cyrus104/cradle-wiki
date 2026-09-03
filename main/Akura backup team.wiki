@@ -7,7 +7,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|The [[Akura backup team]] is led by [[Akura Grace]].<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|The [[Akura backup team]] has [[constructs]] that can detect [[Lindon's construct]] signature.<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|The [[Akura backup team]] has constructs that can detect [[Lindon's construct]] signature.<ref name="cradle-07-uncrowned-c13">''Uncrowned'', chapter 13</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|None of the [[Akura backup team]] made it out of the second round.<ref name="cradle-07-uncrowned-c15">''Uncrowned'', chapter 15</ref>}}</li>
 </ul></div>
 

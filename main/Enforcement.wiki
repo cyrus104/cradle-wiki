@@ -4,13 +4,13 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-07-uncrowned|Enforcement refers to a method of utilizing [[madra]] to enhance a person's physical capabilities. Practitioners use various [[Enforcer techniques]] to achieve different combat or movement effects. The most common form is the full-body [[technique]], which strengthens the entire user; while versatile and capable of radiating light or external markings, it is often less specialized than other methods. Some users employ more focused attack techniques that concentrate power into a single strike, such as a [[sword]] slash or palm-strike. While these specialized attacks are more powerful than full-body versions, they can be clunkier and leave the user vulnerable to retaliation. Other specialized techniques may focus on specific attributes like speed or movement, such as leaps that close distances quickly. Basic enforcement involves pouring [[madra]] into the body to provide a general strengthening effect, though this is considered inefficient compared to dedicated techniques. Using these techniques can be physically taxing; for instance, some methods may cause intense heat that feels as though it is burning the user's muscles and bones.}}
+{{spoiler|book=cradle-07-uncrowned|Enforcement refers to a method of utilizing [[madra]] to enhance a person's physical capabilities. Practitioners use various [[Enforcer techniques]] to achieve different combat or movement effects. The most common form is the full-body technique, which strengthens the entire user; while versatile and capable of radiating light or external markings, it is often less specialized than other methods. Some users employ more focused attack techniques that concentrate power into a single strike, such as a sword slash or palm-strike. While these specialized attacks are more powerful than full-body versions, they can be clunkier and leave the user vulnerable to retaliation. Other specialized techniques may focus on specific attributes like speed or movement, such as leaps that close distances quickly. Basic enforcement involves pouring [[madra]] into the body to provide a general strengthening effect, though this is considered inefficient compared to dedicated techniques. Using these techniques can be physically taxing; for instance, some methods may cause intense heat that feels as though it is burning the user's muscles and bones.}}
 
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-02-soulsmith|[[Enforcement]] is a specialization used to pierce armor.<ref name="cradle-02-soulsmith-c3">''Soulsmith'', chapter 3</ref>}}</li>
-<li>{{spoiler|book=cradle-02-soulsmith|[[Enforcement]] is a basic [[technique]] used to strengthen the whole body with [[madra]].<ref name="cradle-02-soulsmith-c3" />}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|[[Enforcement]] is a basic technique used to strengthen the whole body with [[madra]].<ref name="cradle-02-soulsmith-c3" />}}</li>
 </ul></div>
 
 == Skysworn ==

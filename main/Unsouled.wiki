@@ -10,11 +10,11 @@
 {{spoiler|book=cradle-13-threshold|An Unsouled is a person considered to be a cripple due to a perceived deformity or weakness in their soul. This condition prevents them from practicing [[sacred arts]], which in turn restricts their ability to engage in combat or travel. Because they cannot rise in status through traditional means, they are often viewed as having no honor to lose and may be treated with disdain or seen as a burden by their clans. In some cultures, such as [[Sacred Valley]], being Unsouled can lead to social isolation and a lack of protection. While they are generally unable to use most spiritual techniques, they may still possess the ability to utilize basic [[madra]] or power specific [[scripts]]. Some individuals may also choose to destroy their own cores as a defensive measure, resulting in an Unsouled state.}}
 
 == Unsouled ==
-{{spoiler|book=cradle-01-unsouled|The term Unsouled describes an individual who lacks any affinity to their [[spirit]] and possesses no [[madra]]. Within the hierarchy of power, being Unsouled represents a specific rank or type of practitioner at the [[Foundation]] stage. Due to their perceived deformity, these individuals are forbidden from practicing [[sacred arts]] or marrying to prevent passing their condition to offspring. Despite these limitations, an Unsouled can still rise in power by utilizing the resources of a prestigious school of [[sacred arts]]. This designation is used by [[Wei Mon Keth|Keth]] to address [[Lindon]], characterizing him as someone who began his journey two steps behind others.}}
+{{spoiler|book=cradle-01-unsouled|The term Unsouled describes an individual who lacks any affinity to their spirit and possesses no [[madra]]. Within the hierarchy of power, being Unsouled represents a specific rank or type of practitioner at the [[Foundation]] stage. Due to their perceived deformity, these individuals are forbidden from practicing [[sacred arts]] or marrying to prevent passing their condition to offspring. Despite these limitations, an Unsouled can still rise in power by utilizing the resources of a prestigious school of [[sacred arts]]. This designation is used by [[Wei Mon Keth|Keth]] to address [[Lindon]], characterizing him as someone who began his journey two steps behind others.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">9</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-01-unsouled|[[Unsouled]] is a term used to describe an individual who has no affinity to their [[spirit]].<ref name="cradle-01-unsouled-c1">''Unsouled'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-01-unsouled|[[Unsouled]] is a term used to describe an individual who has no affinity to their spirit.<ref name="cradle-01-unsouled-c1">''Unsouled'', chapter 1</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|An [[Unsouled]] at the [[Foundation]] stage is a level of power.<ref name="cradle-01-unsouled-c3">''Unsouled'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|An [[Unsouled]] cannot practice [[sacred arts]] and may never have a family of his own to avoid passing on their deformity.<ref name="cradle-01-unsouled-c4">''Unsouled'', chapter 4</ref>}}</li>
 <li>{{spoiler|book=cradle-01-unsouled|The term [[Unsouled]] is used by [[Wei Mon Keth|Keth]] to address [[Lindon]].<ref name="cradle-01-unsouled-c5">''Unsouled'', chapter 5</ref>}}</li>
@@ -55,7 +55,7 @@
 == Bloodline ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-09-bloodline|An [[Unsouled]] can wear a badge made from [[wintersteel]].<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=cradle-09-bloodline|An [[Unsouled]] can wear a badge made from wintersteel.<ref name="cradle-09-bloodline-c6">''Bloodline'', chapter 6</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Unsouled]] is a symbol in the old language.<ref name="cradle-09-bloodline-c7">''Bloodline'', chapter 7</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Unsouled]] is a title used to address [[Lindon]].<ref name="cradle-09-bloodline-c11">''Bloodline'', chapter 11</ref>}}</li>
 <li>{{spoiler|book=cradle-09-bloodline|[[Elders]] tend not to meet with [[Unsouled]].<ref name="cradle-09-bloodline-c11" />}}</li>

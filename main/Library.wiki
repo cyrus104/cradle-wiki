@@ -8,8 +8,8 @@
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|The door to the [[library]] unlocks once the [[skeleton]] in the basement is mastered.<ref name="tg-01-house-of-blades-c8">''House of Blades'', chapter 8</ref>}}</li>
-<li>{{spoiler|book=tg-01-house-of-blades|The [[library]] is a round, towering room filled with books and scrolls.<ref name="tg-01-house-of-blades-c10">''House of Blades'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|The door to the library unlocks once the skeleton in the basement is mastered.<ref name="tg-01-house-of-blades-c8">''House of Blades'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|The library is a round, towering room filled with books and scrolls.<ref name="tg-01-house-of-blades-c10">''House of Blades'', chapter 10</ref>}}</li>
 </ul></div>
 
 == Notes ==

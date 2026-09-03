@@ -30,7 +30,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-06-underlord|[[Del'rek]] joined the [[The Eight-Man Empire|Eight-Man Empire]].<ref name="cradle-06-underlord-c12">''Underlord'', chapter 12</ref>}}</li>
-<li>{{spoiler|book=cradle-06-underlord|[[The Eight-Man Empire]] calls up would-be squires from their territory for the [[tournament]].<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-06-underlord|[[The Eight-Man Empire]] calls up would-be squires from their territory for the tournament.<ref name="cradle-06-underlord-c22">''Underlord'', chapter 22</ref>}}</li>
 </ul></div>
 
 == Uncrowned ==
@@ -47,7 +47,7 @@
 </ul></div>
 
 == Wintersteel ==
-{{spoiler|book=cradle-08-wintersteel|The [[Eight]]-Man Empire is a collective of wandering conquerors and a singular [[Monarch]], composed of individual [[Sages]] or [[Heralds]] clad in golden armor. These founding members crafted their eight suits of gold to serve as [[Divine Treasure|Divine Treasures]] that link their wills together. After emerging from a door, the group sought an excuse to intervene in local conflicts, expressing a willingness to support [[Mercy]]'s mother should she emerge victorious. While they are not known for meticulous attention to detail, they provided [[Sopharanatoth|Sophara]] with a [[Tear of the Deep]] and granted [[Yerin]] mental enhancement after she absorbed one of their thought [[constructs]]. Despite their power, [[Kiuran]] suggested that [[Yerin]] possessed the potential to kill the entire empire.}}
+{{spoiler|book=cradle-08-wintersteel|The [[Eight]]-Man Empire is a collective of wandering conquerors and a singular [[Monarch]], composed of individual [[Sages]] or [[Heralds]] clad in golden armor. These founding members crafted their eight suits of gold to serve as [[Divine Treasure|Divine Treasures]] that link their wills together. After emerging from a door, the group sought an excuse to intervene in local conflicts, expressing a willingness to support [[Mercy]]'s mother should she emerge victorious. While they are not known for meticulous attention to detail, they provided [[Sopharanatoth|Sophara]] with a [[Tear of the Deep]] and granted [[Yerin]] mental enhancement after she absorbed one of their thought constructs. Despite their power, [[Kiuran]] suggested that [[Yerin]] possessed the potential to kill the entire empire.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">11</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -87,7 +87,7 @@
 </ul></div>
 
 == Waybound ==
-{{spoiler|book=cradle-12-waybound|After being addressed by [[Larian]], the [[Eight]]-Man Empire saw its numbers dwindle to only six members before they eventually vanished. Upon their return, the group engaged in spear training and was studied by [[Reigan Shen|Reigan]], who researched their armor to design a specific collar. The empire later fought to hold back the [[dragons|Dragon]] for [[Emriss Silentborn|Emriss]]'s sake and aligned themselves with [[Lindon]]. During an assault on the [[Bleeding Phoenix]], they utilized the power of all [[aspects]], with [[Larian]] and [[Del'rek|Del’rek]] serving as their representatives.}}
+{{spoiler|book=cradle-12-waybound|After being addressed by [[Larian]], the [[Eight]]-Man Empire saw its numbers dwindle to only six members before they eventually vanished. Upon their return, the group engaged in spear training and was studied by [[Reigan Shen|Reigan]], who researched their armor to design a specific collar. The empire later fought to hold back the [[dragons|Dragon]] for [[Emriss Silentborn|Emriss]]'s sake and aligned themselves with [[Lindon]]. During an assault on the [[Bleeding Phoenix]], they utilized the power of all aspects, with [[Larian]] and [[Del'rek|Del’rek]] serving as their representatives.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
@@ -99,7 +99,7 @@
 <li>{{spoiler|book=cradle-12-waybound|[[The Eight-Man Empire]] held back the [[dragons|Dragon]] for [[Emriss Silentborn|Emriss]].<ref name="cradle-12-waybound-c23">''Waybound'', chapter 23</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[The Eight-Man Empire]] is on [[Lindon]]'s side.<ref name="cradle-12-waybound-c29">''Waybound'', chapter 29</ref>}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[The Eight-Man Empire]] assaulted the [[Bleeding Phoenix]].<ref name="cradle-12-waybound-c30">''Waybound'', chapter 30</ref>}}</li>
-<li>{{spoiler|book=cradle-12-waybound|[[The Eight-Man Empire]] used power of all [[aspects]].<ref name="cradle-12-waybound-c30" />}}</li>
+<li>{{spoiler|book=cradle-12-waybound|[[The Eight-Man Empire]] used power of all aspects.<ref name="cradle-12-waybound-c30" />}}</li>
 <li>{{spoiler|book=cradle-12-waybound|[[Larian]] and [[Del'rek|Del’rek]] represent the [[The Eight-Man Empire|Eight-Man Empire]].<ref name="cradle-12-waybound-c33">''Waybound'', chapter 33</ref>}}</li>
 </ul></div>
 

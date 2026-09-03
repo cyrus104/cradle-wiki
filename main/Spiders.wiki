@@ -6,7 +6,7 @@
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-02-soulsmith|The [[spiders]] are [[constructs]] that look like they were assembled from [[Remnant]] pieces.<ref name="cradle-02-soulsmith-c9">''Soulsmith'', chapter 9</ref>}}</li>
+<li>{{spoiler|book=cradle-02-soulsmith|The [[spiders]] are constructs that look like they were assembled from [[Remnant]] pieces.<ref name="cradle-02-soulsmith-c9">''Soulsmith'', chapter 9</ref>}}</li>
 </ul></div>
 
 == Bloodline ==

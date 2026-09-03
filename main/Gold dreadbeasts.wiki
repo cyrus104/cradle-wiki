@@ -11,7 +11,7 @@
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|[[Gold dreadbeasts]] are attacking a [[fortress]].<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|[[Gold dreadbeasts]] are attacking a fortress.<ref name="cradle-08-wintersteel-c10">''Wintersteel'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|[[Gold dreadbeasts|Truegold dreadbeasts]] can be sliced in half by an [[Archlord]] [[flying sword]].<ref name="cradle-08-wintersteel-c10" />}}</li>
 </ul></div>
 

@@ -8,7 +8,7 @@
 == The Engineer ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|The [[Nebula Runners' ship]] has a cargo bay escape [[pod]].<ref name="lh-02-the-engineer-c11">''The Engineer'', chapter 11</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Nebula Runners' ship]] has a cargo bay escape pod.<ref name="lh-02-the-engineer-c11">''The Engineer'', chapter 11</ref>}}</li>
 </ul></div>
 
 == Notes ==

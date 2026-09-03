@@ -11,8 +11,8 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">4</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|The [[high priest]] earned his rank earlier than his [[advancement]].<ref name="cradle-08-wintersteel-c13">''Wintersteel'', chapter 13</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[high priest]] uses a shield with a venomous [[aura]].<ref name="cradle-08-wintersteel-c13" />}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|The [[high priest]] uses a long [[stone]] staff that is more than an [[Underlord weapon]].<ref name="cradle-08-wintersteel-c13" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[high priest]] uses a shield with a venomous aura.<ref name="cradle-08-wintersteel-c13" />}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The [[high priest]] uses a long stone staff that is more than an [[Underlord weapon]].<ref name="cradle-08-wintersteel-c13" />}}</li>
 <li>{{spoiler|book=cradle-08-wintersteel|The [[high priest]] uses a [[Dreadgod]] [[Enforcer technique]].<ref name="cradle-08-wintersteel-c13" />}}</li>
 </ul></div>
 

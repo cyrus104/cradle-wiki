@@ -31,7 +31,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-07-uncrowned|[[force madra|Force madra]] rushed through [[Lindon's Remnant arm]].<ref name="cradle-07-uncrowned-c6">''Uncrowned'', chapter 6</ref>}}</li>
-<li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] has a [[Lindon's skeletal Remnant arm|Remnant arm]] that twitches with disorder in his [[spirit]].<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
+<li>{{spoiler|book=cradle-07-uncrowned|[[Lindon]] has a [[Lindon's skeletal Remnant arm|Remnant arm]] that twitches with disorder in his spirit.<ref name="cradle-07-uncrowned-c10">''Uncrowned'', chapter 10</ref>}}</li>
 <li>{{spoiler|book=cradle-07-uncrowned|[[Lindon's Remnant arm]] is a limb that can consume spiritual energy.<ref name="cradle-07-uncrowned-c20">''Uncrowned'', chapter 20</ref>}}</li>
 </ul></div>
 

@@ -17,13 +17,13 @@
 == Blackflame ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-03-blackflame|The [[Steelborn body|Steelborn Iron body]] is a type of body [[Enforcement]] [[technique]].<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
+<li>{{spoiler|book=cradle-03-blackflame|The [[Steelborn body|Steelborn Iron body]] is a type of body [[Enforcement]] technique.<ref name="cradle-03-blackflame-c19">''Blackflame'', chapter 19</ref>}}</li>
 </ul></div>
 
 == Ghostwater ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-05-ghostwater|The [[Steelborn body|Steelborn Iron body]] is a [[technique]] [[Yerin]] draws on.<ref name="cradle-05-ghostwater-c17">''Ghostwater'', chapter 17</ref>}}</li>
+<li>{{spoiler|book=cradle-05-ghostwater|The [[Steelborn body|Steelborn Iron body]] is a technique [[Yerin]] draws on.<ref name="cradle-05-ghostwater-c17">''Ghostwater'', chapter 17</ref>}}</li>
 </ul></div>
 
 == Underlord ==
@@ -44,7 +44,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-08-wintersteel|[[Yerin]] uses her [[Steelborn body|Steelborn Iron body]] to kick off with great power.<ref name="cradle-08-wintersteel-c17">''Wintersteel'', chapter 17</ref>}}</li>
-<li>{{spoiler|book=cradle-08-wintersteel|[[Ruby]] developed a copy of [[Yerin]]'s [[Steelborn body|Steelborn Iron body]].<ref name="cradle-08-wintersteel-c22">''Wintersteel'', chapter 22</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|Ruby developed a copy of [[Yerin]]'s [[Steelborn body|Steelborn Iron body]].<ref name="cradle-08-wintersteel-c22">''Wintersteel'', chapter 22</ref>}}</li>
 </ul></div>
 
 == Reaper ==

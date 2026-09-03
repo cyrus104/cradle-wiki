@@ -17,13 +17,13 @@
 </ul></div>
 
 == The Pilot ==
-{{spoiler|book=lh-04-the-pilot|As a sub-discipline of [[binding]] and sealing, contract magic serves several critical functions within the narrative. It acts as a safeguard that prevents the interrogation of [[Solstice]] recruits and restricts [[Omega]] from entering the secure [[vault]]. Furthermore, this magic is utilized to facilitate the crew's specific assignment and remains subject to inspection.}}
+{{spoiler|book=lh-04-the-pilot|As a sub-discipline of [[binding]] and sealing, contract magic serves several critical functions within the narrative. It acts as a safeguard that prevents the interrogation of [[Solstice]] recruits and restricts [[Omega]] from entering the secure vault. Furthermore, this magic is utilized to facilitate the crew's specific assignment and remains subject to inspection.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">5</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=lh-04-the-pilot|[[contract magic|Contract magic]] prevents the interrogation of [[Solstice]] recruits.<ref name="lh-04-the-pilot-c3">''The Pilot'', chapter 3</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[contract magic|Contract magic]] is a sub-discipline of [[binding]] and sealing.<ref name="lh-04-the-pilot-c4">''The Pilot'', chapter 4</ref>}}</li>
-<li>{{spoiler|book=lh-04-the-pilot|[[contract magic|Contract magic]] prevents [[Omega]] from entering the secure [[vault]].<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-04-the-pilot|[[contract magic|Contract magic]] prevents [[Omega]] from entering the secure vault.<ref name="lh-04-the-pilot-c8">''The Pilot'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[contract magic|Contract magic]] is involved in the crew's assignment.<ref name="lh-04-the-pilot-c18">''The Pilot'', chapter 18</ref>}}</li>
 <li>{{spoiler|book=lh-04-the-pilot|[[contract magic|Contract magic]] can be inspected.<ref name="lh-04-the-pilot-c24">''The Pilot'', chapter 24</ref>}}</li>
 </ul></div>

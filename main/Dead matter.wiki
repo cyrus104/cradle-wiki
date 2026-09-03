@@ -4,7 +4,7 @@
 }}
 
 == Overview ==
-{{spoiler|book=cradle-08-wintersteel|Dead matter refers to the physical remains and severed body parts of a destroyed [[Remnant]]. These materials are utilized by [[Soulsmiths]] as the most basic components for creating [[constructs]], serving primarily for their physical properties rather than their spiritual essence. Depending on the source, dead matter can take various forms, such as bones, shells, or limbs, and may appear in different colors like white, gray, or multicolored. Because of its volatile nature, dead matter requires specialized handling; some types must be kept chilled, wrapped in specific cloths to prevent dissolution, or manipulated using [[Goldsteel|goldsteel]] tools. Certain materials are extremely dangerous, such as the remains of a [[Sandviper Remnant]] which can burn through living flesh. The properties of dead matter vary significantly based on its origin, ranging from mundane components used in simple [[constructs]] to highly valuable materials of [[pure madra]] used in [[Divine Treasure|Divine Treasures]]. It can also be combined with other elements, such as [[Blackflame]], to alter its fundamental nature.}}
+{{spoiler|book=cradle-08-wintersteel|Dead matter refers to the physical remains and severed body parts of a destroyed [[Remnant]]. These materials are utilized by [[Soulsmiths]] as the most basic components for creating constructs, serving primarily for their physical properties rather than their spiritual essence. Depending on the source, dead matter can take various forms, such as bones, shells, or limbs, and may appear in different colors like white, gray, or multicolored. Because of its volatile nature, dead matter requires specialized handling; some types must be kept chilled, wrapped in specific cloths to prevent dissolution, or manipulated using [[Goldsteel|goldsteel]] tools. Certain materials are extremely dangerous, such as the remains of a [[Sandviper Remnant]] which can burn through living flesh. The properties of dead matter vary significantly based on its origin, ranging from mundane components used in simple constructs to highly valuable materials of [[pure madra]] used in [[Divine Treasure|Divine Treasures]]. It can also be combined with other elements, such as [[Blackflame]], to alter its fundamental nature.}}
 
 == Soulsmith ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">3</span></div>
@@ -23,7 +23,7 @@
 == Wintersteel ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=cradle-08-wintersteel|The training [[dummy]] is made entirely of [[dead matter]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
+<li>{{spoiler|book=cradle-08-wintersteel|The training dummy is made entirely of [[dead matter]].<ref name="cradle-08-wintersteel-c1">''Wintersteel'', chapter 1</ref>}}</li>
 </ul></div>
 
 == Notes ==

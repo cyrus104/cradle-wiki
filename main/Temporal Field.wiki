@@ -9,20 +9,20 @@
 {{spoiler|book=lh-04-the-pilot|A Temporal Field is a specialized form of masterwork [[Aethertech]] that alters an individual's relationship to time. When activated, the field causes the surrounding world to slow down significantly or stop entirely from the user's perspective. This allows the user to move at high speeds relative to others, effectively granting them superior reaction times and the ability to perform actions while time remains frozen. Objects or people that the user personally interacts with become subject to their movements, whereas everything else remains locked in place until the field is deactivated. While the ability can be enhanced by sacrificing system power to reach extreme levels of temporal distortion, it is subject to certain restrictions. For some users, such as those with human minds, the field can only be utilized in brief intervals. The technology is complex to [[construct]], requiring components like a [[Temporal Prism]].}}
 
 == The Engineer ==
-{{spoiler|book=lh-02-the-engineer|The Temporal Field is an [[Aether]]-dependent system used as a [[technique]] to manipulate relative time. This method slows the world surrounding the user and can provide warnings, though it also interferes with camera footage. By realigning a being's relationship to time, the field allows them to move faster than others. Furthermore, anything a user personally interacts with becomes subject to their actions while the field is active. Both [[Sola Kalter|Sola]] and [[Starhammer]] are known to possess this [[technique]].}}
+{{spoiler|book=lh-02-the-engineer|The Temporal Field is an [[Aether]]-dependent system used as a technique to manipulate relative time. This method slows the world surrounding the user and can provide warnings, though it also interferes with camera footage. By realigning a being's relationship to time, the field allows them to move faster than others. Furthermore, anything a user personally interacts with becomes subject to their actions while the field is active. Both [[Sola Kalter|Sola]] and [[Starhammer]] are known to possess this technique.}}
 
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">10</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=lh-02-the-engineer|The [[Temporal Field]] is a [[technique]] that slows the world around the user.<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Temporal Field]] is a technique that slows the world around the user.<ref name="lh-02-the-engineer-c8">''The Engineer'', chapter 8</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Temporal Field]] interferes with camera footage.<ref name="lh-02-the-engineer-c14">''The Engineer'', chapter 14</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Temporal Field]] can provide warnings.<ref name="lh-02-the-engineer-c14" />}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|A [[Temporal Field]] can alter a being's relationship to time, allowing them to move faster than others.<ref name="lh-02-the-engineer-c16">''The Engineer'', chapter 16</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Temporal Field]] realigns the user's relationship to time.<ref name="lh-02-the-engineer-c31">''The Engineer'', chapter 31</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|[[Starhammer]] possesses a [[Temporal Field]].<ref name="lh-02-the-engineer-c36">''The Engineer'', chapter 36</ref>}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|The [[Temporal Field]] is a [[technique]] that can be used to manipulate relative time.<ref name="lh-02-the-engineer-c37">''The Engineer'', chapter 37</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|The [[Temporal Field]] is a technique that can be used to manipulate relative time.<ref name="lh-02-the-engineer-c37">''The Engineer'', chapter 37</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|Under the effects of a [[Temporal Field]], anything personally interacted with becomes subject to the user's actions.<ref name="lh-02-the-engineer-c47">''The Engineer'', chapter 47</ref>}}</li>
 <li>{{spoiler|book=lh-02-the-engineer|The [[Temporal Field]] is an [[Aether]]-dependent system.<ref name="lh-02-the-engineer-c47" />}}</li>
-<li>{{spoiler|book=lh-02-the-engineer|[[Temporal Field]] is a [[technique]] used by [[Sola Kalter|Sola]].<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
+<li>{{spoiler|book=lh-02-the-engineer|[[Temporal Field]] is a technique used by [[Sola Kalter|Sola]].<ref name="lh-02-the-engineer-c52">''The Engineer'', chapter 52</ref>}}</li>
 </ul></div>
 
 == The Pilot ==

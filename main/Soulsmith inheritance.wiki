@@ -13,7 +13,7 @@
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">2</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
 <li>{{spoiler|book=cradle-11-dreadgod|A true [[Soulsmith inheritance]] is not a simple [[dream tablets|dream tablet]].<ref name="cradle-11-dreadgod-c2">''Dreadgod'', chapter 2</ref>}}</li>
-<li>{{spoiler|book=cradle-11-dreadgod|An [[inheritance]] settles much deeper than an ordinary [[dream tablets|dream tablet]].<ref name="cradle-11-dreadgod-c2" />}}</li>
+<li>{{spoiler|book=cradle-11-dreadgod|An inheritance settles much deeper than an ordinary [[dream tablets|dream tablet]].<ref name="cradle-11-dreadgod-c2" />}}</li>
 </ul></div>
 
 == Waybound ==

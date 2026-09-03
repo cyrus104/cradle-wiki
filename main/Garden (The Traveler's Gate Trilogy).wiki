@@ -8,7 +8,7 @@
 == House of Blades ==
 <div class="wv-facts mw-collapsible mw-collapsed"><div class="wv-facts-head mw-collapsible-toggle">Sourced facts <span class="wv-facts-count">1</span></div>
 <ul class="wv-fact-list mw-collapsible-content">
-<li>{{spoiler|book=tg-01-house-of-blades|The garden is a room within [[the House]] that provides food and [[water]].<ref name="tg-01-house-of-blades-c6">''House of Blades'', chapter 6</ref>}}</li>
+<li>{{spoiler|book=tg-01-house-of-blades|The garden is a room within [[the House]] that provides food and water.<ref name="tg-01-house-of-blades-c6">''House of Blades'', chapter 6</ref>}}</li>
 </ul></div>
 
 == City of Light ==

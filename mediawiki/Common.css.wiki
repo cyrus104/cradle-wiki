@@ -272,3 +272,7 @@ ul.wv-fact-list > li::before { content: "❧"; position: absolute; left: 0; top:
   color: #3a4256; border-left: 3px solid #c9a227; padding: .35em 0 .35em .9em;
   margin: .2em 0 1.1em; max-width: 46em; }
 .wv-epigraph-cite { font-style: normal; font-size: 82%; color: #6b7280; margin-top: .25em; }
+
+/* Roster tables on magic-system pages (pipeline/roster.py) */
+table.wv-roster td:first-child { white-space: nowrap; font-weight: 600; }
+table.wv-roster td:last-child { font-size: 95%; }
